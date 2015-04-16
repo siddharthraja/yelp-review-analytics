@@ -1,0 +1,151 @@
+<html>
+<head>
+	<title>PoloLens</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+	<!--<link rel="stylesheet" type="text/css" href="css/nv.d3.css">
+	<script src="js/nv.d3.min.js"></script>-->
+	<script src="js/jquery-2.1.3.min.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<script src="js/d3.v3.min.js"></script>
+	<script src="js/d3-tip.js"></script>
+
+</head>
+<style>
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.link {
+  fill: none;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+circle {
+  fill: #ccc;  
+}
+
+/*
+.barz rect {
+  fill: #3366CC;
+  shape-rendering: crispEdges;  
+}
+
+.barz text {
+  fill: #fff;
+}
+
+.bar text {
+  fill: #029eca;
+}
+
+.axis text {
+	font: 10px sans-serif;
+}
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+  text-color:white;
+  size: 10px;
+}
+.x-axis path, .x-axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+  text-color:white;
+}
+*/
+.discreteBar {
+	fill:#1f77b4;
+}
+
+.d3-tip {
+  line-height: 1;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  font: 12px sans-serif;
+  font-weight: bold;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+.bubble{
+cursor:pointer;
+}
+</style>
+<body style="background-color:#F8F8F5;">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        
+            <div class="navbar-header">
+				<a class="navbar-brand" href="#" style="color:#C8C8C8;margin-left:0px;"><b>PoloLens</b></a>
+            </div>
+            
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<a class="navbar-brand" href="#" style="margin-left:100px;" onclick="toggleView(1)"><b>Main</b></a>
+				<a class="navbar-brand" href="#" style="margin-left:50px" onclick="toggleView(2)"><b>Review Vis</b></a>
+
+			</div>
+            
+    </nav>
+	
+
+	
+	
+<script>
+	function toggleView(selectedView){		
+/* 		if(selectedView==1){
+			$("#encounterLevel").removeClass("hide");
+			$("#encounterLevel").addClass("show");
+			
+			$("#careflowlevel").removeClass("show");
+			$("#careflowlevel").addClass("hide");
+
+			$("#providerlevel").removeClass("show");
+			$("#providerlevel").addClass("hide");			
+		}else if(selectedView==2){
+			$("#encounterLevel").removeClass("show");
+			$("#encounterLevel").addClass("hide");
+
+			$("#careflowlevel").removeClass("hide");
+			$("#careflowlevel").addClass("show");
+
+			$("#providerlevel").removeClass("show");
+			$("#providerlevel").addClass("hide");			
+		}else if(selectedView==3){
+			$("#encounterLevel").removeClass("show");
+			$("#encounterLevel").addClass("hide");
+
+			$("#careflowlevel").removeClass("show");
+			$("#careflowlevel").addClass("hide");			
+
+			$("#providerlevel").removeClass("hide");
+			$("#providerlevel").addClass("show");		
+
+		} */
+			
+	}
+</script>
+</body>
+</html>
