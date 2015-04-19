@@ -9,8 +9,13 @@
 	<script src="js/bootstrap.js"></script>
 	<script src="js/d3.v3.min.js"></script>
 	<script src="js/d3-tip.js"></script>
+	<script type='text/javascript' src='http://code.jquery.com/jquery-1.7.1.js'></script>
+  
+  
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script>
+  
+  
 
-</head>
 <style>
 
 body {
@@ -58,6 +63,14 @@ circle {
   text-color:white;
 }
 */
+ th,tr, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
 .discreteBar {
 	fill:#1f77b4;
 }
@@ -93,6 +106,49 @@ circle {
 }
 .bubble{
 cursor:pointer;
+}
+input {
+    border:1px solid #cccccc;
+    border-radius: 3px 3px 3px 3px;
+    width: 370px;
+    padding: 9px 9px 9px 9px;
+    margin: 3px 0px 3px 3px;
+    color: #e1e1e1;
+}
+    
+input:focus {
+    border-color:#00cc33;
+    box-shadow:0 0 10px #d5d5d9;
+    -webkit-box-shadow:outset 0 1px 9px #d5d5d9;
+    -moz-box-shadow:outset 0 1px 9px #d5d5d9;
+    color:  #676767;
+}
+
+/* min Jquery CSS elements for autocomplete */
+.ui-autocomplete { position: absolute; cursor: default; }    
+.ui-menu { list-style:none; padding: 2px; margin: 0; display:block; float: left; background-color:#f9f9f9; border: 1px solid #efefef; border-radius: 3px 3px 3px 3px; }
+
+.ui-menu .ui-menu {
+        margin-top: -3px;
+}
+.ui-menu .ui-menu-item {
+        margin:0;
+        padding: 0;
+        zoom: 1;
+        float: left;
+        clear: left;
+        width: 100%;
+        font-family:arial;
+}
+.ui-menu .ui-menu-item a {
+        text-decoration:none;
+        display:block;
+        padding:.1em .3em;
+        line-height:1.5;
+        zoom:1;
+}
+.ui-menu .ui-menu-item a.ui-state-hover, .ui-menu .ui-menu-item a.ui-state-active {
+        font-weight: bold;
 }
 </style>
 <body style="background-color:#F8F8F5;">
@@ -147,5 +203,72 @@ cursor:pointer;
 			
 	}
 </script>
+<script>
+
+</script>
+<script type='text/javascript'>//<![CDATA[ 
+var categories = [];
+var categories_json = null;
+function showBusinesses()
+	{
+		category = document.getElementById('tags').value
+		//alert(category)
+		//alert(categories_json[category][0]['name'])
+		var str = '<b>Search Results</b><br/><br/>'
+		for(i = 0; i < categories_json[category].length; i++)
+		{
+			str += categories_json[category][i]['name']+ "<br/>";
+		}
+		document.getElementById('results_div').innerHTML = str;
+		
+	}
+$(function(){
+$(document).ready(function() {
+    
+    
+    
+    $.get('yelp_business_categories.json', function(data) {
+    	
+
+     	categories_json = JSON.parse(data)
+     	//categories = []
+     	
+     	for(category in categories_json)
+     	{
+     		categories.push(category);
+     	}
+     	
+    $( "#tags" ).autocomplete({
+        source: categories
+    });
+    }, 'text');
+    
+    
+});
+});//]]>  
+
+</script>
+</head>
+<body>
+	<table  >
+		<tr>
+			<td valign = 'top'>
+				<div id = 'query_div'>
+					Enter search category <br/>
+				  <input type='text' title='Tags' id='tags' /><br/>
+				  <button style="width:375;height:50" id = 'getCategory' onclick ="showBusinesses()">Find Businesses</button>
+				</div>
+			</td>
+			<td>
+				<div id ="results_div">
+					Search Results
+				</div>
+			</td>
+
+		</tr>
+	</table>
+
+  
 </body>
+
 </html>
