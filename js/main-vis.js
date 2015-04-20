@@ -1,30 +1,5 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
+function createVis(business_id){
 
-body {
-  font: 10px sans-serif;
-}
-
-.label {
-  font-weight: bold;
-}
-
-.tile {
-  shape-rendering: crispEdges;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-</style>
-<body>
-<script src="js/d3.v3.min.js"></script>
-<script>
 
 var margin = {top: 20, right: 90, bottom: 30, left: 50},
     width = 960 - margin.left - margin.right,
@@ -42,7 +17,7 @@ var x = d3.time.scale().range([0, width]),
 var xStep = 864e5,
     yStep = 100;
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#VisBody").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -129,4 +104,8 @@ d3.csv("data/data.csv", function(buckets) {
       .text("Value");
 });
 
-</script>
+
+
+
+// end createVis function
+}
