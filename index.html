@@ -169,7 +169,7 @@ input:focus {
 	
 	<div id="SearchBox">
 		<div id = 'query_div'>
-			Enter search category <br/>
+			Enter business category <br/>
 			<input type='text' title='Tags' id='tags' />
 			<button style="margin-left:10px;height:40" id = 'getCategory' onclick ="showBusinesses()">Search</button>
 		</div>
@@ -180,17 +180,30 @@ input:focus {
 
 	</div>
 	<div id="VisSection" class="hide">
-		<h3>Select a business to <i><b>see</b></i> its review</h3>
-		<div id="markovviz" style="height:50%;width:80%;float:left;"></div>	
+		<h3 id="VisSectionHeader">Select a business to <i><b>see</b></i> its review</h3>
+		<div id="VisBody">
+			
+		</div>
 	</div>
 	
 </body>	
 <script>
+var currentBiz = "None";
+function createBizVis(bizName){
+		$("#VisSection").removeClass("hide");
+		$("#VisSection").addClass("show");
+		$("#VisSectionHeader").html(bizName);
+		currentBiz = bizName;
+		$("#SearchBox").removeClass("show");
+		$("#SearchBox").addClass("hide");
+
+}
+
 function toggleView(selectedView){		
 	if(selectedView=="vis"){
 		$("#VisSection").removeClass("hide");
 		$("#VisSection").addClass("show");
-		
+
 		$("#SearchBox").removeClass("show");
 		$("#SearchBox").addClass("hide");
 	
@@ -199,20 +212,10 @@ function toggleView(selectedView){
 		$("#SearchBox").addClass("show");
 
 		$("#VisSection").removeClass("show");
-		$("#VisSection").addClass("hide");
-	
-	}
-		
+		$("#VisSection").addClass("hide");		
+	}		
 }
-/*
-var searchResultLink = document.getElementById('searchRes');
-searchResultLink.onclick = showVis;
 
-
-function showVis() {
-  toggleView("vis");
-}
-*/
 var categories = [];
 var categories_json = null;
 function showBusinesses()
@@ -229,7 +232,8 @@ function showBusinesses()
 			if(count%30==0){
 				str+="</ul></td><td style=\"vertical-align:top;\"><ul>";
 			}
-			str += "<li><a id=\"searchRes\" href=\"#\" onclick=\'toggleView(\"vis\");\'>" + categories_json[category][i]['name'] + "</a></li>";
+			name = categories_json[category][i]['name'];
+			str += "<li><a id=\"searchRes\" href=\"#\" onclick=\'createBizVis(\""+name+"\");\'>" + name + "</a></li>";
 		}
 		str+="</ul></td></tr></table><br/>";
 		str = '<br/><b>Search Results</b> ('+ count + ' results retrieved)<br/><br/>' + str;
