@@ -62,7 +62,7 @@ circle {
   shape-rendering: crispEdges;
   text-color:white;
 }
-*/
+
  th,tr, td {
     border: 3px solid black;
     border-collapse: collapse;
@@ -70,7 +70,7 @@ circle {
     padding-bottom: 10px;
     padding-left: 100px;
     padding-right: 100px;
-}
+}*/
 .discreteBar {
 	fill:#1f77b4;
 }
@@ -151,6 +151,7 @@ input:focus {
         font-weight: bold;
 }
 </style>
+</head>
 <body style="background-color:#F8F8F5;">
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         
@@ -159,54 +160,59 @@ input:focus {
             </div>
             
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-				<a class="navbar-brand" href="#" style="margin-left:100px;" onclick="toggleView(1)"><b>Main</b></a>
-				<a class="navbar-brand" href="#" style="margin-left:50px" onclick="toggleView(2)"><b>Review Vis</b></a>
+				<a class="navbar-brand" href="#" style="margin-left:100px;" onclick="toggleView('search')"><b>Main</b></a>
+				<a class="navbar-brand" href="#" style="margin-left:50px" onclick="toggleView('vis')"><b>Review Vis</b></a>
 
 			</div>
             
     </nav>
 	
+	<div id="SearchBox">
+		<div id = 'query_div'>
+			Enter search category <br/>
+			<input type='text' title='Tags' id='tags' />
+			<button style="margin-left:10px;height:40" id = 'getCategory' onclick ="showBusinesses()">Search</button>
+		</div>
 
+		<div id ="results_div">
+			<br /><b>Search Results</b>
+		</div>
+
+	</div>
+	<div id="VisSection" class="hide">
+		<h3>Select a business to <i><b>see</b></i> its review</h3>
+		<div id="markovviz" style="height:50%;width:80%;float:left;"></div>	
+	</div>
 	
-	
+</body>	
 <script>
-	function toggleView(selectedView){		
-/* 		if(selectedView==1){
-			$("#encounterLevel").removeClass("hide");
-			$("#encounterLevel").addClass("show");
-			
-			$("#careflowlevel").removeClass("show");
-			$("#careflowlevel").addClass("hide");
+function toggleView(selectedView){		
+	if(selectedView=="vis"){
+		$("#VisSection").removeClass("hide");
+		$("#VisSection").addClass("show");
+		
+		$("#SearchBox").removeClass("show");
+		$("#SearchBox").addClass("hide");
+	
+	}else if(selectedView=="search"){
+		$("#SearchBox").removeClass("hide");
+		$("#SearchBox").addClass("show");
 
-			$("#providerlevel").removeClass("show");
-			$("#providerlevel").addClass("hide");			
-		}else if(selectedView==2){
-			$("#encounterLevel").removeClass("show");
-			$("#encounterLevel").addClass("hide");
-
-			$("#careflowlevel").removeClass("hide");
-			$("#careflowlevel").addClass("show");
-
-			$("#providerlevel").removeClass("show");
-			$("#providerlevel").addClass("hide");			
-		}else if(selectedView==3){
-			$("#encounterLevel").removeClass("show");
-			$("#encounterLevel").addClass("hide");
-
-			$("#careflowlevel").removeClass("show");
-			$("#careflowlevel").addClass("hide");			
-
-			$("#providerlevel").removeClass("hide");
-			$("#providerlevel").addClass("show");		
-
-		} */
-			
+		$("#VisSection").removeClass("show");
+		$("#VisSection").addClass("hide");
+	
 	}
-</script>
-<script>
+		
+}
+/*
+var searchResultLink = document.getElementById('searchRes');
+searchResultLink.onclick = showVis;
 
-</script>
-<script type='text/javascript'>//<![CDATA[ 
+
+function showVis() {
+  toggleView("vis");
+}
+*/
 var categories = [];
 var categories_json = null;
 function showBusinesses()
@@ -214,11 +220,19 @@ function showBusinesses()
 		category = document.getElementById('tags').value
 		//alert(category)
 		//alert(categories_json[category][0]['name'])
-		var str = '<b>Search Results</b><br/><br/>'
+		var count = 0;
+		var str = '';
+		str += "<table><tr><td style=\"vertical-align:top;\"><ul>";
 		for(i = 0; i < categories_json[category].length; i++)
-		{
-			str += categories_json[category][i]['name']+ "<br/>";
+		{	
+			count++;
+			if(count%30==0){
+				str+="</ul></td><td style=\"vertical-align:top;\"><ul>";
+			}
+			str += "<li><a id=\"searchRes\" href=\"#\" onclick=\'toggleView(\"vis\");\'>" + categories_json[category][i]['name'] + "</a></li>";
 		}
+		str+="</ul></td></tr></table><br/>";
+		str = '<br/><b>Search Results</b> ('+ count + ' results retrieved)<br/><br/>' + str;
 		document.getElementById('results_div').innerHTML = str;
 		
 	}
@@ -227,7 +241,7 @@ $(document).ready(function() {
     
     
     
-    $.get('yelp_business_categories.json', function(data) {
+    $.get('data/yelp_business_categories.json', function(data) {
     	
 
      	categories_json = JSON.parse(data)
@@ -245,30 +259,7 @@ $(document).ready(function() {
     
     
 });
-});//]]>  
+});
 
 </script>
-</head>
-<body>
-	<table  >
-		<tr>
-			<td valign = 'top'>
-				<div id = 'query_div'>
-					Enter search category <br/>
-				  	<input type='text' title='Tags' id='tags' /><br/>
-				  	<button style="width:375;height:50" id = 'getCategory' onclick ="showBusinesses()">Find Businesses</button>
-				</div>
-			</td>
-			<td>
-				<div id ="results_div">
-					Search Results
-				</div>
-			</td>
-
-		</tr>
-	</table>
-
-  
-</body>
-
 </html>
