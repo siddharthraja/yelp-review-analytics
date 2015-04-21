@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, double chicken wings, 0.902545, 0
+1, frozen over-breaded type, 0.888164, 0
+1, boneless wings, 0.991027, 1
+1, double boneless wings, 0.95181, 1
+1, happy hour appetizers, 0.740374, 2
+1, Happy hour specials, 0.691201, 2
+1, Garlic Parmesan fries, 0.941701, 3
+1, chicken wings, 0.931347, 3
+1, onion rings, 0.880513, 5
+1, Saturday evening, 0.694912, 6
+1, dinner, 0.452177, 6
+1, grace, 0.457576, 8
+1, people, 0.457427, 8
+2, chicken wings, 0.719591, 0
+2, Poor business planning, 0.681663, 0
+2, popcorn chicken, 0.544907, 1
+2, old sleeping, 0.536327, 1
+2, dry rubs, 0.711689, 2
+2, better wings, 0.688805, 2
+2, Bloody Mary, 0.545866, 3
+2, Needs color, 0.537066, 3
+2, food, 0.590441, 4
+2, wings, 0.922212, 5
+2, place, 0.745727, 6
+2, better\winning approach, 0.565137, 6
+2, Garlic Parmesan sauce, 0.718703, 7
+2, Deep South heart, 0.655824, 7
+2, boneless wings, 0.773568, 8
+2, Citrus Ice Tea, 0.663845, 8
+2, drink order, 0.549204, 9
+3, Cuba Libra, 0.653287, 0
+3, Hurricane Grill, 0.633354, 0
+3, Fries, 0.385212, 1
+3, Cajun chili burger, 0.961549, 2
+3, low sounding reggae, 0.927908, 2
+3, sports bar, 0.661354, 3
+3, happy hour menu, 0.617216, 3
+3, buckets, 0.45729, 6
+3, entrees, 0.368651, 6
+3, food, 0.72063, 7
+3, good time, 0.582709, 7
+3, overly sweet dressing, 0.985419, 8
+3, ice cold beer, 0.874209, 8
+3, moist chicken, 0.69469, 9
+3, fresh salad, 0.678352, 9
+4, boneless wings, 0.631826, 0
+4, hot sauce, 0.613981, 0
+4, hot wing sauce, 0.931129, 1
+4, extra hot wing, 0.673778, 1
+4, spicy shrimp tacos, 0.685015, 2
+4, sirloin dinners, 0.571725, 2
+4, caramel crumble cake, 0.696515, 3
+4, signature sauces, 0.558211, 3
+4, waitress, 0.525337, 5
+4, cent wings, 0.636963, 6
+4, beer mixers, 0.557965, 6
+4, World Series game, 0.708254, 7
+4, great place, 0.586274, 7
+4, wings, 0.799138, 8
+4, chipotle raspberry wings, 0.763666, 8
+4, Super friendly staff, 0.677288, 9
+4, sports viewing option, 0.647164, 9
+5, dollar FIREBALL, 0.713083, 0
+5, dollar burgers, 0.706521, 0
+5, Cent Wings Boneless, 0.988216, 2
+5, smoking patio, 0.70036, 2
+5, Monday, 0.56265, 3
+5, Thursday, 0.562305, 3
+5, brand new establishment, 0.866345, 6
+5, Coors Light Draft, 0.840292, 6
+5, Great Service, 0.720144, 7
+5, quick lunch, 0.715965, 7
+5, Great food selection, 0.919307, 8
+5, butter parmesan sauce, 0.890195, 8
+5, great weekly specials, 0.858676, 9
+5, Great wings, 0.856312, 9

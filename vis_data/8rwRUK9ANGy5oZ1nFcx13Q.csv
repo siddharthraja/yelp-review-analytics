@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+3, Single Barrel whiskey, 0.901693, 0
+3, El Cortez Cabana, 0.892919, 0
+3, cheap amaretto substitute, 0.897345, 1
+3, would-be White Russian, 0.880437, 1
+3, customer service, 0.911602, 2
+3, fairly short order, 0.909554, 2
+3, White Russian, 0.98565, 3
+3, drink order, 0.840752, 3
+3, time, 0.831632, 4
+3, bartender, 0.870121, 5
+3, espresso liqueur aftertaste, 0.898891, 6
+3, one-and-only classic brand, 0.881932, 6
+3, chilled double DiSaronno, 0.921727, 7
+3, Craft Cocktail lounge, 0.895702, 7
+3, amaretto liqueur, 0.904173, 8
+3, super nice Filipino, 0.915979, 9
+3, pretty amazing drinks, 0.882445, 9
+4, cozy bar, 0.502141, 0
+4, Las Vegas, 0.482767, 0
+4, container park, 0.490185, 2
+4, Christmas eve, 0.508804, 3
+4, hip bar, 0.492337, 3
+4, Wonder Fizz, 0.573263, 7
+4, nice specialty cocktails, 0.985438, 8
+4, Cool little spot, 0.96351, 8
+4, cool decor, 0.608585, 9
+4, good spot, 0.553676, 9
+5, Great little bar, 0.61094, 0
+5, container village, 0.525672, 0
+5, star experience, 0.52289, 1
+5, Ramos Gin Fizz, 0.602309, 2
+5, Seriously- hand-crushed ice, 0.576731, 3
+5, gin fizz, 0.617613, 5
+5, craft cocktail establishments, 0.648542, 6
+5, perfect mule cocktail, 0.647945, 6
+5, container park, 0.937804, 7
+5, craft beer selection, 0.611537, 7
+5, craft cocktails, 0.760139, 8
+5, drinks, 0.663656, 8
+5, Great craft cocktails, 0.710191, 9
+5, fun bartender Pinto, 0.69178, 9

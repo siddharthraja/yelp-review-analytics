@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, chicken bbq sandwich, 0.74114, 0
+1, unknown chicken parts, 0.724224, 0
+1, Rotisserie chicken, 0.629638, 1
+1, Chick Rotisserie, 0.53727, 1
+1, thier chicken, 0.627692, 2
+1, place, 0.53872, 3
+1, food, 0.517936, 3
+1, chicken, 0.967999, 4
+1, cobb salad, 0.770633, 4
+1, wine, 0.514785, 5
+1, barbecue chicken, 0.615762, 6
+1, greater options, 0.512493, 6
+1, Garlic Cream Sauce, 0.583696, 7
+1, good luck, 0.518066, 7
+1, mashed potatoes, 0.647154, 8
+1, steak dinner, 0.506442, 8
+1, cute space, 0.518183, 9
+1, nice bar, 0.514249, 9
+2, organic mesquite chicken, 0.753558, 0
+2, quarter chicken portions, 0.705176, 0
+2, chickpea side dish, 0.531877, 1
+2, sour cream, 0.638641, 2
+2, white-meat chicken, 0.624432, 2
+2, kitchen/server mishaps, 0.528928, 3
+2, wine drinker, 0.519852, 3
+2, chicken, 0.937744, 4
+2, potatoes, 0.721846, 4
+2, place, 0.613007, 5
+2, quarter chicken, 0.816803, 6
+2, Boston Market, 0.748746, 6
+2, regular whipped potatoes, 0.702011, 7
+2, true jerk sauce, 0.621771, 7
+2, honey truffle sauce, 0.825511, 8
+2, burger place, 0.548055, 8
+3, quarter chicken, 0.63899, 0
+3, main entree, 0.575408, 0
+3, lower expectations, 0.731251, 1
+3, friend, 0.477507, 1
+3, little balls, 0.746766, 2
+3, sorts, 0.434876, 2
+3, chicken, 0.904949, 3
+3, truffle marinade, 0.764635, 3
+3, place, 0.720508, 5
+3, dessert, 0.538882, 5
+3, peach cobbler, 0.608649, 6
+3, great atmosphere, 0.566117, 6
+3, high hopes, 0.58829, 7
+3, friends, 0.475964, 7
+3, damn good chicken, 0.746169, 8
+3, great things, 0.577641, 8
+3, super cute, 0.561856, 9
+3, menu, 0.435653, 9
+4, potato bar, 0.934259, 0
+4, ladies night dinner, 0.834373, 0
+4, little bit salty, 0.842306, 1
+4, slow night, 0.798637, 1
+4, leather bound binder, 0.854741, 2
+4, mesquite sour cream, 0.853275, 2
+4, Market rotisserie chicken, 0.900281, 3
+4, iced tea glass, 0.872152, 3
+4, food, 0.91467, 5
+4, restaurant, 0.809672, 5
+4, fried pickle chips, 0.981514, 6
+4, BBQ Chicken sandwich, 0.900473, 6
+4, rotisserie chicken, 0.958262, 7
+4, glass, 0.907728, 7
+4, delicious cheese sauce, 0.872734, 8
+4, chilled red wine, 0.866294, 8
+4, definite food safety, 0.885355, 9
+4, lemon herb sauce, 0.858619, 9
+5, Chick Rotisserie, 0.5666, 0
+5, peach liquor, 0.553084, 0
+5, negative reviews, 0.683933, 1
+5, nut allergies, 0.543774, 1
+5, delicious dining, 0.582438, 2
+5, creamy garlic sauce, 0.670057, 3
+5, chipotle sour cream, 0.660109, 3
+5, peach barbeque sauce, 0.697452, 6
+5, Cobbler petite pie, 0.670804, 6
+5, cinnamon bun, 0.705832, 7
+5, Chick Cinnamon Bun, 0.705423, 7
+5, black truffle chicken, 0.903938, 8
+5, half Black Truffle, 0.690009, 8
+5, half chicken, 0.760061, 9
+5, to-go box, 0.55163, 9

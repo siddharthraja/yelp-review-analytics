@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, Multiple unnecessary comments, 0.924042, 0
+1, local sports bar, 0.905897, 0
+1, bartender Danielle, 0.780479, 1
+1, overall experience, 0.643961, 1
+1, hang, 0.385664, 2
+1, impression, 0.383341, 2
+1, horrible attitude, 0.697315, 3
+1, Broncos game, 0.653503, 3
+1, vapor cigarettes, 0.773787, 6
+1, staff, 0.372285, 7
+2, drinks, 0.63632, 0
+2, french fries, 0.955901, 3
+2, different things, 0.862248, 3
+2, beers, 0.64638, 7
+2, place, 0.571715, 7
+3, decent place, 0.643406, 0
+3, horse betting, 0.617356, 0
+3, typical bar food, 0.847815, 1
+3, matter, 0.274391, 2
+3, Cheap beer, 0.685092, 3
+3, time, 0.325863, 3
+3, New HD TVs, 0.982794, 6
+3, night NFL, 0.63108, 6
+3, Great bar service, 0.861793, 7
+3, waterfront view, 0.625203, 7
+3, clam chowder, 0.710423, 9
+3, nachos, 0.331314, 9
+4, domestic pints, 0.654476, 0
+4, gameday special, 0.649567, 0
+4, little bit, 0.645615, 2
+4, cardinals bar, 0.638957, 2
+4, little bonus feature, 0.752513, 3
+4, locally owned sports, 0.75042, 3
+4, sports bar, 0.875594, 6
+4, pepper jack cheese, 0.777306, 6
+4, pool tables, 0.910643, 7
+4, pretty simple place, 0.854671, 7
+4, good sports bar, 0.773273, 8
+4, Nice servers., 0.677783, 8
+4, pretty good variety, 0.864496, 9
+4, TVS NICE  location, 0.804217, 9
+5, service, 0.272411, 0
+5, cheap tacos, 0.706993, 3
+5, Corona, 0.29668, 3
+5, bar, 0.344853, 5
+5, new ownership, 0.630208, 6
+5, huge packer fan, 0.972646, 7
+5, New remodel, 0.674519, 7
+5, .their prices, 0.63789, 8
+5, A++.  Looking, 0.627443, 8
+5, rare hockey fan, 0.868545, 9
+5, fun atmosphere, 0.679696, 9

@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+1, Bye trib, 0.768741, 0
+1, cities, 0.464284, 0
+1, live music, 0.93081, 1
+1, expensive sports arena, 0.891271, 1
+1, eat crappy food, 0.941932, 2
+1, Great place, 0.691683, 2
+1, Tribune review, 0.715087, 3
+1, folks, 0.476633, 3
+4, Station Square, 0.945596, 0
+4, Total Media Amphitheatre, 0.835577, 0
+4, IC Light Amphitheatre, 0.832514, 2
+4, temporary looking stage, 0.686477, 2
+4, old classics, 0.464858, 3
+4, REO, 0.335083, 3
+4, Spectacular Spinning Songbook, 0.64212, 6
+4, Melody Amphitheatre, 0.628439, 6
+4, Chevrolet Amphitheatre, 0.62727, 7
+4, Declan McManus, 0.502537, 7
+4, nice little facility, 0.670983, 8
+4, faithful music fans, 0.641758, 8

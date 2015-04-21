@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+1, Boring production, 0.95282, 0
+1, dear friend, 0.950899, 1
+1, fest, 0.412582, 1
+1, time, 0.684965, 2
+1, turd, 0.501747, 2
+1, Danny Z Productions, 0.886354, 3
+1, double-talking con man, 0.853261, 3
+3, pre recorded music, 0.904985, 0
+3, banquet chairs, 0.70078, 0
+3, rack rate, 0.673848, 2
+3, Broadway Rat Pack, 0.956933, 3
+3, queens, 0.469862, 3
+3, Dean Martin, 0.658196, 6
+3, Sinatra, 0.473099, 7
+3, performances, 0.441244, 7
+3, original RP Sammy, 0.920876, 8
+3, Davis jr, 0.642983, 8
+3, highly discounted ticket, 0.902999, 9
+4, pale substitute, 0.592129, 0
+4, San Francisco, 0.55957, 0
+4, poor young thangs, 0.767252, 1
+4, old fogies, 0.577409, 1
+4, real Rat Pack, 0.75386, 2
+4, Sammy Davis, 0.628632, 2
+4, rat pack, 0.955077, 6
+4, cutie petuties, 0.616458, 6
+4, intimate venue, 0.623413, 7
+4, new kid, 0.575683, 7
+4, Elvis tribute artist, 0.714682, 8
+4, unusual juxtaposition, 0.590456, 8
+4, refreshing change, 0.581514, 9

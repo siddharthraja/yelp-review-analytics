@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+2, good quality pint, 0.946296, 0
+2, McDonaldsesque fries, 0.701398, 0
+2, promise, 0.357991, 6
+2, chips, 0.334219, 6
+2, Belhaven Best, 0.753817, 7
+2, Friday night, 0.669809, 7
+4, onion rings, 0.622905, 0
+4, large platters, 0.616376, 0
+4, shabby-chic bar, 0.600499, 2
+4, thing, 0.288668, 3
+4, kind, 0.273957, 3
+4, cask ales, 0.767636, 6
+4, nice selection, 0.621108, 8
+4, regular menu items, 0.945791, 9
+4, tasty ale, 0.656315, 9
+5, place, 0.379534, 0
+5, problem, 0.245651, 0
+5, tourists, 0.321027, 2
+5, Edinburgh, 0.257418, 2
+5, Whisky Fringe, 0.909837, 4
+5, Went, 0.293828, 4
+5, comfy seats, 0.892139, 7
+5, folks, 0.294793, 7
+5, Great decor, 0.763103, 8
+5, excellent offers, 0.836011, 9
+5, good beers, 0.795025, 9

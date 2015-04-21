@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, cheese whiz cheese, 0.745456, 0
+1, clear host station, 0.72385, 0
+1, dry chicken shits, 0.82799, 1
+1, club scams people, 0.738313, 1
+1, bouncer guy, 0.742048, 2
+1, preset spending limit, 0.737441, 2
+1, appetizer plate, 0.771282, 3
+1, prime seating area, 0.735649, 3
+1, people, 0.779129, 4
+1, drinks, 0.726012, 4
+1, place, 0.936421, 5
+1, prime seating, 0.774978, 5
+1, buffalo dipping sauce, 0.72103, 6
+1, cheese bread, 0.715708, 6
+1, good time, 0.746466, 7
+1, good thing, 0.692981, 7
+1, pretty good time, 0.745181, 8
+1, ride place, 0.70836, 8
+1, big screen TVs, 0.741366, 9
+1, nicely furnished rooms, 0.740656, 9
+2, sorry ass drink, 0.876318, 0
+2, theater size screen, 0.840769, 0
+2, sports bar, 0.894407, 1
+2, constant rap music, 0.854713, 1
+2, dance floor, 0.923132, 2
+2, huge flat screen, 0.856774, 2
+2, minimum purchase requirements, 0.845133, 3
+2, tiny dance floor, 0.826772, 3
+2, place, 0.864131, 4
+2, drinks, 0.811683, 4
+2, club, 0.97989, 5
+2, main seating area, 0.846607, 6
+2, big pimpin, 0.844503, 6
+2, avid sports fan, 0.846156, 8
+2, beautiful club, 0.789688, 8
+3, Uber sports bar, 0.818828, 0
+3, foot big screen, 0.813931, 0
+3, small Asian girls, 0.79319, 1
+3, Thursday night, 0.708693, 2
+3, team party, 0.705039, 2
+3, dance floor, 0.810169, 3
+3, f*ckin drinks, 0.724217, 3
+3, night, 0.724885, 4
+3, place, 0.895833, 5
+3, club, 0.723086, 5
+3, sports bar, 0.915221, 6
+3, Make-you-nauseated loud, 0.749376, 6
+3, huge ultra lounge, 0.790714, 7
+3, sports book, 0.772335, 7
+3, awesome place, 0.741322, 8
+3, big game, 0.720609, 8
+3, Happy Birthday Davy, 0.794734, 9
+4, drink menu, 0.677662, 0
+4, moments, 0.442024, 0
+4, shit, 0.47141, 1
+4, damn thing, 0.652997, 2
+4, sports bar, 0.642894, 2
+4, Cristal bottles poppin, 0.878355, 3
+4, ass flat screen, 0.872323, 3
+4, checking IDs, 0.654475, 4
+4, cover, 0.441225, 4
+4, middle, 0.530506, 5
+4, free Pac Man, 0.87105, 6
+4, nice sound, 0.684591, 6
+4, nice comfortable couches, 0.922027, 7
+4, totally different vibe, 0.86473, 7
+4, drink order, 0.674491, 8
+4, nice view, 0.65336, 8
+4, great bar/lounge ambiance, 0.911813, 9
+4, stars, 0.442423, 9
+5, BETTER BUSINESS BUREAU, 0.83005, 0
+5, credit card charges, 0.811604, 0
+5, general manager, 0.60304, 2
+5, SHADY, 0.400842, 2
+5, club, 0.419313, 3
+5, service deal incl, 0.993124, 6
+5, credit card, 0.844634, 6

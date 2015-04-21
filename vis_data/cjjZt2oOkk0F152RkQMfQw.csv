@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, York club bouncers, 0.964797, 0
+1, Scottsdale club scene, 0.863979, 0
+1, crappy dive bar, 0.967167, 1
+1, self-important security goons, 0.965237, 1
+1, Coach House, 0.983359, 2
+1, low-end Scottsdale yuppies, 0.97142, 2
+1, company, 0.761417, 3
+1, number, 0.733992, 3
+1, place, 0.68391, 4
+1, single star rating, 0.966842, 6
+1, Hey fellas, 0.780898, 6
+1, young woman, 0.722501, 7
+1, min., 0.541693, 7
+2, surface stuff, 0.689308, 0
+2, Coach House, 0.658499, 0
+2, mich ultra, 0.783122, 1
+2, necessary primping, 0.759975, 1
+2, people, 0.675665, 2
+2, big downfall, 0.673814, 2
+2, place, 0.942469, 3
+2, dive bar, 0.703806, 3
+2, bar, 0.754467, 4
+2, service, 0.375652, 6
+2, country western decor, 0.940311, 7
+2, cool place, 0.639199, 7
+2, higher rating, 0.653978, 8
+2, experience, 0.369617, 8
+3, hip dive bar, 0.6025, 0
+3, old school jazz, 0.558239, 0
+3, single leased Porsche, 0.531135, 1
+3, wildly improbable hopes, 0.531125, 1
+3, Dive Bar standards, 0.591491, 2
+3, bar tending process, 0.588683, 2
+3, old rickety picket, 0.559988, 3
+3, cheap ass pitchers, 0.55934, 3
+3, dive bar, 0.900667, 5
+3, place, 0.636136, 5
+3, drink prices, 0.569649, 6
+3, somewhat rowdy crowd, 0.567356, 6
+3, Coach House, 0.93684, 7
+3, little dive bar, 0.589949, 7
+3, Coach House dances, 0.557912, 8
+3, nice comfortable evening, 0.539013, 8
+3, classic dive bar, 0.591412, 9
+3, damn fine way, 0.551374, 9
+4, little dive bar, 0.494693, 0
+4, dive bar regulars, 0.493021, 0
+4, old divey bar, 0.465433, 1
+4, authentic dive bars, 0.460688, 1
+4, PERECT dive bar, 0.486714, 2
+4, cheap drinks, 0.48189, 2
+4, dive bars, 0.510426, 3
+4, dive bar style, 0.475984, 3
+4, dive bar, 0.805451, 4
+4, christmas lights, 0.657763, 4
+4, coach house, 0.938805, 5
+4, old town, 0.757553, 5
+4, Scottsdale dive bar, 0.499059, 6
+4, favorite dive bar, 0.477926, 6
+4, Great dive bar, 0.51057, 7
+4, old dive bar, 0.507725, 7
+4, Coach Bar, 0.468486, 8
+4, year-round christmas lights, 0.458118, 8
+5, Old Town Scottsdale, 0.489743, 0
+5, best dive bar, 0.484852, 0
+5, dive bar smell, 0.464825, 1
+5, little charming bar, 0.457939, 1
+5, cheap drinks, 0.498524, 2
+5, oldest bar, 0.488071, 3
+5, Old Town bar, 0.476417, 3
+5, night, 0.48326, 4
+5, typical dive bar, 0.467619, 4
+5, coach house, 0.969039, 5
+5, dive bar, 0.6724, 5
+5, greatest dive bar, 0.489017, 6
+5, Dive bar perfection, 0.47312, 6
+5, christmas lights, 0.564624, 7
+5, best bar, 0.493866, 7
+5, great place, 0.502369, 8
+5, great bar, 0.465766, 8

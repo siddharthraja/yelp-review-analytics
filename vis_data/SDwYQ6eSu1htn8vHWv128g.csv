@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, Ahh Postino Wine, 0.800854, 0
+1, Arizona State Rifle, 0.682515, 0
+1, wine glasses, 0.908897, 1
+1, wine bar, 0.787422, 1
+1, unfriendly gentleman, 0.612962, 2
+1, San Francisco, 0.603732, 2
+1, previously 5-star rating, 0.681868, 3
+1, complete cluster F***s, 0.653411, 3
+1, bruschetta, 0.607025, 4
+1, tables, 0.657641, 5
+1, Postino Wine Cafe, 0.96433, 6
+1, grocery store bread, 0.6589, 7
+1, Roasted Peppers, 0.600147, 7
+1, Postino expert, 0.699806, 8
+1, mid-century ranch homes, 0.69006, 8
+1, yummy appetizers, 0.613236, 9
+2, half ass service, 0.650335, 0
+2, Italian Picnic Salad, 0.639913, 0
+2, mediocre bruschetta, 0.648502, 1
+2, wobbly end tables, 0.626123, 1
+2, appropriate customer service, 0.656685, 2
+2, LGO owners, 0.630665, 2
+2, service, 0.903219, 3
+2, little fancy wine, 0.639605, 3
+2, food, 0.903114, 4
+2, Postino, 0.778034, 4
+2, place, 0.980226, 5
+2, wine, 0.780648, 5
+2, Postino Central review, 0.666997, 6
+2, Mandatory valet parking, 0.633952, 6
+2, Postinos Arcadia, 0.632426, 7
+2, impeccable service, 0.610004, 7
+2, Central Ave. location, 0.630756, 8
+2, Sangira Sunday deal, 0.624033, 8
+3, little wine bar, 0.57034, 0
+3, adore Postino Winecafe, 0.550684, 0
+3, good service, 0.507697, 1
+3, traditional wine bar, 0.547573, 3
+3, iced tea, 0.543066, 3
+3, Postino, 0.750445, 4
+3, wine bar, 0.688838, 4
+3, wine, 0.951822, 5
+3, food, 0.835607, 5
+3, stars, 0.526062, 6
+3, wait time, 0.505127, 6
+3, wine list, 0.660299, 7
+3, good wine selection, 0.589813, 7
+3, great place, 0.615067, 8
+3, great little place, 0.576418, 8
+4, Postino Winebar, 0.517221, 0
+4, Italian wine bar, 0.511259, 0
+4, short wine list, 0.517252, 1
+4, retail wine area, 0.493817, 1
+4, selective wine list, 0.513349, 2
+4, favorite wine bars, 0.502336, 2
+4, Postino multiple times, 0.53197, 3
+4, parking, 0.573368, 4
+4, time, 0.542834, 4
+4, wine, 0.933792, 5
+4, postino, 0.825947, 5
+4, place, 0.825106, 6
+4, bruschetta, 0.773909, 6
+4, post office, 0.520654, 7
+4, raspberry chicken salad, 0.512049, 7
+4, great place, 0.695656, 8
+4, wine selection, 0.643351, 8
+5, great wine selections, 0.465972, 0
+5, Postino b/c, 0.437102, 0
+5, wine bars, 0.414771, 3
+5, wine, 0.931169, 5
+5, place, 0.803062, 5
+5, goat cheese, 0.585213, 6
+5, wine bar, 0.571513, 6
+5, food, 0.547373, 7
+5, admirable wine selection, 0.447585, 7
+5, wine selection, 0.630666, 8
+5, wine list, 0.613438, 8
+5, great place, 0.56276, 9
+5, Great wine selection, 0.476203, 9

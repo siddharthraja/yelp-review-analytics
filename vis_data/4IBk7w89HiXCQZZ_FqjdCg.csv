@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+1, malade là et, 0.733869, 0
+1, particular Hooters, 0.707161, 0
+1, microwaved clam chowder, 0.796937, 1
+1, fried pickles, 0.516561, 1
+1, American Express, 0.90416, 2
+1, disgusting chicken wings, 0.749398, 2
+1, time, 0.2544, 3
+1, place, 0.246939, 3
+1, Nous avions commander, 0.829418, 6
+1, simples burgers, 0.555543, 6
+1, good wings, 0.495241, 7
+1, usual reasons, 0.495037, 7
+2, chicken wings, 0.748684, 0
+2, wing situation, 0.708296, 0
+2, NY, 0.461413, 3
+2, hot ones, 0.686817, 4
+2, Hooter, 0.665495, 4
+2, dad, 0.498328, 6
+2, kid, 0.48368, 6
+2, curly fries, 0.916924, 7
+2, service, 0.463576, 7
+2, Connoisseur, 0.517769, 8

@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+4, long cab ride, 0.993864, 0
+4, local dive bar, 0.73592, 0
+4, sketchy neighborhood, 0.63117, 1
+4, Madness, 0.44052, 2
+4, relative, 0.43648, 2
+4, real neighborhood bar, 0.80026, 3
+4, golden tee game, 0.792957, 3
+4, dive bars, 0.773967, 4
+4, friend, 0.528847, 4
+4, golden tee, 0.849615, 6
+4, strong drinks, 0.623093, 6
+4, good dive bars, 0.747279, 7
+4, welcome walking, 0.59322, 7
+4, golden tee fix, 0.834444, 8
+4, frozen water bottle, 0.76486, 8
+4, Fun time drinking, 0.760605, 9
+4, interesting characters, 0.758192, 9
+5, free jello shots, 0.755825, 0
+5, free corned beef, 0.71614, 0
+5, Imma git, 0.58427, 1
+5, cat nap, 0.540579, 1
+5, St. Paddy, 0.814866, 2
+5, little case, 0.533102, 2
+5, small plate, 0.525348, 3
+5, place remind, 0.522077, 3
+5, guy, 0.50159, 5
+5, Pool tables, 0.516324, 6
+5, Awesome bar, 0.509285, 6
+5, good time, 0.93955, 7
+5, good thing, 0.525011, 7
+5, Thanks Stateside, 0.555168, 8
+5, free shuffleboard, 0.536547, 8
+5, great drinks, 0.508256, 9
+5, friendly people, 0.491841, 9

@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, Baccarat Lounge, 0.748062, 0
+1, dinner reservation, 0.732904, 0
+1, Frustrated, 0.473752, 1
+1, women, 0.465431, 2
+1, long time, 0.972521, 3
+1, register area, 0.660819, 3
+1, woman, 0.704022, 4
+1, wine, 0.831684, 5
+1, drinks, 0.568637, 6
+1, casino, 0.563708, 6
+1, dim area, 0.704742, 7
+1, rounded, 0.48079, 7
+1, intimate gatherings, 0.717826, 8
+1, booth-like seating, 0.713788, 8
+2, single drink, 0.538051, 0
+2, excellent music, 0.455079, 0
+2, cocktail waitress, 0.517628, 1
+2, cigar smoke, 0.456746, 1
+2, obnoxiously drunk people, 0.742211, 2
+2, Excessive cigarette, 0.468568, 2
+2, cheap drink, 0.540643, 3
+2, mins, 0.421873, 3
+2, pianist, 0.238951, 5
+2, father, 0.23354, 5
+2, beautiful bar, 0.441827, 6
+2, nice table, 0.438341, 6
+2, taste crowd-wise, 0.454789, 7
+2, better vibe, 0.445577, 7
+2, beautiful staff, 0.464394, 8
+2, delicious sounding drink, 0.954033, 9
+3, marketing dept, 0.71025, 0
+3, good tables, 0.668715, 0
+3, lemon drop, 0.731678, 1
+3, mix, 0.393513, 1
+3, break, 0.399752, 2
+3, pulp, 0.393314, 2
+3, drinks, 0.398744, 3
+3, bit, 0.392366, 3
+3, Nice piano music, 0.919367, 7
+3, Great, 0.359447, 7
+3, upscale lounge, 0.746249, 8
+4, Pina Colada, 0.408216, 0
+4, Bella Peach, 0.374483, 0
+4, pina coladas, 0.44243, 1
+4, expensive pours, 0.407759, 1
+4, short walk, 0.370905, 2
+4, time, 0.266993, 2
+4, cheap syrup concotion, 0.562541, 3
+4, Bellagio Cocktail, 0.553025, 3
+4, casino floor, 0.784685, 4
+4, great spot, 0.534367, 4
+4, baccarat bar, 0.798492, 5
+4, drinks, 0.715696, 5
+4, Bellagio, 0.724505, 6
+4, main casino floor, 0.599906, 6
+4, fresh fruit, 0.943756, 7
+4, drink refills, 0.427936, 7
+4, fresh fruit drinks, 0.667681, 8
+4, laid-back jazzy lounge, 0.606417, 8
+4, heavenly fresh fruit, 0.570927, 9
+4, icy blended concoction, 0.570103, 9
+5, alcohol, 0.24458, 0
+5, nice place, 0.712117, 1
+5, bustle, 0.313515, 1
+5, tourist traps, 0.84322, 2
+5, casinos, 0.271975, 2
+5, Props, 0.276346, 3
+5, Great atmosphere, 0.797468, 7
+5, bar, 0.394325, 7
+5, bartender, 0.999653, 8
+5, best thing, 0.764394, 8
+5, wait staff, 0.783435, 9
+5, stars, 0.24984, 9

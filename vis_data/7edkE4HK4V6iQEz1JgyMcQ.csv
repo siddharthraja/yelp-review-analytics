@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, nice beer selection., 0.905507, 0
+1, World Market prints, 0.885103, 0
+1, taste buds, 0.733714, 1
+1, Flying Hound, 0.905365, 2
+1, Target food counter, 0.902314, 2
+1, grilled cheese, 0.915657, 3
+1, boneless pork chop, 0.886323, 3
+1, time, 0.775701, 5
+1, dinner, 0.652652, 5
+1, house onion gravy, 0.879429, 6
+1, roasted garlic spread, 0.872952, 6
+1, portobello cap, 0.756578, 7
+1, better quality, 0.738524, 7
+1, spicy blue burger, 0.9071, 8
+1, portobello burger, 0.781656, 8
+2, Tampa Bay/Detroit game, 0.824689, 0
+2, large tap list, 0.799534, 0
+2, French onion soup, 0.812755, 1
+2, complete disappointment, 0.733186, 1
+2, food, 0.957903, 2
+2, different menu item, 0.832063, 2
+2, ......o.k., 0.899586, 3
+2, spicy aioli, 0.744726, 3
+2, beer, 0.928435, 5
+2, place, 0.858676, 5
+2, spicy citrus chicken, 0.843878, 6
+2, beer list, 0.841753, 6
+2, kale salad, 0.85922, 7
+2, blue cheese, 0.857742, 7
+2, beer selection, 0.85463, 8
+2, nearby tavern options, 0.807121, 8
+3, Good European pub, 0.603282, 0
+3, cold fries, 0.59133, 0
+3, poor service, 0.603182, 1
+3, Proper service, 0.559409, 1
+3, French onion soup, 0.677484, 2
+3, patty melt, 0.654318, 2
+3, service, 0.646839, 3
+3, Wisconsin type bartenders, 0.588969, 3
+3, Flying Hound, 0.71668, 4
+3, food, 0.699711, 4
+3, sweet potato fries, 0.992496, 5
+3, place, 0.673903, 5
+3, chicken fingers, 0.629614, 6
+3, portabella mushroom sandwich, 0.601568, 6
+3, Good beer selection, 0.639239, 7
+3, regular fries, 0.610507, 7
+3, potato fries appetizer, 0.654438, 8
+3, beer selection, 0.648605, 8
+3, cool pub atmosphere, 0.599264, 9
+3, Fitchburg restaurant scene, 0.598849, 9
+4, French onion soup, 0.751473, 0
+4, friday night fish, 0.746871, 0
+4, spicy jalapeno remoulade, 0.641281, 1
+4, fish pretty blah, 0.664864, 2
+4, grocery store baguette, 0.637079, 2
+4, cheese curds, 0.785145, 3
+4, 12-15 dollar fish, 0.63408, 3
+4, service, 0.626651, 5
+4, food, 0.84287, 6
+4, Sweet potato fries, 0.663589, 6
+4, patty melt, 0.754633, 7
+4, Flying Hound, 0.66356, 7
+4, great beer selection, 0.945957, 8
+4, place, 0.784689, 8
+4, great selection, 0.730903, 9
+4, Great tap beers, 0.688908, 9
+5, Atomic Sausage sandwich, 0.802582, 0
+5, Pelicaric family sausage, 0.755609, 0
+5, good things, 0.618832, 1
+5, hwy pd noise, 0.679276, 2
+5, ........., 0.667659, 2
+5, best kraut, 0.613465, 3
+5, cheese sandwich, 0.653369, 4
+5, citrus chicken sandwich, 0.924518, 6
+5, delicious Belgian beer, 0.709123, 6
+5, gluten free drink, 0.750831, 7
+5, new restaurant, 0.721328, 7
+5, beer selection, 0.783225, 8
+5, gluten free food, 0.781846, 8
+5, Great beer list, 0.734851, 9
+5, great overall experience, 0.70887, 9

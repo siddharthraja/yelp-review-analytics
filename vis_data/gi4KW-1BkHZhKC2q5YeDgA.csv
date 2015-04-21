@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, place, 0.526769, 1
+1, costs, 0.486967, 1
+1, drinking fountain, 0.903021, 7
+1, drinking beer, 0.84312, 7
+3, open til 2am, 0.919667, 0
+3, cheap basic drinks, 0.762279, 0
+3, house whiskey, 0.497639, 3
+3, orange wine, 0.407228, 3
+3, place, 0.280061, 4
+3, muy bien, 0.533566, 6
+3, good prices, 0.4452, 7
+4, pool cues, 0.791674, 0
+4, chicken strips, 0.764541, 0
+4, Sunday, 0.46871, 1
+4, liability thing, 0.787191, 2
+4, freaking deal, 0.908433, 3
+4, ton, 0.60683, 3
+4, pool, 0.83982, 4
+4, pizza rolls, 0.762402, 6
+4, pool halls, 0.749332, 6
+4, nice tables, 0.730388, 7
+4, beers, 0.472616, 7
+4, hella badass, 0.843732, 8
+4, college kids, 0.82324, 8
+4, great addition, 0.748648, 9
+4, new tv, 0.74827, 9
+5, Red Mountain Freeway, 0.640774, 0
+5, largest pool hall, 0.633164, 0
+5, standard snack bar, 0.631087, 3
+5, family-friendly establishment, 0.567113, 3
+5, Superstition Freeway, 0.588309, 4
+5, mixed drinks, 0.567391, 4
+5, Main Street, 0.929374, 5
+5, pool hall, 0.693869, 6
+5, easy freeway access, 0.641112, 6
+5, Main Street Billiards, 0.909453, 7
+5, competitive pool leagues, 0.628444, 7
+5, cleanest pool hall, 0.660788, 8
+5, great shape, 0.637938, 8
+5, entire facility, 0.576622, 9
+5, entire staff, 0.573021, 9

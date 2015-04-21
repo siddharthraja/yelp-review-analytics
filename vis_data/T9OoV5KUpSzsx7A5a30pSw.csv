@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, regular burgers, 0.666076, 0
+1, orders, 0.459592, 0
+1, sub par, 0.708477, 1
+1, Horrible Service, 0.7003, 1
+1, worst Kobe burger, 0.904206, 2
+1, food, 0.759782, 2
+1, main courses, 0.673476, 3
+1, different times, 0.672857, 3
+1, entire meal, 0.654193, 6
+1, gratuity, 0.484876, 6
+1, lunch, 0.468191, 8
+1, reservations, 0.460278, 8
+2, Kobe Beef burger, 0.73096, 0
+2, french fries, 0.283679, 0
+2, typical burger, 0.432889, 1
+2, Bad service, 0.293251, 1
+2, steak items, 0.257626, 2
+2, star restaurant, 0.228738, 2
+2, mash potatoes, 0.264015, 3
+2, Chinese food, 0.244332, 3
+2, waiter, 0.225192, 5
+2, italian burger, 0.901414, 6
+2, italian burger patty, 0.650245, 6
+2, Chicago Brewing Company, 0.427403, 8
+2, Friendly enough guy, 0.237271, 9
+3, Blue Man Group, 0.82716, 0
+3, Alfredo sauce, 0.721545, 0
+3, complicated dishes, 0.68126, 1
+3, Grand Lux, 0.674782, 1
+3, difficult dish, 0.672563, 2
+3, party, 0.567944, 2
+3, onion soup gratinee, 0.832186, 3
+3, skimpy crouton, 0.735, 3
+3, chicken flatbread, 0.910287, 4
+3, dozen fresh oysters, 0.859163, 6
+3, Fillet Mignon, 0.714416, 6
+3, w/ truffle casserole, 0.874826, 7
+3, Kobe Cheese Burger, 0.858956, 7
+3, late night snack, 0.795961, 8
+3, Pre-dinner cocktails, 0.686239, 8
+3, Timpano Tavern, 0.889937, 9
+3, Venetian Resort, 0.705321, 9
+4, SF, 0.384401, 0
+4, way, 0.365257, 0
+4, bar, 0.359317, 2
+4, order, 0.359136, 2
+4, ahi tuna, 0.633969, 6
+4, time, 0.359561, 6
+4, truffle fries, 0.929674, 7
+4, bolognese sauce, 0.613791, 7
+4, people, 0.355686, 8
+5, flat bread pizzas, 0.88937, 0
+5, linguine pasta, 0.622113, 0
+5, flat bread, 0.920573, 3
+5, flat bread pizza, 0.854176, 3
+5, time, 0.308821, 5
+5, Vegas, 0.308655, 5
+5, veal Parmesan, 0.636926, 6
+5, pasta dishes, 0.596056, 6
+5, appetizers, 0.511399, 7
+5, wine, 0.389711, 7
+5, good care, 0.506627, 8
+5, drinks, 0.263471, 8
+5, delicious veal dinner, 0.921118, 9
+5, variety, 0.256758, 9

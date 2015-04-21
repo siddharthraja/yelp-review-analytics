@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, Poor customer service, 0.652207, 0
+1, bar order beers, 0.628206, 0
+1, service, 0.753299, 1
+1, cheezy dirty signs, 0.613031, 1
+1, dining room, 0.900313, 2
+1, contest winners, 0.766945, 2
+1, people, 0.652573, 3
+1, line, 0.533695, 3
+1, table, 0.69306, 4
+1, manager, 0.574332, 4
+1, place, 0.619581, 5
+1, list, 0.514122, 5
+1, fave places, 0.540709, 6
+1, simple restaurant, 0.524494, 6
+1, play super fun, 0.653254, 7
+1, Gaming customers, 0.522775, 7
+2, wings extra crispy, 0.566381, 0
+2, buffalo wings, 0.55402, 0
+2, service, 0.534312, 1
+2, Cookings wings, 0.526051, 1
+2, greasy bar food, 0.500991, 2
+2, fast food restaurants, 0.499555, 2
+2, fried pickles, 0.557606, 3
+2, fried wings, 0.52069, 3
+2, buffalo wild wings, 0.985208, 4
+2, ol COLD wings, 0.562738, 4
+2, food, 0.607348, 5
+2, order, 0.51771, 5
+2, Galleria Mall location, 0.484954, 6
+2, blue cheese dressing, 0.47374, 6
+2, boneless wings, 0.543308, 7
+2, blue cheese, 0.525212, 7
+2, parmesan garlic flavor, 0.536798, 8
+2, tiny plastic cup, 0.480665, 8
+2, wings crowd, 0.531508, 9
+2, chicken loving kind, 0.476669, 9
+3, boneless wings night, 0.531623, 0
+3, Wild Wings aka, 0.459435, 0
+3, mango habanero wings, 0.48428, 1
+3, elses drunken asshattery, 0.331842, 1
+3, typical bar food, 0.356583, 2
+3, chicken fingers, 0.350201, 2
+3, bar area, 0.427209, 3
+3, mini chicken finger, 0.336797, 3
+3, time, 0.460039, 4
+3, food, 0.44642, 4
+3, wings, 0.943346, 5
+3, bar, 0.492656, 5
+3, room temperature wings, 0.507678, 6
+3, sports book, 0.345422, 6
+3, boneless wings, 0.572599, 7
+3, Good wings, 0.505449, 7
+3, Buffalo Wild Wings, 0.757723, 8
+3, mild wings, 0.422918, 8
+3, Wild Wings sauces, 0.491379, 9
+3, decent sized wings, 0.485335, 9
+4, Rancho Cucamonga area, 0.356482, 0
+4, Caribbean Jerk, 0.354892, 0
+4, Orange County area, 0.361703, 3
+4, large franchise chain, 0.355664, 3
+4, boneless wings, 0.57938, 4
+4, BWW, 0.384108, 4
+4, wings, 0.955529, 5
+4, food, 0.461231, 5
+4, buffalo wild wings, 0.776851, 6
+4, wings buffet option, 0.475586, 6
+4, boneless chicken wings, 0.509819, 7
+4, buffalo wings, 0.491211, 7
+4, Good wings, 0.603476, 8
+4, great wings, 0.455202, 8
+4, nice family getaway, 0.343334, 9
+4, cheese sticks, 0.343173, 9
+5, mango habenero wings, 0.698168, 0
+5, Wild Wings location, 0.643792, 0
+5, desert heat rub, 0.690932, 2
+5, captain morgan sauce, 0.635242, 2
+5, hot wings, 0.67046, 3
+5, bar food, 0.595037, 3
+5, service, 0.694513, 5
+5, excellent service, 0.586181, 5
+5, food, 0.670038, 6
+5, hot BBQ sauce, 0.628243, 6
+5, Buffalo Wild Wings, 0.905448, 7
+5, honey BBQ sauce, 0.620613, 7
+5, great wings, 0.65312, 8
+5, Exemplary customer service, 0.584371, 8
+5, customer service, 0.636194, 9
+5, great food, 0.606345, 9

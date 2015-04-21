@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+3, main Scottsdale scene, 0.536758, 0
+3, open floor, 0.520447, 0
+3, limited vegetarian options, 0.505871, 1
+3, over-priced designer schwag, 0.497264, 1
+3, Snottsdale Circuit. r.i.p, 0.490405, 2
+3, Crown Room, 0.51096, 3
+3, private lounge, 0.471783, 3
+3, Lyte, 0.969373, 5
+3, jazz band, 0.770402, 6
+3, belly dancers, 0.641822, 6
+3, Lyte Lounge, 0.782201, 7
+3, Scottsdale lounge, 0.550606, 7
+3, swanky lounge, 0.59936, 8
+3, friendly bouncer, 0.411207, 8
+4, beer battered chicken, 0.624439, 0
+4, cool kids, 0.521629, 0
+4, huge wine selection, 0.595836, 1
+4, Friday night, 0.518464, 1
+4, Downside Risk, 0.816073, 2
+4, terminal cancer, 0.520025, 2
+4, Famous Door, 0.900338, 3
+4, long time, 0.622485, 3
+4, place, 0.6188, 5
+4, Chez Nous, 0.526126, 6
+4, decent club, 0.512214, 6
+4, cool stock exchange, 0.650811, 7
+4, cool belly dancers, 0.5975, 7
+4, good spot, 0.515333, 8
+4, open layout, 0.505811, 8
+4, nice comfy booths, 0.622016, 9
+4, dance floor/mingling area, 0.613854, 9
+5, Motif, 0.757081, 0
+5, spit-spot, 0.68748, 0
+5, atmosphere, 0.736571, 6
+5, skillcraft, 0.690497, 6
+5, terrific Jazz, 0.964112, 7
+5, DJ galore, 0.957348, 7
+5, Incredible service, 0.93839, 8
+5, genders, 0.76266, 9
+5, sects, 0.751504, 9

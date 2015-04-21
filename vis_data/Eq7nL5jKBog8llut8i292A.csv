@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, different lady worker, 0.802766, 0
+1, tiny sample cup, 0.78453, 0
+1, oz drink, 0.7286, 1
+1, total let down., 0.774932, 2
+1, cool cup. wish, 0.77067, 2
+1, cute colorful store, 0.779176, 3
+1, shots, 0.754478, 3
+1, drink, 0.968586, 4
+1, flavors, 0.87168, 4
+1, frozen mixes, 0.904278, 5
+1, place, 0.84623, 5
+1, different colored zebra, 0.797739, 6
+1, large unique cups, 0.788106, 6
+1, lady worker, 0.869935, 7
+1, extra shot, 0.861028, 7
+1, souvenir cups, 0.881717, 8
+1, self-serve daiquiri bar, 0.810452, 8
+3, slushie transportation devices, 0.954195, 0
+3, choice price, 0.858172, 0
+3, tiny little straws, 0.960548, 1
+3, unavoidable mind-numbing brain, 0.959977, 1
+3, diabolical alcoholic slushies, 0.971198, 2
+3, fruity deliciousness, 0.841602, 2
+3, Coyote Ugly, 0.846503, 3
+3, NY NY, 0.845987, 3
+3, buzz, 0.745101, 4
+3, Good concept, 0.886337, 6
+3, social setting, 0.859723, 6
+3, small cupcake container, 0.966317, 7
+3, equally large selection, 0.95949, 7
+3, Super cute concept, 0.990677, 8
+3, self-serve yogurt place, 0.989366, 8
+3, fun drink cups, 0.957168, 9
+3, entire time, 0.84453, 9
+4, non alcoholic drink, 0.897201, 0
+4, slushie type drinks, 0.850586, 0
+4, ridiculous drinks, 0.736035, 1
+4, fat Tuesdays slushies, 0.773957, 2
+4, frozen drinks, 0.761359, 2
+4, regular flavored slushie, 0.775501, 3
+4, Linq shopping area, 0.7727, 3
+4, drinks, 0.941656, 5
+4, punch card, 0.738133, 5
+4, patron grand mariner, 0.902073, 6
+4, free samples, 0.848453, 6
+4, flavors, 0.81394, 7
+4, Cool new concept, 0.782368, 7
+4, purple zebra, 0.985584, 8
+4, non alcoholic drinks, 0.875867, 8
+4, delightful frozen drink, 0.774444, 9
+4, cool place, 0.737785, 9
+5, zebra print, 0.668712, 0
+5, regular ones, 0.659038, 0
+5, star ratings, 0.679998, 2
+5, poor reviews, 0.674907, 2
+5, great experience, 0.839556, 6
+5, frozen drinks, 0.697545, 6
+5, cute souvenir cup, 0.826744, 7
+5, BETTER QUALITY ALCOHOL, 0.791902, 7
+5, non-alcoholic frozen beverage, 0.901104, 8
+5, fun fru-fru drink, 0.876088, 8
+5, delicious patriotic drink, 0.857371, 9
+5, perfectly sized container, 0.843057, 9

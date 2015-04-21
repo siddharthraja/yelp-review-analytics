@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, pho places, 0.627368, 0
+1, good Pho, 0.590255, 0
+1, worst pho, 0.627213, 1
+1, pho soup, 0.579966, 1
+1, spring rolls, 0.652245, 2
+1, great pho restaurants, 0.630758, 2
+1, place, 0.685883, 3
+1, now-wrinkled place mats, 0.467194, 3
+1, pho, 0.903107, 4
+1, food, 0.754504, 4
+1, place mats, 0.517642, 5
+1, waiter, 0.433437, 5
+1, late night pho, 0.69443, 6
+1, pho multiple times, 0.625032, 6
+1, delicious pho flavors, 0.624919, 7
+1, spicy chicken wings, 0.446491, 7
+1, good Vietnamese restaurant, 0.463441, 8
+1, nice live bug, 0.429697, 8
+2, spectacularly average pho, 0.672927, 0
+2, Average pho grub, 0.599185, 0
+2, Pho Tai Chin, 0.732361, 1
+2, big screen tv, 0.422552, 1
+2, spring rolls, 0.936792, 2
+2, Friday night, 0.45956, 2
+2, spicy spring rolls, 0.673582, 3
+2, self-described pho affectionado, 0.586412, 3
+2, egg rolls, 0.539248, 4
+2, pho, 0.875118, 5
+2, place, 0.578282, 5
+2, quality Pho, 0.49582, 6
+2, regular sprig roll, 0.42124, 6
+2, vegetarian egg rolls, 0.473906, 7
+2, great Vietnamese meal, 0.404436, 7
+2, Lean Rare Steak, 0.616674, 8
+2, Food wise, 0.327767, 8
+2, veggie pho, 0.541586, 9
+3, Pho place, 0.637585, 0
+3, quick Pho fix, 0.633056, 0
+3, single Vietnamese restaraunt, 0.481592, 1
+3, strong beefy broth, 0.466226, 1
+3, Vietnamese place, 0.474136, 2
+3, veggie broth pho, 0.629483, 3
+3, nearest Pho location, 0.61441, 3
+3, service, 0.475535, 4
+3, pho, 0.989925, 5
+3, Pho Cao, 0.79411, 5
+3, Vietnamese food, 0.486259, 6
+3, vibrant bar scene, 0.475336, 6
+3, pho places, 0.636162, 7
+3, amazing pho, 0.589508, 7
+3, large pho, 0.622557, 8
+3, chicken pho, 0.608158, 8
+3, fairly good job, 0.485639, 9
+3, large portion, 0.471728, 9
+4, different pho dishes, 0.737721, 0
+4, Pho place, 0.710504, 0
+4, late-night Pho, 0.701426, 2
+4, Vietnamese place, 0.556636, 2
+4, amazing Pho, 0.668747, 3
+4, pho, 0.923599, 5
+4, Pho Cao, 0.893995, 5
+4, food, 0.633635, 6
+4, soft spring rolls, 0.607621, 6
+4, chicken pho, 0.736608, 7
+4, yelp- Pho Cao, 0.734858, 7
+4, pho restaurant, 0.746604, 8
+4, Vegetable Pho, 0.662513, 8
+4, good Veggie Pho, 0.704058, 9
+4, great customer service, 0.56684, 9
+5, Pho Cao Ale, 0.617395, 0
+5, large Pho Chin, 0.60314, 0
+5, good Pho place, 0.671986, 1
+5, pho joint, 0.592489, 1
+5, especially ASIAN food, 0.457875, 2
+5, pho restaurant, 0.647858, 3
+5, veggie pho, 0.611196, 3
+5, pho place, 0.723631, 4
+5, Bun Bo Hue, 0.469569, 4
+5, spring rolls, 0.682515, 5
+5, food, 0.59307, 5
+5, pho cao, 0.920252, 6
+5, Pho Bang, 0.616889, 6
+5, favorite Pho, 0.61947, 7
+5, best pho, 0.615152, 7
+5, Pho places, 0.607439, 8
+5, great food, 0.503053, 8
+5, pho broth, 0.59833, 9
+5, quality Pho, 0.588185, 9

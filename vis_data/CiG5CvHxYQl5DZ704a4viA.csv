@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+2, fried provolone sticks, 0.969077, 0
+2, fried pita bread, 0.954896, 0
+2, Panther Hollow Inn, 0.867886, 1
+2, little farther, 0.680421, 1
+2, beer specials, 0.670541, 2
+2, mid-twenties, 0.489015, 2
+2, cheap beer, 0.679391, 3
+2, Average food, 0.664567, 3
+2, spinach artichoke dip, 0.943313, 6
+2, normal speaking volume, 0.923182, 6
+2, smallest dinner salad, 0.927268, 7
+2, Good specials, 0.667802, 7
+2, drinks drinks, 0.819126, 8
+2, place, 0.483949, 8
+3, Pitt students, 0.665485, 0
+3, price food specials, 0.643956, 0
+3, cheap bar food, 0.679677, 1
+3, cheap beer pitchers, 0.648398, 1
+3, quintessential college bar, 0.652998, 2
+3, typical bar food, 0.649539, 2
+3, college bar, 0.819992, 3
+3, bar food, 0.930671, 4
+3, college kids, 0.753768, 4
+3, place, 0.813563, 5
+3, late night, 0.664279, 5
+3, Hemingway, 0.769296, 6
+3, buffalo chicken wrap, 0.700674, 6
+3, decent bar food, 0.770493, 7
+3, artichoke dip, 0.663151, 7
+3, great place, 0.689636, 8
+3, artichoke dip Hemingway, 0.662097, 8
+3, aspect Hemingway, 0.616485, 9
+4, Great bar food, 0.714722, 0
+4, nice college bar, 0.69618, 0
+4, good conscious order, 0.634072, 1
+4, shot pitchers, 0.728719, 2
+4, favorite college bars, 0.638585, 2
+4, bar food, 0.780309, 3
+4, undergrad dive bar, 0.659871, 3
+4, draft specials, 0.688806, 4
+4, college bar, 0.911606, 5
+4, food, 0.825696, 5
+4, great half-price food, 0.718688, 6
+4, College bar staple, 0.716143, 6
+4, hot honey wrap, 0.729164, 7
+4, college dive bar, 0.698242, 7
+4, spinach artichoke dip, 0.736715, 8
+4, great french fries, 0.678611, 8
+4, Reasonable priced draft, 0.639556, 9
+5, shot pitchers, 0.980433, 0
+5, artichoke dip, 0.961865, 0
+5, loud college crowd, 0.938009, 1
+5, bad reviews, 0.750783, 1
+5, cheap place, 0.812159, 2
+5, cheap eats, 0.772905, 2
+5, half-off food menu, 0.945891, 3
+5, Saturday night, 0.760536, 3
+5, place, 0.862801, 4
+5, Miller Light, 0.743456, 4
+5, Hemingway, 0.708397, 5
+5, awesome drink specials, 0.854989, 6
+5, quick cheap meal, 0.918885, 7
+5, Miley Cyrus, 0.784664, 7
+5, delicious cheap food, 0.985443, 8
+5, cheap drinks, 0.828758, 8
+5, daily beer, 0.757034, 9

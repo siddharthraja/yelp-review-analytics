@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+2, Edinburgh, 0.394042, 0
+2, tv, 0.286901, 0
+2, whisky collection, 0.67157, 3
+2, beer, 0.286119, 3
+2, tourist guide, 0.751472, 6
+2, Nice ambiance, 0.90746, 7
+3, alley, 0.450973, 0
+3, wood, 0.438528, 0
+3, boisterous crowd, 0.625417, 1
+3, Low ceilings, 0.640649, 2
+3, sight, 0.450316, 2
+3, touristy things, 0.618858, 3
+3, closeness, 0.468187, 3
+3, old gallows, 0.680501, 6
+3, huge selection, 0.651228, 6
+3, good cask ale, 0.912296, 7
+3, edinburgh. great location, 0.848326, 7
+3, mc ewan, 0.674241, 8
+3, shilling, 0.479566, 8
+3, lovely little pub, 0.804611, 9
+3, quiet evening, 0.639273, 9
+4, Britains Got Talent, 0.575601, 0
+4, funny wee octopuses, 0.568397, 0
+4, small court yard, 0.599361, 1
+4, bar staff, 0.501757, 2
+4, royal mile, 0.955741, 5
+4, pub, 0.785868, 5
+4, Jolly Judge, 0.973251, 6
+4, gorgeous little pub, 0.662064, 6
+4, traditional Scottish pub, 0.700213, 7
+4, traditional little pub, 0.672653, 7
+4, great place, 0.677293, 8
+4, typical Scottish pub, 0.66126, 8
+4, wonderfully serene atmosphere, 0.601286, 9
+4, good pub, 0.60052, 9
+5, man sich nicht, 0.923484, 0
+5, nicht zuletzt dank, 0.893413, 0
+5, drunken Stags, 0.738032, 1
+5, bar, 0.651213, 2
+5, white plastered wall, 0.854413, 3
+5, loud music, 0.729641, 3
+5, Royal Mile, 0.924568, 6
+5, Ich war, 0.863603, 6
+5, Jolly Judge, 0.972666, 7
+5, warm cozy basement, 0.849168, 7
+5, clean stucco wall, 0.822468, 8
+5, charming pastoral pictures, 0.810384, 8
+5, great warm place, 0.841676, 9
+5, good drink, 0.726668, 9

@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, point, 0.508085, 0
+1, shoes, 0.451435, 0
+1, good review, 0.702951, 1
+1, factory food, 0.648742, 1
+1, food, 0.903686, 2
+1, flavorless food, 0.655489, 2
+1, pair lunch menu, 0.837884, 3
+1, chicken tacos, 0.704076, 3
+1, utensils, 0.451296, 4
+1, chicken wonton tacos, 0.919466, 6
+1, French onion soup, 0.84781, 6
+1, Chili Lime Chicken, 0.929615, 7
+1, nonchalant attitude, 0.704163, 7
+2, server Nay, 0.825212, 0
+2, portabello mushrooms, 0.795947, 0
+2, curse words, 0.78661, 1
+2, bad dinners, 0.782276, 1
+2, manager, 0.61246, 2
+2, wishes, 0.560996, 2
+2, restaurant, 0.614301, 3
+2, main dishes, 0.759012, 4
+2, wife, 0.701142, 4
+2, Typical fresh frozen, 0.950911, 6
+2, food, 0.623711, 6
+2, appetizers, 0.566136, 7
+2, companions, 0.55405, 7
+5, Applebee, 0.362575, 1
+5, new menu items, 0.756935, 8
+5, favorite lunch spot, 0.940317, 9

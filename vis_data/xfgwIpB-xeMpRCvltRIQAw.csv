@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, Brown theme song, 0.648504, 0
+1, Charlie Brown theme, 0.6451, 0
+1, Saturday night, 0.615559, 1
+1, smelly Vegas visitors, 0.610597, 1
+1, dining experience, 0.673766, 2
+1, worst dining experience, 0.653859, 2
+1, credit card invoice, 0.698226, 3
+1, line, 0.688626, 3
+1, place, 0.927683, 4
+1, ghost bar, 0.81373, 4
+1, drinks, 0.64215, 5
+1, view, 0.753426, 6
+1, free entry, 0.637077, 6
+1, buffet downstairs. lmfao, 0.58733, 7
+1, great view, 0.58521, 7
+1, nice rooftop view, 0.595963, 8
+1, Bachelorette weekend extravaganza, 0.589437, 8
+2, ......., 0.609315, 0
+2, formerly-enjoyable Vegas night, 0.599989, 0
+2, asian justin timberlake, 0.618148, 1
+2, busy night, 0.574863, 1
+2, witch doctor, 0.700213, 2
+2, good dance song, 0.585457, 2
+2, dance floors, 0.600503, 3
+2, Las Vegas, 0.594605, 3
+2, voodoo lounge, 0.877456, 4
+2, dance floor, 0.682405, 4
+2, place, 0.838182, 5
+2, service, 0.684346, 5
+2, view, 0.907056, 6
+2, food, 0.624425, 6
+2, live band, 0.662611, 7
+2, Thx Voodoo Lounge, 0.583652, 7
+2, great view, 0.750579, 8
+2, nice view, 0.640268, 8
+2, good live band, 0.580173, 9
+3, VooDoo Cesar Salad, 0.500611, 0
+3, n't miss experience, 0.521523, 2
+3, Long live Voodoo, 0.496575, 2
+3, pretty high floor, 0.517707, 3
+3, people, 0.634708, 4
+3, club, 0.588706, 4
+3, view, 0.940405, 5
+3, voodoo lounge, 0.769644, 5
+3, little night club, 0.504852, 6
+3, voodoo steak, 0.500159, 6
+3, great view, 0.648923, 7
+3, hip hop, 0.554459, 7
+3, amazing view, 0.551131, 8
+3, great time, 0.541185, 8
+3, great balcony view, 0.527594, 9
+3, pretty cool place, 0.510565, 9
+4, multiple free drinks, 0.391353, 0
+4, VooDoo people, 0.397112, 2
+4, Saturday night, 0.393832, 3
+4, Voodoo Cafe, 0.389921, 3
+4, cover charge, 0.493651, 4
+4, people, 0.469205, 4
+4, voodoo lounge, 0.917109, 5
+4, view, 0.728232, 5
+4, witch doctor, 0.607603, 6
+4, place, 0.554545, 6
+4, best view, 0.438739, 7
+4, good drinks, 0.423876, 7
+4, drinks VooDoo Lounge, 0.481664, 8
+4, great vegas view, 0.452641, 8
+4, good dancing music, 0.398019, 9
+4, amazing view, 0.39782, 9
+5, Vegas skyline view, 0.641855, 0
+5, great dance floors, 0.621252, 0
+5, VooDoo Rooftop Nightclub, 0.718772, 2
+5, rooftop Las Vegas, 0.648391, 2
+5, Voodoo lounge unstairs, 0.672115, 3
+5, Voodoo Steak, 0.665427, 3
+5, Rio, 0.638539, 4
+5, service, 0.616474, 4
+5, voodoo, 0.988128, 5
+5, vegas, 0.971879, 5
+5, view, 0.91244, 6
+5, voodoo lounge, 0.839891, 6
+5, old school, 0.691306, 7
+5, voodoo promoter, 0.610164, 7
+5, witch doctor drink, 0.732932, 8
+5, Voodoo Rooftop Lounge, 0.677638, 8
+5, great time spending, 0.604672, 9

@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, horrible horrible customer, 0.991904, 0
+1, wings, 0.397542, 0
+1, question, 0.39747, 1
+1, management changes, 0.588639, 2
+1, GM, 0.41472, 2
+1, location, 0.372942, 3
+1, business, 0.372546, 3
+1, staff, 0.462204, 5
+2, night, 0.367549, 0
+2, clad boob-showing servers, 0.788225, 1
+2, chance, 0.366663, 3
+2, guys, 0.366091, 3
+2, Hooters, 0.666574, 4
+2, wings, 0.950202, 5
+2, beer, 0.423077, 5
+2, boobs, 0.401936, 6
+2, burger, 0.374808, 6
+2, best wings, 0.706707, 7
+2, husband, 0.380997, 7
+3, boneless wings, 0.944663, 0
+3, Happy Hour menu, 0.860039, 0
+3, times, 0.616327, 2
+3, Economy, 0.650911, 3
+3, people, 0.623661, 7
+3, group, 0.623282, 7
+3, Girls, 0.619086, 8
+4, prep choice, 0.478703, 0
+4, Ranch Dressing, 0.471743, 0
+4, waitress, 0.290719, 2
+4, knife, 0.264217, 2
+4, happy hour specials, 0.440347, 3
+4, location, 0.236667, 3
+4, chicken sandwich, 0.911471, 6
+4, Buffalo Chicken Sandwich, 0.870654, 6
+4, Best fried chicken, 0.782396, 7
+4, great wings, 0.435413, 7
+4, great buffalo shrimp, 0.623308, 8
+4, waitresses, 0.297729, 9
+4, husband, 0.260688, 9
+5, cold beer, 0.812672, 6
+5, Great wings, 0.95662, 7
+5, pretty girls, 0.929915, 8

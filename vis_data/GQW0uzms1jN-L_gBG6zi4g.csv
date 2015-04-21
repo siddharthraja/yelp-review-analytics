@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, tomato fragments, 0.726202, 0
+1, stringy hamburger, 0.720742, 0
+1, Barely decent bar, 0.990746, 1
+1, food, 0.340462, 1
+1, Chili, 0.407065, 2
+1, flavor, 0.404569, 2
+2, perch fish fry, 0.801517, 0
+2, pre-frozen broccoli, 0.590614, 0
+2, fried slivers, 0.562862, 1
+2, bar, 0.353116, 1
+2, free drink vouchers, 0.78397, 2
+2, NBA Finals, 0.568119, 2
+2, Med veggies, 0.883035, 3
+2, Cisco truck, 0.546909, 3
+2, waitress, 0.622086, 4
+2, fish fry, 0.971454, 6
+2, classic fish fry, 0.794917, 6
+2, Mediterranean veggies, 0.892591, 7
+2, mini burgers, 0.54309, 7
+3, ok, 0.605622, 0
+3, Food, 0.502158, 0
+3, late flight, 0.807358, 3
+3, wrap, 0.602701, 3
+3, cheese curds, 0.915508, 8
+4, solid neighborhood bar, 0.919954, 0
+4, table service, 0.913559, 0
+4, little bacon, 0.810015, 2
+4, enormous hamburger, 0.824233, 3
+4, monte, 0.9395, 5
+4, blue cheese dressing, 0.933042, 6
+4, Central Waters Imperial, 0.888346, 6
+4, english muffin, 0.931345, 7
+4, New Glarus Brewery, 0.885443, 7
+4, Wisconsin salad bar, 0.957107, 8
+4, good relaxed meal, 0.932801, 8
+4, good old style, 0.92618, 9
+4, superbly interesting offering, 0.894064, 9
+5, NBA finals, 0.759274, 0
+5, fish fry, 0.746347, 0
+5, trips, 0.543689, 2
+5, work, 0.54364, 2
+5, Monte, 0.894019, 3
+5, review, 0.586107, 3
+5, Wisconsin, 0.581888, 4
+5, Stars season finale, 0.960956, 6
+5, Holiday Inn Express, 0.920462, 6
+5, bar-grill type place, 0.926811, 7
+5, Play Livin, 0.753232, 7
+5, Great brunch buffet, 0.94696, 8
+5, grilled cheese.., 0.741053, 8
+5, regular customers, 0.735344, 9
+5, great selection, 0.721751, 9

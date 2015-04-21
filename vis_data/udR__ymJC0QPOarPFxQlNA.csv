@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+2, Bombay Bicycle Restaurant, 0.993281, 0
+2, Madison, 0.429661, 0
+2, place, 0.472971, 1
+2, car dealership, 0.830245, 2
+2, middle, 0.473748, 2
+3, Bicycle Club building, 0.794698, 0
+3, awful nagging feeling, 0.7639, 0
+3, uninteresting mainstream pop-dance, 0.745308, 1
+3, nasty people, 0.586406, 1
+3, dive bar status, 0.732612, 2
+3, past couple, 0.578039, 2
+3, real dance club, 0.814291, 3
+3, gay dance club, 0.808999, 3
+3, club, 0.918801, 5
+3, time, 0.648763, 5
+3, small dance scene, 0.760787, 6
+3, pretty big dance, 0.726589, 6
+3, pretty clear winner, 0.710801, 7
+3, place, 0.669836, 7
+3, dance floor, 0.690698, 8
+3, helpful bartender, 0.617802, 8
+3, recent remodel, 0.60288, 9
+5, gasoline quality vodka, 0.978722, 0
+5, State Street, 0.790183, 0
+5, HELLA, 0.597907, 2
+5, Old School, 0.750113, 3
+5, gay club, 0.748944, 3
+5, Madonna, 0.649107, 5
+5, good drinks, 0.786755, 6
+5, people, 0.55987, 6
+5, dancing area, 0.78583, 7
+5, good dance, 0.750705, 7

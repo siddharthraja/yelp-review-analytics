@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+2, American diner thing, 0.703296, 0
+2, oddly removed staff, 0.673924, 0
+2, table service, 0.500694, 1
+2, bad night, 0.496672, 1
+2, beautifully presented food, 0.695903, 2
+2, private events, 0.53672, 2
+2, huge fan, 0.756565, 3
+2, translucent chemical fluid, 0.716435, 3
+2, Mac Cheese, 0.946748, 4
+2, meatloaf, 0.559627, 4
+2, Lidl pre-packed sausages, 0.75176, 6
+2, burger, 0.576843, 6
+2, American dining theme, 0.719441, 7
+2, Snax Café, 0.553635, 7
+2, coffee, 0.393277, 8
+3, straight-up diner menu, 0.683449, 0
+3, big burger challenge, 0.67343, 0
+3, generic pop crap, 0.60191, 1
+3, Ultimate burger challenge, 0.671953, 2
+3, work night outs, 0.630163, 2
+3, apache burger, 0.684885, 3
+3, American Diner experience, 0.67024, 3
+3, burger challenge, 0.767536, 4
+3, american diner, 0.795076, 5
+3, Hill Valley diner, 0.688791, 6
+3, pool table, 0.683418, 6
+3, butter banana milkshake, 0.742911, 7
+3, peanut butter banana, 0.70487, 7
+3, city cafe, 0.97845, 8
+3, 50s diner theme, 0.657069, 8
+3, burger meal, 0.633505, 9
+3, free coffee refills, 0.606785, 9
+4, American diner food, 0.501613, 0
+4, Huge burger challenge, 0.422585, 0
+4, worst comedy act, 0.414735, 1
+4, uninspiring tourist hole, 0.403668, 1
+4, single pool table, 0.42192, 2
+4, ever-so-slightly cooler-than-thou feel, 0.414, 2
+4, American diner place, 0.489759, 3
+4, milk shakes, 0.397414, 3
+4, pool table, 0.608404, 4
+4, hot dog, 0.473568, 4
+4, City Cafe, 0.911503, 5
+4, bar, 0.398098, 5
+4, american diner, 0.732162, 6
+4, food, 0.540457, 6
+4, hot dogs, 0.520965, 7
+4, American style diner, 0.457263, 7
+4, pretty good burger, 0.480676, 8
+4, American Diner theme, 0.456153, 8
+4, pretty solid shout, 0.432012, 9
+5, shredded smoked bacon, 0.711829, 0
+5, Apache Burger, 0.633985, 0
+5, crippling wave grips, 0.682831, 1
+5, word event, 0.626649, 1
+5, teeny little bucket, 0.713874, 2
+5, skinny fries, 0.635481, 2
+5, burger challenge, 0.889548, 3
+5, mainstream George Street, 0.73161, 3
+5, City Café, 0.930214, 4
+5, place, 0.67068, 4
+5, time, 0.661604, 5
+5, ultimate burger challenge, 0.780724, 6
+5, American Diner experience, 0.715981, 6
+5, nom nom nom, 0.774039, 7
+5, Superb fry, 0.622776, 7
+5, nice place, 0.640061, 8
+5, best breakfast, 0.628978, 8
+5, hot dog sausage, 0.712937, 9
+5, head spins, 0.612318, 9

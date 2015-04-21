@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, starters, 0.365828, 0
+1, drain, 0.353763, 1
+1, wrong temperature, 0.693726, 2
+1, understatement, 0.387036, 2
+1, kitchen, 0.324647, 3
+1, restaurant, 0.324193, 3
+1, wings, 0.822363, 4
+1, Hooters, 0.935663, 5
+1, great wings, 0.776463, 7
+2, Texas Steak House, 0.870069, 0
+2, numerous nearby options, 0.856054, 0
+2, golden orange sauce, 0.892448, 1
+2, inattentive bartender, 0.6497, 1
+2, super soggy, 0.639708, 2
+2, inefficient people, 0.633346, 2
+2, pleasant experience, 0.657192, 3
+2, reasonable expectations, 0.629879, 3
+2, curly fries, 0.884059, 4
+2, wings, 0.839327, 4
+2, old oil, 0.59755, 6
+2, food, 0.417719, 6
+2, cellphones, 0.375303, 7
+2, staff, 0.361248, 7
+2, hot original sauce, 0.918846, 8
+2, Hooters wings, 0.782946, 8
+2, Great Wolf Lodge, 0.81735, 9
+2, adult beverage, 0.58477, 9
+3, fat ones, 0.575819, 0
+3, Coors Lights, 0.570537, 0
+3, huge fan, 0.60828, 1
+3, Quacker mess, 0.597072, 1
+3, Hooters restaurants, 0.768572, 2
+3, best location, 0.512906, 2
+3, talent work, 0.550593, 4
+3, food, 0.424181, 4
+3, hooters, 0.907881, 5
+3, wings, 0.883182, 5
+3, kind, 0.269641, 6
+3, Smothered Chicken sandwich, 0.884644, 7
+3, wait staff, 0.623351, 7
+3, drinks, 0.368481, 8
+3, oysters, 0.281553, 8
+3, startling revelation, 0.627759, 9
+3, nice place, 0.535675, 9
+4, Concord NC, 0.246676, 0
+4, Mt Dew., 0.234274, 0
+4, nicest Hooters Girl, 0.578749, 1
+4, long time, 0.227685, 1
+4, average time, 0.248439, 2
+4, Food preparation, 0.237606, 2
+4, hooters girl, 0.746886, 3
+4, new bar area, 0.380843, 3
+4, hooters, 0.907937, 5
+4, new seating configuration, 0.377296, 6
+4, club sandwich, 0.377126, 6
+4, new Western Burger, 0.3787, 7
+4, general manager, 0.345074, 7
+4, Hooters Girls, 0.77688, 8
+4, average Hooters, 0.476087, 8
+4, newer interior Hooters, 0.59624, 9
+4, Store Manager, 0.238714, 9
+5, route, 0.256714, 1
+5, area, 0.23567, 1
+5, review, 0.239972, 3
+5, buffalo chicken sandwich, 0.631092, 8
+5, liking, 0.297145, 8
+5, incredibly bubbly Hooters, 0.916907, 9
+5, pleasant Hooters Girl, 0.843344, 9

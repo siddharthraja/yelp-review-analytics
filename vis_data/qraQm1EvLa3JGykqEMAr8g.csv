@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, awful experience, 0.825169, 0
+1, slowest servers, 0.776873, 0
+1, worst service, 0.745191, 1
+1, Old Montreal, 0.717875, 1
+1, door, 0.555055, 2
+1, sign, 0.543321, 2
+1, people, 0.603697, 3
+1, drinks, 0.571324, 3
+1, disuse Communion, 0.808245, 4
+1, bunch, 0.475494, 4
+1, noon, 0.496567, 6
+1, tray, 0.477399, 6
+1, cool place vibe, 0.953115, 7
+1, glass, 0.469378, 7
+1, world focus, 0.756513, 8
+1, Successful places, 0.73959, 8
+2, grilled veggie salad, 0.895966, 0
+2, recommande pas vraiment, 0.892681, 0
+2, expensive brunch, 0.857438, 2
+2, kinda boring, 0.80439, 2
+2, yucky cabbage dish, 0.935645, 3
+2, lunch menu, 0.803059, 3
+2, food, 0.878044, 4
+2, service, 0.829149, 4
+2, clam chowder, 0.914664, 6
+2, c'est pas l'extase, 0.903408, 6
+2, family style way, 0.896771, 7
+2, Brunch très, 0.851304, 7
+2, old port, 0.888172, 8
+2, Great beer, 0.828449, 8
+2, REAL gourmet spots, 0.864206, 9
+2, nice place, 0.819216, 9
+3, shot, 0.448264, 0
+3, service, 0.385304, 3
+3, drinks, 0.716911, 5
+3, patio, 0.748668, 6
+3, food, 0.363414, 6
+3, Good brunch, 0.904108, 7
+4, pour le club, 0.936104, 0
+4, le tout au, 0.905255, 0
+4, hic pour le, 0.929984, 6
+4, Le concept est, 0.920513, 6
+4, le lunch et, 0.932555, 7
+4, le souper, 0.84274, 7
+4, Simple elegant cuisine, 0.794006, 8
+4, restaurant musical selections, 0.801659, 9
+5, Brunch zéro défaut, 0.953045, 0
+5, juteuse et bien, 0.913081, 0
+5, En plat principal, 0.844078, 2
+5, une purée, 0.884369, 6
+5, gâteau au fromage, 0.863517, 6
+5, Phenomenal brunch place, 0.997613, 7
+5, eggs Benedict, 0.994928, 7
+5, lovely Saturday brunch, 0.959412, 8
+5, Old Montreal waterfront, 0.86305, 8
+5, amazing brunch place, 0.993438, 9
+5, Service agréable et, 0.891929, 9

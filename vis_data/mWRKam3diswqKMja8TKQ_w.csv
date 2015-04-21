@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, eye contact, 0.640952, 0
+1, crowd, 0.404158, 0
+1, biggest TV, 0.686024, 1
+1, star rating, 0.629791, 1
+1, bar, 0.370226, 2
+1, preseason football game, 0.984933, 3
+1, preseason game, 0.74322, 3
+3, Bands setup, 0.726433, 0
+3, frozen/fried appetizers, 0.693401, 0
+3, bar, 0.580621, 1
+3, Nachos, 0.266742, 1
+3, loudness, 0.27098, 2
+3, halves, 0.264549, 2
+3, multiple previous visits, 0.889794, 3
+3, multiple friends, 0.569471, 3
+3, Domestic Beer prices, 0.967269, 6
+3, Jalapenos, 0.284665, 6
+3, Fireball Shots, 0.699177, 7
+3, Burger, 0.241903, 8
+4, darts, 0.387558, 0
+4, Pool tables, 0.620285, 6
+4, home, 0.271691, 6
+4, great pizza place, 0.979106, 8
+4, Awesome place, 0.846173, 8
+4, great prices, 0.59787, 9
+4, staff, 0.266607, 9
+5, pool tables, 0.70541, 0
+5, dive bar prices, 0.696228, 0
+5, Credit Card, 0.501029, 1
+5, fool, 0.340344, 1
+5, neighborhood bar type, 0.721158, 2
+5, Best bar, 0.529129, 2
+5, Thursday nights, 0.492628, 3
+5, Karaoke, 0.346153, 3
+5, great food place, 0.675207, 6
+5, classic video games, 0.665196, 6
+5, Ms. Pac Man/Galaga, 0.70129, 7
+5, punching bag game, 0.693851, 7
+5, live music, 0.904308, 8
+5, Great staff, 0.504443, 8
+5, friendly bartenders, 0.539236, 9
+5, jump street, 0.517912, 9

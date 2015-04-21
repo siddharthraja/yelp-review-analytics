@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, Fat Tuesdays, 0.904778, 0
+1, West Fat Tuesdays, 0.8015, 0
+1, big plastic cup, 0.739273, 1
+1, talk shit, 0.563775, 1
+1, little water, 0.70433, 2
+1, slurpee machine, 0.605039, 2
+1, 7-11, 0.350136, 3
+1, employees, 0.350123, 3
+1, short/shaved brown hair, 0.71386, 6
+1, Jeremy R., 0.526904, 6
+1, yea, 0.471891, 7
+1, girlfriend, 0.358107, 7
+1, good place, 0.560122, 8
+2, famous SOLIDER SLIM, 0.982657, 0
+2, generous bartenders, 0.755065, 0
+2, taste, 0.399348, 1
+2, mess, 0.388741, 1
+2, extra shots, 0.690766, 3
+2, drinks, 0.505444, 3
+2, margarita store, 0.789769, 6
+2, Jungle Juice, 0.740432, 6
+2, Pina corlada, 0.733941, 7
+2, night, 0.455753, 8
+2, Flavors, 0.388452, 9
+3, severe headache Fat, 0.611344, 0
+3, huge drink, 0.591587, 0
+3, girly drink, 0.578359, 1
+3, maliciously sweet beverage, 0.554415, 1
+3, damn slushie drink, 0.646184, 2
+3, trashy drink, 0.583967, 2
+3, Fat Tuesdays, 0.758306, 3
+3, frozen boozy slush, 0.691559, 3
+3, place, 0.530136, 4
+3, drink, 0.952007, 5
+3, shots, 0.514637, 5
+3, Tuesday drink, 0.596572, 6
+3, Late afternoon drinks, 0.572818, 6
+3, extra shot, 0.632769, 7
+3, pina colada, 0.545279, 7
+3, frozen drink options, 0.68852, 8
+3, good drink, 0.594227, 8
+4, multiple extra shots, 0.470047, 0
+4, real deal Fat, 0.468752, 0
+4, vegas blvd strip, 0.470279, 1
+4, Las Vegas Blvd, 0.46588, 1
+4, Fat Tuesday Corporate, 0.478802, 2
+4, FAT TUESDAY CUPS, 0.47246, 2
+4, pina colada, 0.536263, 3
+4, miracle mile shops, 0.510291, 3
+4, extra shot, 0.90559, 4
+4, drinks, 0.611856, 4
+4, fat tuesdays, 0.70479, 5
+4, vegas, 0.679822, 5
+4, mango, 0.461962, 6
+4, pretty big drink, 0.461898, 6
+4, fat tuesday cup, 0.481162, 7
+4, couple extra shots, 0.469913, 7
+4, good sized drink, 0.471727, 8
+4, great place, 0.465642, 8
+4, monster yard drink, 0.459794, 9
+5, nearest fat tuesday, 0.575778, 0
+5, w/an extra shot, 0.572165, 0
+5, beloved Fat, 0.550762, 1
+5, fat Tuesday Frosty, 0.582807, 2
+5, Fat Tuesday cup, 0.580149, 2
+5, las vegas, 0.614407, 3
+5, extra everclear shots, 0.590769, 3
+5, vegas, 0.789201, 4
+5, Planet Hollywood, 0.725565, 4
+5, extra shot, 0.970421, 5
+5, fat tuesdays, 0.81201, 5
+5, little extra kicker, 0.560339, 6
+5, caesars palace, 0.558209, 6
+5, couple extra shots, 0.572707, 7
+5, w/the extra shots, 0.565305, 7
+5, best deal, 0.562996, 8
+5, cool icy drink, 0.55602, 8

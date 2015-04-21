@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, white pizza concoction, 0.80308, 0
+1, Revolution PIZZA, 0.725319, 0
+1, horrific service, 0.543874, 1
+1, young professionals, 0.540004, 1
+1, burnt pizza, 0.805016, 2
+1, hot pizza, 0.69902, 2
+1, PIZZA place, 0.690353, 3
+1, ice cream parlor, 0.661364, 3
+1, pizza, 0.974651, 4
+1, place, 0.710506, 4
+1, gf, 0.590477, 5
+1, gift certificate, 0.837422, 6
+1, drink orders, 0.67127, 6
+1, Margherita pizza, 0.713828, 7
+1, great service, 0.668588, 7
+1, Friday night, 0.691218, 8
+1, seemingly chill, 0.550529, 8
+2, cracker-like pizza crust, 0.417243, 0
+2, new favorite pizza, 0.388947, 0
+2, grilled  Margherita  pizza, 0.620679, 1
+2, bad pizza, 0.354939, 1
+2, star business lunch, 0.228508, 2
+2, equal priced whisky, 0.215198, 2
+2, crust pizza, 0.379749, 3
+2, pizza place, 0.373883, 3
+2, pizza, 0.922501, 4
+2, beers, 0.220265, 4
+2, beer, 0.374689, 5
+2, time, 0.258492, 5
+2, large pizza, 0.449835, 6
+2, revolution, 0.35203, 6
+2, similar pizza, 0.348037, 7
+2, beer selection, 0.327113, 7
+2, rosemary potato pizza, 0.748417, 8
+2, favorite pizza, 0.401371, 8
+2, tasty pizza, 0.338812, 9
+2, sip delicious beer, 0.250961, 9
+3, small pizza, 0.532886, 0
+3, neighborhood pizza joint, 0.53056, 0
+3, pizza joint, 0.53254, 3
+3, best pizza, 0.512931, 3
+3, place, 0.560755, 4
+3, pizza, 0.984018, 5
+3, Revolution Pizza, 0.645014, 5
+3, salt laden pizza, 0.524058, 6
+3, pork signature pizza, 0.510156, 6
+3, medium pizza, 0.587678, 7
+3, basic cheese pizza, 0.536203, 7
+3, beer selection, 0.78841, 8
+3, great beer selection, 0.503931, 8
+3, pretty good beer, 0.474268, 9
+3, expansive beer list, 0.428006, 9
+4, cheeseburger pizza, 0.535584, 0
+4, pricier pizza, 0.523805, 0
+4, standard pizza sauce, 0.522669, 1
+4, cold pizza, 0.509295, 1
+4, NY pizza fix, 0.524105, 2
+4, Carolina Cyclops Pizza, 0.514163, 2
+4, pizza shop, 0.525645, 3
+4, bad pizza, 0.518397, 3
+4, pizza, 0.903194, 5
+4, menu, 0.502201, 5
+4, beer selection, 0.752555, 6
+4, crust pizza, 0.527039, 6
+4, revolution pizza, 0.614678, 7
+4, pie pizza, 0.537168, 7
+4, noda pizza, 0.540367, 8
+4, medium two-topping pizza, 0.534373, 8
+4, good pizza, 0.556695, 9
+4, pizza place, 0.53849, 9
+5, veggie pizza, 0.645595, 0
+5, North Carolina beer, 0.57151, 0
+5, bloated beer taste, 0.580702, 1
+5, poor pizza experience, 0.709674, 2
+5, pizza joint, 0.64265, 2
+5, gelato bar, 0.584428, 3
+5, ass beer selection, 0.582625, 3
+5, pizza, 0.943853, 5
+5, beer, 0.769915, 5
+5, revolution pizza, 0.716162, 6
+5, beer selection, 0.674201, 6
+5, demeter pizza, 0.724903, 7
+5, .best specialty pizza, 0.688677, 7
+5, best pizza, 0.74155, 8
+5, pizza places, 0.70307, 8
+5, favorite pizza place, 0.781989, 9
+5, Awesome pizza, 0.681435, 9

@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, decent service, 0.657852, 0
+1, good food, 0.642961, 0
+1, Rude bartenders, 0.710187, 1
+1, friend complain, 0.665269, 1
+1, silver suv, 0.685709, 2
+1, soy sauce, 0.659849, 2
+1, phone number, 0.67603, 3
+1, single person, 0.671842, 3
+1, Hawaiian French Toast, 0.961259, 6
+1, loud music playing, 0.916674, 6
+1, island style dishes, 0.95194, 7
+1, breakfast menu, 0.760379, 7
+1, Restaurant.com coupon, 0.710148, 9
+2, exceptionally slow night, 0.801797, 0
+2, robertos salsa cups, 0.754295, 0
+2, bar service, 0.668448, 1
+2, redeeming quality, 0.668333, 1
+2, good way, 0.657297, 2
+2, portion control, 0.641381, 2
+2, irish potato fritters, 0.909452, 3
+2, special wing sauce, 0.755642, 3
+2, Dixie containers, 0.635926, 4
+2, completely drenched napkin, 0.763317, 6
+2, creme brulee, 0.751366, 6
+2, paper drink napkin, 0.75928, 7
+2, balsamic drizzle, 0.6539, 7
+2, spicy Ahi tuna, 0.802441, 8
+2, decent quality, 0.661713, 8
+3, Tex Mex burger, 0.826732, 0
+3, crab cakes, 0.672574, 0
+3, little fruit, 0.557428, 1
+3, little peppers, 0.701726, 2
+3, strong drinks, 0.610999, 2
+3, free appetizer card, 0.700395, 3
+3, Paula Abdul songs, 0.673307, 3
+3, parfait, 0.697963, 4
+3, food, 0.659055, 4
+3, drinks, 0.715885, 6
+3, vodka lemonade, 0.555857, 6
+3, burger, 0.835389, 7
+3, totally different burger, 0.834827, 7
+3, sweet potato fries, 0.9237, 8
+3, delicious pineapple slaw, 0.689503, 8
+4, red pepper hummus, 0.904527, 0
+4, Red Stone Grill, 0.724495, 0
+4, sour cream, 0.739223, 2
+4, Monday night football, 0.717907, 2
+4, spicy ahi, 0.900647, 3
+4, tortilla chips, 0.810255, 3
+4, appetizers, 0.701978, 5
+4, pm, 0.666422, 5
+4, crab cakes, 0.82461, 6
+4, recent  Yelp event, 0.731772, 6
+4, Specialty Martinis, 0.697745, 7
+4, large screen, 0.621731, 7
+4, pretty decent selection, 0.724027, 8
+4, creamy mustard sauce, 0.719514, 8
+4, nice unexpected presentation, 0.679979, 9
+4, creamy sauce, 0.626847, 9
+5, half price, 0.837518, 0
+5, ahi tuna, 0.832952, 0
+5, Thursday night football, 0.982813, 3
+5, book, 0.550969, 3
+5, wife, 0.72651, 5
+5, Best Burger, 0.850317, 6
+5, Las Vegas, 0.82971, 6
+5, artichoke dip, 0.8611, 7
+5, cherry martini, 0.822069, 7
+5, restaurant certificate, 0.783726, 8
+5, place, 0.616865, 8
+5, specialty drinks, 0.832416, 9
+5, creative concept, 0.821206, 9

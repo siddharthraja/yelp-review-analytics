@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, greeter, 0.744471, 0
+2, smile, 0.686857, 0
+2, steak, 0.98466, 1
+2, food, 0.662528, 1
+2, greeting, 0.700042, 2
+2, takeout, 0.799843, 6
+2, register, 0.681488, 6
+2, Silverware, 0.711166, 8
+2, kind, 0.66761, 8
+2, thanks, 0.974863, 9
+3, Applebee, 0.585313, 0
+3, payment, 0.545462, 0
+3, complaints, 0.563424, 2
+3, confirmation, 0.575834, 3
+3, extra condiments, 0.906053, 6
+3, cleanliness, 0.577146, 6
+3, young lady, 0.890717, 7
+3, order, 0.734911, 7
+4, wait staff, 0.94273, 0
+4, result, 0.534541, 0
+4, surgery, 0.459713, 2
+4, menu, 0.459394, 2
+4, chicken pasta, 0.927673, 6
+4, Sunday night, 0.807245, 6
+4, Applebee, 0.645145, 7
+4, course, 0.464, 7
+4, favorite meal, 0.899855, 8
+5, deal, 0.343418, 0
+5, stars, 0.324562, 0
+5, ribblets, 0.318987, 1
+5, star restaurant, 0.810327, 3
+5, star place, 0.781998, 3
+5, order, 0.481922, 6
+5, drinks, 0.352714, 6
+5, Lol, 0.641742, 7
+5, food, 0.58533, 7
+5, mango lemonade, 0.90912, 8
+5, awesome server, 0.845575, 8
+5, sweet margarita, 0.867784, 9
+5, extra patron, 0.845953, 9

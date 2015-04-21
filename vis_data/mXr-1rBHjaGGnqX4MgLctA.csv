@@ -1,0 +1,14 @@
+rating, keyword, relevance, bucket
+1, truck drivers, 0.967872, 1
+1, bar, 0.69695, 1
+3, regulars, 0.409805, 0
+3, time, 0.354287, 0
+3, food, 0.408944, 1
+3, beer selection, 0.570631, 3
+3, good liquor selection, 0.802027, 6
+3, pretty ok bar, 0.974846, 7
+3, big screen, 0.561517, 7
+3, free popcorn, 0.610178, 9
+5, Great Dive, 0.83632, 8
+5, free popcorn, 0.984827, 9
+5, Friendly staff, 0.767763, 9

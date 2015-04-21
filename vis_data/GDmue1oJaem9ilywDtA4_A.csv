@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, bottled iced tea, 0.688372, 0
+1, yellow curry, 0.685366, 0
+1, food, 0.751266, 1
+1, food allergies/ intolerances, 0.708561, 1
+1, rice balls, 0.668987, 2
+1, wait staff, 0.584976, 2
+1, Red Thai, 0.669126, 3
+1, drinks, 0.602424, 3
+1, place, 0.736906, 4
+1, gluten free menu, 0.890162, 5
+1, pad thai, 0.937781, 6
+1, red curry, 0.670461, 6
+1, soy sauce, 0.673716, 7
+1, Asian restaurant, 0.549508, 7
+1, Good luck Sochu, 0.720863, 8
+1, right people, 0.585699, 8
+1, Amazing ambiance, 0.568705, 9
+2, Spicy Red Curry, 0.753928, 0
+2, red curry okay, 0.743708, 0
+2, bad service sundae, 0.733912, 1
+2, authentic Asian spots, 0.723622, 1
+2, main dishes, 0.771135, 2
+2, star ratings Sochu, 0.728575, 2
+2, private party, 0.760548, 3
+2, Phoenix Magazine, 0.725907, 3
+2, Japanese food, 0.690202, 4
+2, food, 0.94361, 5
+2, place, 0.900517, 5
+2, sugar cane pork, 0.807944, 6
+2, Sochu House, 0.803938, 6
+2, red curry, 0.874957, 7
+2, kobe beef skewers, 0.841881, 7
+2, tasty menu, 0.688257, 8
+2, White Truffle Edamame, 0.733898, 9
+2, lovely Sunday evening, 0.71012, 9
+3, Thai spring rolls, 0.438023, 0
+3, brightest light source, 0.419028, 0
+3, creepy dive bar, 0.424926, 1
+3, drink menu, 0.417031, 1
+3, quail tapas, 0.454324, 2
+3, little extra flavor, 0.450222, 2
+3, tea cheesecake dessert, 0.444245, 3
+3, BACON WRAPPED QUAIL, 0.414602, 3
+3, strip mall, 0.47985, 4
+3, ......., 0.441071, 4
+3, green tea cheesecake, 0.573503, 5
+3, tapas, 0.511421, 5
+3, sugar cane pork, 0.935861, 6
+3, sochu house, 0.731094, 6
+3, green papaya salad, 0.683628, 7
+3, white meat chicken, 0.468797, 7
+3, mint pepper chicken, 0.461153, 8
+3, creative Asian fusion, 0.443538, 8
+3, random vintage-modern furnishings, 0.433801, 9
+3, interesting aesthetic style, 0.433716, 9
+4, short ribs, 0.670804, 2
+4, lust martini, 0.621147, 2
+4, sugar cane pork, 0.913312, 3
+4, food, 0.894823, 5
+4, bar, 0.67818, 5
+4, place, 0.699502, 6
+4, bar area, 0.656607, 6
+4, tapas, 0.868916, 7
+4, sochu house, 0.76335, 7
+4, drinks, 0.666091, 8
+4, good Chinese food, 0.626756, 8
+4, great Martini specials, 0.622659, 9
+4, tapas menu, 0.620867, 9
+5, best tapas, 0.575925, 0
+5, tapas items, 0.568228, 0
+5, sour soup, 0.608003, 2
+5, new tapas menu, 0.593001, 3
+5, Kushiage Tapas offerings, 0.574189, 3
+5, soup gyoza, 0.673946, 4
+5, tapas menu, 0.660907, 4
+5, sochu house, 0.90312, 5
+5, sugar cane pork, 0.764917, 5
+5, Johnny Chu, 0.705023, 6
+5, food, 0.655535, 6
+5, chef johnny chu, 0.586707, 7
+5, house dynamite, 0.585605, 7
+5, tapas style, 0.597143, 8
+5, delicious tapas, 0.574021, 8
+5, tapas style dinning., 0.584825, 9
+5, Robata Grill Tapas, 0.574275, 9

@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, greatest customer service, 0.662585, 0
+1, new bartender, 0.646146, 0
+1, completely WRONG food, 0.686208, 1
+1, poor service, 0.551806, 1
+1, poor customer service, 0.658235, 2
+1, wrong bartender, 0.619067, 2
+1, time, 0.656053, 3
+1, apple candles, 0.563013, 3
+1, customer service, 0.908185, 4
+1, Smoke Ranch Junction, 0.724122, 6
+1, good time, 0.565746, 6
+1, great customer service, 0.654965, 7
+1, pretty awesome dive, 0.73115, 8
+1, blue cheese steak, 0.668032, 8
+2, beers, 0.402058, 0
+2, check, 0.390713, 0
+2, slot player, 0.682275, 1
+2, drinks, 0.393378, 1
+2, penny keno machine, 0.949146, 2
+2, max bet, 0.742536, 2
+2, entire time, 0.674064, 6
+2, distance, 0.389348, 6
+2, new machine, 0.728965, 7
+2, nachos, 0.632952, 7
+3, try, 0.487058, 0
+3, Smoke Ranch Junction, 0.990446, 3
+3, home type pool, 0.870046, 7
+3, pool league teams, 0.859087, 7
+3, prices, 0.443071, 8
+4, Star Tavern, 0.833929, 0
+4, larger party, 0.791783, 0
+4, cheap pool tables, 0.972115, 7
+4, cheap drinks, 0.823513, 7
+4, quaint place, 0.805401, 8
+4, YAY, 0.72217, 8
+4, Bartender Alisha, 0.859071, 9
+5, Sunday football game, 0.948391, 0
+5, NFL package, 0.829222, 0
+5, low key night, 0.964581, 2
+5, las Vegas, 0.744358, 3
+5, bar staff, 0.798843, 6
+5, watch football, 0.770329, 6
+5, Potato soup, 0.81315, 7
+5, mix drinks, 0.782034, 7
+5, poker machines, 0.792703, 8
+5, nice place, 0.755766, 8
+5, friendly smiles, 0.829911, 9
+5, Speedy service, 0.829423, 9

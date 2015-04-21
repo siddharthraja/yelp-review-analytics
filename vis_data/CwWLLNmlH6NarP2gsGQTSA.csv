@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, sushi rice, 0.653904, 0
+1, Sushi spot, 0.634563, 0
+1, sushi bars, 0.664307, 1
+1, worst sushi, 0.650743, 1
+1, raw fish, 0.674658, 2
+1, place, 0.615243, 2
+1, better sushi, 0.667106, 3
+1, miso soup, 0.646941, 3
+1, grocery store sushi, 0.737843, 4
+1, mandalay bay, 0.998989, 5
+1, sushi, 0.834761, 5
+1, Mandalay Bay Roll, 0.697068, 6
+1, Yellow Tail Roll, 0.648096, 6
+1, Great sashimi, 0.581141, 7
+1, Good thing, 0.530201, 7
+2, REAL tasty sushi, 0.688097, 0
+2, ideal sushi place, 0.677291, 0
+2, ridiculously overpriced sashimi, 0.56403, 1
+2, free soy sauce, 0.54382, 1
+2, spicy tuna, 0.763238, 2
+2, service, 0.495676, 2
+2, sushi restaurants, 0.5923, 3
+2, cucumber salad, 0.524346, 3
+2, sushi, 0.923971, 5
+2, quality, 0.443783, 5
+2, seaweed salad, 0.672623, 6
+2, sushi guy, 0.609417, 6
+2, accompanying casino smoke, 0.488419, 7
+2, better places, 0.426096, 7
+2, better options, 0.517878, 8
+2, numerous better options, 0.510181, 8
+3, yellowtail sashimi, 0.599757, 0
+3, piece sashimi plate, 0.593293, 0
+3, amazing sushi, 0.677871, 1
+3, sushi chefs, 0.712855, 2
+3, little longer music, 0.544305, 2
+3, sushi bar, 0.660404, 3
+3, cover band, 0.562085, 3
+3, sushi, 0.966206, 4
+3, roll, 0.728192, 4
+3, miso soup, 0.739782, 5
+3, place, 0.570264, 5
+3, real sushi, 0.706807, 6
+3, weird sushi lounge.., 0.704409, 6
+3, Mandalay Bay, 0.799255, 7
+3, -Yellowtail sushi roll, 0.711365, 7
+3, cheaper sushi joints, 0.687307, 8
+3, Good sushi, 0.676649, 8
+3, small sushi restaurant, 0.732105, 9
+3, decent sushi, 0.644565, 9
+4, salmon sashimi, 0.671439, 0
+4, different lunch specials, 0.595775, 0
+4, good thing, 0.477858, 1
+4, regular sushi menu, 0.791569, 2
+4, Mandalay Bay, 0.571652, 2
+4, fancy rolls, 0.453857, 3
+4, sushi, 0.966419, 5
+4, shrimp tempura, 0.747191, 6
+4, sushi rolls, 0.679402, 6
+4, mmmm yummmy sushi, 0.865459, 7
+4, spicy tuna, 0.753657, 7
+4, best sushi, 0.775257, 8
+4, sushi craving, 0.698841, 8
+4, good sushi, 0.831905, 9
+4, sushi lunch, 0.742711, 9
+5, sushi bar, 0.725151, 0
+5, dining table area, 0.59301, 0
+5, sushi joint, 0.756884, 2
+5, spicy sauces, 0.589593, 2
+5, sushi, 0.979911, 5
+5, salmon sushi, 0.77442, 7
+5, freshest sushi, 0.773961, 7
+5, Spicy scallop hand, 0.873936, 8
+5, sushi chef, 0.724102, 8
+5, great selection Amazing, 0.746035, 9
+5, Great sushi, 0.728125, 9

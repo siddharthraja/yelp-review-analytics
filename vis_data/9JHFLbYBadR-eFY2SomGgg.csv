@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+3, prices, 0.319513, 3
+3, cheesecake portion, 0.961194, 7
+3, good size, 0.676049, 7
+3, alcohol, 0.381493, 8
+3, service, 0.315047, 8
+3, black tiling, 0.855779, 9
+3, Kudos, 0.472117, 9
+4, old man pub, 0.607953, 0
+4, tender juicy meat, 0.590489, 0
+4, tartar sauce, 0.511279, 1
+4, good things, 0.712653, 2
+4, accompanying potato slices, 0.590611, 2
+4, hot dog, 0.669417, 3
+4, hot dogs, 0.584753, 3
+4, tad, 0.517396, 4
+4, safari lounge, 0.900267, 6
+4, good A. hotdogs, 0.607084, 6
+4, mussel popcorn, 0.626896, 7
+4, black pepper chicken, 0.590318, 7
+4, funky wee hangout, 0.603794, 8
+4, service groovy music, 0.603653, 8
+4, Safari Lounge menu, 0.641696, 9
+4, pretty solid place, 0.585589, 9
+5, vegetarian Nuri Sushi, 0.709285, 0
+5, hot dog version, 0.678933, 0
+5, little nugget, 0.530692, 1
+5, little jungle heat, 0.67988, 2
+5, Station Bar, 0.543316, 3
+5, Safari Lounge, 0.994966, 4
+5, original Safari Lounge, 0.817788, 6
+5, Bellhaven Brewery, 0.514586, 6
+5, light lunch, 0.525956, 7
+5, nice place, 0.506667, 7
+5, Safari Lounge Beer, 0.823323, 8
+5, Safari Chorizo Brunch, 0.764973, 8
+5, great guy, 0.516236, 9
+5, staff, 0.339976, 9

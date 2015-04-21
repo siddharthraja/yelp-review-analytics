@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+2, Crown Room, 0.77662, 0
+2, big fans, 0.760614, 0
+2, new management, 0.740135, 2
+2, mishap, 0.515839, 2
+2, busy night, 0.79017, 3
+2, bit, 0.705577, 3
+2, great little spot, 0.996056, 6
+2, good drink, 0.807057, 6
+2, better luck, 0.761116, 7
+3, guy checking IDs, 0.714259, 0
+3, Dirty Pretty, 0.539002, 0
+3, Friday night, 0.524934, 1
+3, bar area, 0.520041, 1
+3, Downside Risk, 0.909742, 2
+3, bar crowd, 0.52575, 2
+3, night thats, 0.515476, 3
+3, good memories, 0.506717, 3
+3, DJ, 0.410045, 5
+3, awesome new music, 0.655339, 6
+3, good music, 0.526116, 6
+3, glam dive bar, 0.661312, 7
+3, chicken fingers, 0.497735, 7
+3, good offers, 0.491714, 8
+3, Scottsdale Club Scene, 0.651659, 9
+3, great refreshment, 0.50563, 9
+4, chill spot, 0.68602, 0
+4, Stetson Block area, 0.679276, 0
+4, good conversations, 0.60946, 1
+4, cheap vodka soda, 0.670337, 2
+4, mixed drinks, 0.716269, 3
+4, Scottsdale, 0.632222, 3
+4, crown room, 0.904994, 6
+4, place, 0.803283, 6
+4, unisex bathrooms, 0.727941, 7
+4, large martini menu, 0.704331, 7
+4, cookie dough martini, 0.697457, 8
+4, frosty glass material, 0.690179, 8
+4, vip bathrooms, 0.641845, 9
+4, lounge seating, 0.612087, 9
+5, cookie dough martini, 0.639119, 0
+5, cookie dough liqueur, 0.63132, 0
+5, 30-some check-ins, 0.568839, 1
+5, drink prices, 0.5647, 1
+5, main area, 0.566792, 2
+5, cookie dough, 0.680562, 3
+5, exotic concoction, 0.56939, 3
+5, Crown Room, 0.904042, 5
+5, outdoor fenced-off area, 0.614239, 6
+5, drinks, 0.581155, 6
+5, old town, 0.779683, 7
+5, lovely glass flowers, 0.635974, 7
+5, Old Town nightlife, 0.638276, 8
+5, nice place, 0.636593, 8
+5, ultra lounge feel, 0.607376, 9

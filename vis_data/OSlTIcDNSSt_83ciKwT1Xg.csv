@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, nearby drink, 0.48754, 0
+1, moments notice, 0.463661, 0
+1, Yelp Review, 0.448573, 1
+1, ok service, 0.423333, 1
+1, real MIXOLOGY bars, 0.639001, 2
+1, right drink, 0.497663, 2
+1, popular drinks, 0.478422, 3
+1, wrong color, 0.450807, 3
+1, friends, 0.412207, 4
+1, idea, 0.296311, 4
+1, Jade Bar, 0.955141, 5
+1, drink, 0.532119, 5
+1, town guests, 0.469161, 6
+1, structure, 0.276568, 6
+1, business associates, 0.719065, 7
+1, Paradise Valley, 0.479374, 7
+1, meaningful conversation, 0.463309, 8
+1, great Vodkas, 0.461215, 8
+2, late night cocktail, 0.862401, 0
+2, PV locals, 0.648516, 0
+2, jade bar, 0.854708, 1
+2, hands-on experience, 0.612301, 1
+2, twenty-somethings bar phoenix, 0.850583, 2
+2, good experience, 0.622858, 2
+2, pricey drinks, 0.866381, 3
+2, time constraints, 0.620867, 3
+2, drinks, 0.972195, 5
+2, time Yelp, 0.674831, 6
+2, class, 0.665309, 6
+2, mixology class, 0.639782, 7
+2, client cocktails, 0.637889, 7
+2, special place, 0.633737, 8
+2, hotel restaurant, 0.629438, 8
+2, superb deal, 0.613571, 9
+3, bourbon drink, 0.626667, 0
+3, snap pea martini, 0.624022, 0
+3, cocky bartender, 0.529643, 1
+3, indoor table, 0.519121, 1
+3, stray little piece, 0.64029, 2
+3, food, 0.588285, 2
+3, onion dip, 0.840965, 3
+3, famous sunset view, 0.611071, 3
+3, overall experience, 0.519162, 4
+3, view, 0.68129, 6
+3, drinks, 0.644365, 6
+3, jade bar, 0.998636, 7
+3, high ratings, 0.532506, 7
+3, truely beautiful view, 0.633418, 8
+3, absolute amazing view, 0.61938, 8
+3, cozy fireplace, 0.534977, 9
+3, well-priced consider, 0.519977, 9
+4, late night drink, 0.653326, 0
+4, beautiful bar, 0.663498, 1
+4, Jade Bar solo, 0.732996, 2
+4, small bar, 0.664087, 2
+4, atmosphere Jade Bar, 0.712687, 3
+4, upscale bar food, 0.668602, 3
+4, jade bar, 0.972399, 5
+4, service, 0.659685, 5
+4, drinks, 0.73862, 6
+4, bar area, 0.694416, 6
+4, Paradise Valley, 0.713273, 7
+4, small interior bar, 0.673835, 7
+4, Sanctuary Resort, 0.716146, 8
+4, Jade Bar décor, 0.708687, 8
+4, great place, 0.682954, 9
+4, cantaloupe martini, 0.67612, 9
+5, swanky resort bar, 0.592227, 0
+5, bar great ambiance, 0.587659, 0
+5, Bar food, 0.555948, 2
+5, bar snacks, 0.551248, 2
+5, cantaloupe martini, 0.583151, 4
+5, bar staff, 0.55354, 4
+5, drinks, 0.602535, 5
+5, place, 0.596537, 6
+5, Basil Martini, 0.555129, 6
+5, cocktails, 0.583992, 7
+5, live music, 0.583609, 7
+5, jade bar, 0.933586, 8
+5, sanctuary resort, 0.591192, 8
+5, great live music, 0.560654, 9
+5, great selection, 0.554638, 9

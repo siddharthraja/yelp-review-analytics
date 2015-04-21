@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, Biblos salad, 0.867678, 0
+1, flat screen television, 0.780288, 0
+1, Piña Colada, 0.645639, 1
+1, sour cream, 0.644428, 1
+1, vague saving grace, 0.789084, 2
+1, caesar salad, 0.742166, 2
+1, repeat visit, 0.65353, 3
+1, nachos, 0.568787, 4
+1, Biblos, 0.947349, 5
+1, early millennium rolls, 0.76718, 6
+1, food, 0.739001, 6
+1, cozy library-esque nook, 0.785135, 7
+1, eponymous salad, 0.709155, 7
+1, good quality, 0.646273, 9
+1, brilliant example, 0.643643, 9
+2, discount Biblos, 0.86073, 0
+2, apparent health issues, 0.808481, 0
+2, embarrassing coughing fit, 0.784986, 1
+2, good service, 0.722132, 1
+2, regular fancy-cocktail hang-outs, 0.790482, 2
+2, cheap food, 0.724082, 2
+2, nearby Biblos, 0.872882, 3
+2, food, 0.871502, 3
+2, drinks, 0.872959, 4
+2, skip Biblos, 0.872873, 4
+2, Biblos, 0.993823, 5
+2, markedly different experiences, 0.795836, 6
+2, twice daily basis, 0.761569, 6
+2, Biblos many times, 0.869348, 7
+2, soft sourdough bun, 0.776142, 7
+2, good cocktails, 0.733782, 8
+2, nice cachaca, 0.705078, 8
+3, George St. Biblos, 0.770267, 0
+3, Big bar restaurant, 0.609331, 0
+3, trendy bar, 0.459048, 2
+3, word heels, 0.447988, 2
+3, 20-year old girls, 0.537357, 3
+3, pushy manner, 0.43883, 3
+3, Biblos, 0.967788, 5
+3, food, 0.614202, 5
+3, Caesar Salad, 0.745395, 6
+3, good portion size, 0.55556, 6
+3, pretty decent place, 0.608123, 7
+3, surprisingly decent bar, 0.588341, 7
+3, convenient location, 0.575251, 8
+3, nachos, 0.48412, 8
+3, Waiter/ess service, 0.471523, 9
+3, afternoon catch, 0.458204, 9
+4, dimly lit ambiance, 0.757247, 0
+4, Old College, 0.66625, 0
+4, inoffensive place, 0.667026, 2
+4, bit grubby, 0.652661, 2
+4, pub/ bar, 0.676838, 3
+4, Jazz Bar, 0.662636, 3
+4, Biblos, 0.961491, 5
+4, bar, 0.677171, 5
+4, reasonably priced grub, 0.772138, 6
+4, friend drinking wine, 0.755497, 6
+4, pretty large restaurant, 0.746869, 7
+4, food, 0.67165, 7
+4, favourite pub mains, 0.796437, 8
+4, chicken nachos, 0.686906, 8
+4, plush leather chairs, 0.76316, 9
+4, lot. nice locatiob., 0.743091, 9
+5, huge portion, 0.934112, 0
+5, student discount, 0.831839, 0
+5, Great food, 0.742874, 8
+5, good prices, 0.734731, 8

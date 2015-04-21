@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, Poor customer service, 0.939655, 0
+1, guy playing pool, 0.860396, 0
+1, friend, 0.363548, 1
+1, couples, 0.358921, 1
+1, Thursday night, 0.54901, 2
+1, reviews, 0.332624, 2
+1, FUCK THE ARMY, 0.575908, 3
+1, place, 0.457606, 3
+1, Good service, 0.573798, 6
+1, old fogies, 0.539859, 6
+1, real night life, 0.924772, 7
+1, Mesa, 0.276839, 7
+2, hip hop, 0.776048, 0
+2, horizontal plastic id, 0.759107, 0
+2, new temp id, 0.763832, 1
+2, biggest complaint, 0.653428, 1
+2, country bar, 0.915771, 2
+2, cent long necks, 0.78787, 2
+2, jack n coke, 0.660014, 3
+2, dances, 0.555489, 3
+2, good size dance, 0.762274, 6
+2, night, 0.545054, 6
+2, Fun place, 0.632669, 7
+2, bouncer, 0.531834, 7
+2, cranberry, 0.555046, 9
+2, vodka, 0.554587, 9
+4, Titty Bar dance, 0.614652, 0
+4, cheap drinks, 0.523726, 0
+4, Cheap beers, 0.447492, 1
+4, creepy guy experiences, 0.537269, 2
+4, drinks, 0.62303, 3
+4, Sat night, 0.545076, 3
+4, dance floor, 0.802075, 5
+4, good time, 0.69346, 6
+4, Request Alan Jackson, 0.520711, 6
+4, free dance lessons, 0.921306, 7
+4, specials. free dance, 0.62223, 7
+4, fantastic dance skills, 0.585589, 8
+4, great mix, 0.542264, 8
+4, pretty nice place, 0.554835, 9
+4, occasional free concert, 0.54057, 9
+5, beer specials, 0.542329, 0
+5, little gem, 0.526853, 0
+5, college towns, 0.530551, 2
+5, new hang, 0.519012, 2
+5, big dance floor, 0.916833, 5
+5, night, 0.760951, 5
+5, cheap drinks, 0.74015, 6
+5, cheap drinks.., 0.53279, 6
+5, country music, 0.728311, 7
+5, great work, 0.536127, 7
+5, place, 0.788182, 8
+5, east valley, 0.726614, 8
+5, staff good drinks, 0.705342, 9
+5, fun country bar, 0.691391, 9

@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, location specific gift, 0.592478, 0
+1, offer gift cards, 0.589672, 0
+1, bad service, 0.664579, 1
+1, terrible service, 0.618617, 1
+1, small turkey slices, 0.615352, 2
+1, little better service, 0.609431, 2
+1, food, 0.696945, 3
+1, time, 0.636882, 3
+1, silver haired gentleman, 0.599603, 4
+1, living room, 0.96327, 5
+1, service, 0.813054, 5
+1, w/ actual HH, 0.588354, 6
+1, Decent drink list, 0.581631, 6
+1, seating area, 0.508696, 7
+1, Veggie Salad, 0.61573, 8
+1, different table, 0.613742, 8
+2, good wine bar, 0.666967, 0
+2, different music playing, 0.656381, 0
+2, cheap liquor, 0.613549, 1
+2, main food area, 0.647913, 2
+2, old beat boxers, 0.618652, 2
+2, typical wine bar, 0.652129, 3
+2, potential love interests, 0.63204, 3
+2, food, 0.829983, 4
+2, postino, 0.626613, 4
+2, place, 0.933623, 5
+2, wine, 0.827865, 5
+2, living room, 0.777889, 6
+2, normal restaurant experience, 0.616917, 7
+2, unique dining experiences, 0.61373, 7
+2, quick delivery time, 0.614688, 8
+2, saturday night, 0.611407, 8
+2, warm summer nights, 0.603993, 9
+2, happy hour place, 0.602951, 9
+3, good service, 0.628824, 0
+3, no-holds barred Golden, 0.607404, 0
+3, food order, 0.646024, 1
+3, good decisions, 0.6273, 1
+3, mixed drinks, 0.632896, 2
+3, mixed message vibe, 0.628582, 2
+3, time, 0.622285, 3
+3, service, 0.756799, 4
+3, way, 0.59776, 4
+3, living room, 0.975211, 5
+3, place, 0.952549, 5
+3, wine, 0.800637, 6
+3, good conversation, 0.658428, 6
+3, bruschetta, 0.662036, 7
+3, right audio level, 0.623447, 7
+3, wine bar, 0.695502, 8
+3, Great wine selection, 0.653435, 8
+3, pretty good wine, 0.700363, 9
+3, nice quiet place, 0.652007, 9
+4, roasted red pepper, 0.302904, 0
+4, nice little menu, 0.318542, 3
+4, Living Room, 0.951873, 4
+4, wine, 0.623181, 5
+4, food, 0.523465, 5
+4, place, 0.780918, 6
+4, butternut squash soup, 0.461182, 6
+4, Living Room wine, 0.35126, 7
+4, east valley, 0.323662, 7
+4, great place, 0.542526, 8
+4, live music, 0.463535, 8
+4, chicken salad sandwich, 0.440344, 9
+4, great tasting wine, 0.343471, 9
+5, prime rib, 0.534201, 0
+5, Living Room downtown, 0.533447, 0
+5, little fondue forks, 0.50693, 1
+5, ladies night, 0.502492, 2
+5, hottest wine bars, 0.521913, 3
+5, little living area, 0.515629, 3
+5, place, 0.790588, 5
+5, night, 0.573286, 5
+5, living room, 0.936375, 6
+5, wine, 0.647808, 6
+5, Great wine bar, 0.555722, 7
+5, Great Neighbour hood, 0.536546, 7
+5, great wine list, 0.596706, 8
+5, Great live music, 0.57156, 8
+5, great service, 0.653635, 9
+5, great food, 0.586796, 9

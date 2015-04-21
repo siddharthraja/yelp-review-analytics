@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, Herb Box, 0.747792, 0
+1, chef, 0.42956, 0
+1, Terrible ambiance, 0.904554, 1
+1, Food, 0.388727, 1
+1, music, 0.370487, 2
+1, Waste, 0.3688, 2
+1, New York, 0.690872, 3
+1, bread, 0.592395, 7
+1, sizeable appetizer, 0.97156, 8
+1, tiny pieces, 0.78523, 8
+4, fingerling potatoes, 0.882701, 0
+4, quick bite, 0.849809, 0
+4, feeling chain, 0.897977, 2
+4, high expectations, 0.865174, 3
+4, casual version, 0.855716, 3
+4, husband, 0.768547, 5
+4, pickled beets, 0.904179, 6
+4, good food, 0.850712, 6
+4, Holy Cow, 0.828505, 7
+4, foodies, 0.600619, 7
+4, toothsome meal, 0.949588, 8
+4, great selections, 0.891146, 8
+4, natural tasting, 0.840738, 9
+5, FnB Team Charleen, 0.830224, 0
+5, FnB food, 0.769553, 0
+5, little curry powder, 0.698171, 1
+5, quaint little place, 0.709268, 2
+5, beet salad, 0.711173, 3
+5, Jidori chicken torta, 0.696904, 3
+5, butterscotch pudding, 0.76438, 4
+5, fnb, 0.955111, 5
+5, Baratin, 0.877375, 5
+5, chicken sandwich, 0.851711, 6
+5, egg salad sandwich, 0.760917, 6
+5, FnB dinner menu, 0.802807, 7
+5, Pavle Milic, 0.764659, 7
+5, small pickled salad, 0.732433, 8
+5, gourmet fresh fare, 0.709806, 8
+5, classy FnB, 0.769117, 9
+5, partner Charleen Badman, 0.753723, 9

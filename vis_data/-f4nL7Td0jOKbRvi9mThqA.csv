@@ -1,0 +1,18 @@
+rating, keyword, relevance, bucket
+1, vraiment essaye, 0.674865, 0
+1, lunch date, 0.667788, 0
+1, plain cheese pizza, 0.920492, 1
+1, raw salad, 0.655592, 1
+1, slight exaggeration, 0.702036, 2
+1, meat, 0.510607, 2
+1, great cut, 0.620479, 3
+1, chewy parts, 0.655137, 6
+1, shade, 0.450299, 6
+1, personal pizza, 0.706699, 7
+1, sweet punch, 0.642172, 7
+1, Great outdoor section, 0.791131, 8
+1, basic pizzas, 0.6789, 8
+5, veal liver, 0.935368, 0
+5, bavette, 0.573978, 0
+5, lobster dish, 0.946712, 8
+5, fries, 0.819199, 8

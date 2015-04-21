@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, large karaoke stage, 0.724611, 0
+1, dive bar decor, 0.67727, 0
+1, disgruntled ex-mall cop, 0.663624, 1
+1, calico jacks, 0.842827, 2
+1, rude bouncer, 0.658787, 2
+1, bar, 0.815788, 3
+1, Las Vegas, 0.717626, 3
+1, bartender, 0.814048, 4
+1, place, 0.733528, 4
+1, calico jack, 0.994907, 5
+1, customer service, 0.682952, 5
+1, karaoke, 0.736635, 6
+1, old west style, 0.677449, 6
+1, dance floor, 0.675108, 7
+1, birthday party, 0.664453, 7
+1, good tea flavor, 0.671626, 8
+1, sized dance floor, 0.648228, 8
+2, permanent karaoke facility, 0.754861, 0
+2, Start karaoke, 0.631399, 0
+2, karaoke singers, 0.678892, 1
+2, deep fried bar, 0.556518, 1
+2, slow weekend night, 0.525954, 2
+2, particular visit, 0.477274, 2
+2, dance party, 0.733697, 3
+2, karaoke operation, 0.657955, 3
+2, Calico Jack, 0.960536, 4
+2, time, 0.664405, 4
+2, karaoke, 0.82108, 5
+2, trailor park bbw, 0.572276, 6
+2, drunk-fest dance party, 0.545711, 6
+2, friday night, 0.699371, 7
+2, Calico Jacks, 0.469868, 7
+2, yummy burgers, 0.448701, 8
+3, dance floor, 0.80534, 0
+3, Great little bar, 0.80442, 0
+3, new neighborhood spot, 0.77276, 1
+3, Decent bar, 0.693947, 1
+3, bar area, 0.677448, 2
+3, bar burger, 0.673454, 2
+3, little neighborhood bar, 0.822317, 3
+3, school dive bar, 0.801437, 3
+3, bar, 0.854246, 4
+3, old school, 0.793813, 4
+3, place, 0.920175, 5
+3, Calico Jack, 0.868169, 6
+3, small restaurant seating, 0.785391, 6
+3, decent crowd, 0.68135, 7
+3, Suncoast Casino, 0.666814, 7
+3, right song, 0.683476, 8
+3, good way, 0.678845, 8
+4, Calico Jacks, 0.768853, 0
+4, bar area, 0.737578, 0
+4, great dance floor, 0.883396, 2
+4, ur gon, 0.749598, 2
+4, general area, 0.710884, 3
+4, Dancin, 0.551054, 3
+4, place, 0.826504, 4
+4, ive, 0.789963, 5
+4, karaoke, 0.746425, 5
+4, tip jar, 0.732954, 6
+4, easy going, 0.732766, 6
+4, good local bar, 0.980264, 7
+4, good time, 0.93826, 7
+4, love ballads way, 0.912877, 8
+4, good bar food, 0.878082, 8
+4, good service, 0.709491, 9
+4, nice meals, 0.700739, 9
+5, guts, 0.435657, 0
+5, heartbeat, 0.436098, 3
+5, place rocks, 0.719839, 6
+5, night, 0.375502, 6
+5, Good atmosphere, 0.671092, 7
+5, service, 0.377807, 7
+5, bachelorette party, 0.837286, 8
+5, people, 0.518534, 8
+5, good Karaoke place, 0.952461, 9
+5, drinks, 0.525335, 9

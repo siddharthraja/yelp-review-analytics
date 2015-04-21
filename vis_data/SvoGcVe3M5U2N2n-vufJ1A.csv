@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, hard earned money, 0.976766, 0
+1, quick drink, 0.759126, 0
+1, strange way, 0.733441, 1
+1, Las Vegas, 0.68895, 1
+1, bar, 0.6204, 2
+1, beer, 0.555207, 2
+1, bartender, 0.859425, 3
+1, rio, 0.744339, 3
+1, entire brand, 0.696161, 6
+1, customers experience, 0.69551, 6
+1, iPad, 0.495923, 7
+2, mai tai, 0.866526, 0
+2, Came, 0.44662, 0
+2, Vegas prices, 0.671195, 1
+2, Vegas bar, 0.64935, 1
+2, lobby bar, 0.996677, 2
+2, friend, 0.633424, 2
+2, Unique idea, 0.813631, 6
+2, night club, 0.778157, 7
+3, Rio features Microsoft, 0.888332, 0
+3, Microsoft Surface, 0.884496, 0
+3, typical casino bar, 0.875262, 3
+3, comfortable place, 0.710175, 3
+3, hardgoods, 0.548084, 4
+3, people, 0.610597, 5
+3, waitresses, 0.605468, 5
+3, attentive bar staff, 0.894314, 6
+3, thigh hi, 0.743222, 6
+3, lingerie dancing, 0.735487, 7
+3, elevated platforms, 0.732725, 7
+3, great place, 0.888974, 8
+3, strong drink, 0.733547, 8
+3, helpful offering drink, 0.96024, 9
+4, fun little bar, 0.94715, 0
+4, VooDoo Rooftop nightclub, 0.8846, 0
+4, vodka drink, 0.731388, 1
+4, past time, 0.630028, 1
+4, big chunk, 0.636969, 2
+4, guards, 0.368928, 2
+4, order, 0.418942, 3
+4, places, 0.362024, 3
+4, Vegas staple, 0.667475, 6
+4, table, 0.416135, 6
+4, interesting people, 0.653208, 7
+4, half-naked dancers, 0.639227, 7
+4, drink refills, 0.662264, 8
+4, nicer way, 0.639511, 8
+4, fun place, 0.582646, 9
+4, Good place, 0.577256, 9
+5, speciality martini, 0.712111, 0
+5, text offers, 0.705315, 0
+5, chair, 0.593552, 1
+5, feet, 0.51681, 1
+5, Naughty Induglance, 0.738755, 2
+5, floor, 0.45372, 2
+5, seating, 0.452496, 3
+5, Bloody Mary, 0.902083, 4
+5, seats, 0.531521, 4
+5, fresh rasberries, 0.751774, 6
+5, best drink, 0.715092, 6
+5, Players Card, 0.672548, 7
+5, Nevada ID, 0.668518, 7
+5, great time, 0.948049, 8
+5, Mixed drinks, 0.754886, 8
+5, bartenders, 0.562932, 9

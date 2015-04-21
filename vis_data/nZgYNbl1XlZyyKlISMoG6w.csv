@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, tap water, 0.411341, 0
+1, root beer float, 0.411329, 0
+1, ice cream, 0.40617, 1
+1, manager, 0.464362, 2
+1, chicken fingers, 0.415405, 2
+1, order, 0.508919, 3
+1, customer service, 0.495456, 3
+1, food, 0.792737, 4
+1, time, 0.687884, 4
+1, sugar factory, 0.915867, 5
+1, menu, 0.528263, 5
+1, apple pie waffles, 0.425567, 6
+1, way, 0.392403, 6
+1, food runner, 0.378539, 7
+1, better quality food, 0.393026, 8
+1, great service, 0.384205, 8
+2, late night food, 0.417808, 0
+2, bad food, 0.403008, 0
+2, over-priced mediocre food, 0.401368, 1
+2, terrible service, 0.389868, 1
+2, long time, 0.409693, 2
+2, candy store, 0.442695, 3
+2, Mon Ami Gabi, 0.405914, 3
+2, food, 0.822023, 4
+2, service, 0.700545, 4
+2, Sugar Factory, 0.975023, 5
+2, place, 0.639344, 5
+2, server, 0.422151, 6
+2, meal, 0.41049, 6
+2, good food, 0.430626, 7
+2, steak sandwich, 0.399471, 7
+2, American Diner food, 0.404336, 8
+2, time service, 0.39176, 8
+2, good service, 0.386852, 9
+3, Sugar Factory candy, 0.414463, 0
+3, Sugar factory afterall, 0.405308, 0
+3, peanut butter, 0.401303, 2
+3, service, 0.519545, 4
+3, vegas, 0.435293, 4
+3, sugar factory, 0.914334, 5
+3, ice cream, 0.747814, 5
+3, Sugar Factory store, 0.402775, 6
+3, Sugar Factory burger, 0.394117, 6
+3, cheesecake factory, 0.450732, 7
+3, good food, 0.433138, 7
+3, pretty good deal, 0.415037, 8
+3, fun, 0.404022, 8
+3, good place, 0.418605, 9
+3, good sized sandwich, 0.391075, 9
+4, candy candy candy, 0.535805, 0
+4, Sugar Factory American, 0.496015, 0
+4, good time, 0.486338, 1
+4, white chocolate, 0.60154, 3
+4, holy sugar factory, 0.499808, 3
+4, menu, 0.575666, 4
+4, peanut butter, 0.531818, 4
+4, sugar factory, 0.964463, 5
+4, place, 0.685658, 5
+4, candy shop, 0.586646, 6
+4, red velvet cake, 0.527906, 6
+4, white chocolate sauce, 0.522811, 7
+4, chocolate lounge, 0.520913, 7
+4, cinnamon toast crunch, 0.569741, 8
+4, late night dessert, 0.519596, 8
+4, great time, 0.486158, 9
+5, frozen hot chocolate, 0.407595, 0
+5, great old time, 0.401494, 0
+5, little chocolate candy, 0.395216, 2
+5, Las Vegas Strip, 0.409522, 3
+5, tree stump tables, 0.388409, 3
+5, chocolate, 0.468979, 4
+5, dessert, 0.421655, 4
+5, sugar factory, 0.97702, 5
+5, place, 0.690269, 5
+5, drinks, 0.615945, 6
+5, Las Vegas, 0.494642, 6
+5, red velvet, 0.542595, 7
+5, paris hotel, 0.517574, 7
+5, great place, 0.428392, 8
+5, Great food, 0.422901, 8

@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, spicy nacho cheese, 0.76228, 0
+1, little buttered pretzel, 0.757924, 0
+1, food way, 0.659867, 1
+1, Pretentious Cowboy, 0.633998, 1
+1, food, 0.805822, 2
+1, tiny portioned food, 0.717111, 2
+1, PLAIN pretzel nuggets, 0.763001, 3
+1, daughters chicken tenders, 0.72871, 3
+1, sauce, 0.780631, 4
+1, celery, 0.655356, 4
+1, chicken wings, 0.959355, 5
+1, menu, 0.793483, 5
+1, spicy chicken fettuccine, 0.747622, 6
+1, strong chlorine taste, 0.688947, 6
+1, pretzel nuggets, 0.862492, 7
+1, chicken wings appetizer, 0.801621, 7
+1, chicken tortilla soup, 0.748691, 8
+1, higher menu price, 0.709407, 8
+2, female bartender, 0.739404, 0
+2, bad night, 0.718315, 0
+2, drink order, 0.956275, 1
+2, tortilla soups, 0.710706, 1
+2, service, 0.71608, 2
+2, drinks, 0.529824, 2
+2, service station, 0.704862, 3
+2, big cleavage, 0.70191, 3
+2, beer, 0.497949, 4
+2, pickles, 0.459807, 4
+2, house salad, 0.733734, 6
+2, app order, 0.716027, 6
+2, steak salad, 0.730621, 7
+2, basic salad, 0.720846, 7
+2, Humble Pie, 0.685805, 8
+2, weekends good start, 0.859322, 9
+3, chicken pot pie, 0.960301, 0
+3, ranchy nacho cheese, 0.910034, 0
+3, sloppy joe, 0.760231, 1
+3, weird sauce, 0.759585, 1
+3, damn food, 0.783264, 2
+3, real complaint, 0.758344, 2
+3, spicy mac, 0.927945, 3
+3, cold chicken, 0.920702, 3
+3, wife, 0.834628, 4
+3, food, 0.925074, 5
+3, chicken caesar salad, 0.956288, 6
+3, country friend steak, 0.904233, 6
+3, good service, 0.889716, 7
+3, good food, 0.800681, 7
+3, fresh grated parmesan, 0.921993, 8
+3, southern style restaurant, 0.907532, 8
+3, huge portion, 0.755632, 9
+3, excellent flavor, 0.75124, 9
+4, ramekin sized salad, 0.790023, 0
+4, late lunch rush, 0.777068, 0
+4, late night shenanigans, 0.74545, 2
+4, chicken pot pie, 0.771966, 3
+4, huge beer selection, 0.751795, 3
+4, buffalo chips, 0.811642, 4
+4, service, 0.718286, 4
+4, food, 0.816135, 5
+4, pot pie, 0.981921, 6
+4, french dip, 0.827882, 6
+4, beer selection, 0.821593, 7
+4, chicken tortilla soup, 0.743958, 7
+4, country music, 0.839674, 8
+4, spicy chorizo sauce, 0.802933, 8
+4, Good micro beer, 0.778542, 9
+4, nice relaxed feel, 0.752699, 9
+5, prime rib sliders, 0.724632, 0
+5, moonshine blueberry lemonade, 0.683757, 0
+5, soggy bar food, 0.641474, 2
+5, chain cookie-cutter restaurant, 0.616803, 2
+5, chip cookie skillet, 0.649636, 3
+5, wait staff, 0.633429, 3
+5, nice spicy sauce, 0.643286, 4
+5, food, 0.795492, 5
+5, place, 0.747666, 5
+5, seriously good cut, 0.653661, 6
+5, cool metal work, 0.631744, 6
+5, prime rib, 0.918419, 7
+5, spicy mac, 0.773335, 7
+5, pot pie, 0.756678, 8
+5, chicken pot pie, 0.74095, 8
+5, sweet potato fries, 0.689896, 9
+5, french dip, 0.681138, 9

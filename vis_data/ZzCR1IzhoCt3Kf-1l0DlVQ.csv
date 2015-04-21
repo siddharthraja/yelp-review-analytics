@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, sexually distasteful jokes, 0.934056, 0
+1, highly offensive coarse, 0.919981, 0
+1, time, 0.979539, 1
+1, Terrible customer service, 0.951564, 1
+1, old dusty storage, 0.945048, 2
+1, bad dance routine, 0.939087, 2
+1, money, 0.975608, 3
+1, burlesque dancers, 0.973597, 3
+1, drinks- trust, 0.827553, 4
+1, bikini type clothes, 0.916191, 6
+1, different comedy, 0.826675, 6
+1, funny creepy mustache, 0.964698, 7
+1, free tickets, 0.828002, 7
+1, better options, 0.827216, 8
+1, brilliant hubby, 0.825975, 8
+2, angry-middle-age woman comedian, 0.973861, 0
+2, OK MC/warmup guy, 0.946161, 0
+2, cheap strippers, 0.581497, 1
+2, nicer lingerie, 0.568783, 1
+2, injoy, 0.304453, 2
+2, bit, 0.266552, 2
+2, short routines, 0.592574, 3
+2, Miracle Mile, 0.569196, 3
+2, portion, 0.335633, 4
+2, sexy women comedians, 0.811666, 6
+2, acts, 0.26629, 6
+2, SinCity Comedy, 0.515872, 7
+2, huh, 0.290019, 7
+2, bonus star, 0.590736, 8
+3, planet hollywood/miracle mall, 0.821691, 0
+3, different brand beer, 0.811736, 0
+3, Jay Leno, 0.809132, 2
+3, little crowd, 0.674889, 2
+3, good Chris Rock, 0.87226, 3
+3, box office, 0.811002, 3
+3, stripper, 0.663759, 4
+3, people, 0.705139, 5
+3, drinks, 0.667548, 5
+3, venue needs improvement, 0.780763, 6
+3, price, 0.676727, 6
+3, free drink, 0.966792, 7
+3, Sin City Comedy, 0.801531, 7
+3, complimentary drink, 0.885712, 8
+3, ticket, 0.689531, 8
+3, funny comedians, 0.709795, 9
+3, discounted price, 0.669574, 9
+4, darn good time, 0.798616, 0
+4, box office line, 0.778939, 0
+4, Drink service, 0.729122, 1
+4, good thing, 0.716625, 1
+4, BLINKY CUP DRINK, 0.818675, 2
+4, strip tease, 0.794713, 2
+4, pink feather boa, 0.757384, 3
+4, comedy skits, 0.726606, 3
+4, comedy, 0.869029, 5
+4, Vegas, 0.736382, 5
+4, comedians, 0.942979, 6
+4, price, 0.824797, 6
+4, free drink, 0.98009, 7
+4, sin city, 0.880731, 7
+4, lovely bikini clad, 0.788433, 8
+4, Great intimate venue, 0.766843, 8
+4, easy fun comedy, 0.802279, 9
+4, Sin City Comedy, 0.789231, 9
+5, Burlesque dancer sammy, 0.762947, 0
+5, Famed Las Vegas, 0.737741, 0
+5, VIP ticket holders, 0.711697, 1
+5, ticket place bc, 0.680071, 1
+5, little bit Burlesque, 0.799926, 2
+5, brick wall, 0.736431, 2
+5, Las Vegas, 0.959634, 3
+5, vip ticket, 0.734683, 3
+5, tues night, 0.549843, 4
+5, free drinks, 0.575817, 6
+5, burselic dance, 0.563918, 6
+5, comedians, 0.792849, 7
+5, vip tickets, 0.748173, 7
+5, blinky cup, 0.757426, 8
+5, drink, 0.633274, 8
+5, burlesque dancers, 0.608748, 9
+5, cheaper price, 0.580656, 9

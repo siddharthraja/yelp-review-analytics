@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, est-ce que tout, 0.833124, 0
+1, Went Saturday night, 0.801924, 0
+1, credit card, 0.902009, 1
+1, AWFUL eating experience, 0.796369, 1
+1, clueless waitress, 0.758796, 2
+1, passing waitstaff, 0.704956, 2
+1, bachelorette parties, 0.702856, 3
+1, total scam, 0.700322, 3
+1, place, 0.842474, 4
+1, waitress, 0.760219, 4
+1, donné que le, 0.814343, 6
+1, tout allait bien, 0.813279, 6
+1, lovely waitress, 0.74482, 7
+3, fennel beurre blanc, 0.706958, 0
+3, pan-roasted Arctic char, 0.705379, 0
+3, excellent quality, 0.656956, 1
+3, little bite, 0.654993, 1
+3, Dont order drinks, 0.706563, 2
+3, entire dining experience, 0.69631, 2
+3, classic model stereotype, 0.717226, 3
+3, food, 0.730835, 5
+3, restaurant, 0.666872, 5
+3, fine dining, 0.716538, 6
+3, prices Globe charges, 0.710714, 6
+3, great eye candy, 0.702395, 7
+3, cherry creme brûlée, 0.701029, 7
+3, damn good lemondrop, 0.719103, 8
+3, pre gaming, 0.703991, 8
+3, nice sized bar, 0.692446, 9
+3, decent dinner, 0.654501, 9
+4, good lounge music, 0.707515, 0
+4, butternut squash soup, 0.653116, 0
+4, sober Globe patrons, 0.65222, 1
+4, Montreal restos, 0.608732, 2
+4, old dingy restaurant, 0.656461, 3
+4, service, 0.615803, 4
+4, WOW taste, 0.59446, 4
+4, place, 0.910068, 5
+4, dinner, 0.643007, 5
+4, food, 0.816887, 6
+4, night, 0.805207, 6
+4, nice printed paper, 0.65822, 7
+4, beautiful people, 0.652718, 7
+4, bachelor party, 0.873913, 8
+4, wait staff, 0.760841, 8
+4, waitress Vanessa, 0.609942, 9
+4, thirsty group, 0.595164, 9
+5, foie gras ravioli, 0.961398, 0
+5, roasted potatos, 0.680488, 0
+5, weather, 0.482299, 1
+5, hotel, 0.445834, 1
+5, Globe Restaurant, 0.708628, 2
+5, restaurants, 0.493002, 2
+5, waitresses, 0.462331, 3
+5, tight mini shirts, 0.807325, 6
+5, statuesque waitress, 0.723686, 6
+5, great things, 0.673896, 7
+5, eye candy, 0.631212, 7
+5, best French cuisine, 0.839789, 8
+5, good French cooking, 0.812989, 8
+5, foie gras, 0.997318, 9
+5, buttery, 0.472172, 9

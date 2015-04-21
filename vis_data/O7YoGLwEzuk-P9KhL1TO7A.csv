@@ -1,0 +1,12 @@
+rating, keyword, relevance, bucket
+1, horrible customer service, 0.913823, 0
+1, server Monica, 0.742556, 0
+1, food, 0.668943, 1
+1, birthday, 0.465719, 1
+1, breakfast, 0.479381, 2
+1, Monday, 0.477164, 2
+1, bartenders, 0.488471, 3
+1, jokes, 0.465737, 3
+1, laughing, 0.480427, 6
+4, real Bartenders, 0.943063, 8
+4, Thursday night football, 0.915236, 8

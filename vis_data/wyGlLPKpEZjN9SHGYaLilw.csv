@@ -1,0 +1,19 @@
+rating, keyword, relevance, bucket
+3, average patron age, 0.96455, 0
+3, cool basement, 0.643964, 0
+3, random beers, 0.611797, 2
+3, fridge, 0.379867, 2
+3, upscale dive, 0.67358, 3
+3, interesting choices, 0.615434, 3
+3, couple, 0.5271, 4
+3, food, 0.401347, 5
+3, Diamond pool tables, 0.926813, 6
+3, bathroom doors, 0.679084, 6
+3, nicer Double, 0.726919, 7
+3, Saloon, 0.387668, 7
+3, better quality TV, 0.855155, 8
+3, drinks, 0.468584, 8
+5, Great drinks, 0.77915, 8
+5, atmosphere, 0.391032, 8
+5, cool place, 0.992612, 9
+5, graveyard guy, 0.890981, 9

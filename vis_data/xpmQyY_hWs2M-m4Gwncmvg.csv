@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+2, 10oz prime rib, 0.461286, 0
+2, wait time, 0.331558, 0
+2, main meal plate, 0.469923, 1
+2, general opinion, 0.290057, 1
+2, ice cream, 0.588269, 2
+2, unhappy client, 0.308238, 2
+2, prime rib, 0.920506, 3
+2, private room, 0.33491, 3
+2, birthday boy, 0.471838, 4
+2, table, 0.404513, 4
+2, food, 0.84213, 5
+2, crab cakes, 0.528336, 6
+2, people, 0.447967, 6
+2, best friend, 0.692073, 7
+2, best friends food, 0.485874, 7
+2, wedge salads, 0.299626, 8
+2, wedge salad, 0.323243, 9
+2, good conversation, 0.312232, 9
+3, sparkling water, 0.98531, 0
+3, P. F. Chang, 0.933189, 0
+3, coeliac disease, 0.761172, 1
+3, special services, 0.752047, 1
+3, excuse, 0.560732, 2
+3, places, 0.547393, 2
+3, offence, 0.744808, 3
+3, great experience, 0.742761, 3
+3, Keg, 0.827526, 4
+3, time, 0.666022, 4
+3, waitress, 0.645346, 5
+3, sides, 0.588455, 5
+3, tap water, 0.975694, 6
+3, nicer shirt, 0.757685, 6
+3, Keg Steakhouse, 0.795631, 7
+3, basic steak, 0.747174, 7
+3, great deal, 0.714329, 8
+3, stars, 0.666544, 8
+3, allergy requirements, 0.746918, 9
+3, juicy, 0.551856, 9
+5, work Christmas dinner, 0.836322, 0
+5, VIP dinner room, 0.833553, 0
+5, red meat, 0.882428, 2
+5, rooftop bar, 0.748638, 2
+5, huge bar, 0.74068, 3
+5, waitress, 0.845731, 5
+5, s'il vous plait, 0.85368, 6
+5, kudos Keg staff, 0.840976, 6
+5, hot baked bread, 0.904134, 7
+5, coffee ice cream, 0.839527, 7
+5, mixed greens salad, 0.876105, 8
+5, best Caesar salad, 0.847697, 8
+5, general steak questions, 0.868237, 9
+5, good steak, 0.765774, 9

@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, precious eye contact, 0.756519, 0
+1, Average new Chef, 0.747556, 0
+1, worst diner service, 0.765248, 1
+1, Didnt offer dessert, 0.754094, 1
+1, jumbo sea scallops, 0.873471, 2
+1, waitress, 0.848968, 2
+1, food, 0.98813, 3
+1, 30-40 mins, 0.69989, 3
+1, service, 0.899422, 4
+1, restaurant, 0.813311, 4
+1, place, 0.826384, 5
+1, split wedge salad, 0.755177, 6
+1, nice place, 0.689934, 6
+1, venues, 0.762077, 7
+1, Carefree Christmas craft, 0.751192, 7
+1, small town, 0.692264, 8
+1, delightful breakfast meal, 0.741127, 9
+2, fresh wild salmon, 0.721961, 0
+2, wine festival, 0.553975, 0
+2, French onion soup, 0.72945, 1
+2, menu, 0.39788, 1
+2, month-old reruns, 0.536362, 2
+2, Auburn Alabama, 0.523027, 2
+2, seafood brochette, 0.538832, 3
+2, place, 0.536153, 3
+2, wait, 0.35254, 4
+2, food, 0.90029, 6
+2, patty melt, 0.560171, 6
+2, overall fabulous restaurant, 0.732731, 7
+2, beer selection, 0.566244, 7
+2, bbq sliders, 0.586359, 8
+2, overall assessment, 0.551652, 8
+3, hard working people, 0.933613, 0
+3, plain black coffee, 0.919143, 0
+3, neighborly dog issues, 0.940366, 1
+3, female bartender, 0.848431, 1
+3, salmon eggs, 0.943848, 2
+3, nice restaurant, 0.904278, 2
+3, smoked salmon eggs, 0.922621, 3
+3, breakfast burrito, 0.830636, 3
+3, bit, 0.872571, 4
+3, service issues, 0.909088, 5
+3, food, 0.864719, 5
+3, shiny bright yellow, 0.922158, 6
+3, friendly waitress, 0.830426, 6
+3, yelp deal, 0.968386, 7
+3, blue cheese dip, 0.961464, 7
+3, creepy guy, 0.842325, 8
+3, Cave Creek, 0.823896, 8
+3, good variety, 0.864491, 9
+3, tasty food, 0.847964, 9
+4, entire acoustic space, 0.889456, 0
+4, Carefree/Cave Creek area, 0.878933, 0
+4, single real strawberry, 0.897304, 3
+4, Chicken Strips, 0.858915, 3
+4, food, 0.974028, 6
+4, good work venues, 0.906002, 6
+4, delicious scrambled eggs, 0.916603, 7
+4, gifted live singer, 0.893731, 7
+4, Venues Cafe, 0.988568, 8
+4, place, 0.940547, 8
+4, APPROPRIATELY SIZED portions, 0.905298, 9
+4, Totally fun place, 0.900439, 9
+5, bottomless house wine, 0.786702, 0
+5, bone-in pork chop, 0.782364, 0
+5, subpar service, 0.717067, 1
+5, pretentious Scottsdale crowds, 0.778763, 2
+5, wine places, 0.713401, 2
+5, place, 0.899756, 5
+5, dinner, 0.738884, 5
+5, new peligroso cocktail, 0.779236, 6
+5, morning car shows, 0.775609, 6
+5, pork chop, 0.857, 7
+5, great live music, 0.819533, 7
+5, great food, 0.912764, 8
+5, great atmosphere, 0.878014, 8
+5, newly remodeled place, 0.786732, 9
+5, truly wonderful restaurant, 0.784572, 9

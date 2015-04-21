@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, worst Mexican food, 0.775495, 0
+1, green chile beef, 0.755435, 0
+1, good Mexican food, 0.761266, 1
+1, terrible service, 0.744579, 1
+1, fish tacos, 0.849345, 2
+1, filthy dusty carpet, 0.741378, 2
+1, tacos, 0.859735, 3
+1, Litchfield Park, 0.646707, 3
+1, food, 0.931219, 4
+1, service, 0.745511, 4
+1, Old Pueblo Cafe, 0.756546, 6
+1, new tacos, 0.749416, 6
+1, salsa, 0.719762, 7
+1, chips, 0.673392, 7
+1, great service super, 0.739338, 8
+1, Great chips, 0.651359, 8
+2, Mexican Flag Enchiladas, 0.851807, 0
+2, La Union Station, 0.812279, 0
+2, hot chili sauce, 0.80591, 1
+2, carne asada burrito, 0.797452, 1
+2, soggy tacos, 0.861242, 2
+2, real flavor, 0.821937, 2
+2, food, 0.963713, 3
+2, service, 0.864206, 3
+2, Negro Modelo, 0.730427, 4
+2, beans, 0.744172, 5
+2, Old Pueblo, 0.830973, 6
+2, salsa, 0.809668, 6
+2, big art event, 0.80836, 7
+2, spinach enchiladas, 0.742727, 7
+2, Outstanding salsa, 0.746883, 8
+2, great place, 0.725125, 8
+3, REAL refried beans, 0.429182, 0
+3, Spanish Flag Enchilada, 0.383186, 0
+3, super lardy oil, 0.35582, 1
+3, food poisoning, 0.326912, 1
+3, West Valley World, 0.367422, 2
+3, bland taste buds, 0.363929, 2
+3, food locker, 0.336993, 3
+3, good things, 0.315235, 3
+3, food, 0.869252, 4
+3, Mexican food, 0.75864, 4
+3, beans, 0.496833, 5
+3, chips, 0.467967, 5
+3, salsa, 0.520737, 6
+3, authentic Mexican food, 0.520672, 6
+3, Old Pueblo Cafe, 0.908073, 7
+3, Friday night, 0.579328, 7
+3, nice relaxing place, 0.466041, 8
+3, Good beer selection, 0.393199, 8
+3, good Mex food, 0.431051, 9
+3, deserts excellent sopapillas, 0.355723, 9
+4, ........., 0.536339, 0
+4, Beef Taco Salad, 0.501261, 0
+4, red enchilada sauce, 0.645779, 1
+4, enchilada sauce flavor, 0.504899, 1
+4, delicious Mexican food, 0.53613, 2
+4, shredded beef, 0.516608, 2
+4, massive hot plate, 0.444403, 3
+4, Old Pueblo, 0.905066, 4
+4, old pueblo nachos, 0.794357, 4
+4, litchfield park, 0.751984, 5
+4, food, 0.738638, 5
+4, mexican food, 0.729246, 6
+4, old litchfield park, 0.501713, 6
+4, Old Pueblo Cafe, 0.630444, 7
+4, salsa, 0.608543, 7
+4, Great food, 0.598772, 8
+4, nachos- fresh chips, 0.585252, 8
+4, Good Mexican food, 0.604474, 9
+4, perfect dinner venue, 0.461395, 9
+5, carne asada nachos, 0.509292, 0
+5, Mexican flag enchilada, 0.479747, 0
+5, AZ mexican food, 0.459313, 2
+5, good things, 0.341851, 2
+5, Old Pueblo, 0.898365, 5
+5, food, 0.762947, 5
+5, mexican food, 0.545552, 6
+5, best chips, 0.451427, 6
+5, chips, 0.545981, 7
+5, carne asada dinner, 0.483417, 7
+5, carne asada, 0.929084, 8
+5, place, 0.623665, 8
+5, salsa great job, 0.491335, 9
+5, green Chile enchiladas, 0.477238, 9

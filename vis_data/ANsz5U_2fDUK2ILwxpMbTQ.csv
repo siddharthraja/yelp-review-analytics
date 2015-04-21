@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, latin dance event, 0.953823, 0
+1, opening night, 0.69564, 0
+1, liquor sales, 0.697687, 1
+1, lemon drop shot, 0.892572, 2
+1, diet coke, 0.676062, 2
+1, bartenders, 0.485874, 3
+1, alcohol, 0.458283, 3
+1, place, 0.555073, 4
+1, Wednesday night, 0.698141, 6
+1, better drinks, 0.76673, 7
+1, free wristbands, 0.701488, 7
+2, promotional gift bag, 0.789935, 0
+2, Bottled Blonde, 0.609635, 0
+2, thing, 0.346546, 1
+2, odd guys, 0.566814, 2
+2, time, 0.462135, 2
+2, DJ driven club, 0.756328, 3
+2, East coast friends, 0.754438, 3
+2, group, 0.352433, 4
+2, people, 0.955858, 5
+2, night-life, 0.377535, 6
+2, pretty amusing story, 0.786193, 7
+2, loud music, 0.550322, 7
+2, Wednesday night, 0.591719, 8
+2, glitz, 0.363269, 8
+2, huge dance floor, 0.794616, 9
+2, velvet ropes, 0.551106, 9
+3, fav places, 0.792775, 0
+3, hip hop, 0.683187, 0
+3, Pricing, 0.289999, 1
+3, clubs, 0.289778, 1
+3, ears, 0.320598, 2
+3, drink, 0.296613, 2
+3, Saturday night, 0.917213, 3
+3, website photos, 0.69971, 3
+3, music, 0.693668, 4
+3, dollar bills, 0.663301, 6
+3, club, 0.501343, 6
+3, hip hop/rap, 0.693919, 7
+3, good music, 0.562297, 7
+3, Super classy, 0.680775, 8
+4, cover charge, 0.833058, 0
+4, large dance floor, 0.817743, 0
+4, nice bass drop, 0.793152, 2
+4, small upper level, 0.741997, 2
+4, wink wink, 0.645135, 3
+4, biggest place, 0.604959, 3
+4, place, 0.691553, 5
+4, dance floor, 0.938472, 6
+4, rectangular shaped club, 0.764177, 6
+4, Saturday night, 0.834826, 7
+4, friendly vibe, 0.616534, 7
+4, real good vibe, 0.754165, 8
+4, good time, 0.726889, 8
+4, nice combo, 0.680606, 9
+4, street madness, 0.589752, 9
+5, Venue, 0.466184, 0
+5, area, 0.451368, 0
+5, claustrophobic atmosphere, 0.761115, 3
+5, open dance floor, 0.915887, 7
+5, house/dance vibe, 0.746879, 7
+5, absolute blast, 0.778677, 8
+5, oldtown scottsdale, 0.753481, 8
+5, bigger DJs, 0.732752, 9
+5, great drinks, 0.697094, 9

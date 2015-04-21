@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, AMF bowling cards, 0.910066, 0
+1, bowling party, 0.702298, 0
+1, bad experience, 0.861731, 1
+1, pretty bad experience, 0.77853, 1
+1, FINE YELP FRIENDS, 0.844986, 2
+1, stupid move kid, 0.649445, 2
+1, small trip bowling, 0.954539, 3
+1, cosmic bowling, 0.846381, 3
+1, free bowling, 0.724726, 6
+1, long line, 0.636515, 6
+1, incident, 0.447781, 7
+1, Advertisement, 0.446195, 7
+1, close friends, 0.64123, 8
+1, lucky winner, 0.640496, 8
+2, school cafeteria pizza, 0.933652, 0
+2, bowling, 0.251316, 2
+4, huge metal cylinder, 0.804895, 0
+4, food, 0.265165, 0
+4, thing, 0.266672, 1
+4, Bar, 0.265787, 1
+4, bowling alley, 0.726539, 2
+4, main reason, 0.559659, 2
+4, league, 0.355584, 3
+4, trickery, 0.293799, 3
+4, public-use bowling balls, 0.983449, 6
+4, school lunch, 0.578999, 6
+4, customer service, 0.881373, 7
+4, good working condition, 0.857379, 7
+4, good value, 0.729277, 8
+4, bowling specials, 0.686927, 8
+5, ones, 0.487257, 0
+5, ghetto area, 0.730672, 2
+5, Kinda, 0.521201, 2
+5, friendly people, 0.646566, 6
+5, place, 0.516615, 6
+5, bowling alley, 0.902325, 7
+5, Thursday night, 0.766515, 7
+5, Cashiers, 0.526097, 9
+5, thing, 0.487984, 9

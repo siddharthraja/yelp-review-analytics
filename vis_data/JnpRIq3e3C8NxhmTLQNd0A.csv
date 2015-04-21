@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+2, sparse servings, 0.998159, 0
+2, Service, 0.399748, 0
+2, rude vibe, 0.935706, 2
+2, appetizers, 0.78724, 2
+2, drinks, 0.688272, 6
+2, better luck, 0.764084, 7
+2, Proof, 0.431424, 7
+2, food tastes, 0.816651, 8
+2, better offerings, 0.737818, 8
+4, Seasons establishment, 0.821301, 7
+4, wine, 0.46156, 7
+4, pig Sauvignon Blanc, 0.993244, 8
+4, Excellent food, 0.715326, 8
+4, great suggestions, 0.696265, 9
+4, Staff, 0.451567, 9
+5, hotel bar, 0.639795, 0
+5, packed house, 0.631097, 0
+5, resort, 0.358816, 3
+5, hotel watering hole, 0.929331, 6
+5, hotel guests, 0.626162, 6
+5, cozy little lounge, 0.893404, 7
+5, Troon North, 0.721375, 7
+5, Excellent drinks, 0.69825, 8
+5, Beautiful people, 0.619816, 8
+5, best bartenders, 0.635004, 9
+5, Repeat customers, 0.623607, 9

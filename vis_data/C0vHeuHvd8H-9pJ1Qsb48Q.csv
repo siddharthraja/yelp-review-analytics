@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+2, cheapy slutty clothing, 0.93718, 0
+2, black/white mall-wear, 0.660388, 0
+2, chicken Parmesan, 0.625616, 1
+2, hot mess, 0.595802, 1
+2, straight tomato paste, 0.83036, 2
+2, linguine noodles, 0.639769, 2
+2, moldy oranges, 0.656541, 3
+2, previous establishment, 0.621743, 3
+2, group, 0.44902, 5
+2, dinner salad, 0.61355, 6
+2, Hound, 0.447446, 6
+2, quick dinner, 0.603018, 7
+2, extra star, 0.602492, 7
+2, Mc Duffy, 0.636449, 8
+2, birthday night, 0.598683, 8
+3, Padres spring training, 0.781752, 0
+3, good ole boys, 0.780108, 0
+3, sports bar, 0.938666, 2
+3, legitimate college bar, 0.773618, 2
+3, bar  weekend night, 0.765097, 3
+3, okay sports bar, 0.761782, 3
+3, weekend nights, 0.783749, 4
+3, place, 0.762131, 4
+3, black tinted windows, 0.761114, 6
+3, Ram hemi truck, 0.757789, 6
+3, attractive waitresses, 0.651846, 7
+3, large groups, 0.650077, 7
+3, fun place, 0.688066, 8
+3, franchise capital, 0.648803, 8
+4, low cost appetizers, 0.898989, 0
+4, air conditioned building, 0.889561, 0
+4, food menu, 0.78222, 1
+4, Spring Training game, 0.915415, 2
+4, Tempe McDuffy, 0.775777, 2
+4, typical bar food, 0.912682, 3
+4, happy hour food, 0.811043, 3
+4, food, 0.981046, 5
+4, lounge swivel type, 0.867328, 6
+4, track horse race, 0.850163, 6
+4, pretty good conversation, 0.902389, 7
+4, good Mexican portion, 0.87805, 7
+4, Great neighborhood place, 0.885475, 8
+4, great servers, 0.789345, 8
+4, Happy Hour McDuffy, 0.801039, 9
+4, happy hour specials, 0.752783, 9

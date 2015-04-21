@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, Crappy dough pizza, 0.958544, 0
+1, small pizza, 0.734056, 0
+1, latest changes, 0.667208, 1
+1, kids menu, 0.666828, 1
+1, wrong number, 0.649796, 2
+1, location, 0.499954, 2
+1, phone number, 0.979509, 3
+1, buffalo chicken salad, 0.928699, 3
+1, credit card, 0.645954, 4
+1, penne vodka, 0.712553, 6
+1, Decent beers, 0.665701, 6
+1, small cups, 0.678343, 7
+1, pasta, 0.454879, 7
+1, free kid, 0.661449, 8
+1, report card, 0.655307, 8
+1, Chick fil, 0.672171, 9
+1, trip, 0.447829, 9
+2, usual pizza, 0.675714, 0
+2, high rent district, 0.600872, 0
+2, pie dough, 0.497954, 1
+2, lousy customer service, 0.679847, 2
+2, sub par..the taste, 0.61314, 2
+2, inch pepperoni pie, 0.719777, 3
+2, pizza maker, 0.667792, 3
+2, pizza, 0.960855, 4
+2, good pizza, 0.862042, 4
+2, place, 0.39808, 5
+2, time, 0.367889, 5
+2, better pineapple pizza, 0.798776, 6
+2, Luau pizza, 0.784629, 6
+2, way shopping center, 0.607691, 7
+2, small cheese, 0.501345, 7
+2, beers, 0.366298, 8
+2, atmosphere, 0.364773, 8
+3, Greek salad, 0.576558, 0
+3, larger groups, 0.573427, 0
+3, Wolfman pizza, 0.694914, 2
+3, tiny bit, 0.56796, 2
+3, frequent pizza spots, 0.941974, 3
+3, dressing, 0.35477, 3
+3, bar, 0.406451, 4
+3, food, 0.505338, 5
+3, sports entertainment, 0.598982, 6
+3, napkins, 0.411888, 6
+3, casual social gathering/outing, 0.808765, 7
+3, Good pizza, 0.711509, 7
+3, good beer selection, 0.755076, 8
+3, good table service, 0.754485, 8
+4, cheese pizza fan, 0.736518, 0
+4, pizza joint, 0.672123, 0
+4, sports bar, 0.614832, 2
+4, local watering hole, 0.611375, 2
+4, garlic knots, 0.723948, 3
+4, Great little place, 0.675945, 3
+4, Hawthorne, 0.643432, 4
+4, pizza, 0.95119, 6
+4, cheese pizza, 0.760707, 6
+4, good beer selection, 0.756414, 7
+4, kids pizza dough, 0.690296, 7
+4, Great pizza place, 0.753436, 8
+4, pizza Good menu, 0.740469, 8
+4, good family dinner, 0.641182, 9
+4, small bar area, 0.614784, 9
+5, strict dietary restrictions, 0.628797, 0
+5, great items, 0.529259, 0
+5, local H20ing hole, 0.660491, 3
+5, Great Highland Creek, 0.708302, 6
+5, best salads, 0.512295, 6
+5, pizza dough, 0.723274, 7
+5, balsamic vinaigrette, 0.521988, 7
+5, pizza, 0.919581, 8
+5, pizza night, 0.739091, 8
+5, great pizza, 0.917593, 9
+5, Good beer selection, 0.707631, 9

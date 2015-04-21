@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, normal-average looking girls, 0.936107, 0
+1, general admission, 0.922417, 0
+1, t-shirt/short wearing gentlemen, 0.940106, 1
+1, absolute crap management, 0.937532, 1
+1, crowded Black Finn, 0.957976, 2
+1, oak room, 0.930513, 2
+1, line, 0.83734, 3
+1, normal humans, 0.789335, 3
+1, place, 0.906193, 4
+1, friends, 0.747706, 4
+1, people, 0.940084, 5
+1, nice black dress, 0.925093, 6
+1, platform heels, 0.785573, 6
+1, nicely dressed guys, 0.945848, 7
+1, VIP party, 0.783633, 7
+2, bartender friends, 0.991397, 0
+2, coat check, 0.853243, 0
+2, Oak Room, 0.964372, 1
+2, thing, 0.379368, 1
+2, idea, 0.380678, 2
+2, acknowledgment, 0.418584, 3
+2, head, 0.35355, 3
+2, drink, 0.591773, 4
+2, Vodka Collins, 0.978845, 7
+2, Free entry, 0.819937, 7
+2, sweaty people, 0.866547, 8
+2, Loud music, 0.864699, 8
+3, required dress shoes, 0.920837, 0
+3, owner/manager/an actual VIP, 0.912173, 0
+3, good way, 0.734381, 2
+3, big patio, 0.706969, 2
+3, club, 0.51453, 3
+3, line, 0.508094, 3
+3, girl, 0.509177, 5
+3, Saturday night, 0.657819, 6
+3, reason, 0.456979, 6
+3, Extremely diverse crowd, 0.912117, 7
+3, great sound, 0.706457, 7
+3, bouncer, 0.476919, 8
+4, mid 20s-40s, 0.444462, 0
+4, velvet rope, 0.443365, 0
+4, ones, 0.328809, 2
+4, dance floor, 0.454352, 3
+4, normal thing, 0.45403, 3
+4, dress code, 0.72201, 4
+4, people, 0.468412, 5
+4, upcoming South End, 0.572469, 6
+4, good dancing club, 0.561448, 6
+4, Oak Room, 0.930354, 7
+4, sexy date night, 0.550966, 7
+4, 30-40 somethings, 0.486249, 8
+4, posh place, 0.483289, 8
+4, American Pub, 0.767126, 9
+4, taste, 0.334161, 9
+5, Hip Hop, 0.59531, 0
+5, resident, 0.276313, 0
+5, Patio bar, 0.578469, 1
+5, room bar, 0.533855, 1
+5, dance floor bar, 0.839577, 2
+5, Oak Room, 0.952604, 6
+5, South End, 0.563214, 7
+5, dance club, 0.552402, 7
+5, diverse crowd, 0.633378, 8
+5, girl friends, 0.619436, 8
+5, friends Oak Room, 0.884682, 9
+5, real fun place, 0.845461, 9

@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, curry chicken, 0.972103, 0
+1, potato clumps, 0.888014, 0
+1, fried rice, 0.827451, 1
+1, service, 0.548163, 1
+1, Take-Out order, 0.894759, 2
+1, restaurant, 0.577943, 2
+1, half way, 0.86614, 3
+1, fortune cookie, 0.809085, 3
+1, curry sauce, 0.87621, 6
+1, orange chicken, 0.853462, 6
+1, sour pork, 0.904159, 7
+1, Mongolian beef, 0.844925, 7
+2, crab puffs, 0.872519, 0
+2, spring rolls, 0.83622, 0
+2, Cheap filler, 0.716206, 1
+2, fried rice, 0.712529, 1
+2, real chinese food, 0.896624, 2
+2, orange chicken, 0.841305, 2
+2, mu shu pancakes, 0.882363, 3
+2, hosin sauce, 0.704829, 3
+2, flavor, 0.633695, 4
+2, seafood hot pot, 0.870652, 6
+2, waitress reading, 0.71924, 6
+2, chicken chow mein, 0.950655, 7
+2, Good sized portions, 0.89212, 7
+2, good way, 0.704913, 8
+3, Garlic Chicken, 0.701474, 0
+3, overall taste, 0.509465, 0
+3, veggies, 0.284808, 1
+3, heat, 0.306672, 2
+3, egg drop soup, 0.767919, 3
+3, spicy dishes, 0.619143, 3
+3, fried rice, 0.594165, 6
+3, long wait, 0.560392, 6
+3, Kung Pao chicken, 0.975572, 7
+3, orange chicken, 0.937019, 7
+3, food quality, 0.531266, 8
+3, portions, 0.375294, 8
+3, Kitchen Asian Bistro, 0.827905, 9
+3, take-out place, 0.617171, 9
+4, egg flower soup, 0.98503, 0
+4, sour soup, 0.714036, 0
+4, egg drop soup, 0.922305, 3
+4, strip mall bistro, 0.689363, 3
+4, orange chicken, 0.707384, 6
+4, best orange chicken, 0.694468, 6
+4, pork egg foo, 0.742816, 7
+4, kung pao chicken, 0.727112, 7
+4, Tao Kitchen, 0.854435, 8
+4, nice lunch specials, 0.731482, 8
+4, decent size glass, 0.699551, 9
+4, quality Chinese place, 0.689712, 9
+5, great Chinese food, 0.799062, 0
+5, San Diego, 0.704928, 0
+5, dusty gross cliche, 0.79529, 1
+5, plastic decorations, 0.70277, 1
+5, chicken low mein, 0.88619, 3
+5, Kung Pao shrimp, 0.800667, 6
+5, usual chinese double, 0.784057, 6
+5, orange chicken, 0.989886, 7
+5, House lo mein, 0.812268, 7
+5, Panda Express look, 0.829539, 8
+5, lunch specials, 0.825089, 8
+5, Great lunch specials, 0.802066, 9
+5, place, 0.769425, 9

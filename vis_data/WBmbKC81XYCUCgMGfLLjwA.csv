@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, Hottest Night Club, 0.666606, 0
+1, Minor league club, 0.664302, 0
+1, Vegas club standards, 0.680904, 1
+1, UFC fight, 0.643285, 1
+1, Vegas, 0.685407, 2
+1, Thursday night, 0.63075, 2
+1, music, 0.766953, 3
+1, dj, 0.659518, 3
+1, place, 0.738934, 4
+1, studio, 0.73792, 4
+1, dance floor, 0.940599, 5
+1, club, 0.816385, 5
+1, Saturday night, 0.646613, 6
+1, blends high-energy music, 0.64, 6
+1, typical wedding reception, 0.619537, 7
+1, packed night, 0.601462, 7
+1, guest list, 0.64523, 8
+1, good sized dance, 0.637134, 8
+2, drunk Vegas crowd, 0.517732, 0
+2, good stiff drinks, 0.514394, 0
+2, pretty underwhelming club, 0.528303, 1
+2, bar, 0.521738, 1
+2, seething dance floor, 0.512907, 2
+2, sketchy drunk guy, 0.512906, 2
+2, people, 0.656701, 3
+2, studio, 0.589702, 3
+2, club, 0.76709, 4
+2, music, 0.687329, 4
+2, dance floor, 0.924293, 5
+2, place, 0.675081, 5
+2, Good music choice, 0.515778, 6
+2, great looking people, 0.498885, 6
+2, go-go dancers, 0.723181, 7
+2, decent sized crowd, 0.503484, 7
+2, large dance floor, 0.515351, 8
+2, good time, 0.499753, 9
+3, good wide-open club, 0.462021, 0
+3, euro-pop dance music, 0.445836, 0
+3, dance club, 0.449534, 2
+3, small dance floor, 0.434757, 2
+3, cover charge, 0.451792, 3
+3, typical club, 0.423283, 3
+3, night, 0.690167, 4
+3, vegas, 0.595253, 4
+3, dance floor, 0.947143, 5
+3, club, 0.843394, 5
+3, older crowd, 0.444738, 6
+3, bros good drinks, 0.44223, 6
+3, go-go dancers, 0.569321, 7
+3, MGM Grand, 0.541927, 7
+3, free drinks, 0.448028, 8
+3, free drink promotion, 0.404642, 8
+4, straight-standard night club, 0.466274, 0
+4, larger dance floor, 0.426909, 0
+4, female club goers, 0.415443, 1
+4, ........., 0.474513, 3
+4, Thursday night, 0.408453, 3
+4, fun, 0.539174, 4
+4, clubs, 0.448437, 4
+4, club, 0.759787, 5
+4, music, 0.639434, 5
+4, dance floor, 0.945333, 6
+4, night, 0.69561, 6
+4, great time, 0.624967, 7
+4, pretty good crowd, 0.465783, 7
+4, pretty good time, 0.486118, 8
+4, go-go dancers, 0.466853, 8
+4, standard club quality, 0.42905, 9
+4, ladies night dancing, 0.422293, 9
+5, HOT guys crawlin, 0.861474, 0
+5, major DJ events, 0.860973, 0
+5, dance floor, 0.854129, 2
+5, music, 0.940458, 3
+5, studio, 0.880004, 4
+5, drinks, 0.856047, 4
+5, club, 0.940603, 5
+5, people, 0.907976, 5
+5, date popular music, 0.888764, 6
+5, sturday night/sunday morning, 0.871306, 6
+5, male dancer, 0.969779, 7
+5, good time, 0.916693, 7
+5, VIP area, 0.939837, 8
+5, great time, 0.842518, 8
+5, great EYE candy, 0.864535, 9
+5, spacious VIP area, 0.857965, 9

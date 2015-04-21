@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+3, middle east, 0.600117, 0
+3, half hour wait, 0.584233, 0
+3, downside, 0.447932, 1
+3, star count, 0.608254, 2
+3, flaws, 0.446608, 2
+3, hookah, 0.906805, 3
+3, rare expectation, 0.600823, 3
+3, guy, 0.478401, 4
+3, dance floor, 0.567541, 6
+3, patrons, 0.565398, 6
+3, hookah lounge, 0.752588, 7
+3, pool tables, 0.567134, 7
+3, time crunch, 0.761316, 8
+3, great looking place, 0.730503, 8
+4, downfall hookah, 0.646954, 0
+4, old silver que, 0.574199, 0
+4, new coals, 0.451246, 1
+4, slight hassle, 0.435623, 1
+4, customer service, 0.422839, 2
+4, little pricy, 0.406766, 2
+4, Lava, 0.24519, 3
+4, dj, 0.338161, 4
+4, service, 0.436122, 5
+4, music, 0.266933, 5
+4, new hookah lounge, 0.742499, 6
+4, yelp, 0.256737, 6
+4, pool tables, 0.931258, 7
+4, best hookah lounges, 0.75708, 7
+4, great place, 0.625379, 8
+4, comfortable seating, 0.408646, 8
+4, Pretty cool, 0.44827, 9
+4, nice couches, 0.42377, 9
+5, host, 0.735534, 0
+5, folks, 0.982798, 6
+5, place, 0.790729, 8
+5, awesomeness, 0.787212, 8

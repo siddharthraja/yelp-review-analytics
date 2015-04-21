@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, girls dancing, 0.965086, 0
+1, dance floor, 0.999886, 2
+1, timing issue, 0.958896, 2
+1, people, 0.419647, 3
+1, room, 0.39192, 3
+1, yelp, 0.5575, 6
+1, Sugarcane, 0.492974, 6
+1, place, 0.789149, 7
+1, crowd, 0.428785, 7
+4, hot lil thing, 0.914464, 0
+4, lil awkward, 0.679198, 0
+4, looks, 0.359257, 1
+4, people, 0.358886, 1
+4, black hair, 0.613666, 2
+4, bit, 0.416229, 2
+4, Cuz Chloe Kardassian, 0.983726, 3
+4, Nikki Hilton, 0.684885, 3
+4, bar staff, 0.896237, 5
+4, fan, 0.365353, 6
+4, kobe sliders, 0.664496, 7
+4, go-go dancers, 0.608737, 7
+4, vip party, 0.676483, 8
+4, nice joint, 0.63793, 8
+4, great space, 0.629581, 9
+5, Japanese graffiti artist, 0.996572, 0
+5, walls, 0.416174, 0
+5, crowd, 0.445259, 2
+5, hell, 0.418405, 2
+5, dope spot, 0.808297, 3
+5, sugarcane, 0.462672, 3

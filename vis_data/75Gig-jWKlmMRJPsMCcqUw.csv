@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, cheese, 0.544698, 0
+1, quesadilla, 0.496035, 0
+1, repeat business, 0.678978, 1
+1, restaurants, 0.451674, 1
+1, terrible experience, 0.70482, 2
+1, waiter, 0.483786, 2
+1, main issue, 0.653297, 3
+1, visit, 0.461765, 3
+1, great neighborhood bar, 0.877444, 6
+1, drinks, 0.548134, 6
+1, late night food, 0.901131, 7
+1, beer, 0.457407, 7
+2, street tacos, 0.894264, 0
+2, Frozen patty, 0.563984, 0
+2, stale tortillas, 0.913997, 1
+2, American Express, 0.879591, 1
+2, cheap bun, 0.5746, 2
+2, cigarettes, 0.477334, 2
+2, bartender lie, 0.582017, 3
+2, marlboro lights, 0.553958, 3
+2, original patron, 0.99222, 5
+2, food, 0.709008, 5
+2, college party burger, 0.797661, 6
+2, type look, 0.550288, 6
+2, Mellow Mushroom, 0.55948, 7
+2, Humble Pie, 0.556413, 7
+2, Great Bambino, 0.567729, 8
+2, baseball, 0.354316, 8
+3, nice bar area, 0.724365, 0
+3, Home Run Quesadilla, 0.702749, 0
+3, street tacos, 0.643508, 1
+3, Happy Hour selection, 0.612745, 1
+3, Buffalo Wild Wings, 0.855797, 2
+3, customer service, 0.742468, 3
+3, fatty grisely steak, 0.726646, 3
+3, food, 0.752168, 4
+3, better specials, 0.686782, 4
+3, sports bar, 0.952484, 5
+3, place, 0.751889, 5
+3, good service, 0.725486, 6
+3, Service decent food, 0.719932, 6
+3, nice looking place, 0.715081, 7
+3, good customer service, 0.700946, 7
+3, potato fries, 0.694144, 8
+3, Decent beer selection, 0.686826, 8
+3, nice friendly place, 0.712816, 9
+4, Honey Garlic Hot, 0.713345, 0
+4, nice place, 0.703381, 0
+4, Mexican Food restaurant, 0.750654, 1
+4, little watering hole, 0.690009, 1
+4, sports bar, 0.830519, 3
+4, bar food, 0.74641, 3
+4, food, 0.935103, 6
+4, Great sports bar, 0.801905, 6
+4, applewood bacon quesadilla, 0.699428, 7
+4, tablet trivia devices, 0.674795, 7
+4, open feeling place, 0.720843, 8
+4, Nice flavor, 0.682337, 8
+4, North Phoenix area, 0.69262, 9
+4, great care, 0.638222, 9
+5, Good local sports, 0.787764, 0
+5, bacon quesadilla, 0.714063, 0
+5, Good little neighborhood, 0.79511, 1
+5, evil gossips, 0.648332, 1
+5, family-friendly neighborhood bar, 0.817532, 2
+5, sports bar, 0.776957, 2
+5, food, 0.856421, 5
+5, street tacos, 0.703567, 6
+5, big tvs, 0.688435, 6
+5, wait staff friendly, 0.777268, 7
+5, Commendable service, 0.713329, 7
+5, great place, 0.949747, 8
+5, Decent beer selection, 0.831645, 8
+5, subtle sports theme, 0.78309, 9
+5, fish tacos, 0.711575, 9

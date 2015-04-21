@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, Worst experience, 0.60414, 0
+1, Bye house, 0.563222, 0
+1, real cigar bar, 0.785905, 1
+1, Sat, 0.372335, 1
+1, cigar bar, 0.941526, 2
+1, acknowledgment, 0.385292, 2
+1, bad service, 0.594584, 3
+1, local businesses, 0.584119, 3
+1, Hello foxes cigar, 0.825201, 4
+1, Place, 0.349145, 4
+1, beers, 0.355375, 6
+1, star rating, 0.586861, 7
+1, eye contact, 0.543307, 7
+1, Patience, 0.373085, 8
+1, virtue, 0.368027, 8
+3, comfy chair, 0.769266, 0
+3, local breweries, 0.717195, 0
+3, nostril, 0.379811, 1
+3, dog, 0.344794, 1
+3, bar, 0.365302, 2
+3, fault, 0.3126, 2
+3, ding, 0.354181, 3
+3, atmosphere, 0.307407, 3
+3, cigar, 0.6769, 6
+3, counter, 0.296172, 6
+3, solid lineup, 0.72541, 7
+3, pint, 0.355493, 7
+3, staff, 0.28859, 8
+3, pretty good selection, 0.928994, 9
+3, humidor, 0.367538, 9
+4, closest Cigar Shop, 0.9945, 0
+4, Santan Brewing company, 0.889203, 0
+4, cigar lounge, 0.883201, 2
+4, star review, 0.700569, 2
+4, beer drinker, 0.708616, 3
+4, gluten allergy, 0.688035, 3
+4, taste, 0.602271, 4
+4, beef jerky, 0.686097, 6
+4, food, 0.561987, 6
+4, cigars, 0.88978, 7
+4, Great place, 0.868508, 7
+4, great local beer, 0.916363, 8
+4, Beer selection, 0.700027, 8
+4, best stocked humidors, 0.892207, 9
+4, nice place, 0.715176, 9
+5, new local hang, 0.831876, 0
+5, bartender, 0.391302, 0
+5, televisions, 0.368383, 3
+5, variety, 0.350265, 3
+5, usual hangout, 0.697664, 7
+5, place, 0.598655, 7
+5, favorite cigar shop, 0.918365, 8
+5, collar neighborhood kind, 0.858988, 8
+5, Great cigar bar, 0.925793, 9
+5, Great cigar collection, 0.914968, 9

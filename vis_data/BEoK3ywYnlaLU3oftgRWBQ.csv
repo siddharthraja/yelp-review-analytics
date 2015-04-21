@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+3, different people, 0.45152, 0
+3, bar area, 0.394935, 0
+3, unhappy waiter, 0.494101, 1
+3, Fun little neighborhood, 0.707538, 2
+3, bar, 0.494678, 2
+3, place, 0.241152, 4
+3, times, 0.306425, 5
+3, mozzarella sticks, 0.802967, 6
+3, happy hour beer, 0.52316, 6
+3, chicken fingers, 0.95053, 7
+3, restaurant area, 0.412303, 7
+4, pretty stiff drinks, 0.650826, 0
+4, little neighborhood bar, 0.644983, 0
+4, generic no-name place, 0.619545, 2
+4, play video poker, 0.606155, 2
+4, good neighborhood bar, 0.651562, 3
+4, double Jameson, 0.510098, 3
+4, cajun chicken sandwich, 0.950656, 5
+4, Happy Hour menu, 0.620317, 5
+4, Great local bar, 0.635983, 6
+4, bar food, 0.625566, 6
+4, large seating area, 0.627583, 7
+4, mozzarella sticks, 0.623486, 7
+4, good cobb salad, 0.620209, 8
+4, Great local spot, 0.613177, 8
+4, Surprisingly good food, 0.648212, 9
+4, barbecue sauce recipe, 0.609231, 9
+5, local neighborhood bar, 0.688644, 0
+5, best local bars, 0.683364, 0
+5, good steak, 0.673027, 1
+5, single bad thing, 0.646386, 1
+5, neighborhood bar, 0.696264, 2
+5, bar tenders rock, 0.679713, 2
+5, typical bar food, 0.723824, 3
+5, bar area, 0.64022, 3
+5, steak, 0.739068, 4
+5, eggs, 0.673796, 4
+5, bar, 0.815204, 5
+5, typical bar, 0.732335, 5
+5, food, 0.833128, 6
+5, quieter restaurant area, 0.68915, 6
+5, incredibly friendly staff, 0.701573, 7
+5, nice mellow atmosphere, 0.700703, 7
+5, place, 0.940818, 8
+5, Steak very tender, 0.675853, 8
+5, Perfectly wonderful place, 0.712744, 9
+5, nice cold beer, 0.710892, 9

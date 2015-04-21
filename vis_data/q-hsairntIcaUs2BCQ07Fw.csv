@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+3, open street parking, 0.857522, 0
+3, places Uptown, 0.707045, 0
+3, drawback, 0.477173, 1
+3, area, 0.442023, 1
+3, M. Corner pub, 0.935777, 2
+3, local bar type, 0.876034, 2
+3, real unique qualities, 0.967124, 3
+3, typical bar/restaurant, 0.755123, 3
+3, A-OK place, 0.710561, 6
+3, good place, 0.672381, 6
+3, good daily specials, 0.94428, 7
+3, pretty good Sunday, 0.936088, 7
+3, good change, 0.672535, 8
+3, grub, 0.472045, 8
+3, Nice, 0.456761, 9
+4, neighborhoody feel, 0.739225, 0
+4, good experience, 0.737866, 0
+4, greasy mediocre bar, 0.95421, 2
+4, semi-obscure cocktail choice, 0.938261, 2
+4, late night concert, 0.930701, 3
+4, lunch, 0.546412, 3
+4, free parking, 0.749771, 6
+4, flavorful toppings, 0.745655, 6
+4, service. good bartenders, 0.95007, 7
+4, nearly perfection, 0.769228, 7
+4, Sweetwater IPA, 0.746267, 8
+4, Cesar wrap, 0.739037, 8
+5, Super cold beers, 0.959339, 1
+5, bitch, 0.374404, 1
+5, Upbeat tempo, 0.805635, 7
+5, Great selection, 0.590289, 8
+5, place, 0.342366, 8
+5, Super cool spot, 0.980901, 9
+5, good viddles, 0.578618, 9

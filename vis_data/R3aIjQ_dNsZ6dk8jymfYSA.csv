@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, semi-right food, 0.956671, 0
+1, Awful service, 0.715868, 0
+1, terrible experience, 0.817323, 1
+1, wrong food, 0.71431, 2
+1, Overture, 0.506284, 2
+1, exact same salads, 0.734166, 3
+1, half, 0.478848, 3
+1, 15 minutes, 0.558704, 6
+1, soup, 0.556345, 6
+1, waiter, 0.638496, 7
+1, friendly places, 0.709599, 9
+1, State St., 0.709138, 9
+2, caesar salad wrap, 0.738795, 0
+2, veggie patty, 0.709471, 0
+2, Poor customer service, 0.681269, 1
+2, mass produced food, 0.675432, 1
+2, sports bar standards, 0.665563, 2
+2, turkey burgers, 0.56793, 2
+2, beer cheese soup, 0.973445, 3
+2, food, 0.725101, 3
+2, veggie burger, 0.732402, 4
+2, place, 0.756015, 5
+2, good veggie burger, 0.713789, 6
+2, significant restaurant seating, 0.665287, 6
+2, sweet potato fries, 0.917167, 7
+2, crab cake burgers, 0.689712, 7
+2, black bean patty, 0.693705, 8
+2, Tex-Mex burger, 0.566535, 8
+2, huge place, 0.564881, 9
+2, surprisingly spicy, 0.558382, 9
+3, old State Bar, 0.728127, 0
+3, unprofessional lay couch, 0.698694, 0
+3, sports bar, 0.93146, 1
+3, real sports bar, 0.760444, 1
+3, sports bars, 0.707547, 2
+3, Kobe beef hamburger, 0.692367, 2
+3, Sat Jan, 0.606451, 3
+3, Food Channel, 0.613699, 6
+3, placeto drink, 0.61194, 6
+3, egg dill sauce, 0.684565, 7
+3, Passion Fruit Tea, 0.674243, 7
+3, Lovely eyeball-shaped urinals, 0.68659, 8
+3, classy place, 0.62896, 8
+3, beef empanada, 0.604712, 9
+4, favorite Madison bars, 0.682334, 0
+4, state street bars, 0.674515, 0
+4, sports bar, 0.613573, 1
+4, nasty reviews, 0.610756, 1
+4, State Street Bar, 0.70459, 2
+4, relative lack, 0.597697, 2
+4, Zanders distinct atmosphere, 0.778393, 3
+4, early State Street, 0.690866, 3
+4, state street, 0.906172, 5
+4, people, 0.572732, 5
+4, college-kid bar scene, 0.700581, 6
+4, red leather couch, 0.683928, 6
+4, fresh tomato salad, 0.730417, 7
+4, responsive bar tenders, 0.696184, 7
+4, reasonable volume, 0.599428, 8
+4, boyfriend, 0.555764, 8
+4, nice lunch, 0.609314, 9
+4, good service, 0.606096, 9

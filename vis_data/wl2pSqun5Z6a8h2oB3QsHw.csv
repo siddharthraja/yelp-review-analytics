@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+4, nice wait staff, 0.938904, 0
+4, Decent dive bar, 0.908051, 0
+4, new ownership, 0.660242, 1
+4, bar manager, 0.61292, 1
+4, bar owner, 0.616763, 2
+4, Went, 0.508388, 2
+4, complex, 0.448548, 3
+4, customers, 0.444706, 3
+4, pizza place, 0.668707, 6
+4, door, 0.45045, 6
+4, rd times, 0.649952, 7
+4, charm, 0.457994, 7
+4, Drinks, 0.467982, 9
+5, laid-back night, 0.594972, 0
+5, cab, 0.311902, 1
+5, budget, 0.293388, 1
+5, exterior, 0.29412, 2
+5, typical hometown bar, 0.839995, 3
+5, friend, 0.298001, 3
+5, electronic jukebox, 0.54369, 6
+5, pool, 0.249049, 6
+5, place, 0.249487, 7
+5, incredible Pineapple Upside-Down, 0.933639, 9
+5, amazing drinks, 0.561426, 9

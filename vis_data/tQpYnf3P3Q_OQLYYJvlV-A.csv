@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, server, 0.46823, 1
+1, extra drinks, 0.774741, 2
+1, karaoke, 0.503261, 2
+1, people, 0.540207, 3
+1, fiddling, 0.508866, 3
+1, male bartender, 0.758132, 6
+1, tab, 0.481113, 6
+1, likely show Facebook, 0.801544, 7
+1, Pay attention, 0.759219, 7
+2, CD setup, 0.594876, 0
+2, older guy, 0.58954, 0
+2, karaoke host, 0.700072, 1
+2, standard bar, 0.577634, 1
+2, bar food, 0.681996, 2
+2, frills beer, 0.608072, 2
+2, dozen times, 0.584411, 3
+2, people, 0.507639, 5
+2, place, 0.471515, 5
+2, song choice, 0.582595, 6
+2, core karaoke fan, 0.907585, 7
+2, tiny TV screen, 0.734778, 7
+2, awesome karaoke, 0.737448, 8
+2, Saturday night, 0.617296, 8
+4, Potato Patch fries, 0.950447, 0
+4, favorite Yinzer bars, 0.912745, 0
+4, smoking ban loophole, 0.883065, 1
+4, annoying hipster types, 0.874499, 1
+4, dive bars, 0.761055, 2
+4, cheesy tunes, 0.738261, 2
+4, old school joints, 0.860324, 3
+4, smoking-permitted bars, 0.759193, 3
+4, Nico, 0.967696, 4
+4, Pittsburgh, 0.708353, 5
+4, friends, 0.651327, 5
+4, Friday nights, 0.788923, 6
+4, karaoke, 0.661161, 6
+4, late afternoon/early evening, 0.844071, 7
+4, finest dives, 0.767219, 7
+4, fish sandwich, 0.930787, 8
+4, homemade fries, 0.828687, 8
+4, real treat, 0.75549, 9
+4, residential section, 0.747234, 9
+5, fried fish, 0.748685, 0
+5, hipsters-and-yinzers-living-in-harmony kind, 0.743982, 0
+5, Pirates game specials, 0.886674, 2
+5, cigarette smoke, 0.737417, 2
+5, best karoake, 0.726808, 3
+5, Scorpion, 0.550869, 3
+5, Saturday nights, 0.955819, 6
+5, cool dive bar, 0.920413, 6
+5, late night hangout, 0.890163, 7
+5, quintessential Pittsburgh, 0.757179, 7
+5, neighborhood dive bar, 0.890092, 8
+5, Nico, 0.635767, 8
+5, low-key evening, 0.770295, 9
+5, great place, 0.754787, 9

@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, hash browns, 0.900814, 0
+1, despair, 0.689371, 0
+1, atmosphere, 0.632048, 2
+1, food, 0.561882, 2
+1, eggs, 0.652312, 6
+1, place, 0.56771, 7
+1, Kahlua, 0.711605, 8
+1, shot, 0.631283, 8
+2, tall frown face, 0.914176, 0
+2, Pillsbury Grand, 0.727675, 0
+2, seedy characters, 0.77207, 1
+2, Bennetts McC, 0.749673, 1
+2, frown faced woman, 0.949027, 2
+2, horrible bland macaroni, 0.924628, 2
+2, dive bar, 0.938965, 3
+2, gray string beans, 0.886055, 3
+2, homemade comfort food, 0.894028, 6
+2, place, 0.701452, 6
+2, Madison fixture, 0.752234, 7
+2, old establishment, 0.752103, 7
+2, people, 0.602801, 8
+2, charming atmosphere, 0.734787, 9
+2, high hospitality, 0.733549, 9
+3, bathrooms needs, 0.720658, 0
+3, sat/sun mornings, 0.708069, 0
+3, hardcore gambling machine, 0.902204, 1
+3, sort, 0.469216, 1
+3, porn, 0.563118, 2
+3, thing, 0.550555, 2
+3, place, 0.483692, 4
+3, definite dive bar, 0.979224, 7
+3, mileage, 0.478751, 7
+3, breakfast, 0.470807, 8
+3, service, 0.447442, 8
+4, little dive bar, 0.910834, 0
+4, hard corn porn, 0.880675, 0
+4, movie Dusk, 0.72889, 1
+4, average folk, 0.691801, 1
+4, overly sensitive prude, 0.905621, 2
+4, salt-of-the-Earth type bar, 0.847468, 2
+4, bloody mary, 0.887534, 3
+4, 4-full stars, 0.726823, 3
+4, hash browns, 0.900795, 4
+4, breakfast, 0.874315, 4
+4, place, 0.907638, 5
+4, Interesting bumper stickers, 0.860502, 6
+4, thursday breakfast, 0.752864, 6
+4, good-looking food, 0.716184, 7
+4, bacon, 0.580806, 7
+4, good place, 0.831358, 8
+4, interesting cast, 0.711761, 8
+4, drink specials, 0.676376, 9
+4, friends, 0.575254, 9
+5, Thursday mornings, 0.905124, 0
+5, Bacon Cheeseburger, 0.71213, 0
+5, Bloody Mary w/, 0.903641, 2
+5, low lit, 0.656105, 2
+5, hash browns, 0.63933, 3
+5, eggs, 0.49665, 3
+5, there,like clock work, 0.854712, 6
+5, homemade onion rings, 0.841348, 6
+5, bartenders shirt, 0.684986, 7
+5, decent food, 0.665661, 7
+5, stuff legends, 0.687595, 8
+5, place., 0.449807, 8

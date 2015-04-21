@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, York style pizza, 0.867818, 0
+2, tomato sauce, 0.548683, 0
+2, lousy slices, 0.57298, 1
+2, fuss, 0.434989, 1
+2, pizza product, 0.7589, 2
+2, behind-the-counter service, 0.526293, 2
+2, new low, 0.532792, 3
+2, Little Nippers, 0.528576, 3
+2, pizza, 0.997234, 5
+2, Pennsylvania-Turnpike Sbarro, 0.564187, 6
+2, moment, 0.430741, 6
+2, better pizza places, 0.834561, 7
+2, cheese pizza, 0.752069, 7
+2, great pizza, 0.814832, 8
+2, York/New Jersey area, 0.639628, 8
+3, typically small slices, 0.422491, 0
+3, prowess slice, 0.290171, 0
+3, bad pizza, 0.468573, 2
+3, good pizza, 0.46402, 2
+3, mushroom pizza, 0.497355, 3
+3, semi-formal last Friday, 0.317792, 3
+3, night, 0.20553, 4
+3, pizza, 0.939924, 5
+3, Pizza Sola, 0.751747, 6
+3, cheese pizza, 0.516039, 6
+3, Oakland pizza joints, 0.590728, 8
+3, NY-style pizza, 0.512861, 8
+4, perfect plain slice, 0.719291, 0
+4, slightly saltier mozzarella, 0.652846, 0
+4, main drawback, 0.574382, 1
+4, Slices here range, 0.665858, 2
+4, single paper plate, 0.645965, 2
+4, doughy crusts, 0.577526, 3
+4, pepper flakes, 0.572867, 3
+4, Pizza Sola, 0.892361, 4
+4, pizza, 0.908059, 5
+4, Best pizza, 0.691932, 6
+4, meat pizza, 0.690819, 6
+4, York style pizza, 0.751825, 7
+4, pizza size, 0.679363, 7
+4, pizza slices, 0.75386, 8
+4, New York-style slice, 0.731072, 8
+4, pizza thin crispy, 0.696733, 9
+5, enormous pizza slices, 0.702359, 0
+5, pre-cooked slices, 0.471206, 0
+5, local pizza joints, 0.728365, 2
+5, time, 0.352095, 2
+5, ingredients, 0.326614, 3
+5, joke, 0.326023, 3
+5, pizza, 0.99256, 5
+5, mozzarella cheese, 0.419243, 6
+5, additional plus, 0.416541, 6
+5, Hawaiian white pizza, 0.638223, 7
+5, varied customized pizzas, 0.538374, 7
+5, white pizza, 0.893403, 8
+5, BEST WHITE PIZZA, 0.640157, 8
+5, Pizza Sola, 0.629709, 9
+5, best pizza, 0.606524, 9

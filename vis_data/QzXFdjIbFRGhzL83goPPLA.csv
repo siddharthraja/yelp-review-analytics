@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, Ahi Tuna Salad, 0.718957, 0
+1, chicken lettuce, 0.678393, 0
+1, Terrible service, 0.53895, 1
+1, worst resturant, 0.520499, 1
+1, ahi tuna, 0.934019, 2
+1, diet coke, 0.876812, 2
+1, elephant bar, 0.891248, 3
+1, Asian chicken salad, 0.711313, 3
+1, table, 0.369758, 4
+1, water tastes, 0.52865, 6
+1, clean booth, 0.473528, 6
+1, crispy green beans, 0.965194, 7
+1, Scottsdale Road area, 0.635606, 7
+2, fire-blasted chicken turds, 0.899505, 0
+2, ketchup cocktail sauce, 0.874087, 0
+2, food, 0.86553, 1
+2, well. raw sewage, 0.833098, 1
+2, bloody mary, 0.860207, 2
+2, wet dog food, 0.854917, 2
+2, bar area, 0.852141, 3
+2, cookie cutter restaurant, 0.830375, 3
+2, artichoke dip, 0.927272, 4
+2, popular lunch item, 0.822894, 4
+2, chicken sandwich, 0.964, 5
+2, best thing, 0.837324, 5
+2, sushi roll combo, 0.823817, 6
+2, fairly decent portion, 0.8237, 6
+2, great cold salad, 0.856157, 7
+2, drinks specials menu, 0.849184, 7
+2, Pad Thai Noodles, 0.849925, 8
+2, salad. nice flavor, 0.838696, 8
+2, interesting menu, 0.792077, 9
+3, spring roll, 0.682241, 0
+3, Want good appetizers, 0.67804, 0
+3, ice cream, 0.669365, 1
+3, good stuff, 0.620963, 1
+3, mediocre Chinese food, 0.653198, 2
+3, Elephant Bar chain, 0.64888, 2
+3, completely average bartender, 0.610457, 3
+3, food, 0.774064, 4
+3, good food, 0.744132, 4
+3, service, 0.663715, 5
+3, menu, 0.644376, 5
+3, Elephant Bar, 0.963208, 6
+3, buffalo chicken, 0.640235, 6
+3, different asian cultures, 0.619073, 7
+3, white sangria thing, 0.617303, 7
+3, lunch meeting place, 0.66083, 8
+3, Want great entrees, 0.640724, 8
+3, tempura salmon roll, 0.628377, 9
+4, Super good food, 0.70444, 0
+4, nice little kick, 0.614687, 0
+4, picky food, 0.614067, 3
+4, Elephant Bar, 0.95638, 4
+4, service, 0.802116, 4
+4, food, 0.949982, 5
+4, place, 0.73942, 5
+4, good thing, 0.630693, 6
+4, good crowd, 0.629195, 6
+4, great service, 0.689733, 7
+4, wedge salad, 0.681895, 7
+4, good food, 0.728994, 8
+4, miso yaki salmon, 0.692119, 8
+4, good kids menu, 0.679277, 9
+4, good place, 0.637965, 9
+5, best Chinese food, 0.700624, 0
+5, Shanghai Cashew Chicken, 0.695274, 0
+5, Elephant Bar, 0.949417, 4
+5, food, 0.773896, 6
+5, Elephant Bar Restaurant, 0.72742, 6
+5, menu, 0.734496, 7
+5, Chicken lettuce wraps, 0.695939, 7
+5, black cherry mojito, 0.785351, 8
+5, great lunch specials, 0.690799, 8
+5, excellent food, 0.647212, 9
+5, happy hour food, 0.631489, 9

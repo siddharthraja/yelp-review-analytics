@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, pirate theme production, 0.984023, 0
+1, pirate ship, 0.949998, 0
+1, Treasure Island Pirate, 0.95181, 1
+1, Muscular Men Pretending, 0.932541, 1
+1, good thing, 0.71277, 2
+1, short kid, 0.709336, 2
+1, exciting thing, 0.725144, 3
+1, OMG, 0.551329, 3
+1, old fashioned sound, 0.874872, 7
+1, raunchy fun, 0.728924, 7
+1, great childhood memory, 0.861135, 8
+1, hotel/casino, 0.552799, 8
+2, main girl, 0.699776, 0
+2, lip sync, 0.682192, 0
+2, lame, 0.548661, 1
+2, mouth, 0.535641, 1
+2, story line, 0.958841, 2
+2, terrible story line, 0.814598, 2
+2, funny thing, 0.693452, 3
+2, live performance, 0.680235, 3
+2, future Treasure Island, 0.841958, 6
+2, ......, 0.745644, 6
+2, Treasure Island, 0.993257, 7
+2, Pros, 0.536792, 7
+2, fireworks, 0.53697, 8
+2, attention, 0.533913, 8
+2, Vegas, 0.536655, 9
+2, Kind, 0.536344, 9
+5, kids, 0.748708, 0
+5, reviewers, 0.680735, 0
+5, Music, 0.58022, 7
+5, fun, 0.578709, 7
+5, adult Disneyland, 0.936171, 9
+5, Vegas, 0.569967, 9

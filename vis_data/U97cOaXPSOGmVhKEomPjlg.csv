@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, poorest restaurant experiences, 0.767812, 0
+1, FRIED kale, 0.69498, 0
+1, regular wine list, 0.733781, 1
+1, specialty drinks, 0.605539, 1
+1, fried pigs ears, 0.976658, 2
+1, greasy fried lump, 0.854775, 2
+1, discernible pepper taste, 0.778041, 3
+1, greasy film, 0.590775, 3
+1, Valentine, 0.476238, 5
+1, Mussels, 0.475104, 5
+1, savory tomato sauce, 0.74563, 7
+1, great things, 0.608015, 7
+1, Davanti Enoteca, 0.61629, 8
+1, Happy Hour menu, 0.585127, 8
+1, italian artisan bread, 0.740816, 9
+1, after-dinners drinks, 0.633625, 9
+2, traditional entrees, 0.642941, 0
+2, small plate, 0.633814, 0
+2, heavenly nut/grain salad, 0.818408, 1
+2, service, 0.693602, 1
+2, wait person, 0.63262, 2
+2, tour party, 0.612383, 2
+2, Sat nite, 0.650279, 3
+2, menu concept, 0.64228, 3
+2, time, 0.673434, 4
+2, group, 0.499972, 4
+2, food, 0.951865, 5
+2, place, 0.581834, 6
+2, inches, 0.451378, 6
+2, older set, 0.639468, 7
+2, hard time, 0.637691, 7
+2, new restaurant, 0.630946, 8
+2, overall food, 0.626981, 8
+3, various dishes, 0.749001, 0
+3, yelp-foodie group, 0.690287, 0
+3, alas, 0.392126, 1
+3, Valentine, 0.370041, 1
+3, small morsel bites, 0.885365, 2
+3, stars, 0.366532, 2
+3, vegetable eater, 0.689922, 3
+3, main reasons, 0.664056, 3
+3, egg truffle toast, 0.920897, 6
+3, replacement chicken, 0.654065, 6
+3, Delicious, 0.386514, 7
+3, sauce, 0.384625, 7
+3, exceptional food, 0.655863, 8
+3, Taylor street, 0.630127, 8
+4, great cocktail/martini prices, 0.784225, 0
+4, lightly oiled toast, 0.782262, 0
+4, cheese flat break, 0.779485, 2
+4, little cheese plate, 0.793868, 3
+4, standard dessert menu, 0.788478, 3
+4, goat cheese, 0.782799, 4
+4, food, 0.867712, 5
+4, cheese, 0.86016, 5
+4, pork belly, 0.845923, 6
+4, place, 0.845651, 6
+4, local honeycomb, 0.878922, 7
+4, truffled egg toast, 0.814889, 7
+4, truffle egg toast, 0.94932, 8
+4, great new restaurant, 0.867951, 8
+4, Great new place, 0.819364, 9
+4, good wine choices, 0.816277, 9
+5, soft cow cheese, 0.809232, 0
+5, normal Italian food, 0.789772, 0
+5, honey sour cream, 0.788007, 3
+5, ricotta foccocia w/, 0.769407, 3
+5, menu, 0.82948, 4
+5, large group, 0.821886, 4
+5, food, 0.913338, 5
+5, bread, 0.815457, 5
+5, pork belly, 0.869313, 6
+5, Davanti, 0.863307, 6
+5, marshmallow fluff, 0.819435, 7
+5, Chef Peter DeRuvo, 0.818968, 7
+5, great food, 0.84795, 8
+5, Great new place, 0.795031, 8
+5, delicious food, 0.804595, 9
+5, great reset button, 0.785722, 9

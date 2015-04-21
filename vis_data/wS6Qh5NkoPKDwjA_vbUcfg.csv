@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, broccoli cheese soup, 0.997329, 0
+1, *Note, 0.503194, 0
+1, horrifyingly memorable experience, 0.932624, 1
+1, Yuck, 0.506176, 1
+1, review, 0.502829, 2
+1, bar*, 0.453565, 2
+1, piping hot soup, 0.958622, 3
+1, frozen broccoli, 0.734224, 3
+1, apartment, 0.468318, 6
+1, Amy, 0.460651, 6
+1, friend, 0.542687, 7
+1, pickle, 0.475477, 7
+2, saving grace, 0.883887, 0
+2, winter, 0.569389, 0
+2, hummus plate, 0.969043, 1
+2, flies, 0.7193, 1
+2, rule, 0.539363, 3
+2, barley soup, 0.990826, 6
+2, saltiest soup, 0.928991, 6
+3, square foot kitchen, 0.817016, 0
+3, Dollar rail drinks, 0.800632, 0
+3, credit card debt, 0.807806, 1
+3, Jager Bombs, 0.686479, 1
+3, frat boy, 0.689579, 2
+3, bar crowd, 0.680294, 2
+3, simple ham sandwich, 0.795935, 3
+3, new manager, 0.695033, 3
+3, greek salad, 0.716474, 6
+3, hummus, 0.695006, 6
+3, mediterranean plate, 0.953165, 7
+3, broccoli cheese soup, 0.819938, 7
+3, grilled pita, 0.719199, 8
+3, yogurt sauce, 0.695362, 8
+3, nice summer night, 0.812755, 9
+3, outdoor patio area, 0.78194, 9
+4, good old place, 0.627128, 0
+4, good long island, 0.579299, 0
+4, terrible seating arrangement, 0.53385, 1
+4, Good prices, 0.50893, 3
+4, food, 0.597409, 4
+4, Amy, 0.830077, 5
+4, place, 0.762849, 5
+4, good job AL, 0.582692, 6
+4, old stand bys, 0.554925, 6
+4, waffle fries, 0.953095, 7
+4, great restaurant experience, 0.569342, 7
+4, great place, 0.626174, 8
+4, especially good place, 0.613966, 8
+4, Nice tap list, 0.544574, 9
+4, Super friendly staff, 0.533937, 9
+5, Asian Chicken Wrap/Salad, 0.781972, 0
+5, kitchen staff, 0.687677, 0
+5, cheap drinks, 0.73393, 1
+5, half priced rail, 0.800637, 3
+5, price drinks, 0.727717, 3
+5, Amy, 0.922068, 5
+5, place, 0.729065, 5
+5, rail drinks, 0.854051, 6
+5, annoying college kids, 0.77898, 6
+5, state street, 0.967348, 7
+5, veggie wrap, 0.827919, 7
+5, good food, 0.939177, 8
+5, cute bartenders, 0.698609, 8
+5, Spicey waffle fries, 0.817861, 9
+5, tasty meal, 0.670045, 9

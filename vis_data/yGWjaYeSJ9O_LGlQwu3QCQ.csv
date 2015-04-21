@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, specific movie time, 0.99941, 0
+2, Concord Mills, 0.808256, 0
+2, disgusting places, 0.753676, 1
+2, service issues, 0.712562, 1
+2, drinks, 0.475188, 2
+2, Macado, 0.445295, 2
+2, place moves, 0.667115, 3
+2, food, 0.563722, 3
+2, quick in-and-out, 0.708312, 6
+2, location, 0.320031, 6
+2, good place, 0.675672, 8
+2, meal, 0.324894, 8
+3, best sandwich spot, 0.643819, 0
+3, non sandwich offerings, 0.640613, 0
+3, Massive sandwich menu, 0.679536, 2
+3, good service, 0.527184, 2
+3, bar area, 0.594298, 3
+3, Macado, 0.593482, 3
+3, food, 0.603003, 5
+3, service, 0.532885, 5
+3, daily sandwich specials, 0.683464, 6
+3, No.daily soup specials, 0.618045, 6
+3, concord mills mall, 0.97721, 7
+3, French onion soup, 0.641024, 7
+3, w/ generous slices, 0.601654, 8
+3, grilled rye bread, 0.596581, 8
+3, pretty solid lunch, 0.574734, 9
+3, withthis dining experience, 0.56941, 9
+4, sandwich home, 0.682065, 0
+4, brownie pie, 0.679659, 0
+4, bad sandwich, 0.664395, 1
+4, bit daunting, 0.650619, 1
+4, traditional corned beef, 0.782005, 2
+4, cute bartender, 0.664419, 2
+4, vanilla ice cream, 0.816133, 3
+4, Monday nights, 0.80175, 3
+4, high school, 0.833437, 4
+4, kids, 0.803962, 5
+4, Macado, 0.732203, 5
+4, ice cream, 0.970403, 6
+4, good comfort food., 0.790836, 6
+4, younger wait staff, 0.761942, 7
+4, great idea, 0.674779, 7
+4, free kids, 0.676682, 8
+4, kids menu, 0.67411, 8
+4, great sandwiches, 0.668178, 9
+4, Cool place, 0.66731, 9
+5, great drink specials., 0.907014, 0
+5, frat boy, 0.736463, 0
+5, late lunch, 0.795186, 1
+5, movie, 0.471378, 1
+5, bite, 0.479948, 3
+5, menu, 0.469103, 3
+5, manager, 0.4737, 7
+5, good specials, 0.727872, 8
+5, bartenders, 0.502391, 8
+5, great place, 0.676898, 9
+5, Jerry, 0.46904, 9

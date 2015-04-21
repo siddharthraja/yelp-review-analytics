@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+3, secret unknown spot, 0.762978, 0
+3, Hot Dog, 0.664352, 0
+3, typical bar fare, 0.762188, 1
+3, normal menu, 0.659653, 2
+3, greasy patty, 0.641814, 2
+3, turkey burger, 0.939957, 3
+3, basic bar food, 0.805541, 3
+3, decent char flavor, 0.809275, 6
+3, special event party, 0.7979, 6
+3, slightly better burger, 0.84863, 7
+3, buttery brioche bun, 0.78045, 7
+3, decent quality, 0.680187, 8
+3, free sauces, 0.639747, 8
+3, typical fry seasoning, 0.74974, 9
+3, touristy destination, 0.632183, 9
+4, egg breakfast, 0.900869, 0
+4, range balls, 0.554619, 0
+4, frustrating, 0.280063, 1
+4, tv screens, 0.491489, 2
+4, golf channel, 0.48557, 2
+4, breakfast menu, 0.746289, 3
+4, popcorn machine, 0.480047, 3
+4, different breakfast, 0.744182, 6
+4, house potatoes, 0.463668, 6
+4, breakfast skillet, 0.764734, 7
+4, breakfast sandwich, 0.750622, 7
+4, car rental return, 0.720261, 8
+4, nice stop, 0.494879, 8
+4, Deck Sports Bar, 0.705521, 9
+4, burgers, 0.265104, 9
+5, Loaded Arnold Palmer, 0.851096, 0
+5, ultra creamy cheesecake, 0.681656, 0
+5, Loaded Arnold Palmers, 0.698547, 2
+5, numerous flat screens, 0.665918, 2
+5, typical bar food, 0.6826, 3
+5, low price, 0.601609, 3
+5, Upper Deck, 0.916497, 6
+5, shrimp cocktail, 0.788516, 6
+5, Spiced Lamb Chops, 0.876133, 7
+5, Steak Au Poivre, 0.874852, 7
+5, mushroom soup, 0.87416, 8
+5, new years celebration, 0.812915, 8
+5, pretty good view, 0.69183, 9
+5, nice open feeling, 0.653809, 9

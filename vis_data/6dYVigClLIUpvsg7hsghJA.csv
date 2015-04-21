@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, basement party, 0.970633, 2
+1, feels, 0.640436, 2
+1, dollar shots, 0.90831, 6
+1, college kids, 0.804476, 6
+2, pretty small bar, 0.953686, 0
+2, Shore loving meatheads, 0.906907, 0
+2, short time, 0.728903, 1
+2, Rolling Stones, 0.72008, 1
+2, meeting unattractive people, 0.93828, 2
+2, Mondays challenges, 0.7219, 2
+2, human feces, 0.788721, 3
+2, stiffest drinks, 0.781608, 3
+2, redeeming qualities, 0.770251, 4
+2, football players, 0.741558, 6
+2, classic rock, 0.723528, 7
+2, proud badger, 0.703779, 7
+3, tourists order doubles, 0.855415, 0
+3, saturday night, 0.469827, 0
+3, vodka shades, 0.438578, 1
+3, beer goggles, 0.430589, 1
+3, crowded bars, 0.497457, 2
+3, grassy area, 0.462886, 2
+3, high liquor-to-mixer ratio, 0.753774, 3
+3, extremely stiff cocktail, 0.736504, 3
+3, drinks, 0.988448, 5
+3, seasoned liver, 0.485867, 6
+3, great bar, 0.473841, 6
+3, regular drinks, 0.792085, 7
+3, Mondays, 0.359205, 7
+3, perfect choice, 0.440591, 8
+4, star review, 0.888718, 0
+4, bad reviews, 0.885416, 0
+4, weekend, 0.403501, 1
+4, bad thing, 0.918805, 2
+4, ketel, 0.523559, 2
+4, wilst peeing, 0.966778, 3
+4, charlie sheen, 0.913689, 3
+4, mid-west bars, 0.971923, 7
+4, good time, 0.845743, 7
+4, liter, 0.471669, 8
+4, vodka, 0.440645, 8
+5, favorite bar, 0.749485, 0
+5, future trips, 0.742479, 0
+5, Mondays, 0.544958, 1
+5, shit, 0.446357, 1
+5, bar, 0.966742, 2
+5, dollars, 0.4157, 2
+5, strongest drinks, 0.812487, 3
+5, Madison, 0.651486, 3
+5, Talent Level, 0.73121, 6
+5, Good Girls, 0.705127, 6
+5, Dark. Tell, 0.751657, 7
+5, challenge, 0.386255, 7
+5, dollar rails, 0.764704, 8
+5, booze, 0.594418, 8

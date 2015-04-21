@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, gay male friends, 0.73436, 0
+1, snotty bar, 0.689348, 0
+1, wont step foot, 0.746524, 1
+1, main bar, 0.672728, 1
+1, bar, 0.923034, 2
+1, flat screen tv, 0.733953, 2
+1, BIG question mark, 0.756339, 3
+1, dollar cover charge, 0.745376, 3
+1, owner, 0.668813, 4
+1, girls club, 0.760229, 5
+1, dress code, 0.867079, 6
+1, new faces, 0.770298, 6
+1, reality check, 0.756959, 7
+1, favorite alcoholic beverage, 0.730922, 8
+1, rare occasion, 0.640142, 8
+1, bartender Machelle, 0.659185, 9
+1, good thing, 0.628492, 9
+2, good chance, 0.614758, 0
+2, dance club, 0.576091, 0
+2, good drink specials, 0.844185, 1
+2, Boo hiss, 0.627832, 1
+2, good drinks, 0.631974, 2
+2, flip-flops, 0.382685, 2
+2, effing terminal fee, 0.84091, 3
+2, dress code, 0.596054, 3
+2, better music, 0.61511, 6
+2, grandmother, 0.375852, 6
+2, key component, 0.914642, 7
+2, Mistys/Z Girl club, 0.896558, 7
+2, living room, 0.589945, 8
+2, Stay, 0.352614, 8
+2, Classy, 0.375936, 9
+3, scary lesbian bar, 0.759263, 0
+3, flat screen, 0.718889, 0
+3, gay people, 0.552388, 1
+3, butch/masculine-female/trans people, 0.552228, 1
+3, lesbian bar, 0.918939, 2
+3, hot lesbian bar, 0.694167, 2
+3, dance floor/bar area, 0.715616, 3
+3, seating area, 0.573367, 3
+3, place, 0.583225, 4
+3, proper make, 0.543529, 6
+3, attractive dyke, 0.548336, 7
+3, good service, 0.547197, 7
+3, lesbian drama, 0.553002, 8
+3, good looking ladies, 0.671087, 9
+3, high hopes, 0.54522, 9
+4, review, 0.54532, 3
+4, visa, 0.595362, 6
+4, place, 0.547462, 6
+4, best time, 0.895008, 7
+4, good time, 0.832202, 8
+4, Girl Club, 0.919725, 9
+4, good music, 0.884301, 9
+5, cocktails, 0.593512, 0
+5, Scottsdale, 0.567603, 0
+5, LGBT community, 0.921738, 1
+5, snobbery, 0.602575, 1
+5, jackass, 0.580506, 2
+5, lesbian bar, 0.81801, 3
+5, straight people, 0.81599, 3
+5, happy twist, 0.890034, 6
+5, dyke drama, 0.866045, 6
+5, friendliness, 0.600015, 7
+5, bathrooms, 0.591153, 7
+5, friendly people, 0.889606, 8
+5, great security, 0.857298, 8
+5, good time, 0.842544, 9
+5, comfortable place, 0.839458, 9

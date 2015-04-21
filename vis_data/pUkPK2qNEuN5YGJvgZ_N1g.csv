@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+2, little spot, 0.959341, 0
+2, good crowd, 0.923866, 0
+2, food plates, 0.830524, 1
+2, glasses, 0.362593, 1
+2, half way, 0.847877, 3
+2, situation, 0.359353, 3
+2, drinks, 0.410542, 6
+2, extra mile, 0.84118, 9
+2, service/hospitality industry, 0.820793, 9
+3, endroit reconnu comme, 0.865257, 0
+3, sont ouvertes très, 0.827458, 0
+3, best/top, 0.43432, 2
+3, cheap drink, 0.603017, 3
+3, place, 0.547243, 5
+3, c'est caractérisé comme, 0.914743, 6
+3, ou une bouffe, 0.88773, 6
+3, awesome atmosphere., 0.650451, 7
+3, cool tables, 0.635731, 7
+3, genuinely good fun, 0.797511, 8
+3, decently priced glasses, 0.7854, 8
+4, bien que je, 0.981264, 0
+4, c'est ça que, 0.962968, 0
+4, pas dire snob, 0.901672, 2
+4, Avec le bar, 0.939681, 3
+4, place, 0.978525, 5
+4, chez simone, 0.939036, 5
+4, bon verre, 0.94877, 6
+4, l'été dernier et, 0.942698, 6
+4, delicious cheese plates, 0.98039, 7
+4, c'est bel et, 0.950346, 7
+4, good simple food, 0.934164, 8
+4, I.AM.A.FAN. Great place, 0.930669, 8
+4, friendly staff, 0.906778, 9
+5, Greek salad save, 0.804044, 0
+5, good looking francophone, 0.798669, 0
+5, Buvette Chez Simone, 0.91994, 2
+5, Mile End, 0.868323, 2
+5, wine bar, 0.935049, 3
+5, wine bars, 0.847223, 3
+5, place, 0.796302, 5
+5, greek salad, 0.954019, 6
+5, favorite wine bar, 0.805991, 6
+5, cool neighbourhood bar, 0.771155, 7
+5, amazing wine, 0.744544, 7
+5, wine selection, 0.815912, 8
+5, great selection, 0.79979, 8
+5, great night, 0.748279, 9
+5, good deal, 0.715002, 9

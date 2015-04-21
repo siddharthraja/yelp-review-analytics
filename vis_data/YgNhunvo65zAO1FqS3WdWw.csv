@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, chili cheese fries, 0.702674, 0
+1, regular staff, 0.524494, 0
+1, arrogant bartender, 0.752296, 1
+1, food order, 0.521269, 1
+1, casino blackjack dealer, 0.742395, 2
+1, work *I, 0.548155, 2
+1, lamb dinner, 0.776319, 3
+1, village pub customer, 0.772003, 3
+1, bartender, 0.956485, 4
+1, place, 0.458207, 4
+1, game, 0.58184, 5
+1, village pub, 0.802883, 6
+1, morning bartender, 0.724683, 6
+1, best lamb dinner, 0.765355, 7
+1, fabulous bartender, 0.745544, 7
+1, amazing treatment, 0.532943, 8
+1, Football season, 0.520613, 8
+2, cheapest brand, 0.547349, 0
+2, meal, 0.353315, 0
+2, shabby feel, 0.608459, 1
+2, someplace, 0.385551, 1
+2, slow service, 0.837127, 2
+2, super slow service, 0.825279, 2
+2, ice cream, 0.986135, 3
+2, dang ice cream, 0.733621, 3
+2, chicken pot pie, 0.746012, 6
+2, shoe leather, 0.531707, 6
+2, dining partner, 0.528198, 8
+2, steak, 0.359514, 8
+3, Prime Rib Special, 0.704556, 0
+3, Christmas libations, 0.587768, 0
+3, waitress, 0.569085, 2
+3, baked potato, 0.758171, 3
+3, prime rib, 0.754707, 3
+3, company policy, 0.928587, 4
+3, bad place, 0.582385, 4
+3, food, 0.97489, 5
+3, Jamie, 0.519444, 5
+3, fun little Pub, 0.806061, 6
+3, Village Pub, 0.794546, 6
+3, nice place, 0.640835, 7
+3, Sierra Gold, 0.612086, 7
+3, nice portion, 0.62644, 8
+3, nice touch, 0.597149, 8
+3, great breakfast specials, 0.782582, 9
+3, good drinks, 0.623645, 9
+4, Las Vegas Pub, 0.804749, 0
+4, creepy red leather, 0.756269, 0
+4, preferred bars, 0.592814, 1
+4, bad meal, 0.58952, 1
+4, bad thing, 0.585028, 2
+4, home leftovers, 0.574181, 2
+4, red carpet pub, 0.814487, 3
+4, Hampton Inn, 0.763568, 3
+4, best fried chicken, 0.745253, 6
+4, totally non descript, 0.737222, 6
+4, Village Pub, 0.925888, 7
+4, good prices, 0.722255, 7
+4, chicken pot pie, 0.712437, 8
+4, Good food, 0.599074, 8
+4, breakfast potatoes, 0.599021, 9
+4, Great place, 0.575707, 9
+5, Buffalo Chicken Wrap, 0.484051, 0
+5, club sandwich, 0.483453, 0
+5, crappy fast food, 0.508197, 1
+5, big screen t.v., 0.484136, 1
+5, fast food, 0.511205, 2
+5, bar area, 0.503636, 3
+5, OOOOOLD school Gamblers, 0.490668, 3
+5, village pub, 0.943774, 6
+5, big red booths, 0.492064, 6
+5, Village Pub Chicken, 0.541129, 7
+5, Village Pub locations, 0.526433, 7
+5, great food, 0.815709, 8
+5, cheep great food, 0.561631, 8
+5, big awesome shrimp, 0.477371, 9
+5, great service, 0.447958, 9

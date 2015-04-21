@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, friendliest, 0.689298, 0
+1, damn, 0.655105, 0
+1, menus, 0.617761, 1
+1, food, 0.610855, 1
+1, table, 0.883373, 2
+1, airport, 0.758599, 2
+1, min, 0.646404, 3
+1, philosophy, 0.630132, 3
+1, eye contact, 0.883607, 6
+1, server, 0.6113, 6
+1, Blue Moon, 0.916646, 9
+2, plastic plate, 0.845629, 0
+2, staff, 0.486442, 0
+2, dishwasher, 0.568521, 1
+2, nice thing, 0.939306, 2
+2, meal voucher, 0.875226, 2
+2, long time, 0.827975, 3
+2, server, 0.484832, 3
+2, rest, 0.508836, 7
+2, Phoenix, 0.47963, 7
+4, star cooks, 0.689081, 0
+4, Quick bite, 0.653512, 0
+4, 25th wedding anniversary, 0.936605, 3
+4, quick little bar, 0.878453, 3
+4, fine-dining experience, 0.80635, 6
+4, review, 0.366221, 6

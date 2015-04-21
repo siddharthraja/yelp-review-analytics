@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, vodka drinks, 0.994957, 0
+1, dollars, 0.447262, 0
+1, dollar glasses, 0.925179, 1
+1, cranberry juice, 0.905077, 1
+1, customer service, 0.825877, 3
+1, Getto place, 0.787611, 3
+1, dollar cover, 0.919682, 6
+1, Sundays, 0.45133, 6
+3, particularly enjoyable experience, 0.780275, 0
+3, dance floors, 0.571969, 0
+3, decent viewing spot, 0.848382, 1
+3, interior decorating update, 0.772237, 1
+3, so.. yuck, 0.601354, 2
+3, gravel parking, 0.561492, 2
+3, crowd, 0.415932, 3
+3, patrons, 0.362129, 3
+3, club pretty fun, 0.957423, 6
+3, Black Gay Pride, 0.824889, 6
+3, outdoor patio, 0.853497, 8
+3, decent outdoor patio, 0.824281, 8
+4, separate salsa bar, 0.931881, 0
+4, kinda eh, 0.756279, 0
+4, gay bar, 0.699752, 1
+4, fights, 0.539827, 1
+4, drag shows, 0.735708, 2
+4, little trouble, 0.726209, 2
+4, gay culture, 0.697169, 3
+4, opinion, 0.574382, 4
+4, surly ticket takers, 0.936555, 6
+4, great crowded night, 0.885236, 6
+4, fun bar, 0.903788, 7
+4, hot gorgeous people, 0.886834, 7
+4, huge dance floor, 0.890787, 8
+4, fun time, 0.88295, 8
+4, stronger drinks, 0.729286, 9
+4, cool drag, 0.703651, 9
+5, big dance floor, 0.901601, 0
+5, kinda ghetto, 0.783058, 0
+5, creepy straight dudes, 0.906365, 1
+5, special guests, 0.679521, 1
+5, good music, 0.635411, 2
+5, comments, 0.448817, 2
+5, upstairs, 0.464685, 3
+5, hint, 0.454693, 3
+5, pretentious people, 0.66177, 6
+5, best nights, 0.661278, 6
+5, free draft, 0.926982, 7
+5, free draft beer, 0.854597, 7
+5, opinion Scorpio, 0.683884, 8
+5, xD, 0.47336, 8
+5, nicely sized place, 0.941833, 9
+5, opinion. hahah, 0.700422, 9

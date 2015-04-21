@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+2, Irn Bru, 0.789133, 0
+2, Saturday afternoon, 0.748033, 0
+2, touristy bar snacks/meals, 0.867228, 3
+2, touristy location, 0.675547, 3
+2, patronage, 0.476902, 6
+2, blt, 0.475694, 6
+2, weekend soft drinks, 0.96925, 7
+2, current guest ales, 0.955934, 7
+2, place, 0.479093, 8
+2, enjoyable afternoon, 0.726216, 9
+2, Kir Royal, 0.700137, 9
+3, pretty little pub, 0.753823, 0
+3, nice wee Scottish, 0.719644, 0
+3, regular pub, 0.703426, 2
+3, expensive pub, 0.695347, 2
+3, Mitre, 0.688322, 4
+3, royal mile, 0.937934, 5
+3, pub, 0.809208, 5
+3, nice pub, 0.702442, 6
+3, wee pint, 0.688788, 6
+3, quick pint pub, 0.758888, 7
+3, traditional Scottish dishes, 0.696018, 7
+3, traditional Scottish pub, 0.77, 8
+3, tourist friendly pub, 0.753855, 8
+3, good looking food, 0.701046, 9
+3, good selection, 0.654967, 9
+4, zit vinden het, 0.9623, 0
+4, alle plezier een, 0.961368, 0
+4, main room, 0.746073, 1
+4, modern extension, 0.741867, 1
+4, money spectrum, 0.735197, 2
+4, dark wood furnishings, 0.830846, 3
+4, Blue Blazer, 0.751978, 3
+4, time, 0.647615, 5
+4, ik steevast hier, 0.916124, 6
+4, een portie, 0.847699, 6
+4, Royal Mile, 0.895878, 7
+4, convivial atmosphere, 0.829996, 7
+4, great Scottish food, 0.879698, 8
+4, nice Scottish ale, 0.833491, 8
+4, Charming British atmosphere, 0.91878, 9
+4, great convenient location, 0.876601, 9
+5, royal mile, 0.835472, 0
+5, tourists, 0.510272, 0
+5, Rob, 0.451809, 1
+5, customers, 0.389979, 1
+5, desserts, 0.482156, 6
+5, beers, 0.451808, 7
+5, comfy atmosphere, 0.931723, 8
+5, cottage pie, 0.881184, 8

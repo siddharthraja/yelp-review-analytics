@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, DMV, 0.471887, 0
+1, place, 0.466014, 0
+1, Marine Corp bar, 0.964627, 1
+1, grotesque language, 0.7381, 1
+1, casting expursions, 0.717018, 2
+1, drink order, 0.715135, 2
+1, cheez whiz, 0.816013, 3
+1, provolone goodness, 0.802024, 3
+1, service, 0.833935, 4
+1, Friday nights, 0.729338, 6
+1, Jen, 0.4678, 6
+1, right spot, 0.710381, 7
+1, good reviews, 0.701857, 7
+2, Fiancées Greek pizza, 0.915633, 0
+2, live lobster tank, 0.908638, 0
+2, locals, 0.462772, 1
+2, life, 0.449771, 1
+2, live lobster, 0.958891, 2
+2, Pizza Parlor snob, 0.950097, 2
+2, mark, 0.451483, 3
+2, stock, 0.444754, 3
+2, friend, 0.579834, 5
+2, location, 0.495945, 5
+2, Mystery Diners, 0.657568, 6
+2, poker machines, 0.655702, 6
+2, fancy Cosmo/fruity drinks, 0.879256, 7
+2, smoke, 0.491587, 7
+2, juke box, 0.660237, 8
+2, pool table, 0.647065, 8
+2, cool place, 0.650759, 9
+2, smile, 0.454596, 9
+3, QQuiz trivia team, 0.931896, 0
+3, home half, 0.724639, 0
+3, guest sick, 0.736937, 1
+3, bit, 0.453629, 1
+3, fried panko jack, 0.989893, 2
+3, cheese, 0.455956, 2
+3, video poker tavern, 0.925093, 3
+3, mid-to-late morning, 0.744956, 3
+3, club sandwich, 0.736873, 6
+3, fries, 0.478196, 6
+3, fun trivia, 0.68349, 7
+3, try, 0.453594, 7
+3, good local bar, 0.896303, 8
+3, weekend crowd, 0.75166, 8
+3, great local bar, 0.906464, 9
+3, happy hour specials, 0.69765, 9
+4, hot chicken wings, 0.644559, 0
+4, little point boost, 0.583757, 0
+4, corn dog bites, 0.598661, 1
+4, bit overdone, 0.504466, 1
+4, Monday night trivia, 0.917958, 2
+4, wing sauce, 0.50841, 3
+4, pub trivias, 0.500415, 3
+4, Putters, 0.528999, 4
+4, pub trivia, 0.793381, 5
+4, food, 0.623662, 5
+4, free beer, 0.57457, 6
+4, kicks ass, 0.485276, 6
+4, beef tacos, 0.661237, 7
+4, drink specials, 0.629539, 7
+4, Good value, 0.484154, 8
+4, good time, 0.474364, 8
+4, frequent customer card, 0.653614, 9
+4, Food wise, 0.512065, 9
+5, local watering hole, 0.80102, 0
+5, bleu cheese dip, 0.798391, 0
+5, Grave yard specials, 0.784016, 1
+5, bloody mary, 0.958269, 2
+5, Typical bar beers, 0.82176, 2
+5, bar food items, 0.810974, 3
+5, pepper jack, 0.805083, 3
+5, bar, 0.838693, 4
+5, great food, 0.795304, 5
+5, awesome horseshoe bar, 0.824763, 6
+5, Big buck hunter, 0.781862, 6
+5, terrific bar area, 0.824843, 7
+5, real roast turkey, 0.787809, 7
+5, post-swing shift crowd, 0.817713, 8
+5, Nice local place, 0.791065, 8
+5, sweet potato fries, 0.794534, 9

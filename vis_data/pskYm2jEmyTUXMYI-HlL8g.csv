@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, sound proof doors, 0.797148, 0
+2, cheesy pop music, 0.795712, 0
+2, pop music, 0.841921, 1
+2, skimpy outfits ride, 0.825858, 1
+2, dimly lit, 0.693427, 2
+2, spiral staircase, 0.673502, 2
+2, wine cellar, 0.838217, 3
+2, wine list, 0.646888, 3
+2, pleasant evening, 0.610112, 6
+2, flights, 0.494411, 6
+2, nice bread basket, 0.802857, 7
+2, wait staff, 0.619751, 7
+2, pleasantly calm wine, 0.908281, 8
+2, friendly staff member, 0.865994, 8
+2, cheese accompaniment, 0.647058, 9
+3, 20-30 range, 0.449977, 0
+3, bubbles flight, 0.434305, 0
+3, exorbitant markups, 0.59678, 2
+3, largest issues, 0.519961, 2
+3, reasonably priced wine, 0.951921, 3
+3, bottle, 0.231152, 3
+3, Wine Cellar, 0.886796, 4
+3, wine, 0.952171, 5
+3, place, 0.289418, 6
+3, Great space, 0.533022, 7
+3, expensive time, 0.516054, 7
+3, small tasting portions, 0.895535, 9
+3, higher markup, 0.498989, 9
+4, mid-'80s french reds, 0.818353, 0
+4, double magnums. paradise, 0.809153, 0
+4, yelp review count, 0.817994, 2
+4, spongey thick-sliced bread, 0.808075, 2
+4, different wine flights, 0.857795, 3
+4, insane cheese, 0.755162, 3
+4, cheese plate, 0.865695, 5
+4, wine pairings, 0.756887, 6
+4, nice hors d'oeuvres, 0.90611, 7
+4, cute little place, 0.87166, 7
+4, wine cellar, 0.986495, 8
+4, great bottle selection, 0.884227, 8
+4, great wine selection, 0.895674, 9
+4, Wine Cellar =P, 0.883389, 9
+5, sophisticated wine cellar, 0.405456, 0
+5, small Rio stage, 0.278424, 0
+5, actual wine cellar, 0.410364, 2
+5, Masquerade Village, 0.296014, 2
+5, wine basement, 0.256657, 3
+5, various flights, 0.247068, 3
+5, cheese, 0.595569, 4
+5, bar tender, 0.254375, 5
+5, wine cellar, 0.954155, 6
+5, wines, 0.447117, 6
+5, wine flights, 0.603638, 7
+5, couple wine flights, 0.402947, 7
+5, genuine wine cellar, 0.452607, 8
+5, Nice wine cellar, 0.409281, 8
+5, wine tasting, 0.251723, 9
+5, wine connoisseur, 0.251162, 9

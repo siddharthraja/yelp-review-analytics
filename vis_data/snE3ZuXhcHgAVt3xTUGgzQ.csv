@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, Latino names, 0.631765, 0
+1, later my bank, 0.631074, 0
+1, unscrupulous business practice, 0.902708, 1
+1, Wrong shirt, 0.703387, 1
+1, Saturday night, 0.635327, 2
+1, town, 0.372403, 2
+1, ignorant fool, 0.684892, 3
+1, black male, 0.658393, 3
+1, debit card, 0.652848, 6
+1, good time, 0.681258, 7
+1, billing experience, 0.629588, 7
+1, great place, 0.624392, 8
+1, people, 0.448439, 8
+2, dance music, 0.695264, 0
+2, miss, 0.497041, 0
+2, new people, 0.763544, 1
+2, intention, 0.504049, 1
+2, dance floor, 0.696733, 3
+2, bar, 0.614322, 3
+2, cool place, 0.688529, 6
+2, light rail stop, 0.917994, 7
+2, good place, 0.705407, 7
+3, Gong Karaoke, 0.90139, 0
+3, bar height tables, 0.870327, 0
+3, Kobalt bar, 0.77163, 1
+3, best karaoke, 0.703844, 1
+3, patio twinkle lights, 0.804222, 2
+3, long narrow bar, 0.867609, 3
+3, outdoor patio, 0.718538, 3
+3, Kobalt, 0.816174, 4
+3, Phoenix Metropolitan Men, 0.849442, 6
+3, PHX Pride weekend, 0.805464, 6
+3, decent looking guys, 0.78486, 7
+3, Chorus fund-raiser, 0.702718, 7
+3, odd overall vibe, 0.795207, 8
+3, unassuming complex, 0.703515, 8
+4, Nice little place, 0.595034, 0
+4, Overall Kobalt, 0.576498, 0
+4, gay bars, 0.553918, 1
+4, neighborhood bar, 0.5348, 1
+4, regular karaoke, 0.532297, 2
+4, gay bar, 0.923039, 3
+4, Kobalt bartenders, 0.596565, 3
+4, kobalt, 0.849326, 4
+4, park central mall, 0.687173, 4
+4, place, 0.701884, 5
+4, light rail, 0.675787, 5
+4, Nice little bar, 0.596084, 6
+4, crowd, 0.534218, 6
+4, great place, 0.57585, 7
+4, good time, 0.566828, 7
+4, great time, 0.581269, 8
+4, trivia night, 0.573549, 8
+4, nice lounge setting, 0.542216, 9
+5, specialty martinis, 0.96297, 0
+5, karaoke crowd, 0.863257, 0
+5, strange place, 0.762859, 1
+5, gay bar, 0.903842, 2
+5, Park Central Mall, 0.866907, 2
+5, Friday Hot Spot, 0.879011, 3
+5, Lemon Drop, 0.766915, 3
+5, place, 0.870888, 5
+5, Kobalt, 0.80728, 5
+5, Black Cherry Cosmo, 0.918485, 6
+5, great little neighborhood, 0.898625, 6
+5, great time laughing, 0.891553, 7
+5, great covered parking, 0.874954, 7
+5, pretty doable walk, 0.947606, 8
+5, Wed. night drag, 0.857029, 8
+5, perfect bar, 0.785417, 9
+5, great drink, 0.77486, 9

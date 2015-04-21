@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+2, techno-style monorhythmic beat, 0.963525, 0
+2, vacation club disco, 0.919928, 0
+2, 80s music, 0.724879, 1
+2, flip flops, 0.709287, 2
+2, shorts, 0.38802, 2
+2, personal preference, 0.707284, 3
+2, review, 0.379382, 3
+2, right downtown, 0.645354, 6
+2, midnight, 0.388084, 6
+2, experience, 0.379965, 7
+2, safe bet, 0.654038, 8
+2, great time, 0.645722, 8
+3, music, 0.940493, 7
+3, night, 0.926114, 7
+5, hot 90s dance, 0.902925, 0
+5, best place, 0.653764, 0
+5, back-to-back nights, 0.695286, 3
+5, recent trip, 0.598172, 3
+5, music, 0.405824, 7
+5, best bar/club, 0.742995, 8
+5, good thing, 0.622475, 8
+5, patrons, 0.401883, 9
+5, drinks, 0.38399, 9

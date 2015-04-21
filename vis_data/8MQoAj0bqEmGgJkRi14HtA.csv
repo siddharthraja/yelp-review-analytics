@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, RIP weirdest taco, 0.906272, 0
+1, fajitas, 0.424039, 0
+1, delivery driver, 0.602531, 1
+1, place, 0.427833, 1
+1, wrong tortillas, 0.696954, 2
+1, old girl, 0.668744, 2
+1, Mexican food, 0.631768, 3
+1, shame, 0.395715, 3
+1, Forgotton guacamole, 0.72807, 6
+2, dry flaky tortillas, 0.822819, 0
+2, Carmen asada, 0.657995, 0
+2, wannabe club, 0.69589, 1
+2, little taste, 0.648402, 1
+2, Coco Loco drink, 0.928539, 2
+2, late night, 0.924434, 2
+2, night taco bar, 0.867076, 3
+2, college crowd, 0.684758, 3
+2, fresh tacos, 0.68824, 6
+2, rum flavors, 0.666399, 6
+2, avocado sauce, 0.681752, 7
+2, lime margaritas, 0.678597, 7
+2, charming young woman, 0.844782, 8
+3, little flavor gain, 0.837146, 0
+3, Mi Ranchito, 0.614386, 0
+3, sauce, 0.395604, 1
+3, salsa, 0.269099, 1
+3, amazing repeated feats, 0.858507, 6
+3, carpal tunnel syndrome, 0.819616, 6
+3, famous Mad Mex, 0.953654, 7
+3, excellent Mexican option, 0.924325, 7
+3, prices, 0.262087, 8
+4, mexican food, 0.969039, 0
+4, actual mexican food, 0.806042, 0
+4, Mi Ranchito, 0.55005, 1
+4, review, 0.258656, 1
+4, trick question, 0.52049, 2
+4, table, 0.259093, 2
+4, holiday, 0.258913, 3
+4, Pitt, 0.264128, 4
+4, night, 0.258747, 4
+4, finals, 0.439784, 5
+4, favorite hidden spots, 0.765225, 6
+4, Chips, 0.26298, 6
+4, proper taco, 0.603325, 7
+4, taco choices, 0.600779, 7
+4, place, 0.667756, 8
+4, amazing feat, 0.591989, 8
+4, great place, 0.464894, 9
+4, patio, 0.257362, 9
+5, late night tacos, 0.76022, 0
+5, incredible chimichanga, 0.548475, 0
+5, Tres Leches, 0.543894, 2
+5, doubts, 0.365067, 2
+5, Mad Mex, 0.585273, 3
+5, doors, 0.347369, 3
+5, Mexican mama, 0.661904, 6
+5, addition, 0.343847, 6
+5, Best authentic Mexican, 0.906041, 7
+5, wonderful patio, 0.544658, 7
+5, diverse menu, 0.518578, 8
+5, owners, 0.341182, 8

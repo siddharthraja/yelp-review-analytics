@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, Saturday night, 0.799895, 0
+1, tomato juice, 0.797315, 0
+1, repeat business, 0.753641, 1
+1, place, 0.559502, 1
+1, vomit, 0.356288, 2
+1, sister, 0.326483, 2
+1, karaoke, 0.958101, 3
+1, karaoke host, 0.781003, 3
+1, beer, 0.722463, 4
+1, football games, 0.786257, 6
+1, pitcher, 0.347745, 6
+2, big crowd, 0.795906, 0
+2, big whoop, 0.750055, 0
+2, near-senior crowd, 0.743453, 1
+2, karaoke, 0.321985, 1
+2, mixed drinks, 0.638404, 2
+2, bartender, 0.324667, 2
+2, bar appetizers, 0.652738, 3
+2, Meh, 0.284957, 3
+2, cozy little place, 0.961321, 6
+2, people, 0.378437, 6
+2, friend, 0.384704, 7
+2, mugs, 0.301498, 7
+3, decent music, 0.70922, 0
+3, different types, 0.671554, 0
+3, table, 0.4487, 1
+3, bartenders attention, 0.69171, 2
+3, Mixed crowd, 0.678601, 2
+3, people, 0.559412, 3
+3, problem, 0.452109, 3
+3, good time, 0.927855, 6
+3, Enochs, 0.500622, 6
+3, Excellent local dive, 0.864397, 7
+3, cheap drinks, 0.687222, 7
+3, friendly service, 0.648612, 8
+3, place, 0.485553, 8
+4, fried goodies, 0.911632, 0
+4, Total dive, 0.880891, 0
+4, karaoke, 0.766647, 1
+4, pool, 0.622928, 6
+4, regulars, 0.74099, 7
+4, effort, 0.700006, 7
+5, hexagonal hi-top tables, 0.94369, 0
+5, kinds/all ages/all genres, 0.891988, 0
+5, bad waitress, 0.647234, 1
+5, flat screens, 0.603738, 2
+5, Enoch, 0.381154, 2
+5, favorite karaoke bar, 0.995594, 3
+5, Sat, 0.380006, 3
+5, crispy wings, 0.624889, 6
+5, outdoor area, 0.618939, 6
+5, pool tables/darts, 0.608451, 7
+5, Joe, 0.462124, 7
+5, AWESOME DJ, 0.680955, 8
+5, smiles, 0.372795, 8
+5, good sized place, 0.833075, 9
+5, McDonalds, 0.385619, 9

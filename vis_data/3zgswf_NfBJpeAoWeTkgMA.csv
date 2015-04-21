@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, multiple times, 0.84893, 0
+1, Log Stardate, 0.731758, 0
+1, usual dive bar, 0.932228, 1
+1, hockey/world series action, 0.908256, 1
+1, pint glass, 0.878981, 2
+1, frequents Silky, 0.750089, 2
+1, bar tender, 0.657831, 3
+1, waitress, 0.462271, 3
+1, beer, 0.566485, 4
+1, people, 0.643163, 5
+1, Outdoor seating, 0.695382, 7
+1, corner building, 0.692151, 7
+1, Thursday night, 0.925818, 8
+1, moderately steady Thursday, 0.898272, 8
+1, tv, 0.451598, 9
+2, dont care, 0.606166, 0
+2, eye contact, 0.584445, 0
+2, garage style door, 0.857015, 1
+2, worst place, 0.579728, 1
+2, smokey hazy bar, 0.834935, 2
+2, hte kitchen, 0.579552, 2
+2, little neighborhood bar, 0.855391, 3
+2, good things, 0.606958, 3
+2, waitress, 0.960612, 4
+2, food, 0.739615, 5
+2, cleaner air, 0.6076, 6
+2, drinks, 0.425295, 6
+2, good beer selection, 0.848477, 7
+2, cheerful service, 0.613105, 7
+2, drink specials, 0.586007, 9
+2, crowd, 0.357086, 9
+3, good neighborhood joint, 0.900202, 0
+3, average its painful, 0.826349, 0
+3, lower quality meat, 0.902916, 1
+3, wrong sandwich, 0.783903, 1
+3, general rule, 0.760332, 2
+3, football game, 0.752992, 2
+3, old school pop, 0.884883, 3
+3, Bloomfield location, 0.765722, 3
+3, food, 0.974759, 5
+3, Squirrel Hill location, 0.887243, 6
+3, Waffle fries, 0.79657, 6
+3, special menu, 0.941352, 7
+3, Buffalo chicken wrap, 0.909409, 7
+3, appropriately sized bun, 0.950207, 8
+3, perfectly crisp-tastic bacon, 0.948491, 8
+3, tap beer selection, 0.878036, 9
+4, different sports events, 0.767007, 0
+4, solid neighborhood bar, 0.75877, 0
+4, great beer selection, 0.755547, 1
+4, bar food, 0.846981, 2
+4, school bar style, 0.768947, 2
+4, sports bars, 0.818487, 3
+4, basic bar food, 0.788516, 3
+4, beer selection, 0.815482, 4
+4, food, 0.97441, 5
+4, bar, 0.849355, 5
+4, shuffle board, 0.780763, 6
+4, place, 0.772895, 6
+4, good sports bar, 0.82646, 7
+4, decent beer selection, 0.778245, 7
+4, Silky, 0.853987, 8
+4, good company, 0.799584, 8
+4, pretty good food, 0.83641, 9
+4, great little bar, 0.769705, 9
+5, respectable standard fare, 0.765772, 0
+5, beer selection wasnt, 0.760551, 0
+5, grade A bar, 0.652371, 1
+5, state bar crawl, 0.777121, 2
+5, closest bar, 0.686877, 2
+5, college crowd rolls, 0.730784, 3
+5, new bar, 0.649276, 3
+5, Bloomfield area, 0.77191, 6
+5, Sports Pub, 0.687109, 6
+5, British Pub decor, 0.814929, 7
+5, good beers, 0.67336, 7
+5, Silky, 0.94059, 8
+5, good solid pub, 0.850079, 8
+5, place, 0.68723, 9
+5, shuffleboard table, 0.681644, 9

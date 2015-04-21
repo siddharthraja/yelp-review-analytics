@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, burned hockey puck, 0.871306, 0
+1, hint hint, 0.684391, 0
+1, bad luck, 0.667552, 1
+1, low humidity, 0.644342, 1
+1, Bordeaux Baked Brie, 0.918603, 2
+1, jerk sort, 0.670382, 2
+1, smell test, 0.6529, 3
+1, hard surfaces, 0.65052, 3
+1, bartender, 0.525778, 4
+1, wife, 0.569145, 5
+1, burgers, 0.528476, 6
+1, table, 0.491418, 6
+1, warm salad, 0.66652, 7
+1, buns, 0.456057, 7
+1, YELP, 0.474226, 8
+1, Glad, 0.457327, 8
+2, hot sauce spicy, 0.858259, 0
+2, bread plate, 0.856448, 0
+2, poor food, 0.789116, 1
+2, totally bad place, 0.856559, 2
+2, good way, 0.812238, 2
+2, long island, 0.85374, 3
+2, bar napkin, 0.848825, 3
+2, table, 0.843047, 4
+2, food, 0.919788, 5
+2, place, 0.915666, 5
+2, cheese plate appetizer, 0.891852, 6
+2, Jalapeno Inferno, 0.877145, 6
+2, Best cheese plate, 0.877938, 7
+2, french onion dumplings, 0.846526, 7
+2, spicy shrimp appetizer, 0.862413, 8
+2, blue cheese bruschetta, 0.856209, 8
+3, better wine bars, 0.802591, 0
+3, brussels sprouts salad, 0.748008, 0
+3, little more Jazzy, 0.699242, 1
+3, huge wine storage, 0.78798, 2
+3, little bit, 0.760989, 2
+3, wine bar, 0.844028, 3
+3, wine conesuirre, 0.720564, 3
+3, place, 0.776646, 4
+3, wine, 0.970397, 5
+3, flat iron steak, 0.841584, 6
+3, wine motivated establishment, 0.784444, 6
+3, caesar salad, 0.839187, 7
+3, -I love Chevre, 0.760457, 7
+3, nice patio location, 0.786743, 8
+3, great job, 0.755925, 8
+3, Beautifully appointed ambiance, 0.761897, 9
+3, attentive young woman, 0.752216, 9
+4, onion bread steak, 0.623222, 0
+4, Darn little things, 0.61444, 0
+4, scrumcious wine, 0.619479, 2
+4, food menu, 0.620366, 3
+4, wine bar, 0.76549, 4
+4, wine, 0.953165, 5
+4, food, 0.679426, 5
+4, nice neighborhood wine, 0.706393, 6
+4, Napa Nicoise Salad, 0.644349, 6
+4, Nice wine bar, 0.727472, 7
+4, great wine selection, 0.687096, 7
+4, nice patio area, 0.750661, 8
+4, wine selection, 0.703314, 8
+4, good wine flights, 0.677263, 9
+4, marsala wine sauce, 0.658805, 9
+5, French Onion Dumpling, 0.744187, 0
+5, crispy golden batter, 0.741631, 0
+5, talented local band, 0.748047, 1
+5, Best bar food, 0.766621, 2
+5, bistro fries, 0.72537, 4
+5, food, 0.892653, 5
+5, fondue dessert, 0.734131, 5
+5, French Onion, 0.90077, 6
+5, Onion Soup Dumplings, 0.878941, 6
+5, Great food, 0.836689, 7
+5, service, 0.77534, 7
+5, chicken marsala, 0.912739, 8
+5, local dines coupon, 0.880423, 8
+5, flat iron steak, 0.851289, 9
+5, friendly attentive service, 0.75719, 9

@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+2, guitar freak genius, 0.82056, 0
+2, hey Clapton, 0.59434, 0
+2, bouncer, 0.375859, 1
+2, thief, 0.358377, 1
+2, quiet locals, 0.603036, 2
+2, bad experience, 0.583343, 2
+2, crowd, 0.44664, 3
+2, bar, 0.425059, 3
+2, group, 0.456137, 4
+2, band, 0.720911, 5
+2, Ross Band, 0.625032, 6
+2, good band, 0.58264, 6
+2, historic dirty blues, 0.799482, 7
+2, great recipe, 0.616417, 7
+2, eclectic seating, 0.609101, 8
+2, good time, 0.576549, 8
+3, quirky mix-up, 0.541217, 0
+3, little space, 0.519071, 0
+3, kinda sketchy area, 0.748078, 1
+3, parking situation, 0.543415, 1
+3, sandwich, 0.400495, 2
+3, places, 0.38244, 2
+3, place, 0.381178, 5
+3, Double Door Inn, 0.73105, 6
+3, legendary blues club, 0.719548, 6
+3, Door Inn, 0.92137, 7
+3, upbeat rock bands, 0.69903, 7
+3, famous musicians, 0.525398, 8
+3, famous people, 0.524806, 8
+3, delightful experience, 0.557613, 9
+3, non mainstream, 0.540386, 9
+4, Fillmore-esq music venue, 0.731022, 0
+4, good bar type, 0.730686, 0
+4, late night spots, 0.663262, 1
+4, small venue, 0.633679, 1
+4, little bit, 0.720812, 2
+4, band, 0.617829, 4
+4, place, 0.841711, 5
+4, double door, 0.954515, 6
+4, Hamilton Loomis play, 0.648565, 6
+4, Great small place, 0.781468, 7
+4, smaller music venues, 0.690946, 7
+4, good sound system., 0.723738, 8
+4, Charlotte music scene, 0.716868, 8
+4, Great music venue, 0.79459, 9
+4, good sound quality, 0.720743, 9
+5, Live Music Venue, 0.332511, 0
+5, Monday night music, 0.32956, 0
+5, monday night, 0.351388, 2
+5, live music history, 0.319273, 2
+5, Rodeo Bar, 0.276842, 3
+5, completely unscheduled times, 0.280331, 4
+5, Double Door, 0.931439, 5
+5, live music, 0.652511, 5
+5, double door inn, 0.767289, 6
+5, middle-of-the-week music appreciator, 0.317614, 6
+5, Eric Clapton, 0.368804, 7
+5, blues music agency, 0.314563, 7
+5, live music supporter, 0.335067, 8
+5, continual live music, 0.334942, 8
+5, great live music, 0.340245, 9
+5, Double Door staff, 0.326758, 9

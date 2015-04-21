@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, oz drink, 0.725125, 0
+1, Pina Coloda, 0.644425, 0
+1, money, 0.445888, 1
+1, drinks, 0.647144, 2
+1, reviewers, 0.400942, 2
+1, shot, 0.796768, 3
+1, stomach ache, 0.678889, 3
+1, frozen sugar water, 0.952733, 6
+1, vodka, 0.519635, 6
+1, course, 0.376166, 7
+2, coconut rum slushie, 0.97802, 0
+2, fat disappointment, 0.619448, 0
+2, nearest Fat, 0.604982, 1
+2, deathly heat, 0.526502, 1
+2, sweet slushie mix, 0.890973, 7
+2, liking, 0.251869, 7
+3, purple rain, 0.566924, 0
+3, miniature mini bar, 0.495134, 0
+3, HARDER alcohol, 0.424773, 1
+3, multiple Fat, 0.414361, 1
+3, slushy-type base, 0.379268, 2
+3, cola slushy, 0.370382, 2
+3, extra shot, 0.801501, 3
+3, weaker alcohol, 0.424353, 3
+3, semi-boring flavors, 0.406384, 6
+3, smartees candies, 0.379225, 6
+3, lime ice, 0.944868, 7
+3, nearest Fat Tuesdays, 0.623203, 7
+3, strawberry daiquiri, 0.608342, 8
+3, pina colada, 0.397631, 8
+4, pink sky slushy, 0.667134, 0
+4, regular drinking station, 0.59827, 0
+4, tacky frozen drinks, 0.683542, 1
+4, red bull flavor, 0.612484, 1
+4, Lime Ice, 0.780141, 2
+4, closest FAT Tuesday, 0.692452, 2
+4, mixed slushy drinks, 0.72235, 3
+4, jello shots, 0.63716, 3
+4, novelty drink, 0.662605, 4
+4, fat tuesday, 0.976974, 5
+4, drinks, 0.799607, 5
+4, Venetian food court, 0.862443, 6
+4, Great little place, 0.637797, 6
+4, pink lemonade, 0.789593, 7
+4, pink sky, 0.787214, 7
+4, extra shot, 0.744805, 8
+4, yummy sounding drinks, 0.688172, 8
+4, Yum Yum, 0.529583, 9
+5, big ass drinks, 0.677109, 0
+5, Vodka Pink Lemonade, 0.672323, 0
+5, walk-up bar, 0.581117, 1
+5, food court, 0.573742, 1
+5, frozen bar ive, 0.623727, 2
+5, sweet drinks, 0.601027, 2
+5, tall yard drinks, 0.655463, 3
+5, little vodka, 0.594018, 3
+5, jello shots, 0.905089, 5
+5, vegas, 0.597216, 5
+5, place, 0.670048, 6
+5, similar berry drink, 0.651117, 6
+5, jello pop rock, 0.668515, 7
+5, fat tuesdays, 0.617064, 7
+5, purple rain, 0.733921, 8
+5, free jello shots, 0.683842, 8
+5, pink lemonade, 0.730725, 9
+5, new favorite place, 0.636687, 9

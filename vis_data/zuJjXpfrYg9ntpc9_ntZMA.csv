@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, worlds tiniest bowl, 0.916113, 1
+2, rubbish bread, 0.737979, 1
+2, fairly rubbish selection, 0.920121, 2
+2, pasta carbonara stuff, 0.867129, 2
+2, wannabe jazz cafe, 0.873542, 3
+2, times, 0.457261, 3
+2, sort, 0.548795, 5
+2, time, 0.451174, 6
+2, nice pub, 0.666332, 7
+2, owner/operator, 0.48635, 7
+2, perfectly good chipper, 0.89268, 8
+2, staff, 0.448846, 8
+3, nice wee bar, 0.891662, 0
+3, standard pub food, 0.731459, 0
+3, grumpy bar maid, 0.72713, 1
+3, bar man, 0.538707, 1
+3, one-way flow, 0.56929, 2
+3, human traffic, 0.563096, 2
+3, small bar, 0.549045, 3
+3, Decent back bar, 0.532995, 3
+3, bar, 0.958033, 4
+3, regulars, 0.410752, 4
+3, alcoholic ginger beer, 0.736938, 6
+3, wee neighbourhood, 0.683279, 6
+3, usual haunt, 0.581693, 7
+3, tasty food, 0.522559, 7
+3, bar staff, 0.525384, 8
+3, interesting characters, 0.505704, 8
+4, nice middle class, 0.700614, 0
+4, Sir George Warrender, 0.693847, 0
+4, favourite bar, 0.638114, 2
+4, sorry Argyle Bar, 0.751488, 3
+4, cheapest bar, 0.737177, 3
+4, middle class oft, 0.696787, 6
+4, good pub, 0.680803, 6
+4, typical modern pub, 0.779552, 7
+4, brilliant pub, 0.672962, 7
+4, Marchmont, 0.937511, 8
+4, outdoor seating, 0.839003, 8
+4, mellow local drinking, 0.755214, 9
+4, large sports screen, 0.739762, 9
+5, panini combo, 0.752343, 0
+5, personal favourite, 0.65951, 0
+5, glance, 0.336888, 6
+5, winner, 0.295045, 6
+5, latest sporting events, 0.910167, 7
+5, good range, 0.661087, 7
+5, delicious flavour, 0.794377, 8
+5, Marchmont, 0.635531, 8
+5, small pub, 0.804237, 9
+5, heart, 0.290545, 9

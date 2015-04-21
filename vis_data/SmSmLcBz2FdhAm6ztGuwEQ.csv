@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+1, Pastrami sandwich, 0.972594, 0
+1, fry grease, 0.946298, 0
+1, service, 0.532782, 1
+1, menus, 0.413769, 1
+1, times, 0.532542, 2
+1, establishment, 0.451922, 2
+1, wife, 0.426961, 3
+1, Friday, 0.426407, 3
+1, time, 0.877007, 5
+1, iced tea, 0.865158, 6
+1, sweetener, 0.438246, 6
+1, good experience, 0.841179, 7
+1, fluke, 0.442425, 7
+1, star, 0.419917, 8
+1, stars, 0.419637, 8
+4, sample, 0.383894, 2
+4, beer, 0.383444, 2
+4, bartenders, 0.50903, 7
+4, Newly open establishment, 0.995032, 8
+4, friendly service, 0.750703, 8
+4, diverse menu, 0.75181, 9
+4, place, 0.381835, 9

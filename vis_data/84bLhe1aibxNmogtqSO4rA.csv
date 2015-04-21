@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, simple mixed martini, 0.572598, 0
+1, Grey Goose martini, 0.566672, 0
+1, DOUCHEBAG Blue Martini, 0.596187, 1
+1, Blue Martini staff, 0.588497, 1
+1, bar, 0.58153, 2
+1, cover charge, 0.57207, 2
+1, blue martini, 0.912548, 3
+1, Blue Freaking Martini, 0.626922, 3
+1, drinks, 0.712123, 4
+1, service, 0.698521, 4
+1, people, 0.622198, 5
+1, night, 0.620762, 5
+1, las vegas, 0.638492, 6
+1, Vegas Blue Martini, 0.590449, 6
+1, Chopin martini, 0.55277, 7
+2, Potentially great place, 0.565621, 0
+2, Cougar Martini, 0.552142, 0
+2, sub-par martini, 0.561883, 1
+2, expensive trendy drinks, 0.559388, 1
+2, mixed drinks, 0.569716, 2
+2, Shrimp MARTINI, 0.547803, 2
+2, food, 0.633684, 3
+2, dance floor, 0.597783, 3
+2, drinks, 0.722047, 4
+2, time, 0.623564, 4
+2, blue martini, 0.934089, 5
+2, place, 0.744765, 5
+2, friends ordered drinks, 0.565597, 6
+2, bbq chicken flatbread, 0.557576, 6
+2, town square, 0.618296, 7
+2, industry card, 0.593411, 7
+2, signature blue martini, 0.576219, 8
+2, good place, 0.557208, 8
+2, good martini drinks, 0.595581, 9
+3, small dance floor, 0.584421, 0
+3, mango mojito martini, 0.575568, 0
+3, dollar martini special, 0.577295, 1
+3, mango madness martini, 0.575697, 1
+3, huge martini drinker, 0.567023, 2
+3, dance floor, 0.756159, 4
+3, drinks, 0.736264, 4
+3, blue martini, 0.926578, 5
+3, place, 0.810664, 5
+3, Blue Martini Yelp, 0.58917, 6
+3, Blue Martini employees, 0.578345, 6
+3, live band, 0.606852, 7
+3, mojito martini, 0.578567, 7
+3, Blue Martini Martini, 0.634487, 8
+3, actual blue martini, 0.596802, 8
+3, definitely good times, 0.566543, 9
+3, martini version, 0.561912, 9
+4, Good Life martini, 0.617365, 0
+4, Blue Martini experience, 0.612056, 0
+4, skinny bitch martini, 0.581186, 1
+4, Martini many times, 0.572238, 1
+4, fruity martini drinker, 0.592734, 3
+4, specialty martini, 0.579156, 3
+4, bar, 0.592996, 4
+4, fun, 0.569515, 4
+4, blue martini, 0.971657, 5
+4, place, 0.674063, 5
+4, Miniature Martini Lamb, 0.599866, 6
+4, live band, 0.584019, 6
+4, Blue Martini VIP, 0.610461, 7
+4, different martini, 0.589871, 7
+4, sweet tea martini, 0.605138, 8
+4, Great Martini, 0.596395, 8
+4, Blue Martini frowns, 0.598178, 9
+4, mango martini, 0.580848, 9
+5, Caramel Swirled Martini, 0.592897, 0
+5, dirty martini fan, 0.578805, 0
+5, night, 0.616781, 4
+5, friends, 0.568375, 4
+5, blue martini, 0.913663, 5
+5, dance floor, 0.612119, 5
+5, place, 0.751032, 6
+5, town square, 0.730747, 6
+5, las vegas, 0.677649, 7
+5, great place, 0.641232, 7
+5, blue martini drink, 0.647466, 8
+5, great time, 0.609186, 8
+5, great drinks, 0.622628, 9
+5, triple chocolate martini, 0.605997, 9

@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+1, lemon drops, 0.992012, 0
+1, Friday night, 0.976273, 0
+1, bartender, 0.414821, 1
+1, justification, 0.375735, 1
+1, women, 0.445646, 2
+1, point, 0.348295, 2
+1, shots, 0.714285, 3
+1, door, 0.649787, 3
+1, shake, 0.636663, 6
+1, beer, 0.365785, 6
+3, ridden my bike, 0.91611, 2
+3, townie bar, 0.724631, 3
+3, quick drink, 0.909445, 6
+3, coworkers, 0.318172, 6
+3, taps, 0.459885, 7
+3, Nice selection, 0.819119, 8
+3, nice end, 0.811574, 8
+4, Cheese pizza, 0.939647, 7
+4, Pearls Mac, 0.760259, 7

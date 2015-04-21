@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, velveta fake cheese, 0.98066, 0
+1, nfl draft, 0.815439, 0
+1, sports bar, 0.736003, 2
+1, bar trivia, 0.707413, 2
+1, pizza, 0.732359, 3
+1, GH, 0.51056, 3
+1, place, 0.538207, 4
+1, beer, 0.469797, 6
+1, grubHub, 0.4674, 6
+2, identity crisis, 0.64557, 0
+2, entire time, 0.586113, 0
+2, Thursday night trivia, 0.866228, 1
+2, cell phones, 0.561953, 2
+2, franchise fee, 0.587553, 3
+2, skirmish, 0.304612, 3
+2, new cooking equipment, 0.900916, 6
+2, new uniforms, 0.587305, 6
+2, Farewell fancy plates, 0.928279, 7
+2, parsley sprinkles, 0.691386, 7
+4, NBA playoff games, 0.811327, 0
+4, veggie pizza, 0.701518, 0
+4, nachos, 0.479891, 6
+4, veggies, 0.461709, 6
+4, Sauce, 0.449361, 7
+4, smoky queso dip, 0.90578, 8
+4, black bean burger, 0.793648, 8

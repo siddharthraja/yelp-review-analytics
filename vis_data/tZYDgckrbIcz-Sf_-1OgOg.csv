@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, man candy, 0.521385, 0
+1, w/ drinks, 0.379419, 0
+1, good sign, 0.39124, 1
+1, hash browns, 0.367947, 1
+1, Southwest Omelet, 0.374941, 2
+1, uninspired service, 0.358681, 2
+1, place bacon bar, 0.740552, 3
+1, Bacon Bloody Mary, 0.699564, 3
+1, bacon, 0.905221, 5
+1, chili cheese fries, 0.780327, 6
+1, Bacon Chili cheese, 0.65595, 6
+1, fast server, 0.374297, 7
+1, John Taffer, 0.367292, 7
+1, good sounding items, 0.496146, 8
+1, Amazing Food, 0.382427, 8
+2, ground bacon, 0.668106, 0
+2, limp bacon, 0.663149, 0
+2, small soggy bacon, 0.74874, 1
+2, bacon ground, 0.669821, 1
+2, Bacon Bar, 0.77535, 2
+2, Bacon Bar meal, 0.723214, 2
+2, man candy bacon, 0.736472, 3
+2, appetizer bar food, 0.635005, 3
+2, bacon, 0.911197, 4
+2, menu, 0.660891, 4
+2, place, 0.682743, 5
+2, bacon burger, 0.758507, 6
+2, bacon dishes, 0.682676, 6
+2, new look, 0.571828, 7
+2, menu dishes, 0.57006, 7
+2, love love bacon, 0.742102, 8
+2, garlic parmesan fries, 0.710129, 8
+2, best thing, 0.563222, 9
+3, fatty bacon flank, 0.580738, 0
+3, bacon Mecca, 0.51831, 0
+3, bacon entrees, 0.514533, 1
+3, bar food, 0.484592, 1
+3, bloody mary, 0.521387, 2
+3, garlic knots, 0.493214, 2
+3, bacon theme, 0.531858, 3
+3, bacon options, 0.520472, 3
+3, Bacon Bar, 0.764635, 4
+3, bit, 0.463724, 4
+3, bacon, 0.977543, 5
+3, Bar Rescue, 0.58879, 5
+3, man candy, 0.921304, 6
+3, bacon heaven, 0.526092, 6
+3, Garlic Parmesan Fries, 0.770595, 7
+3, bacon burger, 0.667699, 7
+3, Cajun bacon, 0.552479, 8
+3, maple syrup, 0.469984, 8
+4, perfect crispy bacon, 0.561882, 0
+4, Bacon reign supreme, 0.561381, 0
+4, average cottage fries, 0.472639, 1
+4, dark dive bar, 0.471138, 1
+4, bacon sloppy jo, 0.548075, 2
+4, Bacon Sloppy Joe, 0.547982, 2
+4, Bacon Bar logo, 0.592955, 3
+4, bacon drinks, 0.574472, 3
+4, bacon, 0.90415, 5
+4, man candy, 0.623651, 5
+4, Bacon Bar, 0.727754, 6
+4, beer braised bacon, 0.626876, 6
+4, bacon burger, 0.783046, 7
+4, Nice bacon flavor, 0.550427, 7
+4, GREAT bacon, 0.553401, 8
+4, real bacon, 0.537322, 8
+4, big delicious bacon, 0.56276, 9
+4, good fries, 0.479606, 9
+5, bacon hamburger patty, 0.703143, 0
+5, regular beer mug, 0.537157, 0
+5, Bar Rescue, 0.602073, 2
+5, Double Wedged Sword, 0.523821, 3
+5, real life, 0.410732, 3
+5, beer, 0.580264, 4
+5, bacon, 0.933273, 5
+5, bacon bar, 0.781423, 5
+5, place, 0.630315, 6
+5, bacon patty, 0.628446, 6
+5, bacon burgers, 0.588361, 7
+5, Self-Serve Beer Wall, 0.559805, 7
+5, bacon burger, 0.92252, 8
+5, man candy, 0.767665, 8
+5, sweet bacon strips, 0.727071, 9
+5, great place, 0.592579, 9

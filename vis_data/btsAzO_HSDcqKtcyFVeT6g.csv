@@ -1,0 +1,15 @@
+rating, keyword, relevance, bucket
+1, microwave quality food, 0.910233, 1
+1, entire entrees, 0.803779, 1
+1, orders, 0.558082, 2
+1, time, 0.325775, 2
+3, smoking indoors, 0.687904, 0
+3, regular haunt, 0.600343, 0
+3, Niners, 0.416356, 2
+3, Duran, 0.380234, 2
+3, California accent, 0.613327, 3
+3, ashtray, 0.432946, 3
+3, Super Bowl, 0.661659, 6
+3, Fun spot, 0.580139, 6
+3, reasonable drink prices, 0.910857, 7
+3, pretty good bar, 0.884105, 7

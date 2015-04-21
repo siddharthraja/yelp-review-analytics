@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+1, requests, 0.417846, 0
+1, reponse, 0.416426, 0
+1, dont care, 0.970893, 1
+1, customer service, 0.808668, 1
+1, company, 0.444167, 5
+1, good reviews, 0.801363, 8
+1, trip, 0.415132, 8
+4, vegas, 0.506301, 0
+4, nice waitresses, 0.902723, 9
+4, Amazing experience, 0.789315, 9
+5, Jeremy text, 0.338792, 0
+5, successful Vegas trip, 0.297771, 0
+5, best weekend E.V.E.R., 0.269871, 1
+5, work big Jeremy, 0.364502, 3
+5, table, 0.285886, 3
+5, vegas party vip, 0.921403, 5
+5, jeremy, 0.884183, 5
+5, time, 0.412844, 6
+5, friends, 0.303982, 6
+5, guest list, 0.323922, 7
+5, real VIP, 0.32029, 7
+5, service, 0.383284, 8
+5, Saturday night Jeremy, 0.382282, 8
+5, recommend Jeremy, 0.339405, 9
+5, Vegas Part VIP, 0.30393, 9

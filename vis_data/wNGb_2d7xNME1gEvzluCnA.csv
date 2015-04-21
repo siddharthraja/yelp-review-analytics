@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, Sysco Reliant crap, 0.794695, 0
+1, cut filet mignon, 0.789019, 0
+1, soggy smashed bun, 0.749835, 1
+1, menu, 0.481928, 1
+1, sky high sandwich, 0.943043, 2
+1, senior citizens, 0.770755, 2
+1, burnt wood, 0.610459, 3
+1, champagne bottle, 0.59219, 3
+1, soup, 0.484239, 4
+1, restaurant business, 0.611084, 6
+1, place, 0.593454, 6
+1, male customer, 0.605782, 7
+1, ALOT, 0.44759, 7
+1, Sun City, 0.584766, 8
+1, Royal Cafe, 0.578218, 8
+1, lunch place, 0.581537, 9
+1, breakfast, 0.473939, 9
+2, 15 min, 0.874907, 0
+2, clam chowder, 0.847562, 0
+2, couple, 0.564693, 1
+2, table, 0.633134, 2
+2, Waitress, 0.592798, 2
+2, service issues, 0.796922, 3
+2, girl, 0.562423, 3
+2, IDs, 0.569534, 4
+2, workers, 0.562463, 4
+2, food, 0.964961, 5
+2, extra napkins, 0.906013, 6
+2, chicken soup, 0.846298, 6
+2, different servers, 0.783749, 7
+2, food runners, 0.783097, 7
+2, Mac n cheese, 0.805381, 8
+2, appetizer, 0.69971, 8
+3, total turnoff, 0.862714, 0
+3, country music, 0.634413, 0
+3, bloody mary, 0.909741, 2
+3, Buffalo sauce, 0.780757, 2
+3, perfect size, 0.731366, 6
+3, Grand Ave, 0.697936, 6
+3, hip decor, 0.784618, 7
+3, Great atmosphere, 0.717751, 8
+4, portabello mushroom sandwich, 0.817878, 0
+4, Sun City West, 0.785506, 0
+4, Yelp review, 0.654055, 1
+4, lemon bar sundae, 0.781408, 2
+4, husbands order, 0.670355, 2
+4, long time, 0.792247, 3
+4, West End Bar, 0.791957, 3
+4, West End, 0.797567, 6
+4, Sonoran beef salad, 0.78034, 6
+4, Friday night fish, 0.953843, 7
+4, taco salad, 0.835308, 7
+4, easy going place, 0.790709, 8
+4, basic modern theme, 0.763193, 8
+4, nice crunchy coating, 0.797863, 9
+4, great place, 0.687608, 9
+5, non-chain type places, 0.915296, 0
+5, grill, 0.215349, 3
+5, guys, 0.201765, 3
+5, repeat visit, 0.558882, 7
+5, Great stop, 0.474466, 7
+5, Awesome food, 0.492141, 8
+5, great dinner items, 0.862242, 9
+5, non-chain dining experience, 0.824021, 9

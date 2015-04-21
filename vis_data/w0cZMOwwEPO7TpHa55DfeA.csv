@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, NEW YORK ESPN, 0.836713, 0
+1, big group, 0.700332, 0
+1, God awful food, 0.867104, 1
+1, boneless buffalo wings, 0.860981, 1
+1, skimpy club wear, 0.901705, 2
+1, bad sliders, 0.717464, 2
+1, thing, 0.50575, 3
+1, menu, 0.454879, 3
+1, ranch sauce, 0.659082, 4
+1, pesto dishes, 0.727651, 6
+1, better food, 0.664991, 6
+1, conference style room, 0.869663, 7
+1, Sunday night, 0.691536, 7
+1, HAha Disney, 0.66513, 8
+2, big screen TVs, 0.567126, 0
+2, prime rib buffet, 0.561288, 0
+2, big money places, 0.56329, 1
+2, big ass tourist, 0.527274, 1
+2, big freaking tvs, 0.630284, 2
+2, ESPN Zone restaurants, 0.586135, 2
+2, food, 0.573957, 3
+2, good steak, 0.493162, 3
+2, ESPN Zone, 0.996126, 4
+2, cheap beef, 0.427699, 4
+2, huge sports enthusiast, 0.544682, 6
+2, sirloin steak, 0.501729, 6
+2, favorite sports teams, 0.559657, 7
+2, old son, 0.446796, 7
+2, perfect place, 0.433256, 8
+2, cool concept, 0.430512, 8
+3, chicken tenders, 0.757429, 0
+3, Sports Pub food, 0.725626, 0
+3, ESPN Zone, 0.90155, 1
+3, pretty low standards, 0.673997, 1
+3, big sports fan, 0.71818, 2
+3, over-the-top sports bar, 0.683873, 3
+3, football season, 0.649811, 3
+3, food, 0.767889, 5
+3, place, 0.765925, 5
+3, sports TV-viewing options, 0.685025, 6
+3, Chili cheese fries, 0.668068, 6
+3, different driving games, 0.696391, 7
+3, beer selection, 0.679773, 7
+3, good view, 0.685411, 8
+3, barbecue chicken sandwich, 0.668312, 8
+4, ESPN Burger, 0.486107, 0
+4, little touchscreen TV, 0.465749, 0
+4, ESPN Zones, 0.583437, 2
+4, standard bar food, 0.473108, 2
+4, sports bar type, 0.518825, 3
+4, killer Lemon Drops, 0.439095, 3
+4, New York, 0.737255, 4
+4, New York New, 0.686071, 4
+4, place, 0.633908, 6
+4, sports, 0.619988, 6
+4, espn zone, 0.935452, 7
+4, sports fan, 0.528006, 7
+4, great place, 0.53993, 8
+4, fantastic sports bar, 0.477457, 8
+4, pretty good food, 0.591019, 9
+4, Las Vegas standards, 0.455358, 9
+5, ......., 0.723826, 0
+5, water rocks, 0.700621, 0
+5, personal tv, 0.858134, 1
+5, fantasy football draft, 0.801188, 1
+5, sports bar, 0.985963, 2
+5, MVP Club member, 0.830764, 2
+5, ESPN Zone, 0.893544, 3
+5, standard American bar, 0.817571, 3
+5, work, 0.594313, 4
+5, times, 0.568134, 4
+5, world, 0.567894, 5
+5, friends, 0.56725, 5
+5, place, 0.955301, 6
+5, humungo combo appetizer, 0.891004, 6
+5, Las Vegas, 0.846117, 7
+5, Raider game, 0.802025, 7
+5, favorite casino, 0.679111, 8
+5, huge sporting event, 0.811625, 9
+5, great place, 0.702439, 9

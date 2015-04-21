@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, bread pudding dessert, 0.728509, 0
+1, Costco frozen meatballs, 0.720939, 0
+1, large group, 0.769514, 1
+1, crostini w/ goat, 0.722892, 1
+1, grape street, 0.985608, 2
+1, baked brie, 0.862498, 2
+1, wine, 0.731392, 3
+1, table tip, 0.726936, 3
+1, service, 0.830192, 4
+1, food, 0.82205, 4
+1, restaurant, 0.773112, 5
+1, waiter, 0.764935, 5
+1, Salmon Caesar Salad, 0.709334, 6
+1, seemingly busy Friday, 0.698674, 6
+1, bread pudding, 0.816012, 7
+1, better bread pudding, 0.739683, 7
+1, nice table, 0.721385, 8
+2, italian cold cut, 0.584305, 0
+2, slow mediocre service, 0.523731, 0
+2, slow service, 0.57964, 1
+2, wrong chopped salad, 0.511319, 1
+2, bar counter service, 0.564493, 2
+2, half price wine, 0.534922, 2
+2, cheese plate, 0.541099, 3
+2, wine alternative suggestion, 0.528401, 3
+2, food, 0.659067, 4
+2, bar, 0.619991, 4
+2, wine, 0.819046, 5
+2, service, 0.69278, 5
+2, grape street, 0.90445, 6
+2, wine list, 0.575481, 6
+2, good wine selection, 0.630886, 7
+2, wine place, 0.508346, 7
+2, Chilean Sea Bass, 0.501088, 8
+2, great dinner choices, 0.498749, 8
+2, Better Half, 0.56923, 9
+3, constants- good wine, 0.67966, 0
+3, goat cheese cigars, 0.655558, 0
+3, iceberg lettuce, 0.647851, 2
+3, international wine flight, 0.644718, 2
+3, Good service, 0.649507, 3
+3, food, 0.757197, 4
+3, wine flight, 0.668975, 4
+3, grape street, 0.926439, 5
+3, wine, 0.774813, 5
+3, place, 0.733812, 6
+3, bread, 0.665888, 6
+3, steak salad, 0.699956, 7
+3, white wine sauce, 0.690267, 7
+3, wine list, 0.705815, 8
+3, sparkling red wine, 0.650033, 8
+3, Good neighborhood place, 0.659287, 9
+3, nice wine list, 0.65601, 9
+4, FOOD service industry, 0.530732, 0
+4, Large wine list, 0.514888, 0
+4, good food. service, 0.530591, 2
+4, salad, 0.59811, 4
+4, cheese, 0.550364, 4
+4, grape street, 0.980807, 5
+4, food, 0.806101, 5
+4, baked brie, 0.950482, 6
+4, wine, 0.894768, 6
+4, good wine selection, 0.6004, 7
+4, good food, 0.570599, 7
+4, wine selection, 0.753348, 8
+4, great food, 0.618414, 8
+4, Great wine selection, 0.580159, 9
+4, wine list, 0.565415, 9
+5, night wine specials, 0.423713, 0
+5, spicy food fan, 0.402346, 3
+5, ......, 0.450439, 4
+5, grape street, 0.955102, 5
+5, place, 0.614945, 5
+5, dinner, 0.483731, 6
+5, restaurant, 0.437005, 6
+5, baked brie, 0.845315, 7
+5, salad, 0.530851, 7
+5, wine, 0.687259, 8
+5, great food, 0.619873, 8
+5, great experience Great, 0.479977, 9
+5, food great atmosphere, 0.456163, 9

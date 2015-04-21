@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, goose island IPA, 0.907933, 0
+1, limited local crafts, 0.882593, 0
+1, beer pong night, 0.946133, 1
+1, friendlier bartenders, 0.648699, 1
+1, security gaurd, 0.559364, 2
+1, tubby, 0.305472, 2
+1, drink, 0.27048, 3
+1, place, 0.486234, 4
+1, Good wings, 0.60326, 7
+1, blondie, 0.282158, 7
+1, Vegas style service, 0.798082, 8
+2, whiny prick, 0.738891, 0
+2, Crap hole, 0.710301, 0
+2, nasty Velveeta cheese, 0.940965, 1
+2, thier asses, 0.713145, 1
+2, low quality food, 0.874603, 2
+2, profit, 0.649559, 2
+2, nachos, 0.86743, 3
+2, good thing, 0.651714, 3
+2, stingers, 0.382239, 6
+2, establishment, 0.363453, 6
+2, Great place, 0.616227, 7
+2, Warped pool tables, 0.941357, 8
+2, Awesome bartenders, 0.763528, 8
+3, favorite thing, 0.565236, 0
+3, Glendale sports bar, 0.834132, 1
+3, neighborhood bar, 0.627961, 1
+3, restroom, 0.213529, 2
+3, drinking, 0.202111, 2
+3, karaoke host, 0.664394, 3
+3, stiff drinks, 0.642232, 3
+3, big TVs, 0.532118, 6
+3, Good neighborhood place, 0.919996, 7
+3, night, 0.259136, 7
+3, chicken wings, 0.587952, 8
+4, National Fast Food, 0.869337, 0
+4, place, 0.488332, 0
+4, KWSS pledge drive, 0.946578, 2
+4, Friday, 0.463556, 2
+4, Stingers, 0.47978, 3
+4, better singers, 0.648805, 6
+4, burger, 0.478002, 7
+4, Yvonne, 0.474017, 7
+4, new karaoke machine, 0.839583, 8
+4, great guy, 0.661588, 8
+4, Nice staff, 0.655608, 9
+4, roomy, 0.49118, 9
+5, bar local hangout, 0.878536, 0
+5, big screen TV., 0.839034, 0
+5, awful singing, 0.69456, 2
+5, Shark, 0.446058, 2
+5, pool tables, 0.849424, 6
+5, dog races, 0.659575, 6
+5, best place, 0.663182, 7
+5, ample parking, 0.662759, 7
+5, bloody mary, 0.93916, 8
+5, best bloody Mary, 0.924987, 8
+5, awesome drinks, 0.74498, 9
+5, Sunday night, 0.689532, 9

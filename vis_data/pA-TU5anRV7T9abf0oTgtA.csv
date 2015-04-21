@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, big meat market, 0.901048, 0
+1, yellow fever people, 0.887943, 0
+1, big turn, 0.481747, 2
+1, Green St., 0.475922, 2
+1, inexperienced nightlife, 0.661182, 3
+1, place, 0.37247, 3
+1, grad school, 0.611045, 4
+2, undergrad house party, 0.921948, 0
+2, experience  fun, 0.544874, 0
+2, weak drinks, 0.702161, 1
+2, packed dance floor/avoiding, 0.670899, 1
+2, decent dance floor, 0.654498, 2
+2, cover charges, 0.629874, 2
+2, packed dance floor, 0.854606, 3
+2, college parties, 0.658978, 3
+2, dance floor, 0.908012, 4
+2, Soma, 0.46586, 5
+2, patrons, 0.454799, 6
+2, mood, 0.425286, 6
+2, cool multi-floor layout, 0.644887, 7
+2, beautiful intoxicated women, 0.626457, 7
+3, translucent glass door, 0.81895, 0
+3, typical college bar, 0.816575, 0
+3, stale beer, 0.661245, 1
+3, underage drinking, 0.622479, 1
+3, blacked-out drunkenness, 0.663319, 2
+3, ladies bathroom, 0.605492, 2
+3, college bar, 0.818572, 3
+3, busier night, 0.639874, 3
+3, place, 0.843033, 4
+3, cover, 0.601892, 5
+3, dance floor, 0.821827, 6
+3, pretty long line, 0.817765, 6
+3, wine night, 0.976167, 7
+3, brand new dance, 0.791586, 7
+3, absolutely enough room, 0.6462, 8
+3, times, 0.489737, 8
+4, new dance floor, 0.613822, 0
+4, new coffee bean, 0.585187, 0
+4, chic boom* base, 0.560221, 1
+4, *boom chic boom, 0.557612, 1
+4, dollar corona nights, 0.575027, 2
+4, high school, 0.568764, 2
+4, bar, 0.773862, 3
+4, dance music, 0.722302, 3
+4, dance floor, 0.949306, 4
+4, coffee shop, 0.748456, 4
+4, night, 0.68078, 5
+4, people, 0.563681, 5
+4, nice girl, 0.508123, 6
+4, inconspicuous place, 0.505917, 6
+4, wine night, 0.679779, 7
+4, drink specials, 0.656337, 7
+4, old cly, 0.608775, 8
+4, nice coffee drinks, 0.575318, 8
+5, Snobby pretentious hipster, 0.894376, 0
+5, multi-floored facility, 0.607094, 0
+5, weird smoke, 0.569832, 1
+5, crowd, 0.2798, 1
+5, drinks, 0.274431, 2
+5, Joe, 0.266015, 2
+5, Ethnically diverse bars, 0.824552, 3
+5, campus bars, 0.594944, 3
+5, best student bar, 0.930351, 6
+5, Wine Nights, 0.574727, 6
+5, place, 0.501998, 7
+5, shots, 0.267595, 7
+5, loud music, 0.539618, 8
+5, dancing, 0.345752, 8
+5, attractive ones, 0.545095, 9
+5, people, 0.312105, 9

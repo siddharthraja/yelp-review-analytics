@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, extra large pizza, 0.907444, 0
+1, head banging music, 0.856712, 0
+1, blonde-haired witch, 0.611235, 1
+1, Hound, 0.494619, 1
+1, worst pizza, 0.734763, 2
+1, complete bust, 0.603364, 2
+1, mundane bar experience, 0.76674, 3
+1, tough times, 0.610563, 3
+1, pizza, 0.995128, 4
+1, place, 0.729317, 4
+1, way, 0.513459, 5
+1, good place, 0.656851, 6
+1, drink, 0.47669, 7
+1, grungy, 0.445499, 7
+1, goodness gracious people, 0.804558, 8
+1, big dive bar, 0.809246, 9
+1, informal environment, 0.614143, 9
+2, middle-aged lady bartender, 0.939397, 0
+2, good time, 0.616104, 0
+2, shit edgy, 0.71542, 1
+2, light switch, 0.63767, 1
+2, drink, 0.889687, 2
+2, Big goddamn deal, 0.86002, 2
+2, virtual bowling, 0.998634, 3
+2, geographic location, 0.609917, 3
+2, Bartenders, 0.371123, 4
+2, Red Bull, 0.641348, 6
+2, vodka, 0.371465, 6
+2, easiest customer, 0.627494, 7
+2, different night, 0.586079, 7
+2, Bathroom, 0.364715, 8
+3, aforementioned DD Shorts, 0.530663, 0
+3, awful big screen, 0.50737, 0
+3, big screen TVs, 0.743844, 1
+3, red color palette, 0.496263, 1
+3, Shiny Toy Guns, 0.503985, 2
+3, average bar food, 0.496738, 2
+3, cheap draft beers, 0.500994, 3
+3, Green Cadillac El, 0.474652, 3
+3, game, 0.457759, 5
+3, Companion, 0.41552, 5
+3, clubhouse music venue, 0.498031, 6
+3, better look, 0.417641, 6
+3, DD Shorts Wearing, 0.933326, 7
+3, Shorts Wearing Beauty, 0.901805, 7
+3, pretty decent deals, 0.487317, 8
+3, Suns game, 0.441808, 8
+4, pre-concert meeting place, 0.851834, 0
+4, tiny crab cakes, 0.843443, 0
+4, size cardboard cutouts, 0.822127, 2
+4, old snickers bars, 0.806499, 2
+4, bar food, 0.824365, 3
+4, Typical bar food, 0.810285, 3
+4, big time fan, 0.794988, 6
+4, wonderful dive bar, 0.829628, 7
+4, weekend poker tourneys, 0.821625, 7
+4, track betting, 0.934709, 8
+4, cent betting, 0.735926, 8
+5, buffalo wild wings, 0.977601, 0
+5, late football games, 0.907067, 0
+5, Cheap drinks, 0.810044, 2
+5, brightest bars, 0.781075, 2
+5, ASU students, 0.768453, 3
+5, neighbor, 0.561072, 3
+5, server, 0.587729, 5
+5, golden tee golf, 0.927727, 6
+5, Pool tables, 0.757177, 6
+5, best bartender, 0.741143, 7
+5, good tip, 0.730144, 7
+5, Ying Yang Wings, 0.999045, 8
+5, complete strangers, 0.749391, 8

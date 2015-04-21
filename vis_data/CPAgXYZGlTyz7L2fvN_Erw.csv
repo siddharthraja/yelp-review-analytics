@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, whisky mixed drinks, 0.560334, 0
+1, late night bar, 0.543312, 0
+1, WORST night club, 0.533391, 1
+1, bizarre dress code, 0.515092, 1
+1, bar, 0.624384, 2
+1, puke time bomb, 0.540094, 2
+1, Male bar staff, 0.546446, 3
+1, Saturday night, 0.542128, 3
+1, Whisky River, 0.963082, 4
+1, place, 0.770395, 4
+1, good time, 0.5426, 6
+1, West Virginia fans, 0.517676, 6
+1, new kitchen staff, 0.523235, 7
+1, following experience, 0.472734, 7
+1, country music, 0.481769, 8
+1, playful vibe, 0.47521, 8
+2, contemporary dance music, 0.416043, 0
+2, actual Whisky River, 0.40209, 0
+2, kinda place, 0.386295, 1
+2, scantily clad bartenders, 0.384535, 1
+2, dance floor, 0.623264, 2
+2, Average sports bar, 0.39946, 2
+2, mixed drinks, 0.421021, 3
+2, Good bloody mary, 0.386135, 3
+2, Whisky River, 0.79411, 4
+2, bar, 0.534522, 4
+2, mechanical bull, 0.900507, 5
+2, place, 0.59336, 5
+2, selling Whisky River, 0.43223, 6
+2, friends, 0.394888, 6
+2, pretty dumpy place, 0.43462, 7
+2, young relaxed crowd, 0.395208, 7
+2, good sized place, 0.416678, 8
+2, machine shooter things, 0.390242, 8
+2, fun time dancing, 0.402306, 9
+2, country music, 0.398236, 9
+3, cover charge, 0.682844, 0
+3, 7-10 cover charge, 0.639032, 0
+3, country w/o transition, 0.620821, 1
+3, riding bull, 0.619393, 1
+3, dance floor, 0.895239, 2
+3, Whisky River, 0.678374, 2
+3, mechanical bull, 0.851692, 3
+3, Good early night, 0.679567, 3
+3, cowboy boots, 0.625955, 4
+3, place, 0.916496, 5
+3, bar, 0.649886, 5
+3, plastic bull ride, 0.666086, 6
+3, good dance music, 0.664521, 6
+3, Saturday night, 0.669336, 7
+3, fun, 0.62171, 7
+3, good salad variety, 0.636262, 8
+3, great Piano bar, 0.641535, 9
+3, big cushy sofas, 0.627296, 9
+4, country music bar, 0.66642, 0
+4, college esque bar, 0.617872, 0
+4, stage area, 0.522732, 1
+4, belligerent drunks, 0.514114, 1
+4, dance floor, 0.811979, 2
+4, huge purple drink, 0.589694, 2
+4, crazy country antics, 0.597379, 3
+4, big projector screens, 0.572688, 3
+4, mechanical bull, 0.913087, 4
+4, good time, 0.736335, 4
+4, night, 0.578198, 5
+4, good mix, 0.613109, 6
+4, Pleasure pit status, 0.578018, 6
+4, good music, 0.768727, 7
+4, great time, 0.705336, 7
+4, great place, 0.628527, 8
+4, WVU Mountaineers play, 0.602381, 8
+4, free bull rides, 0.65294, 9
+4, staff -big thanks, 0.581345, 9
+5, John Barleycorn Wrigleyville, 0.938938, 0
+5, WVU football, 0.744636, 0
+5, worst place, 0.734506, 1
+5, Pat White, 0.974216, 2
+5, yard performance, 0.744958, 2
+5, VIP section, 0.754252, 3
+5, Twilight episode, 0.720451, 3
+5, West Virginia Mountaineers, 0.953399, 6
+5, diverse crowd, 0.742288, 7
+5, dance clubs, 0.717008, 7
+5, date night, 0.715955, 8
+5, Grand Opening, 0.710966, 8
+5, great diverse option, 0.86762, 9
+5, BBQ sandwiches, 0.717031, 9

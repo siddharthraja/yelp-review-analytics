@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, chile verde, 0.661679, 0
+1, chicken quesadilla, 0.634094, 0
+1, drink, 0.677387, 1
+1, so-so food, 0.612875, 1
+1, bar, 0.863919, 2
+1, skinney Hispanic guy, 0.782542, 2
+1, Hispanic man, 0.97506, 3
+1, skinney Hispanic man, 0.771378, 3
+1, chips, 0.672419, 5
+1, people, 0.553542, 5
+1, green salsa, 0.661219, 6
+1, reg margarita, 0.628264, 6
+1, table side guacamole, 0.657459, 7
+1, help, 0.498559, 7
+1, amazing avocado salsa, 0.838024, 8
+1, delicious dish, 0.668291, 8
+3, authentic Mexican food, 0.930533, 0
+3, sausage breakfast sandwich, 0.877215, 0
+3, Mexican vibe, 0.586353, 3
+3, small sandwich bread, 0.836484, 6
+3, great Mexican restaurants, 0.789252, 6
+3, stars, 0.242306, 7
+3, Yelp deal, 0.561832, 8
+3, Tequila Restaurante, 0.480999, 8
+4, Blue Green Resort, 0.90752, 0
+4, crispy fattiness, 0.78473, 0
+4, salty fundido, 0.740467, 2
+4, sit, 0.555019, 2
+4, bar area, 0.774872, 3
+4, fastest bartender, 0.735429, 3
+4, chips, 0.659164, 5
+4, single diner, 0.781478, 6
+4, Sunday brunch, 0.739943, 6
+4, tacos al pastor, 0.941054, 7
+4, cheesecake flautas, 0.766263, 7
+4, sweet cheesecake, 0.759897, 8
+4, cinnamon sugar, 0.740826, 8
+4, nice variation, 0.742302, 9
+4, Cosmo, 0.551557, 9
+5, incredibly picky eater, 0.892393, 0
+5, gaming machines, 0.773872, 0
+5, Huge pile, 0.741101, 1
+5, entire plate, 0.735192, 1
+5, little bit, 0.73832, 2
+5, Caramel Flan, 0.927317, 5
+5, free drink vouchers, 0.851753, 6
+5, BlueGreen resort, 0.769209, 6
+5, food, 0.944944, 7
+5, elegant Mexican food, 0.897272, 7
+5, cozy Mexican restaurant, 0.908548, 8
+5, sweet potato fries, 0.880086, 8
+5, El Tambien drink, 0.866982, 9
+5, corn pudding cakes, 0.856698, 9

@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+2, Saturday night, 0.815821, 0
+2, good first impression, 0.800525, 0
+2, funky smell, 0.77951, 1
+2, soap, 0.38847, 1
+2, caprase salad, 0.762418, 2
+2, previous occasions, 0.741807, 2
+2, hard tomato slices, 0.944428, 3
+2, doubt, 0.411187, 6
+2, benefit, 0.390217, 6
+2, waiter caring, 0.77176, 7
+2, time, 0.477815, 7
+2, chic lounge, 0.792288, 8
+2, higher rating, 0.779099, 8
+2, excellent food, 0.776015, 9
+2, service, 0.386563, 9
+3, pals. awesome bartender, 0.828937, 0
+3, Snack categories, 0.600848, 0
+3, potato chips, 0.915523, 2
+3, sister, 0.349886, 2
+3, beer selection, 0.571107, 3
+3, tuesday nights, 0.594214, 6
+3, Morris J., 0.568401, 6
+3, scrumptious keylime martini, 0.950002, 7
+3, Fun conversation starter, 0.821653, 7
+3, real neighborhood gem, 0.803174, 8
+3, Cool atmosphere, 0.588724, 8
+3, chill vibe, 0.618091, 9
+4, Mellow lounge music, 0.952043, 0
+4, comfy purple chairs, 0.937054, 0
+4, Il Posto, 0.916748, 2
+4, gluten free vegan, 0.906334, 2
+4, sexy little place, 0.909945, 3
+4, bar stools, 0.817454, 3
+4, night, 0.839981, 4
+4, food, 0.864915, 5
+4, white contemporary chairs, 0.938359, 6
+4, traditional Long Island, 0.896231, 6
+4, great little place, 0.936055, 7
+4, red wine flight, 0.923868, 7
+4, nice drink menu, 0.937281, 8
+4, drinks, 0.928146, 8
+4, great place, 0.99732, 9
+4, nice lounge, 0.946887, 9
+5, whiskey,or wodka game, 0.706351, 0
+5, favorite neighborhood stop, 0.696887, 0
+5, fried zucks, 0.699933, 1
+5, hot dog poppers, 0.690593, 1
+5, large screen TV, 0.681485, 2
+5, little bar, 0.634101, 2
+5, late night eats, 0.704395, 3
+5, bar, 0.922939, 5
+5, place, 0.728849, 5
+5, il posto, 0.893284, 6
+5, classy neighborhood bar, 0.754536, 7
+5, great bar, 0.741599, 7
+5, Chris, 0.898428, 8
+5, bartender, 0.870296, 8
+5, great atmosphere, 0.774327, 9
+5, upscale bar, 0.714606, 9

@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, Lightly seasoned rice, 0.783981, 0
+1, smaller grape leaves, 0.766463, 0
+1, shame cause, 0.597288, 1
+1, water bottles, 0.576789, 1
+1, table, 0.761583, 2
+1, bottles, 0.585457, 2
+1, grape leaves, 0.782234, 3
+1, hr, 0.36242, 3
+1, water, 0.94113, 4
+1, house water, 0.802537, 6
+1, black plastic, 0.582066, 6
+1, Hummus plate, 0.608112, 7
+1, great way, 0.577073, 7
+1, sauteed chicken, 0.552926, 8
+1, area, 0.361811, 8
+2, Shawarma plate, 0.896428, 0
+2, thing, 0.535205, 0
+2, big deal, 0.934762, 1
+2, service, 0.609819, 2
+2, reason, 0.538548, 2
+2, liking, 0.591122, 3
+2, incident, 0.540643, 3
+2, food, 0.719977, 5
+2, Editing my review, 0.921462, 6
+2, Layla, 0.598529, 8
+2, vibe, 0.574912, 8
+3, wait time, 0.723186, 0
+3, guy, 0.426524, 0
+3, hella food, 0.789134, 1
+3, refill, 0.665328, 1
+3, service, 0.449278, 2
+3, time, 0.905857, 3
+3, hot water, 0.823782, 3
+3, food, 0.877345, 4
+3, weird vibes, 0.854022, 6
+3, boyfriend, 0.456155, 6
+4, big brass ones, 0.720297, 0
+4, Middle Eastern Cuisine, 0.707986, 0
+4, dining companion, 0.623386, 1
+4, bit uncomfortable walking, 0.740723, 2
+4, hookah smoke, 0.709985, 2
+4, red cabbage salad, 0.745658, 3
+4, gigantic shwarma wrap, 0.726878, 3
+4, hookah lounge, 0.934597, 4
+4, place, 0.791298, 4
+4, food, 0.875723, 6
+4, little hookah lounge, 0.812584, 6
+4, Hookah lounge type, 0.782297, 7
+4, real shawarma sandwich, 0.727676, 7
+4, tastiest shawarma wraps, 0.711178, 8
+4, Good prices, 0.670138, 8
+4, white cabbage salad, 0.875484, 9
+4, falafel wrap, 0.855543, 9
+5, deferent hookah lounges, 0.574576, 0
+5, falafel pita sandwich, 0.490762, 0
+5, decent hookah lounge, 0.586017, 1
+5, place, 0.827348, 5
+5, hookah lounge, 0.626627, 5
+5, hookah, 0.93916, 6
+5, blue mist hookah, 0.555173, 6
+5, food, 0.842024, 7
+5, service, 0.670315, 7
+5, best hookah place, 0.643472, 8
+5, great food, 0.613037, 8
+5, great hookah, 0.627349, 9
+5, great hookah experience, 0.619461, 9

@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+1, worst Starbucks, 0.944615, 0
+1, line, 0.605541, 0
+1, price., 0.600287, 2
+2, early morning delivery, 0.906757, 0
+2, MGM Grand, 0.709363, 0
+2, Starbucks employees, 0.819442, 1
+2, distraction, 0.304982, 1
+2, Starbucks, 0.860211, 2
+2, women, 0.45088, 2
+2, outward direction, 0.641154, 3
+2, friend, 0.399213, 3
+2, marble floor, 0.623638, 6
+2, stars, 0.296684, 6
+3, iced caramel macchiato, 0.855649, 0
+3, cash register screens, 0.837113, 0
+3, morning caffeine fix, 0.826708, 1
+3, main floor, 0.634848, 1
+3, drunken bachelorette parties, 0.851514, 2
+3, cowboy hat, 0.631218, 2
+3, Avenue Cafe, 0.653915, 3
+3, egg sandwiches, 0.648664, 3
+3, MGM, 0.516467, 4
+3, employees, 0.46468, 4
+3, tall chocolate chip, 0.79707, 6
+3, CBS Television City, 0.794652, 6
+3, Normal Starbucks menu, 0.952963, 7
+3, baristas, 0.461031, 7
+3, gift certificates, 0.617034, 8
+4, giant penis, 0.875189, 0
+4, liquid diet, 0.836414, 0
+4, MGM room, 0.931068, 2
+4, coffee maker, 0.866972, 2
+4, chai, 0.538442, 7
+4, bonus, 0.52589, 7
+5, starbucks chain, 0.883655, 2
+5, NUMEROUS starbucks, 0.85744, 2
+5, regular starbucks, 0.851594, 3
+5, starbucks, 0.901813, 4
+5, im, 0.363715, 5
+5, tourist destination, 0.571767, 6
+5, strip, 0.259594, 6
+5, good things, 0.496038, 7
+5, soda, 0.298744, 7
+5, Great staff, 0.584152, 9
+5, great location, 0.545381, 9

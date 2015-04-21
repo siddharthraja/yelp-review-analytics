@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, good French Dip, 0.738552, 0
+1, toasted/fried pita chips, 0.708171, 0
+1, hot dog roll, 0.7252, 1
+1, water leak, 0.620167, 1
+1, old lunch meat, 0.714711, 2
+1, food, 0.643957, 2
+1, Caribbean Jerk Chicken, 0.697375, 3
+1, Foursquare stats, 0.635228, 3
+1, favorite spot, 0.736524, 4
+1, Twist, 0.770771, 5
+1, Olive, 0.756316, 5
+1, drinks, 0.773562, 6
+1, Traditional French Dip, 0.742281, 6
+1, french dip sandwich, 0.934067, 7
+1, Chicken Dip appetizer, 0.784305, 7
+1, live acoustic set, 0.71925, 8
+1, great location, 0.623817, 8
+2, pork belly sandwich, 0.684739, 0
+2, drink menu, 0.668154, 0
+2, sole basil flavor, 0.738647, 1
+2, theater reference, 0.630441, 1
+2, fruit salad, 0.70422, 2
+2, turkey wrap, 0.704109, 2
+2, host stand, 0.705305, 3
+2, typical veggie burger, 0.700818, 3
+2, veggie burger, 0.704683, 5
+2, place, 0.620798, 5
+2, grocery store wine, 0.729881, 6
+2, brick walls, 0.712803, 6
+2, cucumber basil martini, 0.909674, 7
+2, strong drink, 0.751582, 7
+2, garlic mashed potatoes, 0.696312, 8
+2, primary flavor, 0.639102, 8
+3, overly crowded bar, 0.837774, 0
+3, entire martini glass, 0.827381, 0
+3, Saturday night, 0.896126, 2
+3, upstairs bar, 0.849076, 2
+3, late night drink, 0.822997, 3
+3, decent quality sausage, 0.818698, 3
+3, drinks, 0.9979, 4
+3, bar, 0.994341, 4
+3, place, 0.90026, 5
+3, food, 0.89896, 5
+3, buffalo chicken, 0.898877, 6
+3, Good drinks, 0.845813, 6
+3, truffle fries, 0.866245, 7
+3, typical bar menu, 0.844638, 7
+3, sweet potato fries, 0.909302, 8
+3, Friday night, 0.856558, 8
+3, good chill atmosphere, 0.836024, 9
+4, martini bar, 0.522224, 0
+4, bar food, 0.517284, 0
+4, Frosted Grape martini, 0.533167, 1
+4, signature dirty martini, 0.522676, 3
+4, drink menu, 0.594601, 4
+4, service, 0.531629, 4
+4, drinks, 0.778067, 5
+4, bar, 0.721289, 5
+4, martini, 0.748951, 6
+4, martinis, 0.639282, 6
+4, buffalo chicken, 0.927363, 7
+4, buffalo chicken dip, 0.770856, 7
+4, good time, 0.566711, 8
+4, martini glass, 0.552475, 8
+4, sweet potato fries, 0.717217, 9
+4, delicious martini-style drinks, 0.541001, 9
+5, pear martini, 0.715466, 0
+5, New York City, 0.700967, 0
+5, chipotle martini, 0.802216, 2
+5, Upside Down martini, 0.729362, 2
+5, cheap drinks, 0.657455, 3
+5, horrible service, 0.623344, 3
+5, twist, 0.624785, 5
+5, drinks, 0.774931, 6
+5, great cocktail bar, 0.743999, 6
+5, cake batter martini, 0.984384, 7
+5, expansive martini menu, 0.816582, 7
+5, great music selection, 0.706723, 8
+5, crab cake, 0.697017, 8
+5, great drink menu, 0.760501, 9
+5, super attentive staff, 0.713223, 9

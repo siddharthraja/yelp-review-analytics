@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+2, greasy grilled onions, 0.943422, 0
+2, waitress playing games, 0.915799, 0
+2, mediocre quality, 0.73464, 1
+2, dumb decision, 0.708369, 1
+2, dimly lighted bar, 0.980211, 2
+2, tough grizzle, 0.748274, 2
+2, place, 0.770224, 3
+2, half rack, 0.724945, 3
+2, Hangover Burger, 0.746562, 4
+2, Russell, 0.588642, 4
+2, Sunday evening, 0.749811, 6
+2, grocery store, 0.723326, 6
+2, warm Velveeta, 0.751908, 7
+2, iced tea, 0.75044, 7
+5, Philly roll app, 0.730014, 0
+5, different experience, 0.452301, 0
+5, David P., 0.454938, 3
+5, boardwalk billys, 0.963842, 6
+5, Russell, 0.548886, 6
+5, dollar craft beers, 0.71001, 7
+5, ceaser salad, 0.455656, 7
+5, garlic parm wings, 0.775918, 8
+5, great staff, 0.477301, 8
+5, great great service, 0.777331, 9
+5, fiance, 0.336107, 9

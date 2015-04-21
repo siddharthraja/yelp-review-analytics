@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, impossibly bright eye, 0.957441, 0
+1, hipster hairdos, 0.6964, 0
+1, baffling way, 0.709297, 1
+1, bartenders, 0.451588, 1
+1, particular bar, 0.605033, 2
+1, beginning, 0.21043, 2
+1, Art Bar, 0.605233, 3
+1, chest, 0.228978, 3
+1, word, 0.213818, 6
+1, booth seating, 0.633021, 7
+1, drink, 0.340548, 7
+2, lackluster furnishing, 0.945553, 0
+2, bald spots, 0.812313, 0
+2, shit, 0.447939, 1
+2, atmosphere, 0.410179, 1
+2, crowd, 0.750238, 2
+2, Hip-hop, 0.42717, 2
+2, hipster, 0.446505, 3
+2, high hopes, 0.870515, 6
+2, cool kids, 0.798837, 6
+2, place, 0.68092, 7
+2, high-energy snatch, 0.865206, 8
+2, bounty, 0.422591, 8
+4, big priority, 0.819309, 0
+4, sound reinforcement, 0.806752, 0
+4, Damon, 0.333224, 1
+4, places, 0.359358, 4
+4, bands, 0.344384, 5
+4, gift horses, 0.747133, 6
+4, choices, 0.285092, 6
+4, Beauty Bar, 0.77443, 7
+4, place, 0.344448, 7
+4, Elvis impersonator, 0.90535, 8
+4, somebody, 0.321739, 8
+5, pretty decent alternative, 0.95203, 2
+5, low rent casinos, 0.921374, 2
+5, stop, 0.468491, 6
+5, weekend, 0.466046, 6
+5, best indie venue, 0.944658, 8
+5, art bar, 0.809707, 8

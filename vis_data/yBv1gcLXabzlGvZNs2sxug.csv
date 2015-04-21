@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+1, foodie, 0.228766, 0
+1, texting addiction, 0.637801, 1
+1, distraction, 0.215819, 1
+1, potatoe ice cube, 0.877122, 2
+1, shell type runny, 0.873907, 2
+1, hash browns, 0.973114, 3
+1, time frame, 0.489208, 3
+1, water, 0.301431, 4
+1, clear type, 0.491161, 6
+1, true meaning, 0.572004, 8
+1, complimentary free breakfast, 0.959176, 9
+1, Hospitality Suites, 0.583984, 9
+4, drink prices, 0.69436, 0
+4, hotel guests, 0.634121, 0
+4, bottled domestic beer, 0.900114, 1
+4, draft beers, 0.694753, 1
+4, giant TV screens, 0.885816, 2
+4, NFL package, 0.660739, 2
+4, Decent menu, 0.675436, 3
+4, Small bar, 0.672315, 3
+4, tougher working class, 0.887622, 6
+4, crowd, 0.472807, 6
+4, night, 0.458299, 7
+4, blonde bartender, 0.726482, 9
+4, Bonus, 0.478059, 9

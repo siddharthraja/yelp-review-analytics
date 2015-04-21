@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+3, hot dogs variety, 0.881436, 0
+3, pricey end, 0.740535, 0
+3, noisy establishment, 0.677611, 3
+3, locale, 0.313158, 6
+3, pubs, 0.291337, 6
+3, good new option, 0.925998, 8
+3, common sense, 0.564944, 8
+4, different footie match, 0.859674, 0
+4, nearby new pubs, 0.85028, 0
+4, South Clerk Street, 0.861869, 2
+4, semi-sports bar theme, 0.861494, 2
+4, good bottled range, 0.877449, 3
+4, new bar, 0.867576, 3
+4, bar, 0.939426, 5
+4, League footie match, 0.858643, 6
+4, good bar, 0.848902, 6
+4, chicken wings, 0.879548, 7
+4, Good price point, 0.867532, 7
+4, food, 0.91692, 8
+4, craft beer, 0.887669, 8
+4, meaty flavoursome ribs, 0.867697, 9
+4, new craft beer, 0.858712, 9

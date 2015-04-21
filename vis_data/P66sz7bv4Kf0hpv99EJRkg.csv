@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, trivia championship game, 0.908445, 0
+1, alcoholic epcot center, 0.901781, 0
+1, gluten intolerance, 0.923235, 1
+1, stale fried nastiness, 0.921189, 1
+1, people, 0.909294, 2
+1, dietary trend, 0.903384, 2
+1, grey colored substitute, 0.908242, 3
+1, important medical reasons, 0.888432, 3
+1, bigger sale, 0.811768, 4
+1, menu items, 0.900933, 6
+1, corned beef, 0.894861, 6
+1, claddagh, 0.991672, 7
+1, Claddagh Irish Pub, 0.981262, 7
+1, good food, 0.821527, 8
+2, hot apple cider, 0.632044, 0
+2, Claddagh kind, 0.536766, 0
+2, rotten salad greens, 0.522096, 1
+2, martini glasses, 0.518937, 1
+2, food st Claddagh, 0.588398, 2
+2, dead weight, 0.412164, 2
+2, shepards pie, 0.513784, 3
+2, Faux Greek Salad, 0.481771, 3
+2, service, 0.486872, 4
+2, place, 0.466233, 4
+2, server, 0.440296, 5
+2, Claddagh Coffee Martini, 0.808034, 6
+2, better Irish pub, 0.529898, 6
+2, irish pub, 0.901451, 7
+2, good Irish pub, 0.543843, 7
+2, frothy martini, 0.465506, 8
+2, Old Irish Pub, 0.531041, 9
+2, ambiance great draft, 0.468253, 9
+3, straight corned beef, 0.940591, 0
+3, standard Irish pub, 0.936927, 0
+3, food bad service, 0.967004, 1
+3, Yelp no-no, 0.888284, 1
+3, corned beef, 0.996754, 2
+3, generic Irish Pub, 0.94813, 2
+3, good food, 0.979642, 3
+3, French Onion Soup, 0.92346, 3
+3, traditional Irish food, 0.948303, 4
+3, beer selection, 0.93362, 5
+3, balsamic chicken, 0.947943, 6
+3, typical Wisconsin fish, 0.935298, 6
+3, grilled salmon salad, 0.959978, 7
+3, carne asada burrito, 0.941127, 7
+3, wonderfully sweet blueberries, 0.942511, 8
+3, local hangout type, 0.940069, 8
+3, Great service, 0.884829, 9
+4, 92-year old grandmother, 0.893785, 0
+4, large cod filet, 0.883273, 0
+4, traditional Irish food, 0.879872, 1
+4, favorite sandwich, 0.802276, 1
+4, fake mall culture, 0.98693, 2
+4, Greenway Station area, 0.887375, 2
+4, Friday Fish Fry, 0.904491, 3
+4, Imperial pint, 0.80241, 3
+4, food, 0.890657, 4
+4, Greenway Station, 0.895096, 5
+4, time, 0.831433, 5
+4, sandwich w/ chips, 0.903675, 6
+4, good European beers, 0.883051, 6
+4, large group, 0.935041, 7
+4, malt vinegar, 0.879375, 7
+4, corned beef, 0.977139, 8
+4, chain restaurant, 0.892029, 8
+4, Delish. Good service, 0.892467, 9
+4, perfect comfort food, 0.883338, 9
+5, humungous Irish beer, 0.829414, 0
+5, Irish rock band, 0.817907, 0
+5, little research, 0.707364, 1
+5, small company, 0.705844, 2
+5, Irish curry, 0.739444, 3
+5, place, 0.713144, 4
+5, pub chips, 0.963152, 6
+5, old Irish pub, 0.823602, 6
+5, clam chowder, 0.829631, 7
+5, good Irish music, 0.829049, 7
+5, BBQ Chicken Burger, 0.816534, 8
+5, chicken breast sandwich, 0.808022, 8
+5, Claddagh Irish Pub, 0.869447, 9
+5, couple wonderful experiences, 0.783674, 9

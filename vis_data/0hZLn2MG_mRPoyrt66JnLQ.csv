@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+2, fantasy football draft, 0.99929, 0
+2, party type shin-dig, 0.990368, 0
+2, people, 0.591367, 1
+2, waiter, 0.563602, 1
+2, watering gurgling noises, 0.980144, 2
+2, god yumm, 0.744548, 2
+2, fryer, 0.554365, 3
+2, freezer, 0.548205, 3
+2, plate, 0.588526, 4
+2, food, 0.583783, 4
+2, Premium Sides, 0.7229, 6
+2, macaroni, 0.554125, 6
+2, chicken tender sandwich, 0.948996, 7
+2, Las Vegas, 0.779055, 7
+2, cabbage cole slaw, 0.962826, 8
+2, french fries, 0.766604, 8
+2, elses, 0.566239, 9
+2, smell, 0.547508, 9
+3, philly steak sandwich, 0.955667, 0
+3, tiny crowded bar, 0.948571, 0
+3, Thai fast-food  joint, 0.930074, 1
+3, ample exposed cleavage, 0.924554, 1
+3, favorite place, 0.842788, 2
+3, bad taste, 0.835621, 2
+3, Burger Madness, 0.863101, 3
+3, service, 0.862894, 3
+3, extra ranch, 0.923577, 4
+3, place, 0.93913, 5
+3, decent Mexican food, 0.971727, 6
+3, great team work, 0.927019, 6
+3, Lucky Lou, 0.97473, 7
+3, neighborhood bar, 0.850364, 7
+3, extra dressing, 0.94624, 8
+3, rowdy crowd, 0.832521, 8
+3, fried zucchini appetizer, 0.943053, 9
+4, delish bar food, 0.851074, 0
+4, collar sports bar, 0.798472, 0
+4, spring roll value, 0.757108, 1
+4, sports bar, 0.803715, 2
+4, spring rolls..sorry Lou, 0.772236, 2
+4, bar food, 0.984366, 3
+4, smelly ball players, 0.792754, 3
+4, drinks, 0.720588, 4
+4, Philly cheesesteak sandwich, 0.81462, 6
+4, hightop tables, 0.767835, 6
+4, great little neighborhood, 0.786616, 7
+4, southwestern eggroll appetizer, 0.779168, 7
+4, great food, 0.926857, 8
+4, pretty good food, 0.868734, 8
+4, Pretty good appetizers, 0.830895, 9
+4, Nice relaxing place, 0.818828, 9
+5, California Chicken Wrap, 0.743825, 0
+5, Multiple flat-panel tvs, 0.5623, 0
+5, picky husband, 0.485113, 2
+5, chat time, 0.443392, 2
+5, cheese steak sandwich, 0.551275, 3
+5, better local bar, 0.549515, 3
+5, husband, 0.55932, 5
+5, time, 0.537322, 5
+5, Lucky Lou, 0.925997, 6
+5, buffalo chicken sandwich, 0.584824, 6
+5, Southwest Chicken Salad, 0.611217, 7
+5, Great sport-bar-type menu, 0.605356, 7
+5, food, 0.658746, 8
+5, place, 0.561282, 8
+5, great food, 0.590381, 9
+5, american style food, 0.579166, 9

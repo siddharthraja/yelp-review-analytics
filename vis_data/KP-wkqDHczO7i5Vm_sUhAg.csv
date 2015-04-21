@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+3, restaurant, 0.947336, 0
+3, food, 0.848864, 0
+3, bar, 0.880135, 3
+4, Cool sports bar, 0.903402, 0
+4, flamingo, 0.277362, 0
+4, little hidden spot, 0.831335, 1
+4, quick pitstop, 0.61366, 1
+4, little Keno, 0.562877, 2
+4, average bar, 0.525604, 2
+4, home team bar, 0.897205, 3
+4, games, 0.26801, 3
+4, bartender, 0.425119, 5
+4, fries, 0.283097, 6
+4, Bachi Burger, 0.752299, 7
+4, Good atmosphere, 0.577868, 7
+4, great burger, 0.980196, 8
+4, Good beer prices, 0.749377, 8
+4, quiet lunch, 0.56386, 9
+4, special treats, 0.552727, 9
+5, friends, 0.46967, 0
+5, Tammy, 0.491765, 3
+5, machines, 0.471135, 3
+5, bartender Tracy, 0.825554, 6
+5, night, 0.53845, 6
+5, best bartenders, 0.763555, 7
+5, Jen, 0.488989, 7
+5, Excellent customer service, 0.93415, 8
+5, great time, 0.713665, 8

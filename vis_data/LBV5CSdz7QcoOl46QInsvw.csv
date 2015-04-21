@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, ........., 0.739344, 0
+1, grilled chicken quesadilla, 0.703239, 0
+1, food, 0.799431, 1
+1, wide open window, 0.649148, 1
+1, place moslty staff, 0.669359, 2
+1, Jimmy Fallon wannabe, 0.657944, 2
+1, grilled chicken sandwich, 0.975508, 3
+1, long-time Bears fan, 0.662301, 3
+1, times bwcause, 0.573315, 6
+1, local place, 0.572352, 6
+1, real ***** tch, 0.697919, 7
+1, free peanuts, 0.540675, 7
+1, Great job manager, 0.646333, 8
+2, Local Craft Beers, 0.564196, 0
+2, southwestern chicken fajitas, 0.564109, 0
+2, Uncle Bear, 0.612528, 1
+2, bad TV positioning, 0.536153, 1
+2, Beer selection ho-hum, 0.559335, 2
+2, long time, 0.549002, 2
+2, service, 0.704961, 3
+2, french fries, 0.547995, 3
+2, food, 0.930722, 4
+2, place, 0.680944, 5
+2, adorable dog photos, 0.562519, 6
+2, obsessive dog lovers, 0.555402, 6
+2, Uncle Bears, 0.739463, 7
+2, ok beer selection, 0.577905, 7
+2, real cool places, 0.527567, 8
+2, salad combo, 0.504714, 8
+2, Totally unforgettable food, 0.590844, 9
+3, mediocre bar food, 0.580315, 0
+3, new sports bar, 0.567341, 0
+3, good cherry tomatoes, 0.573427, 1
+3, boyfriends meatball sliders, 0.566562, 1
+3, kitchen food server, 0.567821, 2
+3, ground beef burger, 0.559114, 2
+3, uncle bears, 0.748728, 3
+3, sports bar, 0.622275, 3
+3, place, 0.685732, 4
+3, beer selection, 0.621141, 4
+3, food, 0.932903, 5
+3, bar, 0.645928, 5
+3, prime rib sliders, 0.963824, 6
+3, Good food, 0.548998, 6
+3, nice patio area, 0.577511, 7
+3, dog friendly patio, 0.571572, 7
+3, good place, 0.577298, 8
+3, pretty decent deal, 0.569779, 8
+3, pretty good meal, 0.598435, 9
+3, nice outdoor patio, 0.555474, 9
+4, good tasting fish, 0.753605, 0
+4, Cool little bar, 0.748639, 0
+4, nice long bar, 0.770312, 1
+4, actual neighborhood bar, 0.743327, 1
+4, bar food, 0.833469, 2
+4, Pecos Ranch, 0.780738, 2
+4, floor kinda place, 0.717768, 3
+4, neighborhood bar, 0.828337, 4
+4, Uncle Bear, 0.822104, 4
+4, bar, 0.943034, 5
+4, food, 0.911468, 5
+4, little neighborhood bar, 0.764738, 6
+4, patio, 0.75966, 6
+4, Uncle Bears, 0.899916, 7
+4, chicken tortilla soup, 0.775165, 7
+4, dog, 0.856625, 8
+4, good food, 0.806101, 8
+4, dog friendly patio, 0.75716, 9
+4, Great patio seating, 0.754219, 9
+5, NEW Uncle Bears, 0.570177, 0
+5, whimpy micro-bacon, 0.421662, 0
+5, misty patio, 0.437848, 3
+5, dog bowls, 0.427511, 3
+5, big steak fries, 0.550322, 6
+5, Great service, 0.485522, 6
+5, prime rib sliders, 0.938117, 7
+5, uncle bears, 0.844148, 7
+5, great food, 0.584679, 8
+5, Uncle Bear, 0.581085, 8
+5, yumm yumm yummy, 0.544598, 9
+5, dog friendly patio, 0.532603, 9

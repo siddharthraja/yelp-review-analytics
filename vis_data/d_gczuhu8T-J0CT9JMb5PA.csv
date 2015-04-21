@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, horrible service, 0.92312, 0
+1, yr olds party, 0.71255, 0
+1, weak beer selection, 0.766218, 1
+1, lazy unfriendly service, 0.752166, 1
+1, basic bar food, 0.712249, 2
+1, mixed greens, 0.59887, 2
+1, McDonald, 0.468836, 3
+1, fault, 0.463858, 3
+1, paper plate, 0.935742, 4
+1, place, 0.70965, 5
+1, people, 0.590878, 5
+1, yup plastic ware, 0.766711, 6
+1, bean bag toss, 0.723438, 6
+1, friends, 0.466469, 7
+1, great service, 0.587296, 8
+1, medium, 0.470572, 8
+2, slow slow service, 0.78537, 0
+2, chicken tacos, 0.635081, 0
+2, rude old men, 0.706422, 1
+2, physical activities, 0.632047, 1
+2, veggie burger, 0.955464, 2
+2, old guy, 0.797103, 2
+2, place look trashy, 0.767922, 3
+2, food, 0.72632, 3
+2, people, 0.618448, 4
+2, 50th birthday party, 0.731216, 6
+2, taxi cab ride, 0.721184, 6
+2, free taxi, 0.73618, 7
+2, Sunday afternoon visit, 0.688771, 7
+2, bean bag toss, 0.73319, 8
+2, surprise birthday dinner, 0.701139, 8
+3, furthest volleyball court, 0.63693, 0
+3, sand toys, 0.61491, 0
+3, biggest money maker, 0.598085, 1
+3, fairly extreme case, 0.580233, 1
+3, wrong place, 0.541678, 2
+3, odd policies, 0.512327, 2
+3, small kitchen offers, 0.582669, 3
+3, flip flops, 0.523184, 3
+3, sand volleyball courts, 0.967602, 4
+3, large group, 0.751003, 4
+3, food, 0.854142, 5
+3, -They allow kids, 0.731351, 6
+3, server, 0.657032, 6
+3, barbeque sauce, 0.811251, 7
+3, chicken strips, 0.786542, 7
+3, fun place, 0.923369, 8
+3, great place, 0.790376, 8
+4, sand volleyball courts, 0.796262, 0
+4, ping pong tables, 0.762815, 0
+4, great great time., 0.583105, 1
+4, drunken beach volleyball, 0.53885, 2
+4, ambitious bar idea, 0.556531, 3
+4, occasional live music, 0.531428, 3
+4, food, 0.681077, 4
+4, bar, 0.594459, 4
+4, live music, 0.6409, 5
+4, beer, 0.581432, 5
+4, place, 0.970407, 6
+4, near-professional near-naked volleyball, 0.575594, 6
+4, Great outdoor space, 0.570439, 7
+4, cover band, 0.534324, 7
+4, cool place, 0.696136, 8
+4, great place, 0.640084, 8
+4, pretty cool place, 0.637285, 9
+4, Crackerjack super-fast service, 0.516105, 9
+5, ping pong, 0.882227, 0
+5, chili cookoff, 0.881397, 0
+5, huge beer drinker, 0.849342, 2
+5, notch bar fare, 0.820134, 2
+5, volleyball courts, 0.983884, 3
+5, sand volleyball courts, 0.83976, 3
+5, quick bar food, 0.842823, 6
+5, buffalo mozzarella sticks, 0.828965, 6
+5, bbq party type, 0.866313, 7
+5, fellow office mates, 0.856629, 7
+5, neat seating area, 0.840669, 8
+5, fun friendly staff, 0.836547, 8
+5, great time, 0.83759, 9
+5, excellent burger, 0.757411, 9

@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, room temperature, 0.938691, 0
+1, WORST SERVICE, 0.910561, 0
+1, table, 0.46886, 1
+1, customer service, 0.833754, 2
+1, water, 0.458483, 2
+1, course, 0.445159, 4
+1, place, 0.473208, 7
+2, young age, 0.985685, 1
+2, underwear night, 0.957663, 1
+3, country western bar, 0.782814, 0
+3, Loud country music, 0.738998, 0
+3, good house music, 0.7279, 1
+3, SNAPI LGBT party, 0.725581, 1
+3, cheap drinks, 0.926584, 2
+3, gay country bar, 0.806167, 2
+3, non-gay bar patronizing, 0.738692, 3
+3, main wome'ns room, 0.70611, 3
+3, people, 0.695967, 5
+3, Drag queen bingo, 0.727492, 6
+3, great places, 0.632318, 6
+3, good country line, 0.758263, 7
+3, guy friends, 0.716805, 7
+3, off-strip gay time, 0.759456, 8
+3, good time, 0.735755, 8
+3, pretty good time, 0.729323, 9
+3, great pour, 0.640476, 9
+4, Drag Queen Bingo, 0.787771, 0
+4, low-attitude country-themed bar, 0.660742, 0
+4, small dive-like bar, 0.620083, 1
+4, Underwear nights, 0.531346, 1
+4, disco cowboy boots, 0.587811, 2
+4, actual bar, 0.52161, 2
+4, bingo night, 0.521806, 3
+4, pretty-boy nightclub, 0.519111, 3
+4, bar, 0.717084, 5
+4, Charlie, 0.613827, 5
+4, huge dance floor, 0.770096, 6
+4, *shameless Yelp Deal, 0.587556, 6
+4, dance floor, 0.905338, 7
+4, Line dancing lessons, 0.765231, 7
+4, great entertainment, 0.613356, 8
+4, great bar/club vibe, 0.608911, 8
+5, big gurl, 0.786603, 0
+5, Deuce Biggalow, 0.785687, 0
+5, huge dance floor, 0.907799, 1
+5, bar drag, 0.809508, 1
+5, gay bar, 0.919595, 2
+5, ongoing drag, 0.786205, 2
+5, Drag show cherry, 0.783038, 3
+5, old voice, 0.775623, 3
+5, Charlie, 0.819806, 4
+5, place, 0.693515, 4
+5, Black Gay Boi, 0.93462, 6
+5, fresh lemonade, 0.774141, 6
+5, warm fresh breath, 0.918341, 7
+5, random chatty people, 0.895809, 7
+5, blue tight tank, 0.923047, 8
+5, drag queen bingo, 0.918803, 8
+5, great atmosphere, 0.789248, 9
+5, theme nights, 0.75475, 9

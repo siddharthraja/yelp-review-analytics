@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, steeler game, 0.60916, 0
+1, breakfast burrito, 0.602646, 0
+1, ate half, 0.557986, 1
+1, Tortilla, 0.279632, 1
+1, obnoxiously drunk table, 0.805035, 2
+1, specific menu item, 0.772175, 2
+1, food choice, 0.538729, 3
+1, corner, 0.357825, 3
+1, lunch menu, 0.918403, 4
+1, sports grill, 0.616825, 6
+1, blt, 0.287125, 6
+1, item brunch menu, 0.85909, 7
+1, lovely bartender, 0.655098, 7
+2, Michigan State vs, 0.942976, 0
+2, Stanford vs Utah, 0.935168, 0
+2, mouth local businesses, 0.91749, 1
+2, minimal attention, 0.743966, 1
+2, big problem, 0.778619, 2
+2, cheesy music, 0.765558, 2
+2, Notre Dame, 0.937794, 3
+2, unused wall space, 0.88797, 3
+2, food, 0.750733, 4
+2, waiter, 0.709002, 4
+2, appetizer, 0.68068, 5
+2, Saturday night, 0.912386, 6
+2, dinner time, 0.749592, 6
+2, best things, 0.752798, 7
+2, nice bathrooms, 0.752762, 7
+2, Southwest Americana burger, 0.88213, 8
+2, skee ball machine, 0.872403, 8
+2, reasonable time, 0.751798, 9
+2, QUALITY ingredients, 0.744623, 9
+3, wait staff, 0.569063, 0
+3, Long waits, 0.554551, 0
+3, waitresses fault, 0.56044, 1
+3, star, 0.383706, 1
+3, sports bar, 0.940696, 2
+3, kraft macaroni flavor, 0.719643, 2
+3, live music, 0.532358, 3
+3, intriguing things, 0.527663, 3
+3, exciting football games, 0.7533, 6
+3, wild game experience, 0.675017, 6
+3, Bison rojo tacos, 0.734745, 7
+3, entire packed place, 0.730322, 7
+3, great flavor, 0.531036, 8
+3, crispy, 0.355599, 8
+3, Awesome beer selection, 0.771714, 9
+3, service great food, 0.664679, 9
+4, Wild Game Grill, 0.622442, 0
+4, Pan Roasted chicken, 0.603833, 0
+4, rabbit sloppy joe, 0.596935, 1
+4, somewhat unattentive service, 0.587212, 1
+4, ice cold beer, 0.594475, 2
+4, Thursday night, 0.518261, 2
+4, multiple entry points, 0.629258, 3
+4, main dinning area, 0.626535, 3
+4, BEST chicken wings, 0.647688, 6
+4, cool sports bar, 0.589874, 6
+4, Wild Game, 0.844454, 7
+4, Garlic Bacon Fontina, 0.815515, 7
+4, pastrami burger, 0.947815, 8
+4, Wild Game Grille, 0.617905, 8
+4, good sports grill, 0.646499, 9
+4, juicy Pastrami, 0.581797, 9
+5, Wild Game Sports, 0.75628, 0
+5, Game Sports Grill, 0.740723, 0
+5, night bar food, 0.655786, 1
+5, BEST sloppy joe, 0.622145, 2
+5, rabbit sloppy joe, 0.819016, 3
+5, ski ball, 0.616715, 3
+5, food, 0.823999, 5
+5, sports bar, 0.776892, 5
+5, Wild Game Grill, 0.721588, 6
+5, Great sports bar, 0.69657, 6
+5, wild boar, 0.722528, 7
+5, Wild Boar Sliders, 0.63929, 7
+5, wild game, 0.954379, 8
+5, great new place, 0.947807, 8
+5, great place, 0.79256, 9
+5, Great service, 0.705804, 9

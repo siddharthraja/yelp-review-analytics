@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, HOPPY ipa, 0.679575, 0
+1, ride home, 0.661711, 0
+1, Terrible first visit, 0.683071, 1
+1, freezing rain, 0.662404, 1
+1, hot dog, 0.960773, 2
+1, street vendor, 0.660148, 2
+1, door guy, 0.77611, 3
+1, lb man, 0.659401, 3
+1, food, 0.712682, 5
+1, long wait, 0.666595, 6
+1, owner, 0.596824, 6
+1, beer, 0.619153, 7
+1, bit, 0.531111, 7
+1, daytime staff, 0.655776, 8
+1, nice breakfast/brunch menu, 0.818029, 9
+1, Great prices, 0.682988, 9
+2, half priced wings, 0.900803, 0
+2, super weird combination, 0.749973, 0
+2, waitress, 0.65407, 1
+2, winter jacket, 0.614695, 1
+2, Jack Beagles, 0.623266, 2
+2, biggest morons, 0.61317, 2
+2, half priced deal, 0.744951, 3
+2, lunch, 0.595651, 3
+2, customer, 0.475128, 4
+2, place, 0.61915, 5
+2, friend, 0.526789, 5
+2, lunch menu, 0.591264, 6
+2, higher rating, 0.583552, 6
+2, good deal, 0.566747, 7
+2, night, 0.463553, 7
+2, reasonably priced food, 0.778792, 8
+2, special tropical version, 0.748519, 8
+2, absolutely amazing Emancipator, 0.729797, 9
+2, perfect segway, 0.583018, 9
+3, aptly-named Steak section, 0.744377, 0
+3, half price pints, 0.737003, 0
+3, ......, 0.782616, 1
+3, different hot dogs, 0.756212, 1
+3, right hot dog, 0.759977, 2
+3, little white onion, 0.727544, 2
+3, average pub food, 0.732645, 3
+3, night drunk meal, 0.714932, 3
+3, hot dogs, 0.908949, 4
+3, time, 0.782052, 4
+3, hot dog, 0.936095, 5
+3, food, 0.920193, 5
+3, correct hot dogs, 0.75058, 6
+3, future Sunday brunch, 0.744562, 6
+3, jalapeno relish, 0.762349, 7
+3, solid beer selection, 0.729544, 7
+3, great Hot dogs, 0.762668, 8
+3, chipotle porter sensation, 0.720215, 8
+3, female bartender, 0.766651, 9
+3, Jack Beagles, 0.73531, 9
+4, yummy bar food, 0.741363, 0
+4, average bar food, 0.730259, 0
+4, good bar food, 0.770326, 1
+4, good bar music, 0.745429, 1
+4, Jack Beagle, 0.760289, 3
+4, cheese steak sandwich, 0.729823, 3
+4, best bar food, 0.744892, 4
+4, bar, 0.91055, 5
+4, cheese, 0.900352, 5
+4, food, 0.914211, 6
+4, place, 0.795663, 6
+4, beer selection, 0.87302, 7
+4, mac n cheese, 0.826384, 7
+4, Blue Black Mac, 0.771482, 8
+4, breakfast, 0.767805, 8
+4, great bar atmosphere, 0.749023, 9
+4, great breakfast option, 0.747875, 9
+5, Jack Beagles fries, 0.5875, 0
+5, great fry night, 0.553269, 0
+5, food menu items, 0.551029, 2
+5, hot dog, 0.550774, 2
+5, traditional cheese fries, 0.541071, 3
+5, Jack Beagles, 0.968485, 4
+5, time, 0.535479, 4
+5, food, 0.886694, 5
+5, great food, 0.853181, 5
+5, hot dogs, 0.863046, 6
+5, best hot dogs, 0.531037, 6
+5, mac n cheese, 0.626297, 7
+5, Mmmm. great food, 0.581031, 7
+5, beer selection, 0.696123, 8
+5, great beer selection, 0.673729, 8
+5, great place, 0.557852, 9
+5, absolutely delicious food, 0.53728, 9

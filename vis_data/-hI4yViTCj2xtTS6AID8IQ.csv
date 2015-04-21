@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, sirloin steak, 0.917382, 0
+1, exact same steak, 0.893648, 0
+1, food, 0.851702, 1
+1, Lazy staff, 0.734027, 1
+1, Comedy Club, 0.730902, 2
+1, menu prices, 0.723563, 2
+1, itemized receipt, 0.753454, 3
+1, right thing, 0.753401, 3
+1, check, 0.60411, 4
+1, culinary grad, 0.786692, 6
+1, dinner napkin, 0.762092, 6
+1, hair, 0.478474, 7
+2, little sitting area/patio, 0.800773, 0
+2, spacious bathroom w/plenty, 0.79685, 0
+2, crotchety old woman, 0.776882, 1
+2, food, 0.80499, 2
+2, basic bar food, 0.804532, 2
+2, neighborhood type bar, 0.801967, 3
+2, w/some REAL history/personality, 0.798585, 3
+2, thirsty beaver, 0.950394, 5
+2, portion size, 0.809774, 5
+2, place, 0.696354, 6
+2, past reviews, 0.660496, 6
+2, live bands, 0.677964, 7
+2, ahi tuna, 0.67509, 7
+2, loud alive atmosphere, 0.826478, 8
+2, NC Music Factory, 0.805767, 8
+2, great location, 0.81408, 9
+3, Black Bear saloon, 0.698045, 0
+3, bar type place, 0.63861, 0
+3, Poor design lay-out, 0.589427, 1
+3, nice place, 0.528814, 1
+3, bar food, 0.627892, 2
+3, neighborhood bar feel, 0.627692, 2
+3, bar w/, 0.539476, 3
+3, Katie S., 0.514039, 3
+3, Comedy Zone, 0.907649, 4
+3, live music, 0.662301, 4
+3, place, 0.692221, 5
+3, bar, 0.773693, 6
+3, grilled steak tacos, 0.612752, 6
+3, philly cheesesteak sandwiches, 0.603923, 7
+3, hear live music, 0.599367, 7
+3, NC Music Factory, 0.741807, 8
+3, fun local bar, 0.61899, 8
+3, pretty good size, 0.654989, 9
+3, bar staff, 0.553414, 9
+4, Black Bear Saloon, 0.904782, 0
+4, booths, 0.515536, 0
+4, Heartbreakers American Girl, 0.909099, 1
+4, Wet Willies, 0.740643, 1
+4, stage, 0.69373, 2
+4, rock songs, 0.664573, 2
+4, huge rectangular bar, 0.957699, 3
+4, live music, 0.942424, 3
+4, beers, 0.517392, 4
+4, Big Buck Safari, 0.869885, 6
+4, place, 0.70257, 6
+4, awesome real-life rock, 0.90198, 7
+4, rockband karaoke, 0.8336, 7
+4, favorite video games, 0.871106, 8
+4, nice meal, 0.664955, 8
+5, D-bag, 0.505526, 0
+5, owner, 0.505281, 0
+5, Comedy Zone, 0.850854, 6
+5, Steve O., 0.848622, 6
+5, good time, 0.8834, 8
+5, large patio, 0.924682, 9
+5, Bask, 0.853274, 9

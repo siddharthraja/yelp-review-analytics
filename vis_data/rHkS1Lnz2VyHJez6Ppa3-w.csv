@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+2, loud grunting noises, 0.985789, 0
+2, kinda icecream thing, 0.902424, 0
+2, main toilet, 0.7117, 1
+2, village idiot, 0.667793, 1
+2, good things, 0.699731, 2
+2, shady establishments, 0.664587, 2
+2, sat night, 0.700053, 3
+2, live band, 0.689622, 3
+2, alternative Hard Rock, 0.882457, 6
+2, New town, 0.688041, 6
+2, dinner guests, 0.68957, 7
+2, Black Rose, 0.679196, 7
+2, restaurant, 0.441983, 8
+3, heir native tongue, 0.560444, 0
+3, ball gown, 0.451203, 0
+3, rise street challenge, 0.549561, 1
+3, sort, 0.239429, 1
+3, particular trend, 0.423146, 2
+3, great evening, 0.417967, 2
+3, Rose Street, 0.725214, 3
+3, pub indoors, 0.410539, 3
+3, frozen type, 0.393519, 4
+3, Black Rose Tavern, 0.977022, 6
+3, rock music, 0.808824, 6
+3, Black Bull Tavern, 0.615619, 7
+3, real good revamp, 0.56049, 7
+3, pretty good lunch, 0.607449, 8
+3, road  A-Ok, 0.427404, 8
+4, little grunge/ rock, 0.488166, 0
+4, live music nights, 0.487942, 0
+4, poor unfortunate stag, 0.475757, 1
+4, corporate/major label metal, 0.469074, 1
+4, good pub, 0.494009, 2
+4, vapid cocktail bars, 0.479894, 2
+4, rock bar, 0.496258, 3
+4, unwashed middle-aged men, 0.480581, 3
+4, lovely pink feather, 0.540157, 4
+4, music, 0.522038, 4
+4, Rose Street, 0.721595, 5
+4, pub, 0.56939, 5
+4, juke box, 0.586096, 6
+4, place, 0.550372, 6
+4, good juke box, 0.500714, 7
+4, good ol rock, 0.499826, 7
+4, Black Rose Tavern, 0.904337, 8
+4, Rose Tavern host, 0.532334, 8
+4, Rose Tavern offer, 0.520035, 9
+4, good solid range, 0.488826, 9
+5, stars, 0.590666, 0
+5, Funny people, 0.938905, 8
+5, awesome music, 0.985925, 9
+5, good prices, 0.754872, 9

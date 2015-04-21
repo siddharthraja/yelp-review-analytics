@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+2, Mediocore booze, 0.840844, 0
+2, different ammount, 0.82903, 0
+2, function room, 0.750751, 1
+2, night, 0.443947, 1
+2, urrggh, 0.326839, 2
+2, refurb, 0.421812, 3
+2, sticky pub, 0.859954, 6
+2, bit, 0.33143, 6
+2, great pub, 0.947161, 7
+2, broughton street, 0.946597, 7
+3, fitba match, 0.604521, 0
+3, boozer, 0.492107, 0
+3, tourist, 0.506975, 1
+3, accident, 0.437335, 1
+3, hibs pub, 0.748031, 3
+3, flashy edges, 0.663866, 3
+3, hibs fan, 0.676144, 6
+3, old nephew, 0.621742, 6
+3, old mans pub, 0.931677, 7
+3, decent pint, 0.666078, 7
+3, decent experience, 0.681614, 8
+3, locals, 0.549177, 8
+3, roomy, 0.467009, 9

@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, additional delivery driver, 0.80584, 0
+1, bartenders, 0.311268, 0
+1, mins, 0.814725, 1
+1, Boooooo midtown, 0.662627, 1
+1, pizza maker, 0.738332, 2
+1, hungry person, 0.615743, 2
+1, Lobter pizza, 0.747951, 3
+1, long time, 0.546569, 3
+1, pizza, 0.949661, 4
+1, way, 0.368656, 4
+1, exact jiggers, 0.698654, 6
+1, tiny pieces, 0.61902, 6
+1, Good place, 0.591825, 7
+1, Customer service, 0.588237, 8
+2, plastic squeeze bottle, 0.911521, 0
+2, wrong order came.., 0.875682, 0
+2, sub par, 0.618493, 1
+2, money, 0.361355, 1
+2, closed bar, 0.641747, 2
+2, preferred alcohol, 0.590713, 2
+2, bartender, 0.789599, 3
+2, bloody Mary, 0.602584, 3
+2, neighborhood, 0.361253, 6
+2, drinks, 0.356309, 6
+2, website, 0.427912, 8
+2, groupon, 0.36146, 8
+2, Happy Eating, 0.625084, 9
+3, half-pound pub burger, 0.92876, 0
+3, fat choy burger, 0.925493, 0
+3, GREAT dammit, 0.619759, 2
+3, neighborhood bars, 0.59301, 2
+3, Naked City Pizza, 0.828206, 3
+3, delicious bar food, 0.786047, 3
+3, Turducken Burger, 0.640741, 6
+3, higher rating, 0.617951, 6
+3, toppings, 0.376962, 7
+3, crowd, 0.352113, 7
+3, good people, 0.607098, 9
+3, cool bar, 0.600305, 9
+4, new Midtown bar, 0.95802, 0
+4, Coke products, 0.777513, 0
+4, diet Coke, 0.922627, 1
+4, small bar training, 0.907617, 1
+4, Friday night, 0.871111, 2
+4, bar menu, 0.825068, 2
+4, meatballs, 0.777731, 5
+4, Thai Chicken pizza, 0.858581, 6
+4, lol Devestator, 0.754231, 6
+4, Yelp Book Club, 0.912067, 7
+4, booth seats, 0.881205, 7
+4, notch employees, 0.761765, 8
+4, cool spot, 0.758937, 8
+4, delightful young woman, 0.883281, 9
+4, Overall great experience, 0.863578, 9
+5, Metro Pizza, 0.69078, 0
+5, regular watering hole, 0.608148, 0
+5, pizza, 0.907254, 6
+5, place, 0.739803, 6
+5, Barbecue chicken pizza, 0.709514, 7
+5, midtown pizza, 0.686069, 7
+5, big pizza pie, 0.741443, 8
+5, PIZZA PLACE FO, 0.724041, 8
+5, Great job Kevin, 0.624434, 9
+5, great bartender, 0.582094, 9

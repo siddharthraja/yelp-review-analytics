@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, fried clam strips, 0.833867, 0
+1, rotten oyster flesh, 0.798878, 0
+1, clam strips, 0.99725, 1
+1, crab cakes, 0.801483, 1
+1, little clam chunks, 0.814131, 2
+1, spinach dip, 0.78928, 2
+1, oysters, 0.691338, 3
+1, place, 0.667883, 3
+1, great meal, 0.642076, 6
+1, open table, 0.641797, 6
+1, oysters Rockefeller, 0.671373, 7
+1, great experience, 0.663503, 7
+1, good reviews, 0.640736, 8
+2, waffle fries, 0.823628, 0
+2, snow crab legs, 0.801348, 0
+2, garlic fries, 0.879378, 1
+2, sea food taste, 0.807396, 1
+2, dining room, 0.848898, 2
+2, milllion tv screens, 0.798002, 2
+2, Chargers game, 0.794035, 3
+2, dozen raw oysters, 0.782807, 3
+2, fries, 0.96825, 4
+2, food, 0.958172, 5
+2, place, 0.777825, 5
+2, garlic french fries, 0.876879, 6
+2, shrimp combo platter, 0.808892, 6
+2, steak fries, 0.961366, 7
+2, w/ steak fries, 0.896137, 7
+2, buffalo chicken wrap, 0.784673, 8
+2, seafood, 0.746065, 8
+2, pretty good selection, 0.778046, 9
+3, Rockefeller oysters, 0.656856, 0
+3, football game, 0.642059, 0
+3, dining room, 0.658762, 1
+3, style vegas bar, 0.650648, 1
+3, late night menu, 0.653033, 2
+3, super tentative service, 0.633745, 2
+3, raw oysters, 0.830143, 3
+3, dozen raw oysters, 0.739552, 3
+3, crab, 0.674459, 4
+3, menu, 0.665429, 4
+3, oysters, 0.935723, 5
+3, late night, 0.759786, 5
+3, small oysters, 0.679438, 6
+3, Sunday morning Shucks, 0.670623, 6
+3, good beer specials, 0.672508, 7
+3, Pretty friendly bar, 0.671404, 7
+3, pretty good seafood, 0.719826, 8
+3, pretty good deal, 0.689112, 8
+3, late night specials, 0.6354, 9
+4, Great little menu, 0.731122, 0
+4, Best bar food, 0.722095, 0
+4, raw oysters, 0.723199, 1
+4, Rockefeller oysters, 0.713972, 1
+4, alaskan king crab, 0.780769, 2
+4, snow crab legs, 0.775274, 2
+4, Chicago Bears bar, 0.743788, 3
+4, crab legs, 0.923958, 4
+4, oysters, 0.87266, 4
+4, place, 0.945237, 5
+4, good food, 0.818542, 5
+4, food, 0.921149, 6
+4, sea food place, 0.735753, 6
+4, clam bake, 0.853594, 7
+4, dungeness crab, 0.830978, 7
+4, good place, 0.812376, 8
+4, great food, 0.788427, 8
+4, Absolutely great food, 0.730616, 9
+4, great neighborhood joint, 0.705233, 9
+5, Dungeness Crab, 0.775807, 0
+5, good crab, 0.76809, 0
+5, Shucks Tavern, 0.741321, 2
+5, late night, 0.80882, 4
+5, shucks, 0.795916, 4
+5, food, 0.833111, 5
+5, seafood, 0.831191, 5
+5, clam chowder, 0.906198, 6
+5, place, 0.881194, 6
+5, Roasted Redskin Potatoes, 0.786001, 7
+5, crab legs, 0.785531, 7
+5, crab, 0.933962, 8
+5, Snow Crab, 0.80488, 8
+5, place great food, 0.785526, 9
+5, great fresh seafood, 0.768669, 9

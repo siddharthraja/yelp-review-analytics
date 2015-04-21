@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, Pho Dalat, 0.741693, 0
+1, meatball pho, 0.718227, 0
+1, worst tasting pho, 0.779386, 1
+1, spring roll, 0.741876, 1
+1, spring rolls, 0.977843, 2
+1, pho bo vien, 0.785615, 2
+1, food, 0.79023, 3
+1, home-cooked pho, 0.72868, 3
+1, place, 0.782205, 4
+1, vietnamese cuisine, 0.771303, 4
+1, pho, 0.912469, 5
+1, Saturday night, 0.714687, 5
+1, friends band, 0.649781, 6
+1, strange place, 0.604967, 6
+1, better pho, 0.728016, 7
+1, instant pho, 0.715291, 7
+1, Rare Steak Pho, 0.792792, 8
+1, Sage House Special, 0.666748, 8
+1, fun place, 0.60237, 9
+2, spicy dishes, 0.975247, 0
+2, Vietnamese cuisine, 0.885612, 0
+2, unsupervised brats, 0.865022, 1
+2, rude parents, 0.839191, 1
+2, modern restaurant, 0.8486, 2
+2, sports bar, 0.845423, 2
+2, experience, 0.577265, 3
+2, cigarette, 0.565603, 3
+2, house pho, 0.881068, 6
+2, Thai Basil, 0.856045, 6
+2, good place, 0.824185, 7
+2, service, 0.637661, 7
+2, concrete bar, 0.859495, 8
+3, town bar atmosphere, 0.94247, 0
+3, bean bag toss, 0.941616, 0
+3, flat screen, 0.791017, 1
+3, sports games, 0.790829, 1
+3, service, 0.72853, 2
+3, SLOW, 0.67044, 2
+3, alcoholic drinks, 0.808587, 3
+3, normal attire, 0.798904, 3
+3, nice change, 0.769457, 6
+3, Gordon Ramsey, 0.768247, 6
+3, new places Jen, 0.974391, 7
+3, basic traditional sauce, 0.947318, 7
+3, Prickly Pear Margaritas, 0.944955, 8
+3, peanut sauce, 0.793756, 8
+3, decent bar food, 0.945433, 9
+3, nice patio area, 0.941787, 9
+4, Stars sports bar, 0.736073, 0
+4, menu cross, 0.550789, 0
+4, new neighborhood bar, 0.753537, 2
+4, fast food restaurants, 0.697933, 2
+4, Vietnamese restaurant, 0.624228, 3
+4, bar vibe, 0.580566, 3
+4, authentic Vietnamese Cuisine, 0.824824, 4
+4, food, 0.830621, 6
+4, large outdoor patio, 0.705892, 6
+4, vietnamese cuisine, 0.965556, 7
+4, fusion Vietnamese cuisine, 0.748685, 7
+4, good hard lemonade, 0.763182, 8
+4, Great local spot, 0.722735, 8
+4, Great place, 0.819659, 9
+4, good food, 0.764562, 9
+5, chicken stir-fry rice, 0.968749, 0
+5, chicken wings, 0.810621, 0
+5, cherry lime martini, 0.997774, 1
+5, All-starz, 0.662659, 1
+5, Bloody Mary bar, 0.959501, 2
+5, sauce, 0.692582, 3
+5, butts, 0.641558, 3
+5, great place, 0.843, 6
+5, great time, 0.803112, 6
+5, ice cold glass, 0.952645, 7
+5, time positive experience, 0.944849, 7
+5, Great local spot, 0.966486, 8
+5, LOVE Pho, 0.868383, 8
+5, new local haunt, 0.980004, 9
+5, w/in walking distance, 0.961847, 9

@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, New manager chick, 0.683361, 0
+1, customer service, 0.413218, 0
+1, Crappy service, 0.886547, 1
+1, poor service skills, 0.689615, 1
+1, Dirty bathrooms, 0.996611, 2
+1, toilet plunger, 0.469823, 2
+1, separate times, 0.844812, 3
+1, friends food, 0.749323, 3
+1, Bartender, 0.205278, 6
+1, reasonably clean ladies, 0.716497, 7
+1, little boobies, 0.474728, 7
+1, great location, 0.453998, 9
+1, excellent service, 0.442251, 9
+2, typical champagne cocktail, 0.950184, 0
+2, peach purée, 0.581206, 0
+2, bartender Carla, 0.741239, 1
+2, guy bartender, 0.639906, 1
+2, Um rude, 0.56624, 2
+2, favorite PTs, 0.730871, 3
+2, glass, 0.290045, 3
+2, bf, 0.750269, 5
+2, drink, 0.672727, 5
+2, beer, 0.400036, 6
+2, time, 0.287646, 6
+2, Bellini, 0.367209, 7
+2, work, 0.208776, 7
+2, blonde bartender, 0.695996, 8
+2, lottery tickets, 0.522763, 8
+3, Great neighborhood bar, 0.90312, 0
+3, pretzel bites, 0.800092, 8
+3, Cool place, 0.60726, 8
+4, big screen tvs, 0.883177, 0
+4, season football game, 0.881573, 0
+4, male bartenders, 0.748618, 1
+4, bar tenders, 0.704295, 1
+4, basic bar food, 0.861962, 2
+4, local chain bar, 0.831611, 2
+4, steelers games, 0.746972, 3
+4, different times, 0.705302, 3
+4, chain bar, 0.958753, 4
+4, mins, 0.601925, 4
+4, PTs, 0.590298, 5
+4, great local hangout, 0.854269, 6
+4, grilled chicken sandwich, 0.833676, 6
+4, Silverado Ranch Blvd, 0.897733, 7
+4, favorite simple things, 0.842679, 7
+4, pool tables, 0.707089, 8
+4, pretty good, 0.698039, 8
+4, best bartenders Great, 0.896484, 9
+4, super fresh salad, 0.850857, 9
+5, half off drinks, 0.47716, 0
+5, Steve rock, 0.462113, 0
+5, internet jukebox, 0.504973, 1
+5, complaint, 0.263274, 1
+5, jam packed, 0.503281, 2
+5, games, 0.252886, 2
+5, dozen other places, 0.534818, 3
+5, gamers, 0.331593, 3
+5, neutral sattelite radio, 0.729492, 6
+5, Mr Anderson, 0.489166, 6
+5, comfortable seating area, 0.792896, 7
+5, spacious bar area, 0.786271, 7
+5, pool tables, 0.91414, 8
+5, Silverado Ranch area, 0.812638, 8
+5, Great service, 0.469685, 9
+5, darts, 0.334444, 9

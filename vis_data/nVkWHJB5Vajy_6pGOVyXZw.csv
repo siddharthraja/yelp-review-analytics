@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, green chicken curry, 0.880772, 0
+1, Thai, 0.26688, 0
+1, Food weird, 0.601208, 2
+1, spicy, 0.384599, 2
+1, sate chicken appetizer, 0.976945, 3
+1, taste, 0.284048, 3
+1, mango rice pudding, 0.773959, 6
+1, oatmeal, 0.28802, 6
+1, weird things, 0.526689, 7
+1, sweet potatoes, 0.512766, 7
+1, curry flavor, 0.588345, 8
+1, spice, 0.279421, 8
+2, alternative local establishment, 0.779531, 0
+2, Steamed mushroom buns, 0.759041, 0
+2, bar service, 0.667738, 1
+2, main stay, 0.665123, 1
+2, Bar Soba, 0.93507, 2
+2, nasi goreng, 0.824943, 2
+2, long whingy review, 0.750805, 3
+2, veggy option, 0.655896, 3
+2, food, 0.856456, 4
+2, prawn crackers, 0.826755, 4
+2, drinks, 0.709542, 6
+2, giant bowl, 0.661797, 6
+2, plate yep, 0.670526, 7
+2, fair ammount, 0.665175, 7
+2, birthday celebration, 0.644406, 8
+3, just. so. slow., 0.673095, 0
+3, Felt cookie-cutterish chain, 0.67302, 0
+3, Bar Soba, 0.968461, 2
+3, bar type tables, 0.68929, 2
+3, super spicy Meh, 0.695314, 3
+3, long dining benches, 0.675172, 3
+3, food, 0.789245, 4
+3, fusion food, 0.65893, 4
+3, california rolls, 0.766597, 5
+3, new lunch menu, 0.780483, 6
+3, Nice afternoon bar, 0.683815, 6
+3, prawn chili stir, 0.654128, 7
+3, Thai food, 0.600965, 7
+3, asian inspired mains, 0.664099, 8
+3, interesting flavour combinations, 0.653968, 8
+4, intense spice, 0.617478, 0
+4, bland food, 0.604602, 0
+4, levels, 0.270645, 2
+4, spicyness, 0.270501, 2
+4, Thai green curry, 0.878552, 3
+4, candle, 0.299961, 3
+4, pad Thai, 0.954463, 6
+4, mouth, 0.303064, 6
+4, dishes, 0.319146, 7
+4, deals, 0.306808, 7
+4, trendy ambiance, 0.735884, 8
+4, Bar Soba, 0.706687, 8
+5, Bar Soba, 0.925533, 1
+5, pub, 0.567359, 7
+5, Drinks, 0.564876, 9
+5, food, 0.441477, 9

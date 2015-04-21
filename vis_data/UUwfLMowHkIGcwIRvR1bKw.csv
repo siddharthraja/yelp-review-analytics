@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, disgusting joke, 0.808246, 0
+1, worst DJ, 0.664231, 0
+1, terrible cabana service, 0.990973, 1
+1, stars, 0.368635, 2
+1, elderly crowd, 0.711775, 3
+1, pool party, 0.605419, 3
+1, hotel guests, 0.698179, 6
+1, H2O pool, 0.683205, 6
+2, annual anniversary trip, 0.927611, 0
+2, las vegas, 0.644192, 0
+2, locals, 0.779931, 2
+2, temperature, 0.306971, 2
+2, ambivalence, 0.354887, 3
+2, concerns, 0.312773, 3
+2, GN pool, 0.719638, 6
+3, Golden Nugget *specifically*, 0.540285, 0
+3, underwater lounge chairs, 0.532836, 0
+3, people, 0.504091, 2
+3, gaming tables, 0.483579, 2
+3, smoking hot date, 0.544387, 3
+3, floor pool, 0.498065, 3
+3, pool, 0.964066, 5
+3, shark tank, 0.811652, 5
+3, lounge chairs, 0.645283, 6
+3, pool lounge chairs, 0.5969, 6
+3, water slide, 0.862111, 7
+3, Golden Nugget pool, 0.597511, 7
+3, famous pool, 0.519118, 8
+3, cool idea, 0.483782, 8
+4, large shark tank, 0.346758, 0
+4, tank water slide, 0.34292, 0
+4, shark tank, 0.900293, 2
+4, water slide, 0.625663, 2
+4, usual pool lounge, 0.334101, 3
+4, people, 0.294615, 4
+4, pool, 0.752051, 5
+4, time, 0.324239, 5
+4, Golden Nugget, 0.512652, 6
+4, pool toys, 0.274263, 6
+4, hot tub, 0.413471, 7
+4, shark/fish tank, 0.310454, 7
+4, golden nugget pool, 0.475113, 8
+4, lounge chair, 0.325054, 8
+4, pretty cool slide, 0.310945, 9
+5, best pool downtown, 0.576187, 0
+5, secret topless area, 0.548239, 0
+5, lik eit, 0.380697, 1
+5, little rude, 0.339633, 1
+5, Water falls, 0.34214, 2
+5, shark tank, 0.975484, 3
+5, pool, 0.972705, 5
+5, slide, 0.604939, 6
+5, giant fish tank, 0.469465, 6
+5, Golden Nugget pool, 0.829451, 7
+5, Super service pool, 0.546432, 7
+5, Las Vegas, 0.675564, 8
+5, best pool, 0.655598, 8
+5, personal favorite pool, 0.546913, 9
+5, good priced brew, 0.482667, 9

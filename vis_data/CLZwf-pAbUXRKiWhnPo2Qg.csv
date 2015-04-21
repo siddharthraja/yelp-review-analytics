@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, Pirates game, 0.790518, 0
+1, AWFUL food, 0.588531, 0
+1, food, 0.842683, 1
+1, Terrible service, 0.617102, 1
+1, cold Yuengling, 0.585752, 2
+1, food poisoning, 0.571094, 2
+1, Great Pittsburgh sports, 0.897658, 3
+1, woman, 0.463967, 3
+1, Souper Bowl, 0.909009, 4
+1, street, 0.339261, 4
+1, state, 0.274669, 6
+1, course, 0.270836, 6
+1, Penguins games, 0.519693, 7
+1, friends, 0.336316, 7
+2, American Legion hall, 0.899605, 0
+2, feel, 0.530162, 0
+2, cheap dive-y spors, 0.991113, 1
+2, place, 0.446535, 1
+2, regulars, 0.581552, 8
+2, life, 0.44249, 8
+3, Consol Energy Center, 0.976429, 0
+3, Good bar food, 0.830054, 0
+3, Bar decor, 0.469078, 2
+3, NCAA men, 0.546673, 3
+3, NCAA events, 0.531577, 3
+3, timely manner, 0.505918, 7
+3, good job, 0.446078, 7
+3, Happy Hour shots, 0.483046, 8
+3, Jagerbomb specials, 0.482003, 8
+4, chili cheese nachos, 0.972516, 0
+4, Fleetwood Mac concert, 0.866358, 0
+4, stereotypical Pittsburgh bar, 0.927526, 1
+4, Souper Bowl, 0.727425, 1
+4, typical bar food, 0.92236, 2
+4, expensive arena prices, 0.885954, 3
+4, hockey game, 0.670198, 3
+4, mushroom Swiss burger, 0.909045, 6
+4, best burgers, 0.66541, 6
+4, good pub grub, 0.921492, 7
+4, decent beer specials, 0.909834, 7
+4, black bean burger, 0.901482, 8
+4, Friendly staff, 0.666164, 8

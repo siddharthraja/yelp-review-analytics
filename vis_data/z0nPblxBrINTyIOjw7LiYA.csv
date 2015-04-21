@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+2, main dish, 0.98906, 0
+2, initial wine selection, 0.877206, 0
+2, food order, 0.68518, 1
+2, tasteless crust, 0.676427, 1
+2, good things, 0.930783, 2
+2, bistecca, 0.517094, 2
+2, Saturday night, 0.721791, 3
+2, service, 0.515763, 3
+2, boyfriend, 0.652339, 5
+2, menu, 0.531725, 5
+2, Italian deli meat, 0.920088, 6
+2, Aperol Spritz, 0.734381, 6
+2, authentic Italian brasserie, 0.929454, 7
+2, good Italian fare, 0.849115, 7
+2, place, 0.584644, 8
+2, vibe, 0.470532, 9
+2, gnocchi, 0.464268, 9
+3, inexpensive lunch, 0.923322, 0
+3, review, 0.559517, 0
+3, food, 0.539296, 6
+3, place, 0.66771, 7
+5, Berlusconi valent le, 0.945764, 0
+5, Comme nous sommes, 0.860378, 0
+5, goat cheese salad, 0.701376, 4
+5, excellent time, 0.452031, 6
+5, restaurant, 0.208485, 6
+5, Big Mac Pizza, 0.770049, 7
+5, Agréablement surprise, 0.514908, 7
+5, ceiling windows, 0.443023, 8
+5, great seats, 0.437449, 8
+5, reasonable pricing, 0.446033, 9
+5, quality, 0.204348, 9

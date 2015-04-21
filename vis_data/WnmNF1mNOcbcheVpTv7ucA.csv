@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, Horrible. Horrible staff, 0.924896, 0
+1, money, 0.456531, 1
+1, people, 0.45538, 1
+1, places, 0.456229, 6
+1, kids, 0.455601, 6
+2, Phoenix museum culture, 0.798941, 0
+2, animal hide drum, 0.793617, 0
+2, big payoff, 0.706002, 1
+2, real snooze, 0.703409, 1
+2, handicapped parking places, 0.766773, 2
+2, live music opportunities, 0.766712, 2
+2, Senior admission rate, 0.76348, 3
+2, exotic instruments, 0.718695, 3
+2, museum, 0.98912, 5
+2, instruments, 0.791738, 5
+2, Phoenix Art Museum, 0.806434, 6
+2, large attention span, 0.778868, 6
+2, self guided tour, 0.802971, 7
+2, hefty ticket prices, 0.769326, 7
+2, interesting museum, 0.73083, 8
+2, musical instruments, 0.705712, 8
+2, Experience Room, 0.70067, 9
+2, real hoot, 0.697573, 9
+3, so. many. instruments, 0.66274, 0
+3, hands-on musical instruments, 0.65453, 0
+3, simply wonderful museum, 0.639955, 1
+3, accompanying text placards, 0.627106, 1
+3, ridiculously short clip, 0.614318, 2
+3, diaper bag, 0.603751, 2
+3, musical instruments, 0.691403, 3
+3, artist exhibit room, 0.667296, 3
+3, museum, 0.910995, 4
+3, kids, 0.699727, 4
+3, instruments, 0.986991, 5
+3, Experience Gallery, 0.735053, 5
+3, room, 0.695137, 6
+3, Mechanical Music exhibit, 0.666246, 6
+3, Musical Instrument Museum, 0.80035, 7
+3, pretty fun experience, 0.652211, 7
+3, Artist Exhibits room, 0.653447, 8
+3, exhibit video clips, 0.635642, 8
+4, mechanical music instruments, 0.466972, 0
+4, Instrument Museum experience, 0.436865, 0
+4, primitive instruments, 0.397877, 1
+4, museum attendees, 0.393926, 1
+4, famous musicians instruments, 0.430409, 3
+4, museum headsets, 0.392646, 3
+4, musical instrument museum, 0.79229, 4
+4, mechanical instruments, 0.392413, 4
+4, place, 0.607821, 5
+4, country, 0.473246, 5
+4, instruments, 0.952409, 6
+4, museum, 0.900628, 6
+4, musical instruments, 0.611664, 7
+4, MIM, 0.46963, 7
+4, great place, 0.47344, 8
+4, great museum shop, 0.438969, 8
+4, great museum, 0.440367, 9
+4, interesting museum, 0.42059, 9
+5, MIM Museum Store, 0.561801, 0
+5, bizarre musical instruments, 0.514214, 0
+5, standard cafeteria fare, 0.501876, 2
+5, huge music dork, 0.508639, 3
+5, mim, 0.6613, 4
+5, musical instruments, 0.98406, 5
+5, museum, 0.964654, 5
+5, place, 0.731659, 6
+5, Eric Clapton, 0.618788, 6
+5, world, 0.671764, 7
+5, music lover, 0.527741, 7
+5, musical instrument museum, 0.73759, 8
+5, John Lennon, 0.704805, 8
+5, great place, 0.520281, 9
+5, awesome place, 0.499974, 9

@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, new vodka tonic, 0.664888, 0
+1, customer service skills, 0.630453, 0
+1, Omg Bad Service, 0.643671, 1
+1, time, 0.462431, 1
+1, soggy crust pizza, 0.763305, 2
+1, eggplant parm, 0.614796, 2
+1, restaurant, 0.468268, 3
+1, complimentary bread, 0.456665, 3
+1, dinner menu, 0.573529, 4
+1, people, 0.391182, 5
+1, nicer, 0.373034, 5
+1, mainly pizza, 0.520671, 6
+1, Peppers Pizza, 0.508505, 6
+1, Luna Rossa, 0.901964, 7
+1, piña colada machine, 0.616919, 7
+2, needs- water refills, 0.991467, 0
+2, Parmesan cheese, 0.714795, 0
+2, WAY, 0.214073, 2
+2, Yelp review, 0.739057, 3
+2, average cost, 0.668818, 3
+2, new beer, 0.607942, 7
+2, bartender, 0.254341, 7
+3, usual Fremont Street, 0.743922, 0
+3, right spot, 0.658762, 0
+3, terrible music, 0.644183, 1
+3, crazy wind, 0.625817, 1
+3, unplanned pub crawl, 0.784668, 2
+3, Heart Attack Grill, 0.757952, 2
+3, limited late-night menu, 0.762719, 3
+3, sticker shock, 0.632568, 3
+3, Luna Rossa, 0.98206, 4
+3, service, 0.645674, 4
+3, pizza, 0.877742, 5
+3, place, 0.695951, 5
+3, Luna Rossa pizza, 0.867873, 6
+3, pub crawl, 0.803813, 6
+3, pepp pizza, 0.760965, 7
+3, upscale restaurant, 0.634118, 7
+3, basic peperoni pizza, 0.830457, 8
+3, Vegas. great flavor, 0.752349, 8
+3, attentive wait staff, 0.769727, 9
+3, random pub crawl, 0.765115, 9
+4, new Italian food, 0.569732, 0
+4, rigatoni al funghi, 0.504327, 0
+4, slight crunch, 0.425004, 1
+4, frat boys, 0.424486, 1
+4, Italian food, 0.592571, 2
+4, best Italian food, 0.543634, 2
+4, Downtown Fremont Street, 0.643184, 3
+4, busiest street downtown, 0.584673, 3
+4, food, 0.754521, 5
+4, pizza, 0.609085, 5
+4, fremont street, 0.991157, 6
+4, open seating area, 0.51635, 6
+4, Luna Rossa, 0.82125, 7
+4, new favorite food, 0.551129, 7
+4, pretty good size, 0.582613, 8
+4, downtown Las Vegas, 0.575157, 8
+4, nice salty flavor, 0.532302, 9
+4, Good food, 0.45046, 9
+5, exhuberant older woman, 0.91676, 0
+5, ..Delicious Food, 0.747733, 0
+5, colder beer, 0.762696, 2
+5, Fremont Street, 0.747413, 2
+5, restaurant, 0.54827, 3
+5, smoke, 0.544127, 3
+5, CROSTINI DELLA TRADIZIONE, 0.950099, 6
+5, personal pizzas, 0.74585, 6
+5, Italian prosciutto butter, 0.915791, 7
+5, great meal, 0.780934, 7
+5, lovely little gem, 0.986366, 8
+5, frequent drink refills, 0.921611, 8
+5, Great pizza, 0.784642, 9
+5, Luna Rossa, 0.784624, 9

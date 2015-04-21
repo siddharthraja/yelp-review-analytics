@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, spicy honey mustard, 0.804081, 0
+1, luke warm food, 0.787546, 0
+1, gas station bathroom, 0.79043, 1
+1, Maricopa rotation, 0.694887, 1
+1, New York, 0.980243, 2
+1, oddly placed landscape, 0.837877, 2
+1, Native New Yorker, 0.816174, 3
+1, big party, 0.66323, 3
+1, wings, 0.758329, 5
+1, time, 0.687496, 6
+1, steak options, 0.680492, 6
+1, east coast, 0.834097, 8
+1, east coast vibe, 0.830222, 8
+1, Ahwatukee location, 0.666887, 9
+1, comfortable location, 0.659847, 9
+2, buffalo wings, 0.650315, 0
+2, new yorker restaurant., 0.623967, 0
+2, native new yorkers, 0.615172, 1
+2, pretty good salad, 0.598515, 1
+2, native new yorker, 0.977879, 2
+2, food, 0.832713, 2
+2, wings, 0.66979, 3
+2, standing local joints, 0.575783, 3
+2, service, 0.668914, 5
+2, waitress, 0.612829, 5
+2, Boneless BBq wings, 0.617943, 6
+2, Asian Chicken Salad, 0.594862, 6
+2, widely respected chain, 0.585148, 7
+2, Cheeseburger w/, 0.524941, 7
+2, good sense, 0.519313, 8
+2, better service, 0.511582, 8
+2, wonderful things, 0.513552, 9
+3, busy chit chatting., 0.745892, 0
+3, regular place barro, 0.73542, 0
+3, complete lackadaisical worm, 0.747988, 1
+3, pretzel bun, 0.622146, 1
+3, train wreck, 0.626457, 2
+3, window sill, 0.623189, 2
+3, bad place, 0.630393, 3
+3, actual action, 0.62468, 3
+3, wings, 0.813933, 4
+3, service, 0.702049, 4
+3, food, 0.947149, 5
+3, times, 0.844197, 5
+3, Grilled Extra Crispy, 0.753572, 6
+3, gift card, 0.711214, 6
+3, times food, 0.67175, 7
+3, traditional wings, 0.662746, 7
+3, Tuesday wing night, 0.696568, 8
+3, good food, 0.663097, 8
+3, great variety, 0.624949, 9
+4, Native New Yorker, 0.830524, 0
+4, bar food-great wing, 0.787929, 0
+4, half price appetizers, 0.770735, 1
+4, tiny little thing, 0.774162, 2
+4, Thursday night, 0.68079, 2
+4, great local bar, 0.775345, 3
+4, nice place, 0.655186, 3
+4, night, 0.692164, 5
+4, time, 0.614382, 5
+4, Greek flatbread salad, 0.810636, 6
+4, potato skins, 0.657996, 6
+4, honey bbq wings, 0.98705, 7
+4, chicken Ceasar Salad, 0.80248, 7
+4, good family place, 0.836644, 8
+4, good portion size, 0.813939, 8
+4, Consistently good food, 0.824347, 9
+4, good place, 0.740912, 9
+5, Chip Cookie Sundae, 0.942303, 0
+5, Danika, 0.51464, 0
+5, great recommendations, 0.647871, 6
+5, large dinning area, 0.821396, 7
+5, fun peoples, 0.65441, 7
+5, Best wings, 0.658196, 8
+5, Great sliders, 0.650178, 8

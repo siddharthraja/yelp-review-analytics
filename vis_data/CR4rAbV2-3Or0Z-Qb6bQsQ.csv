@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+2, live Alternative rock, 0.717151, 0
+2, partial wine samples, 0.714047, 0
+2, mediocre wine, 0.573562, 1
+2, pure let, 0.563329, 1
+2, bad bad experience, 0.746349, 2
+2, wine tasting bar, 0.696713, 2
+2, nice classy place, 0.662675, 3
+2, night, 0.601989, 3
+2, wine tasting, 0.954507, 5
+2, wine tasting card, 0.756872, 6
+2, wine glasses, 0.59473, 6
+2, good ambiance, 0.54295, 7
+2, Decent selection, 0.550238, 8
+2, gal pal, 0.573411, 9
+2, return visit, 0.571865, 9
+3, various enomatic wine, 0.657161, 0
+3, wine stations, 0.628894, 0
+3, Extremely overpriced appetizers, 0.588534, 1
+3, good bouquet, 0.51998, 1
+3, Hostile Grape well., 0.628685, 2
+3, expensive bottle, 0.600005, 2
+3, card, 0.556431, 3
+3, tasting dispensers, 0.543058, 3
+3, wine, 0.980953, 5
+3, wine cellar, 0.821938, 5
+3, Hostile Grape, 0.734559, 6
+3, wines, 0.585675, 6
+3, Complimentary Wine Tasting, 0.750898, 7
+3, huge wine lover, 0.680721, 7
+3, beautiful place, 0.619913, 8
+3, main casino floor, 0.611876, 8
+3, nice upscale lounge, 0.571336, 9
+4, wine tasting stations, 0.609991, 0
+4, little wine bar, 0.597562, 0
+4, new wine, 0.566366, 1
+4, wine knowledge, 0.564373, 1
+4, complimentary wine tasting, 0.590931, 2
+4, Hostile Grape employees, 0.578719, 2
+4, live music, 0.576184, 3
+4, wine tasting, 0.643693, 4
+4, hostile grape, 0.974426, 5
+4, wine, 0.871536, 5
+4, place, 0.68349, 6
+4, free wine, 0.582646, 6
+4, wine bar, 0.639262, 7
+4, great wine bar, 0.613151, 7
+4, great place, 0.636206, 8
+4, wine card purchase, 0.594398, 8
+4, wine cellar, 0.632579, 9
+4, wine cellar vibe, 0.599679, 9
+5, various outlying wine, 0.604023, 0
+5, best wine bar, 0.601619, 0
+5, wine bars, 0.570845, 1
+5, wine, 0.900721, 5
+5, Hostile Grape, 0.727139, 5
+5, place, 0.736284, 6
+5, wines, 0.590945, 6
+5, wine bar, 0.726762, 7
+5, Wine Credit Card, 0.642421, 7
+5, live music, 0.732968, 8
+5, Great place, 0.619791, 8
+5, A+ Fine wine, 0.598014, 9
+5, intimate wine lounge, 0.583617, 9

@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, Fail Rehab burger, 0.737573, 0
+1, average bar food, 0.592094, 0
+1, Mushroom Swiss burger, 0.725368, 1
+1, worst burger, 0.654124, 1
+1, crappy burger places, 0.788902, 2
+1, worst service experiences, 0.60394, 2
+1, service, 0.72573, 3
+1, bacon cheeseburger, 0.617181, 3
+1, burger, 0.967545, 4
+1, sweet potato tots, 0.754913, 4
+1, food, 0.756682, 5
+1, fries, 0.556823, 5
+1, Hatch Burger, 0.721259, 6
+1, burger joints, 0.662848, 6
+1, regular fries, 0.536757, 7
+1, highly rated burger, 0.773025, 8
+1, great burger, 0.680399, 8
+1, pictures Yelpers post, 0.570671, 9
+1, food look, 0.518439, 9
+2, Rehab Burger Therapy, 0.442906, 0
+2, burger places, 0.326987, 0
+2, protein-style burger, 0.345358, 1
+2, long time, 0.229493, 1
+2, mediocre burger shops, 0.391978, 2
+2, medium burger, 0.34277, 2
+2, late lunch, 0.234136, 3
+2, huge onion ring, 0.224667, 3
+2, burger, 0.916593, 4
+2, food, 0.580211, 4
+2, burgers, 0.441507, 5
+2, bacon burger, 0.384009, 5
+2, burger medium RARE, 0.372612, 6
+2, basic culinary training, 0.221749, 6
+2, Poblano Burger, 0.38666, 7
+2, Frozen burger patty, 0.359025, 7
+2, sweet potato tots, 0.720762, 8
+2, good positive note, 0.270735, 8
+3, standard cheese burger, 0.502932, 0
+3, great burger joints, 0.480177, 0
+3, outs Mac burger, 0.472645, 1
+3, burger guy, 0.465905, 1
+3, poblano burger, 0.492719, 2
+3, burger bars, 0.46395, 2
+3, bad burger, 0.484283, 3
+3, pretzel bun, 0.574081, 4
+3, good burger, 0.553217, 4
+3, burger, 0.924731, 5
+3, Rehab Burger Therapy, 0.644644, 5
+3, burger place, 0.550831, 6
+3, bbq burger, 0.495017, 6
+3, cheese burger, 0.523964, 7
+3, chili cheese burger, 0.518691, 7
+3, sweet potato tots, 0.749853, 8
+3, great burger, 0.499983, 8
+4, chile burger, 0.556714, 0
+4, chile burger photo, 0.553778, 0
+4, Poblano burger, 0.548305, 1
+4, Hangover Burger Relapse, 0.543345, 1
+4, hangover burger, 0.598346, 4
+4, burger, 0.975729, 5
+4, burgers, 0.6484, 5
+4, Rehab Burger, 0.709685, 6
+4, Rehab Burger Therapy, 0.682802, 6
+4, chili burger, 0.576041, 7
+4, gourmet burger place, 0.574162, 7
+4, sweet potato tots, 0.989244, 8
+4, burger place, 0.600884, 8
+4, great burger options, 0.558264, 9
+4, Great chill burger, 0.552336, 9
+5, turkey island burger, 0.348293, 0
+5, mushroom swiss burger, 0.342117, 0
+5, decent burger place, 0.365589, 1
+5, Burger specialty restaurants, 0.32563, 1
+5, ounce burger, 0.321973, 2
+5, massive burger, 0.320108, 3
+5, pretzel bun, 0.741267, 4
+5, pig wings, 0.464723, 4
+5, burger, 0.998301, 5
+5, Rehab Burger Therapy, 0.651831, 5
+5, old town, 0.517458, 6
+5, place, 0.507979, 6
+5, hangover burger burger, 0.476362, 7
+5, spicy ketchup, 0.441141, 7
+5, sweet potato tots, 0.850932, 8
+5, great service, 0.40522, 8
+5, burger place ALIVE, 0.357503, 9
+5, bacon= great burger, 0.351408, 9

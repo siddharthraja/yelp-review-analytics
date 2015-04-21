@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, standard pub-style cod, 0.91418, 0
+2, drink orders, 0.778838, 0
+2, poor customer service, 0.887991, 1
+2, meat alittle bit, 0.868897, 1
+2, shepards pie, 0.9343, 2
+2, incredulous tone, 0.76984, 2
+2, server, 0.907999, 3
+2, drink preferences, 0.782599, 3
+2, veggie sandwich, 0.918028, 4
+2, table, 0.79847, 5
+2, beers, 0.66035, 5
+2, live music, 0.951387, 6
+2, Friday night, 0.931441, 6
+2, blonde female bartender, 0.886892, 7
+2, pub fare, 0.780377, 7
+2, specialty burger, 0.778311, 8
+2, grocery store, 0.757662, 8
+3, buffalo chick tenders, 0.800501, 0
+3, french dip sandwiches, 0.785071, 0
+3, servers fault, 0.633705, 1
+3, little flavor, 0.616705, 1
+3, star place, 0.591321, 2
+3, kitchen, 0.44036, 2
+3, Friday night, 0.916363, 3
+3, Friday night crowd, 0.777377, 3
+3, area, 0.438925, 4
+3, McHales, 0.438875, 4
+3, bacon cheese fries, 0.806998, 6
+3, spinach artichoke, 0.633011, 6
+3, totally different restaurant, 0.756021, 7
+3, local craft brews, 0.751258, 7
+3, drink order, 0.626977, 8
+3, nice patio, 0.586702, 8
+3, Tuesday lunch crowd, 0.768279, 9
+3, fantastic pub, 0.592918, 9
+4, beer snob, 0.73929, 0
+4, Irish Spring Rolls, 0.666939, 0
+4, bigger cities, 0.546482, 1
+4, late-night bars, 0.544617, 1
+4, good beer drinkers, 0.770417, 2
+4, bad beer drinkers, 0.753428, 2
+4, good time heck, 0.74701, 3
+4, town visitors, 0.58264, 3
+4, beer, 0.906059, 5
+4, fried egg, 0.729689, 6
+4, place, 0.59126, 6
+4, beer club, 0.704133, 7
+4, free beer, 0.59123, 7
+4, great local bar, 0.703871, 8
+4, beer list, 0.703665, 8
+4, good friendly atmosphere, 0.739484, 9
+4, pub food, 0.598301, 9
+5, beer drinker, 0.556863, 3
+5, props, 0.297361, 6
+5, Guinness chili nachos, 0.981096, 7
+5, friend, 0.286833, 7
+5, favorite nachos, 0.677328, 8
+5, love, 0.255972, 8

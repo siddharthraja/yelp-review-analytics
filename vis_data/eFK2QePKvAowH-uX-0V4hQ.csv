@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, gay country dance, 0.673241, 0
+1, average bank deposit, 0.661994, 0
+1, huge mistake, 0.649185, 1
+1, Rubens Contreras  behavior, 0.641805, 1
+1, dance floor way, 0.678462, 2
+1, Ruben Contreras, 0.651256, 2
+1, bar, 0.788211, 3
+1, dance floor etiquette, 0.664413, 3
+1, place, 0.809393, 4
+1, cover charge, 0.701811, 4
+1, dance floor, 0.946363, 5
+1, light rail, 0.664388, 6
+1, west coast swing, 0.646491, 6
+1, totally fun Event, 0.65281, 7
+1, rude doorman, 0.596676, 7
+1, Sexiest place, 0.600697, 8
+2, Large dance floor, 0.883843, 0
+2, inconsistent music, 0.82733, 0
+2, gay cowboy bar, 0.915739, 1
+2, Disneyland Country Bear, 0.898879, 1
+2, volleyball courts, 0.902431, 2
+2, dance floor, 0.901154, 2
+2, good time, 0.963538, 3
+2, landmark gay bars, 0.902067, 3
+2, country music, 0.983336, 4
+2, bar, 0.972522, 4
+2, night, 0.846094, 5
+2, Generic Gay Bar, 0.926749, 6
+2, Grand Ole Opry, 0.894337, 6
+2, good place, 0.818129, 7
+2, great time, 0.813994, 7
+2, great bartender, 0.824132, 8
+2, bar area, 0.822141, 8
+2, great night, 0.816663, 9
+3, femme-ish lesbian couples, 0.859328, 0
+3, awesome carne asada, 0.85787, 0
+3, gay bar, 0.998567, 1
+3, Arizona anti-smoking law, 0.875817, 1
+3, Mmm cheap booze, 0.864548, 2
+3, best way, 0.858605, 2
+3, cat litter box, 0.87798, 3
+3, volleyball court, 0.861547, 3
+3, oversized ashtray, 0.799741, 4
+3, Charlie, 0.884782, 5
+3, Sunday afternoons, 0.882203, 5
+3, small pitchers, 0.795821, 6
+3, warm sun, 0.794017, 6
+3, fun, 0.811757, 7
+3, good friends, 0.807138, 7
+3, great music, 0.800147, 8
+3, Arizona springtime, 0.796797, 8
+4, run-down country bar, 0.721064, 0
+4, Mexican food place, 0.71256, 0
+4, biggest gay bar, 0.723478, 1
+4, Pussy LeHoot drag, 0.704119, 1
+4, gay bars, 0.817952, 2
+4, gay bar, 0.780576, 2
+4, drinks, 0.830545, 3
+4, larger gay places, 0.701811, 3
+4, good time, 0.995841, 5
+4, Charlie, 0.985661, 5
+4, outdoor area, 0.73124, 6
+4, no-attitude gay locals, 0.720268, 6
+4, dance floor, 0.847965, 7
+4, volleyball area, 0.732663, 7
+4, western nuances Charlie, 0.750475, 8
+4, good sized dance, 0.7222, 8
+4, Fun fun time, 0.730427, 9
+4, place good staff, 0.724053, 9
+5, best Country music, 0.585519, 0
+5, line dance song, 0.558366, 0
+5, cheap drinks, 0.529209, 1
+5, couple floor speakers, 0.526543, 1
+5, country bar, 0.62828, 2
+5, late night crowds, 0.543229, 2
+5, line dance instructions, 0.546716, 3
+5, rambunctious line dancing, 0.543606, 3
+5, country music, 0.909514, 4
+5, people, 0.585415, 4
+5, dance floor, 0.980543, 5
+5, gay bar, 0.739352, 5
+5, place, 0.884294, 6
+5, Charlie, 0.591513, 6
+5, drink specials, 0.738429, 7
+5, busiest gay bar, 0.589025, 7
+5, great drink, 0.626527, 8
+5, great drink specials, 0.589096, 8
+5, great drink prices, 0.575067, 9
+5, great mexican food, 0.549457, 9

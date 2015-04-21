@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+2, late shift, 0.650401, 0
+2, light food, 0.648115, 0
+2, wait staff, 0.610502, 1
+2, biggest complaint, 0.607404, 1
+2, high expectations, 0.624894, 2
+2, customer service, 0.616657, 2
+2, appetizer order, 0.623393, 3
+2, Lazy Janes, 0.609237, 3
+2, Tip Top Tavern, 0.835214, 4
+2, different restaurant, 0.60706, 6
+2, sister restaurant, 0.59289, 6
+2, fish fry, 0.838051, 7
+2, great things, 0.836793, 7
+2, fried pickles, 0.91645, 8
+2, nice outdoor patio, 0.781312, 8
+3, roasted poblano peppers, 0.93757, 0
+3, Green Chili Mac, 0.931066, 0
+3, favorite new place, 0.896443, 1
+3, Double sigh, 0.801444, 1
+3, cheese, 0.807172, 3
+3, American cheese, 0.780493, 3
+3, service, 0.681273, 4
+3, people, 0.661591, 4
+3, sharp cheddar, 0.770937, 6
+3, regular menu, 0.753997, 6
+3, Beaches Blonde beer, 0.892258, 7
+3, comfort food, 0.782766, 7
+3, solid beer list, 0.938564, 8
+3, soft elements, 0.779951, 8
+4, Tip Top Burger, 0.883375, 0
+4, charming neighborhood bar, 0.857952, 0
+4, Dogfish Head T'weason, 0.863973, 3
+4, old Tip, 0.812347, 3
+4, food, 0.84483, 4
+4, Tip Top Tavern, 0.888763, 5
+4, great little place, 0.910894, 6
+4, tip, 0.907761, 6
+4, place, 0.913007, 7
+4, burger, 0.900436, 7
+4, nice tasting ranch, 0.904753, 8
+4, nice beer selection, 0.89503, 8
+4, Lake Louie scotch, 0.829473, 9
+4, nice guy, 0.827671, 9
+5, spicy sriracha aeoli, 0.750862, 0
+5, extensive road work, 0.747481, 0
+5, cool dive bar, 0.78391, 1
+5, current Tip, 0.73966, 2
+5, old Tip, 0.738922, 2
+5, neighborhood bar, 0.718633, 3
+5, Tip Top burger, 0.71833, 3
+5, Tip, 0.794846, 5
+5, beer list, 0.844574, 6
+5, Tip Top sauce, 0.791697, 6
+5, fried pickles, 0.975041, 7
+5, fish fry, 0.848935, 7
+5, Super reasonable prices, 0.771591, 8
+5, pretty big group, 0.754251, 8
+5, outdoor patio, 0.762438, 9
+5, classic Wisconsin tavern, 0.758376, 9

@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+1, CIAA review, 0.936817, 0
+1, taste, 0.257266, 0
+1, CIAA day party, 0.856531, 1
+1, bad experience, 0.760966, 1
+1, different lines, 0.666688, 2
+1, real fun, 0.638614, 2
+1, club, 0.313323, 3
+1, place, 0.221593, 3
+1, security, 0.505732, 4
+1, group, 0.371561, 4
+1, CIAA events, 0.817774, 6
+1, right thing, 0.656822, 6
+4, sweat box, 0.857352, 0
+4, technical issues, 0.837402, 0
+4, street, 0.47678, 2
+4, tix, 0.439952, 2
+4, non weekends, 0.931664, 3
+4, bucks, 0.653282, 3
+4, good time, 0.806109, 6
+4, Crave, 0.476944, 6
+4, nice spot, 0.871441, 7
+4, hip hop/r&b, 0.813305, 7
+4, crowd, 0.4353, 8
+4, bit, 0.419485, 8

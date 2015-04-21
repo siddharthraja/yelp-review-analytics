@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+2, couple, 0.319526, 0
+2, night, 0.295588, 0
+2, event coordinators, 0.918326, 1
+2, place kind, 0.872952, 1
+2, walls, 0.308395, 3
+2, sound, 0.289153, 3
+2, nice venue, 0.855556, 7
+2, places, 0.294757, 7
+4, event coordinator, 0.561248, 0
+4, judgement, 0.440504, 0
+4, negative reviews, 0.558181, 2
+4, JG, 0.43946, 2
+4, open bar, 0.557332, 3
+4, complaint, 0.433027, 3
+4, Peculiar Rabbit, 0.689422, 5
+4, ........, 0.55753, 6
+4, boots, 0.432918, 6
+4, individual bottles, 0.557985, 7
+4, reasonable price, 0.553278, 7
+4, party, 0.754025, 8
+4, date DJ equipment, 0.705267, 8
+4, Volume Lounge, 0.945363, 9
+4, surprise Birthday party, 0.749851, 9
+5, Peculiar Rabbit, 0.882922, 6
+5, appetizers, 0.503643, 6
+5, Volume Lounge, 0.954004, 7
+5, smoother event, 0.928992, 7
+5, yummy, 0.528843, 8
+5, apps, 0.482689, 8

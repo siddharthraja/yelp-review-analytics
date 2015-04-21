@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, pastrami sandwich, 0.527812, 0
+1, cheese sandwich, 0.514382, 0
+1, dry crumbling bread, 0.508362, 1
+1, soggy fries, 0.496915, 1
+1, sandwich taste, 0.540689, 2
+1, garbage fries, 0.534207, 2
+1, undercooked fries, 0.487482, 3
+1, place, 0.453411, 3
+1, cole slaw, 0.939988, 4
+1, primanti brothers, 0.761295, 4
+1, sandwich, 0.788015, 5
+1, pittsburgh, 0.546519, 5
+1, fish sandwich, 0.557932, 6
+1, corned beef sandwich, 0.552739, 6
+1, better sandwich, 0.533787, 7
+1, better quality meat, 0.503685, 7
+1, best sandwich, 0.517848, 8
+1, homemade bread, 0.482657, 8
+1, Philly cheese steak, 0.50829, 9
+1, beloved primanti bros, 0.502996, 9
+2, better sandwich shops, 0.527487, 0
+2, average sandwich, 0.523636, 0
+2, sandwich shops, 0.535762, 1
+2, unnecessarily calorific sandwich, 0.52674, 1
+2, Primant Bros sandwich, 0.523036, 2
+2, cole slaw/fries sandwich, 0.522136, 2
+2, cole slaw, 0.556833, 3
+2, smallman street fries, 0.519342, 3
+2, sandwich, 0.90871, 4
+2, bread, 0.553764, 4
+2, fries, 0.851283, 5
+2, Primanti Brothers, 0.657847, 5
+2, corned beef sandwich, 0.5861, 6
+2, Philly steak sandwich, 0.556878, 6
+2, big sandwich, 0.539161, 7
+2, pretty big sandwich, 0.539046, 7
+3, Pittsburgh sandwich experience, 0.572699, 0
+3, Primanti Brothers sandwich, 0.568392, 0
+3, unwieldy sandwich, 0.551913, 1
+3, massive sandwich, 0.521123, 1
+3, outrageously large sandwich, 0.552836, 2
+3, good thing, 0.482631, 2
+3, salami sandwich, 0.534406, 3
+3, streetman fries, 0.519951, 3
+3, cole slaw, 0.80012, 4
+3, fries, 0.794628, 4
+3, sandwich, 0.940803, 5
+3, pittsburgh, 0.621262, 5
+3, cheese sandwich, 0.546402, 6
+3, normal sandwich, 0.54236, 6
+3, french fries, 0.558279, 7
+3, huge sandwich, 0.532817, 7
+3, popular sandwich, 0.542597, 8
+3, sandwich bread, 0.537263, 8
+3, Primanti Bros, 0.496879, 9
+3, cheese sandwiches, 0.476436, 9
+4, colossal fish sandwich, 0.272915, 0
+4, classic cheese-steak/coleslaw/fries sandwich, 0.272128, 0
+4, devour your sandwich, 0.226705, 2
+4, separate fries, 0.207373, 2
+4, Primanti Brothers, 0.789073, 4
+4, cole slaw, 0.751794, 4
+4, sandwich, 0.986163, 5
+4, fries, 0.799428, 5
+4, place, 0.334574, 6
+4, huge Pittsburgh sandwich, 0.306766, 6
+4, french fries, 0.58097, 7
+4, freshly made-to-order sandwich, 0.272372, 7
+4, great heaping sandwich, 0.352589, 8
+4, cheese sandwich, 0.284216, 8
+5, hot sausage sandwich, 0.754428, 0
+5, kielbasi sandwich, 0.688541, 0
+5, mistake Primanti Bros., 0.645488, 1
+5, primanti brothers, 0.668382, 2
+5, greasy spoon restaurant, 0.628476, 2
+5, better comfort food, 0.674296, 3
+5, artery-clogging trucker food, 0.662681, 3
+5, primanti, 0.82851, 4
+5, Fresh-made sandwich, 0.666306, 4
+5, sandwich, 0.979832, 5
+5, fries, 0.897883, 5
+5, pittsburgh, 0.758704, 6
+5, Cajun chicken sandwich, 0.71262, 6
+5, cole slaw, 0.868706, 7
+5, single greatest sandwich, 0.747383, 7
+5, Great place, 0.626893, 8
+5, liked weird items, 0.616548, 8
+5, best sandwich, 0.776943, 9
+5, best sandwiches, 0.727622, 9

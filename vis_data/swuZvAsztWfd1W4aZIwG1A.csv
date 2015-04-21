@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, popcorn area, 0.55704, 0
+1, actual party, 0.556484, 0
+1, bad service, 0.941614, 1
+1, ultra star cinema, 0.919618, 1
+1, sons birthday party, 0.987614, 2
+1, large bag, 0.931138, 2
+1, cup, 0.514141, 3
+1, night, 0.304433, 3
+1, dollars, 0.218485, 6
+1, guests, 0.207385, 6
+1, outcome, 0.208822, 7
+2, texas chainsaw, 0.598707, 0
+2, bowling alley, 0.554278, 0
+2, ice cream shop., 0.965365, 1
+2, doubt. movie theater, 0.920427, 1
+2, projector light bulb, 0.896154, 2
+2, major theater chain, 0.813905, 2
+2, good food, 0.52059, 8
+2, Luxe, 0.31302, 8
+3, bowling alley, 0.90223, 0
+3, fried portabello, 0.795296, 0
+3, good servers, 0.778204, 2
+3, favorite place, 0.775602, 2
+3, separate yelp location, 0.917934, 3
+3, Luxe Lounge review, 0.894801, 3
+3, star class, 0.915287, 6
+3, free. star class, 0.910885, 6
+3, studio movie grill, 0.940203, 7
+3, free movie nights, 0.890465, 7
+3, great place, 0.927117, 8
+3, good time, 0.921228, 8
+3, good quality, 0.78166, 9
+3, nice auditorium, 0.763446, 9
+4, night life entertainment, 0.751752, 0
+4, *Odd movie times, 0.750751, 0
+4, sports bar, 0.724791, 1
+4, decent Foos-Ball scenario, 0.744692, 2
+4, stop entertainment shop, 0.732017, 2
+4, laser tag arena, 0.846935, 3
+4, star class auditoriums, 0.743921, 3
+4, laser tag, 0.857871, 4
+4, star class, 0.845062, 5
+4, food, 0.930639, 6
+4, movie theater, 0.928643, 6
+4, place, 0.80376, 7
+4, state-of-the-art movie theater, 0.772114, 7
+4, Luxe Lounge, 0.845478, 8
+4, good mooding spaces, 0.77377, 8
+4, good food, 0.739966, 9
+4, Southern valley ^_^, 0.723288, 9
+5, big 12-screen Theater, 0.781747, 0
+5, slower Sunday afternoon, 0.747912, 0
+5, movie theatre, 0.675172, 2
+5, lowest prices, 0.660278, 2
+5, laser tag, 0.878741, 6
+5, bowling birthday party, 0.82832, 6
+5, class movie theaters, 0.935903, 7
+5, high class movie, 0.934584, 7
+5, multi-tainment center, 0.769401, 8
+5, new multi-tainment center, 0.74933, 8
+5, birthday party options, 0.754309, 9
+5, nice theater, 0.667631, 9

@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, sour vinegar, 0.833566, 0
+1, good things, 0.827405, 0
+1, redeeming factor, 0.817287, 1
+1, starters, 0.5736, 1
+1, negative reviews, 0.819491, 2
+1, price tag, 0.779621, 2
+1, seasoned fate, 0.830387, 3
+1, previous people, 0.82609, 3
+1, seasonal veg, 0.997433, 6
+1, roast potatoes, 0.849253, 6
+1, ideal meal, 0.823178, 8
+2, tiny fucking slice, 0.877341, 0
+2, good things, 0.566533, 0
+2, unnecessary mark, 0.59774, 1
+2, rekorderlig cost, 0.557847, 1
+2, thanks, 0.382597, 2
+2, Fountain, 0.370339, 2
+2, post bowling pint, 0.986869, 6
+2, banoffee pie, 0.569471, 6
+2, balanced bar, 0.589443, 8
+2, Tons, 0.380779, 8
+2, fairly meager selection, 0.909327, 9
+2, place, 0.386999, 9
+3, fountain park complex, 0.896639, 0
+3, Caley Sample Room, 0.837731, 0
+3, blah blah blah, 0.832356, 2
+3, relatively quiet bar, 0.829312, 2
+3, Yelp Movie Night, 0.848789, 3
+3, previous pub incarnation, 0.843353, 3
+3, fountain, 0.99579, 5
+3, bar, 0.846256, 5
+3, menu, 0.835877, 6
+3, hmm cauliflour sauce, 0.833656, 6
+3, old light bulbs, 0.827451, 7
+3, super friendly staff, 0.818237, 7
+3, decent Sunday Roast, 0.904528, 8
+3, pretty high hopes, 0.832837, 8
+3, Sunday specials menu, 0.823331, 9
+4, main bar area, 0.851738, 0
+4, mid sized area, 0.822959, 0
+4, usual home turf, 0.805298, 2
+4, nice blue paintjob, 0.825994, 3
+4, P.S. Bring cash, 0.808197, 3
+4, Fountain, 0.909229, 5
+4, food, 0.802887, 5
+4, good backup option, 0.834811, 6
+4, Lime Recordelig cider, 0.82017, 6
+4, sticky toffee, 0.91362, 7
+4, sticky toffee pudding, 0.899059, 7
+4, Fountain Park, 0.853638, 8
+4, Best pub pie, 0.832436, 8
+4, delicious smelling pies, 0.834337, 9
+4, cute flower pot, 0.814956, 9
+5, old school chairs, 0.931881, 0
+5, Golden Syrup pots, 0.915329, 0
+5, big bar, 0.82911, 2
+5, girly blether, 0.84265, 3
+5, redone Fountain, 0.841593, 3
+5, place, 0.87836, 5
+5, bar, 0.874808, 5
+5, glass tea cups, 0.902879, 6
+5, oldman pub, 0.831253, 6
+5, posh hard wood, 0.950859, 7
+5, beautiful light colours, 0.931, 7
+5, glossy bold colours, 0.922623, 8
+5, Blue Moon beer, 0.913324, 8
+5, Fountain Park area, 0.945807, 9
+5, girly dinner night, 0.92035, 9

@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, strip steak, 0.763216, 0
+1, peppercorn strip steak, 0.760873, 0
+1, bad steak house, 0.737725, 1
+1, cold plates. service, 0.68687, 1
+1, Valet service, 0.623757, 2
+1, new Flemming, 0.604759, 2
+1, filet mignon, 0.618467, 3
+1, 30-40 mins, 0.605615, 3
+1, steak house, 0.959362, 4
+1, prime rib, 0.874241, 4
+1, time, 0.668062, 5
+1, wife, 0.60514, 5
+1, REAL steak house, 0.74281, 6
+1, rare steak, 0.715295, 6
+1, better service, 0.701221, 7
+1, Cajun shrimp appetizer, 0.682666, 7
+1, end steak house, 0.775432, 8
+1, Mac n cheese, 0.678897, 8
+1, good service, 0.615322, 9
+1, good food, 0.597744, 9
+2, filet mignon, 0.639412, 0
+2, Main Filet Mignon, 0.633807, 0
+2, bad steak ruin, 0.675349, 1
+2, lamb chops, 0.645987, 1
+2, steak fiasco, 0.635411, 2
+2, USDA Prime filet, 0.633412, 2
+2, dining room, 0.652503, 3
+2, big holiday party, 0.628437, 3
+2, prime rib, 0.802649, 4
+2, food, 0.68948, 4
+2, steak, 0.938946, 5
+2, wine, 0.712747, 5
+2, big deal, 0.684384, 6
+2, good steak, 0.653445, 6
+2, lobster tails, 0.748346, 7
+2, crab cakes, 0.688479, 7
+2, USDA Prime steak, 0.705496, 8
+2, sizzling steak, 0.643675, 9
+2, feta cheese butter, 0.615272, 9
+3, good steak houses, 0.691413, 0
+3, uppity steak restaurant, 0.684899, 0
+3, good service, 0.609293, 1
+3, crab cake appetizer, 0.605489, 1
+3, half eaten steak, 0.674609, 2
+3, new steak house, 0.663421, 3
+3, food, 0.643516, 3
+3, rib eye, 0.820793, 4
+3, service, 0.816685, 4
+3, steak, 0.981446, 5
+3, prime rib, 0.72454, 5
+3, steak house, 0.762459, 6
+3, filet mignon, 0.716883, 6
+3, chocolate lava cake, 0.831289, 7
+3, steak houses, 0.704095, 7
+3, Steak House restaurants, 0.669871, 8
+3, out-of-this world steak, 0.66229, 8
+4, filet mignon trio, 0.719251, 0
+4, sliced filet mignon, 0.702422, 0
+4, RUBBED FILET MIGNON, 0.712227, 2
+4, chocolate lava cake, 0.852206, 3
+4, filet mignon, 0.977679, 4
+4, Las Vegas, 0.79498, 4
+4, Fleming, 0.817445, 5
+4, steak, 0.775589, 5
+4, food, 0.820939, 6
+4, service, 0.815121, 6
+4, petite filet mignon, 0.834508, 7
+4, mushroom ravioli, 0.739368, 7
+4, good food, 0.71882, 8
+4, customer service, 0.70819, 8
+4, dining experience, 0.713223, 9
+4, pretty good food, 0.711556, 9
+5, night steak outings, 0.611068, 0
+5, outback steak house, 0.608521, 0
+5, Prime Rib Special, 0.639251, 1
+5, Sunday Prime Rib, 0.645866, 2
+5, bar area, 0.612404, 3
+5, Fleming potatoes, 0.598588, 3
+5, fleming, 0.812892, 4
+5, prime rib dinner, 0.698092, 4
+5, prime rib, 0.980235, 5
+5, filet mignon, 0.92099, 5
+5, steak, 0.831983, 6
+5, onion rings, 0.653289, 6
+5, petite filet mignon, 0.733593, 7
+5, las vegas, 0.631753, 7
+5, food, 0.719621, 8
+5, great customer service, 0.704324, 8
+5, great meal, 0.639996, 9
+5, amazing tasting steak, 0.624682, 9

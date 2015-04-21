@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, good hand, 0.580296, 0
+2, Bummer, 0.46592, 0
+2, stools, 0.450199, 1
+2, Fever Tree Tonic, 0.939479, 2
+2, yelp search, 0.657057, 2
+2, Palms, 0.44671, 3
+2, place, 0.519132, 5
+2, red candelabra centerpiece, 0.803603, 6
+2, Bombay Sapphire East, 0.780036, 6
+2, vodka flight, 0.597136, 7
+3, cherry drink options, 0.843888, 0
+3, vermilion appeal, 0.658866, 0
+3, cardinal guy, 0.623191, 2
+3, size, 0.406603, 2
+3, scarlet bar, 0.993671, 3
+3, smallest bars, 0.687857, 3
+3, sexy red dress, 0.953487, 6
+3, female cochineal, 0.619551, 6
+3, craft cocktail, 0.976941, 7
+3, elevated craft cocktail, 0.907794, 7
+3, wider variety, 0.595861, 8
+3, bottles, 0.353139, 8
+4, Scarlet G&T, 0.663548, 0
+4, quality craft cocktails, 0.640439, 0
+4, unnoticeable door, 0.479147, 1
+4, Palms Pool, 0.465889, 1
+4, Wheelchair access, 0.457353, 2
+4, red accented lighting, 0.661646, 6
+4, Bombay Sapphire East, 0.62931, 6
+4, Scarlet Bar, 0.969117, 7
+4, well-made drink, 0.705916, 7
+4, intimate 6-seat bar, 0.680386, 8
+4, Ivory Tower elevators, 0.655983, 8
+4, Southeast Asian cuisine, 0.620967, 9
+4, infused spices, 0.59002, 9
+5, edible chocolate cup, 0.827087, 0
+5, amazing drink, 0.702219, 0
+5, small bar, 0.692305, 1
+5, little gem, 0.654612, 1
+5, tiny little bar, 0.79238, 2
+5, Scarlet Bar, 0.695559, 2
+5, hand, 0.582412, 3
+5, center bar, 0.68439, 4
+5, drinks, 0.909534, 6
+5, mango chile-infused vodka, 0.84806, 6
+5, good specialty cocktail, 0.77914, 7
+5, decadent mix, 0.688082, 7
+5, N9NE Steakhouse, 0.81379, 8
+5, pop rock shots, 0.803444, 8
+5, AWESOMELY DELICIOUS drink, 0.905939, 9
+5, fantastic bartender Daniel, 0.849726, 9

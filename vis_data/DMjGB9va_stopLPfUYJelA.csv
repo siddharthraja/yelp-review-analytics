@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, slow service, 0.831025, 0
+1, Saturday afternoon, 0.83009, 0
+1, Paper towel dispenser, 0.961779, 1
+1, Saturday night crowd, 0.931378, 1
+1, place, 0.971483, 2
+1, corned beef, 0.969522, 2
+1, St. Patty, 0.805979, 3
+1, huge disappointment, 0.801112, 3
+1, server, 0.681303, 4
+1, food, 0.963094, 5
+1, order appetizer, 0.81362, 6
+1, Sticky table, 0.811266, 6
+1, entire order, 0.804447, 7
+1, drinks, 0.737304, 7
+1, ambiance, 0.650824, 8
+2, good Irish pub, 0.6303, 0
+2, pie night, 0.587973, 0
+2, food order, 0.527196, 1
+2, awful watery, 0.5024, 1
+2, Irish Car bombs, 0.59469, 2
+2, traditional Irish pub, 0.581928, 2
+2, traditional Irish food, 0.631773, 3
+2, amazing Irish dishes, 0.55724, 3
+2, food, 0.787456, 4
+2, cheese, 0.523148, 4
+2, irish pub, 0.943889, 5
+2, menu items, 0.569662, 5
+2, grandfathers 80th bday, 0.54487, 6
+2, food progress, 0.5128, 6
+2, pot pie, 0.651672, 7
+2, chicken pot pie, 0.586056, 7
+2, better Irish pub, 0.594432, 8
+2, great location, 0.559991, 8
+2, nice young bartender, 0.569787, 9
+3, real Irish pub, 0.698229, 0
+3, American sports bar, 0.672944, 0
+3, Irish pub, 0.868366, 2
+3, Loaded Pub Chips, 0.768785, 2
+3, love hate relationship, 0.647042, 3
+3, food, 0.84733, 4
+3, bread pudding, 0.723842, 4
+3, drinks, 0.709129, 5
+3, bar, 0.69813, 5
+3, place, 0.742722, 6
+3, Claddagh, 0.685788, 6
+3, Goat Cheese Salad, 0.90278, 7
+3, nice place, 0.671097, 7
+3, pub fries, 0.666642, 8
+3, nice outdoor seating, 0.661401, 8
+3, excellent balsamic vinaigrette, 0.65592, 9
+3, tap beer selection, 0.644453, 9
+4, Onion soup, 0.885376, 0
+4, Pittsburgh hockey game, 0.879493, 0
+4, dark beer, 0.805867, 1
+4, good pub fare, 0.884863, 2
+4, menu many times, 0.81545, 2
+4, late night attempts, 0.874566, 3
+4, Tuesday pint night, 0.86733, 3
+4, boneless wings, 0.972335, 5
+4, food, 0.859663, 5
+4, good time, 0.874054, 6
+4, genuine Irish folks, 0.86318, 6
+4, Black Velveteen, 0.890643, 7
+4, Great Irish music, 0.887394, 7
+4, great place, 0.942432, 8
+4, beer selection, 0.927278, 8
+4, pretty awesome beer, 0.89186, 9
+4, great time, 0.815304, 9
+5, best chicken tenders, 0.685452, 0
+5, everyday Cheesecake Factory., 0.617755, 0
+5, long time, 0.537304, 1
+5, Irish car bombs, 0.667262, 2
+5, Bloody Mary bar, 0.629168, 2
+5, southside area, 0.56044, 3
+5, chicken tenders, 0.908805, 4
+5, claddagh, 0.554082, 4
+5, Southside Works, 0.657762, 6
+5, Irish Breakfast, 0.569396, 6
+5, Irish themed sports, 0.696038, 7
+5, delicious Irish food, 0.662982, 7
+5, beer selection, 0.787129, 8
+5, good food, 0.666531, 8
+5, traditional Irish decor, 0.634668, 9
+5, great beer, 0.562955, 9

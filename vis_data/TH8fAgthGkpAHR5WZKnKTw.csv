@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, pint glasses, 0.900855, 0
+2, quick pint, 0.8939, 0
+2, initial review, 0.915142, 1
+2, cardboard boxes, 0.833486, 1
+2, bar, 0.868794, 2
+2, recent visits, 0.844096, 2
+2, impression, 0.570326, 3
+2, customers, 0.56464, 3
+2, good things, 0.801788, 6
+2, promise, 0.566328, 6
+2, previous list, 0.91028, 7
+2, fresh glasses, 0.85836, 7
+2, booze, 0.577214, 8
+3, wooden shed door, 0.716059, 0
+3, quirkily decorated space, 0.700362, 0
+3, dimly lighted atmosphere, 0.732552, 1
+3, personal favourite style, 0.650232, 1
+3, torn betwen, 0.537649, 2
+3, Friday night, 0.659444, 3
+3, bar lunch, 0.552644, 3
+3, Potting Shed, 0.929145, 5
+3, menu, 0.562759, 5
+3, food, 0.597559, 6
+3, bar, 0.558721, 6
+3, Hanging Bat, 0.888141, 7
+3, tender chicken pieces, 0.673062, 7
+3, beer selection, 0.656534, 8
+3, staff, 0.57629, 8
+3, lovely place, 0.556025, 9
+3, gardening theme, 0.543813, 9
+4, cocktail quaffing clientele, 0.772936, 0
+4, home-made nettle soup, 0.768599, 0
+4, late night kebab, 0.774478, 2
+4, soft drinks, 0.760588, 2
+4, hot little numbers, 0.784368, 3
+4, onion bah-gees, 0.69596, 3
+4, standard pub fare, 0.737082, 6
+4, place, 0.723312, 6
+4, Potting Shed, 0.916405, 7
+4, roast chicken dinner, 0.785447, 7
+4, wide range, 0.799207, 8
+4, sticky toffee pud, 0.756449, 8
+4, pretty decent slice, 0.748393, 9
+4, shed theme, 0.745857, 9

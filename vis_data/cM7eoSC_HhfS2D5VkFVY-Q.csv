@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, worst craft beer, 0.720116, 0
+1, pretty sick patio, 0.710477, 0
+1, crappy breakfast burrito, 0.723179, 1
+1, crappy place, 0.588237, 1
+1, BBQ sauce, 0.755003, 2
+1, Simple bar food, 0.746812, 2
+1, fried onions, 0.739761, 3
+1, amber beer, 0.570991, 3
+1, ........., 0.983689, 4
+1, craft beer, 0.863282, 4
+1, Amazon Local deal, 0.673957, 6
+1, brown hair, 0.568731, 6
+1, BBQ Bacon Cheese, 0.770084, 7
+1, local craft beer, 0.722222, 7
+2, Sun Devil Stadium, 0.616513, 0
+2, light rail stop, 0.612934, 0
+2, terrible ones, 0.480387, 1
+2, star, 0.356321, 1
+2, Sorry Mad Hatters, 0.643297, 2
+2, lackluster pizza, 0.503047, 2
+2, pumpkin pie vodka, 0.843375, 3
+2, pie vodka drink, 0.601427, 3
+2, place, 0.639799, 4
+2, Dear foodies, 0.483361, 6
+2, good location, 0.478537, 6
+2, special topping, 0.913022, 7
+2, Electric Dave, 0.677038, 7
+2, nice patio, 0.481107, 9
+3, simple changes, 0.732805, 0
+3, interesting underwear, 0.73275, 0
+3, ASU Sun Devil, 0.892908, 1
+3, Little bar, 0.713695, 1
+3, main drag, 0.694181, 2
+3, Greenday, 0.550112, 2
+3, underwear run, 0.902228, 3
+3, normal conditions, 0.853592, 3
+3, Billie Joe, 0.71053, 4
+3, nose ring, 0.706226, 4
+3, hummus plate, 0.744415, 6
+3, formally Dave, 0.740545, 6
+3, decent option, 0.733169, 7
+3, bar tenders, 0.728158, 7
+3, long day/week/hour/meeting, 0.71592, 8
+3, great view, 0.712069, 8
+4, cornhole game, 0.585269, 0
+4, nice bar, 0.516864, 0
+4, long skinny place, 0.734787, 3
+4, stars, 0.295642, 3
+4, Mad Hatter, 0.976806, 5
+4, large patio, 0.507282, 6
+4, live music, 0.484345, 6
+4, Huge props, 0.491374, 7
+4, quick beer, 0.483716, 7
+4, great ambiance, 0.511817, 8
+4, Bud lights, 0.481806, 8
+4, Mad Hatter Brew, 0.806799, 9
+4, nice patio, 0.524811, 9
+5, flatbread pizza, 0.803807, 8
+5, great indoor/outdoor space, 0.978059, 9
+5, TVs, 0.494032, 9

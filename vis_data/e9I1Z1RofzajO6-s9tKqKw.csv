@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, different menu items, 0.789019, 0
+1, Obnoxious sports fans, 0.763849, 0
+1, worse place, 0.625541, 1
+1, topping, 0.451482, 1
+1, customer service, 0.802562, 2
+1, family oriented place, 0.776947, 2
+1, pizza hut..or dominoes, 0.927556, 3
+1, dry dry dry, 0.862433, 3
+1, place, 0.855319, 4
+1, delivery, 0.476063, 4
+1, pizza, 0.941642, 5
+1, Curly fries, 0.605786, 6
+1, drive-thrus, 0.453906, 6
+1, Phoenix favorite pizza, 0.924756, 7
+1, Honey BBQ wings, 0.831522, 7
+1, real restaurant, 0.583078, 8
+1, nice meal, 0.582275, 8
+1, Chunky sauce, 0.616539, 9
+2, New York Pizza, 0.774154, 0
+2, Defense free businesses, 0.693908, 0
+2, poor food, 0.603356, 1
+2, free food, 0.602206, 1
+2, NY pizza, 0.688258, 2
+2, little flavor, 0.620406, 2
+2, garlic knots, 0.845963, 3
+2, food, 0.721414, 3
+2, time, 0.668994, 4
+2, pizza, 0.996879, 5
+2, manager, 0.570423, 5
+2, new places, 0.618999, 6
+2, card board, 0.604747, 6
+2, Meatball Sub, 0.621482, 7
+2, drink, 0.548285, 7
+2, Style Pizza lunch, 0.826936, 8
+2, good sauce, 0.629474, 8
+3, pizza crust, 0.744322, 0
+3, correct order, 0.643, 0
+3, little sports bar, 0.732267, 1
+3, biggest disappointment, 0.662434, 1
+3, grab ass, 0.645145, 2
+3, time, 0.652683, 3
+3, garlic bread, 0.652296, 3
+3, kitchen, 0.548348, 4
+3, pizza, 0.978034, 5
+3, half pepperoni pizza, 0.860178, 6
+3, garlic cheese bread, 0.754429, 6
+3, nice size crowd, 0.736821, 7
+3, garlic butter, 0.636599, 7
+3, attentive waitress, 0.655422, 8
+3, casual atmosphere, 0.641226, 8
+3, Good pizza, 0.790952, 9
+3, marinara sauce, 0.637891, 9
+4, greasy pizza, 0.511034, 0
+4, Litchfield Park area, 0.336047, 0
+4, usual reality TV, 0.317668, 1
+4, football games, 0.222852, 1
+4, Golden Spicy sauce, 0.324214, 2
+4, different mess, 0.229516, 2
+4, greasy mess, 0.250505, 3
+4, little more hardiness, 0.213478, 3
+4, pizza, 0.959136, 5
+4, wings, 0.348532, 5
+4, York style pizza, 0.817962, 6
+4, bomber monster pizza, 0.63893, 6
+4, good pizza, 0.613165, 7
+4, solid pizza choice, 0.600524, 7
+4, large pizza shops, 0.595309, 8
+4, great pizza, 0.485841, 8
+4, good drink specials, 0.339423, 9
+4, amazing drink specials, 0.327078, 9
+5, York small chain, 0.687136, 0
+5, white slices, 0.591185, 0
+5, New York pizza, 0.953668, 1
+5, AZ, 0.432864, 1
+5, pizza, 0.972041, 4
+5, good New York, 0.963049, 4
+5, white slice fix, 0.737094, 6
+5, best Ive, 0.590938, 6
+5, garden pizza, 0.817449, 7
+5, ny pizza, 0.791932, 7
+5, pepperoni pizza, 0.921668, 8
+5, Great pizza, 0.805589, 8
+5, special surprise, 0.569796, 9
+5, lunch special, 0.568193, 9

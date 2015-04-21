@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, worst service, 0.758398, 0
+1, bartender, 0.50344, 0
+1, worst PTs, 0.774574, 1
+1, twice my order, 0.683035, 1
+1, sarcastic comment, 0.732099, 2
+1, tip, 0.570476, 2
+1, night bar tender, 0.902355, 3
+1, skinny dude, 0.723505, 3
+1, awesome love, 0.696584, 7
+1, Cool people, 0.685784, 7
+2, food quality, 0.658203, 0
+2, waitress, 0.477493, 0
+2, mug, 0.458736, 1
+2, Service, 0.449026, 1
+2, Standard bar fare, 0.78294, 2
+2, norm, 0.462026, 2
+2, in-store materials, 0.631629, 3
+2, specials, 0.442978, 3
+2, Decent daily HH, 0.921794, 6
+2, hood, 0.452401, 6
+2, potato soup, 0.655418, 7
+2, car key, 0.614797, 7
+2, Medium buffalo sauce, 0.801771, 8
+2, curly fries, 0.646899, 8
+3, better non-smoking locations, 0.99393, 0
+3, rest, 0.262985, 1
+3, bar, 0.366887, 2
+3, typical PT, 0.825765, 7
+3, drinks, 0.258164, 7
+3, attentive our waitress, 0.776657, 9
+3, large party, 0.626304, 9
+4, Buffalo wings, 0.710693, 0
+4, overwhelming smell, 0.633491, 0
+4, tap- Ice cold, 0.799229, 1
+4, Coors Light, 0.637079, 1
+4, Super Bowl game, 0.809287, 2
+4, Good Food, 0.629938, 2
+4, super bowl, 0.996238, 4
+4, good substitute, 0.613771, 6
+4, *AYCE sliders, 0.610813, 6
+4, pool tables, 0.76598, 7
+4, video poker machines, 0.724653, 7
+4, awesome party buckets, 0.776325, 8
+4, Super cool dude, 0.75404, 8
+4, Pretty good deals, 0.791359, 9
+4, Garlic Parmesan flavor, 0.789458, 9
+5, chicken buckets, 0.59104, 0
+5, case, 0.202637, 0
+5, occasional asshat, 0.579172, 1
+5, bar afterall, 0.531434, 1
+5, neighborhood bar theme, 0.83493, 2
+5, parent, 0.210673, 2
+5, food, 0.289333, 5
+5, fireplace, 0.221293, 6
+5, beers, 0.202672, 6
+5, cool dudes, 0.671195, 7
+5, Strip-type establishment, 0.595626, 7
+5, cool neighborhood spot, 0.951711, 8
+5, delicious drink, 0.667589, 8
+5, best bartender, 0.556923, 9
+5, BEST drinks, 0.548349, 9

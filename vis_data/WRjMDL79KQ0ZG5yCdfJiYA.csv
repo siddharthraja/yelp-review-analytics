@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, customer service, 0.641031, 0
+1, customer service skills, 0.619044, 0
+1, service, 0.733884, 1
+1, Good riddance BWWS, 0.583395, 1
+1, food, 0.846472, 2
+1, server cause, 0.448328, 2
+1, booth half table, 0.618801, 3
+1, young man, 0.487014, 3
+1, drink order, 0.902984, 4
+1, time, 0.677673, 4
+1, Buffalo Wild Wings, 0.608047, 6
+1, one-on-one time, 0.469216, 6
+1, positive note, 0.482522, 7
+1, game time, 0.476575, 7
+1, avid customers, 0.47167, 8
+1, Thanks Aaron, 0.461663, 8
+1, complimentary meal, 0.468381, 9
+1, melanie, 0.415083, 9
+2, food good- yeah, 0.66087, 0
+2, mango habenero wings, 0.625095, 0
+2, stupid loud music, 0.793186, 1
+2, excessive loud music, 0.642776, 1
+2, BWW, 0.754372, 2
+2, server, 0.683013, 2
+2, loud music, 0.881109, 3
+2, good- nope, 0.539112, 3
+2, food, 0.920936, 4
+2, wings, 0.7369, 4
+2, beer, 0.573661, 5
+2, captains, 0.533771, 5
+2, Good food, 0.552702, 6
+2, location, 0.531447, 6
+2, drink orders, 0.635647, 7
+2, Likes bdubs food, 0.606934, 7
+2, wonderful chat time, 0.625318, 8
+2, extra couple miles, 0.586404, 8
+3, boneless hot wings, 0.685861, 0
+3, hot buffalo wings, 0.674042, 0
+3, chicken wrap, 0.581421, 2
+3, Good place, 0.554455, 2
+3, staple menu item, 0.623212, 3
+3, Buffalo Wild Wing, 0.617328, 3
+3, service, 0.64928, 4
+3, place, 0.560904, 4
+3, wings, 0.941104, 5
+3, food, 0.756383, 5
+3, Thai curry wings, 0.717371, 6
+3, Buffalo Wild Wings, 0.694137, 6
+3, decent beer selection, 0.635959, 7
+3, pretty decent specials, 0.617477, 7
+3, decent menu selection, 0.611154, 8
+3, onion rings, 0.605962, 8
+3, quick response time, 0.62137, 9
+3, Pullanos wings, 0.617868, 9
+4, Wings Service Average, 0.566819, 0
+4, typical sports bar, 0.519286, 0
+4, little above average, 0.47043, 1
+4, big screen, 0.46371, 1
+4, boneless wings, 0.502513, 2
+4, sports bar, 0.522435, 3
+4, mild sauce, 0.470594, 3
+4, game, 0.475106, 4
+4, options, 0.425067, 5
+4, food- friggin, 0.471627, 6
+4, right away,everyone, 0.459335, 6
+4, buffalo wild wings, 0.950568, 7
+4, chicken sandwich, 0.534046, 7
+4, great price, 0.464509, 8
+4, quality food, 0.462301, 8
+4, great beer selection, 0.522594, 9
+4, different flavors, 0.468393, 9
+5, different channels, 0.446062, 0
+5, quiet time, 0.435457, 0
+5, bar type environment, 0.6562, 1
+5, type sports bar, 0.654272, 1
+5, sports bar, 0.953322, 2
+5, bar area, 0.452924, 2
+5, previous experiences, 0.423316, 3
+5, refills, 0.243042, 3
+5, stars, 0.281523, 4
+5, place, 0.462426, 5
+5, drink, 0.294525, 5
+5, food, 0.540938, 6
+5, Rock music, 0.442795, 6
+5, Buffalo Wild Wings, 0.892135, 7
+5, fun trivia games, 0.649788, 7
+5, Best BWW location, 0.608068, 8
+5, good food, 0.42355, 8
+5, Super freindly staff, 0.570542, 9
+5, enjoyable atmosphere, 0.420256, 9

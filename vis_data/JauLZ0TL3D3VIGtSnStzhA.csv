@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, sports bar food, 0.649317, 0
+1, food order, 0.608588, 0
+1, entire lounge area, 0.603703, 1
+1, bar area, 0.603051, 1
+1, half price appetizers, 0.675947, 2
+1, bad customer service, 0.618127, 2
+1, bar, 0.668609, 3
+1, food orders, 0.628989, 3
+1, food, 0.90428, 4
+1, time, 0.733913, 4
+1, service, 0.784315, 5
+1, fried food, 0.657302, 5
+1, Sunday brunch, 0.670934, 6
+1, philly cheesesteak, 0.607077, 6
+1, good service, 0.627042, 7
+1, man door, 0.602908, 7
+1, medium rare steaks, 0.597308, 8
+1, lavish las vegas, 0.606148, 9
+1, great food, 0.604156, 9
+2, bar food, 0.632667, 0
+2, strange diner food, 0.629105, 0
+2, over-priced comfort food, 0.62335, 1
+2, yelp-based food adventure, 0.620881, 1
+2, lollipop buffalo wings, 0.742699, 2
+2, pepperoncini slivers, 0.602425, 2
+2, food, 0.934702, 3
+2, service, 0.668762, 3
+2, place, 0.676351, 4
+2, vegas, 0.628416, 4
+2, bar area, 0.65635, 5
+2, Doritos Mac, 0.602402, 5
+2, philly cheesesteak dumplings, 0.676423, 6
+2, walnut shrimp, 0.640885, 6
+2, menu items, 0.640885, 7
+2, good service experience, 0.640674, 7
+2, typical overpriced restaurant, 0.60704, 8
+2, better looking dishes, 0.605481, 8
+2, pretty good though..but, 0.622679, 9
+3, basic bar food, 0.71737, 0
+3, fast food road, 0.702196, 0
+3, greasy bar food, 0.720354, 2
+3, cheese steak potstickers, 0.696298, 3
+3, good reason, 0.681678, 3
+3, doritos mac, 0.774211, 4
+3, tater tots, 0.764769, 4
+3, food, 0.965699, 5
+3, bar, 0.778243, 5
+3, place, 0.858879, 6
+3, philly cheesesteak, 0.845114, 6
+3, cotton candy, 0.819838, 7
+3, cotton candy martini, 0.751382, 7
+3, awesome bar food, 0.726171, 8
+3, pretty good number, 0.71369, 8
+3, photo booth, 0.717167, 9
+3, Warm goat cheese, 0.680279, 9
+4, regular bar food, 0.711781, 0
+4, good bar snacks, 0.692114, 0
+4, sports bar, 0.677592, 2
+4, high quality food, 0.688026, 3
+4, order pub food, 0.680844, 3
+4, bar food, 0.733642, 4
+4, palazzo, 0.676407, 4
+4, food, 0.935691, 5
+4, lamb chops, 0.80954, 5
+4, place, 0.807879, 6
+4, late night, 0.777882, 6
+4, cotton candy, 0.961353, 7
+4, mojito lamb chops, 0.788721, 7
+4, cotton candy martini, 0.727906, 8
+4, pretzel bread, 0.720397, 8
+4, great food, 0.693903, 9
+4, nice filler food, 0.689559, 9
+5, gourmet bar food, 0.513463, 0
+5, late night menu, 0.492608, 0
+5, drunk food thing, 0.484515, 2
+5, cotton candy, 0.901541, 3
+5, good bar food, 0.525236, 3
+5, time, 0.515065, 4
+5, las vegas, 0.497928, 4
+5, food, 0.776801, 5
+5, place, 0.678901, 5
+5, philly cheesesteak dumplings, 0.637762, 6
+5, late night, 0.603869, 6
+5, cotton candy kiss, 0.690189, 7
+5, cotton candy martini, 0.676836, 7
+5, great food, 0.571552, 8
+5, philly cheese steak, 0.528848, 8
+5, great place, 0.522369, 9
+5, ok.. great place, 0.517972, 9

@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, idiot reading BINGO, 0.921894, 0
+1, bullhorn, 0.404645, 0
+1, sports bar, 0.814958, 1
+1, PA, 0.266194, 1
+1, Suns game, 0.67887, 3
+1, quarter, 0.308379, 3
+2, pork tenderloin sandwich, 0.904319, 0
+2, Thursday night special, 0.890063, 0
+2, Breast Cancer 3-Day, 0.931206, 1
+2, semi dive bar, 0.916115, 1
+2, Irish Catholic butt, 0.906013, 2
+2, monster fish frys, 0.896008, 2
+2, basic neighborhood bar, 0.912573, 3
+2, Thursday night, 0.910536, 3
+2, dive bar, 0.926893, 4
+2, bus boy, 0.766237, 4
+2, place, 0.765232, 5
+2, band, 0.729472, 5
+2, Saturday night..the lights, 0.89576, 6
+2, proverbial carrot, 0.793903, 6
+2, initial waitress, 0.824359, 7
+2, pretty fun trivia, 0.935694, 8
+2, offering outdoor seating, 0.904961, 8
+3, pre-mixed concoction, 0.604142, 0
+3, upscale, 0.450507, 0
+3, dive-y neighborhood bar, 0.825873, 2
+3, decent bar grub, 0.783222, 2
+3, great late night, 0.753276, 3
+3, Bogeys several times, 0.629862, 3
+3, kind, 0.471819, 5
+3, place, 0.781609, 6
+3, fast food, 0.598293, 6
+3, pool tables, 0.936696, 7
+3, great regular watering, 0.748425, 7
+3, nice smoking patio, 0.772844, 8
+3, drink specials, 0.59315, 8
+3, reasonably decent food, 0.782963, 9
+3, pretty decent beer, 0.767937, 9
+4, little dive bar, 0.67906, 0
+4, popular sports bars, 0.673057, 0
+4, flat panel TVs, 0.662004, 1
+4, high class dining, 0.64085, 1
+4, bar food, 0.775655, 2
+4, fried bar food, 0.758123, 2
+4, cheap drinks, 0.65221, 3
+4, neighborhood bar, 0.606752, 3
+4, Bogey, 0.89903, 5
+4, bar, 0.829271, 5
+4, place, 0.911762, 6
+4, dive bar, 0.745598, 6
+4, excellent sports bar, 0.714719, 7
+4, waffle fries, 0.678147, 7
+4, good food, 0.910582, 8
+4, surprisingly good food, 0.727694, 8
+4, tangy tartar sauce, 0.674993, 9
+4, fun special events, 0.640396, 9
+5, Best bar food, 0.806561, 0
+5, typical bar food, 0.796774, 0
+5, nearby sports bar, 0.756938, 1
+5, bar food, 0.856617, 2
+5, local neighborhood bar, 0.806179, 2
+5, w/ honey mustard, 0.717939, 3
+5, bar, 0.957472, 4
+5, sports bar, 0.894289, 4
+5, food, 0.950752, 5
+5, place, 0.876088, 6
+5, bogeys, 0.83507, 6
+5, Ninja Eating Plan, 0.913627, 7
+5, great neighborhood bar, 0.896359, 7
+5, great service, 0.75442, 8
+5, great bar, 0.753811, 8
+5, Great place, 0.73851, 9
+5, extensive beer selection, 0.737227, 9

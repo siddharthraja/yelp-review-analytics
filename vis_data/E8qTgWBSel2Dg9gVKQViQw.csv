@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, strict dress code, 0.839329, 0
+1, fine dress code, 0.820221, 0
+1, proper dress code, 0.833996, 1
+1, ridiculous cover charge, 0.807991, 1
+1, people, 0.827923, 2
+1, flip flops, 0.792715, 2
+1, dress code, 0.957996, 3
+1, all-star cashier charges, 0.806923, 3
+1, club, 0.8268, 4
+1, time, 0.743617, 4
+1, large group, 0.826208, 6
+1, wine steward eyes, 0.823428, 6
+1, great producer, 0.727638, 7
+1, dollar check, 0.714999, 7
+1, group birthday party, 0.812515, 8
+1, Conference lobby space, 0.79743, 8
+1, quick serve restaurant, 0.821947, 9
+2, velvet rope line, 0.735733, 0
+2, huge open areas, 0.726982, 0
+2, totally tacky plastic, 0.727348, 1
+2, seat section, 0.56296, 1
+2, techno trance funk, 0.696488, 2
+2, cocktail servers, 0.599786, 2
+2, personality flow, 0.557938, 3
+2, jeans, 0.507338, 3
+2, decent appetizers, 0.608352, 6
+2, open layout, 0.59093, 6
+2, Saturday night, 0.92302, 7
+2, Vegas hotspot, 0.588957, 7
+2, Amazing views, 0.594868, 8
+2, stick casino, 0.574176, 8
+2, positives, 0.435999, 9
+3, unfortunate old men, 0.882004, 0
+3, younger crowd, 0.795438, 0
+3, nice dress, 0.775221, 1
+3, little world, 0.75338, 1
+3, hop dance crap, 0.863035, 2
+3, friends birthday party, 0.860071, 2
+3, wall flower guys, 0.870399, 3
+3, table service, 0.774654, 3
+3, people, 0.843393, 4
+3, music, 0.727185, 5
+3, casino, 0.692615, 5
+3, Ocean Trail, 0.926385, 6
+3, drinks, 0.813549, 6
+3, Nice patio space, 0.939956, 7
+3, nice views, 0.79334, 7
+3, Nate Williams Band, 0.929313, 8
+3, place hopping, 0.783244, 8
+3, pretty cool nightclub, 0.905839, 9
+3, swanky restaurant, 0.774623, 9
+4, dance floor, 0.775999, 0
+4, San Daniele prosciutto, 0.700456, 0
+4, good time, 0.55568, 1
+4, late thirties, 0.687589, 2
+4, ground level, 0.540236, 2
+4, old town, 0.963424, 3
+4, sure drinks, 0.540391, 3
+4, Predominant wine regions, 0.699842, 6
+4, plush couches, 0.551883, 6
+4, Decadent belgian chocolate, 0.683608, 7
+4, balsamic ciabatta, 0.567146, 7
+4, progressive wine flights, 0.697595, 8
+4, modern wine/chocolate/cheese lounge, 0.697235, 8
+4, Saturday night, 0.673005, 9
+4, great views, 0.662309, 9
+5, Laetitia Pinot Noir, 0.934874, 0
+5, balcony, 0.464865, 0
+5, Friday, 0.453071, 2
+5, amazing,cool place, 0.693128, 3
+5, ladies room, 0.963288, 5
+5, husband, 0.533893, 5
+5, black subway tile, 0.95822, 6
+5, new fave wine, 0.934578, 6
+5, super cool sinks, 0.944003, 7
+5, contemporary design, 0.722729, 7
+5, super nice views, 0.89778, 8
+5, nice lounge/bar, 0.687488, 8
+5, quiet date night, 0.89161, 9
+5, classy place, 0.68676, 9

@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, mexican food, 0.805831, 0
+1, School Mexican Food, 0.769868, 0
+1, WORST Dining Experience, 0.727131, 1
+1, boring food, 0.701107, 1
+1, spicy shrimp, 0.768031, 2
+1, food poisoning ERs, 0.757181, 2
+1, food, 0.995406, 3
+1, decent Japanese food, 0.783796, 3
+1, kitchen, 0.735253, 4
+1, plate, 0.708349, 4
+1, time, 0.822363, 5
+1, restaurant, 0.782723, 5
+1, downtown hotel lounge/restaurant, 0.740101, 6
+1, cater style pan, 0.721928, 6
+1, recent Friday night, 0.740635, 7
+1, seemingly graffiti-type art, 0.74014, 7
+1, refreshing sorbet, 0.685791, 8
+1, Japanese cuisine, 0.684695, 8
+1, great boutique hotel, 0.722626, 9
+2, boutique hotel lounges, 0.684037, 0
+2, dollar price tags, 0.659294, 0
+2, typical hotel lounge, 0.678993, 1
+2, good experiences, 0.610947, 1
+2, hotel lounge, 0.777317, 2
+2, bar dining room, 0.684839, 2
+2, recent experience, 0.7172, 3
+2, regular sized tables, 0.698794, 3
+2, ........., 0.977883, 4
+2, drinks, 0.644137, 4
+2, food, 0.876223, 5
+2, place, 0.635536, 5
+2, beer short ribs, 0.670187, 6
+2, Yelp event, 0.606389, 6
+2, new summer menu, 0.691926, 7
+2, Asian pear martini, 0.681166, 7
+2, delicious frozen lime, 0.667506, 8
+2, Quality food, 0.624204, 8
+2, striking urban views, 0.672938, 9
+2, Cool rooftop patio, 0.670492, 9
+3, neighbors C4, 0.73522, 0
+3, toy art selection, 0.69176, 0
+3, tomatoe-y based broth, 0.691723, 1
+3, gay Republicans, 0.600313, 1
+3, Monday Yelp specials, 0.663036, 2
+3, bar decor, 0.59795, 2
+3, c4 roll, 0.754804, 3
+3, plush seating, 0.600245, 3
+3, sushi rolls, 0.688904, 4
+3, stars, 0.611691, 5
+3, service, 0.609685, 5
+3, c4, 0.814921, 6
+3, appetizer tortilla soup, 0.663482, 6
+3, sweet potato fries, 0.91027, 7
+3, french fries, 0.681914, 7
+3, chorizo mac, 0.769169, 8
+3, new C4, 0.722206, 8
+3, new Southwestern/Native art, 0.665866, 9
+3, stunning rooftop bar, 0.664867, 9
+4, frozen lime tart, 0.77046, 0
+4, bread pudding, 0.761979, 0
+4, picky crabcake girl, 0.731806, 1
+4, good ones, 0.69419, 1
+4, cherry flavored death, 0.740299, 2
+4, lime juice, 0.690139, 2
+4, layer chocolate cake, 0.870582, 3
+4, little bit, 0.696708, 3
+4, lemon TART, 0.71882, 6
+4, bit, 0.698979, 6
+4, key lime tart, 0.90855, 7
+4, crab cakes, 0.777373, 7
+4, chocolate flourless cake, 0.882257, 8
+4, chorizo mac, 0.848605, 8
+4, crab cake sauce, 0.766524, 9
+5, room service food, 0.566689, 0
+5, huge plasma TV, 0.552765, 0
+5, rooftop bar, 0.559225, 1
+5, quality food, 0.534634, 1
+5, newly revised menu, 0.551188, 3
+5, bar manager, 0.520515, 3
+5, food, 0.731238, 4
+5, Clarendon Kitchen, 0.940815, 5
+5, bar, 0.605261, 5
+5, Clarendon Kitchen ROCKS, 0.66136, 6
+5, chorizo mac, 0.567914, 6
+5, new C4 Restaurant, 0.658683, 7
+5, world famous Delux, 0.56732, 7
+5, Clarendon Hotel, 0.671588, 8
+5, wine list, 0.582274, 8
+5, copious margarita consumption, 0.552982, 9
+5, rooftop patio, 0.506181, 9

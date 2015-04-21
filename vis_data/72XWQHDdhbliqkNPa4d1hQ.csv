@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+3, Rabbie Burns, 0.93744, 0
+3, Royal Mile, 0.821294, 0
+3, prices, 0.487415, 1
+3, tourist trap, 0.816843, 2
+3, overpowering urge, 0.664356, 2
+3, Caledonian Best, 0.609781, 3
+3, little bit, 0.600993, 3
+3, place, 0.512125, 4
+3, baked beans, 0.629947, 6
+3, cafe, 0.489714, 6
+3, breakfast pang, 0.650582, 7
+3, service, 0.481965, 7
+3, old fashioned cup, 0.787329, 8
+3, fried breakfast, 0.661043, 8
+4, fried egg, 0.576033, 0
+4, celtic jewelry shops, 0.549825, 0
+4, inbred shitty village, 0.61172, 1
+4, glaringly obvious example, 0.589071, 1
+4, alarmingly intact stomach, 0.557701, 2
+4, Scottish tat, 0.473438, 2
+4, flap jack, 0.575029, 3
+4, runny egg yolk, 0.555656, 3
+4, Rabbie Burns, 0.908619, 4
+4, haggis, 0.565075, 4
+4, Royal Mile, 0.822289, 6
+4, huge space outdoors, 0.56136, 6
+4, Scottish breakfast, 0.566492, 7
+4, clean cafe, 0.444056, 7
+4, reputable cafe, 0.463936, 8
+4, bottled beers, 0.443384, 8
+4, happy vacation-y spirit, 0.537104, 9
+4, free Wifi, 0.435297, 9
+5, bottles, 0.426994, 0
+5, nice time, 0.902385, 7
+5, nice meal, 0.953257, 8
+5, royal mile, 0.939079, 8
+5, Rabbie Burns, 0.916472, 9
+5, comfort zone, 0.845239, 9

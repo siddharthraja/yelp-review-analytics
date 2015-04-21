@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, simple pint, 0.625616, 0
+1, pubs, 0.309862, 0
+1, certain boxed mash, 0.942069, 1
+1, awful food, 0.737796, 1
+1, onion chutney, 0.671829, 2
+1, sausage, 0.629345, 2
+1, knife, 0.30955, 3
+1, cut, 0.297903, 3
+2, touristy orientated pub, 0.972893, 0
+2, frightfully overpriced food, 0.942954, 0
+2, good experience, 0.672154, 1
+2, bacon burger, 0.667639, 1
+2, amazing things, 0.640877, 2
+2, beer selection, 0.640149, 2
+2, fewer tourists, 0.735103, 3
+2, pub food, 0.682246, 3
+2, locals, 0.524724, 5
+2, royal mile, 0.894884, 6
+2, pleasent time, 0.67042, 6
+2, tourist orientated place, 0.889903, 7
+2, normal pub, 0.683239, 7
+2, Seattle music scene, 0.836859, 8
+2, waiter, 0.45532, 8
+2, huh, 0.472715, 9
+2, perceptions, 0.461221, 9
+3, old man pub, 0.590768, 0
+3, history laden pub, 0.574212, 0
+3, tourist trap bar, 0.537251, 1
+3, Rabbie Burns Cafe, 0.517045, 1
+3, Canadian pub, 0.548612, 2
+3, pub patron, 0.517593, 2
+3, countless ghost stories, 0.518654, 3
+3, four-star rating, 0.516811, 3
+3, bar, 0.597901, 4
+3, place, 0.520733, 4
+3, royal mile, 0.953466, 5
+3, pub, 0.79361, 5
+3, black pudding, 0.601293, 6
+3, High Street, 0.579417, 6
+3, pub grub, 0.527049, 7
+3, real ales, 0.518805, 7
+3, famous pub, 0.529934, 8
+3, pretty good crowd, 0.520015, 8
+3, friendly pub, 0.546564, 9
+3, different local beers, 0.507228, 9
+4, der Royal Mile, 0.830343, 0
+4, Pub auf der, 0.807048, 0
+4, Eine Insel der, 0.740115, 3
+4, Whisky ist übersichtlich, 0.723372, 3
+4, single malt, 0.725654, 4
+4, Royal Mile, 0.971437, 5
+4, pub food, 0.810413, 5
+4, petit pub dans, 0.755888, 6
+4, little Scottish pub, 0.753649, 6
+4, Royal Mile pub, 0.822403, 7
+4, white wine tagliatelle, 0.793308, 7
+4, Great Scotch beef, 0.716304, 8
+4, elegant pub, 0.712, 8
+5, creamy whisky sauce, 0.658896, 0
+5, sirloin steak pie, 0.6432, 0
+5, dark black wood, 0.698533, 1
+5, dark wood, 0.569967, 1
+5, little messy, 0.548583, 2
+5, tiny nook, 0.547854, 2
+5, cask ale pubs, 0.713703, 3
+5, dumb tourist questions, 0.676604, 3
+5, traditional Scottish dessert, 0.652778, 6
+5, fairly large portion, 0.646107, 6
+5, sticky toffee pudding, 0.928589, 7
+5, Cask Ales, 0.735369, 7
+5, wonderfully friendly staff, 0.712459, 8
+5, Real Cask Ales, 0.694183, 8
+5, place, 0.618309, 9
+5, free t-shirts, 0.540519, 9

@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, Montreal my hubby, 0.667245, 0
+1, shitty pub, 0.60978, 0
+1, terrible experience, 0.933225, 1
+1, ridiculously terrible experience, 0.89813, 1
+1, different perception, 0.557712, 2
+1, IPA, 0.282653, 3
+1, hoppiness, 0.270532, 3
+1, good places, 0.547379, 6
+1, corn chips, 0.583218, 7
+1, nice place, 0.545131, 7
+1, Le Sainte-Elizabeth Pub, 0.878085, 9
+1, good Canadian beer, 0.827767, 9
+2, stellar brew pub, 0.565918, 0
+2, raspberry house beer, 0.550776, 0
+2, casual bar gathering, 0.539791, 1
+2, live music, 0.492428, 1
+2, appalling seasonal beer, 0.54431, 2
+2, inconsistent quality, 0.489109, 2
+2, run-of-the-mill bar, 0.490874, 3
+2, hemp smell, 0.479063, 3
+2, beer, 0.610611, 4
+2, live band, 0.551725, 4
+2, non-house Hemp beer, 0.562, 6
+2, house beers, 0.552256, 6
+2, dieu du ciel, 0.935189, 7
+2, good beer, 0.55778, 7
+2, good local beers, 0.581737, 8
+2, good brew pub, 0.580194, 8
+2, Pub L'ile Noire, 0.552877, 9
+2, friendly bar tender, 0.548286, 9
+3, bar est situé, 0.961094, 0
+3, Local brewed beer, 0.956476, 0
+3, Friday night, 0.910642, 1
+3, extremely slow service, 0.926617, 2
+3, bar tab, 0.895889, 2
+3, typical pub grub, 0.935744, 3
+3, Indian Pale Ale, 0.919031, 3
+3, watery soft beers, 0.934908, 6
+3, honey brown, 0.93277, 6
+3, dream night snack, 0.930758, 7
+3, sized outdoor spaces, 0.919158, 7
+3, pretty relaxed place, 0.963975, 8
+3, good beer, 0.947565, 8
+3, Sunday night, 0.889038, 9
+4, La place est, 0.728598, 0
+4, huge beer fan, 0.716674, 0
+4, good dark stout, 0.708989, 1
+4, big beer fan, 0.727521, 3
+4, beers, 0.74177, 5
+4, food, 0.734215, 5
+4, beer, 0.916186, 6
+4, place, 0.812188, 6
+4, brown ale, 0.786968, 7
+4, honey brown ale, 0.721762, 7
+4, live music, 0.785168, 8
+4, raspberry blonde beer, 0.739893, 8
+4, Good homemade beer, 0.776833, 9
+4, good beer, 0.766772, 9
+5, ce n'est pas, 0.939067, 0
+5, place était restreinte, 0.904, 0
+5, main bar, 0.896637, 1
+5, bear fight, 0.907318, 3
+5, bar, 0.914255, 4
+5, night, 0.89483, 4
+5, Brutopia, 0.998999, 5
+5, beer, 0.976515, 6
+5, Bien que Brutopia, 0.92815, 6
+5, honey brown, 0.927543, 7
+5, Montreal, 0.911399, 7
+5, great place, 0.974847, 8
+5, Great local beer, 0.941552, 8
+5, great beer, 0.925371, 9
+5, Raspberry Blonde beer, 0.914068, 9

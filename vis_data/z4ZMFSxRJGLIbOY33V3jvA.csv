@@ -1,0 +1,28 @@
+rating, keyword, relevance, bucket
+4, local food truck, 0.822681, 0
+4, Elevation Church, 0.639187, 0
+4, little tap bar, 0.891068, 2
+4, local brews, 0.652585, 2
+4, big box store, 0.889223, 3
+4, K-mart, 0.352096, 3
+4, things man cave, 0.846966, 6
+4, Custom Brews, 0.674762, 6
+4, Custom Brew Pubs, 0.973591, 7
+4, Independence Blvd, 0.675774, 7
+4, bright spot, 0.677598, 8
+4, hearts content, 0.604158, 8
+5, draft beer stock, 0.903841, 0
+5, random/uncommon/or popular beer, 0.89321, 0
+5, judgement, 0.546035, 2
+5, dude, 0.541765, 2
+5, local watering hole, 0.87287, 3
+5, wallet-buster, 0.53725, 3
+5, CO2 tanks, 0.704538, 4
+5, beer tasting events, 0.927376, 6
+5, pub customization services, 0.903458, 6
+5, great place, 0.863865, 7
+5, beer rooms, 0.749968, 7
+5, A+ customer service, 0.90996, 8
+5, in-stock kegs, 0.785079, 8
+5, fresh craft beer, 0.981483, 9
+5, beer systems, 0.855553, 9

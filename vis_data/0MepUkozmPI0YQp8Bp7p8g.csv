@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, constant client, 0.740971, 0
+1, Old group, 0.664574, 0
+1, great hookah lounge, 0.94991, 1
+1, horrible hookahs, 0.87482, 1
+1, customer service, 0.876186, 6
+1, better customer service, 0.856198, 6
+2, ambience, 0.414394, 0
+2, sort, 0.395511, 0
+2, little mislead, 0.767345, 1
+2, business description, 0.721285, 1
+2, Scottsdale club, 0.663493, 3
+2, fact, 0.381829, 3
+2, drinks, 0.511418, 4
+2, place, 0.3784, 4
+2, bar, 0.540924, 6
+2, comfortable looking chairs, 0.9905, 7
+2, hookah lounge, 0.802255, 7
+2, excellent hummus, 0.690515, 8
+2, brightside, 0.420846, 8
+3, regular hookah smoker, 0.979778, 0
+3, belly dancers, 0.791288, 0
+3, lamb kabobs, 0.767162, 1
+3, reason, 0.508868, 1
+3, bcuz, 0.507666, 2
+3, Halloween, 0.495466, 3
+3, 5stars, 0.468582, 3
+4, special hookah mixes, 0.768421, 0
+4, traditional Arab folk, 0.6652, 0
+4, attention span, 0.587022, 1
+4, Holy crap, 0.584268, 2
+4, flat screen tv, 0.650874, 3
+4, double review, 0.599663, 3
+4, Hookah Mania, 0.909374, 4
+4, Mijana, 0.599987, 4
+4, Belly Dancing Classes, 0.670441, 6
+4, overhead paper/glass chandeliers, 0.660931, 6
+4, Comedy Night Tuesdays, 0.666854, 7
+4, super chill, 0.595892, 7
+4, combo spot, 0.597074, 8
+4, Scottsdale/Tempe Border, 0.595746, 8
+4, hookah lounge experience, 0.777865, 9
+4, good belly dancer, 0.652518, 9
+5, hookah craze, 0.65723, 0
+5, hookah place, 0.634023, 0
+5, drunk college kids, 0.50305, 2
+5, eskandrani apple, 0.470242, 2
+5, mediocre hookah lounge, 0.756418, 3
+5, hookah tobacco, 0.663564, 3
+5, coals, 0.485389, 5
+5, hookah lounge, 0.964855, 6
+5, hookah server, 0.639733, 6
+5, hookah course, 0.65049, 7
+5, hookah spot, 0.627822, 7
+5, best hookah lounge, 0.70885, 8
+5, favor hookah lounge, 0.698498, 8
+5, excellent hookah, 0.626392, 9
+5, outstanding customer service, 0.511338, 9

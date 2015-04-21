@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, deceptive yelp rating, 0.931919, 0
+2, star mexican restaurant., 0.888644, 0
+3, pretty good meal, 0.926663, 0
+3, enchilada sauce, 0.745633, 0
+3, cheap date, 0.688048, 1
+3, God, 0.365447, 1
+3, giant fake tree, 0.89902, 2
+3, lazy ass, 0.658288, 2
+3, outdoor wire tables, 0.878845, 3
+3, pub tables, 0.614777, 3
+3, restaurant, 0.419187, 5
+3, seafood dinners, 0.624958, 6
+3, cook peek, 0.622834, 6
+3, good hole-in-the-wall, 0.580699, 7
+3, pretty good sauce, 0.942146, 9
+4, spanish speaking neighborhood, 0.794888, 0
+4, muy sobroso, 0.680036, 0
+4, Cheap date, 0.648109, 1
+4, fried shrimp, 0.66147, 3
+4, fault, 0.443083, 3
+4, carne asada, 0.980815, 6
+4, carne asada tostada, 0.926635, 6
+4, good enchilada, 0.82551, 7
+4, Nice chips, 0.6328, 7
+4, best red salsa, 0.791488, 8
+4, great way, 0.608272, 8
+4, traditional mexican food, 0.865154, 9
+4, onion enchiladas, 0.717223, 9
+5, great mexican food, 0.640048, 0
+5, asada soft tacos, 0.614679, 0
+5, green sauce, 0.463537, 1
+5, 68TH St., 0.459121, 2
+5, Thomas Rd, 0.452163, 2
+5, Endless chips, 0.436306, 3
+5, El Ranchero, 0.901705, 5
+5, guacamole, 0.523308, 5
+5, food, 0.740552, 6
+5, White Chocolate Grill, 0.544746, 6
+5, carne asada, 0.77315, 7
+5, mexican food, 0.689738, 7
+5, great service, 0.589882, 8
+5, Ranchero burrito, 0.52988, 8
+5, authentic Mexican food, 0.598046, 9
+5, specialty hot sauce, 0.585487, 9

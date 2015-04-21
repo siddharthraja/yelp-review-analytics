@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, decaf chai, 0.831748, 0
+1, vanilla steamer, 0.800402, 0
+1, atmosphere, 0.49568, 1
+1, coworker, 0.37307, 1
+1, counter, 0.504716, 2
+1, Talebu, 0.43727, 2
+1, coffee shop, 0.685046, 3
+1, guy, 0.330887, 3
+1, stars, 0.424133, 4
+1, coffee, 0.978698, 5
+1, coffee joint, 0.765077, 6
+1, good cup, 0.697072, 6
+1, quick coffee, 0.783939, 8
+2, Talebu Nice place, 0.874532, 0
+2, modern flair, 0.688532, 0
+2, un-dissolved chocolate powder, 0.919603, 2
+2, iced mocha, 0.739379, 2
+2, drinks, 0.558914, 5
+2, espresso drink, 0.70219, 6
+2, Starbucks, 0.511288, 6
+2, coffee, 0.563233, 7
+2, sweet., 0.449364, 7
+2, quick good drive, 0.874087, 8
+2, try, 0.480361, 8
+3, Open Mic Night, 0.881659, 0
+3, traditional coffee shop, 0.86895, 0
+3, half-assed attempt, 0.70202, 2
+3, cookie-cutter décor, 0.757673, 3
+3, sink water, 0.709533, 3
+3, open atmosphere, 0.72924, 6
+3, coffee flavoring, 0.716041, 6
+3, local business, 0.893444, 7
+3, friendly barista, 0.774355, 7
+3, Homegirl Extraordinaire Missy, 0.908155, 8
+3, coffee shop, 0.879144, 8
+3, nice big place, 0.868079, 9
+3, stronger brew, 0.743865, 9
+4, late Sunday evening, 0.60878, 0
+4, open mic night, 0.586591, 0
+4, weekend crew, 0.565372, 1
+4, Mexican mocha, 0.606053, 4
+4, Great little place, 0.645336, 6
+4, iced Mexican mocha, 0.603825, 6
+4, mic night, 0.616304, 7
+4, white chocolate mocha, 0.59941, 7
+4, coffee shop, 0.936393, 8
+4, place, 0.811646, 8
+4, locally owned coffee, 0.634402, 9
+4, hot specialty coffee, 0.633562, 9
+5, star place, 0.477552, 0
+5, favorite coffee shop, 0.623869, 2
+5, little gem, 0.446828, 2
+5, drive thru coffee, 0.488099, 3
+5, open sign, 0.437688, 3
+5, place, 0.903129, 5
+5, coffee shop, 0.691489, 5
+5, coffee, 0.80758, 6
+5, non-corporate coffee shops, 0.578138, 6
+5, mexican mocha, 0.569574, 7
+5, standard Starbucks kind, 0.540155, 7
+5, favorite coffee place, 0.619491, 8
+5, best coffee, 0.557254, 8
+5, tastiest coffee, 0.511169, 9
+5, Great place, 0.490352, 9

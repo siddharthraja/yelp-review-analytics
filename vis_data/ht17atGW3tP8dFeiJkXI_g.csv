@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, post tourney repast, 0.920772, 0
+1, Pakistani leisure class, 0.916099, 0
+1, Taco Bar, 0.824795, 1
+1, soupy brine, 0.80462, 1
+1, unfortunate non-distinct animal, 0.893966, 2
+1, flat panel TV, 0.893846, 2
+1, high school cafeteria, 0.899244, 3
+1, mystery meat tacos, 0.896039, 3
+1, place, 0.830958, 4
+1, Lifetime group, 0.904132, 7
+1, unruly space-cadet group, 0.891533, 7
+1, repressed experience, 0.804875, 8
+2, Double Cheeseburger, 0.699188, 0
+2, Turkey Burger, 0.677136, 0
+2, dark bar, 0.811037, 1
+2, dark bar mood, 0.796087, 1
+2, chili, 0.595206, 2
+2, Gallagher, 0.459865, 2
+2, cheap food, 0.654493, 3
+2, drink, 0.454641, 3
+2, lunch time fun, 0.931177, 6
+2, cheap lunch, 0.762481, 6
+2, spot, 0.461799, 7
+2, horses, 0.452565, 7
+2, eScrip rewards list, 0.885373, 8
+2, fun place, 0.660634, 8
+3, huge stein, 0.718938, 0
+3, big frou, 0.69382, 0
+3, puke smell, 0.745436, 1
+3, waitress, 0.46776, 1
+3, persistent coworkers, 0.746586, 2
+3, sketch area, 0.665456, 2
+3, bar food offerings, 0.861984, 3
+3, Hot wings, 0.693197, 3
+3, drinks, 0.883988, 4
+3, Skip, 0.52798, 4
+3, decent pool joint, 0.890598, 6
+3, vodka drinks, 0.779149, 6
+3, Best fried pickles, 0.913073, 7
+3, hourly pool rates, 0.859958, 7
+3, Awesome drink specials, 0.902621, 8
+3, Hellooooooo vodka, 0.745393, 8
+4, huge pool area, 0.68082, 0
+4, good sports bar, 0.675059, 0
+4, house cues, 0.590688, 1
+4, liquid fake cheese, 0.578715, 1
+4, Good bar food, 0.644, 2
+4, big tables, 0.604196, 2
+4, pool leagues, 0.636779, 3
+4, bar standards, 0.528707, 3
+4, place, 0.696373, 4
+4, food, 0.753702, 5
+4, bar, 0.676781, 5
+4, pool, 0.930917, 6
+4, full-price appetizer menu, 0.622448, 6
+4, Graham Central Station, 0.790363, 7
+4, turkey burger, 0.744675, 7
+4, no-name BBQ place, 0.621771, 8
+4, lunch specials, 0.607207, 8
+4, hourly pool rates, 0.654723, 9
+4, pool tables, 0.634278, 9
+5, Bloody Mary, 0.62555, 3
+5, screwdriver, 0.367563, 3
+5, cheap drinks, 0.826426, 6
+5, fantastic wings, 0.727778, 6
+5, Super strong drinks, 0.969416, 8
+5, breakfast burrito, 0.764894, 8

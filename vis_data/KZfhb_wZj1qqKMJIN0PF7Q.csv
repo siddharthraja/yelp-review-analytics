@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, general admission line, 0.856091, 0
+1, not-at-all Hollywood crowd, 0.829425, 0
+1, tabu, 0.997678, 1
+1, place, 0.865153, 1
+1, stuffy little prison, 0.817571, 2
+1, big ass heels, 0.813713, 2
+1, people, 0.770689, 3
+1, guys, 0.735, 3
+1, line, 0.883129, 4
+1, bus boy dbag, 0.798653, 4
+1, w/ yelp coupon, 0.809533, 6
+1, City Club Crawl, 0.805389, 6
+1, better places, 0.844853, 8
+1, good dance music, 0.810806, 8
+2, tasting vodka drinks, 0.680603, 0
+2, Slightly cheaper drinks, 0.648756, 0
+2, tabu ultra lounge, 0.821572, 1
+2, bar, 0.679243, 1
+2, dance floor, 0.909284, 2
+2, cover, 0.672494, 2
+2, ......., 0.65001, 3
+2, specific dance floor, 0.648288, 3
+2, Las Vegas, 0.826831, 5
+2, music, 0.742025, 5
+2, drinks, 0.732994, 6
+2, better clubs, 0.714272, 6
+2, MGM Grand, 0.796099, 7
+2, MGM Grand Casino, 0.656657, 7
+2, free drinks, 0.67448, 8
+2, free vodka drinks, 0.669429, 8
+3, free vodka drinks, 0.71789, 0
+3, nice little dance, 0.653473, 0
+3, big dance floor, 0.6347, 1
+3, small walkway anyway., 0.623545, 1
+3, loungey yuppie bar, 0.63939, 2
+3, wasnt spring break, 0.61592, 2
+3, Las Vegas, 0.680172, 3
+3, origional ultra lounge, 0.641981, 3
+3, vegas, 0.766178, 4
+3, tabu, 0.751695, 4
+3, dance floor, 0.982831, 5
+3, club, 0.838576, 5
+3, free drinks, 0.742333, 6
+3, MGM, 0.669585, 6
+3, nice bar area, 0.645039, 7
+3, free VIP table, 0.632412, 7
+3, super fun place, 0.728765, 8
+3, MGM Grand, 0.663266, 8
+4, private seating areas, 0.386605, 0
+4, small dance floor, 0.347691, 0
+4, AMF mixed drink, 0.32148, 1
+4, Thursday night, 0.342198, 2
+4, Monday night, 0.33215, 3
+4, old people, 0.328152, 3
+4, dance floor, 0.926759, 4
+4, people, 0.485043, 4
+4, place, 0.793772, 5
+4, music, 0.668206, 5
+4, crowd, 0.406046, 6
+4, great little lounge, 0.340786, 6
+4, good time, 0.507874, 7
+4, great time dancing, 0.348383, 7
+4, pretty small place, 0.472313, 8
+4, great music, 0.447196, 8
+4, Great place, 0.361025, 9
+4, good music, 0.348762, 9
+5, meet young businessmen, 0.81733, 0
+5, house vodka shots, 0.797888, 0
+5, huge warehouse clubs, 0.770782, 1
+5, Las Vegas, 0.678233, 1
+5, Tabu, 0.956907, 2
+5, sketchy guys, 0.678878, 2
+5, combined dance/lounge experience, 0.773921, 3
+5, little room, 0.674383, 3
+5, friends, 0.608342, 5
+5, cocktail waitresses, 0.697884, 6
+5, VIP table, 0.673714, 6
+5, personal party level, 0.769074, 7
+5, velvet ropes, 0.67004, 7
+5, classy fun place, 0.830998, 8
+5, great time dancing, 0.812531, 8
+5, great atmosphere, 0.667966, 9
+5, little stages., 0.651469, 9

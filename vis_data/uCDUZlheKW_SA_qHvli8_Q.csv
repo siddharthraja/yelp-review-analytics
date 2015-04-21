@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+2, breakfast bar, 0.902824, 1
+2, guests, 0.49725, 1
+2, free breakfast, 0.914777, 2
+2, overnight parking, 0.851124, 3
+2, Rooms, 0.399864, 9
+3, way, 0.385117, 0
+3, downside, 0.489876, 1
+3, tv, 0.390657, 1
+3, walls, 0.595831, 2
+3, door person, 0.699265, 3
+3, gain, 0.433652, 3
+3, nicely designed room, 0.922556, 8
+3, Good price, 0.731414, 8
+4, long black hairs, 0.644029, 0
+4, reception desk, 0.557541, 0
+4, bar area, 0.539124, 1
+4, casual seating, 0.530831, 1
+4, room coffee, 0.569302, 2
+4, sugar packets, 0.542302, 2
+4, game, 0.569781, 3
+4, Official Hotel, 0.562723, 3
+4, hotel, 0.917397, 5
+4, desk, 0.59006, 5
+4, sofa bed, 0.705746, 6
+4, room, 0.687258, 6
+4, Consol Energy Center, 0.87828, 7
+4, Keurig coffee maker, 0.683826, 7
+4, PNC Park/Heinz Field, 0.690212, 8
+4, excellent shuttle service, 0.679788, 8
+4, hotel bar, 0.600207, 9
+4, nice hotel, 0.593333, 9
+5, coffee bar w/, 0.833427, 0
+5, huge lobby area, 0.797157, 0
+5, room coffee maker, 0.774833, 1
+5, lobby coffee bar, 0.789414, 2
+5, flat screen, 0.768449, 2
+5, Consul Energy Center, 0.764014, 3
+5, amusement park Kennywood, 0.752593, 3
+5, hotel, 0.928305, 5
+5, highlighted bus schedule, 0.745829, 6
+5, Consol Center, 0.719456, 6
+5, apparently new hotel, 0.823749, 7
+5, New fave hotel, 0.821519, 7
+5, Consol Energy Center, 0.935693, 8
+5, hot tub, 0.895931, 8
+5, great sitting area, 0.840413, 9
+5, best hotel experience, 0.814726, 9

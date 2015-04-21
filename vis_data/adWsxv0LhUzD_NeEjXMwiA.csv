@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, fruity drink, 0.768027, 0
+1, late shift, 0.646506, 0
+1, bloody mary, 0.991522, 1
+1, bartender, 0.80772, 1
+1, cold tomato juice, 0.91311, 2
+1, place, 0.440275, 2
+1, Sahara, 0.37853, 3
+1, PT, 0.372709, 3
+1, James Aguilar, 0.638619, 6
+1, good patrons, 0.618034, 6
+1, friends orders, 0.641296, 7
+1, Kitchen, 0.36137, 7
+1, Fat Choy, 0.618119, 8
+1, better menu, 0.604029, 8
+2, PTs pizza, 0.777395, 0
+2, poor service, 0.715477, 0
+2, Kinda, 0.493987, 1
+2, bar buddy, 0.684922, 2
+2, plates, 0.545915, 2
+2, on-coming dayshift bartender, 0.967795, 3
+2, graveyard bartender, 0.770599, 3
+2, tight schedule, 0.743106, 6
+2, beers, 0.47259, 6
+3, happy mixer, 0.807209, 0
+3, little lite, 0.744039, 0
+3, normal bar, 0.803231, 1
+3, disease, 0.280099, 1
+3, adequate watering hole, 0.955134, 3
+4, perfect  timing, 0.947243, 0
+4, bar tender, 0.942502, 0
+4, Heaven, 0.570123, 2
+4, Amanda, 0.580519, 6
+4, worth, 0.572463, 6
+4, stuff, 0.572962, 7
+4, good drinks, 0.916442, 8
+4, nice area, 0.911974, 8
+4, crispy, 0.605785, 9
+4, sauce, 0.583223, 9
+5, lemon pepper is.Sorry, 0.794574, 0
+5, light options, 0.65839, 0
+5, bad attitude, 0.637782, 1
+5, tongue, 0.528339, 1
+5, customer service skills, 0.756492, 2
+5, rough neighborhood, 0.62858, 2
+5, employees, 0.55369, 3
+5, stars, 0.551495, 3
+5, lemon pepper, 0.990929, 4
+5, bar food, 0.762131, 4
+5, place, 0.580382, 5
+5, cook, 0.688529, 6
+5, wings, 0.559205, 7
+5, way, 0.553591, 7
+5, bartender James, 0.685804, 8
+5, new drinks, 0.660226, 8
+5, bartender Aluna, 0.660121, 9
+5, happy camper, 0.634907, 9

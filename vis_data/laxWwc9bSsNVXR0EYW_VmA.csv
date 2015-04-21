@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+2, Camelback Inn staff, 0.795286, 0
+2, Cilantro hummus, 0.706368, 0
+2, restroom, 0.454669, 1
+2, bite, 0.4489, 1
+2, damp cushions, 0.677893, 2
+2, allergy concerns, 0.625983, 2
+2, BLT Steak, 0.663121, 3
+2, fresh steaks, 0.641856, 3
+2, outlet, 0.654916, 4
+2, lush surroundings, 0.677449, 6
+2, rose margarita, 0.66319, 6
+2, Grilled steak skewers, 0.969128, 7
+2, best sangria, 0.632562, 7
+2, healthy fish tacos, 0.814901, 8
+2, verdant environs, 0.648453, 8
+2, cheese sauce, 0.894789, 9
+2, spicy cheese sauce, 0.859458, 9
+3, live music atmosphere, 0.848346, 0
+3, Food portions, 0.684228, 0
+3, credit card, 0.838366, 1
+3, cash, 0.41274, 1
+3, accounting department, 0.612188, 2
+3, course, 0.357234, 2
+3, Bar rates, 0.6516, 3
+3, future, 0.364869, 3
+3, food, 0.764139, 5
+3, Stopped, 0.382108, 6
+3, awesome patio, 0.704208, 7
+3, fundido dip, 0.649599, 7
+3, live music venue, 0.83645, 8
+3, happy hour cocktails, 0.77922, 8
+3, good live band, 0.956242, 9
+3, Great ambiance, 0.688438, 9
+4, lettuce wrap chicken, 0.790599, 0
+4, filet mignon sliders, 0.738205, 0
+4, grey haired snowbirds, 0.740531, 1
+4, lettuce spilling, 0.666871, 1
+4, comfy low couch, 0.713768, 2
+4, bar stools, 0.630093, 2
+4, live music, 0.98149, 3
+4, happy hour menu, 0.846765, 3
+4, carne asada tacos, 0.805296, 6
+4, fish tacos, 0.680022, 6
+4, regular size tacos, 0.774436, 7
+4, live music everyday, 0.740365, 7
+4, salsa sampler, 0.773553, 8
+4, live active bar, 0.761234, 8
+4, high end resort, 0.730177, 9
+4, numerous craft beer, 0.727433, 9
+5, beautiful Arizona night, 0.463132, 0
+5, HH drink menu, 0.444877, 0
+5, bar menu, 0.423263, 2
+5, restaurant menu, 0.394843, 2
+5, Bar atmosphere, 0.398808, 3
+5, bar, 0.568243, 5
+5, service, 0.448213, 5
+5, quality Filet Mignon, 0.460251, 6
+5, enormous patio area, 0.452598, 6
+5, Camelback Inn, 0.989015, 7
+5, filet mignon sliders, 0.727882, 7
+5, live music, 0.880949, 8
+5, night, 0.532331, 8
+5, great place, 0.504151, 9
+5, happy hour menu, 0.4675, 9

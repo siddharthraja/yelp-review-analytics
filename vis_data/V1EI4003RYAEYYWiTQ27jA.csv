@@ -1,0 +1,8 @@
+rating, keyword, relevance, bucket
+1, Horrible service, 0.914327, 0
+1, Terrible experience, 0.854935, 0
+1, orders, 0.265764, 3
+3, maple taffy, 0.838149, 1
+3, bar, 0.455056, 1
+3, food, 0.504389, 3
+3, sugar shack dinner, 0.985075, 6

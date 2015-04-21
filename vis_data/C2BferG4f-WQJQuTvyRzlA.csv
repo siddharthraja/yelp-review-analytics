@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, extremely embarrassing situation, 0.766561, 0
+1, basic bar food, 0.764995, 0
+1, different Sharp Edge, 0.77967, 1
+1, embarrassing situation, 0.77571, 1
+1, date night experience, 0.722582, 2
+1, food service, 0.650817, 2
+1, Sharp Edge, 0.942107, 3
+1, fiesta ware plate, 0.731466, 3
+1, food, 0.826107, 5
+1, unusual beer, 0.719288, 6
+1, lenten fish, 0.64325, 6
+1, wide ranging beer, 0.783151, 7
+1, Sharpe Edge location, 0.777623, 7
+1, quick note, 0.636386, 8
+1, beer list, 0.630407, 8
+1, Sunday night, 0.626669, 9
+2, shitty beer, 0.609528, 0
+2, particular location, 0.59531, 0
+2, pale mealy tomatoes, 0.953367, 1
+2, bad service, 0.565723, 1
+2, little browner, 0.684866, 2
+2, draft list, 0.611965, 2
+2, beer, 0.958614, 3
+2, food, 0.669799, 3
+2, lunch, 0.434673, 4
+2, place, 0.423259, 4
+2, Palm beer, 0.628094, 6
+2, dinner, 0.432984, 6
+2, Sharp Edge, 0.8955, 7
+2, better beer selections, 0.838482, 7
+2, beer broth, 0.710486, 8
+2, leeks, 0.497725, 8
+2, better atmosphere, 0.590945, 9
+2, great selection, 0.576454, 9
+3, Belgian Beer Bar, 0.820017, 0
+3, Belgian Pomme Frites, 0.765949, 0
+3, menu kinda, 0.704464, 1
+3, spotty service, 0.773385, 2
+3, typical bar fare, 0.752044, 2
+3, strange lingering creek, 0.741273, 3
+3, Creamy cheddar cheese, 0.739982, 3
+3, steel city girlz, 0.731702, 6
+3, beer list, 0.72015, 6
+3, awesome GREEK spot, 0.753584, 7
+3, sourdough bread bowl, 0.734326, 7
+3, Sharp Edge, 0.981639, 8
+3, beer selection, 0.918438, 8
+3, neat lil place, 0.729242, 9
+4, typical bar food, 0.524165, 0
+4, lighter menu choices, 0.520356, 0
+4, crappy flavored microbrews, 0.504129, 2
+4, food, 0.553488, 5
+4, service, 0.493697, 5
+4, huge beer selection, 0.558113, 6
+4, Belgian Chocolate Pudding, 0.510287, 6
+4, Stellar beer selection, 0.557751, 7
+4, Field Green salads, 0.507512, 7
+4, beer selection, 0.912218, 8
+4, Sharp Edge, 0.749603, 8
+4, Sharp Edge Creekhouse, 0.611772, 9
+4, Great place, 0.576684, 9
+5, typical bar fair, 0.694716, 0
+5, late night menu, 0.681368, 0
+5, swanky nose, 0.616774, 1
+5, bad dish, 0.610898, 1
+5, Sharp Edge locations, 0.717173, 2
+5, half price appetizers, 0.685173, 2
+5, care, 0.533087, 4
+5, sharp edge, 0.983971, 5
+5, beer, 0.761153, 5
+5, white wine mussels, 0.677282, 6
+5, food, 0.640132, 6
+5, different Belgian imports, 0.681071, 7
+5, best selection, 0.622876, 7
+5, sharp edge creekhouse, 0.866024, 8
+5, great beer selection, 0.696214, 8
+5, nice friendly place, 0.700401, 9
+5, beer enthusiasts, 0.638425, 9

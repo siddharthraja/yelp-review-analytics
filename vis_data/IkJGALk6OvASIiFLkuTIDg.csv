@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, roast beef sandwich, 0.832578, 0
+1, different story, 0.634953, 0
+1, worst stomach ache, 0.889807, 1
+1, surprise crunch, 0.687998, 1
+1, greasy hot mess, 0.866472, 2
+1, french fries, 0.613313, 2
+1, San Tan Flats, 0.921574, 3
+1, Friday night, 0.617193, 3
+1, waitresses, 0.465402, 5
+1, lemonade, 0.366511, 6
+1, napkins, 0.35939, 6
+1, Clam Chowder soup, 0.927354, 7
+1, bread roll, 0.601338, 7
+2, red chile, 0.761257, 0
+2, super rude, 0.725997, 0
+2, shredded beef enchilada, 0.93511, 2
+2, refried beans, 0.804921, 2
+2, drink orders, 0.728673, 3
+2, food order, 0.671484, 3
+2, iced tea, 0.823287, 7
+2, reason, 0.491874, 7
+2, stars, 0.533995, 8
+2, kitchen, 0.461204, 8
+3, bakers dozen, 0.97731, 0
+3, BTW The wings, 0.809873, 0
+3, usual standard, 0.670581, 1
+3, waitress, 0.563038, 1
+3, local beer, 0.71008, 2
+3, stars, 0.516496, 2
+3, silverware, 0.466462, 3
+3, table, 0.453254, 3
+3, service, 0.626338, 4
+3, love mate, 0.713077, 6
+3, local place, 0.690539, 6
+3, Pro- Portions, 0.700476, 7
+3, different items, 0.690037, 7
+3, options, 0.456613, 8
+3, girls, 0.454385, 8
+3, neat relaxing fun, 0.927879, 9
+3, Happy hour prices, 0.714369, 9
+4, steaks, 0.304652, 0
+4, regulars, 0.289471, 0
+4, strip mall, 0.551459, 2
+4, waitress, 0.312489, 3
+4, salsa bar, 0.652315, 6
+4, decent prices, 0.617299, 6
+4, free chips, 0.992502, 7
+4, Mexican food, 0.60849, 7
+4, attentive service, 0.941052, 8
+4, green chile sauce, 0.846998, 8
+4, mellow place, 0.631012, 9
+4, sampler appetizer, 0.615466, 9
+5, Toast Special w/, 0.825223, 0
+5, pub food joint, 0.811526, 0
+5, barnyard buster, 0.664907, 1
+5, free salsa bar, 0.865545, 2
+5, pepper suicide sauce, 0.837088, 3
+5, wings, 0.553513, 5
+5, infamous ghost pepper, 0.827576, 6
+5, Texas Toast w/, 0.822146, 6
+5, french toast, 0.809154, 7
+5, good breakfast, 0.704241, 7
+5, great Mexican menu, 0.855859, 8
+5, great neighborhood bar, 0.838, 8
+5, Great breakfast menu, 0.907104, 9
+5, local queen creek, 0.774034, 9

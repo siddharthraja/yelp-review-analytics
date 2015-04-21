@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, Stupid hipster place, 0.983793, 0
+1, long time resident, 0.791922, 0
+1, Bullshit, 0.425834, 1
+2, dry vodka martini, 0.90074, 0
+2, bad night, 0.718285, 0
+2, tofu scramble, 0.712622, 1
+2, hipster crowd, 0.702705, 1
+2, wheat berry toast, 0.849853, 2
+2, little friends, 0.701722, 2
+2, beer, 0.576121, 3
+2, free eggs benedict, 0.89325, 4
+2, twist, 0.577216, 4
+2, eggs benedict, 0.96361, 5
+2, Mickey, 0.810429, 5
+2, truffle oil, 0.891692, 6
+2, white truffle oil, 0.867751, 6
+2, normal eggs benedict, 0.88663, 7
+2, stewed pork appetizer, 0.835851, 7
+2, friendly environment, 0.854051, 8
+2, better service, 0.701411, 8
+3, limited beer selection, 0.525594, 0
+3, green pork chili, 0.514844, 0
+3, beer selection, 0.538919, 1
+3, buncha day-after-stpatricks weirdos, 0.530348, 1
+3, so-so vodka cranberry, 0.527943, 2
+3, food order, 0.497429, 2
+3, party scene, 0.448808, 3
+3, bar area, 0.437931, 3
+3, bloody mary, 0.949804, 5
+3, food, 0.511744, 5
+3, greatest sandwich, 0.549358, 6
+3, drinks. friendly service., 0.524073, 6
+3, Sunday brunch, 0.571201, 7
+3, stellar service bump, 0.532643, 7
+3, nice place, 0.572364, 8
+3, good Sunday brunch, 0.570945, 8
+3, delicious bloody mary, 0.605505, 9
+3, brussel sprout, 0.555289, 9
+4, irish bar. mickey, 0.66702, 0
+4, nice little patio, 0.65954, 0
+4, bar area, 0.670567, 2
+4, main bar area, 0.665275, 2
+4, standard bar food, 0.671416, 3
+4, Elevated bar food, 0.666498, 3
+4, patio, 0.67721, 4
+4, atmosphere, 0.654414, 4
+4, sexy fries, 0.965447, 5
+4, bar, 0.806928, 5
+4, place, 0.757231, 6
+4, super sexy fries, 0.704592, 6
+4, little rooms, 0.663011, 7
+4, outdoor patio, 0.662157, 7
+4, breakfast burrito, 0.695883, 8
+4, outdoor seating area, 0.692012, 8
+4, fine bar food, 0.670084, 9
+4, brunch place downtown, 0.666888, 9
+5, great bar food, 0.568841, 0
+5, Great little bar, 0.55848, 0
+5, neighborhood bar, 0.546218, 1
+5, Kick arse bloody, 0.522619, 1
+5, dive bar, 0.567646, 2
+5, average bar food, 0.532661, 2
+5, bar food, 0.591364, 3
+5, Kick arse, 0.567153, 3
+5, bar, 0.709408, 4
+5, night, 0.503081, 4
+5, mickey, 0.849908, 5
+5, patio, 0.561546, 5
+5, bloody mary, 0.937976, 6
+5, food, 0.594878, 6
+5, mickey burger, 0.62303, 7
+5, greatest sandwich, 0.606569, 7
+5, sexy fries, 0.76965, 8
+5, good Mickey, 0.557127, 8

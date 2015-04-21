@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, Bud Light longneck, 0.92513, 0
+1, beautiful women, 0.492735, 0
+1, typical pub fare, 0.851632, 1
+1, typical dark smokey, 0.845909, 1
+1, little Mexican/asian man, 0.768779, 2
+1, fair review, 0.581235, 2
+1, Overall experience WACK, 0.783235, 3
+1, friendly Irish atmosphere, 0.749441, 3
+1, bartender, 0.371119, 5
+1, bartenders, 0.286197, 6
+1, patron, 0.256213, 6
+1, Awesome place, 0.545548, 7
+1, kit kat, 0.519809, 8
+1, better time, 0.483896, 8
+2, indoor smoking thing, 0.98725, 0
+2, short drive, 0.756443, 0
+2, big table, 0.725046, 1
+2, times, 0.46716, 1
+2, typical smoking rednecks, 0.963021, 2
+2, Henderson/Las Vegas, 0.771295, 2
+2, hopes, 0.54121, 3
+2, food, 0.505781, 3
+2, bar, 0.620907, 4
+2, nachos, 0.598748, 4
+2, bartender, 0.572767, 6
+2, language, 0.504768, 6
+2, BBQ chicken pizza, 0.941887, 7
+2, Maker, 0.529234, 7
+2, menu, 0.462536, 8
+3, private party, 0.560187, 0
+3, regulars, 0.360701, 0
+3, pub atmosphere. kinda, 0.953278, 1
+3, sketchy area, 0.58389, 1
+3, proper service, 0.566652, 2
+3, BWW, 0.384081, 2
+3, hamburger b/c, 0.665721, 3
+3, buffalo wings, 0.646247, 3
+3, order, 0.40695, 4
+3, cheeseburger, 0.496546, 5
+3, warm apple jack, 0.805771, 6
+3, waitress nice food, 0.802569, 6
+3, right hand, 0.610811, 7
+3, decent place, 0.587645, 7
+3, bar staff, 0.551544, 8
+3, everybody, 0.352791, 8
+3, nice hang, 0.587425, 9
+3, pizza, 0.352576, 9
+4, advertising various specials, 0.939815, 0
+4, pub food, 0.809646, 0
+4, 2-The constant cursing, 0.942072, 1
+4, smokey dive bar, 0.930928, 1
+4, seating area/restaurant area, 0.924853, 2
+4, glass partitions, 0.77644, 2
+4, turkey melt sandwich, 0.933451, 3
+4, crazy people, 0.782839, 3
+4, food, 0.88356, 4
+4, drinks, 0.706751, 4
+4, place, 0.844154, 5
+4, chicken quesadilla, 0.809033, 6
+4, artichoke dip, 0.805632, 6
+4, normal rating, 0.787332, 7
+4, separate smoking area, 0.981557, 8
+4, job descent, 0.810508, 8
+4, overall great experience, 0.942586, 9
+4, great burgers, 0.780842, 9
+5, icy coldest beers, 0.972735, 0
+5, e.g. football games, 0.950472, 0
+5, neighborhood bar experience, 0.955416, 2
+5, peanut butter BLT, 0.924615, 2
+5, bar tenders, 0.973273, 3
+5, little video poker, 0.930073, 3
+5, fiance, 0.863036, 4
+5, neighborhood bars, 0.835826, 4
+5, chicken parm, 0.837612, 6
+5, taco salad, 0.823797, 6
+5, delicious grilled chicken, 0.963261, 7
+5, Great neighborhood establishment, 0.94424, 7
+5, best bartender, 0.85702, 8
+5, Great place, 0.839246, 8
+5, good beer selection, 0.931512, 9
+5, pretty chill vibe, 0.924984, 9

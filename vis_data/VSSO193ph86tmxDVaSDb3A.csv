@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, Buffalo Wild Wings, 0.876686, 0
+1, checks, 0.586546, 0
+1, horrible service.Our crew, 0.839276, 1
+1, awful worst service, 0.804604, 1
+1, food, 0.616114, 2
+1, friend, 0.586902, 2
+1, server, 0.577332, 3
+1, 45 minutes, 0.539205, 3
+1, hooters, 0.997362, 5
+1, manager, 0.65097, 5
+1, ROCK STARS, 0.682175, 6
+1, check, 0.535169, 6
+1, Beach Place Ft, 0.817584, 7
+1, new beer, 0.663878, 7
+2, Salt River Fields, 0.903891, 0
+2, sub par, 0.718555, 0
+2, pickle chips, 0.767618, 1
+2, rusty lettuce, 0.733187, 1
+2, b*tchiest waitress, 0.739419, 2
+2, cole slaw, 0.730043, 2
+2, boneless wings, 0.960197, 3
+2, wallet, 0.718297, 3
+2, place, 0.520555, 4
+2, salad, 0.549508, 5
+2, Buffalo Wild Wings, 0.949197, 6
+2, generous chicken caesar, 0.947558, 8
+2, favorite wings, 0.755441, 8
+3, Salt River Field., 0.498964, 0
+3, Scottsdale chickens, 0.373802, 0
+3, mediocre wings, 0.517639, 1
+3, undercooked dinner, 0.372774, 1
+3, numerous adult beverages, 0.488536, 2
+3, endless wings, 0.445064, 2
+3, hooters, 0.870387, 4
+3, small people, 0.362761, 4
+3, Buffalo Wild Wings, 0.925814, 6
+3, extra blue cheese, 0.580312, 6
+3, Hooters girls, 0.632156, 7
+3, huge band, 0.340792, 7
+3, Nice place, 0.349919, 8
+3, Cobb salad, 0.345985, 8
+3, frozen Bellini, 0.335478, 9
+3, frozen drinks, 0.325846, 9
+4, boneless wings night, 0.525338, 0
+4, late morning errands, 0.491091, 0
+4, gawd awful hooters, 0.673682, 2
+4, different frozen concoctions, 0.474373, 2
+4, bar area, 0.399851, 3
+4, Owl wings, 0.454245, 4
+4, chicken wings, 0.452622, 4
+4, hooters, 0.902486, 5
+4, Hooters female bartender, 0.657023, 6
+4, great cold beer, 0.493372, 6
+4, particular Hooters, 0.651803, 7
+4, great place, 0.543344, 7
+4, signature hooters wings, 0.738296, 8
+4, polite quality hooters, 0.669064, 8
+4, whichever sport tickles, 0.479757, 9
+4, Daytona Wings, 0.457801, 9
+5, regular hot wings, 0.582357, 0
+5, Buffalo Wild Wings, 0.536642, 0
+5, bad experience, 0.349472, 1
+5, kitschy gimmick, 0.344874, 1
+5, frequent visitor, 0.510766, 2
+5, stellar service, 0.492766, 2
+5, Hooters, 0.99495, 5
+5, wings, 0.911274, 6
+5, Spring Training game, 0.733274, 6
+5, boneless wings, 0.753185, 7
+5, caramel cheese cake, 0.735532, 7
+5, local non chain, 0.740139, 8
+5, non chain restaurants, 0.732079, 8
+5, Chipotle Honey sauce, 0.754066, 9
+5, Western BBQ burger, 0.750409, 9

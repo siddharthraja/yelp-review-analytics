@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, awesome cougar bar, 0.952232, 0
+1, worst place, 0.855387, 0
+1, eye contact, 0.981226, 1
+1, racist establishment, 0.839936, 1
+1, TOURIST SPOTS, 0.857569, 2
+1, time, 0.844413, 2
+1, terrified American college, 0.953731, 3
+1, great night, 0.837311, 3
+1, place, 0.907767, 4
+1, dance floor, 0.9518, 5
+1, Montreal club experience, 0.983395, 6
+1, revolving dance floor, 0.937469, 6
+1, pseudo-French Brasserie look, 0.966559, 7
+1, viande par excellence, 0.965604, 7
+1, sheer ironic enjoyment, 0.969021, 8
+1, Roxbury Guys, 0.858889, 8
+2, dollar cover charge, 0.876992, 0
+2, tourist older women, 0.875236, 0
+2, Faneuil Hall, 0.76797, 1
+2, equivalent scene, 0.759611, 1
+2, dessert menu, 0.777544, 2
+2, food, 0.711294, 2
+2, late dinner, 0.792257, 3
+2, 20-something dollars, 0.783909, 3
+2, place, 0.825541, 4
+2, service, 0.693503, 4
+2, drinks, 0.767605, 5
+2, table, 0.706972, 5
+2, garlic butter, 0.928155, 6
+2, St. Laurent Avenue, 0.883431, 6
+2, night life action, 0.893753, 7
+2, Saturday night, 0.795672, 7
+3, grocery store salsa, 0.971173, 0
+3, casual drinks, 0.868724, 0
+3, low lighting, 0.808256, 1
+3, crowd, 0.644976, 1
+3, college-town frat club, 0.990949, 2
+3, Eric Van Nguyen, 0.946451, 2
+3, brass ceilings, 0.806379, 3
+3, college dudes, 0.801106, 3
+3, place, 0.811155, 5
+3, way, 0.665407, 5
+3, Kraft bbq sauce, 0.985965, 6
+3, free mandarin oranges, 0.980309, 6
+3, quick bunch, 0.832079, 7
+3, chicken wings, 0.8043, 7
+3, AMAZING decor, 0.80698, 8
+3, Good place, 0.806292, 8
+4, mini dance floor, 0.914977, 0
+4, layer IMO, 0.764139, 0
+4, dbags reviewers, 0.755975, 2
+4, semblance, 0.520289, 3
+4, wallflower, 0.503892, 3
+4, Montreal, 0.461574, 6
+4, lamb rack, 0.780789, 7
+4, free cover, 0.693146, 7
+4, snails, 0.492657, 8
+5, main dish, 0.634103, 0
+5, Calamari, 0.280475, 0
+5, slow food restaurant, 0.861938, 2
+5, risotto, 0.285257, 6
+5, scallops, 0.248904, 6
+5, Nice bar, 0.669124, 7
+5, entire place, 0.66328, 7
+5, French Onion soup, 0.973946, 8
+5, European twist, 0.663658, 8
+5, wonderful view, 0.613047, 9
+5, atmosphere, 0.242075, 9

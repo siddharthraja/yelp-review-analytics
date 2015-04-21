@@ -1,0 +1,10 @@
+rating, keyword, relevance, bucket
+1, food, 0.796386, 0
+1, service, 0.787066, 0
+1, reason, 0.986792, 2
+3, HUGE game room, 0.923161, 2
+3, problem, 0.373379, 2
+3, place, 0.420906, 3
+3, kids perspective, 0.650427, 6
+3, stars, 0.363346, 6
+3, big treat, 0.729166, 7

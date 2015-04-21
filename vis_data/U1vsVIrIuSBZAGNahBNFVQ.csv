@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, table multiple times, 0.829272, 0
+1, worst steak, 0.68543, 0
+1, cake small burnt, 0.819079, 1
+1, nice service, 0.659947, 1
+1, extra BBQ sauce, 0.797538, 2
+1, bartender, 0.685398, 2
+1, food, 0.965827, 3
+1, manager, 0.824456, 3
+1, waitress, 0.811053, 4
+1, situation, 0.704813, 4
+1, patron, 0.614968, 5
+1, professional manager, 0.640667, 6
+1, Morgan, 0.493908, 6
+1, hopefully Gordon Ramsay, 0.868181, 7
+1, chain restaurants, 0.651807, 7
+1, dinner, 0.507519, 8
+1, grandma, 0.452818, 8
+2, Sorry Ms. Tuesday, 0.848627, 0
+2, blackberry puree, 0.748845, 0
+2, Nature Valley granola, 0.876671, 1
+2, chicken tortilla soup, 0.842206, 1
+2, crab cake, 0.873546, 2
+2, broccoli cheese soup, 0.829685, 2
+2, plain yogurt, 0.868221, 3
+2, actual experience, 0.759958, 3
+2, ruby tuesdays, 0.977573, 4
+2, drinks, 0.741936, 4
+2, food, 0.887852, 5
+2, brunch menu, 0.886246, 6
+2, New Orleans seafood, 0.824643, 6
+2, good things, 0.784751, 7
+2, nicer Friday, 0.765679, 7
+2, pretty good flavor, 0.861237, 8
+2, salad bar, 0.735527, 8
+2, drink menu, 0.761623, 9
+2, creative menu, 0.760792, 9
+3, Awesome salad bar, 0.646181, 0
+3, salad dressings, 0.601002, 0
+3, chicken breast, 0.580516, 1
+3, jerk seasoning, 0.570549, 1
+3, Louisiana Fried Shrimp, 0.635086, 2
+3, Crab Cake Dinner, 0.572582, 2
+3, Tuesday salad bar, 0.647389, 3
+3, endless fries, 0.581237, 3
+3, coupon, 0.596213, 4
+3, chicken, 0.595693, 4
+3, salad bar, 0.947772, 5
+3, spicy chile sauce, 0.749086, 5
+3, Ruby, 0.580095, 6
+3, Alpine Swiss Burger, 0.567698, 6
+3, fresh salad bar, 0.643488, 7
+3, Creamy Mashed Cauliflower, 0.630828, 7
+3, good salad bar, 0.644035, 9
+3, iced tea, 0.593132, 9
+4, fresh salad bar, 0.638963, 0
+4, massive salad, 0.585505, 0
+4, new spicy chicken, 0.561012, 1
+4, Chicken Harvest Soup, 0.55837, 1
+4, salad bars, 0.585635, 2
+4, ingredient Salad Bar, 0.623803, 3
+4, vanilla ice cream, 0.573724, 3
+4, service, 0.566249, 4
+4, salad bar, 0.966241, 5
+4, Las Vegas, 0.610342, 5
+4, potato salad, 0.617174, 6
+4, Ruby, 0.595147, 6
+4, parmesan cream sauce, 0.67231, 7
+4, unlimited salad bar, 0.671531, 7
+4, skin-on potato salad, 0.608065, 8
+4, Asian Dumplings, 0.596347, 8
+5, -Triple prime burger, 0.798533, 0
+5, flavored teas, 0.608962, 0
+5, poor table maintenance, 0.725943, 1
+5, sad panda, 0.614891, 1
+5, North Las Vegas, 0.738536, 2
+5, numerous times, 0.586828, 2
+5, Southern Nevada, 0.577939, 3
+5, Words, 0.441353, 3
+5, blue cheese, 0.903567, 4
+5, ruby, 0.712168, 4
+5, NOM NOM NOM, 0.820929, 6
+5, northern nevada, 0.743017, 6
+5, peach tea, 0.789696, 7
+5, delicious Service, 0.607524, 7
+5, salad bar, 0.968686, 8
+5, service, 0.668322, 8
+5, appealing look, 0.581564, 9
+5, Music  way, 0.577859, 9

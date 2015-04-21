@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, good thing, 0.959394, 0
+1, awful service, 0.760436, 0
+1, crab cakes, 0.760953, 1
+1, tasteless bread, 0.713697, 1
+1, food, 0.910885, 2
+1, Au Gratin potatoes, 0.879676, 2
+1, Monday night, 0.948357, 3
+1, medium filet minion, 0.907377, 3
+1, customer, 0.577423, 4
+1, water, 0.544129, 4
+1, spicy blood orange, 0.936888, 6
+1, great location, 0.712135, 6
+1, Hey Eva, 0.711929, 7
+2, severe abdominal cramps, 0.937507, 0
+2, waiter, 0.512155, 0
+2, cold sweats, 0.641227, 1
+2, nausea, 0.310693, 1
+2, recent reviews, 0.688447, 2
+2, spouses glass, 0.629081, 2
+2, comment, 0.291753, 3
+2, thing, 0.288137, 3
+2, food, 0.717114, 4
+2, different story, 0.664765, 6
+2, tasty pretzel bread, 0.918781, 7
+2, lobster mac&cheese, 0.681567, 7
+2, disapointing outing, 0.719495, 8
+2, Vegas trip, 0.700859, 8
+3, best guacamole dip, 0.860169, 0
+3, petite filet steak, 0.821791, 0
+3, star restaurant, 0.745345, 1
+3, strict menu choices, 0.81615, 2
+3, lousy voucher, 0.778137, 2
+3, voucher, 0.903196, 3
+3, main course, 0.837661, 3
+3, waiter, 0.85879, 4
+3, prime rib, 0.812975, 4
+3, Beso, 0.851298, 5
+3, night, 0.826602, 5
+3, restaurant, 0.866826, 6
+3, special b-day party, 0.812199, 6
+3, chocolate cake, 0.946203, 7
+3, complementary dinner, 0.839842, 7
+3, 30th bday dinner, 0.827378, 8
+3, water fountain/main entrance, 0.799258, 8
+3, Mexican-style restaurant, 0.750461, 9
+3, happy servers, 0.729275, 9
+4, bone-in ribeye steak, 0.769504, 0
+4, au gratin potatoes, 0.764591, 0
+4, average party size, 0.696336, 1
+4, endorsed/major investor/co-branding overhype, 0.699257, 2
+4, Eva Longoria, 0.954036, 3
+4, green beans, 0.904021, 3
+4, food, 0.742765, 5
+4, restaurant, 0.722494, 5
+4, beso beso salad, 0.785505, 6
+4, steak w/ horseradish, 0.752283, 6
+4, dinner, 0.758273, 7
+4, Guacamole w/ crispy, 0.754022, 7
+4, free food tastes, 0.727994, 8
+4, traditional steak house, 0.719881, 8
+4, Yum yum Yum, 0.761861, 9
+4, extensive wine list, 0.695496, 9
+5, rubbed skirt steak, 0.980355, 0
+5, crispy potato strips, 0.947245, 0
+5, times gone baby, 0.923162, 1
+5, bean ice cream, 0.930695, 2
+5, comp drink tickets, 0.924169, 2
+5, beautiful crystal chandler, 0.939765, 3
+5, steak fan, 0.912674, 3
+5, ice cream, 0.937231, 4
+5, night, 0.917686, 5
+5, Beso, 0.900489, 5
+5, asparagus ala carte, 0.949699, 6
+5, nice crispy exterior, 0.949179, 6
+5, creme brulee, 0.943513, 7
+5, sea salt butter, 0.943439, 7
+5, petite filet, 0.955132, 8
+5, pleasant butter flavor, 0.948483, 8
+5, trips. best steak, 0.977953, 9
+5, crispy black cherries, 0.950725, 9

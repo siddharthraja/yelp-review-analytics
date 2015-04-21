@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+3, strip mall, 0.875331, 0
+3, cold domestic beer, 0.790773, 0
+3, dead mall, 0.798783, 1
+3, pawn shop, 0.574361, 1
+3, Old school dive, 0.973828, 2
+4, pool tables, 0.553523, 0
+4, Jager, 0.442041, 0
+4, strip mall, 0.551989, 1
+4, Friday night, 0.572119, 2
+4, pool shark, 0.569369, 2
+4, kinda sorta punk, 0.67983, 3
+4, one-mile radius, 0.570327, 3
+4, place, 0.449878, 4
+4, Jupes, 0.706105, 5
+4, patrons, 0.49089, 5
+4, nice little dive, 0.695708, 6
+4, little dive bar, 0.948785, 7
+4, cold beer Friend, 0.721798, 7
+4, Great little Dive, 0.710821, 8
+4, great cast, 0.572149, 8
+5, Dive Bar Safari, 0.631152, 0
+5, Vikings Fight Song, 0.607523, 0
+5, Star Dive Bar, 0.67849, 1
+5, vikings bar, 0.735635, 2
+5, Minnesota Vikings Bar, 0.67703, 2
+5, Minnesota Vikings fan, 0.627545, 3
+5, Minnesota/North Dakota backroads, 0.582959, 3
+5, dive bar, 0.957021, 4
+5, fake Billy Bob, 0.57292, 6
+5, place, 0.533327, 6
+5, great dive bar, 0.796518, 7
+5, dive bar welcome, 0.673341, 7
+5, dive bars, 0.694989, 8
+5, cold beer, 0.579527, 8
+5, fun place, 0.454808, 9
+5, great people, 0.448186, 9

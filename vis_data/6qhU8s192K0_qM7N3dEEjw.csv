@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+3, Ginger Beer, 0.660542, 0
+3, double-edged sword, 0.65583, 0
+3, trade, 0.444745, 1
+3, passable salad, 0.727075, 2
+3, foot bottle, 0.722661, 2
+3, pub crawl, 0.741007, 3
+3, central spot, 0.646618, 3
+3, traditional pub atmosphere, 0.925514, 6
+3, bueno  Guacamole, 0.722791, 6
+3, mozzarella cheese, 0.710822, 7
+3, Good selection, 0.67996, 7
+3, Interesting decor, 0.715937, 8
+3, Cozy place, 0.703221, 8
+3, good laugh, 0.670694, 9
+3, Tex-Mex, 0.469256, 9
+4, pub food, 0.609846, 0
+4, drunk local clientele, 0.479718, 0
+4, Maggie Dicksons Pub, 0.7738, 3
+4, tender taking time, 0.449637, 3
+4, good portion size, 0.462345, 6
+4, favourate haunt, 0.38266, 6
+4, great little pub, 0.640495, 7
+4, Apparantly Maggie Dickson, 0.61049, 7
+4, Maggie Dickson, 0.971638, 8
+4, traditional pub grub, 0.664647, 8
+4, deliberately creepy wee, 0.468674, 9
+4, theme pub, 0.464241, 9
+5, Indian tongue, 0.587138, 0
+5, drinking list, 0.583079, 0
+5, America, 0.400364, 1
+5, case, 0.350424, 2
+5, Gunn dark brew, 0.864639, 3
+5, Saturday night crowd, 0.856782, 3
+5, Scotland, 0.529124, 4
+5, food, 0.513564, 4
+5, Maggie Dickson, 0.92356, 6
+5, taste, 0.435684, 6
+5, waiter advise, 0.594872, 7
+5, Background music, 0.593341, 7
+5, kind bar staff, 0.883867, 8
+5, absolutely DELICIOUS, 0.634905, 8
+5, Great pub, 0.662308, 9
+5, burgers, 0.378281, 9

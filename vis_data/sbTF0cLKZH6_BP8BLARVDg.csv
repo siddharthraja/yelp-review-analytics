@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, large open bar, 0.903454, 0
+1, stunt man Curtze, 0.850721, 0
+1, minuscule ugly dress, 0.854874, 1
+1, humus eating gabfest, 0.848433, 1
+1, Super bad energy, 0.83999, 2
+1, cheap french press, 0.821916, 2
+1, wannabe pretensious night, 0.830667, 3
+1, good seating, 0.77464, 3
+1, table, 0.73009, 4
+1, gangster screen writer, 0.844533, 6
+1, bright pink 80, 0.84328, 6
+1, free Devo concert, 0.859464, 7
+1, shrimp skewers, 0.739598, 7
+1, bossa nova, 0.97205, 8
+1, favorite people, 0.727738, 8
+2, small plates works, 0.893894, 0
+2, liquor license application, 0.880608, 0
+2, sugary syrup crap, 0.873739, 1
+2, bar prices, 0.833037, 1
+2, biggest gripe, 0.892498, 2
+2, balding old man, 0.878433, 2
+2, non white people, 0.87372, 3
+2, food, 0.853256, 3
+2, bar, 0.938137, 4
+2, lounge seating, 0.878485, 5
+2, drinks, 0.847932, 5
+2, boob job care, 0.888202, 6
+2, young college girl, 0.879977, 6
+2, bar meat market, 0.902922, 7
+2, professional pittsburgh business, 0.885889, 7
+2, white frizzy mane, 0.878073, 8
+2, occaisional jersey shore, 0.875886, 8
+3, goat cheese toastas, 0.672604, 0
+3, th coat check, 0.668943, 0
+3, late night experience, 0.6845, 2
+3, traditional Spanish items, 0.683537, 2
+3, tapas, 0.717016, 3
+3, stellar Pittsburgh martini, 0.71201, 3
+3, night, 0.725938, 4
+3, drinks, 0.703267, 4
+3, food, 0.723249, 5
+3, people, 0.652619, 5
+3, Bossa Nova, 0.925231, 6
+3, Latin Dance night, 0.689371, 6
+3, huge circular bar, 0.713163, 7
+3, open air doors, 0.711357, 7
+3, best thing, 0.718088, 8
+3, good quality tuna, 0.71128, 8
+3, homemade Spanish Chorizo, 0.6827, 9
+3, pretty good tastes, 0.680658, 9
+4, jersey laden bars, 0.852617, 0
+4, Heinz Hall, 0.768974, 0
+4, huge floor plan, 0.922703, 1
+4, somewhat feckless service, 0.892966, 1
+4, Mad Mex restaurant, 0.86172, 3
+4, Monday nite, 0.773913, 3
+4, dance floor, 0.873591, 5
+4, decent wine/beer list, 0.846365, 6
+4, salsa night, 0.801078, 6
+4, Bossa Nova, 0.917675, 7
+4, pretty excellent DJ, 0.873267, 7
+4, pretty lounge-y vibe, 0.870088, 8
+4, Thursdays super FUN, 0.849458, 8
+4, servings, 0.636788, 9

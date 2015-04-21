@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, Nachos, 0.520071, 0
+1, cheap drinks, 0.7989, 1
+1, mayonnaise, 0.501069, 1
+1, single dollar sign, 0.963479, 2
+1, kitchen, 0.514868, 2
+1, weekend deals, 0.740949, 3
+1, dark specials, 0.730221, 3
+1, food, 0.577925, 4
+1, patio, 0.48481, 7
+1, service, 0.459578, 7
+1, beer n burger, 0.718415, 9
+1, better pubs, 0.711759, 9
+2, c'est parce que, 0.979511, 0
+2, faut trop que, 0.973103, 0
+2, place goth music, 0.87276, 1
+2, Tsk tsk, 0.811416, 1
+2, decent alcoholic beverage, 0.866582, 2
+2, new table, 0.800401, 2
+2, overly drunk people, 0.869339, 3
+2, Gigantic yard, 0.792848, 3
+2, parce que c'est, 0.975101, 6
+2, Parce que ça, 0.941864, 6
+2, beautiful summer afternoon, 0.836317, 7
+2, quality beer, 0.802722, 7
+2, awesome terrace, 0.791305, 9
+3, Le bar est, 0.982621, 0
+3, le Saint-Sulpice, 0.941552, 0
+3, intérieure et son, 0.919708, 3
+3, la plupart commerciales, 0.917963, 3
+3, place, 0.970911, 5
+3, backyard beer garden, 0.992247, 6
+3, tout le monde, 0.926718, 6
+3, Good size patio, 0.907227, 7
+3, nice summer nite, 0.905126, 9
+3, Good place, 0.900723, 9
+4, Le patio est, 0.932491, 0
+4, Saint-Sulpice est très, 0.927592, 0
+4, kinda place, 0.820956, 1
+4, Le Saint Sulpice, 0.863418, 2
+4, big party frat, 0.824027, 2
+4, dance floor, 0.919967, 5
+4, place, 0.888154, 5
+4, est intéressante et, 0.890049, 6
+4, et surtout très, 0.888335, 6
+4, low-lit dance floors, 0.828088, 7
+4, amazing garden patio, 0.843263, 9
+4, great Montreal time, 0.827942, 9
+5, une bonne partie, 0.858623, 0
+5, passe une soirée, 0.857541, 0
+5, damn fool errand, 0.797332, 1
+5, Different music marks, 0.807914, 2
+5, douchey frat house, 0.815287, 3
+5, une terrasse immense, 0.877918, 6
+5, fait une grosse, 0.871475, 6
+5, Le Saint-Sulpice, 0.993791, 7
+5, Une super ambiance, 0.861753, 7
+5, outdoor beer garden, 0.910128, 8
+5, huge outdoor patio, 0.832449, 8

@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+4, chocolate oatmeal cookie, 0.827286, 0
+4, somewhat small food, 0.823494, 0
+4, fake plants, 0.69827, 1
+4, instruction booklet, 0.675991, 1
+4, domestic wine, 0.712398, 2
+4, in-house prices, 0.69611, 2
+4, parking, 0.555611, 3
+4, kinda, 0.54954, 3
+4, bottle, 0.619129, 5
+4, nice cafe, 0.738539, 6
+4, white wine, 0.714826, 6
+4, super cute wine, 0.910631, 7
+4, veggie pasta salad, 0.862225, 7
+4, Friday night wine, 0.907217, 8
+4, classy looking place, 0.84435, 8
+4, Extremely good way, 0.897375, 9
+4, nice place, 0.750914, 9
+5, southeast Urbana, 0.554632, 0
+5, hummus plates, 0.526225, 0
+5, Metropolis Coffee Shop, 0.686455, 2
+5, Chicago, 0.367205, 2
+5, wine bar hybrid, 0.734985, 3
+5, Chai Bombs, 0.534757, 3
+5, atwitter, 0.341421, 4
+5, metropolis coffee, 0.811672, 6
+5, chai lattes, 0.54886, 6
+5, friday night, 0.948057, 7
+5, Mexican chocolate cake, 0.683709, 7
+5, free wine tastings, 0.713062, 8
+5, great outdoor space, 0.626385, 8
+5, Fantastic intimate wine, 0.65749, 9
+5, lovely way, 0.517174, 9

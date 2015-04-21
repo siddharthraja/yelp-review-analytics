@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+2, Carne Asada wontons, 0.863803, 0
+2, happy house menu, 0.784412, 0
+2, pork sliders, 0.990887, 2
+2, A/C, 0.226061, 2
+2, place, 0.257563, 4
+2, bar, 0.253637, 6
+2, bartender, 0.448188, 7
+3, passion fruit lemonade, 0.72886, 0
+3, taro chips, 0.710383, 0
+3, carne asada wontons, 0.719356, 1
+3, bummer, 0.440171, 1
+3, disappointment, 0.435293, 2
+3, quality, 0.433696, 2
+3, remiix meatballs, 0.57195, 3
+3, jalapeño poppers, 0.561096, 3
+3, place, 0.504864, 4
+3, experience, 0.435114, 4
+3, waitress, 0.481473, 5
+3, price, 0.466508, 5
+3, food, 0.814044, 6
+3, happy hour menu, 0.781114, 6
+3, passion fruit purée, 0.943099, 7
+3, better food, 0.586501, 7
+3, yummy lemonade drink, 0.738789, 8
+3, great food presentation, 0.690417, 8
+3, Super nice service, 0.688688, 9
+3, black furniture, 0.600787, 9
+4, spicy pork burrito, 0.864621, 0
+4, spicy rice cake, 0.858236, 0
+4, unappetizing fatty portions, 0.729496, 2
+4, spicy food, 0.754883, 3
+4, Korean fusion karaoke, 0.735569, 3
+4, big stick, 0.904163, 5
+4, spicy peach marmalade, 0.883203, 6
+4, typical bar food, 0.812397, 6
+4, beef bulgolgi burrito, 0.777634, 7
+4, friendly little place, 0.776631, 7
+4, pretty decent mix, 0.789729, 8
+4, good food, 0.761323, 8
+4, night asian fusion, 0.779418, 9
+4, late night, 0.765708, 9
+5, bulgogi burritos, 0.656583, 0
+5, Bulgogi beef tacos, 0.745267, 1
+5, happy hr til, 0.677019, 2
+5, spicy pork tacos, 0.724523, 3
+5, late night grub, 0.685943, 3
+5, menu, 0.70684, 5
+5, place, 0.935253, 6
+5, great bar food/music, 0.75839, 6
+5, street style corn, 0.860382, 7
+5, fast delicious food, 0.774079, 7
+5, great food, 0.91877, 8
+5, hidden gem, 0.807863, 8
+5, food great prices, 0.777151, 9
+5, eat great food, 0.74403, 9

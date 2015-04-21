@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, drink specials, 0.897548, 0
+1, worst singers, 0.950771, 1
+1, reason, 0.539159, 1
+1, bar, 0.653688, 2
+1, ears, 0.578565, 2
+1, place, 0.757773, 3
+1, crowd, 0.552992, 3
+1, time cause, 0.951818, 6
+1, karaoke, 0.579468, 6
+1, iPhone, 0.590227, 7
+1, review, 0.52897, 7
+2, crappy-but-fun karaoke, 0.751457, 0
+2, Cheers-type atmosphere, 0.742559, 0
+2, Woodshed, 0.398209, 1
+2, locals, 0.389566, 1
+2, similar bar kitty-corner, 0.921005, 2
+2, cheap drinks, 0.772133, 2
+2, particular bartender, 0.713237, 3
+2, darn thing, 0.707138, 3
+2, hang-out time, 0.743468, 6
+2, Sunday screwdrivers, 0.720411, 6
+2, icing, 0.402391, 7
+2, stuff, 0.386543, 7
+3, Strip Mall Gold, 0.974567, 0
+3, just-as-cheap drinks, 0.812606, 0
+3, good place, 0.809962, 1
+3, big group, 0.791277, 1
+3, saturday nights, 0.990867, 2
+3, Good bar food, 0.948358, 2
+3, cheap drinks, 0.857749, 3
+3, actual gold, 0.803562, 3
+3, bartender, 0.689282, 4
+3, morning, 0.661386, 5
+3, usual Cheers crew, 0.987703, 6
+3, original 5-star rating, 0.94736, 6
+3, French toast, 0.79035, 7
+3, Friday night, 0.777549, 7
+3, Sunday NFL, 0.957023, 8
+3, Sunday NFL Breakfast, 0.925249, 8
+4, key dive bar, 0.709881, 0
+4, Cool local sports, 0.635931, 0
+4, typical neighborhood bar, 0.699535, 1
+4, expectation neighborhood bar, 0.673833, 1
+4, nice divey time, 0.661104, 2
+4, small dive, 0.56728, 2
+4, bar, 0.817895, 3
+4, ice cold draft, 0.643349, 3
+4, regulars, 0.503327, 4
+4, Friday Night Karaoke, 0.672092, 6
+4, cent wings, 0.552869, 6
+4, favorite local bar, 0.702077, 7
+4, big pool room, 0.628481, 7
+4, trucker style breakfast, 0.913449, 8
+4, Amazing trucker style, 0.906501, 8
+4, pretty chill place, 0.644501, 9
+5, DJ Bon Joke, 0.976098, 0
+5, comfortable dive bar, 0.775573, 0
+5, real cheap drinks, 0.811163, 1
+5, new bar spot, 0.743803, 1
+5, karaoke places, 0.783433, 2
+5, jalapeño cheese curds, 0.747237, 2
+5, hard time, 0.642724, 3
+5, karaoke, 0.906806, 6
+5, cheap drinks, 0.836799, 6
+5, Friday night, 0.674788, 7
+5, flashy scene, 0.665649, 7
+5, old-fashioned karaoke, 0.823912, 8
+5, daytime bartender, 0.662217, 8
+5, awesome trivia night, 0.764895, 9
+5, funny big guy, 0.737708, 9

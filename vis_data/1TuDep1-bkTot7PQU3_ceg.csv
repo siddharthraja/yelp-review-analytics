@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, words, 0.511486, 0
+1, disgusting, 0.933785, 1
+2, Irish Hooters, 0.942427, 0
+2, garlic fries, 0.931158, 0
+2, Mixed drinks, 0.874581, 1
+2, waitress, 0.722236, 1
+2, menu, 0.493091, 2
+2, outfit change, 0.813673, 3
+2, entertainers, 0.515202, 6
+2, girls, 0.493351, 6
+2, midway, 0.510566, 8
+2, friend, 0.501645, 8
+4, garlic fry, 0.932758, 0
+4, sandwich, 0.568604, 0
+4, mom, 0.544549, 3
+4, food, 0.391752, 3
+4, super yummy, 0.796336, 8
+5, deal, 0.615605, 2
+5, kids, 0.500909, 2
+5, good music, 0.760071, 7
+5, husband, 0.632174, 7
+5, reasonable price, 0.928812, 9
+5, food, 0.50707, 9

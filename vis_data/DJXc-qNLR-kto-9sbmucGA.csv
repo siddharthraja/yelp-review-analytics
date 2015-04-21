@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, douche bag regulars, 0.992915, 0
+1, cold burger., 0.721683, 0
+1, place, 0.422155, 1
+1, bar, 0.390505, 1
+1, bartender, 0.698328, 2
+1, Sat night, 0.696383, 2
+1, customers, 0.435491, 3
+1, expense, 0.305317, 3
+1, good customer service, 0.910748, 6
+1, Nicole, 0.442037, 7
+1, advice, 0.298681, 7
+1, simple condiments, 0.75599, 8
+1, breakfast, 0.306161, 8
+2, old mountain cabin, 0.834317, 0
+2, Southwestern burger, 0.778653, 0
+2, huge ash, 0.660003, 1
+2, smell, 0.451832, 1
+2, degraded food stock, 0.881851, 2
+2, need, 0.4471, 2
+2, Baby Bear breakfast, 0.863705, 3
+2, burger patty, 0.757666, 3
+2, waitress, 0.654156, 4
+2, kind, 0.512157, 4
+2, previous wait staff, 0.902907, 6
+2, place, 0.808473, 6
+2, Timbers coupon, 0.704703, 7
+2, previous review, 0.670246, 7
+2, green chile, 0.689041, 8
+2, good things, 0.648744, 8
+3, decent sliders, 0.742701, 0
+3, Timbers coupons, 0.741971, 0
+3, Touch game centers, 0.828093, 1
+3, business trips, 0.719644, 1
+3, Ck ur newpaper, 0.850029, 2
+3, sports bar person, 0.829926, 2
+3, cole slaw, 0.88304, 3
+3, cole slaw wasnt, 0.855867, 3
+3, place, 0.9192, 4
+3, drinks, 0.872353, 5
+3, sweet potato fries, 0.852628, 6
+3, best friends, 0.746966, 6
+3, BBQ chicken sliders, 0.845853, 7
+3, place b/c, 0.793713, 7
+3, Jameson shots, 0.747131, 8
+3, good wings, 0.741459, 8
+3, pretty good coupons, 0.86475, 9
+3, tangy BBQ sauce, 0.845841, 9
+4, price FREEEEEEE LOL, 0.894946, 0
+4, Dont laugh, 0.74729, 0
+4, mixed drinks, 0.708643, 1
+4, beer stand, 0.69952, 1
+4, neighborhood bar, 0.884008, 2
+4, Decent neighborhood bar, 0.883519, 2
+4, Trivia Machine, 0.685156, 3
+4, coupons, 0.584229, 5
+4, mail, 0.571108, 5
+4, artichoke dip, 0.73427, 6
+4, weird looks, 0.717894, 6
+4, best ever bacon, 0.690136, 7
+4, Timbers, 0.59617, 7
+4, later night dinner, 0.908722, 8
+4, calmer recommended drink, 0.903714, 8
+4, great prices, 0.73126, 9
+4, home lol, 0.72729, 9
+5, yelp, 0.411665, 0
+5, deal, 0.354008, 0
+5, dimly lit bar, 0.888763, 2
+5, flat screens, 0.615847, 2
+5, complaints, 0.35837, 3
+5, good portion, 0.568603, 6
+5, cheesesteak, 0.393057, 6
+5, bacon cheese burgers, 0.928922, 7
+5, food, 0.449139, 7
+5, late night spot, 0.914487, 8
+5, Big Beautiful Burgers, 0.908247, 8
+5, Waitress, 0.400189, 9
+5, orders, 0.353972, 9

@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, shitty experiences, 0.748209, 0
+1, jazz band, 0.73856, 0
+1, drinks. wannabe mixologists., 0.902837, 1
+1, high rise folks, 0.885484, 1
+1, terrible customer service, 0.914397, 2
+1, future Vegas visitors, 0.895285, 2
+1, Gaudy nuveau-riche furniture, 0.949454, 3
+1, cheap furniture, 0.745385, 3
+1, decor, 0.59299, 4
+1, Yelp, 0.656509, 5
+1, Vegas style, 0.749412, 6
+1, free drinks promotion, 0.961605, 7
+1, happy hour drink, 0.773763, 7
+1, Thank God, 0.737849, 8
+2, specialty cocktail menu, 0.677353, 0
+2, hipster bar, 0.660595, 0
+2, somewhat crappy location, 0.653936, 1
+2, Lady Silvia experience, 0.648166, 1
+2, Lady Silvia, 0.935551, 2
+2, short term street, 0.636317, 2
+2, cool cocktail bar, 0.688029, 3
+2, speakeasy identity crisis, 0.670253, 3
+2, drink, 0.695145, 4
+2, acoustic singer-songwriter, 0.676877, 4
+2, place, 0.791339, 5
+2, bar, 0.734446, 5
+2, Completely lackadaisical staff, 0.655895, 6
+2, soho lofts, 0.65207, 6
+2, old vintage furniture, 0.64544, 7
+2, local pizza delivery, 0.638598, 7
+2, good DJ spinning, 0.646274, 8
+2, good.  lounge house, 0.642226, 8
+2, better all-around experience, 0.6371, 9
+2, fine speakeasy, 0.619207, 9
+3, better mixed drinks, 0.576768, 0
+3, artsy fartsy bar, 0.575724, 0
+3, super overpriced drinks, 0.581934, 1
+3, Small little bar, 0.548998, 1
+3, dark creepy hallway, 0.5347, 2
+3, Vegas Blvd, 0.517406, 2
+3, quaint little library, 0.508565, 3
+3, smoky bar, 0.502844, 3
+3, drinks, 0.841148, 4
+3, time, 0.608184, 4
+3, bar, 0.931357, 5
+3, place, 0.86827, 5
+3, great drinks prices, 0.585865, 6
+3, better drinks, 0.531814, 6
+3, bartender, 0.542405, 7
+3, nice Stella Artois, 0.534008, 7
+3, nice place, 0.546891, 8
+3, fun bar downtown, 0.537782, 8
+4, signature cocktail drink, 0.64849, 0
+4, average bar tender, 0.646489, 0
+4, interesting little bar, 0.650628, 2
+4, house music, 0.669754, 3
+4, after-work drinks, 0.651947, 3
+4, drinks, 0.803462, 5
+4, place, 0.764527, 5
+4, Lady Silvia, 0.919801, 6
+4, Las Vegas, 0.701711, 6
+4, specialty cocktails, 0.672312, 7
+4, good craft cocktails, 0.669825, 7
+4, Overall Lady Silvia, 0.690621, 8
+4, ginger beer drinks, 0.672158, 8
+4, solid classic cocktails, 0.661033, 9
+4, perfect place, 0.655507, 9
+5, tasty mixed drinks, 0.580362, 0
+5, quaint little place, 0.548375, 0
+5, cigerette smoking drink, 0.533371, 3
+5, trendy downtown district, 0.509403, 3
+5, drinks, 0.753978, 4
+5, Downtown Las Vegas, 0.581634, 4
+5, Lady Silvia, 0.984164, 5
+5, Las Vegas, 0.832293, 5
+5, place, 0.822813, 6
+5, Las Vegas Blvd, 0.628987, 6
+5, couple delicious drinks, 0.562562, 7
+5, antique/gothic looking furniture, 0.527851, 7
+5, great low-key place, 0.590807, 8
+5, drink menu, 0.587298, 8
+5, great drinks, 0.57373, 9
+5, great place, 0.562009, 9

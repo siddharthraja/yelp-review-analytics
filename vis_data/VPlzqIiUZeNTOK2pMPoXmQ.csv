@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, subway, 0.929076, 0
+1, Shouldve, 0.608264, 0
+2, enlightening moment, 0.501836, 0
+2, high performance, 0.500186, 0
+2, local saying goes, 0.677119, 1
+2, situation, 0.378212, 1
+2, narrow corridor, 0.730012, 2
+2, active smoke machine, 0.634571, 2
+2, Saturday night, 0.910372, 3
+2, good techno music, 0.656486, 3
+2, base, 0.63959, 4
+2, dance floor, 0.677171, 5
+2, Sneaky Pete, 0.548825, 6
+2, nice feeling, 0.508397, 6
+2, small sofas, 0.502605, 7
+2, free area, 0.502465, 7
+2, great techno music, 0.679655, 8
+2, punchy bass, 0.507055, 8
+4, thats, 0.348159, 0
+4, bunch, 0.311452, 0
+4, review, 0.275174, 2
+4, packed hallway, 0.986407, 3
+4, hell, 0.280795, 3
+4, sticky floors, 0.953671, 4
+4, dance music, 0.875534, 4
+4, places, 0.253219, 6
+4, dive, 0.240743, 6
+4, good idea, 0.87864, 7
+4, brilliant time, 0.84951, 8
+4, atmosphere, 0.280615, 8

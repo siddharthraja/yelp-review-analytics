@@ -1,0 +1,19 @@
+rating, keyword, relevance, bucket
+2, middle eastern grocery, 0.899138, 0
+2, gun shop, 0.489427, 0
+2, little bit crummy, 0.918928, 1
+2, rotten fruit, 0.424673, 1
+2, strip mall, 0.520908, 2
+2, divey bar, 0.459184, 2
+2, shuffle board, 0.456423, 6
+2, fun time, 0.381917, 6
+2, pretty cool, 0.489637, 8
+5, darts, 0.472225, 0
+5, shuffle board, 0.714463, 3
+5, bar-side arcade games, 0.876846, 6
+5, jukebox, 0.47654, 6
+5, Scottsdales hidden gems, 0.988445, 7
+5, awesome side note, 0.714668, 8
+5, great deals, 0.672108, 8
+5, AMAZING deals, 0.757484, 9
+5, perfect place, 0.668857, 9

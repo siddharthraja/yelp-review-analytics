@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, crispy, 0.499803, 0
+1, moist, 0.493158, 0
+1, completely honest mistake, 0.962256, 1
+1, wrong temperature, 0.706356, 1
+1, bun, 0.590755, 3
+1, meat, 0.471852, 3
+1, review, 0.576536, 5
+1, food, 0.872571, 6
+1, beer, 0.482246, 6
+1, steak burger, 0.761137, 7
+1, fish, 0.549018, 7
+1, elusive opportunity, 0.742985, 9
+1, pint, 0.490392, 9
+2, utter rubbish, 0.699741, 0
+2, common friend, 0.687448, 0
+2, takeaway food, 0.724774, 1
+2, shame, 0.488113, 1
+2, kitchen, 0.576469, 2
+2, point, 0.459231, 2
+2, rain, 0.545524, 3
+2, Cuckoo, 0.468303, 3
+2, pork cheeks, 0.690828, 6
+2, chips, 0.542041, 6
+2, place, 0.525726, 7
+2, 4-star, 0.493754, 8
+2, unpretentious old man, 0.901356, 9
+2, pub atmosphere, 0.726104, 9
+3, Sailor Jerry girl, 0.892389, 0
+3, friendly bar man, 0.887778, 0
+3, Real ale isnt, 0.875269, 1
+3, ever-delightful Miss VD, 0.853757, 1
+3, whisky palate, 0.804116, 2
+3, intolerant beer, 0.781259, 2
+3, cold pint, 0.803426, 3
+3, warm beer, 0.769413, 3
+3, pint, 0.810582, 5
+3, Cloisters, 0.784623, 5
+3, regular beverage, 0.762961, 6
+3, traditional ale-houses, 0.740678, 6
+3, good mix, 0.883179, 7
+3, bar snack menu, 0.859707, 7
+3, old church, 0.907609, 8
+3, real proper pub, 0.873644, 8
+4, traditional pub food, 0.795059, 0
+4, huge ale fan, 0.778946, 0
+4, baseball sports stars, 0.740273, 1
+4, old man pub, 0.772552, 2
+4, old fashioned bar, 0.773043, 3
+4, occasional tap takeover, 0.7259, 3
+4, bar, 0.922174, 5
+4, beer, 0.867104, 5
+4, Oakham Ales takeover, 0.792776, 6
+4, traditional pubs, 0.761126, 6
+4, cloisters, 0.939701, 7
+4, ales, 0.878707, 7
+4, cloisters bar, 0.902177, 8
+4, great Edinburgh pub, 0.805519, 8
+4, great place, 0.758492, 9
+4, beautifully tasting wines, 0.756505, 9
+5, old sewing machines, 0.881564, 0
+5, West Coast IPAs, 0.86942, 0
+5, large group, 0.701014, 2
+5, locals, 0.53895, 2
+5, great neighborhood-feeling bar, 0.867596, 3
+5, busy night, 0.734815, 3
+5, Elixir Brew Company, 0.85971, 6
+5, favorite pub, 0.827544, 6
+5, cask ale selection, 0.921131, 7
+5, Friday night, 0.724777, 7
+5, occasions Cloisters bar, 0.951315, 8
+5, UK pub, 0.791503, 8
+5, cozy little pub, 0.9922, 9
+5, good liquor selection, 0.854107, 9

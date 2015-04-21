@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, best salad bar, 0.833111, 0
+1, town, 0.360966, 0
+1, salad bar, 0.97986, 1
+1, salad bar case, 0.961437, 1
+1, right, 0.3605, 7
+2, couple, 0.364688, 0
+2, good Mexican food, 0.795326, 1
+2, little restaurants, 0.652586, 1
+2, prime rib, 0.905401, 3
+2, spiciest thing, 0.617098, 3
+2, good places, 0.561883, 6
+2, Wickenburg, 0.400351, 6
+2, decor, 0.37687, 7
+2, service, 0.358799, 7
+3, ribeye steak, 0.805037, 0
+3, price, 0.276075, 0
+3, half inch, 0.626093, 2
+3, restaurants, 0.300404, 3
+3, food, 0.282134, 3
+3, staff, 0.283134, 6
+3, beer, 0.282634, 6
+3, cool old bar, 0.981924, 7
+3, place, 0.287766, 7

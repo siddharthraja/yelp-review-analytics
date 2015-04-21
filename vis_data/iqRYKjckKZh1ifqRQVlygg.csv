@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, Greek Isles, 0.907001, 0
+1, nice large chunks, 0.896844, 0
+1, fake Yelp accounts, 0.91025, 1
+1, worst Greek place, 0.887023, 1
+1, low quality vegetables, 0.873107, 2
+1, food, 0.772933, 2
+1, potentially bad sanitation, 0.917331, 3
+1, poor customer service, 0.914395, 3
+1, feta chunks, 0.788238, 4
+1, bartender/only waitress, 0.766413, 4
+1, chicken souvlaki pita, 0.909682, 6
+1, good olive oil, 0.896169, 6
+1, similar crispy coating, 0.889959, 7
+1, good chance, 0.762484, 7
+1, good Greek restaurant, 0.909932, 8
+1, horiatiki salad, 0.754139, 8
+2, Gyro plate, 0.699231, 0
+2, awful last experience, 0.674765, 0
+2, substitute gyros, 0.740211, 2
+2, home, 0.502303, 2
+2, lamb beef fix, 0.879344, 3
+2, jar, 0.375406, 3
+2, place, 0.738626, 4
+2, food, 0.649273, 4
+2, lunch, 0.49219, 5
+2, nice brisk walk, 0.914968, 6
+2, onion rings, 0.725023, 6
+2, traditional gyros, 0.983113, 7
+2, healthy options, 0.651192, 7
+3, NASCAR race weekend, 0.830512, 0
+3, following night Nefelie, 0.791293, 0
+3, uptown lunches, 0.629694, 2
+3, fast pace, 0.523599, 2
+3, slow eating, 0.548172, 3
+3, lunch place, 0.541383, 7
+3, decent Greek salad, 0.929711, 8
+3, fine place, 0.424692, 8
+4, upstairs hole, 0.74293, 0
+4, health score, 0.727494, 0
+4, normal lunch, 0.816962, 1
+4, uptown parking, 0.741244, 1
+4, break room lunch, 0.89475, 2
+4, desert menu, 0.737558, 2
+4, pre-ground meat rules, 0.841938, 3
+4, Carolina burger, 0.75097, 3
+4, good sign, 0.842612, 4
+4, lunch, 0.991886, 5
+4, place, 0.774425, 5
+4, extra tarter sauce, 0.837346, 6
+4, ribeye special, 0.83376, 6
+4, regular lunch rotation, 0.947354, 7
+4, Greek run business, 0.823788, 7
+4, great value, 0.829232, 8
+4, Thursday special fo-sho, 0.812003, 8
+4, wonderful jumbo shrimp, 0.815721, 9
+4, cozy vibe, 0.738918, 9
+5, Huge portions, 0.548803, 0
+5, delectable dish, 0.547471, 0
+5, late evenings, 0.538293, 2
+5, lemon pepper chicken, 0.994001, 3
+5, Greek Lemon Chicken, 0.693031, 3
+5, homey contemporary feel, 0.650192, 6
+5, floor dining area, 0.642687, 6
+5, gyro meat, 0.827082, 7
+5, Pita Pialto dish, 0.641836, 7
+5, crispy french fries, 0.675104, 8
+5, gyro dishes, 0.605223, 8
+5, delicious Gyro meat, 0.720753, 9
+5, new favorite lunch, 0.671895, 9

@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+1, free entry, 0.764863, 0
+1, hen parties, 0.561415, 0
+1, good dancing tunes, 0.687096, 1
+1, apartment, 0.353094, 1
+1, sleazy guys, 0.515923, 2
+1, clientele, 0.345186, 2
+1, cheap dirty night, 0.662673, 3
+1, drinks, 0.463124, 3
+1, place, 0.496342, 5
+1, cranberry, 0.394289, 6
+1, vodka, 0.346025, 6
+1, cheesy tunes, 0.961684, 8
+1, hen night, 0.542153, 8
+2, old GHQ night, 0.833327, 0
+2, certain nights, 0.617948, 0
+2, student bubble, 0.978596, 1
+2, SORRY guys MOOD, 0.893207, 1
+2, Saturday night, 0.872682, 2
+2, WOW feature, 0.543772, 2
+2, stereotyped commercial chart, 0.8463, 3
+2, trusty Potterow, 0.610859, 3
+2, lounge, 0.263203, 6
+2, BETTER OPTIONS, 0.538431, 7
+2, good night, 0.527859, 7
+3, legend Keith Chegwin, 0.957497, 0
+3, live music nights, 0.88285, 0
+3, faintly tragic style, 0.915903, 1
+3, nightclub scene, 0.724548, 2
+3, cutting edge, 0.711349, 2
+3, alcoholic former TV, 0.68905, 3
+3, half bottle, 0.681775, 3
+3, Edinburgh folklore, 0.70891, 4
+3, Mood, 0.540402, 5
+3, British party animal, 0.879307, 6
+3, standard chart stuff, 0.87356, 6
+3, awake many nights, 0.714285, 7

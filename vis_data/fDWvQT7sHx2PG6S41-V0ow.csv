@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, young lady, 0.522375, 0
+1, sh*tty service, 0.507665, 0
+1, horrible service, 0.882201, 1
+1, kiddy cocktail, 0.520389, 1
+1, wrong kind, 0.819105, 2
+1, customer service, 0.487163, 2
+1, Meh. Sh*tty food, 0.886032, 3
+1, poor kid, 0.496251, 3
+1, good beer, 0.538768, 7
+1, waitress, 0.210813, 7
+1, Tator Tott concept, 0.915281, 8
+2, grilled flank steak, 0.955023, 0
+2, drink order, 0.585648, 0
+2, server, 0.358041, 1
+2, absolutely terrible service, 0.845253, 2
+2, heavy sigh, 0.627817, 2
+2, pretty rough time, 0.84672, 3
+2, Beer list, 0.637867, 3
+2, cilantro, 0.996602, 4
+2, baked mac, 0.941083, 6
+2, Churrasco flatbread pizza, 0.929984, 6
+2, littttttlllle more options, 0.636385, 7
+2, delicious food, 0.605606, 7
+2, chimichurri sauce, 0.867179, 8
+2, ton, 0.365586, 8
+2, warm pear salad, 0.924797, 9
+2, Groupon, 0.37109, 9
+3, fish tacos, 0.751156, 0
+3, Service, 0.251616, 0
+3, warm pear salad, 0.921896, 9
+3, friend, 0.328691, 9
+4, Cabana Room, 0.748207, 0
+4, Samba Brazilian Grill, 0.737963, 0
+4, sour cream, 0.783282, 2
+4, Bloody Mary bar, 0.731042, 2
+4, typical bar food, 0.752147, 3
+4, ordinary tots, 0.72596, 3
+4, place, 0.821443, 5
+4, burger, 0.751081, 5
+4, tater tots, 0.937252, 6
+4, fish tacos, 0.822381, 6
+4, BBQ chicken flatbread, 0.851609, 7
+4, border tots, 0.792125, 7
+4, great beer list, 0.952675, 8
+4, beer selection, 0.915384, 8
+4, Fantastic beer selection, 0.736121, 9
+4, homemade tots, 0.721723, 9
+5, popular Madison bar, 0.691014, 0
+5, beer batter fish, 0.683576, 0
+5, Mob Craft Batshit, 0.647929, 1
+5, main bar tender, 0.69084, 2
+5, regular stop, 0.688887, 3
+5, weird rotten lettuce, 0.670248, 3
+5, beer, 0.914008, 4
+5, place, 0.721165, 4
+5, seoul patrol sandwich, 0.819545, 6
+5, food, 0.755937, 6
+5, beers, 0.915045, 7
+5, beer battered fries, 0.834769, 7
+5, Wheat Style Beers, 0.72013, 8
+5, tap beers, 0.712815, 8
+5, Amazing beer selection, 0.739562, 9
+5, craft beer bar, 0.729549, 9

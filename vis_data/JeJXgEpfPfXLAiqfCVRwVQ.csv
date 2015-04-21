@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, chicken wings, 0.911311, 0
+1, night, 0.300028, 0
+1, free peanuts, 0.799026, 3
+1, beer, 0.290213, 3
+1, NASCAR fans, 0.741976, 8
+1, large number, 0.666717, 8
+2, cheese au gratin, 0.88014, 0
+2, tough skin wrap, 0.846896, 0
+2, fried green tomatoes, 0.855306, 1
+2, main reason, 0.630698, 1
+2, time, 0.66617, 2
+2, place, 0.633288, 2
+2, buffalo wings, 0.893195, 3
+2, ST Louis style, 0.870069, 3
+2, burger, 0.58583, 5
+2, sweet Western sauce, 0.857536, 6
+2, Newcastle Brown, 0.642371, 6
+2, chicken wings, 0.997481, 7
+2, tangy, 0.469672, 7
+2, Saturday night, 0.617821, 8
+2, salad, 0.581774, 8
+3, awesome shoestring fries, 0.808299, 0
+3, Wild Card game, 0.783475, 0
+3, considerably fewer patrons, 0.820072, 2
+3, bar food, 0.766698, 2
+3, average food, 0.652673, 3
+3, average place, 0.640913, 3
+3, Beer selection average, 0.787435, 6
+3, small local beer, 0.754868, 6
+3, beer selection, 0.972964, 7
+3, meat eating friends, 0.758449, 7
+3, great dinner, 0.604001, 8
+3, special spot, 0.600039, 8
+3, pretty basic menu, 0.789188, 9
+3, casual place, 0.763363, 9
+4, nice atmosphere, 0.908347, 0
+4, turkey burgers, 0.794853, 0
+4, slightly isolated location, 0.903717, 1
+4, chicken fingers, 0.75394, 1
+4, Fresh raw oysters, 0.938801, 2
+4, sports bar, 0.766146, 2
+4, daily beer specials, 0.954903, 6
+4, fried green tomatoes, 0.946818, 6
+4, Sweet Potato fries, 0.950914, 7
+4, big screen TVs, 0.946691, 7
+4, homemade shoestring fries, 0.944645, 8
+4, great NC lunch, 0.929477, 8
+4, good drink specials, 0.957407, 9
+4, good place, 0.798905, 9

@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+4, J'aime bien cet, 0.998794, 0
+4, cet endroit, 0.90627, 0
+4, Le Saint Edouard, 0.885567, 1
+4, friends, 0.526434, 1
+4, neighbourhood, 0.53433, 2
+4, trip, 0.524042, 2
+4, Bar sympa bien, 0.970486, 3
+4, situé dans Rosemont, 0.930429, 3
+4, recent Yelp anniversary, 0.872462, 6
+4, groupe d'ami, 0.689191, 6
+4, Bonne musique et, 0.913413, 7
+4, bonne ambiance, 0.753765, 7
+4, good whiskeys, 0.681859, 8
+4, grilled cheese, 0.680279, 8
+4, non sugary caipirinhas, 0.799743, 9
+4, great cocktails, 0.667329, 9
+5, late drinking pints, 0.891756, 0
+5, ou une soirée, 0.88858, 0
+5, big brown booths, 0.849033, 2
+5, little corner tables, 0.839077, 2
+5, door frame, 0.629403, 3
+5, Grenade, 0.461638, 3
+5, dim new bar, 0.908101, 6
+5, good vibes, 0.683251, 6
+5, une super ambiance, 0.890705, 7
+5, friendly Frenchman, 0.656253, 7
+5, new good places, 0.881276, 8
+5, joyful double embrace, 0.846508, 8
+5, intimate body parts, 0.8074, 9
+5, lovely waitress, 0.674116, 9

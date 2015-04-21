@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, good music, 0.63128, 0
+1, patrons, 0.439797, 0
+1, childish message, 0.716131, 1
+1, Friday night, 0.683409, 1
+1, immature comment, 0.836035, 2
+1, beer distributors, 0.666066, 2
+1, previous review, 0.687708, 3
+1, fingers, 0.316193, 3
+1, luck Chop Shop, 0.97939, 6
+1, friends, 0.295239, 8
+1, tour, 0.295098, 8
+4, screenprinting company-Ink Floyd, 0.800013, 0
+4, decent size stage, 0.794854, 0
+4, ridiculously long line, 0.782308, 1
+4, fresh air, 0.793695, 2
+4, music venue, 0.778636, 2
+4, NoDa food truck, 0.804422, 3
+4, God Save, 0.802717, 3
+4, chop shop, 0.996364, 4
+4, bar, 0.831509, 4
+4, place, 0.803601, 5
+4, venue, 0.879224, 6
+4, small outdoor area, 0.798209, 6
+4, outdoor area, 0.849633, 7
+4, cool place, 0.796072, 7
+4, great outdoor area, 0.804498, 8
+4, Nice craft beer, 0.790005, 8
+4, sound quality, 0.845853, 9
+4, midsize concert venue, 0.811451, 9
+5, class act, 0.667961, 0
+5, bar prices, 0.597706, 0
+5, way, 0.357666, 1
+5, bands, 0.357605, 1
+5, open warehouse atmosphere, 0.880941, 2
+5, high tops, 0.620977, 2
+5, NoDa, 0.38451, 3
+5, time, 0.414978, 4
+5, Pinback, 0.373411, 7
+5, tab, 0.361886, 7
+5, local live music, 0.814038, 8
+5, vodka tonic, 0.631508, 8
+5, cool music venue, 0.97924, 9
+5, pretty stellar view, 0.934772, 9

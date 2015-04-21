@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, Ohh Carly, 0.653769, 0
+1, Santa Fe Sandwich, 0.628721, 0
+1, cheap hash bar, 0.604224, 1
+1, famous Phoenix snarkiness, 0.589456, 1
+1, tuna salad, 0.793534, 2
+1, debit card, 0.581283, 2
+1, Carly, 0.938047, 3
+1, tuna melt, 0.720629, 3
+1, waitress, 0.622457, 5
+1, time, 0.5654, 5
+1, decent food, 0.634065, 6
+1, New Carly, 0.62487, 6
+1, good beer selection, 0.618842, 7
+1, nice little vibe, 0.576414, 7
+1, great remorse, 0.528672, 8
+1, good ambiance, 0.519144, 8
+2, grilled cheese, 0.747231, 0
+2, immature little weasels, 0.741678, 0
+2, dubious organic martini, 0.762195, 1
+2, cheap beer specials, 0.739298, 1
+2, Cape Cod salad, 0.730873, 2
+2, accidental unplanned way, 0.726859, 2
+2, food, 0.933025, 3
+2, good service, 0.758591, 3
+2, Carly, 0.867066, 4
+2, service, 0.832717, 4
+2, place, 0.764364, 5
+2, quality/more adventurous food, 0.764133, 6
+2, gluten-free vegan diet, 0.732666, 6
+2, pear panini, 0.824704, 7
+2, grilled mozzarella cheese, 0.741027, 7
+2, Plaid-like vibe dancing, 0.754229, 8
+2, sterling 5-star review, 0.753865, 8
+2, pleasant attentive attitude, 0.720712, 9
+3, good food, 0.510871, 0
+3, damn good bar, 0.504288, 0
+3, poor little sandwich, 0.512904, 1
+3, dingy little place, 0.50543, 1
+3, panini sandwich, 0.486926, 2
+3, live music, 0.579209, 3
+3, good service, 0.489716, 3
+3, carly, 0.952055, 4
+3, food, 0.776556, 4
+3, place, 0.791194, 5
+3, orzo salad, 0.743331, 5
+3, beer, 0.59627, 6
+3, menu, 0.551452, 6
+3, buffalo chicken sandwich, 0.493358, 7
+3, southwest chicken sandwich, 0.491884, 7
+3, beer selection, 0.589169, 8
+3, pretty good impression, 0.518891, 8
+3, great sandwich, 0.501006, 9
+3, good barbecue sauce, 0.48361, 9
+4, damn good hummus, 0.512817, 0
+4, BEST Greek salad, 0.492507, 0
+4, bloody mary, 0.564414, 2
+4, sandwich, 0.665398, 4
+4, Carly, 0.923974, 5
+4, great place, 0.729997, 5
+4, place, 0.830364, 6
+4, southwest chicken sandwich, 0.523731, 6
+4, orzo salad, 0.619318, 7
+4, cuban sandwich, 0.549773, 7
+4, beer selection, 0.609815, 8
+4, greek salad, 0.535929, 8
+4, good sandwich, 0.536714, 9
+4, good too-large-for-one sandwiches, 0.528495, 9
+5, Hummus trio appetizer, 0.495889, 0
+5, Lost Leaf, 0.505197, 2
+5, sandwich, 0.645966, 4
+5, Carly, 0.965019, 5
+5, place, 0.718489, 5
+5, food, 0.78177, 6
+5, menu, 0.540646, 6
+5, feta rosa, 0.632376, 7
+5, Carly Q., 0.569471, 7
+5, beer selection, 0.699302, 8
+5, Yay Carly, 0.594998, 8
+5, Good job Carly, 0.606991, 9
+5, great place, 0.546021, 9

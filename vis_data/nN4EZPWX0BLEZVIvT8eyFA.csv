@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+1, pretty unpleasant experience, 0.980442, 1
+1, night, 0.454924, 1
+1, food poisoning, 0.853242, 3
+1, girlfriend, 0.591532, 3
+1, haggis, 0.621917, 6
+1, place *looked*, 0.773203, 7
+4, old town Edinburgh, 0.963121, 0
+4, St. Christopher, 0.729432, 0
+4, 5-minus-1 star rating, 0.97235, 1
+4, pepper, 0.495505, 1
+4, busy place, 0.674186, 2
+4, haggis, 0.910302, 3
+4, insert joke, 0.76781, 3
+4, nice little pub, 0.975334, 6
+4, whiskey sauce, 0.747059, 6
+4, couple friends, 0.747521, 7
+4, pounds, 0.391139, 7
+4, Service, 0.369614, 8
+4, mashed potatoes, 0.767747, 9
+4, sweet potatoes, 0.729433, 9
+5, Glasgow Potato Scones, 0.703874, 0
+5, normal bread, 0.567612, 0
+5, mashed potato, 0.611224, 2
+5, little bland, 0.563539, 2
+5, Marie Rose sauce, 0.91665, 3
+5, crusty bread, 0.700081, 3
+5, soy sauce, 0.763646, 4
+5, best haggis, 0.608852, 6
+5, boyfriend, 0.437988, 6
+5, tourist booklets, 0.578679, 7
+5, drinks menu, 0.551773, 7
+5, sweet potato mash, 0.694641, 8
+5, late dinner, 0.551979, 8
+5, mushroom cream sauce, 0.72827, 9
+5, good compliment, 0.548365, 9

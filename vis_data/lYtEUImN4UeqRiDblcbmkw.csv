@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, big city wine-bar, 0.510563, 0
+1, corner Chinese place, 0.500632, 0
+1, unappetizing mornay sauce, 0.503088, 1
+1, tasteless gluey mess, 0.495804, 1
+1, Eno Vino, 0.937523, 2
+1, offensive dish, 0.519242, 2
+1, Foie Gras, 0.683097, 3
+1, ahi tuna tacos, 0.563224, 3
+1, lobster bisque, 0.661192, 4
+1, mornay sauce, 0.543561, 4
+1, duck confit risotto, 0.601186, 6
+1, soft cooked egg, 0.506419, 6
+1, pork belly, 0.765386, 7
+1, fresh Foie Gras, 0.589868, 7
+1, Target quality brie, 0.504939, 8
+1, water crackers, 0.459549, 8
+2, large outdoor seating, 0.625124, 0
+2, different drinks, 0.576477, 0
+2, soggy flatbread, 0.727246, 1
+2, strip mall treasure, 0.600322, 1
+2, unbelievably stupid policy, 0.643132, 2
+2, burnt crab cakes, 0.608602, 2
+2, wine bar niche, 0.667163, 3
+2, ****One big annoyance, 0.645642, 3
+2, drinks, 0.589837, 4
+2, wine bar, 0.81588, 5
+2, upscale wine bar, 0.669382, 6
+2, Eno Vino, 0.648763, 6
+2, green beans, 0.944902, 7
+2, wine selection, 0.54074, 7
+2, chorizo white bean, 0.601943, 8
+2, nice deal, 0.525499, 8
+3, salsa type mix, 0.645105, 0
+3, good dishes, 0.558773, 0
+3, sorry plate pickers, 0.673195, 1
+3, good food, 0.608893, 1
+3, parking stall, 0.569246, 2
+3, past weekend, 0.55694, 2
+3, Skirt Steak, 0.555668, 3
+3, waiter, 0.551184, 3
+3, Eno Vino, 0.993691, 5
+3, place, 0.581466, 5
+3, overall Eno Vino, 0.740112, 6
+3, Tapas trend, 0.575318, 6
+3, decent wine list, 0.67461, 7
+3, Great creme brûlée, 0.657948, 7
+3, great service, 0.65774, 8
+3, great food, 0.566788, 8
+3, generally delicious food, 0.689841, 9
+3, well-organized wine cellar, 0.664454, 9
+4, strip mall, 0.713172, 2
+4, pork belly, 0.765877, 4
+4, wine bar, 0.690993, 4
+4, food, 0.744044, 5
+4, place, 0.72415, 5
+4, Eno Vino, 0.93037, 6
+4, service, 0.697274, 6
+4, good food, 0.690215, 7
+4, chicken skewers, 0.682729, 7
+4, wine list, 0.768217, 8
+4, great food, 0.71066, 8
+4, great place, 0.722318, 9
+4, Great wine list, 0.689304, 9
+5, Eno Vino Wine, 0.698534, 0
+5, Vino Wine Bar, 0.68771, 0
+5, seared sesame tuna, 0.671644, 3
+5, Madison food scene, 0.654362, 3
+5, small plates, 0.793517, 4
+5, time, 0.697857, 4
+5, food, 0.798331, 5
+5, service, 0.716427, 5
+5, eno vino, 0.97813, 6
+5, wine, 0.760463, 6
+5, pork belly, 0.750467, 7
+5, calamari fries, 0.690815, 7
+5, wine list, 0.759628, 8
+5, wine selection, 0.711388, 8
+5, Great fresh food, 0.660928, 9
+5, Fantastic wine menu, 0.659272, 9

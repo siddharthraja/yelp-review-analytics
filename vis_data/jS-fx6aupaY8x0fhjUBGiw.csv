@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, Gallery Night Club=never, 0.643173, 0
+1, grade math class, 0.630953, 0
+1, good time, 0.6585, 1
+1, tiny dance floor, 0.640726, 1
+1, night club standards, 0.679104, 2
+1, Evil night club, 0.671089, 2
+1, dance floor, 0.88126, 3
+1, night club, 0.705692, 3
+1, club, 0.908895, 4
+1, people, 0.822178, 4
+1, music, 0.639469, 5
+1, cover, 0.634378, 5
+1, Wednesday night, 0.631723, 6
+1, Vegas new comers, 0.63022, 6
+1, complimentary drink, 0.62641, 7
+1, cover charge=not worth, 0.628736, 8
+1, Good job DJ, 0.618151, 8
+2, Long Island teas, 0.604123, 0
+2, game time decision, 0.603019, 0
+2, tall boy cans, 0.623575, 1
+2, bachelor party crew, 0.600999, 1
+2, worst club, 0.529877, 2
+2, club crawl, 0.527136, 2
+2, place, 0.634573, 3
+2, real theme, 0.518929, 3
+2, club, 0.810819, 5
+2, music, 0.577811, 5
+2, dance floor, 0.929001, 6
+2, main dance floor, 0.621337, 6
+2, Las Vegas club, 0.65442, 7
+2, free entry wristbands, 0.626622, 7
+2, girls, 0.51693, 8
+2, free vodka, 0.510146, 9
+3, bottle service, 0.51109, 0
+3, Gallery night club, 0.490865, 0
+3, club dance floors, 0.485079, 2
+3, small dance floor, 0.474698, 2
+3, open bar, 0.480141, 3
+3, upscale dance club, 0.476472, 3
+3, dance floor, 0.914391, 4
+3, club, 0.749114, 4
+3, hip hop, 0.628567, 5
+3, music, 0.574713, 5
+3, good time, 0.551518, 6
+3, go-go dancers, 0.506398, 6
+3, fun, 0.458944, 7
+3, pretty good time, 0.469606, 8
+3, nice club, 0.459815, 8
+4, AREA HYPHY music, 0.541518, 0
+4, bottle service, 0.526497, 0
+4, Vegas clubs, 0.565557, 2
+4, expensive Vegas trip, 0.521733, 2
+4, old school hip, 0.595131, 3
+4, school hip hop, 0.590242, 3
+4, Vegas, 0.644872, 4
+4, service, 0.550823, 4
+4, dance floor, 0.974507, 5
+4, club, 0.918845, 5
+4, Planet Hollywood, 0.883069, 6
+4, pussycat doll lounge, 0.60942, 6
+4, music, 0.757311, 7
+4, good time, 0.697891, 7
+4, good music, 0.631719, 8
+4, Saturday night, 0.63144, 8
+5, hip hop room, 0.707604, 0
+5, dance floor area, 0.573693, 0
+5, Jersey shore wan, 0.51876, 2
+5, dance moves, 0.504483, 2
+5, EDM/hard house beat, 0.534443, 3
+5, hip hop, 0.910494, 4
+5, table, 0.547888, 4
+5, gallery, 0.682901, 5
+5, dance floor, 0.810096, 6
+5, good hip hop, 0.594636, 6
+5, Gallery Nightclub, 0.644153, 7
+5, hahaha.. good times, 0.568492, 7
+5, best time, 0.612577, 8
+5, Big ups, 0.566048, 8
+5, bottle service, 0.552714, 9
+5, cute old couple, 0.521241, 9

@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, live jazz band, 0.830394, 0
+1, deep soft couches, 0.812369, 0
+1, pay half deal, 0.781595, 1
+1, web site, 0.704833, 1
+1, 2md tier cab, 0.786295, 2
+1, wine selection, 0.707871, 2
+1, sat night, 0.704635, 3
+1, small plates, 0.697437, 3
+1, waitress, 0.705671, 4
+1, restaurant, 0.638817, 4
+1, wine loft, 0.949346, 5
+1, sophisticated New York, 0.816094, 6
+1, deep philosophical discussions, 0.80773, 6
+1, fine drinks, 0.723244, 7
+1, wonderful service, 0.70938, 7
+1, vibe, 0.623659, 8
+1, intimate cozy place, 0.833297, 9
+1, tapas menu, 0.741425, 9
+2, locally owned bistros, 0.505442, 0
+2, wine bar, 0.398795, 0
+2, couple couches, 0.39946, 1
+2, balsamic vinaigrette, 0.397326, 1
+2, low expectations, 0.362324, 2
+2, beautiful bar, 0.35426, 2
+2, wine drinking, 0.404162, 3
+2, little watery, 0.368923, 3
+2, Wine Loft, 0.979898, 4
+2, bar, 0.431696, 4
+2, service, 0.675982, 5
+2, wine list, 0.530493, 5
+2, place, 0.465034, 6
+2, white sangria, 0.386754, 6
+2, goat cheese pizza, 0.530893, 7
+2, substitute wine, 0.412991, 7
+2, upstairs lounge area, 0.525315, 8
+2, comfortable couches, 0.409513, 8
+2, conversation areas, 0.357779, 9
+3, networking event, 0.702869, 0
+3, Monday, 0.466925, 0
+3, bar, 0.449579, 1
+3, service, 0.447867, 1
+3, lower level, 0.996739, 2
+3, upper level, 0.891758, 2
+3, plush chairs, 0.703452, 7
+3, birthday party, 0.656054, 7
+3, new job, 0.659867, 8
+3, party kind, 0.653228, 8
+3, great conversation, 0.674519, 9
+3, cigar, 0.466698, 9
+4, short martini list, 0.673246, 0
+4, holiday martini list, 0.673041, 0
+4, shiny silver Christmas, 0.640706, 1
+4, food kinda place, 0.697239, 2
+4, cold Monday night, 0.627247, 2
+4, wine loft, 0.990734, 3
+4, little hangout spot, 0.660907, 3
+4, Japanese pumpkin ravioli, 0.62639, 6
+4, good time, 0.587368, 6
+4, comfy seating areas, 0.620557, 7
+4, good martini, 0.595796, 7
+4, extensive beverage list, 0.658989, 8
+4, Comfortable lounge seats, 0.638176, 8
+4, baked brie, 0.526874, 9
+5, drinking, 0.465652, 6
+5, varied wine selection, 0.941102, 8
+5, job Wine Loft, 0.867763, 8

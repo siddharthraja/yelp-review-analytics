@@ -1,0 +1,11 @@
+rating, keyword, relevance, bucket
+1, definitely bad customer, 0.826035, 0
+1, breakfast, 0.373761, 0
+1, bartender, 0.503323, 1
+1, guys, 0.461683, 1
+1, ring ring, 0.962341, 2
+1, ring ring ring, 0.943524, 2
+3, seperate eating area, 0.853725, 0
+3, bar atmosphere, 0.567916, 0
+3, garlic parmesan lemon, 0.962313, 7
+3, bald head bartender, 0.952897, 7

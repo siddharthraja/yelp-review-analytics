@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, prime rib, 0.701794, 0
+1, steak house, 0.697815, 0
+1, Long Beach, 0.881823, 1
+1, Long Beach Kelly, 0.881625, 1
+1, bad steak night, 0.715889, 2
+1, filet mignon medium., 0.643253, 2
+1, DIET KELLY, 0.6386, 3
+1, lobster bisque, 0.811264, 4
+1, filet mignon, 0.663661, 4
+1, kelly, 0.911797, 5
+1, place, 0.764899, 5
+1, steak, 0.762467, 6
+1, sizzler quality steak, 0.723446, 6
+1, dinning room, 0.644917, 7
+1, lobster bisque,rib eye, 0.638056, 7
+1, prime steak, 0.73958, 8
+1, better food quality, 0.669104, 8
+2, petite fillet mignon, 0.892318, 0
+2, twice baked potato, 0.888793, 0
+2, au gratin potatoes, 0.873066, 1
+2, mushy overcooked apples, 0.865137, 1
+2, NY steak, 0.823357, 2
+2, good deal, 0.804544, 2
+2, oz Filet Mignon, 0.880624, 3
+2, French onion soup, 0.862528, 3
+2, food, 0.940315, 4
+2, place, 0.882812, 4
+2, Filet Mignon, 0.898736, 5
+2, dining room, 0.885483, 5
+2, rib eye, 0.893381, 6
+2, medium cooked Filet, 0.871749, 6
+2, huge dining room, 0.884652, 7
+2, steak appetizer, 0.836815, 7
+2, prime rib, 0.882822, 8
+2, little money, 0.795083, 8
+3, lobster bisque, 0.937086, 0
+3, good deal, 0.758196, 2
+3, meal, 0.439745, 2
+3, prices, 0.409243, 5
+3, kind, 0.420895, 6
+3, dinner, 0.41199, 7
+3, good dining experience, 0.967637, 8
+3, Las Vegas, 0.668314, 8
+4, skin-on French Fries, 0.785826, 0
+4, salad/ French onion, 0.782466, 0
+4, bar menu, 0.712604, 1
+4, Yelp reviews, 0.726142, 2
+4, local places, 0.718645, 2
+4, prime rib, 0.799968, 3
+4, prime rib sandwich, 0.789796, 3
+4, comfy lounge area, 0.805106, 4
+4, Saturday night, 0.813784, 5
+4, booth/ table combo, 0.800306, 6
+4, Godiva chocolate cake, 0.786775, 6
+4, french onion soup, 0.959535, 7
+4, crème brûlée/ chocolate, 0.778855, 7
+4, highly personalized valet, 0.809227, 8
+4, sizzling Lemon Butter, 0.78481, 8
+4, well-seasoned Petite Filet, 0.789181, 9
+4, fantastic place, 0.715795, 9
+5, Best Prime Rib, 0.935507, 0
+5, au gratin potatoes, 0.9292, 0
+5, steak houses, 0.859613, 1
+5, Las Vegas, 0.840687, 1
+5, Lobster Bisque, 0.824945, 2
+5, best cadillac margarita, 0.95624, 6
+5, lemon drop martini, 0.949014, 6
+5, amazing homemade potato, 0.963684, 7
+5, assorted dipping sauces, 0.94648, 7
+5, wine selection, 0.951778, 8
+5, great entertainment act, 0.938464, 8
+5, great wine selection, 0.944592, 9
+5, beautiful VIP ambiance, 0.913235, 9

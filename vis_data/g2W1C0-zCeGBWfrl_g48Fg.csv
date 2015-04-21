@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, glorified concierge lounge, 0.961362, 0
+1, Urban Sip, 0.715096, 0
+1, window view, 0.649025, 1
+1, seating, 0.463423, 1
+1, bar, 0.444567, 2
+1, lounge service, 0.721553, 3
+1, hip, 0.464121, 3
+1, nice bottle, 0.700256, 7
+1, home, 0.442861, 7
+1, cheese experience, 0.701325, 8
+1, Uptown Charlotte, 0.701036, 8
+2, drinks, 0.266366, 0
+2, ID, 0.252475, 0
+2, inattentive hostess, 0.85394, 1
+2, drivers license, 0.773422, 1
+2, waitress, 0.328848, 2
+2, excuse, 0.308735, 2
+2, previous occasion, 0.930514, 9
+2, nice selection, 0.859624, 9
+3, dark wine bar, 0.856398, 0
+3, main lobby elevators, 0.786665, 0
+3, terrible Netflix movies, 0.780917, 2
+3, little dim, 0.673174, 2
+3, Urban Sip, 0.829946, 3
+3, bourbons, 0.696557, 3
+3, Ritz Carlton, 0.987449, 6
+3, place, 0.813526, 6
+3, nice view, 0.815286, 7
+3, neat little place, 0.797704, 7
+3, nice romantic location, 0.815689, 8
+3, intimate party, 0.685682, 8
+3, wine selection, 0.679125, 9
+4, loose leaf teas, 0.643557, 0
+4, quaint little place, 0.641727, 0
+4, sticker shock factor, 0.611648, 2
+4, lime chile nuts, 0.578878, 2
+4, peanut caramel tart, 0.62916, 3
+4, best view, 0.519655, 3
+4, caramel tart, 0.650277, 6
+4, traditional egg salad, 0.603431, 6
+4, 15th floor, 0.79237, 7
+4, egg salad, 0.624564, 7
+4, Urban Sip, 0.907065, 8
+4, afternoon tea, 0.662386, 8
+4, different hangout option, 0.613921, 9
+4, house-made raspberry preserves, 0.593002, 9
+5, wine list, 0.761729, 0
+5, Spot, 0.565713, 0
+5, Urban Sip, 0.827542, 6
+5, great selections, 0.803754, 6
+5, sweet compliments, 0.79452, 7
+5, marmalade, 0.573853, 7
+5, wait staff, 0.795842, 8
+5, liking, 0.596822, 8
+5, Fantastic elegant seating, 0.997918, 9
+5, cheese delight, 0.853799, 9

@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, pub crawl, 0.969199, 0
+1, pint, 0.71942, 0
+1, break, 0.493977, 2
+1, drink, 0.493443, 2
+1, bartender, 0.876176, 3
+1, door, 0.616185, 3
+2, standard traditional pub, 0.805891, 0
+2, typical pub menu, 0.750613, 0
+2, vegetable soup, 0.419874, 1
+2, toilet break, 0.405812, 1
+2, low ceiling, 0.404541, 2
+2, typical pub, 0.968778, 4
+2, typical pub toilets, 0.733062, 4
+2, Cadbury hot chocolate, 0.579995, 6
+2, favourite pub, 0.55689, 6
+2, neat old pub, 0.765197, 7
+2, spot lights, 0.604376, 7
+2, old traditional pub, 0.692688, 8
+2, Saturday afternoon, 0.446942, 8
+3, pub food, 0.708227, 0
+3, wear long sleeves, 0.704616, 0
+3, haggis virginity, 0.776221, 1
+3, touristy pubs, 0.649056, 1
+3, Royal Mile, 0.725436, 2
+3, hot port, 0.696815, 2
+3, Drop Tavern, 0.80981, 3
+3, board games, 0.728052, 3
+3, pub, 0.894174, 4
+3, haggis, 0.868968, 5
+3, tourists, 0.630787, 5
+3, drop, 0.981655, 6
+3, best haggis, 0.77515, 6
+3, pretty nice pub, 0.805673, 7
+3, good traditional boozer, 0.718372, 7
+3, haggis tasting, 0.732477, 8
+3, predictable whiskies, 0.623439, 8
+4, -ish) pub., 0.696907, 0
+4, pub grub, 0.661495, 0
+4, bar, 0.624423, 2
+4, public execution point, 0.614152, 2
+4, Great pub atmosphere, 0.707522, 3
+4, customary final drink, 0.644968, 3
+4, drop, 0.996211, 4
+4, pubs, 0.611391, 4
+4, pub, 0.942693, 5
+4, Drop Tavern, 0.735828, 5
+4, traditional Scottish pub, 0.726802, 6
+4, old traditional pub, 0.70059, 6
+4, place, 0.766203, 7
+4, nice wee pub, 0.716586, 7
+4, great place, 0.719139, 8
+4, funny shaped pub, 0.692757, 8
+4, traditional oak chairs, 0.621103, 9
+5, eerily magic feel, 0.988787, 0
+5, dungeon-y feel, 0.661288, 0
+5, strange thing, 0.616959, 1
+5, UK, 0.295374, 1
+5, hot chocolate, 0.666504, 3
+5, night, 0.388915, 3
+5, food, 0.3827, 5
+5, drop, 0.878404, 6
+5, gallows, 0.3119, 6
+5, intimate pub experience, 0.972828, 7
+5, fun time, 0.831645, 7
+5, burgers, 0.30527, 8
+5, mash, 0.301365, 8
+5, cozy ambiance, 0.672202, 9
+5, ale, 0.281851, 9

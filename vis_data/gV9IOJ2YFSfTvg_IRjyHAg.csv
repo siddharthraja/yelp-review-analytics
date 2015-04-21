@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, fish tacos, 0.808108, 0
+1, Standard flour tortilla, 0.774223, 0
+1, yuck, 0.668139, 1
+1, Grayish walls, 0.651782, 1
+1, food, 0.941247, 2
+1, food expectations, 0.627877, 2
+1, dirty greasy food, 0.82643, 3
+1, shirt stains, 0.663271, 3
+1, place, 0.842215, 4
+1, drinks, 0.482496, 5
+1, fried fish, 0.621984, 6
+1, iceberg lettuce, 0.615783, 6
+1, Sunday afternoon brunch, 0.793628, 8
+1, Sweet potato fries, 0.765247, 8
+2, regular Philly Cheesesteak, 0.683224, 0
+2, East Blvd Grill, 0.622015, 0
+2, philly cheesesteak eggrolls, 0.645289, 1
+2, saddest looking ribeye, 0.616638, 1
+2, philly cheesesteak, 0.778847, 2
+2, covered parking area, 0.603675, 2
+2, cold beer refill, 0.609324, 3
+2, huge sandwich, 0.532919, 3
+2, food, 0.601944, 4
+2, good view, 0.513138, 4
+2, East Boulevard Bar, 0.95963, 5
+2, service, 0.640442, 5
+2, chicken philly, 0.723565, 6
+2, chicken Philly steak, 0.659132, 6
+2, BBQ Chicken Sandwich, 0.793651, 7
+2, Philly Cheese Steak, 0.788814, 7
+2, sweet potato fries, 0.785535, 8
+2, home-style fries, 0.527435, 8
+3, pretty decent lunch, 0.542401, 0
+3, normal lunch menu, 0.476282, 0
+3, Good Neighborhood Bar, 0.487201, 2
+3, Bike Bar Crawl, 0.485176, 2
+3, little neighborhood bar, 0.507216, 3
+3, bloody mary, 0.429065, 3
+3, place, 0.59304, 4
+3, food, 0.557289, 4
+3, east blvd, 0.919528, 5
+3, East Blvd Bar, 0.761602, 5
+3, pretty fantastic foods, 0.488371, 6
+3, great drink specials, 0.464325, 6
+3, pretty tasty food, 0.532408, 7
+3, palatable low-end Scotch, 0.455146, 7
+3, Great outdoor patio, 0.46719, 8
+3, new location, 0.437805, 8
+3, pretty good time, 0.528108, 9
+3, good place, 0.475691, 9
+4, tuna melt, 0.548227, 0
+4, old location, 0.532184, 0
+4, BAR folks, 0.428207, 1
+4, East Blvd Bar, 0.76431, 2
+4, little circle fries, 0.585464, 2
+4, East Blvd, 0.905493, 3
+4, mixed drinks, 0.444283, 3
+4, Grill, 0.47437, 5
+4, service, 0.43581, 5
+4, East Boulevard Bar, 0.723744, 6
+4, bar food, 0.532614, 6
+4, new location, 0.628879, 7
+4, fish tacos, 0.533071, 7
+4, black bean burger, 0.717134, 8
+4, tuna salad, 0.561978, 8
+4, great place, 0.7213, 9
+4, good potato salad, 0.515862, 9
+5, flat screens, 0.853754, 0
+5, great food, 0.721485, 0
+5, character, 0.310271, 3
+5, tacos, 0.475669, 6
+5, fries, 0.414369, 6
+5, Kale salad, 0.929878, 9
+5, homemade dressing, 0.869291, 9

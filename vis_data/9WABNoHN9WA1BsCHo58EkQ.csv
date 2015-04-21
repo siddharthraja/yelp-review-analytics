@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, steak knife, 0.89749, 0
+2, Saturday night, 0.71714, 0
+2, big person, 0.702598, 1
+2, crap table, 0.675947, 1
+2, order taker, 0.716922, 2
+2, large people, 0.637647, 2
+2, large sections, 0.652276, 3
+2, food, 0.362424, 3
+2, ribeye Steak, 0.986226, 6
+2, 30-40 people, 0.723595, 6
+3, prime rib poutine, 0.967978, 0
+3, dedicate locavore, 0.759305, 0
+3, amazing atmosphere, 0.730398, 1
+3, nitpicky thing, 0.726651, 1
+3, miss decor, 0.75352, 2
+3, food menu, 0.742786, 2
+3, wonton wrappers, 0.751092, 3
+3, samosas, 0.56197, 3
+3, food, 0.825747, 5
+3, fish tacos, 0.760835, 6
+3, But. The service, 0.721873, 6
+3, samosa appetizer, 0.76856, 7
+3, table ambitions, 0.760078, 7
+3, real homey feel, 0.984264, 8
+3, beer menu, 0.934655, 8
+3, thoughtful prepared meals, 0.9077, 9
+3, local breweries, 0.740708, 9
+4, old smokey burger, 0.699214, 0
+4, old school house, 0.685799, 0
+4, Asparagus Fusilli, 0.609197, 1
+4, food, 0.746117, 6
+4, great flavour, 0.717404, 6
+4, french onion soup, 0.921924, 7
+4, school house, 0.797668, 7
+4, great atmosphere, 0.72179, 8
+4, large concreate patio, 0.669403, 8
+4, fresh local ingredients, 0.714652, 9
+4, pretty decent selection, 0.6679, 9
+5, km radius, 0.74758, 0
+5, Sublime dinner, 0.744828, 0
+5, short stay, 0.746235, 1
+5, prime rib, 0.750828, 3
+5, local fare, 0.747526, 3
+5, new special sauce, 0.896047, 6
+5, Draught Waupoos Cider, 0.871986, 6
+5, risotto cake, 0.900453, 7
+5, homemade ranch dressing, 0.865416, 7
+5, great local beer, 0.921891, 8
+5, Amazing food, 0.90003, 8
+5, great meal, 0.940471, 9
+5, Amazing beer, 0.792405, 9

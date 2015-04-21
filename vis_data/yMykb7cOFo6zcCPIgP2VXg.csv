@@ -1,0 +1,28 @@
+rating, keyword, relevance, bucket
+1, plague, 0.503295, 0
+1, cooking shows. cops, 0.95643, 1
+1, ghetto cliente, 0.806239, 1
+1, eagles bar, 0.813617, 2
+1, tv. her response, 0.762161, 2
+2, Eagles theme bar, 0.926758, 0
+2, half time, 0.669844, 0
+2, meager portions, 0.70646, 2
+2, Eagles game, 0.698021, 2
+2, Eagles-themed menu items, 0.821455, 3
+2, Philly menu, 0.661334, 3
+2, scrapple, 0.749287, 5
+2, place, 0.453213, 6
+2, Sunday, 0.448784, 6
+2, cheese steaks, 0.984401, 7
+2, cheese steak, 0.720088, 7
+4, tastycake bites, 0.747931, 0
+4, cheesesteaks, 0.429062, 0
+4, strip mall, 0.900809, 3
+4, bar, 0.302223, 3
+4, Eagles fan, 0.897546, 6
+4, Eagles game, 0.875003, 6
+4, beer, 0.288543, 7
+4, Eagles games, 0.92511, 8
+4, best spot, 0.762806, 8
+4, modest establishment, 0.807889, 9
+4, football fans, 0.69276, 9

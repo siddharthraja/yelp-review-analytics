@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, worst selection, 0.766712, 0
+1, Heineken, 0.523507, 0
+1, dive bar, 0.740752, 1
+1, nasty beers, 0.800358, 2
+1, Bud Light, 0.764451, 3
+1, cans, 0.489566, 3
+1, place, 0.651598, 4
+1, Charlotte, 0.49064, 6
+1, high quality beer, 0.957104, 7
+1, good time, 0.750754, 7
+1, creepiest vibe, 0.963447, 8
+2, Miller Lites, 0.607845, 0
+2, disappointment, 0.30116, 0
+2, monster muddle puddle, 0.955076, 1
+2, immediate parking, 0.578999, 1
+2, Real housewives, 0.583829, 2
+2, local tastes, 0.569052, 2
+2, place, 0.591676, 5
+2, NoDa brewery beer, 0.845977, 6
+2, divey appeal, 0.627503, 6
+2, somewhat inline, 0.603602, 7
+2, good time, 0.535113, 7
+2, beautiful thing, 0.56225, 8
+2, craziness, 0.304231, 8
+3, typical sports bars, 0.670737, 0
+3, Dew Drop Inn, 0.66951, 0
+3, ok neighborhood bar, 0.721641, 2
+3, weird little bar, 0.700122, 2
+3, better bars, 0.51886, 3
+3, Uneasy Rider, 0.516821, 3
+3, Charlotte, 0.414463, 5
+3, Great juke box, 0.786275, 6
+3, longhorn skull, 0.672495, 6
+3, juke box, 0.97937, 7
+3, pretty clutch juke, 0.708738, 7
+3, Thirsty Beaver, 0.522409, 8
+3, amazing cross-section, 0.499294, 8
+3, live local band, 0.686601, 9
+3, David Great place, 0.686067, 9
+4, PBR tall boys, 0.659047, 0
+4, old school jukebox, 0.634052, 0
+4, ironic cheap beer, 0.648491, 1
+4, friends birthday party, 0.623865, 1
+4, Honky Tonk bar, 0.640635, 2
+4, Bloody Mary list, 0.632183, 2
+4, PBR, 0.707288, 3
+4, cheap beer, 0.68648, 3
+4, thirsty beaver, 0.973995, 5
+4, bloody mary, 0.796275, 5
+4, dive bar, 0.829804, 6
+4, place, 0.826907, 6
+4, Thirsty Beaver version, 0.720946, 7
+4, Great neighborhood spot, 0.669881, 7
+4, great place, 0.805408, 8
+4, free jukebox, 0.69886, 8
+4, Great country music, 0.669244, 9
+4, beer selection, 0.625488, 9
+5, BEST DIVE BAR, 0.650243, 0
+5, new favorite bar, 0.637147, 0
+5, dive bars, 0.699267, 2
+5, favorite bars, 0.631759, 2
+5, Billy Dee Williams, 0.638011, 3
+5, Burt Reynolds, 0.608331, 3
+5, bloody marys, 0.716883, 4
+5, Thirsty Beaver, 0.962458, 5
+5, bar, 0.775504, 5
+5, place, 0.836855, 6
+5, great bar, 0.618831, 6
+5, pool tables, 0.781694, 7
+5, good time, 0.710377, 7
+5, dive bar, 0.724238, 8
+5, free jukebox, 0.6905, 8
+5, easy place, 0.633103, 9

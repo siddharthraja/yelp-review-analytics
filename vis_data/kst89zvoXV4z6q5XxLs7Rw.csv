@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+3, bad way, 0.668636, 0
+3, term time, 0.643195, 0
+3, short bar, 0.643185, 1
+3, pasta, 0.536008, 1
+3, library bar, 0.9151, 2
+3, good thing, 0.662123, 2
+3, Bloody Mary, 0.675011, 3
+3, queue, 0.534755, 3
+3, black pepper, 0.666529, 6
+3, pint, 0.538371, 6
+3, pretty old books, 0.804313, 7
+3, comfy couches, 0.660763, 7
+3, quirky place, 0.645615, 8
+3, fine venue, 0.641386, 8
+3, genuinely decent selection, 0.784104, 9
+3, late-opening bar, 0.644882, 9
+4, new classy bar, 0.725526, 0
+4, favourite student union, 0.635586, 0
+4, Teviot, 0.324464, 1
+4, bars, 0.277434, 1
+4, dark wood furnishings, 0.598162, 2
+4, Trivial Pursuit, 0.423902, 2
+4, open mic nights, 0.593313, 3
+4, student prices, 0.418052, 3
+4, bar, 0.919161, 4
+4, library bar, 0.773923, 4
+4, modern looking bar, 0.678543, 6
+4, Awesome student bar, 0.632582, 6
+4, new Edinburgh reviews, 0.578678, 7
+4, solid night, 0.411053, 7
+4, easy going, 0.412176, 8
+4, nice atmosphere, 0.408429, 8
+5, rich old man, 0.908565, 0
+5, Library Bar, 0.638031, 0
+5, intermittent transcript, 0.775309, 1
+5, mediocre food, 0.70835, 1
+5, -A bar, 0.740108, 2
+5, long flight, 0.742124, 3
+5, future plans, 0.739928, 3
+5, -Desk lamps, 0.703409, 6
+5, -Serves coffee, 0.688271, 6
+5, -Like Cheers, 0.741632, 7
+5, local, 0.373234, 7
+5, -I love, 0.713843, 8
+5, Good luck, 0.675936, 8
+5, brilliant concept, 0.729802, 9

@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, est beaucoup trop, 0.864205, 0
+1, que nous avons, 0.85538, 0
+1, Worse place, 0.709067, 1
+1, time, 0.721919, 2
+1, mon souvenir, 0.711532, 2
+1, normally heavy tippers, 0.793876, 3
+1, Le Saloon, 0.725684, 3
+1, drinks, 0.772262, 4
+1, food, 0.820058, 5
+1, est que je, 0.908008, 6
+1, que je ne, 0.86533, 6
+1, better poutine, 0.704485, 7
+1, saloon burger, 0.702567, 7
+1, local friend, 0.701725, 8
+1, excellent taste, 0.701722, 8
+1, great place, 0.715337, 9
+3, et que je, 0.995971, 0
+3, le soir que, 0.989083, 0
+3, gay village, 0.800243, 2
+3, bad place, 0.865003, 3
+3, steak et frites, 0.935434, 6
+3, est composée d'une, 0.908873, 6
+3, Le Saloon, 0.827314, 8
+3, cheese curds, 0.800761, 8
+4, que la musique, 0.856228, 0
+4, cute little restaurants, 0.84464, 0
+4, stale rye bread, 0.815308, 1
+4, et sympa la, 0.838301, 2
+4, musique également rien, 0.820239, 2
+4, french onion soup, 0.825446, 3
+4, food, 0.816243, 5
+4, J'adore le Saloon, 0.879165, 6
+4, bleu cheese burger, 0.867164, 6
+4, service et bonne, 0.851708, 7
+4, fab gay guys, 0.839766, 7
+4, gay man, 0.873421, 8
+4, Chicken tempura burger, 0.869729, 8
+4, LOVE LOVE Saloon, 0.941338, 9
+4, unique burger creations, 0.862533, 9
+5, grilled salmon, 0.704617, 0
+5, eye candy, 0.70388, 0
+5, white cranberry mimosa, 0.836968, 2
+5, champagne cocktail menu, 0.829865, 2
+5, primary reason, 0.685161, 3
+5, great Sunday brunch, 0.921495, 6
+5, heterosexual couple, 0.712071, 6
+5, inner chocolate craving, 0.875093, 7
+5, outer chocolate shell, 0.863183, 7
+5, Great food, 0.696438, 8
+5, Great service, 0.691222, 8
+5, nice atmosphere, 0.900113, 9
+5, great start, 0.729085, 9

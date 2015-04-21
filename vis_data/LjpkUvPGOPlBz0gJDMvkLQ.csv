@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, words meat-market come, 0.987551, 0
+1, cheesy club sort, 0.912403, 0
+1, offensive slurs, 0.747236, 1
+1, Bizarrely people, 0.715905, 1
+1, huge wedge, 0.704446, 2
+1, city centre, 0.685432, 2
+1, drunken grope, 0.755873, 3
+1, single friends, 0.727091, 3
+1, note, 0.630584, 4
+1, night, 0.764356, 5
+1, number, 0.587756, 5
+1, crowd, 0.466637, 6
+1, badge, 0.465239, 6
+1, Tuesday night, 0.73581, 7
+1, Stereo, 0.465385, 7
+2, Stereo phase, 0.660331, 0
+2, flatmates school friends, 0.648158, 0
+2, propper club night, 0.687865, 1
+2, extremely drunken night, 0.66477, 1
+2, dance floor, 0.565083, 2
+2, drinks, 0.561197, 2
+2, actual club, 0.548455, 3
+2, pool tables, 0.547719, 3
+2, Stereo, 0.915841, 4
+2, decent club, 0.696872, 4
+2, night, 0.716441, 5
+2, white room, 0.664281, 5
+2, little private party, 0.679662, 6
+2, super fun, 0.547221, 6
+2, uber power trip, 0.68308, 7
+2, pretty vulgar concept, 0.637136, 7
+2, excellent night, 0.551892, 8
+3, Shag-tag nights, 0.791411, 0
+3, big club, 0.704429, 0
+3, bad reputation, 0.936472, 2
+3, bit skanky, 0.934503, 2
+3, right people, 0.722651, 3
+3, toilets, 0.274654, 3
+3, place, 0.703228, 5
+3, large group, 0.745472, 7
+3, date-rape night, 0.716044, 7
+3, best night, 0.731905, 8
+3, Edinburgh, 0.250327, 8

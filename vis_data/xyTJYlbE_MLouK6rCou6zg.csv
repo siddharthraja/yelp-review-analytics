@@ -1,0 +1,93 @@
+rating, keyword, relevance, bucket
+1, absolute worst burger, 0.607419, 0
+1, great burger experience, 0.598149, 0
+1, pretty bad burger, 0.5631, 1
+1, Mediocre burger, 0.557802, 1
+1, bad burger, 0.597698, 2
+1, Burger King, 0.578006, 2
+1, medium burger ao, 0.570417, 3
+1, internet burger rankings, 0.567344, 3
+1, burger bar, 0.818766, 4
+1, chicken Thai burger, 0.582332, 4
+1, burger, 0.929654, 5
+1, food, 0.639264, 5
+1, good burger, 0.655008, 6
+1, kobe beef burger, 0.642183, 6
+1, kobe burger, 0.660334, 7
+1, medium rare burger, 0.620096, 7
+1, sweet potato fries, 0.635024, 8
+1, good burger place, 0.627923, 8
+1, juicy burger, 0.57527, 9
+1, lamb burger, 0.564099, 9
+2, cheesecake burger too., 0.405544, 0
+2, best burger joints, 0.382442, 0
+2, worst kobe burger, 0.395931, 1
+2, disappointing over-priced burger, 0.390199, 1
+2, pricey burger, 0.406288, 2
+2, Bye-bye Burger Bar, 0.394665, 2
+2, kobe burger, 0.527191, 3
+2, best burger, 0.401919, 3
+2, burger, 0.933543, 4
+2, burger joint, 0.456544, 4
+2, burger bar, 0.79304, 5
+2, burgers, 0.446461, 5
+2, burger eggplant burger, 0.534324, 6
+2, good burger, 0.464167, 6
+2, kobe beef burger, 0.649651, 7
+2, sweet potato fries, 0.539563, 7
+2, burger place, 0.42068, 8
+2, classic burger, 0.382733, 8
+2, solid burger place, 0.388462, 9
+2, gourmet burger place, 0.379755, 9
+3, Average burger place, 0.476592, 0
+3, turf burger, 0.46562, 0
+3, pre-made Angus burger, 0.449996, 1
+3, equally good burger, 0.493935, 2
+3, burger bun, 0.464548, 2
+3, dry burger, 0.472182, 3
+3, angus burger cause, 0.46593, 3
+3, burger, 0.943746, 5
+3, burger bar, 0.817807, 5
+3, sweet potato fries, 0.782144, 6
+3, kobe beef burger, 0.71181, 6
+3, kobe burger, 0.63179, 7
+3, turkey burger, 0.524507, 7
+3, buffalo burger, 0.504759, 8
+3, burger place, 0.488705, 8
+3, great kobe burger, 0.473436, 9
+3, moist burger, 0.467705, 9
+4, best Kobe burger, 0.463972, 0
+4, angus steak burger, 0.451554, 0
+4, way Burger Bar, 0.465389, 1
+4, burger joint, 0.457181, 2
+4, burger dessert, 0.421798, 2
+4, expensive burger, 0.445844, 3
+4, mere burger, 0.428696, 3
+4, kobe beef burger, 0.769146, 4
+4, burger place, 0.454313, 4
+4, burger, 0.997003, 5
+4, burger bar, 0.878013, 6
+4, kobe burger, 0.674343, 6
+4, veggie burger, 0.554853, 7
+4, turkey burger, 0.499695, 7
+4, sweet potato fries, 0.733521, 8
+4, angus burger, 0.491541, 8
+4, burger establishment, 0.418265, 9
+4, new favorite burger, 0.412781, 9
+5, Mmmm desert burger, 0.480285, 0
+5, double-pattied veggie burger, 0.467572, 0
+5, Burger Bar everytime, 0.467065, 1
+5, Burger Bar bag, 0.471271, 2
+5, Burger Bar phenom, 0.465848, 2
+5, expensive burger, 0.48957, 3
+5, Burger Bar crack, 0.481001, 3
+5, burger, 0.975742, 5
+5, burger bar, 0.89144, 5
+5, turkey burger, 0.573564, 6
+5, rossini burger, 0.540399, 6
+5, kobe beef burger, 0.724294, 7
+5, veggie burger, 0.541992, 7
+5, sweet potato fries, 0.620016, 8
+5, best burger, 0.580657, 8
+5, American Kobe burger, 0.497059, 9
+5, best burger places, 0.469285, 9

@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, drink nice service, 0.602815, 0
+1, Las Vegas laws, 0.557397, 0
+1, rude bartender, 0.587788, 1
+1, good mixed drinks, 0.579147, 1
+1, drink menu, 0.606331, 2
+1, different drink menu, 0.605212, 2
+1, bar, 0.98923, 3
+1, waitress, 0.564187, 3
+1, drink, 0.995971, 4
+1, drinks, 0.88701, 4
+1, bartender, 0.946536, 5
+1, place, 0.585055, 5
+1, higher end, 0.546924, 6
+1, private event, 0.537305, 6
+1, Las Vegas, 0.613206, 7
+1, simple drink, 0.564335, 7
+1, best damn job, 0.535391, 8
+2, floor specialty drink, 0.562857, 0
+2, special drink items, 0.533529, 0
+2, giant noisy chandelier, 0.582529, 1
+2, good drinks, 0.534143, 1
+2, Vesper Bar, 0.543721, 2
+2, bartender, 0.538054, 2
+2, service bar orders, 0.564636, 3
+2, floor bar, 0.52194, 3
+2, drinks, 0.778532, 4
+2, place, 0.651478, 4
+2, drink, 0.693821, 5
+2, service, 0.652337, 5
+2, bar, 0.958625, 6
+2, chandelier bar, 0.894342, 6
+2, chandelier decor, 0.544799, 7
+2, good time, 0.514802, 7
+2, gorgeous chandelier, 0.572847, 8
+2, pretty swaroski crystal, 0.505585, 8
+2, good cocktail bar, 0.60292, 9
+2, Las Vegas, 0.50115, 9
+3, couple drinks, 0.440305, 0
+3, tier chandelier, 0.436893, 0
+3, pretty big bar, 0.489645, 1
+3, floor bar, 0.440681, 1
+3, Chandelier bar, 0.553086, 2
+3, weak drinks, 0.501301, 2
+3, simple mixed drinks, 0.492317, 3
+3, Chandelier lounge, 0.484174, 3
+3, chandelier, 0.811757, 4
+3, drink, 0.759115, 4
+3, drinks, 0.965757, 5
+3, bar, 0.961848, 5
+3, giant crystal chandelier, 0.485096, 6
+3, casino bar, 0.44768, 6
+3, gigantic chandelier, 0.529494, 7
+3, good drinks, 0.500542, 7
+3, great place, 0.450596, 8
+3, Solid drinks, 0.440848, 8
+3, pretty cool bar, 0.499732, 9
+3, largest chandelier, 0.494004, 9
+4, story crystal chandelier, 0.529688, 0
+4, largest chandelier, 0.497649, 0
+4, ginormous crystal chandelier, 0.507792, 2
+4, pretty cool drinks, 0.486672, 3
+4, Drinks prices, 0.444896, 3
+4, crystal chandelier, 0.57015, 4
+4, people, 0.476064, 4
+4, chandelier, 0.951528, 5
+4, drinks, 0.930369, 5
+4, drink, 0.712525, 6
+4, cosmopolitan, 0.553147, 6
+4, giant chandelier, 0.70482, 7
+4, giant beautiful chandelier, 0.505018, 7
+4, great place, 0.535152, 8
+4, giant crystal chandelier, 0.49411, 8
+4, Amazing Chandelier, 0.492723, 9
+5, best bar, 0.319772, 0
+5, property bar service, 0.323479, 2
+5, bar seating, 0.317164, 2
+5, Chandelier bar floor, 0.462882, 3
+5, big ass chandelier, 0.394815, 3
+5, chandelier bar, 0.922235, 4
+5, people, 0.395103, 4
+5, chandelier, 0.981912, 5
+5, drinks, 0.715786, 5
+5, Chandelier Bar seats, 0.502456, 6
+5, huge chandelier, 0.410558, 6
+5, huge crystal chandelier, 0.399887, 7
+5, gigantic chandelier, 0.395649, 7
+5, giant chandelier, 0.46513, 8
+5, elegant beautiful chandelier, 0.412298, 8
+5, magnificent crystal chandelier, 0.402278, 9
+5, magnificent chandelier, 0.387327, 9

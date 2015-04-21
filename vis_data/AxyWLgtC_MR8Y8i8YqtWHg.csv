@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, favorite chill spot, 0.988589, 0
+1, Scottsdale night club, 0.92019, 0
+1, VIP pass, 0.709557, 1
+1, horrible treatment, 0.689461, 1
+1, VIP spot, 0.706403, 2
+1, typical shitty, 0.699317, 2
+1, idiot thing, 0.73113, 3
+1, old town, 0.646931, 3
+1, owners, 0.435172, 5
+1, arcade games, 0.661737, 6
+1, yay, 0.405704, 6
+1, numerous rooms, 0.667432, 7
+1, bartenders, 0.391519, 7
+2, Cat Eye Lounge, 0.825072, 0
+2, vapid plastic idiot, 0.820997, 0
+2, shitty Payless shoes, 0.847385, 1
+2, wild playing dress-up, 0.819803, 1
+2, dress code clubs, 0.830233, 2
+2, inconveniently located dance, 0.828896, 2
+2, dress code, 0.936274, 3
+2, weird alien shit, 0.783871, 3
+2, place, 0.94735, 5
+2, shiny shoes, 0.737249, 6
+2, expensive shirt, 0.732577, 6
+2, completely different crowd, 0.803368, 7
+2, south central vibe, 0.794123, 7
+2, dress-up night, 0.730749, 8
+2, relaxed night, 0.716927, 8
+2, Shine flashlights, 0.724498, 9
+3, techno/ rave stuff., 0.914877, 0
+3, hip hop/ r&b, 0.909131, 0
+3, dress code, 0.92265, 1
+3, black leather loafers, 0.896452, 1
+3, captain planet, 0.761516, 2
+3, corny, 0.638579, 2
+3, Steve Aoki, 0.958045, 3
+3, DJ Steve Aoki, 0.954086, 3
+3, place, 0.704294, 4
+3, pretty rad, 0.809443, 6
+3, different rooms, 0.76057, 6
+3, hipster shoes galore, 0.911424, 7
+3, Grey Goose bottle, 0.880486, 7
+4, blue room= techno, 0.937008, 0
+4, X-mass eve, 0.78237, 0
+4, Review, 0.465946, 1
+4, men, 0.465899, 1
+4, Scottsdale Galleria, 0.730975, 2
+4, bff, 0.635905, 2
+4, urinals, 0.478082, 3
+4, place, 0.466841, 3
+4, multiple rooms, 0.771552, 4
+4, restroom, 0.504175, 4
+4, patio area, 0.752285, 6
+4, good thing, 0.746151, 6
+4, Journey, 0.540718, 7
+4, music, 0.466485, 7
+4, best friend, 0.778023, 9
+4, perfect example, 0.77175, 9

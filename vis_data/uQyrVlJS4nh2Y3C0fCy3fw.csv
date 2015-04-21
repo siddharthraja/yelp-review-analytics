@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, stagnant old mire, 0.733183, 0
+1, regular mold clientele, 0.692931, 0
+1, neighborhood bar, 0.474381, 1
+1, bartender, 0.46199, 1
+1, credit card, 0.943619, 2
+1, interesting gay bars, 0.724064, 2
+1, work crew, 0.47762, 3
+1, loyal patrons, 0.79573, 6
+1, different occasions, 0.463774, 6
+1, meat market, 0.519781, 8
+1, place, 0.351849, 8
+2, mouth, 0.632349, 0
+2, Josh, 0.591731, 0
+2, business sign, 0.749101, 6
+2, Char, 0.63056, 6
+2, great cocktail, 0.938769, 9
+3, female drinking companion, 0.785169, 0
+3, Phoenix Pride, 0.599667, 0
+3, plain old neighborhood, 0.81312, 1
+3, adult audience, 0.57633, 1
+3, kinda place, 0.659521, 2
+3, patio playing, 0.59657, 2
+3, laid back bar, 0.624739, 3
+3, town, 0.402629, 3
+3, poker nights, 0.860315, 4
+3, bears, 0.421145, 5
+3, big ol bunkhouse, 0.9199, 6
+3, dart boards, 0.602216, 6
+3, good outdoor area, 0.879501, 7
+3, good place, 0.613657, 7
+3, unique sort, 0.57475, 8
+3, new people, 0.557317, 8
+3, burgers, 0.375113, 9
+3, pit, 0.359566, 9
+4, electronic dart boards, 0.800473, 0
+4, South Park pinball, 0.799896, 0
+4, bizarro sports bar, 0.842708, 1
+4, Multiple big screen, 0.815745, 1
+4, gay male bars, 0.809632, 2
+4, syrup-less soda water, 0.801509, 2
+4, local bear groups, 0.78793, 3
+4, gay bars, 0.750144, 3
+4, Outback Steakhouse commercial, 0.827276, 6
+4, new friends, 0.727174, 6
+4, Bunkhouse, 0.996595, 7
+4, genuinely swishy way, 0.803124, 7
+4, lady business partners, 0.786539, 8
+4, totem poles, 0.720704, 8
+4, lesbian friends, 0.719695, 9
+5, favorite gay bar, 0.891653, 0
+5, ginchiest,but firepits, 0.649462, 0
+5, Hell, 0.445195, 1
+5, cheap drinks, 0.67687, 2
+5, eye candy, 0.654801, 2
+5, twink club, 0.669385, 3
+5, large patio, 0.665279, 3
+5, time, 0.68714, 6
+5, pool tables, 0.666899, 6
+5, gay cheers, 0.65951, 7
+5, quick nightcap, 0.640034, 7
+5, Great outdoor patio, 0.936634, 8
+5, great indoor TVs, 0.901646, 8
+5, smile, 0.450139, 9
+5, Service, 0.445585, 9

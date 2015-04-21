@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, Suwu rave reviews, 0.846288, 0
+1, wait staff, 0.612461, 0
+1, food allergy, 0.90577, 1
+1, kitchen staff, 0.868248, 1
+1, North American population, 0.876654, 2
+1, waiter, 0.782255, 2
+1, eggs benedict, 0.6023, 3
+1, STONE COLD, 0.590475, 3
+1, fruit salad, 0.638421, 4
+1, toast, 0.598307, 4
+1, Suwu bar, 0.922768, 6
+1, tasty brunch, 0.707217, 6
+1, boyfriend, 0.49557, 7
+1, avocado dish, 0.694793, 8
+1, potatoes, 0.469876, 8
+2, couple times, 0.631265, 0
+2, corn dog experience, 0.592783, 0
+2, pretty interesting dishes, 0.64744, 1
+2, corn dogs, 0.628108, 1
+2, menu, 0.710855, 2
+2, pendant light bulbs, 0.628758, 2
+2, food, 0.552358, 4
+2, visit, 0.40525, 4
+2, favorite brunch spot, 0.664442, 6
+2, lunch menu, 0.510097, 6
+2, mcdonalds mcmuffin, 0.486767, 7
+2, romantic ambience, 0.468552, 7
+2, Philly steak sandwich, 0.948775, 8
+2, great Philly steak, 0.612322, 8
+3, si je suis, 0.878661, 0
+3, je veux bien, 0.870015, 0
+3, intriguing house specials, 0.841959, 1
+3, SuWu neighborhood bar, 0.886364, 2
+3, nice interior shots, 0.866991, 2
+3, bar countertops, 0.814793, 3
+3, bar, 0.911799, 5
+3, je n'ai pas, 0.876385, 6
+3, grilled cheese mac, 0.846085, 6
+3, comfort food favorites, 0.874416, 7
+3, bourbon Olde Fashioned, 0.841593, 7
+3, new neighborhood bar, 0.85973, 8
+3, Nice clean place, 0.848218, 8
+3, nice vintage touches, 0.86287, 9
+3, nice little kick, 0.858625, 9
+4, Poutine est tout, 0.878594, 0
+4, aussi une TV, 0.877485, 0
+4, leisurely Sunday brunch, 0.944505, 2
+4, la Poutine oblige, 0.884479, 2
+4, quick brunch, 0.878537, 3
+4, brunch, 0.949048, 4
+4, style pub et, 0.862999, 6
+4, le menu nourriture, 0.852999, 6
+4, hipster-fied west elm, 0.833782, 7
+4, Raspberry Sage breakfast, 0.821461, 7
+4, st. laurent, 0.8589, 8
+4, refreshing new addition, 0.843802, 8
+4, great time, 0.795974, 9
+5, est surpris par, 0.987426, 0
+5, La déco est, 0.978076, 0
+5, hipster atmosphere, 0.827762, 2
+5, La terrasse est, 0.969181, 3
+5, rue est barrée, 0.965354, 3
+5, l'ambiance cosie et, 0.953605, 6
+5, accompagnent les plats, 0.939426, 6
+5, young diverse crowd, 0.920987, 7
+5, enjoyable brunch, 0.861766, 7
+5, great bartenders, 0.838609, 8
+5, Great bar, 0.838428, 8
+5, unique look, 0.846277, 9
+5, great addition, 0.829093, 9

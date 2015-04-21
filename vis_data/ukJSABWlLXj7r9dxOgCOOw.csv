@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, hotel guest, 0.94071, 0
+1, American, 0.473905, 0
+1, poor service, 0.909482, 2
+1, meal, 0.788272, 2
+1, check, 0.467929, 3
+1, soup, 0.802619, 4
+1, bowl, 0.489104, 6
+1, wait, 0.560628, 8
+4, green designer chairs, 0.941348, 0
+4, aforementioned green designer, 0.783325, 0
+4, non hotel residents, 0.791634, 1
+4, Dark red velour, 0.774339, 1
+4, daily menu, 0.712797, 2
+4, runny sunshine-yolked duck, 0.753166, 3
+4, fish main course, 0.780947, 4
+4, ice cream sundae, 0.765282, 6
+4, Salmon fish cakes, 0.763133, 6
+4, course menu meal, 0.871433, 7
+4, table service, 0.783309, 7
+4, ice cream, 0.873954, 8
+4, salmon mousse canapes, 0.78332, 8
+4, extensive all-day menu, 0.777244, 9
+4, la carte menu, 0.776799, 9

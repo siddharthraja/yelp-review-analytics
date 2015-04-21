@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, free burger credit, 0.879423, 0
+1, restaurants numerous game, 0.573759, 0
+1, horrible lunch experience, 0.621281, 1
+1, slow ticket times, 0.612988, 1
+1, short pour, 0.588761, 2
+1, demographic specific team, 0.583774, 2
+1, short pour beers, 0.570619, 3
+1, North Carolina-South Carolina, 0.556603, 3
+1, money, 0.377502, 4
+1, college football season, 0.755239, 5
+1, different things, 0.448703, 6
+1, great deal, 0.445233, 6
+1, free burger coupon, 0.900589, 7
+1, balsalmic dressing, 0.470989, 7
+1, damn good idea, 0.584679, 8
+1, nice set, 0.445207, 8
+2, late lunch, 0.823474, 0
+2, Emily M., 0.774282, 0
+2, lunch hour experience, 0.756542, 1
+2, sports bar, 0.740188, 1
+2, luster bar fare, 0.962251, 2
+2, food service, 0.772836, 2
+2, food, 0.929762, 3
+2, time, 0.748831, 3
+2, lunch break, 0.776616, 4
+2, Wolfgang Pucks, 0.762078, 6
+2, different items, 0.742867, 6
+2, pretty obvious indication, 0.959443, 7
+2, fruity adult beverages/margaritas, 0.922556, 7
+2, interesting experience, 0.735997, 8
+2, big screen, 0.72112, 8
+3, buffalo chicken tenders, 0.932225, 0
+3, size billiard tables, 0.845524, 0
+3, lame pop/top40 tripe, 0.825437, 1
+3, discount adult beverages, 0.817495, 1
+3, East Valley, 0.837079, 2
+3, big-ass flat screen, 0.835039, 2
+3, billiard tables, 0.890456, 3
+3, beer battered buffalo, 0.855605, 3
+3, beer, 0.915876, 4
+3, food, 0.898376, 4
+3, place, 0.896846, 5
+3, buffalo sauce, 0.859683, 5
+3, pretty good icebreaker, 0.857319, 6
+3, draft beer, 0.848197, 6
+3, good beer selection, 0.879569, 7
+3, big beer, 0.854175, 7
+3, XX Lager Especial, 0.831721, 8
+3, great little gazebo/patio, 0.828824, 8
+4, good place, 0.601203, 0
+4, seperate room, 0.597226, 0
+4, big bar- plain, 0.746668, 1
+4, good selection, 0.605041, 1
+4, new sports bar, 0.722803, 2
+4, dumb blonde working, 0.704852, 2
+4, new go-to place, 0.74245, 3
+4, biker crowd, 0.576766, 3
+4, beer, 0.642843, 4
+4, ice tea glasses, 0.754145, 6
+4, pool tables, 0.751264, 6
+4, Ranch hand burger, 0.719832, 7
+4, pretzel bread, 0.609543, 7
+4, black forest sandwich, 0.966236, 8
+4, kick ass quesadillas, 0.70403, 8
+4, great place, 0.713553, 9
+4, chill atmosphere, 0.589533, 9
+5, fish fry, 0.631601, 0
+5, San Francisco, 0.627674, 0
+5, middle section, 0.594887, 3
+5, ranch dressing, 0.684434, 6
+5, aiolli, 0.432205, 6
+5, Az Niner Faithful, 0.925652, 7
+5, special promo, 0.649865, 7
+5, chicken tenders, 0.665736, 8
+5, Great food, 0.644319, 8

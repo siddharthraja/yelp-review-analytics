@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, worst PTs, 0.805863, 0
+1, rookie bartender, 0.585412, 0
+1, customer service, 0.658041, 1
+1, disgusting feelings, 0.550179, 1
+1, disgusting long piece, 0.74206, 2
+1, bad customer service, 0.629142, 2
+1, bar tender, 0.709664, 3
+1, hold bill food, 0.437486, 3
+1, bartender, 0.609381, 4
+1, garlic Parmesan fries, 0.92892, 6
+1, Sunday, 0.252842, 6
+1, black string dangling, 0.682272, 7
+1, ranch, 0.305456, 7
+1, tip im, 0.500864, 8
+1, course, 0.257557, 8
+1, waitress Christine, 0.471084, 9
+2, old time, 0.636386, 0
+2, food order, 0.614688, 0
+2, normal fashion, 0.698295, 1
+2, horrible smell, 0.668934, 1
+2, common pt drinks, 0.995843, 2
+2, bar, 0.769219, 2
+2, specific pts, 0.675097, 3
+2, cell phone, 0.654719, 3
+2, time, 0.776309, 4
+2, skin, 0.363773, 6
+2, female bartender, 0.698353, 7
+2, happy hour specials, 0.677167, 7
+3, popcorn chicken pizza, 0.710498, 0
+3, buffalo popcorn chicken, 0.709391, 0
+3, neighborhood bars, 0.54684, 1
+3, fried foods, 0.539032, 1
+3, bar average, 0.543701, 2
+3, total em, 0.542585, 2
+3, seats, 0.35039, 3
+3, pool tables, 0.924316, 5
+3, high priced nightclubs, 0.76016, 6
+3, Happy Hour times, 0.601934, 6
+3, nicest PT, 0.571721, 7
+3, hard night, 0.556416, 7
+3, flat screen TVs, 0.77363, 8
+3, sports enthusiast, 0.547022, 8
+4, nice little Tebowner, 0.671159, 0
+4, tall Coors Light, 0.661391, 0
+4, short drive, 0.53565, 1
+4, nice comfy couches, 0.64522, 2
+4, bar food, 0.538038, 2
+4, NFL playoff weekend, 0.673143, 3
+4, Saturday debacle, 0.562246, 3
+4, pool tables, 0.913829, 6
+4, pt, 0.774926, 6
+4, nice little buzz, 0.661655, 7
+4, Pollack Pt, 0.646997, 7
+4, 12-4am happy hrs, 0.678844, 8
+4, great time, 0.577819, 8
+4, pretty good food, 0.738824, 9
+4, great place, 0.653515, 9
+5, separate seating area, 0.85327, 0
+5, favorite dive-in bar, 0.842283, 0
+5, local bar, 0.705344, 2
+5, ppl, 0.545355, 2
+5, security guard check, 0.902923, 3
+5, bar area, 0.730462, 3
+5, pizza, 0.630952, 5
+5, place, 0.969252, 6
+5, time job, 0.714576, 6
+5, good good place, 0.946316, 7
+5, bar food, 0.81874, 7
+5, pool tables, 0.891437, 8
+5, Easy parking, 0.706944, 8
+5, new drinks, 0.711073, 9
+5, cool spot, 0.710575, 9

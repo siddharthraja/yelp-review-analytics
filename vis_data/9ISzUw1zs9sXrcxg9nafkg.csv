@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+1, BIG menonite farmers, 0.832457, 0
+1, small touristy town, 0.731482, 0
+1, Tandoori chicken wrap, 0.670489, 1
+1, IMPROPER fish, 0.438576, 1
+1, Caesar salad, 0.470232, 2
+1, apple fritters, 0.447081, 2
+1, farmers market, 0.996518, 5
+1, best food southwestern, 0.678521, 6
+1, local farmers, 0.540528, 6
+1, Stone Crock bakery, 0.69844, 7
+1, great food, 0.385384, 7
+1, St Jacobs, 0.42934, 8
+1, outlet shopping, 0.410036, 8
+2, waffle panini press, 0.64803, 0
+2, fried cheese, 0.63642, 0
+2, greed overrode reason, 0.652229, 1
+2, potato wedges, 0.401622, 2
+2, croque monsieur, 0.851997, 3
+2, gruyere cheese, 0.628413, 3
+2, nice piece, 0.409313, 6
+2, recent visit, 0.404071, 6
+2, grill cheese sandwiches, 0.89555, 7
+2, CM, 0.663422, 7
+2, special cheese sandwich, 0.976152, 9
+3, portions, 0.587668, 0
+3, food, 0.46264, 6
+3, service, 0.459779, 6
+3, good experience, 0.949724, 7
+3, great reviews, 0.932866, 8
+4, St. Jacobs area, 0.806987, 0
+4, red meat fix, 0.794966, 0
+4, food sensitivities, 0.664453, 1
+4, regard, 0.53273, 1
+4, bad experience, 0.670503, 2
+4, St. Jacobs, 0.949426, 3
+4, lone exception, 0.698651, 3
+4, wait staff, 0.676698, 6
+4, snob, 0.545419, 6
+4, crispy potato wedges, 0.82537, 7
+4, dinner crowd, 0.725521, 7
+4, nice modern-yet-inviting atmosphere, 0.817232, 8
+4, after-work drink, 0.673506, 8
+4, patio, 0.53736, 9
+4, lunch, 0.53676, 9

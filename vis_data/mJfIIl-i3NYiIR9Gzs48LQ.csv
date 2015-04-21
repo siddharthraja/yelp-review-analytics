@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, snack booth style, 0.917016, 0
+1, total bummer, 0.682481, 0
+1, Weak Sauce, 0.666955, 1
+1, server, 0.270467, 1
+1, standard bar food, 0.879792, 2
+1, wow factor, 0.664439, 3
+1, cold, 0.319427, 3
+2, additional charge, 0.836238, 0
+2, food, 0.691057, 0
+2, fried pickles, 0.927358, 2
+2, place, 0.69241, 2
+2, times, 0.540285, 3
+2, sandwiches, 0.688631, 5
+2, entrees, 0.549481, 6
+2, pal, 0.546065, 6
+2, salt lick, 0.913348, 7
+3, Carolina Gold wings, 0.650766, 0
+3, nice little serving, 0.64094, 0
+3, good bar, 0.622078, 1
+3, low key night, 0.606443, 2
+3, nice little patio, 0.648691, 3
+3, Jerk style Gardenburger, 0.626037, 3
+3, wings, 0.754717, 4
+3, jerk style, 0.742231, 4
+3, garlic fries, 0.931689, 5
+3, Lebowski, 0.885053, 5
+3, food, 0.760548, 6
+3, jerk style burger, 0.735198, 6
+3, East Blvd, 0.727852, 7
+3, roast beef sandwich, 0.691303, 7
+3, Big Lebowski theme, 0.765674, 8
+3, good beer selection, 0.742191, 8
+3, pretty good beer, 0.681288, 9
+3, nice burger, 0.624089, 9
+4, beef weck sandwich, 0.668194, 0
+4, authentic weck roll, 0.640467, 0
+4, Big Lebowski paraphernalia, 0.647217, 2
+4, traditional buffalo wings, 0.613538, 3
+4, fry chicken wings, 0.613456, 3
+4, Big Lebowski, 0.79052, 4
+4, roast beef, 0.972604, 5
+4, Lebowski, 0.953878, 5
+4, garlic fries, 0.991731, 6
+4, food, 0.791024, 6
+4, beer selection, 0.689934, 7
+4, cheese, 0.668982, 7
+4, lebowski burger, 0.765144, 8
+4, great place, 0.749233, 8
+4, surprisingly great food, 0.628837, 9
+4, fish fry, 0.616404, 9
+5, Big Lebowski references, 0.725959, 0
+5, Great bar food, 0.713393, 0
+5, weck roll, 0.631831, 2
+5, upstate ny, 0.607854, 3
+5, wings, 0.789123, 4
+5, charlotte, 0.627947, 4
+5, Lebowski, 0.97963, 5
+5, white russians, 0.705812, 5
+5, place, 0.827795, 6
+5, food, 0.787137, 6
+5, Big Lebowski fan, 0.738006, 7
+5, Lebowski Burger, 0.692962, 7
+5, garlic fries, 0.837032, 8
+5, Lebowski references, 0.738626, 8
+5, Great wings killer, 0.652903, 9
+5, great spot, 0.626898, 9

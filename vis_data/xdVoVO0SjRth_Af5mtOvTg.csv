@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+2, Apple Crumble, 0.838619, 0
+2, busy night, 0.695435, 0
+2, cold whimper, 0.649389, 1
+2, pie, 0.247077, 1
+2, service, 0.23081, 2
+2, granola topping, 0.791652, 3
+2, trivia night, 0.624128, 3
+2, hostesses, 0.965057, 5
+2, coffee cake, 0.68983, 6
+2, Check, 0.228005, 6
+2, open booth, 0.835082, 7
+2, burst, 0.269847, 7
+3, Upstairs bartender, 0.710755, 0
+3, Baja turkey burger, 0.690531, 0
+3, little pretzel role, 0.688492, 1
+3, horrible service, 0.613229, 1
+3, Limited booze selection, 0.687058, 2
+3, bar food, 0.623673, 2
+3, Madison Half Marathon, 0.705932, 3
+3, little pretzel roll, 0.688829, 3
+3, food, 0.748043, 5
+3, bit, 0.607474, 5
+3, Irish road Reuben, 0.681899, 6
+3, standard burger, 0.635309, 6
+3, Great Dane, 0.925474, 7
+3, Fitchburg Great Dane, 0.786104, 7
+3, Great Dane locations, 0.756369, 8
+3, pretty okay place, 0.726152, 8
+3, great beer selection..but, 0.715888, 9
+4, Great Dane locations, 0.770113, 0
+4, standard pub fare, 0.686686, 0
+4, cous cous, 0.611939, 2
+4, Madison area, 0.606155, 2
+4, bloody mary bar, 0.694013, 3
+4, best ordering decision, 0.65447, 3
+4, Madison, 0.6312, 5
+4, Great Dane restaurants, 0.758932, 6
+4, Templeton Rye Manhattan, 0.652786, 6
+4, good food, 0.738007, 7
+4, Wisconsin comfort food, 0.715796, 7
+4, Great Dane, 0.955904, 8
+4, good beer, 0.780154, 8
+4, chicken pot pie, 0.67218, 9
+4, magnificent Emerald Isle, 0.651334, 9
+5, hellfire habanero sauce, 0.94932, 0
+5, fish tacos, 0.799852, 0
+5, fish hatchery location, 0.91839, 1
+5, big group, 0.780406, 1
+5, good hamburger, 0.816915, 2
+5, shuffle board table, 0.933152, 3
+5, sample platter, 0.772323, 3
+5, house, 0.668263, 5
+5, fish fry, 0.938833, 6
+5, Sunday Brunch, 0.769308, 6
+5, upstairs dining area, 0.954835, 7
+5, food, 0.828067, 7
+5, Great Dane, 0.90317, 8
+5, semi private room, 0.894206, 8
+5, nice relaxed atmosphere, 0.906793, 9
+5, Great place, 0.819833, 9

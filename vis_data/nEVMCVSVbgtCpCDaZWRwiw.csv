@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, sand bags, 0.861011, 0
+1, pineneedles, 0.367589, 0
+1, Horrible conditions, 0.804881, 1
+1, Flag stick, 0.802966, 1
+1, sand, 0.952767, 2
+1, Sand traps, 0.836055, 2
+1, greens, 0.853632, 3
+1, preemergent applications, 0.726272, 3
+1, weeds, 0.637534, 4
+1, .greens, 0.305174, 4
+1, nice course, 0.679332, 7
+4, tricky holes, 0.829366, 3
+4, yelpers, 0.38965, 3
+4, overall great place, 0.968364, 7
+4, faster play, 0.719017, 7
+4, good condition, 0.718725, 8
+4, Great course, 0.57835, 8
+4, wonderful course, 0.751699, 9
+4, great layout, 0.730889, 9
+5, food specials, 0.875577, 7
+5, beer, 0.406221, 7
+5, Nice course, 0.922737, 8
+5, Highland Creek, 0.820048, 8

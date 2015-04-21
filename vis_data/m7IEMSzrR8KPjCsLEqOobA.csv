@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, mass produced bun, 0.749911, 0
+1, weird watermelon flavor, 0.738609, 0
+1, White Hamburger Bun, 0.845379, 1
+1, fresh hamburger meat, 0.756646, 1
+1, onion rings, 0.947938, 2
+1, bar area, 0.735176, 2
+1, real nacho cheeese, 0.78905, 3
+1, customer service, 0.76369, 3
+1, nachos, 0.737911, 5
+1, time, 0.708319, 5
+1, customer service skills, 0.751971, 7
+1, dinner Salisbury Steak, 0.736896, 7
+1, Nice waitstaff, 0.65152, 8
+1, strawberry lemonade, 0.644637, 8
+1, cool videos, 0.64273, 9
+2, fave burger joint, 0.666953, 0
+2, turkey burger, 0.639032, 0
+2, burger places, 0.636909, 1
+2, mushy burgers, 0.588297, 1
+2, non-casino Burgers, 0.584434, 2
+2, unlimited fries, 0.590915, 3
+2, bleu cheese, 0.581175, 3
+2, burger, 0.936776, 4
+2, fries, 0.736156, 4
+2, burger joint, 0.789569, 5
+2, food, 0.613122, 5
+2, Kilauea burger, 0.736606, 6
+2, Hula burger, 0.699726, 6
+2, guacamole burger, 0.643778, 7
+2, chicken breast burgers, 0.609415, 7
+2, new burger bestie, 0.664182, 8
+2, Pineapple burger, 0.6513, 8
+2, Bestie Burger, 0.637837, 9
+3, Point Break burger, 0.569532, 0
+3, burger excursion, 0.553576, 0
+3, In-N-Out burger, 0.53584, 2
+3, dollar burger, 0.532497, 2
+3, burger joint, 0.594478, 3
+3, chain burger joint, 0.580419, 3
+3, fish tacos, 0.586624, 4
+3, good burgers, 0.559682, 4
+3, burger, 0.930678, 5
+3, burgers, 0.794974, 5
+3, bottomless fries, 0.57972, 6
+3, red rock casino, 0.496943, 6
+3, good burger, 0.644809, 7
+3, hula burger, 0.612876, 7
+3, quick burger, 0.588406, 8
+3, bacon cheese burger, 0.567374, 8
+3, tasty burger, 0.556544, 9
+3, pretty good selection, 0.461974, 9
+4, Kilauea burger, 0.428364, 0
+4, fully veggie taco, 0.358243, 0
+4, bad customer service, 0.346479, 2
+4, old burger place, 0.473793, 3
+4, bigger burger, 0.413046, 3
+4, tortilla soup, 0.571588, 4
+4, service, 0.545009, 4
+4, burger, 0.93318, 5
+4, fries, 0.553237, 5
+4, burgers, 0.754715, 6
+4, mahi mahi sandwich, 0.445868, 6
+4, mushroom burger, 0.563332, 7
+4, better burger places, 0.508668, 7
+4, good burger place, 0.533896, 8
+4, Kobe beef burger, 0.501101, 8
+4, Great tacos, 0.358312, 9
+4, good experience, 0.332092, 9
+5, normie burger joint, 0.66199, 0
+5, pepper jack cheese, 0.617689, 0
+5, amazing burgers, 0.540362, 1
+5, Vegas BUffet food, 0.531213, 1
+5, burgers, 0.802204, 4
+5, turkey burger, 0.756907, 4
+5, burger, 0.999619, 5
+5, burger joint, 0.709863, 5
+5, veggie burger, 0.613347, 6
+5, Maui burger, 0.610127, 6
+5, fries, 0.733953, 7
+5, FRIES Islands fries, 0.711017, 7
+5, delicious burger creations, 0.674474, 8
+5, garden burger option, 0.666435, 8
+5, Burger huge Burger, 0.83604, 9
+5, great French fries, 0.617326, 9

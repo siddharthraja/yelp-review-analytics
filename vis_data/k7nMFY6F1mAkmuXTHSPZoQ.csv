@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, United airline, 0.676902, 0
+1, star, 0.436658, 1
+1, stomach, 0.392561, 1
+1, Ragu/Prego  Sauce, 0.735547, 2
+1, dit, 0.406531, 2
+1, Bad bad bad.., 0.939375, 3
+1, long time, 0.625845, 3
+1, pasta, 0.875119, 4
+1, ITALIAN restaurant, 0.701527, 6
+2, Shrimp Fettuccine Alfredo, 0.930341, 0
+2, wall Italian restaurant, 0.901285, 0
+2, burnt garlic, 0.908058, 1
+2, distinct bitter taste, 0.859812, 1
+2, cheap mozzarella cheese, 0.874022, 2
+2, fresh bread, 0.790508, 2
+2, bar area, 0.908387, 3
+2, country radio station, 0.907366, 3
+2, place, 0.773428, 4
+2, food, 0.962472, 5
+2, garlic bread, 0.914295, 6
+2, cheese bread, 0.810839, 7
+2, lasagna, 0.785179, 7
+2, good price, 0.785079, 8
+2, Great location, 0.77946, 8
+3, chemically treated bag-o-mozz, 0.834746, 0
+3, drive better sales, 0.832235, 0
+3, hot enoough oven, 0.839911, 2
+3, blue gill, 0.836875, 2
+3, fish dinner, 0.834606, 3
+3, fish fry, 0.86039, 4
+3, fish, 0.971979, 5
+3, Culver, 0.848692, 5
+3, Avanti, 0.958647, 6
+3, Friday night fish, 0.863155, 6
+3, average italian fare, 0.861442, 7
+3, better new york, 0.857101, 7
+3, Avanti Italian Restaurant, 0.927308, 8
+3, pretty good food, 0.847825, 8
+3, baked potato, 0.811188, 9
+3, nice experience, 0.768306, 9
+4, baked french onion, 0.918907, 0
+4, food tho, 0.809389, 0
+4, fix-it feedback, 0.779161, 1
+4, waitress, 0.769824, 2
+4, mom, 0.725686, 2
+4, drink board, 0.771823, 3
+4, ravioli, 0.816204, 4
+4, spaghetti, 0.734339, 4
+4, space, 0.686882, 5
+4, bartender lady, 0.820682, 6
+4, good food, 0.797252, 6
+4, Fish Fry Combo, 0.926249, 7
+4, night fish special, 0.895844, 7
+4, great fish fry, 0.928404, 8
+4, big wood beams, 0.897955, 8
+4, beef portion size, 0.897753, 9
+4, nice dinner, 0.795405, 9
+5, Great atmosphere, 0.767605, 6
+5, bar area, 0.76118, 6
+5, eggplant parm, 0.920176, 7
+5, hotels recommendation, 0.77596, 7
+5, new martinis, 0.87391, 8
+5, Great bartenders, 0.788934, 8
+5, veal parm, 0.916809, 9
+5, hidden gem, 0.760045, 9

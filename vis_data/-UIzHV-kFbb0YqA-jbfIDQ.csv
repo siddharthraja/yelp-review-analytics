@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, seating chart, 0.584307, 0
+1, wait, 0.441239, 0
+1, weak batter, 0.590267, 1
+1, Shame, 0.444121, 1
+1, tuna entree, 0.618086, 2
+1, bad odor, 0.602976, 2
+1, calamari pieces, 0.59844, 3
+1, Folks, 0.441675, 3
+1, tomato cucumber salad, 0.945947, 4
+1, fried calamari, 0.608418, 6
+1, hostess face, 0.598985, 6
+1, snow crab clusters, 0.706756, 7
+1, Mediterranean tuna, 0.602499, 7
+2, slow food service, 0.854907, 0
+2, original Riverview, 0.788258, 0
+2, black olive chutney, 0.891951, 1
+2, big disappointment, 0.766298, 1
+2, Riverview sour slaw, 0.937723, 2
+2, college basketball, 0.728842, 2
+2, long time, 0.813341, 3
+2, raw oysters, 0.75279, 3
+2, entrees, 0.663831, 4
+2, oysters appetizer, 0.80377, 6
+2, dance hall, 0.730099, 6
+2, homey feel, 0.747281, 7
+2, long way, 0.701933, 7
+3, ahi tuna tacos, 0.970851, 0
+3, Slightly spicy sauce, 0.901721, 0
+3, stop, 0.363275, 3
+3, Service, 0.342373, 7
+3, decent appetizer, 0.708071, 8
+3, Catawba River, 0.660945, 8
+3, crane, 0.37223, 9
+4, mashed taters, 0.762362, 0
+4, fish tacos, 0.7414, 0
+4, crowds, 0.554944, 1
+4, Riverview, 0.554602, 1
+4, non-smoking section, 0.741431, 3
+4, issues, 0.544792, 3
+4, excellent raw oysters, 0.98507, 4
+4, food, 0.822032, 4
+4, Buster Boyd bridge, 0.904588, 6
+4, craft brews, 0.739045, 6
+4, Oyster Po Boy, 0.966219, 7
+4, decent beer prices, 0.926639, 7
+4, better beer selection, 0.924133, 8
+4, food quality/price, 0.737245, 8
+4, Captain Wendy, 0.762625, 9
+4, garlic butter, 0.717971, 9
+5, shrimp plate, 0.759998, 3
+5, pepper flounder, 0.749968, 3
+5, meal, 0.46926, 6
+5, Anthony, 0.453991, 6
+5, w/ honeymoon fries, 0.946888, 7
+5, salmon Caesar salad, 0.877503, 7
+5, Fantastic first visit, 0.718754, 8
+5, great visit, 0.680464, 8

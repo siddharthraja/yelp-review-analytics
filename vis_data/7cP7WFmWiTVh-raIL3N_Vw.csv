@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, air conditioning cut, 0.893967, 0
+1, recent experiences, 0.710922, 0
+1, crappy beer, 0.646315, 1
+1, Matt, 0.502648, 1
+1, exceedingly mediocre folk, 0.922381, 2
+1, overtly pretentious environment, 0.904969, 2
+1, matter, 0.491433, 3
+1, kinda, 0.462765, 3
+1, loyal patron, 0.701368, 6
+1, private conversation, 0.640903, 6
+1, sweaty house, 0.687681, 7
+1, live music, 0.660591, 7
+1, re-purposed edifices, 0.682209, 8
+1, old houses, 0.64059, 8
+2, cool new place, 0.592024, 0
+2, bar drinking beer, 0.58147, 0
+2, Walmart quality condiments, 0.556965, 1
+2, hipster douche bags, 0.54995, 1
+2, dick tard dudes, 0.544651, 2
+2, creamy flavorful soup, 0.542457, 2
+2, hot dog, 0.620617, 3
+2, waitress, 0.517203, 3
+2, place, 0.951335, 4
+2, friends, 0.620998, 4
+2, grilled cheese, 0.678572, 5
+2, bar, 0.656213, 5
+2, open entry way, 0.547034, 6
+2, Arizona Mills Mall, 0.546666, 6
+2, Good beer selection, 0.570839, 7
+2, grilled cheese/tomato soup, 0.551068, 7
+2, beer selection, 0.788501, 8
+2, local business thriving, 0.548859, 8
+2, good beverage, 0.510623, 9
+3, infamous Grilled Cheese, 0.5222, 0
+3, Nice little patio, 0.504639, 0
+3, bar food menu, 0.542226, 1
+3, little tiny house, 0.500094, 1
+3, little place, 0.492371, 2
+3, grilled cheese sandwich, 0.59234, 3
+3, ala Bar Bianco, 0.514999, 3
+3, place, 0.767851, 4
+3, bar, 0.601277, 4
+3, grilled cheese, 0.908246, 5
+3, roosevelt, 0.654205, 5
+3, good beer list, 0.510426, 6
+3, small corner table, 0.503779, 6
+3, better grilled cheese, 0.597037, 7
+3, converted living room, 0.513831, 7
+3, amazing tomato soup, 0.525185, 8
+3, killa beer selection, 0.517422, 8
+3, Super friendly staff, 0.49036, 9
+4, Roosevelt Row District, 0.410287, 0
+4, Good place, 0.401992, 0
+4, Roosevelt experience, 0.407038, 1
+4, great little bar, 0.419089, 2
+4, cozy little bar, 0.402518, 2
+4, Roosevelt Area, 0.417034, 3
+4, Roosevelt street fair, 0.406887, 3
+4, bar, 0.611596, 4
+4, night, 0.439017, 4
+4, place, 0.761745, 5
+4, roosevelt, 0.740428, 5
+4, grilled cheese sandwich, 0.480627, 6
+4, Roosevelt beer selection, 0.474806, 6
+4, grilled cheese, 0.909856, 7
+4, best grilled cheese, 0.479497, 7
+4, great place, 0.455977, 8
+4, TOTALLY cool place, 0.412446, 8
+4, great beer selection, 0.415107, 9
+4, funky little place, 0.410982, 9
+5, Great little bar, 0.431075, 0
+5, Amazing bar food, 0.423708, 0
+5, Roosevelt House Pale, 0.414506, 2
+5, special house beer, 0.438863, 3
+5, huge beer person, 0.408502, 3
+5, grilled cheese, 0.905261, 5
+5, beer, 0.777873, 5
+5, place, 0.755859, 6
+5, beer list, 0.482257, 6
+5, great food, 0.457897, 7
+5, draft beer selection, 0.438108, 7
+5, beer selection, 0.695013, 8
+5, great place, 0.547425, 8
+5, great beer list, 0.446783, 9
+5, room. great place, 0.443576, 9

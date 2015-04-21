@@ -1,0 +1,18 @@
+rating, keyword, relevance, bucket
+1, Chicken Alfredo, 0.72207, 0
+1, husband, 0.578852, 0
+1, restaurant, 0.47661, 1
+1, scratch, 0.473542, 1
+1, Limited menu, 0.687224, 3
+1, steak, 0.624203, 3
+1, bartenders, 0.491248, 6
+1, Music, 0.465757, 6
+1, warmed hoagie roll, 0.95687, 7
+1, Cheryl, 0.481004, 7
+1, inexpensive prices, 0.779986, 8
+1, bag salad, 0.768262, 8
+3, typical bar fare, 0.927649, 2
+3, Food, 0.583947, 2
+3, Location, 0.595511, 3
+3, Prices, 0.604243, 7
+3, build, 0.58709, 7

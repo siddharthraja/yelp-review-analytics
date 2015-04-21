@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, RIP Antars, 0.762338, 0
+1, great things, 0.631751, 0
+1, Yelp Deal, 0.958367, 1
+1, liquor license, 0.791302, 1
+1, Shame, 0.405401, 2
+2, table, 0.299385, 0
+2, bottles, 0.294936, 1
+2, edge, 0.285089, 1
+2, time, 0.78126, 2
+2, bar, 0.386371, 2
+2, pre-season football, 0.617572, 3
+2, shame, 0.461412, 3
+2, remotely decent service, 0.905738, 6
+2, food, 0.398529, 6
+3, pool tables, 0.985521, 0
+3, coors light bottles, 0.979437, 0
+3, strobe lit bathroom, 0.972228, 1
+3, sports bar, 0.857497, 1
+3, toilet paper, 0.962422, 2
+3, weird thing, 0.854729, 2
+3, preseason games, 0.861789, 3
+3, belly up'ers, 0.857123, 3
+3, nice outdoor seating, 0.97966, 6
+3, afternoon drinks, 0.867827, 6
+3, sweet potato fries, 0.946003, 7
+3, gift cards, 0.868126, 7
+3, local Westgate neighbors, 0.964003, 8
+3, good location, 0.871112, 8
+4, giant projection screens, 0.868177, 0
+4, favorite local bar, 0.84124, 0
+4, food only review, 0.718534, 1
+4, Holy crap, 0.699188, 1
+4, half naked girl, 0.830087, 2
+4, chicken carbonera, 0.723295, 2
+4, poker leagues, 0.705782, 3
+4, work, 0.567123, 3
+4, food, 0.819634, 5
+4, Chicken Parmesan Sliders, 0.865295, 6
+4, place, 0.742143, 6
+4, buffalo chicken wrap, 0.847998, 7
+4, pool table, 0.841608, 7
+4, chicken pot pie, 0.93169, 8
+4, sweet potato fries, 0.887352, 8
+4, Good food, 0.718631, 9
+4, friendly staff, 0.692326, 9
+5, ..My only question, 0.628044, 0
+5, Cardinals game, 0.603514, 0
+5, sports bar, 0.615776, 2
+5, short period, 0.594777, 3
+5, Coyote, 0.454471, 3
+5, yum-yum, 0.475276, 6
+5, Good atmosphere, 0.61688, 7
+5, mobile app, 0.605919, 7
+5, cheese curds, 0.906154, 8
+5, buffalo chicken sauce, 0.799924, 8
+5, Coors Draft, 0.658176, 9
+5, special place, 0.578554, 9

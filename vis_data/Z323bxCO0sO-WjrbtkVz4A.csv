@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+1, waiter, 0.256359, 0
+1, champagne, 0.226712, 0
+1, Horrendously slow service, 0.965461, 1
+1, entire place, 0.559317, 1
+1, night, 0.294494, 2
+1, tip, 0.21862, 4
+1, high end place, 0.790505, 6
+1, pricey drinks, 0.67882, 6
+4, était très bonne, 0.802924, 0
+4, tout était très, 0.788701, 0
+4, Sunday night, 0.705049, 1
+4, bottle service, 0.721106, 2
+4, champagne drinker, 0.732412, 3
+4, service, 0.761512, 5
+4, food, 0.725818, 5
+4, peut la sabrer, 0.774343, 6
+4, main course, 0.766304, 6
+4, La Champagnerie, 0.938688, 7
+4, delicious  champagne cocktails, 0.871763, 7
+4, drier Italian Prosecco, 0.792726, 8
+4, big sparkling wine, 0.784348, 8
+4, usual gin fizz, 0.762844, 9
+4, great selection, 0.697884, 9
+5, plaisir commence ici, 0.928014, 0
+5, ice cream sandwich, 0.878835, 0
+5, sword, 0.539929, 2
+5, small charcuterie plate, 0.86501, 3
+5, mistake, 0.54285, 3
+5, champagne bottles, 0.802526, 6
+5, better place, 0.724935, 6
+5, La Champagnerie, 0.716108, 7
+5, potato sauce, 0.699683, 7
+5, different champagnes, 0.991537, 8
+5, Perfectly cooked duck, 0.933781, 8
+5, delicious oysters, 0.835913, 9
+5, Fantastic meal, 0.724501, 9

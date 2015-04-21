@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, terrible service, 0.720944, 0
+1, absolutely terrible service, 0.653842, 0
+1, terribly slow service, 0.662669, 1
+1, scantily clad bartenders, 0.653708, 1
+1, scantily clad waitresses, 0.67003, 2
+1, regular sports bar, 0.636503, 2
+1, food, 0.937137, 3
+1, North Shore, 0.783986, 3
+1, place, 0.831535, 4
+1, table, 0.791946, 4
+1, time, 0.655106, 5
+1, friend, 0.617082, 5
+1, general manager, 0.669513, 6
+1, outdoor seating area, 0.621183, 6
+1, nice place, 0.60863, 7
+2, Kilt uniform daily, 0.671185, 0
+2, upper management guys, 0.666042, 0
+2, good looking women, 0.62196, 1
+2, true Yelper, 0.522628, 1
+2, MASSIVE nad htat, 0.624007, 2
+2, terrible service, 0.540299, 2
+2, strip club, 0.648787, 3
+2, perfect bar experience, 0.613755, 3
+2, Tilted Kilt, 0.986103, 4
+2, waitress, 0.771618, 4
+2, food, 0.812128, 5
+2, place, 0.620424, 5
+2, beer selection, 0.770185, 6
+2, absorbent bun, 0.543988, 6
+2, Surprisingly good food, 0.710861, 7
+2, chicken tender wrap, 0.636527, 7
+2, good sense, 0.554307, 8
+3, Irish nachos, 0.433946, 0
+3, jolly roger, 0.395263, 0
+3, bad thing, 0.541739, 3
+3, fresh hot food, 0.514956, 3
+3, Tilted Kilt, 0.92257, 4
+3, place, 0.366432, 4
+3, game, 0.488827, 5
+3, service, 0.454581, 5
+3, bachelor party, 0.749316, 6
+3, food, 0.557049, 6
+3, real great care, 0.577001, 7
+3, best man, 0.520918, 7
+3, good time, 0.531643, 8
+3, Long Island Iced, 0.519177, 8
+3, eye candy, 0.383053, 9
+3, outfits, 0.274999, 9
+4, Tilted Kilt wenches, 0.826083, 0
+4, Pirates game, 0.771095, 0
+4, Guilt macadamia nut, 0.751065, 1
+4, ice cream desert, 0.750317, 1
+4, nice 18-ounce glasses, 0.765134, 3
+4, completely wrong city, 0.737026, 3
+4, gift certificate, 0.758434, 4
+4, food, 0.808238, 5
+4, North Shore, 0.840732, 6
+4, Tilted Kilt franchise, 0.823496, 6
+4, Tilted Kilt, 0.988216, 7
+4, nice sized bar, 0.783729, 7
+4, cool place, 0.771789, 8
+4, honey mustard dressing, 0.751736, 8
+4, floor manager Katelynn, 0.75667, 9
+5, beautiful young waitresses, 0.873525, 0
+5, bar food, 0.529021, 0
+5, low rating, 0.626046, 1
+5, skimpy outfits, 0.622724, 1
+5, Hooter, 0.348108, 2
+5, kids, 0.270497, 2
+5, gals, 0.289334, 3
+5, cloths, 0.280663, 3
+5, food, 0.806452, 4
+5, place, 0.637171, 5
+5, Pirate game, 0.543787, 6
+5, nachos, 0.306909, 6
+5, homemade chips, 0.595668, 7
+5, grown-up, 0.295125, 7
+5, yummy fried things, 0.944568, 8
+5, onion rings, 0.588975, 8
+5, excellent food, 0.553147, 9
+5, burgers, 0.432622, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, light rail, 0.613803, 0
+1, margarita, 0.446399, 0
+1, nachos, 0.931338, 1
+1, stale ass chips, 0.821731, 1
+1, loco patron shirt, 0.829152, 2
+1, late weekday night, 0.7923, 2
+1, food, 0.796954, 3
+1, drinks, 0.643416, 3
+1, bartender, 0.787661, 4
+1, Super Bowl Party, 0.854584, 6
+1, pork tacos, 0.681698, 6
+1, Super Bowl, 0.859914, 7
+1, place, 0.556137, 7
+1, coworker, 0.455712, 8
+1, bouncer, 0.460903, 9
+2, guacamole sauce atop, 0.627743, 0
+2, noisy restaurant/bar, 0.489465, 0
+2, Loco paton, 0.468608, 1
+2, time, 0.242943, 1
+2, little bit, 0.427652, 2
+2, service, 0.384264, 2
+2, Loco Patron, 0.418856, 3
+2, race, 0.281941, 3
+2, food, 0.499905, 4
+2, place, 0.347995, 5
+2, crispy tacos, 0.759029, 6
+2, lime juice, 0.453679, 6
+2, crunchy fish tacos, 0.95639, 7
+2, shrimp tacos, 0.703881, 7
+2, Winning Crunchy Tacos, 0.900791, 8
+2, beer thats, 0.466228, 8
+2, thing, 0.240514, 9
+3, eat inferior tacos, 0.597848, 0
+3, back. ok place, 0.579515, 0
+3, little time, 0.441014, 1
+3, sour drinks, 0.436885, 1
+3, .decently cheap drinks, 0.602401, 2
+3, ground beef taco, 0.547144, 2
+3, great HH specials, 0.563503, 3
+3, Lotta fohawks, 0.444095, 3
+3, food, 0.768679, 4
+3, place, 0.901428, 5
+3, mexican bar food, 0.54241, 6
+3, avid train rider, 0.50968, 6
+3, nice casual atmosphere, 0.541154, 7
+3, crunchy tacos, 0.497231, 7
+3, pretty good music, 0.546952, 8
+3, new place, 0.533788, 8
+3, Pretty good food, 0.573185, 9
+3, definite place, 0.472423, 9
+4, carne asada tacos, 0.656705, 0
+4, bar food, 0.560924, 0
+4, HH Loco, 0.551476, 1
+4, Loco Patron, 0.90448, 2
+4, mexican food place, 0.625925, 2
+4, original Loco location, 0.660393, 3
+4, great daily specials, 0.582888, 3
+4, light rail, 0.744129, 5
+4, food, 0.69379, 5
+4, tacos, 0.762791, 6
+4, bar, 0.618757, 6
+4, crispy tacos, 0.641969, 7
+4, Scottsdale location, 0.638431, 7
+4, good tacos, 0.666701, 8
+4, new location, 0.638945, 8
+4, great tasting food, 0.595033, 9
+4, smile Good food, 0.592902, 9
+5, famous tacos, 0.649871, 0
+5, tasty little treat, 0.640178, 0
+5, loco patron, 0.706486, 1
+5, Loco bar, 0.6179, 1
+5, bar Mexican Food, 0.714167, 3
+5, work staff lunch, 0.682355, 3
+5, food, 0.951439, 6
+5, great food sets, 0.72405, 6
+5, great food, 0.895325, 7
+5, mexican food, 0.779765, 7
+5, crunchy tacos, 0.838639, 8
+5, tasty mexican food, 0.690454, 8
+5, Great quality food, 0.71506, 9
+5, wait staff, 0.674958, 9

@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+2, Friday night, 0.927749, 0
+2, dollar cover, 0.588145, 0
+2, trash cans, 0.534188, 1
+2, drumsticks, 0.288608, 1
+2, crowd, 0.364339, 2
+2, singers, 0.259171, 2
+2, piano bar fix, 0.768169, 3
+2, mic level, 0.54821, 3
+2, wrong chords, 0.547123, 4
+2, kind, 0.341227, 4
+2, musicians, 0.31297, 5
+2, Big Bang, 0.926071, 6
+2, good place, 0.548326, 6
+2, old songs, 0.573366, 8
+2, Howl, 0.294986, 8
+2, large plastic syringes, 0.871261, 9
+2, jello shots, 0.564046, 9
+3, tiny tables, 0.609013, 0
+3, large group, 0.597229, 0
+3, brand new drink, 0.859989, 2
+3, Scottsdale bar, 0.632986, 2
+3, normal Scottsdale vibe, 0.920004, 3
+3, piano bar, 0.838975, 3
+3, Moon, 0.412762, 4
+3, drinks, 0.702844, 5
+3, server, 0.420577, 6
+3, friends, 0.41308, 6
+3, good time, 0.768863, 7
+3, piano jockeys, 0.572194, 7
+3, bucket, 0.353851, 8
+3, happy hour drawing, 0.558798, 9
+3, Great place, 0.544251, 9
+4, dueling piano bar, 0.753922, 0
+4, reasonably priced drinks, 0.747078, 0
+4, pretty outrageous cover, 0.725882, 1
+4, adjustment problems, 0.643008, 1
+4, animal print bar, 0.719729, 2
+4, partyville shock, 0.620461, 2
+4, chocolate cake shots, 0.736139, 3
+4, copious amounts, 0.633282, 3
+4, time, 0.706116, 4
+4, sound issues, 0.645413, 4
+4, Attentive bar tenders, 0.747197, 6
+4, place, 0.746154, 6
+4, dueling pianos, 0.918274, 7
+4, multiple additional musicians, 0.73107, 7
+4, cover charge, 0.76392, 8
+4, fun little venue, 0.7384, 8
+4, pretty excellent combination, 0.734149, 9
+4, great time, 0.623235, 9
+5, talk trash, 0.629784, 0
+5, multiple musicians, 0.616997, 0
+5, regular basis, 0.591093, 1
+5, normal dueling piano, 0.812017, 2
+5, dueling piano bar, 0.992932, 3
+5, shot girl, 0.609467, 3
+5, weekends, 0.584282, 6
+5, concoctions, 0.470224, 6
+5, moderately priced drinks, 0.822644, 7
+5, Amazing weekday drink, 0.770798, 7
+5, Yelp event, 0.621571, 8
+5, big group, 0.597956, 8

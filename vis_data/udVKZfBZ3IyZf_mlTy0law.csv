@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, uncomfortable wicker furniture, 0.923173, 0
+1, Sandwich Saloon, 0.647855, 0
+1, different things, 0.606828, 1
+1, impatient, 0.272327, 1
+1, picky eater, 0.737021, 2
+1, money, 0.277597, 2
+1, potato salad, 0.679092, 3
+1, Nana, 0.594309, 3
+1, Yarnell, 0.239868, 4
+1, high rating, 0.653397, 6
+1, better sandwich, 0.644996, 7
+1, lack-luster sandwiches, 0.627413, 7
+2, cheese sandwich, 0.886938, 0
+2, unnaturally orange goo, 0.774594, 0
+2, Cheesy Hell, 0.555933, 1
+2, plastic plate, 0.543455, 1
+2, apple pie, 0.549689, 2
+2, restaurant, 0.380167, 2
+2, bread, 0.356071, 3
+2, sandwich, 0.938261, 4
+2, salsa, 0.430389, 4
+2, cheese, 0.945539, 5
+2, bacon, 0.547738, 5
+2, salad, 0.441226, 6
+2, ingredients, 0.352928, 6
+2, cheese sandwiches, 0.785782, 8
+2, photo, 0.348222, 8
+3, Wittenberg area, 0.516512, 0
+3, degree weather, 0.456246, 3
+3, spot, 0.207165, 3
+3, quaint little shop, 0.943325, 7
+3, country type nick-nacks, 0.819105, 8
+3, pineapple smoothie, 0.653789, 8
+4, actual REAL Macaroni, 0.921633, 0
+4, sandwich options, 0.816641, 0
+4, new dinner menu, 0.916719, 3
+4, Wickenburg, 0.91704, 5
+4, Nana, 0.782313, 5
+4, sliced bread camp, 0.936485, 6
+4, separate dining area, 0.88337, 6
+4, chile chicken soup, 0.86603, 7
+4, historic western town, 0.854924, 7
+4, definite southwest kinda, 0.895034, 8
+4, Roper sandwich, 0.801705, 8
+4, Great homestyle cookin, 0.957774, 9
+4, downtown Wickenburg, 0.869878, 9
+5, little sandwich crafter, 0.983218, 0
+5, fresh daily specials, 0.893064, 0
+5, best grilled cheese, 0.860931, 3
+5, tiny place, 0.743108, 3
+5, Wickenburg, 0.908229, 4
+5, deep dish style, 0.816653, 6
+5, roast beef sandwich, 0.933255, 7
+5, favorite sandwich shop, 0.900013, 7
+5, lunch, 0.898045, 8
+5, coconut cream pie, 0.858384, 8
+5, Sandwich Saloon, 0.958151, 9
+5, great food, 0.87153, 9

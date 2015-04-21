@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+4, size fish portions, 0.925638, 0
+4, Smiths grocery store, 0.90413, 0
+4, Sad, 0.458492, 1
+4, lunch, 0.450868, 1
+4, slight stench, 0.710113, 2
+4, bar area, 0.654516, 2
+4, better smoke ventilaters, 0.937123, 3
+4, friday, 0.506957, 3
+4, burgers, 0.553153, 4
+4, breakfast, 0.448969, 6
+4, napkins, 0.461384, 7
+4, cool, 0.4529, 7
+4, Mushroom Onion burger, 0.952378, 8
+4, bacon burger, 0.7563, 8
+4, people persons, 0.721247, 9
+4, good place, 0.687625, 9
+5, separate frm dining, 0.901006, 0
+5, mello dining area, 0.879964, 0
+5, service, 0.297624, 2
+5, bit, 0.248789, 2
+5, decent portion, 0.525249, 6
+5, smaller portion, 0.500344, 6
+5, English Muffin, 0.499641, 7
+5, staffing, 0.246169, 7

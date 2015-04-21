@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, standard pepperoni kinda, 0.621056, 0
+1, local sit-down pizza, 0.619138, 0
+1, little adult interaction, 0.596579, 1
+1, Zero Star review, 0.590462, 1
+1, customer service, 0.725062, 2
+1, food, 0.634805, 2
+1, Native New Yorker, 0.979191, 3
+1, good golden brown, 0.612571, 3
+1, waitress, 0.518415, 5
+1, yr. old nephew, 0.758244, 6
+1, high school staff, 0.601971, 6
+1, Manager Brian, 0.506684, 7
+1, Visa statement, 0.505607, 7
+1, new Oakley, 0.515307, 8
+2, California Chicken sandwich, 0.7842, 0
+2, Native New Yorker, 0.783135, 0
+2, limited meatless fare, 0.780318, 1
+2, boneless mandarin orange, 0.752801, 1
+2, domestic drafts, 0.972518, 2
+2, terrible service, 0.654636, 2
+2, wings, 0.851269, 3
+2, good french fries, 0.783206, 3
+2, service, 0.769398, 5
+2, time, 0.627329, 5
+2, good portion, 0.641574, 6
+2, Food rocks, 0.637927, 6
+2, chicken sandwich, 0.804302, 7
+2, decent taste, 0.775055, 7
+2, beer selection, 0.645019, 8
+2, great placing, 0.630886, 8
+2, great customer service, 0.76905, 9
+3, days..mmm boneless wings, 0.566837, 0
+3, Dusted Parmesan wings, 0.53583, 0
+3, typical southern bar, 0.401304, 2
+3, sports bar, 0.397956, 2
+3, great regional chain, 0.387484, 3
+3, hot wings, 0.723692, 4
+3, high school, 0.456818, 4
+3, wings, 0.922071, 5
+3, place, 0.449696, 5
+3, interesting hot wings, 0.535781, 6
+3, Native New Yorker, 0.499638, 6
+3, better hot wings, 0.587541, 7
+3, honey hot wings, 0.519166, 7
+3, Pretty good wings, 0.524645, 8
+3, damn good deal, 0.403495, 8
+3, good place, 0.365375, 9
+4, good sports bar, 0.717827, 0
+4, NY style pizza, 0.690767, 0
+4, sports bar, 0.754753, 2
+4, sore dick, 0.521324, 2
+4, little hidden gem, 0.619656, 3
+4, wings, 0.969667, 6
+4, football games tons, 0.660867, 6
+4, Native New Yorker, 0.849589, 7
+4, wings extra crispy, 0.798024, 7
+4, honey hot wings, 0.860852, 8
+4, pineapple teriyaki wings, 0.785904, 8
+4, mild wings, 0.662581, 9
+4, heart beat, 0.533007, 9
+5, honey hot wings, 0.717232, 0
+5, long life friend, 0.598028, 0
+5, curly fry lovers, 0.641073, 1
+5, trivia night, 0.45578, 2
+5, Fridays, 0.37999, 2
+5, new flavor, 0.480202, 3
+5, wife, 0.339852, 3
+5, ice cream, 0.49101, 6
+5, busy night, 0.482139, 6
+5, Wings Wings Wings, 0.946617, 7
+5, food, 0.364391, 8
+5, big screen TV, 0.601921, 9
+5, cold ones, 0.477203, 9

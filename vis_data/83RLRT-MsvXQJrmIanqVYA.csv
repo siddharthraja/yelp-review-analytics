@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, 10 oz Oskar Blues IPA, 0.904963, 0
+1, Spokes Anti-Gun policy, 0.756917, 0
+1, Kids area kind, 0.656852, 1
+1, uncooked fries, 0.532787, 1
+1, hazardous plastic material, 0.656309, 2
+1, bartender, 0.563666, 2
+1, oz glass, 0.511377, 3
+1, higher ABV, 0.508866, 3
+1, food, 0.664058, 4
+1, good friendly service, 0.666448, 6
+1, angel wings, 0.516627, 6
+1, Friendly staff, 0.524441, 7
+1, rare keg, 0.507874, 7
+1, Countryrtime powder, 0.534681, 8
+1, great place, 0.495832, 8
+2, new neighborhood bar, 0.783116, 0
+2, Queso dip appetizer, 0.768293, 0
+2, sweet potatoe fries, 0.776531, 1
+2, sport bar type, 0.769495, 1
+2, mediocre bar food, 0.805531, 2
+2, soggy pretzel bun, 0.765965, 2
+2, smaller cheese curds, 0.793886, 3
+2, Hint hint spokes, 0.778224, 3
+2, food, 0.962986, 5
+2, place, 0.809322, 5
+2, level microbrew beers, 0.783644, 6
+2, beer list, 0.776641, 6
+2, grilled cheese, 0.865301, 7
+2, good fresh food, 0.819737, 7
+2, late night libations, 0.76616, 8
+2, great patio, 0.719869, 8
+2, great place, 0.7125, 9
+3, turtles good service, 0.61879, 0
+3, bad mood, 0.57479, 0
+3, Sweet potato fries, 0.574917, 1
+3, fried veggie basket, 0.568524, 1
+3, bar food label, 0.612419, 2
+3, ale house/sports bar, 0.587488, 2
+3, black beans, 0.595294, 3
+3, craft beer, 0.534072, 3
+3, menu, 0.547173, 4
+3, food, 0.619415, 5
+3, pepper burger, 0.593727, 5
+3, regular beer selections, 0.623395, 6
+3, sirloin tacos, 0.556242, 6
+3, beer selection, 0.92005, 7
+3, nice patio space, 0.630015, 7
+3, waffle fries, 0.673961, 8
+3, Good beer selection, 0.658959, 8
+3, fairly good choice, 0.623435, 9
+3, good restaurant, 0.563598, 9
+4, good pub food, 0.460232, 0
+4, open area bar, 0.410044, 0
+4, beer list, 0.409979, 2
+4, Excellent beer choices, 0.410007, 3
+4, carver burger, 0.532647, 4
+4, spokes, 0.672012, 5
+4, waffle fries, 0.496193, 5
+4, beer, 0.661312, 6
+4, food, 0.656793, 6
+4, place, 0.590787, 7
+4, kale salad, 0.438049, 7
+4, sweet potato fries, 0.947654, 8
+4, Good beer selection, 0.603378, 8
+4, great beer choices, 0.517209, 9
+4, great place, 0.498672, 9
+5, typical bar food, 0.65503, 0
+5, great Moscow Mules, 0.622756, 0
+5, poor food reviews, 0.637974, 2
+5, neighborhood bar feel, 0.612204, 2
+5, beer, 0.964786, 4
+5, spokes, 0.741169, 4
+5, place, 0.728238, 5
+5, staff, 0.695349, 5
+5, food, 0.966854, 6
+5, turkey, 0.637003, 6
+5, good food, 0.72882, 7
+5, menu, 0.663744, 7
+5, beer selection, 0.822794, 8
+5, craft beer, 0.76965, 8
+5, best beer recommendations, 0.637306, 9
+5, simple beer menu, 0.636984, 9

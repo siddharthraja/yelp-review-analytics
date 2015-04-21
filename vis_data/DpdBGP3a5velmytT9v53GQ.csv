@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, customer services skills, 0.979823, 0
+1, new staff work, 0.819933, 0
+1, bloody mary, 0.580925, 2
+1, bad service, 0.547238, 2
+1, bee hive, 0.626817, 7
+1, good reviews, 0.615497, 9
+2, pool table area, 0.962722, 0
+2, older crowd, 0.703347, 0
+2, random times, 0.696351, 1
+2, bar area, 0.676367, 1
+2, little booth, 0.717763, 2
+2, bad attitude, 0.701166, 2
+2, bar portion, 0.710832, 3
+2, joke, 0.519984, 3
+2, song battle, 0.708176, 6
+2, duet, 0.406802, 6
+2, electronic database, 0.771622, 7
+2, Mirror Pond, 0.720755, 7
+2, great time, 0.762795, 8
+2, local Musicians, 0.698892, 8
+4, IMO, 0.384369, 1
+4, heavy metal songs, 0.725269, 3
+4, big crowd, 0.656717, 3
+4, Karaoke night, 0.64216, 7
+4, extremely fun, 0.637764, 7
+4, Karaoke w/ friends, 0.913184, 8
+4, food tastes, 0.649416, 9
+5, seperate places, 0.474713, 0
+5, best place, 0.441165, 0
+5, bar area, 0.473962, 2
+5, piece brass band, 0.855158, 3
+5, Randomness walkin, 0.619566, 3
+5, Late night, 0.446058, 6
+5, hoppin, 0.222619, 6
+5, bbq chicken pizza, 0.951355, 7
+5, separate Karaoke room, 0.802536, 7
+5, great prices, 0.474497, 8
+5, Buffalo chicken fingers, 0.807695, 9
+5, grilled cheese, 0.502554, 9

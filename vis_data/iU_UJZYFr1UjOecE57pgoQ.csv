@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, waitress, 0.488205, 0
+1, pitch, 0.464642, 0
+1, cliche Irish pub, 0.951575, 1
+1, tourist trap, 0.703926, 1
+1, menus, 0.530966, 2
+1, girl, 0.448108, 2
+1, Trafalgar Square, 0.747953, 6
+1, good food, 0.688695, 6
+1, lunch, 0.464449, 7
+1, best gang, 0.671664, 8
+2, real early start, 0.856519, 0
+2, breakfast menu, 0.610113, 0
+2, little balance, 0.597706, 1
+2, times/meals/drinks, 0.35916, 1
+2, little bit, 0.588018, 2
+2, bugger, 0.400209, 2
+2, Biddy Mulligan, 0.728697, 3
+2, archetypal stop, 0.685796, 3
+2, review, 0.358519, 4
+2, corner, 0.413246, 5
+2, meat pie shop, 0.837122, 6
+2, food, 0.40898, 6
+2, great student pub, 0.985104, 7
+2, warm Magners, 0.678183, 7
+2, definite hotel pub, 0.897063, 8
+2, Sunday morning, 0.617341, 8
+3, pub golf pub, 0.910098, 0
+3, constant fiddle music, 0.750131, 0
+3, central oval bar, 0.763376, 1
+3, rickety character add, 0.759863, 1
+3, Biddy Mulligans, 0.872313, 2
+3, obnoxiously drunk Scottish, 0.737227, 2
+3, cheap drinks, 0.659711, 3
+3, best place, 0.653701, 3
+3, student recommended card, 0.986589, 6
+3, early evening meal, 0.731204, 6
+3, Wee Bar annex, 0.766182, 7
+3, pre drinking venue, 0.734693, 7
+3, pub meal, 0.678845, 8
+3, day/whole night, 0.657429, 8
+3, students great deals, 0.740558, 9
+3, friendly waitstaff, 0.632052, 9
+4, Student Recommended card, 0.664737, 0
+4, Leuke Ierse pub, 0.663024, 0
+4, loud drunken twats, 0.654306, 1
+4, Waverley train station, 0.632773, 2
+4, main bus route, 0.631115, 2
+4, frequent Biddy Mulligans, 0.793383, 3
+4, stag/hen parties, 0.727205, 4
+4, food, 0.613725, 4
+4, Biddy Mulligans, 0.952428, 5
+4, place, 0.709824, 5
+4, somewhat overly-extreme crush, 0.664522, 6
+4, student deal, 0.592066, 6
+4, live music, 0.752063, 7
+4, good atmosphere, 0.681777, 7
+4, outdoor seating area, 0.778226, 8
+4, drinks al fresco, 0.702006, 8
+4, fantastic place, 0.618518, 9
+4, friendly atmosphere, 0.597249, 9
+5, Norse god babies, 0.914457, 0
+5, separate ways, 0.63461, 0
+5, huge bachelor party, 0.987474, 3
+5, States, 0.435834, 3
+5, bunch, 0.493857, 4
+5, guys, 0.463885, 4
+5, couple free drinks, 0.998707, 6
+5, Irish pub, 0.788143, 6
+5, good friend, 0.626586, 7
+5, good food, 0.596774, 7
+5, Magners cider, 0.670365, 8
+5, Great pub, 0.667102, 8
+5, low key pub, 0.958881, 9

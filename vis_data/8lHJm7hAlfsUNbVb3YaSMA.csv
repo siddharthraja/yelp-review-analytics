@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, table, 0.723792, 2
+1, staff, 0.714621, 2
+1, Place, 0.728632, 3
+1, service, 0.831769, 4
+1, sunday afternoon, 0.971314, 6
+1, Went, 0.812777, 6
+1, Hob Nob, 0.961346, 7
+1, time, 0.709531, 7
+2, stank ass Bridgeport, 0.957699, 0
+2, nasty fart smell, 0.895101, 0
+2, apartment complex, 0.621604, 1
+2, farts, 0.402356, 1
+2, hate dive bars, 0.772808, 2
+2, disguises, 0.42486, 2
+2, sports, 0.338642, 6
+3, decent number, 0.550527, 0
+3, food cart, 0.497475, 0
+3, huge glass, 0.528675, 2
+3, beer, 0.253963, 2
+3, Chicago dog, 0.750065, 5
+3, artichoke dip, 0.956556, 6
+3, little neighborhood bar, 0.767587, 6
+3, Ok bar food., 0.796635, 7
+3, tall bud light, 0.75312, 7
+3, Live D.j., 0.550612, 8
+3, dance floor, 0.548849, 8
+3, nice sized crowd, 0.886342, 9
+3, corner, 0.258154, 9
+4, Chicago Sports bar, 0.786233, 0
+4, Great bar feel, 0.776533, 0
+4, work place, 0.714046, 1
+4, typical dive bar, 0.743209, 2
+4, red pepper sauce, 0.741061, 2
+4, Chicago Bears bar, 0.784057, 3
+4, bar food, 0.773578, 3
+4, place, 0.880144, 5
+4, bar, 0.831338, 5
+4, little dance floor, 0.84766, 6
+4, ole Greek boys, 0.745004, 6
+4, chicago sports, 0.80768, 7
+4, Bears fans, 0.748133, 7
+4, Hob Nob, 0.990854, 8
+4, great local bar, 0.789444, 8
+4, Hob Nob Sports, 0.862293, 9
+4, local sports team, 0.767289, 9
+5, BEST SPORTS BAR, 0.484761, 0
+5, variable sports encyclopedia, 0.456784, 0
+5, Drunken athlete, 0.322961, 1
+5, niche sports bar, 0.481786, 2
+5, bar family, 0.351313, 2
+5, Da Bears, 0.484215, 3
+5, Da Bears fight, 0.406673, 3
+5, sports bar, 0.73822, 4
+5, bud lite drafts, 0.376634, 4
+5, Great home town, 0.434267, 6
+5, pool tables, 0.419603, 6
+5, hob nob, 0.931074, 7
+5, great sports bar, 0.704806, 7
+5, great food, 0.617699, 8
+5, Bears fans, 0.404811, 8
+5, great place, 0.520304, 9
+5, SUPER FRIENDLY staff, 0.405003, 9

@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, Nice big bar, 0.692288, 0
+1, avacado turkey sandwhich, 0.686278, 0
+1, crap service, 0.561796, 1
+1, mediocre food, 0.560125, 1
+1, waitress, 0.921931, 2
+1, Negative Stars Club, 0.739136, 2
+1, ........., 0.643462, 3
+1, care, 0.583257, 3
+1, burger, 0.674604, 4
+1, Shadyside, 0.474631, 4
+1, people, 0.468524, 5
+1, early dinner, 0.557747, 6
+1, Hey Mario, 0.555387, 6
+1, beef burger, 0.603306, 7
+1, nice girl, 0.577271, 7
+1, old fashioned ceiling, 0.716873, 8
+1, place, 0.466392, 8
+1, medium well burgers, 0.546499, 9
+1, Red Robin, 0.544694, 9
+2, Steeler game, 0.857605, 0
+2, dart game, 0.828742, 0
+2, stale beer, 0.713257, 1
+2, chick puking, 0.712931, 1
+2, Yelp info lists, 0.8492, 2
+2, alright sports bar, 0.806976, 2
+2, Art Fest, 0.859808, 3
+2, understaffed Saturday night, 0.816265, 3
+2, Mario, 0.913559, 4
+2, food, 0.812561, 5
+2, place, 0.747613, 5
+2, sports bar, 0.815254, 6
+2, decent variety, 0.717968, 6
+2, great daily drink, 0.814538, 7
+2, nice changes, 0.751418, 7
+2, big cavernous space, 0.848583, 8
+2, beer bong crowd, 0.811983, 8
+2, well-dressed 20-something bros, 0.798107, 9
+2, nice group, 0.726921, 9
+3, pretty busy bar, 0.933008, 0
+3, crazy busy bars, 0.866302, 0
+3, yuppie Shadyside bar, 0.905762, 1
+3, cliched slouchy beanie, 0.869725, 1
+3, college bar bathrooms, 0.88258, 2
+3, spilling drinks, 0.804873, 2
+3, conventionally short haircuts, 0.870383, 3
+3, souped-up college bar, 0.869692, 3
+3, food, 0.892483, 4
+3, mario, 0.931242, 5
+3, drinks, 0.814521, 5
+3, tree hugger, 0.887272, 6
+3, good thing, 0.878631, 6
+3, place, 0.977702, 7
+3, Decent hangout place, 0.879964, 7
+3, fun place, 0.815781, 8
+3, nice place, 0.812197, 8
+3, good beer selection, 0.899488, 9
+3, big IPA fan, 0.849389, 9
+4, Quaker Steak Wings, 0.788144, 0
+4, best bar food, 0.773105, 0
+4, awful waitress, 0.713042, 1
+4, waitress Katelin, 0.708945, 1
+4, waitress, 0.781407, 2
+4, south side bar, 0.708243, 2
+4, late night drink, 0.769393, 3
+4, 25 cent, 0.751901, 3
+4, wings, 0.96668, 4
+4, doc, 0.737764, 4
+4, food, 0.915814, 5
+4, bar, 0.875286, 5
+4, Mario, 0.964394, 6
+4, bar food, 0.860998, 6
+4, rooftop area, 0.757112, 7
+4, nice rooftop area, 0.753379, 7
+4, great place, 0.822775, 8
+4, good place, 0.780685, 8
+4, great rooftop bar, 0.800516, 9
+4, insanity wings, 0.743822, 9
+5, trivia night, 0.756608, 1
+5, darn step, 0.920715, 2
+5, Mario, 0.394469, 6
+5, Best service, 0.745032, 7
+5, Pittsburgh, 0.316168, 7
+5, balcony, 0.693944, 8
+5, drinks, 0.61033, 8
+5, Awesome Pizza, 0.859777, 9

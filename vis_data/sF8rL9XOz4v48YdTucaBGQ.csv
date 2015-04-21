@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, early Tuesday evening, 0.639027, 0
+1, black bean soup, 0.600588, 0
+1, blue haired host, 0.957385, 1
+1, shepherds pie, 0.657186, 1
+1, sherpars pie, 0.474291, 2
+1, pub food, 0.458966, 2
+1, customer service, 0.792903, 3
+1, dirty rice ect., 0.593829, 3
+1, authentic pub dinners, 0.658803, 6
+1, pond steak dinner, 0.625464, 6
+1, basic restaurant customer, 0.569082, 7
+1, good things, 0.408322, 7
+1, favorite dishes, 0.448724, 8
+1, customers, 0.238213, 8
+2, hot sauce, 0.831606, 0
+2, good decent number, 0.813249, 0
+2, heavy-handed spice, 0.721462, 1
+2, half-mashed potatos, 0.858361, 2
+2, English/Scottish hyrbrid pub, 0.854516, 2
+2, onion soup, 0.985219, 3
+2, French onion soup, 0.897849, 3
+2, roast beef, 0.95991, 4
+2, bangers, 0.733395, 4
+2, place, 0.733, 5
+2, Scotch eggs, 0.978969, 6
+2, draft rootbeer, 0.865363, 6
+2, hearty comfort food/pub, 0.808125, 7
+2, huge fan, 0.730108, 7
+2, fresh rootbeer, 0.74034, 8
+2, new appetizer, 0.730221, 8
+2, Spectacular presentation, 0.72092, 9
+3, staple food items, 0.84875, 0
+3, alarmingly buttery/soggy bits, 0.814211, 0
+3, bland frozen fry, 0.810481, 1
+3, drab green carpet, 0.805124, 1
+3, scottish pub, 0.919147, 2
+3, regular LOUD cries, 0.823783, 2
+3, pretty good bullshit, 0.842183, 3
+3, big fat chips, 0.831145, 3
+3, bangers, 0.801885, 4
+3, pub, 0.9342, 5
+3, food, 0.932051, 5
+3, Monterey Irish Pub, 0.862508, 6
+3, huge open face, 0.807876, 6
+3, good pub food, 0.915778, 7
+3, Sunday brunch, 0.878854, 7
+3, Scottish/British neighborhood pub, 0.861939, 8
+3, good comfort food, 0.858254, 8
+3, pretty good selection, 0.879999, 9
+4, good British restaurants, 0.718153, 0
+4, great draft beer, 0.715806, 2
+4, bar town brunch, 0.698687, 2
+4, dining area, 0.730686, 3
+4, bloody mary, 0.697639, 3
+4, food, 0.947559, 5
+4, pub, 0.840382, 5
+4, place, 0.837645, 6
+4, authentic Irish pub, 0.715045, 6
+4, good food, 0.79612, 7
+4, scotch eggs, 0.777344, 7
+4, beer selection, 0.852095, 8
+4, good beer selection, 0.781573, 8
+4, good pub, 0.740715, 9
+4, Good beer list, 0.730348, 9
+5, Irish pub food, 0.670096, 0
+5, actual Irish pub, 0.599901, 2
+5, beer centric pub, 0.635742, 3
+5, good British food, 0.623669, 3
+5, time, 0.65611, 4
+5, pie, 0.631962, 4
+5, food, 0.941471, 5
+5, piper, 0.874857, 5
+5, place, 0.860166, 6
+5, Smoked Chestnut Shepherd, 0.665336, 6
+5, scotch eggs, 0.940271, 7
+5, Best Pub food, 0.688595, 7
+5, beer selection, 0.877268, 8
+5, great food, 0.776638, 8
+5, Good beer selection, 0.660279, 9
+5, incredible scotch selection, 0.604509, 9

@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+1, shoot sales, 0.982329, 1
+1, vegas not Idaho, 0.834835, 1
+2, good cover bands., 0.974772, 0
+2, moms 40th bday, 0.921795, 0
+2, little rowdier, 0.615558, 2
+2, place, 0.500999, 6
+2, lounges, 0.412139, 6
+2, Drinks, 0.380675, 7
+2, piece, 0.364558, 7
+2, particular crowd, 0.697082, 8
+3, latest hip hop, 0.900621, 0
+3, center bar place, 0.783592, 0
+3, 20-60yr olds, 0.632694, 2
+3, a-ok bar, 0.627374, 2
+3, slot machine noises, 0.843782, 3
+3, loud DJ, 0.618594, 3
+3, Bally, 0.677597, 4
+3, drinks, 0.357178, 6
+3, friends, 0.351934, 6
+3, particular tiny table, 0.7935, 7
+3, New lounge, 0.6453, 7
+3, comfy couches, 0.639581, 9
+3, different styles, 0.602768, 9
+4, casino floor, 0.685261, 0
+4, live music, 0.655362, 0
+4, cash bar, 0.767221, 2
+4, Taylor Hicks fan, 0.782371, 3
+4, musical acts, 0.648643, 3
+4, drink minimum, 0.922692, 6
+4, Taylor Hicks, 0.912099, 6
+4, Casino self-park garage, 0.822865, 7
+4, mega night clubs, 0.776087, 7
+4, live band playing, 0.816759, 8
+4, indigo lounge, 0.789728, 8
+4, original Vegas entertainment, 0.783771, 9
+4, amazing live singers, 0.749808, 9
+5, American Idol fan, 0.829714, 0
+5, outs, 0.547968, 0
+5, harmonica, 0.543221, 6
+5, guitar, 0.531869, 6
+5, taylor hicks, 0.992673, 7
+5, Extremely high energy, 0.829957, 7
+5, Vegas showroom charm, 0.846874, 8
+5, Indigo Room, 0.716767, 8
+5, super talented guy, 0.868316, 9
+5, Indigo Lounge, 0.701537, 9

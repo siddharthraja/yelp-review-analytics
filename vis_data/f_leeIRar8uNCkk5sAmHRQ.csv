@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, high road, 0.715359, 0
+1, ugly little mountain, 0.997375, 1
+1, white trash, 0.771814, 1
+1, shaved head, 0.732651, 2
+1, bartender, 0.580973, 2
+2, Heavy metal night, 0.92211, 0
+2, smoking, 0.460322, 0
+2, total biker bar, 0.935467, 1
+2, bad night, 0.683732, 1
+2, table serve, 0.674171, 2
+2, small bar, 0.651866, 2
+2, Blooze, 0.524904, 3
+2, piercings, 0.483776, 3
+2, Saturday night, 0.656293, 7
+2, Marshall, 0.455181, 7
+2, biker atmosphere, 0.716177, 8
+2, place, 0.493088, 8
+3, high school sweetheart, 0.754633, 0
+3, dimly lit room, 0.568829, 0
+3, ugly people, 0.418933, 1
+3, regular visitor, 0.417286, 1
+3, dive bar, 0.64562, 2
+3, straight-up hot bartender, 0.627483, 2
+3, teeth, 0.721277, 3
+3, hot dog truck, 0.512125, 3
+3, decent cover band, 0.509464, 4
+3, man, 0.944222, 5
+3, woman, 0.781449, 5
+3, bartender debit card, 0.641958, 6
+3, Eddie Vedder, 0.572692, 6
+3, North Phoenix meeting, 0.562423, 7
+3, open seat, 0.548203, 7
+3, Good Blues music, 0.516142, 8
+3, nice local place, 0.514335, 9
+3, fairly priced drinks, 0.510094, 9
+4, pool tables, 0.842509, 0
+4, live rock music, 0.717648, 0
+4, Cheap drink prices, 0.728261, 1
+4, domestic beer, 0.617195, 1
+4, Blooze, 0.834804, 2
+4, cheap drink, 0.729628, 2
+4, dive bar, 0.906974, 3
+4, great little bar, 0.764908, 3
+4, favorite dive bar, 0.767917, 6
+4, dive bar standards, 0.761064, 6
+4, classy dive bar, 0.761505, 7
+4, local neighborhood bar, 0.733457, 7
+4, Great local spot, 0.715965, 8
+4, little dancing room, 0.699372, 8
+4, Totally fun place, 0.707737, 9
+5, Live music everynight, 0.69803, 0
+5, famous touring bands, 0.695023, 0
+5, HELL YEAH, 0.5612, 1
+5, Blooze freekin rules, 0.814242, 2
+5, Thursday Rockabilly nights, 0.776558, 2
+5, cent tequila.I, 0.589579, 3
+5, live music, 0.975572, 4
+5, Great neighborhood dive, 0.671225, 6
+5, bathroom, 0.461168, 6
+5, great checkered dance, 0.726748, 7
+5, great cover bands, 0.697767, 7
+5, favorite local bands, 0.685659, 8
+5, place, 0.648644, 8
+5, good bands, 0.566385, 9
+5, bar staff, 0.559539, 9

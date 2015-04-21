@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, grandiose style, 0.671642, 0
+1, night time, 0.607048, 0
+1, weird strip mall, 0.904629, 1
+1, razor cut bangs, 0.836284, 2
+1, sore thumb, 0.651968, 2
+1, location kinda blows, 0.87065, 3
+1, black leggings, 0.64515, 3
+1, Glam, 0.559413, 4
+1, cash, 0.512939, 4
+1, mall clothing, 0.674679, 6
+1, debit card, 0.649946, 6
+2, strip mall sidewalk, 0.833494, 0
+2, Phoenix club scene, 0.786113, 0
+2, strip mall, 0.99109, 1
+2, strip mall locale, 0.84639, 1
+2, dirty disco floor, 0.819701, 2
+2, skinny jeans, 0.81549, 2
+2, couple bucks, 0.599576, 3
+2, new place, 0.581062, 6
+2, black hair, 0.557084, 6
+2, cool thing, 0.609713, 7
+2, high school, 0.547748, 7
+4, somewhat familiar DFA, 0.850693, 0
+4, weird strip mall, 0.773974, 0
+4, totally lame nights, 0.88495, 1
+4, good song, 0.629197, 1
+4, Friday nights, 0.933252, 2
+4, small bar feeling, 0.853577, 2
+4, mind, 0.446267, 3
+4, rockin, 0.438267, 3
+4, GLAM, 0.681528, 4
+4, Saturday nights, 0.896434, 5
+4, marvelous dance-floor, 0.679701, 6
+4, experimental music, 0.631999, 6
+4, Friday night music, 0.876477, 7
+4, dance floor lights, 0.763683, 7
+4, old-school hip/hop fusion, 0.833763, 8
+4, type thing, 0.62274, 8
+4, crowd pleaser, 0.629347, 9
+5, Night Fever dancefloor, 0.774032, 0
+5, chewed-the-hell-up naugahyde furniture, 0.743416, 0
+5, deal. french kiss, 0.726072, 1
+5, friday nights, 0.663323, 1
+5, abandoned strip mall, 0.722104, 2
+5, jogging suit fanatics, 0.712655, 2
+5, french kiss, 0.980985, 3
+5, friday night crowd, 0.790834, 3
+5, place, 0.688691, 5
+5, glam, 0.641789, 5
+5, friday night, 0.88414, 6
+5, LA hipster dance, 0.761484, 6
+5, David Lynch film, 0.733469, 7
+5, checkerboard tile walls, 0.728525, 7
+5, night people, 0.655237, 8

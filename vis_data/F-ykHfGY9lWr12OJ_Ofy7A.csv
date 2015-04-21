@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, home-town ASU baseball, 0.561744, 0
+1, local sports team, 0.546899, 0
+1, service, 0.607389, 1
+1, trash food, 0.451636, 1
+1, sports bar, 0.907282, 2
+1, sports bar opts, 0.574565, 2
+1, food, 0.768376, 3
+1, St. Sports Bar, 0.57081, 3
+1, place, 0.470397, 5
+1, rare ASU baseball, 0.558574, 6
+1, national TV., 0.444632, 6
+1, Union Hills location, 0.515293, 7
+1, better establishments, 0.416214, 9
+2, oz domestic drafts, 0.72498, 0
+2, Buffalo Chicken Wrap, 0.712899, 0
+2, smoking section, 0.731624, 1
+2, typical bar options, 0.726511, 1
+2, sports bar, 0.931924, 2
+2, NFC Championship game, 0.741873, 2
+2, sports bar props, 0.775354, 3
+2, meh meh meh, 0.706391, 3
+2, ........., 0.700182, 5
+2, amazing food options, 0.704113, 6
+2, Hole-in-the Wall restaurant, 0.695058, 6
+2, true sports-bar experience, 0.697948, 7
+2, yelp compadres, 0.627013, 7
+2, outstanding local pubs, 0.688536, 8
+2, good salads, 0.633538, 8
+2, kicker michelob ultra, 0.703516, 9
+3, neighborhood sports bar, 0.761523, 0
+3, typical sports bar, 0.748226, 0
+3, Cheap Good drinks, 0.762063, 1
+3, entire bar area, 0.744153, 1
+3, basic bar food, 0.775354, 2
+3, little high-I guess, 0.723216, 2
+3, service, 0.802124, 3
+3, standard sports bar, 0.747726, 3
+3, place, 0.939652, 4
+3, food, 0.834441, 4
+3, Gallagher, 0.752495, 5
+3, middle management, 0.73824, 5
+3, sports bar, 0.969804, 6
+3, bar food, 0.806898, 6
+3, good place, 0.825819, 7
+3, fun place, 0.739324, 7
+3, good sports bar, 0.87497, 8
+3, pretty good sports, 0.794061, 8
+4, good neighborhood bar, 0.912913, 0
+4, favorite sports bar, 0.867097, 0
+4, trivia/touch screen games, 0.855307, 1
+4, limp little plastic, 0.836605, 1
+4, sports bar type, 0.854145, 2
+4, crispy fried batters, 0.8377, 2
+4, long airplane flight, 0.828649, 3
+4, passable food, 0.815894, 3
+4, dining room, 0.951926, 4
+4, sports bar, 0.928101, 4
+4, place, 0.935845, 5
+4, food, 0.886555, 5
+4, solid sports bar, 0.895155, 6
+4, chipotle cream sauce, 0.862853, 6
+4, boneless chicken breasts, 0.8505, 7
+4, chicken wing sauce, 0.847032, 7
+4, BBQ sauce, 0.929264, 8
+4, hahaha Good place, 0.891596, 8
+4, good regular crowd, 0.875518, 9
+4, Highly enjoyed Gallagher, 0.868746, 9
+5, *FREE cookie sundae, 0.956965, 0
+5, drink order, 0.798462, 0
+5, White Chocolate Macadamia, 0.981216, 1
+5, Chocolate Chip cookie, 0.977783, 1
+5, Half-baked Chocolate Chip, 0.973434, 2
+5, fake cheese, 0.784596, 2
+5, lettuce, 0.737854, 3
+5, bun, 0.684449, 3
+5, feta cheese, 0.807946, 6
+5, Greek Burger, 0.797747, 6
+5, best nachos, 0.833755, 7
+5, Gallagher, 0.807694, 7
+5, easy frothy adult, 0.966184, 8
+5, neighborhood standby, 0.794733, 8
+5, Great boneless wings, 0.938317, 9
+5, great prices Nice, 0.915804, 9

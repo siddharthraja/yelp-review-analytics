@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, shitty service, 0.483185, 0
+1, horrible customer service, 0.450862, 0
+1, service, 0.606457, 1
+1, customer service, 0.552871, 1
+1, car seat, 0.532368, 2
+1, Sorry Wild Wings, 0.491945, 2
+1, husband, 0.472572, 3
+1, final time, 0.466198, 3
+1, food, 0.9513, 4
+1, time, 0.723911, 4
+1, wings, 0.905305, 5
+1, server, 0.627907, 5
+1, tall Bud lights, 0.435389, 6
+1, definitely sub par, 0.43144, 6
+1, appetizer order, 0.441964, 7
+1, warm food, 0.406798, 7
+1, Buffalo Wild Wings, 0.727099, 8
+1, yummy food, 0.420215, 8
+2, OMG worst hangover, 0.564505, 0
+2, Irish car bomb, 0.564018, 0
+2, good service, 0.639917, 1
+2, Buffalo Wild Wings, 0.636422, 1
+2, table, 0.619648, 2
+2, entry fee, 0.574122, 2
+2, place, 0.700972, 3
+2, service, 0.678269, 3
+2, wings, 0.922938, 4
+2, food, 0.791204, 4
+2, time, 0.747143, 5
+2, waitress, 0.574515, 5
+2, mango habanero wings, 0.69315, 6
+2, boneless wings, 0.589344, 6
+2, slow service, 0.50912, 7
+2, BWW sauces, 0.50487, 7
+2, traditional chicken wings, 0.637648, 8
+2, free wings, 0.583323, 8
+3, ghost pepper wings, 0.670987, 0
+3, chicken wings, 0.617969, 0
+3, desert heat wings, 0.665788, 1
+3, huge ass pickle, 0.567908, 1
+3, caramel belongs, 0.495199, 2
+3, hot wings, 0.626384, 3
+3, higher rating, 0.586065, 3
+3, food, 0.772109, 4
+3, service, 0.672741, 4
+3, wings, 0.96991, 5
+3, place, 0.503136, 5
+3, margarita wings, 0.655714, 6
+3, good service, 0.5506, 6
+3, Buffalo Wild Wings, 0.893274, 7
+3, honey bbq wings, 0.693133, 7
+3, Wild Wings locations, 0.702462, 8
+3, extra crispy wings, 0.664663, 8
+3, Pretty good restaurant, 0.595848, 9
+4, Buffalo Wild Wings, 0.889008, 0
+4, good chicken wings, 0.746286, 0
+4, big screen tv, 0.582282, 1
+4, disrespectful children, 0.511639, 1
+4, good friend Angela, 0.608404, 2
+4, mayo um yuck, 0.579748, 2
+4, fried wings, 0.674017, 3
+4, Mango Habanero, 0.620127, 3
+4, buffalo chips, 0.509161, 4
+4, wings, 0.911424, 5
+4, hot wings, 0.875519, 5
+4, hot wing addict, 0.587021, 6
+4, wings extra crispy, 0.724712, 7
+4, lemon pepper wings, 0.719528, 7
+4, buffalo chicken wrap, 0.749848, 8
+4, hot wings competition, 0.718137, 8
+4, bbq chicken salad, 0.597117, 9
+4, Popcorn chicken, 0.516934, 9
+5, greasy-beer-drinking-obnoxious man, 0.609207, 0
+5, fast food, 0.597011, 0
+5, bad reviews, 0.740936, 2
+5, bad service, 0.607979, 2
+5, great sports bar, 0.783606, 3
+5, older looking building, 0.706543, 3
+5, fight, 0.704786, 4
+5, BWW, 0.56533, 4
+5, place, 0.732178, 5
+5, gift card, 0.751161, 6
+5, decent crowd, 0.729078, 6
+5, wings, 0.956566, 7
+5, Buffalo Wild Wings, 0.874821, 7
+5, Best wings, 0.812788, 8
+5, great place, 0.605773, 8
+5, good deal, 0.594191, 9
+5, discounted wing, 0.571061, 9

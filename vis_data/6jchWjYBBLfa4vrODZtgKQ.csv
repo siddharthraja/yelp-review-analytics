@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+4, Madison beer bar, 0.850925, 0
+4, good bourbon selection, 0.842983, 0
+4, place swing, 0.743745, 1
+4, Cap Times review, 0.799215, 3
+4, bar time, 0.726561, 3
+4, place, 0.911144, 5
+4, stellar tap beers, 0.841748, 6
+4, Liquor selection, 0.746057, 6
+4, Incredible beer selection, 0.846893, 7
+4, local beer bars, 0.836932, 7
+4, beer, 0.975386, 8
+4, tap beer selection, 0.920943, 8
+4, great beer list, 0.863267, 9
+4, expertly recommended beer, 0.834335, 9
+5, extraneous garbage beer, 0.757522, 0
+5, watering hole cachet, 0.705617, 0
+5, outdoor seating, 0.675627, 1
+5, dive bar, 0.622497, 1
+5, Dimly lit, 0.620043, 2
+5, lemon drop, 0.727282, 3
+5, bar, 0.726298, 4
+5, place, 0.710675, 4
+5, Madison, 0.637996, 5
+5, Inka Heritage, 0.623547, 6
+5, South Park, 0.622435, 6
+5, Nice chill bar, 0.722616, 7
+5, great bar, 0.710557, 7
+5, good beer selection, 0.742486, 8
+5, fairly small place, 0.708404, 8
+5, beer selection, 0.973826, 9
+5, Mason Lounge, 0.808677, 9

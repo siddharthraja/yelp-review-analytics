@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, renovations, 0.50825, 0
+1, Basies, 0.455889, 0
+1, star review, 0.949851, 2
+1, phone number, 0.762379, 3
+1, people, 0.454459, 3
+1, time, 0.4789, 6
+1, service, 0.478128, 6
+1, food, 0.484512, 7
+1, Ambiance, 0.548599, 8
+3, cobb salad, 0.600628, 0
+3, strange sort, 0.524089, 0
+3, typical hotel bar, 0.737823, 2
+3, Atmosphere, 0.252471, 2
+3, Amish bakery, 0.5437, 3
+3, lettuce, 0.276139, 3
+3, yelp check-in offer, 0.907292, 6
+3, well-kept restaurant look, 0.836862, 6
+3, waiter, 0.290315, 7
+3, iceberg, 0.285616, 7
+3, onion bun, 0.541661, 8
+3, Yummm, 0.25501, 8
+3, sweet sourdough roll, 0.816257, 9
+3, service, 0.310562, 9
+4, shrimp po, 0.605339, 6
+4, super yum, 0.547099, 6
+4, Shrimp crispy, 0.74377, 7
+4, night fish fry, 0.740697, 7
+4, remoulade extra zingy, 0.922929, 8
+4, hoagie crispy, 0.63698, 8
+4, great Yelp check, 0.827205, 9
+5, Bar tender, 0.746768, 0
+5, hotel restaurant, 0.601487, 0
+5, fool, 0.38284, 3
+5, sweetheart, 0.45061, 6
+5, try, 0.433156, 6
+5, Cobb salad, 0.93084, 7
+5, Food, 0.404265, 7

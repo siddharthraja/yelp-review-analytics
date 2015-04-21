@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, specific things, 0.663691, 0
+1, East Valley, 0.649728, 0
+1, customer service, 0.60447, 1
+1, experience, 0.448858, 1
+1, soiled rag, 0.652778, 2
+1, tee shirt, 0.627524, 2
+1, Puerto Rican, 0.648628, 3
+1, authentic food, 0.634178, 3
+1, young man, 0.873381, 6
+1, menus, 0.602738, 6
+1, table, 0.366792, 7
+1, authentic Puertorican restaurant, 0.921458, 8
+1, great meal, 0.697324, 8
+1, Puertoricans, 0.367057, 9
+3, arroz con gandules, 0.796842, 0
+3, island time, 0.788516, 0
+3, NYC speed, 0.841158, 2
+3, doors, 0.274015, 2
+3, answering machine, 0.893491, 3
+3, notice, 0.302759, 3
+3, New York, 0.921687, 9
+3, flavor, 0.350601, 9
+4, yellow rice, 0.801159, 0
+4, roasted pork dish, 0.666184, 0
+4, place disappearing, 0.473894, 1
+4, west coast, 0.448468, 1
+4, Puerto Rican, 0.921229, 2
+4, Puerto Rican food, 0.874371, 2
+4, Mexican food restaurants, 0.578939, 3
+4, husband, 0.446946, 3
+4, shrimp, 0.357674, 4
+4, BOGO coupon, 0.638967, 6
+4, couple appetizers, 0.492588, 6
+4, fried plantains, 0.717531, 7
+4, PR comfort food, 0.592379, 7
+4, Coco Rico soda, 0.601507, 8
+4, new favorite food, 0.588927, 8
+4, nicely fried pork, 0.655164, 9
+4, Garlicky mofongo, 0.470282, 9
+5, puerto rican resturants, 0.5794, 0
+5, traditional Puerto Rican, 0.566025, 0
+5, cultural food experience, 0.546232, 1
+5, Puerto Rico Latin, 0.569107, 2
+5, home, 0.496622, 2
+5, Food breakdown, 0.476479, 3
+5, Puerto Rico, 0.766071, 4
+5, flan, 0.487358, 5
+5, Puerto Rican, 0.924283, 6
+5, Puerto Rican food, 0.871253, 6
+5, mofongo, 0.601082, 7
+5, carne frita, 0.561223, 7
+5, service, 0.512159, 8
+5, Celiac/gluten free note, 0.489439, 8
+5, place great food, 0.556559, 9
+5, Great tasting food, 0.546268, 9

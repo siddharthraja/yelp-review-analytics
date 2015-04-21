@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, American Idol material, 0.915613, 0
+1, fairly long wait, 0.913427, 0
+1, Katy Perry, 0.913886, 1
+1, decent bar food, 0.889933, 1
+1, tasteless white gravy, 0.884297, 2
+1, waitress, 0.798177, 2
+1, busy bar, 0.77354, 3
+1, older bar, 0.765046, 3
+1, place, 0.664221, 5
+1, good time, 0.788668, 6
+1, chicken strips, 0.786706, 6
+1, new home area, 0.890135, 7
+1, factory outlet, 0.77135, 7
+1, AWESOME Karaoke experience, 0.932355, 8
+1, pub style food, 0.895187, 8
+2, karaoke host, 0.859179, 0
+2, older music, 0.563696, 0
+2, Outdated television sets, 0.905594, 1
+2, flat screens, 0.572887, 1
+2, cheap drinks, 0.694093, 2
+2, Saturday evening, 0.653016, 2
+2, long time, 0.597108, 3
+2, place, 0.412756, 3
+2, basic bar menu, 0.849664, 4
+2, fun, 0.351228, 5
+2, people, 0.340181, 5
+2, bacon cheeseburger, 0.635561, 6
+2, fries, 0.293967, 6
+2, large group, 0.592112, 7
+2, crowd, 0.284087, 8
+2, courage, 0.28315, 8
+3, certified sports bar, 0.746625, 0
+3, wait staff, 0.722633, 0
+3, TV screens, 0.548849, 1
+3, Black Death, 0.547847, 1
+3, clean chain bar, 0.683135, 2
+3, bad little spot, 0.654168, 2
+3, sports bar, 0.999345, 3
+3, wait staff. boston, 0.699739, 3
+3, nuclear sauce, 0.685899, 4
+3, pretty undemanding customer, 0.681504, 4
+3, food, 0.606728, 5
+3, track betting site, 0.701239, 6
+3, Buffalo wing addict, 0.699265, 6
+3, small place, 0.580214, 7
+3, happy hour wings, 0.561736, 7
+3, beer. service, 0.543187, 8
+3, prompt. bathrooms, 0.542514, 8
+4, new cook, 0.860064, 7
+4, good talent, 0.781187, 7
+4, amazing things, 0.896546, 8
+4, Good service, 0.658368, 8
+4, baked wings, 0.931002, 9
+4, appetizers, 0.449467, 9
+5, Lowest tab, 0.662923, 2
+5, Bostons Gourmet Pizza, 0.98923, 6
+5, excellent bar food, 0.828143, 6
+5, quality TVs, 0.607045, 7
+5, Great Bar, 0.555615, 7
+5, satellite, 0.246419, 8
+5, staff, 0.246126, 8

@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, duty bar tender, 0.946307, 1
+1, Christmas time, 0.835832, 1
+2, Ok, 0.447411, 0
+2, thing, 0.41696, 1
+2, dog, 0.455685, 2
+2, situation, 0.421127, 2
+2, audible music, 0.819536, 3
+2, ambiance, 0.468241, 3
+2, dogs, 0.384132, 6
+2, babies, 0.424821, 7
+2, Pseudo hipster vibe, 0.9857, 8
+2, good selection, 0.675371, 8
+3, hipster bars, 0.940625, 2
+4, Nice simplistic atmosphere, 0.729845, 0
+4, outdoor sidewalk sign, 0.699826, 0
+4, downtown bars, 0.73923, 1
+4, outdoor seating, 0.612257, 2
+4, Blind Pig Brewery, 0.671254, 3
+4, main windows, 0.611926, 3
+4, place, 0.796063, 5
+4, quality, 0.638855, 5
+4, beer selection, 0.71247, 6
+4, perfectly adequate draft, 0.695652, 6
+4, downtown Champaign, 0.970073, 7
+4, permanent hangout spots, 0.72157, 7
+4, nice whiskey selection, 0.722031, 8
+4, industrial decoration theme, 0.696813, 8
+4, pretty awesome selection, 0.68271, 9
+4, good place, 0.647748, 9
+5, Japanese rice beer, 0.861249, 0
+5, old-school video game, 0.836028, 0
+5, place, 0.80756, 3
+5, oldest brother, 0.737506, 3
+5, bar, 0.919315, 5
+5, Quality, 0.979434, 6
+5, downtown Champaign, 0.845814, 6
+5, San Diego, 0.851726, 7
+5, great little bar, 0.848813, 7
+5, beer, 0.902074, 8
+5, best beer street, 0.883078, 8
+5, extensive beer list, 0.861357, 9
+5, fantastic beer selection, 0.837291, 9

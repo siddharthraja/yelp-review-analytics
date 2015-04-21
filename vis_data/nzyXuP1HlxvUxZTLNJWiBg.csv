@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+1, french dip slider, 0.931848, 0
+1, Experience, 0.480386, 0
+1, food, 0.682177, 1
+1, money, 0.477768, 1
+1, onion rings, 0.98919, 2
+1, cigarettes yuck, 0.771852, 2
+1, beer, 0.54062, 3
+1, waitress, 0.503601, 3
+1, meal, 0.483547, 6
+3, time, 0.361076, 3
+3, good lunch specials, 0.995433, 6
+3, sliders, 0.46719, 6
+3, quick lunch, 0.784565, 7
+3, customer service, 0.690611, 7
+3, place, 0.373692, 8
+5, service Jenna, 0.688687, 0
+5, economic times, 0.655875, 0
+5, dining room, 0.672325, 1
+5, Tina, 0.476907, 6
+5, waitress Bridget, 0.820151, 7
+5, Keri, 0.496563, 7
+5, great lunch experience, 0.954806, 8
+5, food, 0.507019, 8
+5, job Jenna winchell, 0.947299, 9

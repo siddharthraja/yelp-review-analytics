@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+3, garlic parm wings, 0.8325, 0
+3, garlic sauce, 0.522198, 0
+3, parm cheese, 0.698771, 1
+3, bitter attitude, 0.362698, 1
+3, normal bar, 0.360425, 2
+3, regulars, 0.245728, 2
+3, bartender Krista, 0.382449, 6
+3, sweetie, 0.248833, 6
+3, garlic parm, 0.978823, 8
+3, honey BBQ sauce, 0.604262, 8
+3, awesome deal, 0.408985, 9
+3, great deal, 0.384387, 9
+4, turkey club sandwich, 0.917026, 0
+4, oxygen mask, 0.684845, 0
+4, chain smoking, 0.661107, 1
+4, regulars, 0.487169, 1
+4, typical bar food, 0.84682, 2
+4, complaint, 0.468878, 2
+4, bartender, 0.616953, 3
+4, smoker, 0.474749, 3
+4, place, 0.499376, 4
+4, Saturday afternoon, 0.742885, 6
+4, lunch, 0.474586, 6
+4, nice neighborhood joint, 0.999195, 7
+4, fresh fries, 0.727017, 8
+4, Big sandwich, 0.705721, 8
+5, alcoholic beverages, 0.802943, 0
+5, dry rubs, 0.78267, 0
+5, BAR, 0.541887, 3
+5, delicious marinara sauce, 0.937007, 6
+5, Saturday nights, 0.744923, 6
+5, pepperoni rolls, 0.791358, 7
+5, new friends, 0.696851, 7
+5, place, 0.540477, 8
+5, bartenders, 0.565007, 9

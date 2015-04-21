@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, tiny little shrimps, 0.911692, 0
+1, shrimp specimen, 0.905949, 0
+1, gooey cheesy mess, 0.953716, 1
+1, stringy pot-roast type, 0.867756, 1
+1, wrong order, 0.775254, 2
+1, angry letter, 0.764524, 2
+1, carne asada chimichunga, 0.891191, 3
+1, big fan, 0.765925, 3
+1, Aliante Station, 0.954344, 4
+1, husband, 0.864891, 5
+1, Enchilada verde, 0.876236, 6
+1, ) enchilada., 0.873551, 6
+1, shrimp enchilada, 0.994231, 7
+1, citrus shrimp, 0.878591, 7
+1, mexican food, 0.934072, 8
+1, tequila bottle, 0.784097, 8
+1, North Las Vegas, 0.936313, 9
+1, nice write, 0.771007, 9
+2, shredded beef tacos, 0.957328, 0
+2, ground beef, 0.773294, 0
+2, fan, 0.48659, 2
+2, margarita, 0.512306, 3
+2, date, 0.470893, 3
+3, average places, 0.666016, 0
+3, seat, 0.244144, 0
+3, freakin bartender, 0.782304, 1
+3, authentic mexican food, 0.931427, 2
+3, bar, 0.814732, 2
+3, bartenders, 0.275591, 3
+3, time, 0.240063, 3
+3, Cazadores Bottles, 0.693176, 6
+3, chandelier, 0.251577, 6
+3, nice place, 0.584336, 7
+3, good service, 0.556758, 7
+3, happy hour offerings, 0.970968, 8
+3, decor, 0.225444, 8
+5, largest Margarita, 0.850856, 0
+5, table guacamole, 0.77635, 0
+5, main feature, 0.751739, 2
+5, table guac, 0.682256, 3
+5, culprit, 0.427211, 3
+5, Saturday night, 0.789153, 6
+5, Blue Moon, 0.772629, 6
+5, Chicken Enchilada dish, 0.997527, 7
+5, Chicken Taquitos, 0.827788, 7
+5, attentive hostess, 0.880808, 8
+5, drinks, 0.405363, 8
+5, Mariachi music, 0.750381, 9
+5, fine musicians, 0.719111, 9

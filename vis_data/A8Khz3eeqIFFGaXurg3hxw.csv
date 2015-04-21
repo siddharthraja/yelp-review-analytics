@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, great little saloon, 0.921076, 0
+1, old guitar player, 0.911607, 0
+1, worst nachos, 0.793909, 1
+1, stale chips, 0.773007, 1
+1, fake cowboys, 0.773245, 2
+1, SILVER SPUR, 0.769169, 2
+1, Crazy Man, 0.913644, 3
+1, decent band, 0.784876, 3
+1, beer, 0.662779, 4
+1, place, 0.922239, 5
+1, tips, 0.737216, 5
+1, band, 0.83259, 6
+1, great time, 0.771923, 6
+1, drunk college, 0.91306, 7
+1, drunk college kid, 0.904309, 7
+1, Sunday afternoon, 0.775963, 8
+1, Yee Ha, 0.770646, 8
+2, dance floor, 0.707816, 0
+2, terrible service, 0.75558, 1
+2, frontal parts, 0.744223, 1
+2, slower night, 0.724491, 2
+2, times, 0.545874, 2
+2, hottest thing, 0.728287, 3
+2, security guard, 0.714883, 3
+2, country bars, 0.892963, 4
+2, Golly gee wizz, 0.915127, 6
+2, band, 0.601878, 6
+2, good music, 0.720955, 7
+2, bathroom, 0.547882, 7
+2, unique atmosphere, 0.737293, 8
+3, awesome little bar, 0.709578, 0
+3, good live music, 0.706584, 0
+3, Scottsdale institution, 0.579645, 1
+3, guitar twang, 0.55461, 1
+3, chubby cheerleader asses, 0.671754, 2
+3, little place, 0.566167, 2
+3, Old Town Scottsdale, 0.932215, 3
+3, bar, 0.756077, 3
+3, place, 0.684512, 5
+3, cute dive bar, 0.741556, 6
+3, cool patrons, 0.583232, 6
+3, live music, 0.887137, 7
+3, great Scottsdale Tees, 0.687248, 7
+3, country music, 0.707015, 8
+3, good place, 0.604005, 8
+3, Happy Hour fun, 0.541159, 9
+4, Rusty Spur Saloon, 0.594503, 0
+4, Rusty Spur garments, 0.49674, 0
+4, small bar, 0.525453, 1
+4, Rusty Spur Update, 0.524493, 1
+4, Old Town Tavern, 0.455452, 2
+4, Real Cowboy Saloon, 0.440314, 2
+4, Old Town Scottsdale, 0.692542, 3
+4, country music fan, 0.530839, 3
+4, old town, 0.815679, 4
+4, bar, 0.677628, 4
+4, rusty spur, 0.961395, 5
+4, place, 0.670753, 5
+4, live music, 0.672237, 6
+4, drinks, 0.467208, 6
+4, good time, 0.579119, 7
+4, Great western bar, 0.475056, 7
+4, fun, 0.497874, 8
+4, fun great music, 0.467535, 8
+4, Fun fun fun, 0.466383, 9
+4, great drinks, 0.437365, 9
+5, Scottsdale area bar, 0.59125, 0
+5, small country bar, 0.570212, 0
+5, good dive bar, 0.572182, 1
+5, Zero Scottsdale pretentiousness, 0.558781, 1
+5, bitty Country bar, 0.566011, 2
+5, true country bar, 0.575094, 3
+5, oldest cowboy bar, 0.572112, 3
+5, country bar, 0.604699, 4
+5, Rusty Spur, 0.905005, 5
+5, place, 0.685513, 5
+5, live music, 0.778344, 6
+5, old town, 0.765562, 6
+5, Psychobilly Rodeo Band, 0.638341, 7
+5, great time, 0.58469, 7
+5, live country music, 0.633376, 8
+5, great live music, 0.628215, 8
+5, great Scottsdale staple, 0.579066, 9
+5, Fun place, 0.558071, 9

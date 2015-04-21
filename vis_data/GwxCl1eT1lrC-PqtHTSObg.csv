@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, dismal Sunday sales, 0.879259, 0
+1, TILTED KILT, 0.662614, 0
+1, Awful beer selection, 0.91708, 1
+1, slow Sunday night, 0.878408, 1
+1, big deal, 0.573807, 2
+1, food, 0.436342, 2
+1, real bar, 0.581354, 3
+1, nope, 0.319717, 3
+1, Nice, 0.27821, 7
+1, time, 0.338531, 8
+1, sailor jack, 0.559633, 9
+1, sip, 0.282696, 9
+2, good meal, 0.462194, 2
+2, draft beer- Sam, 0.90757, 6
+2, tilted kilt, 0.687542, 6
+2, drink specials, 0.974244, 8
+2, Decent place, 0.594204, 8
+3, Chicago Bears bar, 0.881236, 0
+3, elementary school cafeteria, 0.851772, 0
+3, mediocre beer selection, 0.871633, 1
+3, Slow service, 0.679295, 1
+3, food, 0.400186, 2
+3, real craft brews, 0.86256, 3
+3, sugar sauce, 0.604262, 3
+3, game, 0.398375, 5
+3, Beer draft selection, 0.848876, 6
+3, green chilis, 0.631972, 6
+3, great beer specials, 0.936773, 7
+3, Bears customer base, 0.886135, 7
+3, Good Service, 0.613605, 9
+3, waitress, 0.405096, 9
+4, friendly sports bar, 0.610363, 0
+4, star rating, 0.591885, 0
+4, way home, 0.512185, 1
+4, bar atmosphere, 0.52219, 2
+4, limited draft selection, 0.56429, 3
+4, standard domestic beers, 0.562174, 3
+4, tater tot appetizer, 0.596977, 4
+4, place, 0.924199, 5
+4, bar, 0.854133, 5
+4, drinks, 0.630313, 6
+4, buffalo chicken sliders, 0.597852, 6
+4, sweet potato fries, 0.908531, 7
+4, buffalo chicken, 0.664944, 7
+4, Great Beer environment, 0.593372, 8
+4, Great large beers, 0.583577, 8
+4, place friendly staff, 0.621481, 9
+4, happy hour food, 0.562585, 9
+5, Padres Spring Training, 0.948578, 0
+5, Padres pitcher, 0.927868, 0
+5, sports bar, 0.823714, 2
+5, biased review, 0.75474, 2
+5, Bar food, 0.731479, 3
+5, particular bar, 0.73105, 3
+5, Great Sports Bar, 0.82075, 6
+5, better service, 0.731566, 6
+5, fearless Friarhood leader, 0.872435, 7
+5, ice cold beer, 0.87056, 7
+5, great night, 0.733491, 8
+5, better crowd, 0.73028, 8
+5, Great place, 0.727241, 9
+5, Fun place, 0.723711, 9

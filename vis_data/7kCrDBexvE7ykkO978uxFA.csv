@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, customer service skills, 0.819684, 0
+1, 30 min wait, 0.632302, 0
+1, blonde haired lady, 0.942031, 1
+1, bar, 0.709254, 1
+1, native new yorker, 0.812012, 2
+1, female bartender, 0.632619, 2
+1, place, 0.637799, 3
+1, lime green walls, 0.543125, 3
+1, owners, 0.447741, 5
+1, food isle, 0.457657, 6
+1, decent restaurant, 0.448169, 6
+1, good bartender, 0.49442, 7
+1, customer service, 0.821252, 9
+1, truly delicious burger, 0.578001, 9
+4, Texas Gold, 0.974665, 0
+4, Texas Gold sauce, 0.824892, 0
+4, attitude adjustment, 0.596406, 1
+4, chef, 0.468184, 1
+4, Halftime several times, 0.653192, 2
+4, pawn shop, 0.601733, 2
+4, old wings, 0.644321, 3
+4, shoe leather, 0.614023, 3
+4, star review, 0.583056, 4
+4, BBQ ribs, 0.618299, 6
+4, happy hour times, 0.593414, 6
+4, great way, 0.584804, 7
+4, money, 0.501045, 7
+4, free Texas Hold-Em, 0.747318, 8
+4, poker game players, 0.742097, 8
+4, best wing sauce, 0.853703, 9
+4, onion rings, 0.596833, 9
+5, friendly service, 0.52378, 0
+5, complaint, 0.308892, 0
+5, rude staff, 0.533675, 2
+5, previous reviews, 0.505493, 2
+5, Halftime, 0.346457, 3
+5, times, 0.257551, 3
+5, Great, 0.265169, 6
+5, fans, 0.254791, 7
+5, Good cold drinks, 0.884731, 9
+5, favorite sports, 0.56879, 9

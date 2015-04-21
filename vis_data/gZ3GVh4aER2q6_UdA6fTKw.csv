@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, Cave Creek, 0.866788, 0
+1, customers order, 0.849321, 0
+1, blatant  discourtesy, 0.941335, 2
+1, royal service, 0.816517, 2
+1, Friday night, 0.848083, 3
+1, bite, 0.433986, 3
+1, cover charge, 0.842362, 6
+1, service time, 0.780974, 6
+1, better choice, 0.870036, 7
+1, cafe, 0.415401, 7
+1, great atmosphere, 0.826172, 8
+1, Janey, 0.47742, 8
+1, good beer, 0.806214, 9
+1, great staff, 0.805252, 9
+2, Wed night, 0.587508, 0
+2, establishment, 0.361444, 0
+2, shame, 0.376586, 1
+2, choice, 0.352579, 1
+2, good communicator, 0.554824, 3
+2, bartender, 0.376693, 3
+2, Pub Board, 0.938419, 4
+2, large wine selection, 0.748446, 6
+2, martini drinker, 0.675061, 6
+2, nearby Venues, 0.592286, 7
+2, Happy, 0.35834, 7
+2, oz. martini, 0.652667, 8
+2, Great ambience, 0.619691, 8
+3, slow service, 0.391632, 2
+3, Great little spot, 0.670901, 3
+3, Cave Creek, 0.367462, 3
+3, couple tasty beers, 0.918909, 6
+3, dozen beers, 0.484853, 7
+3, interesting craft beers, 0.836622, 8
+3, drinking Harley contingent, 0.697609, 8
+3, great vibe, 0.555159, 9
+3, nice setting, 0.48751, 9
+4, Cave Creek Road, 0.648838, 0
+4, turkey panini, 0.570447, 2
+4, Dirt parking, 0.568584, 2
+4, wooden marquee sign, 0.612342, 3
+4, low key, 0.568814, 3
+4, Cave Creek, 0.901835, 6
+4, coffee, 0.658314, 6
+4, Nice indoor/outdoor seating, 0.649269, 7
+4, coffee house, 0.632312, 7
+4, place, 0.741698, 8
+4, Nice outdoor patio, 0.683257, 8
+4, nice place, 0.726099, 9
+4, Big Pete Pearson, 0.708995, 9
+5, Cave Creek Coffee, 0.579269, 0
+5, multi-million dollar homes, 0.529035, 0
+5, overstuffed leather armchairs, 0.532825, 4
+5, cave creek, 0.927014, 5
+5, Janey, 0.760914, 6
+5, affable Afghan hounds, 0.528327, 6
+5, Big Pete, 0.572155, 7
+5, well-edited wine selection, 0.553917, 7
+5, coffee, 0.684727, 8
+5, great coffee, 0.627245, 8
+5, great place, 0.719686, 9
+5, masterpiece oatmeal breakfast, 0.607684, 9

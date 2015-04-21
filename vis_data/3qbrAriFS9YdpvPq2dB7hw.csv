@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+2, avocado BLT, 0.81557, 0
+2, microwave, 0.31876, 0
+2, bite, 0.331581, 1
+2, plate, 0.31399, 1
+2, bad review, 0.840245, 2
+2, good service, 0.701387, 2
+2, ham sandwich, 0.828402, 3
+2, big crossboards, 0.787971, 3
+2, lunch special, 0.860404, 6
+2, ok place, 0.701235, 6
+2, new lunch place, 0.974398, 7
+2, discount, 0.313858, 7
+3, Thursday football game, 0.758109, 0
+3, Greek salad, 0.617474, 0
+3, booth seats, 0.611611, 1
+3, bloody mary, 0.598329, 3
+3, NFL ticket, 0.586008, 3
+3, Joseph James, 0.593888, 6
+3, new beer, 0.582296, 6
+3, comfortable seating, 0.675504, 7
+3, sweet potato fries, 0.968456, 8
+3, great beer selection, 0.775324, 8
+3, pastrami sandwich, 0.644883, 9
+3, nice addition, 0.62957, 9
+4, good friend Carrie, 0.940009, 0
+4, roast beef dip, 0.848035, 0
+4, things, 0.351721, 1
+4, drink menu, 0.559326, 2
+4, sauerkraut, 0.472459, 2
+4, chicken wings, 0.599334, 3
+4, Yelp, 0.51139, 4
+4, sandwich, 0.435203, 5
+4, ranch, 0.40605, 5
+4, menu, 0.646383, 6
+4, nearby places, 0.633894, 6
+4, pastrami burger, 0.695369, 7
+4, waitress, 0.381356, 7
+4, great new spot, 0.764092, 8
+4, online menu, 0.574352, 8
+4, grilled rye bread, 0.832262, 9
+4, huge pickle, 0.595971, 9
+5, shift bartender, 0.737753, 0
+5, medium wings, 0.62422, 0
+5, good ol, 0.577952, 6
+5, late lunch, 0.545694, 6
+5, bartender Nikki, 0.829172, 7
+5, menu items, 0.596089, 7
+5, sweet potato fries, 0.929757, 8
+5, best bartender, 0.770182, 8
+5, excellent customer service, 0.818346, 9

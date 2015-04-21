@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, place twin peaks, 0.90039, 0
+1, couple bad sandwiches, 0.885383, 0
+1, frustrated frat boys, 0.894911, 1
+1, shot ski thing, 0.883467, 1
+1, service. okay food., 0.906142, 2
+1, bad service., 0.884731, 2
+1, place, 0.931807, 3
+1, Kristy Mendenhall, 0.909067, 3
+1, food, 0.993913, 4
+1, free shot, 0.871909, 4
+1, manager, 0.882523, 5
+1, scheduled arrival time, 0.883231, 6
+1, good news, 0.807593, 6
+1, blonde hair, 0.803977, 7
+1, better places, 0.801041, 7
+1, marketing manager, 0.810041, 8
+2, airplane-takeoff decibel levels, 0.692029, 0
+2, school soccer coaches, 0.672307, 0
+2, customer service skills, 0.692718, 1
+2, half naked girls, 0.669519, 1
+2, food, 0.687461, 2
+2, center strip Vegas, 0.682387, 2
+2, order, 0.635538, 3
+2, burger mistake, 0.622983, 3
+2, table, 0.675099, 4
+2, waitress, 0.647756, 4
+2, place, 0.845522, 5
+2, friend, 0.60667, 5
+2, Twin Peaks, 0.949248, 6
+2, chicken tenders, 0.701426, 6
+2, chicken tenders basket, 0.696009, 7
+2, small bud light, 0.675044, 7
+2, Las Vegas, 0.695475, 8
+2, great location, 0.685203, 8
+3, beer selection, 0.500984, 0
+3, Twin Peaks Vegas, 0.489661, 0
+3, cold beer watch, 0.507906, 1
+3, Hollywood Miracle Mile, 0.535735, 2
+3, Planet Hollywood Miracle, 0.534286, 2
+3, sports bar food, 0.533845, 3
+3, pork nachos, 0.524695, 3
+3, food, 0.905602, 4
+3, server, 0.583787, 4
+3, twin peaks, 0.830687, 5
+3, beer, 0.714246, 5
+3, sports bar, 0.587484, 6
+3, particularly good option, 0.507313, 6
+3, chicken fried steak, 0.53294, 7
+3, hooters, 0.517535, 7
+3, good beer, 0.561044, 8
+3, great place, 0.545353, 8
+3, good sized portions, 0.527006, 9
+3, Good loud atmosphere, 0.513489, 9
+4, floor bar area, 0.651423, 1
+4, dirty blonde, 0.676482, 3
+4, sports bar, 0.671033, 3
+4, bar, 0.710289, 4
+4, bar food, 0.675605, 4
+4, twin peaks, 0.937692, 5
+4, beer, 0.797553, 5
+4, Las Vegas, 0.683246, 6
+4, cold cold beer, 0.670652, 6
+4, rock wall, 0.755186, 7
+4, Twin Peaks girls, 0.700151, 7
+4, pretty good place, 0.683173, 8
+4, great service, 0.675873, 8
+4, Good beer selection, 0.670776, 9
+4, Awesome beer selection, 0.664871, 9
+5, twin peaks vegas, 0.711959, 0
+5, Jetzt Buffalo Chicken, 0.607223, 0
+5, bbq bacon burger, 0.598326, 1
+5, Chicken tender basket, 0.615992, 2
+5, best sports bar, 0.612965, 2
+5, waitress Peyton, 0.60446, 3
+5, food, 0.725432, 5
+5, twin peaks, 0.992872, 6
+5, green chile, 0.73747, 6
+5, Twin Peaks Las, 0.709465, 7
+5, Las Vegas, 0.680013, 7
+5, great service, 0.702164, 8
+5, great food, 0.700246, 8
+5, excellent customer service, 0.620317, 9
+5, good brown ale, 0.61361, 9

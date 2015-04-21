@@ -1,0 +1,10 @@
+rating, keyword, relevance, bucket
+1, mexican bar w/, 0.970315, 1
+1, hot dog cart, 0.801685, 1
+1, small parking, 0.527723, 3
+1, Marinos De Camillo, 0.813826, 6
+2, impossibly hot waitress, 0.936067, 0
+2, Mediocre bar, 0.782086, 0
+2, food, 0.494017, 3
+2, house, 0.493602, 3
+2, menus, 0.532969, 6

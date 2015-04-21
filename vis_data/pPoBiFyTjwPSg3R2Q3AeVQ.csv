@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, bullshit fake line, 0.950417, 0
+1, Credit Card minimum, 0.877011, 0
+1, steady business, 0.754351, 3
+1, waitress, 0.701148, 3
+1, happy hour meetups, 0.771348, 6
+1, DOUBLE CHECK, 0.677211, 6
+1, place, 0.513504, 7
+1, Congrats Kerry, 0.737183, 8
+1, scum, 0.534101, 8
+3, Karaoke, 0.430461, 0
+3, weekends, 0.42346, 0
+3, mix, 0.406863, 2
+3, blocks, 0.403148, 2
+3, hawaii, 0.406316, 3
+3, work, 0.450802, 5
+3, crust, 0.76915, 6
+3, Reggae, 0.430121, 6
+3, Saturday nights, 0.912359, 7
+3, fried fish, 0.867529, 7
+3, marinara sauce, 0.931568, 8
+3, nice place, 0.881532, 8
+3, nice balance, 0.875588, 9
+3, beer specials, 0.805734, 9
+4, mini corn dogs, 0.706915, 0
+4, Jersey area, 0.615456, 0
+4, positive experiences, 0.611166, 1
+4, short visit, 0.610123, 1
+4, good attention, 0.611774, 2
+4, refill, 0.522995, 2
+4, long-time family friends, 0.727201, 3
+4, wait time, 0.610592, 3
+4, garlic knots, 0.906554, 5
+4, York style pizza, 0.765249, 6
+4, standards, 0.538172, 6
+4, Vegas style pizza, 0.75688, 7
+4, club comparable slices, 0.717143, 7
+4, service, 0.541732, 8
+4, excellent place, 0.638006, 9
+4, good time, 0.615376, 9

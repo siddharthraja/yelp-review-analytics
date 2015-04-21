@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, exceptionally long time, 0.918959, 0
+1, tomato basil soup, 0.910947, 0
+1, bar maid, 0.753366, 1
+1, bit fishy tasting, 0.911924, 2
+1, Westlife songs, 0.800817, 2
+1, colleague, 0.503868, 3
+1, Haddock, 0.484871, 3
+1, Edinburgh establishments, 0.760701, 6
+1, good night, 0.716193, 6
+1, pub lunch, 0.751049, 8
+1, great spot, 0.738707, 8
+2, steep flight, 0.832105, 0
+2, dull pub, 0.827029, 0
+2, good idea, 0.818643, 1
+2, toilet cubicles, 0.815118, 1
+2, Scream Pubs family, 0.959777, 2
+2, awful music, 0.80738, 2
+2, white wine spritzer, 0.963492, 3
+2, piss water, 0.836881, 3
+2, toilets, 0.750122, 4
+2, Tron, 0.832948, 5
+2, place, 0.819652, 5
+2, pool cue, 0.792088, 6
+2, Toffee Apple, 0.788697, 6
+2, large student customer, 0.930609, 7
+2, Friday/Saturday night, 0.797587, 7
+2, bona fide jakeys, 0.940169, 8
+2, Tron Square, 0.817543, 8
+3, good harmless fun, 0.821476, 0
+3, main bar area, 0.792797, 0
+3, cheap pints, 0.932643, 1
+3, selling cheap booze, 0.912066, 1
+3, cheap booze deals, 0.929588, 2
+3, Tron Ceilidh House, 0.887933, 2
+3, cheap vodka mixers, 0.89339, 3
+3, cheap light refreshment, 0.871822, 3
+3, cheap drinks, 0.887127, 4
+3, student, 0.75197, 4
+3, Tron, 0.99112, 5
+3, good drink prices, 0.812442, 6
+3, good atmosphere, 0.735055, 6
+3, decent pub fayre, 0.897482, 7
+3, bar staff, 0.817734, 7
+3, reliable pub, 0.763707, 8
+3, cosy area, 0.717557, 8
+3, good humour, 0.7129, 9
+4, shooting video game, 0.707011, 0
+4, big sports groups, 0.699149, 0
+4, stupid game, 0.524684, 1
+4, bit, 0.393421, 1
+4, little alcoves, 0.552023, 2
+4, cheap booze, 0.54022, 2
+4, night pub crawl, 0.924159, 3
+4, scream pub chain, 0.849393, 3
+4, Tron, 0.691015, 4
+4, friends, 0.379435, 5
+4, scream pub, 0.869505, 6
+4, Black Sabbath, 0.522784, 6
+4, popular Scream pub, 0.865616, 7
+4, ideal site, 0.536913, 7
+4, yellow card deals, 0.694391, 8
+4, main area, 0.538343, 8
+4, solid pub fayre, 0.809426, 9
+4, great pub, 0.604687, 9
+5, Edinburgh, 0.463312, 0
+5, effort, 0.471844, 3
+5, feeling, 0.489037, 6
+5, pub quiz, 0.773787, 7
+5, monday evening, 0.710843, 7
+5, chilli con carne, 0.794552, 8
+5, good laugh, 0.73652, 8
+5, open seating areas, 0.904351, 9
+5, great food, 0.686074, 9

@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, good Pilipino food, 0.745476, 0
+1, filipino food lovers, 0.736871, 0
+1, kare kare sauce, 0.67076, 1
+1, high priced restaurant, 0.668009, 1
+1, filipino food, 0.944007, 2
+1, REAL Filipino food, 0.733265, 2
+1, hmm mid 30s, 0.675534, 3
+1, fried rice, 0.668665, 3
+1, food, 0.97897, 4
+1, place, 0.73894, 4
+1, time, 0.636246, 5
+1, middle aged couple, 0.677072, 6
+1, great food, 0.627144, 7
+1, better time, 0.600965, 7
+2, pork w/ onions, 0.586697, 0
+2, small dance floor, 0.585098, 0
+2, worse tasting food, 0.583923, 1
+2, Filipino restaurant, 0.525918, 1
+2, infamous Cafe Moda, 0.578221, 2
+2, big TV screen, 0.583222, 3
+2, large group, 0.569458, 3
+2, sisig, 0.542862, 4
+2, place, 0.813426, 5
+2, food, 0.796404, 5
+2, Cafe Moda, 0.932057, 6
+2, Friday night, 0.670179, 6
+2, pepper wings, 0.630547, 7
+2, Filipino accent, 0.565863, 7
+2, dance floor, 0.672787, 8
+2, good time, 0.584262, 8
+2, Fun Filipino atmosphere, 0.622814, 9
+2, loud music, 0.594169, 9
+3, filipino food goodness, 0.789915, 0
+3, karaoke asian place, 0.767152, 0
+3, Filipino party, 0.717896, 1
+3, Filipino Karaoke bar, 0.809581, 2
+3, Lol RIP Bernie, 0.731313, 2
+3, Filipino disco disco, 0.768079, 3
+3, Cheap fun night, 0.712203, 3
+3, karaoke, 0.827208, 4
+3, place, 0.787822, 4
+3, dance floor, 0.988464, 5
+3, food, 0.840651, 5
+3, cafe moda, 0.998504, 6
+3, HELLLA Filipino folks, 0.769232, 6
+3, electric slide, 0.805478, 7
+3, Filipino dishes, 0.745391, 7
+3, filipino food, 0.814902, 8
+3, charge Cafe Moda, 0.75218, 8
+4, Filipino soul food, 0.360037, 0
+4, ballroom dance night, 0.359957, 0
+4, good food, 0.335877, 1
+4, little wiggle room, 0.313562, 1
+4, late night cravings, 0.369621, 2
+4, late night meal, 0.35285, 2
+4, huge dance floor, 0.317048, 3
+4, local friend, 0.309443, 3
+4, dance floor, 0.742921, 4
+4, late night, 0.502448, 4
+4, Cafe Moda, 0.938107, 5
+4, night, 0.763394, 5
+4, Chinese karaoke places, 0.350481, 6
+4, Late night weekend, 0.349896, 6
+4, Saturday night, 0.407897, 7
+4, Saturday night crowd, 0.352749, 7
+4, good place, 0.454444, 8
+4, late night snack, 0.385801, 8
+4, pretty good place, 0.408654, 9
+4, good Filipino food, 0.381212, 9
+5, garlic fried rice, 0.514318, 0
+5, Saturday night, 0.436677, 0
+5, late night cafe, 0.555816, 1
+5, Body English.I, 0.421952, 1
+5, little Filipino guys, 0.537794, 2
+5, kareoke kinda gal, 0.530171, 2
+5, Filipino Karaoke bar, 0.550419, 3
+5, dance floor, 0.513783, 3
+5, night, 0.676627, 4
+5, Cafe Moda, 0.974049, 5
+5, place, 0.692356, 5
+5, sisig, 0.666697, 6
+5, food, 0.594449, 6
+5, late night club, 0.530052, 7
+5, Filipino reunion, 0.43209, 7
+5, best sisig, 0.580745, 8
+5, best DJ set, 0.523483, 8
+5, best place, 0.441627, 9
+5, good time, 0.435449, 9

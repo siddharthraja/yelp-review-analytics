@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, Irish pub, 0.905945, 0
+1, favorite Irish Ale, 0.901985, 0
+1, mediocre price, 0.698105, 1
+1, play pool, 0.688206, 1
+1, middle-aged obese men, 0.864929, 2
+1, Limp Bizkit, 0.652599, 2
+1, sings uninvited backup, 0.852242, 3
+1, current decade, 0.647076, 3
+1, experience, 0.504079, 4
+1, friends, 0.556773, 6
+1, tap, 0.503144, 6
+1, big groups, 0.662336, 7
+1, draft beer, 0.641362, 7
+1, Tuesday night, 0.932587, 8
+1, couple dozen people, 0.860259, 8
+4, greatest pinball game, 0.936499, 0
+4, teal cowboy shirt, 0.921656, 0
+4, Cowboy guy Hell, 0.933362, 1
+4, Bad karaoke, 0.852582, 1
+4, place, 0.772928, 3
+4, cowboy hat, 0.747387, 3
+4, good time, 0.720423, 6
+4, pool tables, 0.705539, 6
+4, best place, 0.745264, 7
+4, video games, 0.742174, 7
+4, open blues night, 0.939542, 8
+4, awesomest thing, 0.746156, 8
+4, great place, 0.748422, 9
+4, company, 0.542665, 9
+5, Pat Murpheys house, 0.845457, 0
+5, Yelp mercenaries, 0.781361, 0
+5, talented Ryan Seacrest, 0.886841, 2
+5, sole purpose, 0.699581, 2
+5, treachorous haven, 0.69193, 3
+5, filth, 0.541698, 3
+5, exemplary soldiers, 0.724363, 6
+5, Daren, 0.556428, 6
+5, sagacious old fool, 0.887882, 7
+5, master crafstman, 0.729992, 7
+5, enchanted blackberry map, 0.935385, 8
+5, whirling dervish. cowboy, 0.910742, 8

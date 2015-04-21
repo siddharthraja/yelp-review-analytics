@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, light bulb, 0.95302, 0
+1, large party, 0.927334, 0
+1, terrible service, 0.852701, 2
+1, karaoke, 0.679314, 3
+1, screens, 0.526121, 3
+1, competent server, 0.881471, 6
+1, place, 0.793602, 7
+1, groupon, 0.643303, 7
+2, Boneless Chicken, 0.766316, 0
+2, Kalbi Fries, 0.734683, 0
+2, greasy piece, 0.713252, 1
+2, little bar, 0.706867, 1
+2, pre-frozen costco, 0.789589, 2
+2, short ribs, 0.716119, 2
+2, kimchi pancake, 0.932927, 3
+2, anju, 0.57009, 3
+2, food, 0.79795, 4
+2, different crunch textures, 0.937101, 6
+2, place, 0.765618, 6
+2, Yogurt Soju, 0.787441, 7
+2, moist chicken, 0.761789, 7
+2, cool vibe, 0.727493, 8
+2, starts, 0.550128, 8
+3, small Korean restaurant, 0.776424, 0
+3, K-Pop music videos, 0.752495, 0
+3, spicy rice, 0.632375, 1
+3, chicken place, 0.713867, 2
+3, mixed drinks, 0.669414, 2
+3, high expectations, 0.771792, 3
+3, great bulgogi, 0.711116, 3
+3, place, 0.883475, 4
+3, drinks, 0.73275, 5
+3, food, 0.725195, 5
+3, Spicy Chicken concoction, 0.813439, 6
+3, small shopping mall, 0.777374, 6
+3, chicken katsu, 0.801483, 7
+3, dog skewers lol, 0.774438, 7
+3, pork cutlet, 0.93455, 8
+3, yogurt soju, 0.887006, 8
+3, glass tables, 0.642241, 9
+3, Cool vibe, 0.638045, 9
+4, Strawberry Soju, 0.823355, 0
+4, spicy pork-gogi dish, 0.802665, 0
+4, possible negative critique, 0.740004, 1
+4, soju buzz, 0.806961, 2
+4, spicy food, 0.742795, 2
+4, rice water fan, 0.744613, 3
+4, garish neon lights, 0.733626, 3
+4, food, 0.952152, 5
+4, boneless chicken dish, 0.895711, 5
+4, soju, 0.984039, 6
+4, flavored soju drinks, 0.874017, 6
+4, soju drinks, 0.878538, 7
+4, k-pop videos, 0.87446, 7
+4, yogurt soju, 0.981833, 8
+4, Good service, 0.77723, 8
+4, Best yogurt soju, 0.878913, 9
+4, spicy dipping sauce, 0.801017, 9
+5, blue raspberry soju, 0.630047, 0
+5, apple soju, 0.587367, 0
+5, different menu items, 0.530233, 1
+5, yummy chicken wings, 0.528597, 1
+5, small night club, 0.575171, 2
+5, soju bomb, 0.578842, 3
+5, Special high end, 0.536493, 3
+5, yogurt soju, 0.719214, 4
+5, large central bar, 0.540927, 4
+5, place, 0.914325, 5
+5, food, 0.870059, 5
+5, korean music videos, 0.680703, 6
+5, night, 0.670847, 6
+5, blueberry soju, 0.587348, 7
+5, good food, 0.568815, 7
+5, Great food, 0.6693, 8
+5, great atmosphere, 0.623426, 8
+5, real good place, 0.617284, 9
+5, great place, 0.58571, 9

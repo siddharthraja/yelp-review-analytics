@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, overall sucks, 0.666987, 0
+1, space crap-hole, 0.645337, 0
+1, coke, 0.478449, 1
+1, carbonation, 0.485236, 2
+1, soda, 0.462855, 2
+1, dehydrated peas, 0.760631, 3
+1, government meal, 0.708261, 3
+1, smell, 0.470994, 4
+1, smoke, 0.457565, 4
+1, bartender, 0.58491, 5
+1, fries, 0.47144, 6
+1, pretty big bar, 0.901574, 8
+1, decent sized piece, 0.878432, 8
+2, good pub food, 0.888189, 0
+2, uninspired mashed potatoes, 0.85729, 0
+2, nice flaky crust, 0.874152, 1
+2, bush league thing, 0.829933, 1
+2, bad food, 0.763771, 2
+2, mushroom pie, 0.743739, 2
+2, chicken pot pie, 0.992937, 3
+2, Spear-esque school girl, 0.870305, 3
+2, accompanying tartar sauce, 0.854479, 6
+2, Typical British pub, 0.844702, 6
+2, video poker, 0.850063, 7
+2, British fare, 0.746696, 7
+2, clam chowder, 0.733426, 8
+2, Nice batter, 0.73206, 8
+2, good selection, 0.734687, 9
+3, canned sweet peas, 0.883974, 0
+3, dogfish head, 0.878772, 0
+3, dry,old sticky toffee, 0.855822, 1
+3, sweet carrotie goodness, 0.86754, 2
+3, vodka red bull, 0.84719, 2
+3, vinegarie dipping sauce, 0.875896, 3
+3, present rosemary flavor, 0.875786, 3
+3, original location, 0.868969, 4
+3, chips, 0.865145, 4
+3, place, 0.875504, 5
+3, small place, 0.87246, 6
+3, deep fried potato, 0.870836, 6
+3, giant yorkshore pudding, 0.887453, 7
+3, Authentic English Fish, 0.854958, 7
+3, lamb/beef roast Sunday, 0.904573, 8
+3, draft beers, 0.8608, 8
+3, Good place, 0.811318, 9
+4, Korean food eateries, 0.847323, 0
+4, strange liquor license, 0.826575, 0
+4, liquor license, 0.958687, 1
+4, bar trivia thingy, 0.841817, 1
+4, Asian food joints, 0.84456, 2
+4, Strangest liquor license, 0.825816, 3
+4, Las Vegas, 0.816708, 3
+4, bar, 0.931636, 4
+4, Spring Mountain, 0.878331, 5
+4, food, 0.853819, 5
+4, place, 0.954476, 6
+4, dart boards, 0.877239, 6
+4, real darts, 0.832532, 7
+4, beer selection, 0.828039, 7
+4, good steak fries, 0.844431, 8
+4, good time, 0.842764, 8
+4, best bartender EVERand, 0.821052, 9
+4, fun group-oriented activity, 0.820949, 9
+5, Sunday roast, 0.827446, 0
+5, ex-pat Brits, 0.824289, 0
+5, bar patrons, 0.832459, 1
+5, huge beer drinker, 0.905649, 2
+5, Las Vegas, 0.821753, 2
+5, Fave bar, 0.841175, 3
+5, Trop location, 0.831193, 3
+5, crown, 0.82971, 5
+5, place, 0.945095, 6
+5, good time, 0.925521, 6
+5, customer service, 0.929032, 7
+5, Yelp friends Aaron, 0.907855, 7
+5, w/ roast beef, 0.955239, 8
+5, great beer selection, 0.949395, 8
+5, great place, 0.90276, 9
+5, cute place, 0.849585, 9

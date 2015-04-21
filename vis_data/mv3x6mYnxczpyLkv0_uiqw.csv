@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+3, fun, 0.729028, 7
+3, red piano, 0.983651, 8
+4, Sir Elton, 0.693667, 0
+4, curious newbie, 0.650035, 0
+4, Elton John concert, 0.728127, 1
+4, overall stage design, 0.648239, 1
+4, veteran fan, 0.641903, 2
+4, Ray Cooper, 0.616864, 2
+4, star tour date, 0.62829, 3
+4, Dollar Piano, 0.594437, 3
+4, Elton, 0.938339, 5
+4, Red Piano, 0.819928, 5
+4, Elton fan, 0.697541, 6
+4, Sunday evening, 0.581352, 6
+4, right opinion place, 0.631665, 7
+4, new single HOME, 0.618847, 7
+4, majestic music video, 0.616263, 8
+4, song set, 0.587801, 8
+4, sparkly wardrobe, 0.570311, 9
+4, amazing voice, 0.563846, 9
+5, John Lennon, 0.527193, 0
+5, Philadelphia Freedom, 0.523084, 0
+5, Sir Elton John, 0.895649, 1
+5, less-than-flamboyant clothing, 0.537858, 1
+5, familiar guitar intro, 0.638514, 2
+5, Goodbye Yellow Brick, 0.626908, 2
+5, Garden, 0.42129, 3
+5, stage, 0.473069, 4
+5, song, 0.47394, 5
+5, Elton John, 0.997329, 6
+5, good sum, 0.549477, 6
+5, better view, 0.544589, 7
+5, orchestra seating, 0.544042, 7
+5, Elton John concert, 0.715178, 8
+5, typically Elton John, 0.707342, 8
+5, excellent background videos, 0.615978, 9

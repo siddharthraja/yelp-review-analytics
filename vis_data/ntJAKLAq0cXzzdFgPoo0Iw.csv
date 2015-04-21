@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, food safety laws, 0.721883, 0
+1, depressing dive bar, 0.717016, 0
+1, old bar smell, 0.713684, 1
+1, abused fictional beast, 0.679183, 1
+1, average dive bar, 0.68732, 2
+1, smaller microwaved-tasting bun, 0.682212, 2
+1, mall burger joint, 0.743322, 3
+1, bar tops, 0.631346, 3
+1, dive bar, 0.965084, 5
+1, burger, 0.786329, 5
+1, average tasting burger, 0.730211, 6
+1, old dive charm, 0.685359, 6
+1, slightly interesting flavor, 0.684514, 7
+1, cheers type atmosphere, 0.674974, 7
+1, good dive bar, 0.724021, 8
+1, ancient bowling game, 0.713471, 8
+1, Great customer service, 0.679159, 9
+2, dive bar steps, 0.669598, 0
+2, chili cheese fries, 0.665816, 0
+2, big flat screen, 0.639279, 1
+2, obviously satisfies, 0.541506, 1
+2, dive bar, 0.984916, 2
+2, GREAT place, 0.560289, 2
+2, real dive bar, 0.69287, 3
+2, divey old school, 0.642992, 3
+2, place, 0.836882, 4
+2, old retro bowling, 0.642841, 6
+2, plastic pins, 0.535464, 6
+2, interesting place, 0.558141, 7
+2, happy hour prices, 0.550115, 7
+2, great job juggling, 0.635611, 8
+2, pleasant people, 0.54806, 8
+3, standard bun, 0.698437, 0
+3, 16th St., 0.683668, 0
+3, iced tea, 0.697181, 1
+3, stale beer, 0.683397, 1
+3, fries, 0.848616, 2
+3, positive adjective, 0.708197, 2
+3, good dive bar/restaurant, 0.921406, 3
+3, little flavor, 0.69273, 3
+3, traditional bar fare, 0.817465, 4
+3, times, 0.566198, 4
+3, good experience, 0.838037, 5
+3, people, 0.596782, 5
+3, onion rings, 0.814277, 6
+3, favorite fried food, 0.813121, 6
+3, burgers, 0.955177, 7
+3, Original wine burger, 0.89935, 7
+3, decent bite, 0.699295, 8
+3, all-around pleasant, 0.693907, 8
+3, super friendly staff, 0.796962, 9
+3, unapologetic dive, 0.686566, 9
+4, normal Harvey Burger, 0.550042, 0
+4, oldest burger spots, 0.523141, 0
+4, tiny little place, 0.517756, 1
+4, soggy fries, 0.500658, 1
+4, dive bar interior, 0.521197, 2
+4, huge bar person, 0.490073, 2
+4, place Dive bar, 0.572029, 3
+4, original bar food, 0.527189, 3
+4, onion rings, 0.850539, 4
+4, burgers, 0.700643, 4
+4, dive bar, 0.965228, 5
+4, place, 0.834536, 5
+4, good dive bar, 0.557616, 6
+4, great dive bar, 0.555412, 6
+4, burger, 0.734927, 7
+4, great burgers, 0.549436, 7
+4, great burger, 0.592129, 8
+4, best burgers, 0.557259, 8
+4, awesome burgers, 0.505422, 9
+4, fantastic burger, 0.501975, 9
+5, hall-dive bar burger, 0.727698, 0
+5, small dive bar, 0.724872, 0
+5, Dive Bar rating, 0.660732, 2
+5, total dive bar, 0.732418, 3
+5, sarcastic fifty-something Midwesterner, 0.621592, 3
+5, place, 0.852934, 4
+5, time, 0.655401, 4
+5, dive bar, 0.959894, 5
+5, beer, 0.641868, 5
+5, burger, 0.880409, 6
+5, burgers, 0.785802, 6
+5, Great dive bar, 0.715994, 7
+5, great bar game, 0.667584, 7
+5, best burger, 0.758857, 8
+5, best burgers, 0.68853, 8
+5, good homemade burger, 0.716441, 9
+5, juicy burger, 0.647692, 9

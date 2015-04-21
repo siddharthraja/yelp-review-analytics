@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, chinese buffet chairs, 0.915206, 0
+1, lackluster decor, 0.721285, 0
+1, separate entity..We, 0.690535, 1
+1, little lounge, 0.678013, 1
+1, fake wood tables, 0.913554, 2
+1, appetizers, 0.574737, 2
+1, Sat afternoon, 0.770148, 3
+1, cranberry juice, 0.699802, 3
+1, cook, 0.626563, 4
+1, place, 0.514761, 4
+1, drink, 0.576294, 5
+1, completely different story, 0.939056, 6
+1, pineapple juice, 0.702067, 6
+1, seat, 0.501569, 7
+1, nice bouncer, 0.691338, 8
+1, allure, 0.46758, 8
+2, Hotel San Marcos, 0.95808, 0
+2, hot pink light, 0.915859, 0
+2, little more OJ, 0.891728, 1
+2, bar tender, 0.791707, 1
+2, drinks, 0.949004, 2
+2, extra splash, 0.814923, 2
+2, Urban Wine Walk, 0.953099, 3
+2, Gross space, 0.785556, 3
+2, ghost lounge, 0.953863, 5
+2, bar, 0.832848, 5
+2, place, 0.811851, 6
+2, throwback gem, 0.804258, 6
+2, interesting ghost stories, 0.942975, 7
+2, historical Hotel San, 0.924575, 7
+2, Cool old hotel, 0.955772, 8
+2, ........., 0.885981, 8
+2, better experience, 0.770031, 9
+3, thier Comedy Shows, 0.834764, 0
+3, Hotel San Carlos'esque, 0.812758, 0
+3, destination bar, 0.714352, 1
+3, subpar dj, 0.710726, 1
+3, small patio area, 0.813635, 2
+3, past time, 0.72732, 2
+3, light rail, 0.822701, 3
+3, pub crawl, 0.820126, 3
+3, bar, 0.833662, 4
+3, time, 0.777942, 4
+3, Ghost Lounge, 0.999841, 5
+3, place, 0.860384, 5
+3, downtown Phoenix, 0.806205, 6
+3, local comedy, 0.729043, 6
+3, Hotel San, 0.81545, 7
+3, hot summer night, 0.806501, 7
+3, nice historical photos, 0.800597, 8
+3, good location, 0.718368, 8
+3, location location location, 0.806753, 9
+3, awesome zombie extravaganze, 0.785019, 9
+4, Hotel San Carlos, 0.937865, 0
+4, standard downtown crowd, 0.771242, 0
+4, uber-adorable Mosser Hotel, 0.73515, 1
+4, Hotel San Marcos, 0.733924, 1
+4, ROCK STAR PARKING, 0.713536, 2
+4, date night, 0.656746, 2
+4, Urban Wine Tour, 0.925978, 3
+4, Ghost Lounge, 0.832201, 3
+4, place, 0.826956, 5
+4, downtown phoenix, 0.735228, 6
+4, mullet wig, 0.638363, 6
+4, San Carlos hotel, 0.750009, 7
+4, Night Swing Dance, 0.739418, 7
+4, great time, 0.827857, 8
+4, old time ambiance, 0.738619, 8
+4, Pretty good drinks, 0.722138, 9
+4, house white wine, 0.70868, 9
+5, perfect hybrid, 0.620675, 0
+5, little gem, 0.614545, 0
+5, typical nightclub, 0.66347, 2
+5, Sob, 0.40087, 2
+5, Hotel San Carlos, 0.833992, 3
+5, theres, 0.415288, 3
+5, place ive, 0.654127, 7
+5, vodka, 0.379981, 7
+5, good deal, 0.649696, 8
+5, petite frame, 0.620688, 8
+5, White Rabbit Saturdays, 0.97254, 9
+5, Carlos Ghost Lounge, 0.863712, 9

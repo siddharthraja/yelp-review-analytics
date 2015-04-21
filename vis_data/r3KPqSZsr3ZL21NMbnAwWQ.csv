@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, Tin Kitchen food, 0.919216, 0
+1, good things, 0.668061, 0
+1, worst service, 0.698629, 1
+1, food choices, 0.646617, 1
+1, martinis, 0.389941, 2
+1, association, 0.371491, 2
+1, food truck, 0.837216, 3
+1, restaurant version, 0.633713, 3
+1, Bloody Mary, 0.892322, 4
+1, husband, 0.559794, 4
+1, olive juice, 0.614886, 6
+1, drinks, 0.582125, 6
+1, vodka martini, 0.659168, 7
+1, better places, 0.632512, 7
+1, drink order, 0.644006, 8
+1, 15 minutes, 0.36566, 8
+2, chicken tenders, 0.754738, 0
+2, Epicenter parking, 0.74452, 0
+2, napkin holder, 0.74151, 1
+2, quesadilla, 0.505768, 1
+2, typical bar food, 0.900234, 2
+2, light rail, 0.770067, 2
+2, place, 0.754484, 3
+2, music, 0.528426, 3
+2, Great Blizzard, 0.75665, 6
+2, better things, 0.694255, 6
+2, appetizer, 0.480187, 7
+2, fun, 0.469219, 7
+2, great friend, 0.731556, 9
+2, beer, 0.467709, 9
+3, mediocre bar food, 0.945633, 0
+3, small plastic cups, 0.942379, 0
+3, movie, 0.452844, 1
+3, Epicentre parking, 0.712063, 2
+3, south east, 0.667852, 2
+3, mixed drinks, 0.707161, 3
+3, half, 0.514276, 3
+3, live bands, 0.998004, 4
+3, bartender, 0.559031, 5
+3, old school advertisements, 0.87788, 6
+3, ice cold beer, 0.87415, 6
+3, Friday night, 0.719142, 7
+3, good place, 0.676773, 7
+3, cool eclectic vibe, 0.996187, 9
+3, quick cheap drink, 0.987699, 9
+4, Shrimp Po, 0.757042, 0
+4, pop songs, 0.718229, 0
+4, daytime sporting event, 0.973818, 1
+4, daytime dining, 0.770876, 1
+4, Miley Cyrus concert, 0.963963, 2
+4, drinks, 0.381255, 2
+4, lunch, 0.685465, 3
+4, workers, 0.389505, 3
+4, hottest places, 0.758943, 6
+4, food, 0.633842, 6
+4, Overall fun atmosphere, 0.896872, 7
+4, nightlife, 0.396093, 7
+4, good thing, 0.674658, 8
+4, fun time, 0.668778, 8
+4, Live music, 0.677624, 9
+4, fun dancing, 0.654213, 9
+5, bears vs panthers, 0.851273, 0
+5, sat afternoon, 0.566575, 0
+5, studio movie grill, 0.858449, 2
+5, live music joint, 0.904942, 7
+5, good bar food, 0.889749, 7
+5, Panther shots, 0.523739, 9

@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, true top-tier club, 0.440057, 0
+1, girls line, 0.411931, 0
+1, security guards, 0.705024, 1
+1, customer service, 0.536647, 1
+1, line, 0.808021, 2
+1, dance floor, 0.64807, 2
+1, general admission, 0.554639, 3
+1, Mandalay Bay, 0.483565, 3
+1, club, 0.952691, 4
+1, people, 0.627028, 4
+1, place, 0.526292, 5
+1, night, 0.506974, 5
+1, light, 0.564483, 6
+1, dance floor table, 0.430117, 6
+1, comp bottle, 0.433767, 7
+1, natural reaction, 0.427399, 7
+1, best friend, 0.431244, 8
+2, guest list line, 0.545918, 0
+2, general admission, 0.536457, 0
+2, guest list, 0.981779, 1
+2, dark warehouse club, 0.569537, 1
+2, line, 0.569282, 2
+2, date rape drug, 0.524581, 2
+2, good thing, 0.530019, 3
+2, big rectangular room, 0.530014, 3
+2, club, 0.858401, 4
+2, dance floor, 0.844593, 4
+2, Friday night, 0.580474, 5
+2, xs, 0.565657, 5
+2, place, 0.674743, 6
+2, drink cards, 0.590226, 6
+2, du Soleil acrobats, 0.614073, 7
+2, vodka redbull, 0.55235, 7
+2, Cirque du Soleil, 0.743188, 8
+2, typical EDM club, 0.55188, 8
+3, dance club, 0.341286, 0
+3, semi-large dance floor, 0.326019, 0
+3, dance floor area, 0.336105, 1
+3, nice-looking dance floor, 0.323022, 1
+3, hip hop, 0.484482, 2
+3, guest list, 0.425206, 3
+3, Light Night Club, 0.420461, 3
+3, dance floor, 0.910015, 4
+3, music, 0.467801, 4
+3, club, 0.748819, 5
+3, night, 0.487434, 5
+3, Saturday night, 0.350143, 6
+3, small dance floor, 0.34214, 6
+3, cirque du soleil, 0.545513, 7
+3, good time, 0.43113, 7
+3, du Soleil dancers, 0.309621, 8
+3, pretty small venue, 0.298534, 8
+4, large dance floor, 0.461841, 0
+4, Big dance floor, 0.458474, 0
+4, dance floor space, 0.460759, 1
+4, sister club Haze, 0.458066, 3
+4, cirque du soleil, 0.847797, 4
+4, music, 0.477743, 4
+4, dance floor, 0.956932, 5
+4, club, 0.732575, 5
+4, small dance floor, 0.467032, 6
+4, cover charge, 0.461922, 6
+4, free drink tickets, 0.506638, 7
+4, Sebastian Ingrosso, 0.481721, 7
+4, Vegas club experience, 0.463852, 8
+4, club great DJ, 0.461598, 8
+4, Mandalay Bay, 0.461016, 9
+5, Light Nightclub reservations, 0.313867, 0
+5, Vegas EDM clubs, 0.308718, 0
+5, Light night club, 0.385498, 2
+5, main dance floor, 0.337796, 2
+5, sebastian ingrosso, 0.319704, 3
+5, line, 0.373347, 4
+5, Azn ladies, 0.312142, 4
+5, club, 0.906602, 5
+5, dance floor, 0.898318, 5
+5, Mandalay Bay, 0.399093, 6
+5, time, 0.367894, 6
+5, cirque du soleil, 0.834892, 7
+5, new favorite club, 0.439238, 7
+5, du Soleil performers, 0.477841, 8
+5, best club, 0.376485, 8
+5, Awesome night club, 0.348682, 9

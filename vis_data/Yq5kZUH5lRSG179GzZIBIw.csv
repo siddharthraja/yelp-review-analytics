@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+1, unpleasant food, 0.635726, 0
+1, Horrible place, 0.601656, 0
+1, poor neighbors, 0.61995, 1
+1, bad service, 0.600619, 1
+1, hookah lounge, 0.927472, 2
+1, CEO Sports Bar, 0.853065, 2
+1, restaurant, 0.200187, 3
+1, Mango, 0.201987, 8
+1, pretty good night, 0.751184, 9
+1, Vegas, 0.255574, 9
+3, serves, 0.330351, 0
+3, English, 0.330111, 0
+3, half, 0.342095, 2
+3, African/middle eastern crowd, 0.939496, 3
+3, establishment, 0.340071, 3
+3, music, 0.435343, 6
+3, flyer, 0.353013, 6
+3, Friday night, 0.715513, 8
+3, atmosphere, 0.356422, 8
+3, Nice, 0.371727, 9
+4, midnight, 0.550882, 7
+4, food, 0.384955, 7
+4, reggae live bands, 0.992718, 8
+4, Great, 0.392021, 8
+5, bottle, 0.505792, 0
+5, hookahs, 0.473023, 0
+5, parking, 0.49764, 3
+5, ambiance, 0.538376, 6
+5, Friday, 0.503132, 6
+5, evening Great place, 0.965663, 7
+5, live music, 0.800176, 7
+5, Best hookah, 0.825882, 8
+5, exotic foods, 0.783079, 8
+5, friendly staff, 0.757206, 9
+5, good service, 0.730843, 9

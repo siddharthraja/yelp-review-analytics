@@ -1,0 +1,92 @@
+rating, keyword, relevance, bucket
+1, free pizza, 0.594739, 0
+1, pizza someplace, 0.592211, 0
+1, poor customer service, 0.628663, 1
+1, outstanding pizza, 0.568497, 1
+1, food, 0.714093, 2
+1, little caesar pizza, 0.655762, 2
+1, service, 0.815371, 3
+1, large pizza, 0.618812, 3
+1, pizza, 0.965597, 4
+1, customer service, 0.738405, 4
+1, pizzas, 0.525011, 5
+1, way, 0.518391, 5
+1, pizza hut, 0.647414, 6
+1, New York pizza, 0.643809, 6
+1, better pizza, 0.695069, 7
+1, small pizza, 0.657447, 7
+1, great pizza joint, 0.628933, 8
+1, Loud surfer music, 0.520543, 8
+2, crispy pizza crust, 0.787944, 0
+2, New York Pizza, 0.751047, 0
+2, NY pizza joint, 0.767374, 1
+2, York style crust, 0.663199, 1
+2, pizza joint, 0.778032, 2
+2, good pizza, 0.708949, 2
+2, crust pizza, 0.780198, 3
+2, pizza snob, 0.719731, 3
+2, pizza, 0.986071, 4
+2, place, 0.802056, 4
+2, time, 0.610517, 5
+2, Fara Special pizza, 0.745613, 6
+2, margherita pizza, 0.69112, 6
+2, Di Fara Special, 0.793956, 7
+2, gluten free pizza, 0.721948, 7
+2, Metro Pizza, 0.703236, 8
+2, pretty nice restaurant, 0.613526, 8
+3, crust simple pizza, 0.689921, 0
+3, Dom Demarcos PIZZA, 0.68244, 0
+3, York style crust, 0.567884, 1
+3, bad pizza, 0.646682, 2
+3, New York style, 0.574945, 2
+3, pizza joints, 0.670564, 3
+3, east coast pizza, 0.663108, 3
+3, square pizza, 0.684382, 4
+3, pizza crust, 0.673718, 4
+3, pizza, 0.925277, 5
+3, crust pizza, 0.721562, 5
+3, high-end pizza sweepstakes, 0.680576, 6
+3, pizza options Food, 0.657366, 6
+3, NY style pizza, 0.753914, 7
+3, fara special pizza, 0.727101, 7
+3, white truffle pizza, 0.790491, 8
+3, pizza place, 0.664743, 8
+3, gluten free pizza, 0.686576, 9
+3, great pizza, 0.666484, 9
+4, pizza crust, 0.58884, 0
+4, NY style pizza, 0.579427, 0
+4, specially ordered pizza, 0.573345, 1
+4, expensive pizza, 0.556337, 1
+4, good pizza, 0.571177, 2
+4, real ny pizza, 0.544691, 2
+4, big apple pizza, 0.703354, 3
+4, circle pizza, 0.557716, 3
+4, crust pizza, 0.583532, 4
+4, pizza, 0.93384, 5
+4, white truffle pizza, 0.809635, 5
+4, white pizza, 0.625212, 6
+4, Di Fara pizza, 0.62354, 6
+4, bianca pizza, 0.57026, 7
+4, classic pizza, 0.556113, 7
+4, great pizza, 0.590589, 8
+4, pizza place, 0.588422, 8
+4, cheese pizza, 0.610225, 9
+4, regular cheese pizza, 0.565134, 9
+5, Dom DeMarcos Pizza, 0.579667, 0
+5, ordinary pizza place, 0.571681, 0
+5, pizza places mess, 0.568669, 2
+5, sliced tomato pizza, 0.560679, 2
+5, crust pizza, 0.596595, 3
+5, normal pizza place, 0.576239, 3
+5, dom demarco, 0.780603, 4
+5, New York pizza, 0.611807, 4
+5, pizza, 0.951046, 5
+5, pizza place, 0.655131, 5
+5, di fara, 0.717165, 6
+5, new york style, 0.692277, 6
+5, best pizza, 0.691384, 7
+5, di fara pizza, 0.601407, 7
+5, york style pizza, 0.693988, 8
+5, great pizza, 0.625591, 8
+5, Pizza perfection plus, 0.580866, 9
+5, style pizza pies, 0.567048, 9

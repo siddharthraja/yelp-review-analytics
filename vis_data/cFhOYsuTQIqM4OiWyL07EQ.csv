@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, newly opened plateau, 0.797527, 0
+1, American living, 0.584761, 0
+1, Le Comptoir, 0.942914, 1
+1, worst dining experience, 0.894486, 1
+1, new waiter, 0.64862, 2
+1, worst offense, 0.637908, 2
+1, card-carrying sepratist, 0.608882, 3
+1, reservation, 0.41158, 3
+1, restaurant, 0.501986, 5
+1, Small appetizers, 0.565508, 6
+1, staff, 0.359566, 6
+1, significant flaws, 0.627812, 7
+1, right way, 0.60111, 7
+1, punchy BBQ sauce, 0.883293, 8
+1, tasty pork sandwich, 0.867661, 8
+2, mais pas toujours, 0.912636, 0
+2, qui n'est pas, 0.909242, 0
+2, est le manque, 0.846423, 1
+2, et mon plat, 0.889814, 2
+2, Le Comptoir Charcuteries, 0.854223, 2
+2, plat et dessert, 0.866357, 3
+2, absent et  peu, 0.846829, 3
+2, C'est correct mais, 0.935081, 6
+2, c'est le prix, 0.897875, 6
+2, C'est prometteur mais, 0.93127, 7
+2, tout sur le, 0.861329, 7
+4, Le menu est, 0.85594, 0
+4, et le service, 0.800684, 0
+4, Tuna tartare dish, 0.780935, 1
+4, pound pork chop, 0.817648, 3
+4, wine bars, 0.790979, 3
+4, restaurant, 0.795679, 4
+4, wine, 0.870002, 5
+4, dish, 0.810267, 5
+4, Le Comptoir, 0.984574, 6
+4, food, 0.869425, 6
+4, beet salad, 0.841032, 7
+4, place, 0.835549, 7
+4, wine list, 0.839382, 8
+4, nice wine selection, 0.806376, 8
+4, dessert wine selection, 0.798389, 9
+4, course delicious food, 0.796988, 9
+5, LE COMPTOIR CHARCUTERIE, 0.626239, 0
+5, j'adore le Comptoir, 0.620676, 0
+5, favori reste le, 0.593885, 2
+5, open kitchen, 0.690552, 3
+5, relatively short menu, 0.586304, 3
+5, beet salad, 0.727179, 4
+5, roasted beet salad, 0.64648, 4
+5, dishes, 0.62518, 5
+5, le comptoir, 0.91281, 6
+5, wine, 0.629013, 6
+5, small charcuterie plate, 0.632815, 7
+5, creme fraiche tartlet, 0.61843, 7
+5, great food, 0.633014, 8
+5, great dining experience, 0.629173, 8
+5, tapas wine bar, 0.606732, 9
+5, great wine list, 0.603774, 9

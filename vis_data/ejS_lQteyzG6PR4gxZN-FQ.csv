@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, mexican food place, 0.718714, 0
+1, GREAT MEXICAN FOOD, 0.69466, 0
+1, good mexican food, 0.691962, 1
+1, fast food chains, 0.654116, 1
+1, mexican food, 0.911469, 2
+1, traditional mexican food, 0.677737, 2
+1, Mexican food people, 0.683037, 3
+1, low alcohol drinks, 0.652875, 3
+1, chips, 0.757787, 4
+1, Taco Bell, 0.692674, 4
+1, place, 0.969523, 5
+1, drinks, 0.739258, 5
+1, bloody mary, 0.637689, 6
+1, Las Vegas Blvd, 0.633815, 6
+1, pretty good bartender, 0.669153, 7
+1, great football specials, 0.627388, 7
+1, good bloody mary, 0.635225, 8
+1, Paradise Cantina betters, 0.614209, 9
+2, favorite queso spot, 0.886483, 0
+2, industrial-sized canned cheese, 0.875765, 0
+2, Hard Rock, 0.740867, 1
+2, finer moments, 0.739483, 1
+2, food, 0.903692, 2
+2, cheese dip snob, 0.869227, 2
+2, mexican food, 0.852609, 3
+2, dive bar atmosphere, 0.836317, 3
+2, place, 0.980739, 5
+2, normal sized margarita, 0.846093, 6
+2, loud music, 0.74055, 6
+2, Paradise Cantina, 0.860266, 7
+2, enchilada style burrito, 0.835957, 7
+2, great place, 0.75603, 8
+2, ok place, 0.744414, 8
+3, Cantina Tacos, 0.559112, 0
+3, sit-down Mexican food, 0.550602, 0
+3, mexican themed bar, 0.52045, 1
+3, huge hefty chunk, 0.509176, 1
+3, food menu, 0.508265, 2
+3, Vegas Mexican food, 0.560998, 3
+3, affordable pre-game drinks, 0.5237, 3
+3, place, 0.593745, 4
+3, chips, 0.541551, 4
+3, mexican food, 0.812894, 5
+3, Paradise Cantina, 0.929667, 6
+3, salsa, 0.580259, 6
+3, drink specials, 0.617125, 7
+3, Hard Rock Hotel, 0.588183, 7
+3, tacos, 0.608327, 8
+3, great drink specials, 0.601059, 8
+3, great place, 0.538827, 9
+3, nice big patio, 0.525343, 9
+4, boneless wings, 0.627013, 0
+4, ok mexican food, 0.596781, 0
+4, Browns Backer bar, 0.561141, 1
+4, Good bar food, 0.645758, 2
+4, Hard Rock, 0.86862, 3
+4, mexican food, 0.713942, 3
+4, place, 0.945182, 5
+4, food, 0.92202, 5
+4, paradise cantina, 0.660958, 6
+4, large servings, 0.563432, 6
+4, cheap drinks, 0.688386, 7
+4, good food, 0.660006, 7
+4, margaritas, 0.628194, 8
+4, great place, 0.588183, 8
+4, rare occasions ha, 0.565511, 9
+4, happy hour deals, 0.556802, 9
+5, Vegas dance clubs, 0.544985, 0
+5, true Vegas transplant, 0.540959, 0
+5, Mexican food, 0.535357, 1
+5, bar type gal, 0.558206, 2
+5, dive locals bar, 0.541756, 2
+5, Hard Rock, 0.784574, 3
+5, strip mall, 0.678098, 3
+5, food, 0.842055, 4
+5, drinks, 0.732342, 4
+5, place, 0.944345, 5
+5, bar, 0.651329, 5
+5, Paradise Cantina, 0.725841, 6
+5, tex-mex bar food, 0.578504, 6
+5, spicy cheese sauce, 0.652363, 7
+5, great bartender brothers, 0.574512, 7
+5, great place, 0.675714, 8
+5, tortilla soup, 0.605699, 8
+5, great drink specials, 0.549805, 9
+5, delicious drinks, 0.548931, 9

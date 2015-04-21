@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, Prime Rib, 0.974648, 0
+1, lame tomato sauce, 0.941666, 0
+1, Home fries, 0.608112, 1
+1, cold hashbrowns, 0.594312, 1
+1, terrible service, 0.942487, 2
+1, good greasy spoon, 0.881838, 2
+1, ficus, 0.363341, 3
+1, stall, 0.360364, 3
+1, server, 0.459635, 4
+1, wait staff, 0.650172, 6
+1, fresh carrots, 0.649973, 7
+1, perfect way, 0.626969, 7
+2, diner style breakfast, 0.91095, 0
+2, cold breakfasts, 0.746472, 0
+2, -scrambles eggs, 0.509498, 1
+2, bad texture, 0.47325, 1
+2, pre-cooked microwave bacon, 0.850953, 3
+2, bird special price, 0.734257, 3
+2, pretty standard breakfast, 0.962238, 6
+2, toast,home fries, 0.564897, 6
+2, French fry style, 0.75471, 7
+2, home fries, 0.556203, 7
+3, fish n chips, 0.678591, 0
+3, hubby, 0.383405, 0
+3, specific identity, 0.647632, 3
+3, deserts, 0.344446, 3
+3, onion meal, 0.738897, 6
+3, green beans, 0.681545, 6
+3, onion gravy, 0.777689, 7
+3, price, 0.47743, 7
+3, lunch specials, 0.844176, 8
+3, diinner specials, 0.717185, 8
+3, nicely battered cod, 0.975934, 9
+3, small piece, 0.673233, 9
+4, accident, 0.297689, 2
+4, big plates, 0.863032, 3
+4, nephews, 0.400913, 3
+4, lunch, 0.317761, 6
+4, dinner, 0.289078, 6
+4, breakfast, 0.609028, 7
+4, service, 0.241568, 7
+4, retro theme, 0.915317, 8
+4, kids menu, 0.828823, 8
+5, North American breakfast, 0.935296, 6
+5, best breakfast place, 0.925615, 6
+5, cool baseball breakfast, 0.940242, 7
+5, home run, 0.380268, 7
+5, nice selection, 0.445421, 8
+5, Great breakfast, 0.772384, 9
+5, good reason, 0.455646, 9

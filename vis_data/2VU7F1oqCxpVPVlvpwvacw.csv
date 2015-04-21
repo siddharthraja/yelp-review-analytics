@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+2, big tub, 0.694415, 0
+2, service mechanics, 0.674697, 0
+2, 15 minutes, 0.365585, 1
+2, overdone egg, 0.770309, 2
+2, low quality, 0.685761, 2
+2, Loud thumping music, 0.93815, 3
+2, glob, 0.428549, 3
+2, meh, 0.362517, 4
+2, cheese, 0.577498, 5
+2, Breakfast burrito, 0.787609, 6
+2, service ok, 0.703555, 6
+2, nice decor, 0.710733, 7
+2, mac, 0.416041, 7
+2, cent box, 0.679147, 8
+2, dish, 0.383972, 8
+3, egg white scramble, 0.592645, 0
+3, Sacramento airport, 0.463881, 0
+3, rude hostess, 0.772713, 1
+3, main bar, 0.477044, 1
+3, rude hostess seat, 0.655818, 2
+3, typical airport bar, 0.630277, 2
+3, good food options, 0.576993, 3
+3, bar areas, 0.477821, 3
+3, airport bar, 0.944298, 5
+3, comfy purple chairs, 0.57708, 6
+3, good service, 0.562284, 6
+3, Hello Barfly designer, 0.57791, 7
+3, Cool House-of-Blues-like vibe, 0.557502, 7
+3, Good ambience, 0.469429, 8
+3, Phoenix airport, 0.467752, 8
+3, Excellent music, 0.445214, 9
+4, indie rock music, 0.695877, 0
+4, Fox Sports bar, 0.693963, 0
+4, bland tasting food, 0.723685, 1
+4, trendy looking bar, 0.714928, 1
+4, phoenix airport, 0.736604, 2
+4, terminal, 0.642466, 2
+4, spicy bloody mary, 0.677762, 3
+4, Virgin Atlantic Clubhouse, 0.655294, 3
+4, food, 0.79016, 4
+4, airport, 0.929276, 5
+4, Barfly, 0.712817, 5
+4, typical airport bar, 0.737961, 6
+4, airport joints, 0.657335, 6
+4, 1000 island dressing, 0.816439, 7
+4, pork sliders, 0.786219, 7
+4, Nice local beers, 0.70515, 8
+4, Nice comfy couches, 0.682388, 8
+4, Extra cool prices, 0.686745, 9
+4, good wine, 0.635572, 9
+5, standard airport fare, 0.73242, 0
+5, airport restaurant, 0.715114, 0
+5, Barfly blows Culinary, 0.733907, 1
+5, Culinary Dropout, 0.722763, 1
+5, sit-down place, 0.627083, 2
+5, little hiccup, 0.624399, 3
+5, airport, 0.909156, 5
+5, place, 0.721463, 5
+5, food, 0.852049, 6
+5, grilled cheese sliders, 0.743875, 6
+5, great little salad, 0.751951, 7
+5, chicken flatbread sandwich, 0.721054, 7
+5, Great french fries, 0.741088, 8
+5, great real cheese, 0.730346, 8
+5, feta cheese, 0.626132, 9

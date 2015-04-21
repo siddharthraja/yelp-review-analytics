@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+1, hispanic drag queen, 0.977017, 1
+1, money, 0.387501, 1
+1, restroom, 0.36992, 2
+1, thief, 0.355198, 2
+1, graveyard shift, 0.749874, 3
+1, time, 0.303136, 3
+2, atmosphere cloudy, 0.829774, 0
+2, nightlife, 0.469477, 0
+2, music boring, 0.782039, 1
+2, successful gay bar, 0.996961, 2
+2, bartenders, 0.444784, 2
+2, Spotlight, 0.410453, 6
+2, great location, 0.72049, 7
+3, nice staff, 0.824993, 0
+3, places, 0.5112, 0
+3, thanks, 0.61222, 2
+3, wet mop, 0.942936, 3
+3, bar tender, 0.873863, 3
+3, building, 0.527795, 8
+4, favorite spots, 0.90149, 0
+4, Los Angeles, 0.801824, 0
+4, movies, 0.536814, 6
+4, TVs, 0.619981, 7
+4, sports, 0.537262, 7
+4, bartenders, 0.657677, 8

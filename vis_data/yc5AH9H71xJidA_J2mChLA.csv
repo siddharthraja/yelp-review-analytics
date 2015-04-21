@@ -1,0 +1,93 @@
+rating, keyword, relevance, bucket
+1, Rosie McCaffrey, 0.916945, 0
+1, cell phone time, 0.880181, 0
+1, black haired waitress, 0.916337, 1
+1, unreliable dining compainions, 0.894143, 1
+1, credit card, 0.916919, 2
+1, quality food, 0.804786, 2
+1, debit card, 0.975097, 3
+1, blonde bartender, 0.902181, 3
+1, drinks, 0.89746, 4
+1, server, 0.877818, 4
+1, better way, 0.817944, 6
+1, green chiles, 0.804279, 6
+1, channel old school, 0.888325, 7
+1, reliable dining companions, 0.880758, 7
+1, pizza mozzarella sticks, 0.877109, 8
+1, shorter black hair, 0.871888, 8
+2, fretless bass player, 0.725952, 0
+2, unspeakably lame cover, 0.725182, 0
+2, ugly person bar, 0.72198, 1
+2, Johnny Rotten soundcheck, 0.721077, 1
+2, car owner beware, 0.734716, 2
+2, small strip mall, 0.729134, 2
+2, Irish Whiskey selection, 0.736819, 3
+2, Mac cover band, 0.724326, 3
+2, service, 0.800528, 4
+2, waitress, 0.746265, 4
+2, place, 0.906662, 5
+2, food, 0.79559, 5
+2, typical pub food, 0.726073, 6
+2, ........., 0.712284, 6
+2, staff member, 0.756566, 7
+2, Irish pub food, 0.740721, 7
+2, perfectly open table, 0.719781, 8
+2, past Fri night, 0.719209, 8
+2, good St. Patty, 0.727446, 9
+2, good drinks, 0.695776, 9
+3, typical Irish grub, 0.762635, 0
+3, night cover band, 0.738026, 0
+3, irish bars, 0.748641, 1
+3, Passable pub food, 0.74769, 1
+3, local irish band, 0.754679, 2
+3, drink order, 0.710281, 2
+3, irish car bombs, 0.841909, 3
+3, general bar food, 0.735725, 3
+3, place, 0.99961, 4
+3, bar, 0.829898, 4
+3, beer, 0.736224, 5
+3, friends, 0.72476, 5
+3, food, 0.833979, 6
+3, traditional Irish fare, 0.819264, 6
+3, fine Irish bar, 0.760692, 7
+3, Great Guinness Toast, 0.749315, 7
+3, friends drinks, 0.713251, 8
+3, tasty beer blends, 0.709839, 8
+3, Great Irish knick-knacks, 0.778704, 9
+3, great place, 0.732589, 9
+4, good Irish pub, 0.59242, 0
+4, live irish music, 0.562069, 0
+4, bullshit irish pub, 0.536435, 1
+4, irish car bombs, 0.531404, 2
+4, Rosie McCaffrey, 0.741901, 3
+4, Irish folk music, 0.544717, 3
+4, Rosie, 0.875214, 4
+4, irish pubs, 0.619087, 4
+4, irish pub, 0.988368, 5
+4, food, 0.641601, 5
+4, place, 0.661259, 6
+4, authentic irish pub, 0.581675, 6
+4, live music, 0.575609, 7
+4, meatloaf sandwich, 0.536524, 7
+4, Good pub vibe, 0.554771, 8
+4, real Irish Pub, 0.55264, 8
+4, good Irish bar, 0.556616, 9
+4, life- Rosie, 0.513994, 9
+5, pub food, 0.633884, 0
+5, total food buzz, 0.618514, 0
+5, Irish band playing, 0.613051, 1
+5, Slainte Rosie, 0.607935, 1
+5, Miss Rosie, 0.605366, 2
+5, little Irish bar, 0.625745, 3
+5, rosie, 0.826433, 4
+5, traditional Irish comfort-food, 0.621192, 4
+5, place, 0.974908, 5
+5, food, 0.826352, 5
+5, Best Irish pub, 0.648711, 6
+5, chips, 0.642777, 6
+5, irish pub, 0.782074, 7
+5, authentic Irish Pub, 0.699225, 7
+5, great live music, 0.78468, 8
+5, great food, 0.717434, 8
+5, great place, 0.7035, 9
+5, great time, 0.684641, 9

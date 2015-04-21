@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, one-third, 0.52921, 0
+1, Cathode, 0.691313, 1
+1, newness, 0.54985, 1
+1, red bull, 0.788901, 2
+1, time, 0.610474, 2
+1, receipt, 0.517301, 3
+1, drinks, 0.968523, 5
+1, atmosphere, 0.528625, 8
+4, DDD, 0.902592, 6
+4, ppl, 0.842323, 7
+4, club, 0.582424, 7
+5, chilly Charlotte nights, 0.954776, 0
+5, music video projection, 0.901301, 0
+5, past reviews, 0.773446, 1
+5, weekly drag shows, 0.887327, 2
+5, East/West Blvd station, 0.945808, 3
+5, previous reviewers comments, 0.932299, 3
+5, trendy South End, 0.920468, 4
+5, elevated dance floor, 0.898668, 6
+5, live DJs, 0.757212, 6
+5, Charlottes newest LGBT, 0.920667, 7
+5, super lounge awash, 0.91264, 7
+5, Great outdoor space, 0.966561, 8
+5, great music, 0.921555, 8
+5, chic martini club, 0.945595, 9
+5, friendly staff, 0.784592, 9

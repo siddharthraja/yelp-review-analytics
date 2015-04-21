@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, worst karaoke, 0.927568, 0
+1, HORRIBLE KARAOKE, 0.776532, 0
+1, clients requests, 0.447909, 1
+1, host, 0.246667, 1
+1, karaoke competition, 0.663286, 3
+1, Decent venue, 0.564022, 7
+1, Nice patio, 0.549768, 8
+3, foosball tables, 0.491011, 0
+3, high grades, 0.465272, 0
+3, pitch area, 0.484077, 2
+3, big mason jars, 0.991714, 3
+3, trashed local college, 0.950096, 3
+3, chainsaw beer, 0.510509, 6
+5, Silver Spur, 0.802337, 0
+5, official Duchess, 0.794855, 0
+5, face, 0.480918, 1
+5, title, 0.453585, 1
+5, go-to spot, 0.93206, 6
+5, Vincent guy, 0.777084, 6
+5, bartender friends, 0.805619, 7
+5, bouncer, 0.538626, 7
+5, multiple times, 0.728582, 8
+5, respect, 0.499097, 8

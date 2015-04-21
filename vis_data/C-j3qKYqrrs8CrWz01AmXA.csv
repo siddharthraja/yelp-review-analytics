@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, overmuscled meat head, 0.606241, 0
+1, plastic surgery victims, 0.605422, 0
+1, bar, 0.833575, 1
+1, bad Bartender, 0.612881, 1
+1, bartender, 0.965671, 2
+1, female bartender, 0.792293, 2
+1, Mocha drink, 0.383508, 3
+1, order, 0.278258, 3
+1, extra expensive designer, 0.586468, 6
+1, waiter friends, 0.403442, 6
+1, male bartenders, 0.401388, 7
+1, chocolate milk, 0.373194, 7
+1, right place, 0.420408, 8
+1, bus boy, 0.394878, 8
+1, relaxed environment, 0.389899, 9
+1, better service, 0.380188, 9
+2, Extremely bad service, 0.694031, 0
+2, end movie theater, 0.662475, 0
+2, rude demeanor, 0.556551, 1
+2, drink selection, 0.551186, 1
+2, BAD bar service, 0.698956, 2
+2, good conversation, 0.564088, 2
+2, bar, 0.811834, 3
+2, place, 0.690801, 3
+2, Salt, 0.711944, 4
+2, bartenders, 0.463932, 4
+2, hip hop music, 0.95813, 5
+2, contemporary style bar, 0.733676, 6
+2, Dance club loud, 0.699472, 6
+2, buffalo chicken spring, 0.890313, 7
+2, gigantic big screen, 0.711678, 7
+2, Good luck, 0.541213, 8
+2, swanky scottsdale lounge, 0.6774, 9
+3, upscale sports bar, 0.860172, 0
+3, quality fried potatoes, 0.834052, 0
+3, trendy Scottsdale Quarter, 0.879606, 2
+3, bartender, 0.789591, 2
+3, Turkey brie panino, 0.831148, 3
+3, couch seating, 0.72686, 3
+3, Scottsdale Quarter, 0.984814, 4
+3, wine connoisseur, 0.731727, 4
+3, Tuesday night, 0.928047, 5
+3, bar, 0.878915, 5
+3, good service, 0.853443, 6
+3, movie theater, 0.848514, 6
+3, cucumber mojito cocktail, 0.882576, 7
+3, lovely little beverages, 0.851501, 7
+3, Cool lounge place, 0.925017, 8
+3, Scottsdale social scene, 0.874725, 8
+3, awesome lounge area, 0.854677, 9
+3, interesting speciality cocktails, 0.822512, 9
+4, nice bar area, 0.612685, 0
+4, buffalo chicken egg, 0.588858, 0
+4, credit card receipt, 0.567108, 2
+4, Salt Lounge, 0.754761, 3
+4, cocktail goodness jump, 0.57087, 3
+4, salt, 0.979292, 5
+4, movie, 0.792934, 5
+4, ipic, 0.715817, 6
+4, drinks, 0.674195, 6
+4, mignon petite burgers, 0.824641, 7
+4, Old Town, 0.776773, 7
+4, yummy fillet mignon, 0.634704, 8
+4, great prize, 0.592389, 8
+4, nice little lounge, 0.639332, 9
+4, tasty salt, 0.57698, 9
+5, little HB message, 0.820955, 0
+5, 50 cent, 0.818239, 0
+5, Great Gatsby premier, 0.828854, 1
+5, flat screens, 0.815355, 1
+5, bullshit chick movie, 0.79408, 2
+5, Great start, 0.724051, 2
+5, college football bets, 0.798331, 3
+5, amazing sound, 0.719304, 3
+5, Thursday night events, 0.812446, 6
+5, bottle service, 0.747963, 6
+5, DJ Dave Matthias, 0.829988, 7
+5, tasty food, 0.745701, 7
+5, Salt, 0.946308, 8
+5, Trio Angus burgers, 0.828536, 8
+5, Terrific night club, 0.855982, 9
+5, get-you-on-your-feet musical stylings, 0.841223, 9

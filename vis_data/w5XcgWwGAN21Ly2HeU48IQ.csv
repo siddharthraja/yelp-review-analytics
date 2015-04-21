@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, Peter piper pizza, 0.866289, 0
+1, pizza plate, 0.734856, 0
+1, quick iphone yelp, 0.803961, 1
+1, inch pizza, 0.712436, 1
+1, juicy slice, 0.614618, 2
+1, Sauce locations, 0.607906, 2
+1, order, 0.514488, 3
+1, dollar, 0.476921, 3
+1, pizza, 0.96983, 4
+1, place, 0.479564, 4
+1, pizzas, 0.495789, 6
+1, waiter, 0.438656, 6
+1, mozzarella sandwhich, 0.61582, 7
+1, hit b/c, 0.615435, 7
+1, toasty bread kind, 0.793986, 8
+1, jilted customers, 0.588751, 9
+2, Sam fox restaurants, 0.828584, 0
+2, crusty bread, 0.658266, 0
+2, upscale fast food, 0.852197, 1
+2, scant napkins, 0.646839, 1
+2, FRC eateries, 0.659339, 2
+2, average quality, 0.64749, 2
+2, time, 0.711112, 3
+2, avocado salad, 0.67759, 3
+2, salad, 0.681394, 4
+2, kids, 0.659331, 4
+2, place, 0.711968, 6
+2, better places, 0.651771, 6
+2, chicken noodle soup, 0.83442, 7
+2, chicken pesto pizza, 0.804735, 7
+2, star rating, 0.918771, 8
+3, price Pizza Hut, 0.712561, 0
+3, great pizza joints, 0.71167, 0
+3, real pizza, 0.770081, 2
+3, Real pizza crust, 0.747945, 2
+3, REAL white pizza, 0.736183, 3
+3, regular table service, 0.581614, 3
+3, great pizza, 0.815721, 4
+3, pizza, 0.930219, 5
+3, food, 0.682183, 5
+3, mushroom pizza, 0.676187, 6
+3, thin-crust pizza, 0.656684, 6
+3, crust pizza, 0.687744, 7
+3, Pizza Lovers, 0.67486, 7
+3, cheese pizza, 0.663297, 8
+3, Pepperoni pizza, 0.662883, 8
+3, great combo, 0.594019, 9
+3, good meal, 0.565437, 9
+4, crimini mushroom pizza, 0.605758, 0
+4, pizza crust, 0.534526, 0
+4, salad dish, 0.450028, 2
+4, crust pizza, 0.550357, 3
+4, service, 0.482062, 4
+4, salad, 0.736156, 5
+4, sauce, 0.670754, 5
+4, pizza, 0.926446, 6
+4, onion pizza, 0.551745, 6
+4, healthy kinda pizza, 0.563011, 7
+4, potato pizza, 0.535699, 7
+4, star pizza place, 0.629948, 8
+4, sausage pizza, 0.598687, 8
+4, salad pizza, 0.61477, 9
+4, free pizza, 0.564764, 9
+5, crust pizza, 0.611227, 0
+5, nut Gorgonzola salad, 0.561602, 0
+5, pizza crusts, 0.580106, 2
+5, Gorgonzola salad, 0.573457, 2
+5, American pizza, 0.545815, 3
+5, pizza, 0.992064, 5
+5, Sauce, 0.853762, 6
+5, Chicken Caesar Pizza, 0.657132, 6
+5, Chicken Cesar pizza, 0.710528, 7
+5, typical heavy pizza, 0.671845, 7
+5, Caesar salad pizza, 0.718717, 8
+5, chicken sausage pizza, 0.638366, 8
+5, Sauce Pizza, 0.722687, 9
+5, favorite pizza place, 0.666834, 9

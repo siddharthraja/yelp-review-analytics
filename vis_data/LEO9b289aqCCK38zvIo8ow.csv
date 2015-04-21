@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+3, rate wine bar, 0.907695, 0
+3, mushroom pate, 0.595937, 0
+3, slow service, 0.568265, 1
+3, bar snacks, 0.556008, 2
+3, food, 0.458862, 2
+3, selection, 0.268182, 3
+3, calamari, 0.293482, 6
+3, olives, 0.282862, 6
+3, cute little card, 0.881109, 7
+3, yum, 0.292178, 7
+3, lovely Italian antipasto, 0.905597, 8
+3, huge wine dispenser, 0.90486, 8
+3, absolute gem, 0.621049, 9
+3, wine flights, 0.587165, 9
+4, Red Wine Flight, 0.630324, 0
+4, wee wine bar, 0.625861, 0
+4, Wine bars, 0.563052, 1
+4, dark wood, 0.504206, 1
+4, basement level, 0.589317, 2
+4, wine varieties, 0.550418, 2
+4, enter Divino Enoteca, 0.721242, 3
+4, George IV Bridge, 0.683398, 3
+4, Divino Enoteca, 0.929755, 5
+4, wine, 0.837103, 5
+4, wine bar, 0.629758, 6
+4, dark timber tables, 0.573924, 6
+4, self-service wine tasting, 0.62114, 7
+4, yelpers food, 0.501899, 7
+4, nice balsamic reduction, 0.589967, 8
+4, wine bottles, 0.588858, 8
+4, sweet potato fries, 0.586074, 9
+4, Monday night birthday, 0.577643, 9
+5, massive wine rack, 0.85688, 0
+5, London wine bar, 0.829124, 0
+5, street view map, 0.817762, 1
+5, beaten track, 0.72055, 2
+5, massive Parmesan cheese, 0.81128, 3
+5, scattered group, 0.713069, 3
+5, place, 0.741916, 4
+5, Divino, 0.871539, 6
+5, different times, 0.793293, 6
+5, wine, 0.937514, 7
+5, Wine Flight experience, 0.866293, 7
+5, Yelp Wine Club, 0.858518, 8
+5, tall Italian waiter, 0.825419, 8
+5, brilliant impromptu wine, 0.85114, 9
+5, tasty Tuscan bean, 0.793378, 9

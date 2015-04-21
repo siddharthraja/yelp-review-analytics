@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, Corn Beef, 0.965136, 0
+1, Horrible staff, 0.804938, 0
+1, Terrible attitude, 0.803765, 1
+1, plate, 0.241685, 1
+1, time, 0.210056, 6
+1, life, 0.209631, 6
+1, meal, 0.247456, 7
+2, crab caprese salad, 0.959665, 0
+2, oldest Irish pub, 0.898966, 0
+2, dire need, 0.625465, 1
+2, new paint, 0.593364, 1
+2, wrong glass, 0.646667, 2
+2, stomach, 0.382895, 2
+2, long time, 0.632495, 3
+2, daylight, 0.389282, 3
+2, dining destination youve, 0.869831, 6
+2, glass lamps, 0.660408, 6
+2, band play, 0.636546, 7
+2, lunch, 0.46572, 7
+2, good wash, 0.683893, 8
+2, St Patricks, 0.671168, 8
+3, fried pickles, 0.983957, 0
+3, deep fried pickles, 0.957067, 0
+3, corned beef, 0.979808, 1
+3, strip district, 0.956128, 1
+3, widely spaced tables, 0.948491, 2
+3, foolish mistake, 0.844957, 2
+3, crazy vibe, 0.845884, 3
+3, ta make, 0.845057, 3
+3, live music, 0.853601, 6
+3, good band, 0.84681, 6
+3, size appetizer portion, 0.971525, 7
+3, tangy mustard, 0.846901, 7
+3, Great Guinness Toast, 0.993629, 8
+3, decent Reuben sandwich, 0.936832, 8
+4, standard American-Irish pub, 0.890665, 0
+4, nice little pato, 0.827157, 0
+4, lunch time, 0.754855, 1
+4, limited whiskey options, 0.824158, 2
+4, lunch options, 0.743809, 2
+4, Dark Bomb, 0.727061, 3
+4, tilapia sandwich, 0.723591, 3
+4, Guinness, 0.777874, 5
+4, live music, 0.945344, 6
+4, Irish Dancing night, 0.823457, 6
+4, nice neighborhood bar, 0.850676, 7
+4, best Irish pub, 0.843108, 7
+4, authentic Irish Pub, 0.845362, 8
+4, truly Irish ambiance, 0.808768, 8
+4, good place, 0.736074, 9
+4, nice chat, 0.729188, 9
+5, nightly specials, 0.809861, 0
+5, Fish fry, 0.709064, 0
+5, reuben sandwich, 0.756295, 2
+5, large group, 0.696486, 2
+5, acoustic guitar acts, 0.967343, 3
+5, tempo rock music, 0.966211, 3
+5, live bands, 0.712317, 6
+5, strip district, 0.769154, 7
+5, reuben rolls, 0.748285, 7
+5, excellent place, 0.716391, 8
+5, H&F, 0.538683, 8
+5, awesome place, 0.709836, 9
+5, good beer, 0.681679, 9

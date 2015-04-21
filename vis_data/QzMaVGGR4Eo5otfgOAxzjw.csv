@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, waiter number, 0.971277, 0
+1, new vodka names, 0.92192, 0
+1, live band, 0.796603, 1
+1, bar, 0.880315, 2
+1, bar area, 0.8754, 2
+1, standard mixed drinks, 0.886225, 3
+1, latin flavored cuisine, 0.859013, 3
+1, restaurant, 0.881508, 4
+1, manager, 0.806795, 4
+1, table, 0.943254, 5
+1, food, 0.908631, 5
+1, extensive martini list, 0.896495, 6
+1, Effen Black Cherry, 0.880353, 6
+1, lychee infused vodka, 0.929042, 7
+1, high hopes, 0.887454, 7
+1, awesome infused vodka, 0.903394, 8
+1, dependable ROKA AKOR, 0.87722, 8
+1, sweet potato fries, 0.849503, 9
+2, cranberry chutney mayo, 0.86464, 0
+2, basic deli sandwich, 0.863914, 0
+2, good sign, 0.798895, 1
+2, slow time, 0.797486, 1
+2, small bar area, 0.898156, 2
+2, service, 0.871825, 2
+2, average wedding food, 0.875874, 3
+2, Yelper John H., 0.858968, 3
+2, Urban, 0.902008, 4
+2, time, 0.866384, 4
+2, food, 0.973637, 5
+2, place, 0.868864, 5
+2, Good luck Urban, 0.893424, 6
+2, available retail space, 0.868272, 6
+2, grilled marinated skirt, 0.862597, 7
+2, sweet goody bag*, 0.861573, 7
+2, nice event, 0.795429, 8
+2, nice gentleman, 0.790741, 8
+3, Typical Scottsdale Service, 0.825914, 0
+3, Living Social deal, 0.809014, 0
+3, -D  Aside, 0.757883, 2
+3, little more time, 0.725725, 2
+3, latin fusion, 0.81447, 3
+3, martini bar, 0.745392, 3
+3, Friday night, 0.930368, 6
+3, carne asada, 0.826167, 6
+3, Large spacious walking, 0.8376, 7
+3, delicious remoulade, 0.740445, 7
+3, skirt steak skewers, 0.848837, 8
+3, chocolate martini, 0.843733, 8
+3, fruity martini, 0.753598, 9
+4, Old Town Scottsdale, 0.844185, 0
+4, traditional cuban sandwich, 0.832002, 0
+4, bar/club scene, 0.741797, 1
+4, sat. night, 0.7415, 1
+4, musical martinis, 0.860975, 2
+4, Little deep-fried pastries, 0.843376, 2
+4, cuban places, 0.727428, 3
+4, ropa vieja, 0.863911, 6
+4, Fe fettuccine alfredo, 0.845066, 6
+4, Mambo Cubano, 0.901594, 7
+4, favorite green things, 0.832929, 7
+4, sweet potato fries., 0.853739, 8
+4, attentive service, 0.765315, 8
+4, Great place, 0.7512, 9
+4, fresh flavors, 0.749954, 9
+5, perfect Cuban touch, 0.894389, 0
+5, main dining area, 0.893458, 0
+5, girl friend, 0.751516, 1
+5, Saturday night, 0.74568, 1
+5, dry Martini, 0.813388, 3
+5, smaller bar, 0.712635, 3
+5, cuban cuisine, 0.730873, 6
+5, patio scene, 0.754211, 7
+5, happy hour spot, 0.710805, 7
+5, Artichoke Orzo pasta, 0.943392, 8
+5, great location, 0.899025, 8
+5, old town, 0.972798, 9
+5, amazing hidden gem, 0.966797, 9

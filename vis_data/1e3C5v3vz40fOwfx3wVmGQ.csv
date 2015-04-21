@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, corner bar thing, 0.953793, 1
+1, SCRA football, 0.539625, 1
+1, favorite neighborhood pub, 0.941055, 2
+1, Olde Providence staple, 0.956864, 7
+2, tartar sauce, 0.756928, 0
+2, drink refills, 0.685298, 0
+2, fried fish sandwich, 0.998185, 1
+2, bun, 0.553947, 1
+2, fried pickles, 0.826117, 6
+2, lemon juice, 0.710946, 6
+2, place, 0.542184, 7
+3, chicken ceasar wrap, 0.815842, 0
+3, draft beers, 0.609562, 0
+3, little kids, 0.576715, 1
+3, line, 0.435487, 1
+3, bar area, 0.584596, 2
+3, gluten allergy, 0.57937, 2
+3, bar food, 0.590691, 3
+3, different items, 0.585582, 3
+3, service charge, 0.909005, 5
+3, bottled brews, 0.62014, 6
+3, long list, 0.614468, 6
+3, Spicy Chicken Sandwich, 0.812112, 7
+3, chicken wrap meal, 0.785983, 7
+3, optional build-your-own hamburger, 0.831516, 8
+3, favorite places, 0.614878, 8
+3, combo sports bar/roadside, 0.809313, 9
+3, cafe decor place, 0.799908, 9
+4, standard tavern fare, 0.852446, 0
+4, buffalo chicken wrap, 0.852394, 0
+4, average Bar food, 0.751739, 1
+4, sports bar, 0.705766, 1
+4, new place, 0.62174, 2
+4, bar, 0.805518, 3
+4, bar food, 0.797223, 3
+4, mac/cheese,or onion rings, 0.674421, 4
+4, Friday night, 0.838712, 6
+4, Friday night regulars, 0.816117, 6
+4, quintessential neighborhood pub, 0.814077, 7
+4, bison burger, 0.791699, 7
+4, beer  selection, 0.996781, 8
+4, Great beer selection, 0.858035, 8
+4, fun casual place, 0.728246, 9
+4, good job, 0.704277, 9
+5, Favorite sports bar, 0.616837, 0
+5, tater tots, 0.57607, 0
+5, weird texture, 0.471204, 1
+5, coleslaw, 0.378512, 1
+5, usual shredded cabbage, 0.629975, 2
+5, pub food, 0.521788, 3
+5, average pub, 0.493789, 3
+5, Spicy chicken sandwich, 0.72968, 6
+5, food, 0.729226, 6
+5, great local beer, 0.644586, 7
+5, fried chicken, 0.542141, 7
+5, good beer selection, 0.903701, 8
+5, chalk board walls, 0.642222, 8
+5, food Good service, 0.645826, 9
+5, great bar menu, 0.644243, 9

@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, jerk chicken salad, 0.669926, 0
+1, red snapper, 0.646139, 0
+1, menu multiple times, 0.590775, 1
+1, poor service, 0.586353, 1
+1, jerk chicken, 0.725425, 2
+1, food poisoning, 0.598532, 2
+1, jerk wings, 0.652253, 3
+1, Red Stripe, 0.647127, 3
+1, menu, 0.747876, 4
+1, drinks, 0.732721, 4
+1, food, 0.919037, 5
+1, table, 0.70477, 5
+1, pina colada, 0.609292, 6
+1, Better Jamaican food, 0.604153, 6
+1, dining experience, 0.609887, 7
+1, dinner, 0.606591, 7
+1, good food, 0.675206, 8
+1, Jamaican food, 0.622024, 8
+1, good quality food, 0.635691, 9
+1, food donwtown Phoenix, 0.603541, 9
+2, rum punch, 0.529705, 0
+2, jerk chicken entree, 0.502431, 0
+2, jerk prawns, 0.520381, 1
+2, spicy food, 0.494049, 1
+2, Rum Bar, 0.608814, 2
+2, jamaican restaurant, 0.509626, 2
+2, jerk chicken, 0.662579, 3
+2, downtown Phoenix, 0.4941, 3
+2, food, 0.909042, 4
+2, menu, 0.599473, 4
+2, place, 0.759064, 5
+2, rum, 0.628124, 5
+2, table, 0.498608, 6
+2, Rum Sea Scallops, 0.492896, 6
+2, cuba libre, 0.549941, 7
+2, spring rolls, 0.542884, 7
+2, mango chutney, 0.508163, 8
+2, sweet potato, 0.497561, 8
+3, Jerk Shrimp salad, 0.56066, 0
+3, factory farm chicken, 0.555843, 0
+3, jerk chicken entree, 0.597138, 2
+3, rum bar, 0.586302, 2
+3, plantains, 0.572792, 3
+3, traditional dry-rub jerk, 0.567793, 3
+3, sweet potato pudding, 0.586345, 4
+3, time, 0.578636, 4
+3, jerk chicken, 0.908147, 5
+3, food, 0.760036, 5
+3, avocado spring rolls, 0.671494, 6
+3, plantain avocado spring, 0.649982, 6
+3, Jerk Chicken Salad, 0.590202, 7
+3, mango chutney, 0.589019, 7
+3, spicy jerk chicken, 0.60307, 8
+3, good food, 0.564865, 8
+4, coconut curry tofu, 0.625606, 0
+4, Coconut Curried Tofu, 0.60213, 0
+4, birthday dinner Breadfruit, 0.619718, 1
+4, spicy food, 0.598235, 3
+4, dirty jerk shack, 0.595458, 3
+4, carrot juice, 0.855563, 4
+4, ice cream, 0.801951, 4
+4, jerk chicken, 0.997032, 5
+4, food, 0.856813, 5
+4, place, 0.687489, 6
+4, brown chicken stew, 0.68708, 6
+4, spring rolls, 0.888778, 7
+4, avocado spring rolls, 0.882209, 7
+4, downtown phoenix, 0.644552, 8
+4, Curry Chicken Tofu, 0.633487, 8
+4, delicious mango chutney, 0.60107, 9
+4, BEST Jamaican food, 0.594996, 9
+5, grilled jerk chicken, 0.465922, 0
+5, Kingston Rum Punch, 0.462466, 0
+5, Rum Bar experience, 0.451896, 2
+5, Breadfruit im surprise, 0.429427, 3
+5, huge rum person, 0.421766, 3
+5, dish, 0.414449, 4
+5, jerk chicken, 0.991852, 5
+5, rum bar, 0.809939, 5
+5, Jamaican food, 0.484871, 6
+5, drinks, 0.479699, 6
+5, avocado spring rolls, 0.662015, 7
+5, brown stew chicken, 0.594933, 7
+5, rum punch, 0.477019, 8
+5, delicious rum drink, 0.459895, 8
+5, great experience, 0.403317, 9

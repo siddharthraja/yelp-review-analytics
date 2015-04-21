@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+1, business, 0.39289, 0
+1, cab ride, 0.980115, 1
+1, strip, 0.583904, 1
+4, bout, 0.772839, 0
+4, domestics, 0.75527, 0
+4, obnoxious people, 0.915636, 1
+4, nice spot, 0.896414, 1
+4, place, 0.787163, 2
+4, PT, 0.730061, 3
+4, BLT, 0.761163, 6
+4, sliders, 0.736513, 7
+4, bartenders, 0.747356, 8
+4, regulars, 0.746836, 8
+5, Theres couches, 0.644074, 0
+5, bigger group, 0.463836, 0
+5, video poker bars, 0.860944, 2
+5, World Series games, 0.743957, 3
+5, screen TVs galore, 0.754742, 6
+5, egg breakfast, 0.501541, 6
+5, Shila, 0.913844, 7
+5, Video poker machines, 0.715794, 7
+5, beautiful bartender, 0.566347, 8

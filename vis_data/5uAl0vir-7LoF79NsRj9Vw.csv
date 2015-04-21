@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+2, Karate Karaoke, 0.89563, 0
+2, male bartenders, 0.868873, 0
+2, kinda rude, 0.985102, 2
+2, female bartender, 0.936144, 2
+2, male bartender, 0.921413, 3
+2, Super rude, 0.848306, 3
+2, rating, 0.563367, 6
+2, speakers, 0.562249, 6
+2, Neat place, 0.871706, 7
+2, hodge podge, 0.916013, 8
+2, Vegas memorabilia, 0.861143, 8
+2, good laugh, 0.860551, 9
+4, miniature golf course, 0.715197, 0
+4, large open dance, 0.683342, 0
+4, Dirty Joke, 0.741817, 1
+4, Geechy Guy, 0.559347, 1
+4, long central bar, 0.689042, 2
+4, golf clubs, 0.578435, 2
+4, dirty minds, 0.588738, 3
+4, kinky stuff, 0.572149, 3
+4, indoor mini golf, 0.679751, 6
+4, good time, 0.576512, 6
+4, golf course, 0.73601, 7
+4, best thing, 0.581135, 7
+4, Swingers Club, 0.969193, 8
+4, Las Vegas, 0.813258, 8
+4, Old Las Vegas, 0.692697, 9
+4, pretty cool layout, 0.69018, 9

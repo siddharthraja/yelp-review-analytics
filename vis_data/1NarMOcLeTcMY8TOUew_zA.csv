@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, drink order, 0.68904, 0
+1, Multiple food runners, 0.631134, 0
+1, service, 0.858477, 1
+1, terrible service, 0.680563, 1
+1, Salty Senorita, 0.831862, 2
+1, old salty, 0.670141, 2
+1, black eyed peas, 0.688769, 3
+1, food order, 0.628821, 3
+1, food, 0.979679, 4
+1, drinks, 0.872276, 4
+1, old town, 0.643514, 5
+1, menu, 0.637182, 5
+1, spring training, 0.74491, 6
+1, drink, 0.725699, 6
+1, friends ordered tacos, 0.686622, 7
+1, cold drinks, 0.637273, 7
+1, new building, 0.621833, 8
+1, extensive drink menu, 0.622148, 9
+2, house margarita, 0.615591, 0
+2, Expensive new menu, 0.596908, 0
+2, regular Salty margarita, 0.645147, 1
+2, worst service, 0.532999, 1
+2, tiny tacos, 0.578075, 2
+2, water glass, 0.572399, 2
+2, service, 0.915972, 3
+2, live music, 0.57972, 3
+2, tacos, 0.754118, 4
+2, old menu, 0.659461, 4
+2, food, 0.826263, 5
+2, salsa, 0.817086, 5
+2, salty senorita, 0.806857, 6
+2, old salty senorita, 0.806285, 6
+2, margarita, 0.716651, 7
+2, order chicken burrito, 0.596261, 7
+2, Great new building, 0.591486, 8
+2, Mexican food, 0.591174, 8
+2, fundado cheese dip, 0.586064, 9
+3, dollar tacos, 0.50407, 0
+3, straight restaurant vibe, 0.464465, 0
+3, new Salty Senorita, 0.489188, 1
+3, brunch menu, 0.46011, 1
+3, free chips, 0.489083, 2
+3, Old Town, 0.461886, 2
+3, server, 0.485843, 3
+3, sizzling steak fajitas, 0.466193, 3
+3, menu, 0.647308, 4
+3, food, 0.628941, 4
+3, tacos, 0.905718, 5
+3, place, 0.734603, 5
+3, street tacos, 0.632762, 6
+3, drinks, 0.555396, 6
+3, maple jalepeno tacos, 0.619289, 7
+3, short rib tacos, 0.618782, 7
+3, completely different gal, 0.470907, 8
+3, love love bacon, 0.467917, 8
+3, pretty cool place, 0.485457, 9
+3, good patio, 0.442543, 9
+4, transformation Salty Senorita, 0.844157, 0
+4, street tacos, 0.829615, 0
+4, deep fried tortilla, 0.758305, 1
+4, Salty senorita margarita, 0.818134, 2
+4, Buca di Beppo, 0.759233, 2
+4, shotty college joint, 0.789308, 3
+4, Spring Training game, 0.777026, 3
+4, food, 0.82079, 4
+4, service, 0.79489, 5
+4, tacos, 0.927457, 6
+4, great starting point, 0.81556, 6
+4, sand great mimosas, 0.80218, 7
+4, new locations food, 0.801112, 7
+4, Great new atmosphere, 0.851861, 8
+4, different tacos, 0.84041, 8
+4, Great tacos, 0.844932, 9
+4, new location, 0.843268, 9
+5, carne asada taco, 0.740519, 0
+5, Mexican Motor Oil, 0.692676, 0
+5, bloody mary bar, 0.860442, 1
+5, appetizing menu, 0.61472, 1
+5, row parking spot, 0.679229, 3
+5, tacoyaki table, 0.618761, 6
+5, place, 0.618717, 6
+5, carne asada, 0.857053, 7
+5, Short Rib Tacos, 0.764935, 7
+5, grilled shrimp tacos, 0.963635, 8
+5, best freak'n tacos, 0.77722, 8
+5, new manager, 0.70403, 9
+5, fun waitress Annalea, 0.682282, 9

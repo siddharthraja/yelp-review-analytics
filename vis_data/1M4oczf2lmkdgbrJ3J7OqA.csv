@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, thirty-two dollar price, 0.739605, 0
+1, bad meal, 0.726263, 0
+1, kitchen bar, 0.737975, 1
+1, food industry, 0.715133, 1
+1, regular menu, 0.750203, 2
+1, current economic environment, 0.727333, 2
+1, food, 0.917014, 3
+1, baby carrots, 0.754596, 3
+1, underhanded business practices, 0.739345, 4
+1, entree, 0.738419, 4
+1, restaurant, 0.839621, 5
+1, waiter, 0.792284, 5
+1, dish, 0.751336, 6
+1, bottled water service, 0.7446, 6
+1, vegetable risotto, 0.765764, 7
+1, better food quality, 0.763303, 7
+1, Biltmore area, 0.740074, 8
+1, offering-the scallop mousse, 0.729892, 8
+2, veal cheeks, 0.837502, 0
+2, Prix Fixe menu, 0.818633, 0
+2, kitchen bar, 0.858469, 1
+2, crush lounge, 0.792182, 1
+2, wine lounge. ok, 0.805892, 2
+2, mediocre food, 0.799181, 2
+2, good food, 0.825207, 3
+2, absurdly ridiculous unisex, 0.804773, 3
+2, Foie Gras, 0.966871, 4
+2, food, 0.965464, 4
+2, menu, 0.917508, 5
+2, service, 0.854, 5
+2, truffle-infused filet mignon, 0.892644, 6
+2, Christopher, 0.846192, 6
+2, Biltmore shopping center, 0.812214, 7
+2, better experience, 0.807668, 7
+2, dinner table service, 0.809221, 8
+2, neat sink/rock sculpture/fountain, 0.796676, 9
+2, wonderful fresh soups, 0.793173, 9
+3, olive oil sauce, 0.687711, 0
+3, cream sauce, 0.687352, 0
+3, dark chocolate sorbet, 0.710428, 2
+3, filet mignon, 0.697775, 2
+3, good French restaurant, 0.731322, 3
+3, parking garage, 0.698495, 3
+3, food, 0.854725, 4
+3, sauce, 0.78342, 4
+3, wild mushroom soup, 0.770952, 5
+3, dish, 0.730825, 5
+3, duck confit salad, 0.918925, 6
+3, Christopher, 0.762547, 6
+3, good food, 0.716215, 7
+3, truffle fries, 0.707332, 7
+3, good neighborhood restaurant, 0.703023, 8
+3, potato au gratin, 0.696091, 8
+3, good place, 0.702353, 9
+3, open kitchen, 0.694495, 9
+4, restaurant kitchen bar, 0.589115, 0
+4, goat cheese salad, 0.587601, 0
+4, hip-a-riffic wine bar, 0.585003, 2
+4, French food isnt, 0.58852, 3
+4, service, 0.630025, 4
+4, foie gras, 0.602096, 4
+4, goat cheese, 0.919549, 5
+4, food, 0.761388, 5
+4, crush lounge, 0.685796, 6
+4, kitchen bar, 0.651849, 6
+4, wine list, 0.648545, 7
+4, duck confit, 0.643129, 7
+4, good wine selection, 0.62625, 8
+4, happy hour prices, 0.595329, 8
+4, special occasion place, 0.604773, 9
+4, great wine list, 0.596564, 9
+5, foie gras course, 0.682513, 0
+5, red pepper soup, 0.68117, 0
+5, Christopher doesn`t disappoint, 0.691103, 2
+5, Merc Bar menu, 0.682471, 2
+5, restaurant week menu, 0.690339, 3
+5, best restaurant, 0.675303, 4
+5, Christopher, 0.922486, 5
+5, restaurant, 0.827296, 5
+5, lobster pot pie, 0.934142, 6
+5, foie gras, 0.901871, 6
+5, wine list, 0.769438, 7
+5, goat cheese, 0.72896, 7
+5, great experience, 0.747017, 8
+5, time, 0.695336, 8
+5, Biltmore Fashion Park, 0.795769, 9
+5, great wine list, 0.71889, 9

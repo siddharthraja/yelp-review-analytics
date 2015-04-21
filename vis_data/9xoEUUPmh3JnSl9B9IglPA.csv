@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, Sunday night, 0.620557, 0
+1, steak sandwich, 0.618705, 0
+1, small plate bar, 0.931361, 1
+1, best night, 0.6186, 1
+1, items, 0.273565, 2
+1, businesses, 0.272542, 2
+1, cup, 0.36027, 3
+1, farmer, 0.278273, 3
+1, pear, 0.76851, 6
+1, arugula salad, 0.746865, 6
+1, CPCC students, 0.5855, 7
+1, creme fraiche, 0.582488, 7
+1, menu, 0.276947, 8
+1, waitress, 0.319928, 9
+1, hostess, 0.308944, 9
+2, French Onion soup, 0.610802, 0
+2, linen table clothes, 0.591872, 0
+2, new food, 0.462389, 1
+2, bad taste, 0.45646, 1
+2, customers spending money, 0.585588, 2
+2, disappointing experience, 0.493514, 2
+2, short rib, 0.902068, 3
+2, Crab cake sliders, 0.658961, 3
+2, food, 0.591103, 4
+2, way, 0.369959, 4
+2, short rib dish, 0.779608, 6
+2, Incredible food, 0.471104, 6
+2, beer list, 0.457093, 7
+2, better place, 0.484699, 8
+2, Margarita-with Patron, 0.470031, 8
+2, successful foodie spot, 0.579708, 9
+3, pimento cheese slider, 0.891767, 0
+3, jack pot, 0.770481, 0
+3, huge ordering, 0.729305, 2
+3, good things, 0.728615, 2
+3, fried pickles, 0.999088, 3
+3, BIG fan, 0.712295, 3
+3, ton, 0.541621, 4
+3, cute gift shop, 0.983776, 6
+3, waffles kind, 0.786769, 6
+3, all-time favorite restaurant, 0.981515, 7
+3, Decent beer selection, 0.906464, 7
+3, pretty high expectations, 0.929143, 8
+3, Holy chicken, 0.818557, 8
+3, Elizabeth Creamery, 0.764177, 9
+3, great street, 0.761022, 9
+4, beef short rib, 0.754664, 0
+4, 18-hour short rib, 0.693839, 0
+4, Drunken Short Rib, 0.701834, 1
+4, Yelp lists Smalls, 0.81506, 2
+4, Drunken Short Ribs, 0.753653, 2
+4, Smalls advice, 0.736896, 3
+4, Short Rib sliders, 0.724807, 3
+4, yelp stars, 0.956615, 4
+4, pimento sliders, 0.734989, 4
+4, short rib, 0.884297, 5
+4, Eggplant Stack, 0.787767, 5
+4, smalls, 0.96234, 6
+4, fried chicken, 0.759868, 6
+4, korean bbq wings, 0.821732, 7
+4, flourless chocolate cake, 0.759388, 7
+4, korean bbq, 0.825307, 8
+4, Good overall vibe, 0.699492, 8
+4, Korean BBQ sauce, 0.756971, 9
+4, gin fizz, 0.696088, 9
+5, Salted Caramel Butter, 0.864673, 0
+5, Infused Yukon Gold, 0.743343, 0
+5, short rib sliders, 0.828167, 1
+5, cut french fries, 0.727265, 1
+5, short rib, 0.871883, 2
+5, 18-Hour Short Rib, 0.751532, 3
+5, crispy dill poppers, 0.741905, 3
+5, food, 0.836716, 4
+5, fried chicken, 0.791228, 4
+5, chicken, 0.892568, 5
+5, smalls, 0.808193, 5
+5, fried pickles, 0.836369, 6
+5, waffles, 0.755903, 6
+5, crispy chicken, 0.872886, 7
+5, NC draft beer, 0.837334, 7
+5, caramel butter, 0.922752, 8
+5, citrus vinaigrette, 0.751532, 8

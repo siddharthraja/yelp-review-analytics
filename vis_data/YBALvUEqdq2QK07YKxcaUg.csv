@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, credit card, 0.994408, 0
+1, social security card, 0.914595, 0
+1, horrible customer service, 0.900235, 1
+1, dipshit manager, 0.879241, 1
+1, so-called night club, 0.908057, 2
+1, high class strip, 0.892637, 2
+1, freaky fun scenes, 0.900447, 3
+1, Groupon pub crawl, 0.882224, 3
+1, table, 0.820396, 4
+1, people, 0.821939, 5
+1, free ticket voucher, 0.933721, 6
+1, Nate, 0.850846, 6
+1, previous reviewer comment, 0.891134, 7
+1, good sport, 0.827543, 7
+1, better freak, 0.80906, 8
+1, real nightclub, 0.807941, 8
+2, yacht club vodka, 0.928913, 0
+2, high price, 0.760797, 0
+2, epic fail, 0.791761, 1
+2, GA people, 0.748009, 1
+2, dance floor, 0.790126, 2
+2, general admission, 0.777496, 2
+2, tables, 0.598033, 3
+2, ticketmaster, 0.558295, 3
+2, bottle, 0.604396, 6
+2, good pregame, 0.744034, 7
+2, free Jell-O shots, 0.952278, 8
+2, free drinks, 0.944265, 8
+2, privilege, 0.552878, 9
+2, markup, 0.545217, 9
+3, Pee Wee Herman, 0.89297, 0
+3, Rose Rabbit Lie, 0.879713, 0
+3, crush beer cans, 0.901787, 1
+3, kinda boring, 0.790965, 1
+3, cheesy celebrity look-a-likes, 0.963152, 2
+3, little people, 0.784631, 2
+3, cheesy vaudeville acts, 0.947927, 3
+3, giant tits, 0.783989, 3
+3, girl, 0.655792, 4
+3, nightclub experience, 0.772972, 6
+3, guest line, 0.749344, 6
+3, small cabaret-type theater, 0.940988, 7
+3, douchey nightclub, 0.792762, 7
+4, Las Vegas club, 0.920813, 0
+4, typical Vegas club, 0.891823, 0
+4, lukewarm reviews, 0.783004, 1
+4, drinks, 0.669452, 1
+4, bottle service, 0.811117, 2
+4, little people, 0.800207, 2
+4, usual Vegas clubs, 0.960606, 3
+4, dance floor, 0.804829, 3
+4, best friend couple, 0.915949, 6
+4, service girls, 0.791498, 6
+4, place, 0.853046, 7
+4, casual vibe, 0.806055, 7
+4, hip hop music, 0.926056, 8
+4, wild great time, 0.906809, 8
+4, great service, 0.77396, 9
+5, Las Vegas people, 0.711924, 0
+5, right price trash, 0.693605, 0
+5, celebrity impersonation routines, 0.697678, 1
+5, cookie monster, 0.82767, 2
+5, Fuck Hakkasan Nightclub, 0.675975, 2
+5, big bird, 0.699694, 3
+5, good standing spot, 0.682113, 3
+5, place, 0.741617, 4
+5, Las Vegas, 0.981088, 6
+5, different madhouse kind, 0.683309, 6
+5, people worth meeting, 0.715906, 7
+5, Best club, 0.702281, 7
+5, amazing time, 0.716043, 8
+5, good time, 0.697721, 8
+5, entire night, 0.613048, 9

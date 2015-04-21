@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+2, best cheese curds, 0.79417, 0
+2, Wisconsin townie bar, 0.711331, 0
+2, lucky stars, 0.61707, 1
+2, chicken sandwiches, 0.610651, 1
+2, poor layout, 0.612211, 2
+2, Madison, 0.542256, 2
+2, cheese curds, 0.924339, 3
+2, DRY DRY DRY, 0.694832, 3
+2, echo tap, 0.740669, 6
+2, Alright setup, 0.607651, 6
+2, summer lunch crowd, 0.737562, 7
+2, loud bar, 0.618613, 7
+3, nice corner bar, 0.723715, 0
+3, Echo Burger, 0.699236, 0
+3, 4-4.5 star bar, 0.754726, 1
+3, dive bar needs, 0.730546, 1
+3, Good bar food, 0.907405, 2
+3, cheap beer, 0.715494, 2
+3, cheese curds, 0.717053, 3
+3, exclusive bar, 0.629462, 3
+3, Echo Tap, 0.869385, 5
+3, enjoyable bar food, 0.760917, 6
+3, PBR Priority Card, 0.723825, 6
+3, delicious veggie wrap, 0.71945, 7
+3, PBR drink specials, 0.716563, 7
+3, great selection, 0.719638, 8
+3, delicious food, 0.698953, 8
+3, pretty nice place, 0.741049, 9
+3, crispy chicken sandwich, 0.683367, 9
+4, Echo chicken sandwich, 0.429157, 0
+4, Good quality bar, 0.398692, 0
+4, basic bar food, 0.382842, 1
+4, little bar food, 0.378608, 1
+4, bar food, 0.724376, 2
+4, good bar food, 0.544467, 2
+4, Black Bavarian, 0.39108, 3
+4, amazing bar food, 0.372646, 3
+4, echo tap, 0.962817, 4
+4, pizza, 0.442778, 4
+4, game, 0.420966, 5
+4, Kohl Center, 0.413019, 5
+4, cheese curds, 0.658846, 6
+4, place, 0.574874, 6
+4, better tap selections, 0.398485, 7
+4, Echo Burger, 0.381645, 7
+4, good place, 0.452407, 8
+4, good time, 0.435663, 8
+4, all-time favorite beers, 0.325669, 9
+4, pretty interesting mix, 0.324482, 9
+5, genuine Wisconsin bar, 0.417246, 0
+5, dive townie bar, 0.415435, 0
+5, Madison winter, 0.309771, 1
+5, usual bar food, 0.440222, 2
+5, crispy little devils, 0.368176, 2
+5, Echo Tap bodyguards, 0.5952, 3
+5, UW Hockey game, 0.385848, 3
+5, Echo Tap, 0.946897, 5
+5, echo burger, 0.600031, 6
+5, High Life, 0.440915, 6
+5, best bar food, 0.4313, 7
+5, especially fun place, 0.401681, 7
+5, chicken sandwich, 0.456193, 8
+5, tasty tofu burger, 0.384824, 8
+5, Badger Athletic program, 0.363133, 9
+5, great place, 0.334403, 9

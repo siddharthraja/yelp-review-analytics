@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, plate glass windows, 0.986939, 0
+1, gray-white hairs, 0.835693, 0
+1, flat diet soda, 0.946723, 1
+1, poor service, 0.750506, 1
+1, frosted glass partition, 0.988935, 2
+1, tv tray-sized table, 0.967436, 2
+1, door, 0.521343, 3
+1, Coke, 0.465738, 3
+1, reservation time, 0.70008, 4
+1, drink, 0.648322, 4
+1, new bartender, 0.823515, 6
+1, tiny strands, 0.777074, 6
+1, attentive service, 0.755752, 7
+1, dishes, 0.468334, 7
+2, credit card statement, 0.804697, 0
+2, median age, 0.711746, 0
+2, lousy food, 0.701265, 1
+2, chicken sandwich, 0.695645, 1
+2, yr. old friend, 0.81516, 2
+2, satisfying food, 0.705603, 2
+2, food, 0.954347, 3
+2, neo-country sound track, 0.866662, 3
+2, PCG, 0.853794, 5
+2, credit card, 0.989039, 6
+2, wasabi mashed potatoes, 0.800032, 6
+2, small piece, 0.674179, 7
+2, Quarter cup, 0.672586, 7
+2, Green Chile Queso, 0.802725, 8
+2, Phoenix City Grille, 0.803024, 9
+2, great selection, 0.664263, 9
+3, pot roast, 0.755417, 0
+3, dry wine glass, 0.720569, 0
+3, roast beef, 0.73804, 1
+3, WET wine glass, 0.725877, 1
+3, wine glass, 0.758203, 2
+3, average Bar food, 0.741219, 2
+3, Sara V., 0.850935, 3
+3, hot food hot, 0.720907, 3
+3, corn bread, 0.79423, 4
+3, besty Sara V., 0.712667, 4
+3, place, 0.951977, 5
+3, service, 0.917743, 5
+3, Phoenix City Grille, 0.967933, 6
+3, skillet corn bread, 0.732103, 6
+3, green chile, 0.771952, 7
+3, great place, 0.752145, 7
+3, Croissant Bread Pudding, 0.723939, 8
+3, good restaurant, 0.71395, 8
+3, good looking menu, 0.773688, 9
+3, good food, 0.731055, 9
+4, PCG people, 0.706983, 0
+4, old PCG standby, 0.704713, 0
+4, pork  tenderloin entree, 0.688373, 1
+4, chicken tortilla soup, 0.724077, 2
+4, bank PCG, 0.685177, 2
+4, pork  tenderloin, 0.770663, 3
+4, PCG, 0.862214, 4
+4, chicken, 0.746769, 4
+4, place, 0.864879, 5
+4, food, 0.855019, 5
+4, service, 0.80376, 6
+4, corn cakes, 0.794526, 6
+4, black bean soup, 0.766611, 7
+4, green chile, 0.759388, 7
+4, Phoenix City, 0.979542, 8
+4, Phoenix City Grill, 0.934317, 8
+4, good fresh food, 0.713979, 9
+4, good place, 0.705896, 9
+5, PCG kiddycorner, 0.518345, 0
+5, PCG virgin, 0.505833, 0
+5, griddled corn cakes, 0.579289, 3
+5, corn cakes, 0.696503, 4
+5, time, 0.552805, 4
+5, bread pudding, 0.831175, 5
+5, PCG, 0.74873, 5
+5, food, 0.671625, 6
+5, place, 0.658408, 6
+5, Phoenix City Grille, 0.959255, 7
+5, pot roast, 0.673714, 7
+5, great service, 0.606357, 8
+5, croissant bread pudding, 0.583931, 8
+5, great customer service, 0.506967, 9
+5, great downtown Phoenix, 0.493428, 9

@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, shrimp adventure/shrimp ahoy/shrimp, 0.537461, 0
+1, chris town mall, 0.520337, 0
+1, elephant bar, 0.902709, 1
+1, Crispy Teriyaka Chicken, 0.494035, 1
+1, food, 0.612889, 2
+1, undone shrimp, 0.437307, 2
+1, food lover, 0.440553, 3
+1, calamari appetizer, 0.431325, 3
+1, server, 0.486331, 4
+1, gift card, 0.742602, 5
+1, restaurant, 0.534681, 5
+1, mmmmm crunchy, 0.4251, 6
+1, dinner here. no., 0.514847, 7
+1, prompt server, 0.424719, 7
+1, new drink, 0.41442, 8
+1, happy hour drinks, 0.410409, 8
+1, pretty good value, 0.488523, 9
+1, Senior Discount Card, 0.48735, 9
+2, Elephant Bar USED, 0.58301, 0
+2, boring food, 0.569646, 0
+2, subpar chain food, 0.578609, 1
+2, American food, 0.558564, 1
+2, misoyaki salmon, 0.564317, 2
+2, salmon meal kind, 0.561693, 2
+2, higher quality food, 0.590074, 3
+2, Elephant Bar Chandler, 0.580255, 3
+2, food, 0.822385, 4
+2, elephant bar, 0.963355, 5
+2, place, 0.607792, 5
+2, salad, 0.573595, 6
+2, Asian food, 0.558482, 6
+2, frozen food ones, 0.574479, 7
+2, BBQ chicken salad, 0.56016, 7
+2, sweet potato fries, 0.601468, 8
+2, bacon cheddar burger, 0.556237, 8
+2, basic quintessential prerequisite, 0.555198, 9
+2, sweet teriyaki sauce, 0.553312, 9
+3, costco freezer food, 0.763618, 0
+3, Thai High chicken, 0.75363, 0
+3, damn good thing, 0.748494, 1
+3, picky eater, 0.727084, 1
+3, elephant bar, 0.973721, 2
+3, bare chicken pieces, 0.751837, 2
+3, sweet pot fries, 0.789575, 3
+3, generic chilli sauce, 0.70851, 3
+3, chicken, 0.848277, 4
+3, shrimp, 0.748104, 4
+3, food, 0.891866, 5
+3, service, 0.77045, 5
+3, Americanized fusion place, 0.72005, 6
+3, chicken tender, 0.719877, 6
+3, chicken marsala, 0.847915, 7
+3, mustard chicken salad, 0.786867, 7
+3, crab Louis salad, 0.728169, 8
+3, good time, 0.710937, 8
+4, Good wait staff, 0.57454, 0
+4, good pricing., 0.529336, 0
+4, late night shopping, 0.505307, 1
+4, crazy over-the-top decor, 0.498224, 1
+4, patronizing chain restaurants, 0.498513, 2
+4, drinks, 0.548725, 4
+4, ice cream, 0.53323, 4
+4, Elephant Bar, 0.922722, 5
+4, service, 0.68187, 5
+4, place, 0.763297, 6
+4, food, 0.755752, 6
+4, sweet potato fries, 0.571382, 7
+4, Good service, 0.538412, 7
+4, great service, 0.560386, 8
+4, wonderfully amazing food, 0.541263, 8
+4, great place, 0.544683, 9
+4, good variety, 0.523894, 9
+5, honey mustard salad, 0.678137, 0
+5, crispy terriyaki chicken, 0.674008, 0
+5, Mud Pie dessert, 0.630894, 2
+5, dark chocolate chocolate, 0.628517, 2
+5, bad service, 0.649308, 3
+5, iced tea, 0.627922, 3
+5, honey mustard, 0.707837, 4
+5, time, 0.785482, 5
+5, Elephant Bar, 0.972226, 6
+5, place, 0.772597, 6
+5, sweet potato fries, 0.751107, 7
+5, Thai High Chicken, 0.677779, 7
+5, great dining experience, 0.665851, 8
+5, great service, 0.66113, 8
+5, good healthy salad, 0.720275, 9
+5, Consistently good food, 0.685605, 9

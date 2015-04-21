@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+1, better wine bars, 0.853404, 0
+1, OK, 0.477927, 0
+1, gouda, 0.484211, 1
+1, leftovers, 0.481531, 1
+1, platter, 0.489109, 2
+1, HORRIBLE, 0.478037, 2
+1, cheese, 0.672612, 5
+1, grease pooling, 0.699815, 6
+1, soup, 0.539017, 6
+1, appetizer, 0.586301, 7
+1, ADORABLE St. Bernard, 0.978996, 8
+1, different rooms, 0.692808, 8
+1, new places, 0.708253, 9
+1, menu, 0.45869, 9
+4, biodynamic wine situation, 0.729545, 0
+4, modern elements, 0.54384, 0
+4, wine snobs, 0.552099, 1
+4, food snobs, 0.547134, 1
+4, late night cause, 0.734246, 2
+4, under-utilized spot, 0.543961, 2
+4, wine aficionado, 0.589014, 3
+4, closing time, 0.524209, 3
+4, Friday night, 0.767661, 5
+4, phoenician style, 0.556543, 6
+4, duck entree, 0.545738, 6
+4, Backstreet Wine Salon, 0.979698, 7
+4, cute gated entryway, 0.775789, 7
+4, personal bon voyage, 0.711484, 8
+4, email list, 0.524029, 8
+4, affordable wine selection, 0.693846, 9
+4, great meal, 0.530516, 9
+5, Backstreet, 0.679801, 1
+5, extensive wine list, 0.984136, 6
+5, sip, 0.680664, 6
+5, meals, 0.675629, 7
+5, boths, 0.606452, 7

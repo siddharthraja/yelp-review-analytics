@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, main lady, 0.721728, 0
+1, location, 0.449871, 0
+1, times, 0.530607, 1
+1, delicious Korean food, 0.965154, 3
+1, doors, 0.61075, 3
+1, place, 0.539492, 5
+4, vegetarian combo tibzi, 0.963693, 0
+4, Ethiopian restaurant, 0.826247, 0
+4, good food, 0.555677, 1
+4, funny, 0.27641, 1
+4, hurry, 0.320465, 3
+4, server, 0.276317, 4
+4, things, 0.276202, 4
+4, vegetarian options, 0.673096, 6
+4, shrimp tibiz, 0.64229, 6
+4, Ethiopian food, 0.78085, 7
+4, potato stuff, 0.599529, 7
+4, meal size, 0.638283, 8
+4, expectations, 0.301631, 8
+4, delicious meal, 0.758011, 9
+4, Ethiopian cuisine, 0.753425, 9
+5, times, 0.522093, 0
+5, independently owned restaurant, 0.97638, 3
+5, owner, 0.659517, 5
+5, dishes, 0.558544, 6
+5, honesty, 0.557926, 6
+5, food, 0.659325, 8
+5, place, 0.544396, 8
+5, prices, 0.521098, 9

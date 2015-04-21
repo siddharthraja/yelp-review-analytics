@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, light group, 0.699661, 0
+1, bright red sauce, 0.67627, 0
+1, las vegas, 0.779458, 1
+1, little tiny dabs, 0.657727, 1
+1, closing time, 0.737198, 2
+1, particular food items, 0.672219, 2
+1, russian food, 0.679858, 3
+1, earliest closing time, 0.677446, 3
+1, Red Square, 0.927867, 4
+1, mandalay bay, 0.804416, 4
+1, food, 0.754232, 5
+1, Captain Crunch, 0.70925, 5
+1, place, 0.714506, 6
+1, favorite vodka bar, 0.681651, 6
+1, China Grill Mgmt, 0.7316, 7
+1, sanely priced item, 0.658431, 7
+1, great food, 0.680257, 8
+1, great food service, 0.677657, 8
+2, headless Lenin statue, 0.647301, 0
+2, foie gras, 0.621285, 0
+2, signature beef stroganoff, 0.618797, 1
+2, gimmicky strip restaurant, 0.600591, 1
+2, Mandalay Bay, 0.675701, 2
+2, poorly mixed drinks, 0.614561, 2
+2, American slop house, 0.58672, 3
+2, service, 0.711269, 4
+2, place, 0.69118, 4
+2, Red Square, 0.946536, 5
+2, food, 0.810475, 5
+2, huge vodka menu, 0.611204, 6
+2, traditional beef tartare, 0.600627, 6
+2, Red Square steak, 0.623406, 7
+2, EXTENSIVE vodka menu, 0.619419, 7
+2, pretty good food, 0.647705, 8
+2, great mixed drinks, 0.645781, 8
+3, vodka based drinks, 0.509309, 0
+3, real Vodka bar, 0.468915, 0
+3, vodka bar, 0.502026, 2
+3, vodka ice bar, 0.495478, 2
+3, vodka, 0.735963, 4
+3, place, 0.526689, 4
+3, Red Square, 0.910128, 5
+3, food, 0.630552, 5
+3, vodka flight, 0.50405, 6
+3, extensive vodka selection, 0.452345, 6
+3, Good vodka drinks, 0.556616, 7
+3, Mandalay Bay, 0.538968, 7
+3, vodka selection, 0.517466, 8
+3, vodka menu, 0.471688, 8
+3, real good vodka, 0.503933, 9
+3, Excellent vodka selection, 0.439054, 9
+4, ice cold vodka, 0.412644, 0
+4, vodka bar, 0.411375, 0
+4, crap vodka, 0.387629, 2
+4, raw vodka, 0.371692, 2
+4, vodka shots, 0.392353, 3
+4, vodka tasting flights, 0.376961, 3
+4, ice bar, 0.548483, 4
+4, vodka, 0.761606, 5
+4, bar, 0.658468, 5
+4, red square, 0.94745, 6
+4, vodka freezer, 0.375344, 6
+4, vodka vault, 0.481577, 7
+4, Imperia Vodka Cocktails, 0.419945, 7
+4, good vodka, 0.427105, 8
+4, great vodka selection, 0.422384, 8
+4, vodka martini, 0.435045, 9
+4, good vodka martini, 0.419769, 9
+5, subzero vodka freezer, 0.50808, 0
+5, Vodka Vault thing, 0.497788, 0
+5, expensive vodka, 0.534544, 2
+5, vodka bar, 0.601564, 3
+5, various vodka drinks, 0.54637, 3
+5, vodka vault, 0.58046, 4
+5, key lime pie, 0.483453, 4
+5, vodka, 0.949471, 5
+5, ice bar, 0.769225, 5
+5, red square, 0.887279, 6
+5, place, 0.61597, 6
+5, vodka flights, 0.669677, 7
+5, vodka selection, 0.605199, 7
+5, best vodka selection, 0.534564, 8
+5, Las Vegas, 0.518775, 8

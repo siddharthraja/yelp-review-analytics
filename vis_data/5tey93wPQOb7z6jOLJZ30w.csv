@@ -1,0 +1,93 @@
+rating, keyword, relevance, bucket
+1, half priced wings, 0.763119, 0
+1, blond waitress, 0.76033, 0
+1, food, 0.942569, 1
+1, vodka/green apple drink, 0.780681, 1
+1, night busy sort, 0.795841, 2
+1, hard earned pennies, 0.782682, 2
+1, football games, 0.870032, 3
+1, outright  rude employee, 0.784915, 3
+1, Half Moon, 0.906222, 5
+1, waitress, 0.876316, 5
+1, place, 0.810613, 6
+1, Dee Messina song, 0.763273, 6
+1, Wednesday night dinner, 0.79195, 7
+1, pretty good thing, 0.766037, 7
+1, waitress world dip-shit, 0.835166, 8
+1, Good luck Half, 0.773075, 8
+1, better quality sandwich, 0.763104, 9
+2, Half Moon, 0.744023, 0
+2, Seattle playoff football, 0.653288, 0
+2, sports bar chatter, 0.68582, 1
+2, big frosty mug, 0.650458, 1
+2, creepy old men, 0.65969, 2
+2, loud football broadcast, 0.657875, 2
+2, sports bar, 0.919409, 3
+2, service, 0.818201, 3
+2, food, 0.840635, 4
+2, time, 0.700304, 4
+2, place, 0.835479, 5
+2, server, 0.645341, 5
+2, new serving staff, 0.640083, 6
+2, great drink specials, 0.664774, 7
+2, San tan hefe, 0.653688, 7
+2, sweet potato fries, 0.769096, 8
+2, Swiss burger medium, 0.655007, 8
+2, good handful, 0.602466, 9
+2, ideal place, 0.598239, 9
+3, night drink specials, 0.556863, 0
+3, Mirror Pond, 0.535897, 0
+3, run-of-the-mill bar food, 0.570668, 1
+3, biggest complaint, 0.549062, 1
+3, Players Sports Bar, 0.572063, 2
+3, sports bars, 0.554092, 2
+3, decent sports bar, 0.616499, 3
+3, UFC fights, 0.614395, 3
+3, sports bar, 0.982005, 4
+3, wings, 0.593131, 4
+3, place, 0.780193, 5
+3, food, 0.691661, 5
+3, Half Moon, 0.85758, 6
+3, Moon Sports Grill, 0.695688, 6
+3, decent beer specials, 0.552505, 7
+3, menu lists premium, 0.534497, 7
+3, pretty decent draft, 0.554115, 8
+3, Chicken buffalo dip, 0.520471, 8
+4, good bar food, 0.618463, 0
+4, half price burgers, 0.58091, 0
+4, standard bar fare, 0.529966, 1
+4, Good Sports Bar, 0.604, 2
+4, average bar food, 0.56479, 2
+4, best wing sauce, 0.588256, 3
+4, little sports bar, 0.57791, 3
+4, sports bar, 0.924906, 4
+4, sports bars, 0.519227, 4
+4, place, 0.701143, 5
+4, food, 0.680468, 5
+4, place- Great place, 0.616884, 6
+4, boneless wings, 0.541485, 6
+4, Half  Moon, 0.874878, 7
+4, buffalo chicken dip, 0.709598, 7
+4, great place, 0.661123, 8
+4, great atmosphere, 0.580772, 8
+4, pretty good endorsement, 0.545355, 9
+4, Great local spot, 0.536379, 9
+5, little better job, 0.564462, 0
+5, daily kitchen specials, 0.558098, 0
+5, sports bar, 0.629648, 1
+5, -Good bar food, 0.579324, 2
+5, big UFC fight, 0.550881, 2
+5, *Some constructive criticism*, 0.548023, 3
+5, new Old Pros, 0.541295, 3
+5, half moon, 0.98509, 4
+5, beer, 0.613166, 4
+5, place, 0.845721, 5
+5, food, 0.672433, 5
+5, great little bar, 0.636109, 6
+5, buffalo chicken dip, 0.550921, 6
+5, free shuttle service, 0.696295, 7
+5, -The beer selection, 0.55348, 7
+5, great food, 0.663877, 8
+5, experience Half Moon, 0.564822, 8
+5, great place, 0.679962, 9
+5, Super friendly staff, 0.676163, 9

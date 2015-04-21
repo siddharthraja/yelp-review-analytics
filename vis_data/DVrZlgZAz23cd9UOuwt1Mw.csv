@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+3, blue cheese olives, 0.891391, 0
+3, huge martini fan, 0.882939, 0
+3, blackberry puree, 0.631715, 3
+3, bubbles, 0.285972, 3
+3, bucks, 0.263286, 4
+3, thirsty camel, 0.946898, 6
+3, late meeting, 0.564425, 6
+3, veggie appetizer, 0.907336, 7
+3, guitar player, 0.539992, 7
+3, great wine selection, 0.789554, 8
+3, Good people, 0.597847, 8
+4, good mojito, 0.711612, 0
+4, tasty nuts, 0.690598, 0
+4, generic ambience, 0.694606, 1
+4, Saudi Arabia, 0.678786, 2
+4, little patience, 0.656506, 2
+4, big deal, 0.846939, 3
+4, young guy, 0.680531, 3
+4, Creme Brulee time, 0.812214, 6
+4, tea time, 0.807165, 6
+4, ice cream, 0.944271, 7
+4, high bar stools, 0.855626, 7
+4, nice night view, 0.88702, 8
+4, delicious desert wine, 0.819674, 8
+4, fine selection, 0.687635, 9
+5, Great little snackies, 0.703941, 0
+5, thy ways, 0.554662, 0
+5, scenery rocks, 0.538234, 3
+5, wine list, 0.507119, 3
+5, crab dip appetizer, 0.695, 6
+5, SPG points, 0.53391, 6
+5, Thirsty Camel, 0.942663, 7
+5, Fantastic scenery, 0.516295, 7
+5, thee Thirsty Camel, 0.834485, 8
+5, liquor selection, 0.701735, 8

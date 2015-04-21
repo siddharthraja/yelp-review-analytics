@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+2, haunted houses, 0.76266, 0
+2, crypt, 0.450453, 0
+2, lane, 0.437985, 2
+2, way, 0.407578, 2
+2, Maze, 0.431154, 3
+2, fast pass, 0.950609, 6
+2, wait, 0.491915, 6
+2, visit, 0.419414, 7
+2, best attraction, 0.699534, 8
+2, props, 0.432104, 8
+3, little kid, 0.735229, 0
+3, reluctance, 0.565963, 0
+3, huge drop, 0.745518, 1
+3, actors, 0.613852, 1
+3, chaos maze, 0.906039, 2
+3, identity crisis, 0.741726, 2
+3, crypt, 0.977315, 3
+3, houses, 0.692634, 3
+3, star review, 0.755951, 4
+3, production, 0.733461, 4
+3, good way, 0.887021, 5
+3, Things, 0.604788, 6
+3, bit, 0.558736, 6
+3, Better production, 0.687881, 7
+3, house, 0.670544, 7
+3, fans, 0.560309, 9
+3, following, 0.558357, 9
+4, couple times, 0.554197, 0
+4, broke character, 0.546002, 0
+4, tarps, 0.27483, 1
+4, way, 0.269159, 1
+4, expensive cost, 0.594414, 2
+4, gangster jerks, 0.570332, 2
+4, expensive haunted house, 0.931122, 3
+4, stupid extra charge, 0.836653, 3
+4, Asylum, 0.619912, 5
+4, crypt, 0.667796, 6
+4, experience, 0.266646, 6
+4, great haunted house, 0.951819, 7
+4, good halloween fun, 0.805601, 7
+4, new room, 0.529477, 8
+4, great job, 0.516736, 8
+5, pretty long line, 0.721671, 0
+5, main houses, 0.495903, 0
+5, cousin, 0.37652, 1
+5, end, 0.264414, 1
+5, crypt, 0.508481, 2
+5, dad, 0.276572, 2
+5, haunts, 0.399538, 3
+5, asylum, 0.375028, 3
+5, speed pass, 0.950354, 6
+5, chaos maze, 0.786083, 6
+5, good job, 0.501346, 7
+5, great time, 0.711232, 8
+5, attraction, 0.272926, 8

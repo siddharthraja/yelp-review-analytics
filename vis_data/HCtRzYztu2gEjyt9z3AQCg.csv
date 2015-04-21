@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, Tyber Creek, 0.785947, 0
+1, import beers, 0.752344, 0
+1, martinis, 0.657754, 1
+1, Tuesday, 0.550734, 1
+1, poorly run business, 0.918673, 2
+1, shoddy service, 0.795408, 2
+1, bar service, 0.744102, 3
+1, guests, 0.553932, 3
+1, people, 0.599583, 4
+1, ya Roxx, 0.785137, 6
+1, craft beers, 0.737813, 6
+1, basic understanding, 0.779067, 7
+1, better options, 0.746897, 7
+3, happy hour crowd, 0.701945, 0
+3, NFL network, 0.700358, 0
+3, MARTINI Bar, 0.741859, 2
+3, PRO games, 0.699258, 3
+3, bouncer pick, 0.693195, 3
+3, street spots, 0.676302, 6
+3, music, 0.486768, 6
+3, cool bartending staff, 0.95719, 7
+3, specialty drinks, 0.720553, 7
+3, nice lounge area, 0.903713, 8
+3, Oatmeal Cookie, 0.747376, 8
+3, small patio area, 0.93492, 9
+3, nightlife establishment, 0.684512, 9
+4, huge plus, 0.656331, 0
+4, bartender, 0.368633, 0
+4, Fridays, 0.330534, 6
+4, atmosphere, 0.322737, 6
+4, awesome drink, 0.774583, 8
+4, drinks, 0.328845, 8
+4, Sweet tart shots, 0.966946, 9
+4, new personal favorites, 0.916806, 9

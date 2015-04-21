@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, Aug 30th, 0.987444, 0
+1, Mid-August, 0.716445, 0
+1, bar, 0.614173, 1
+1, Uh, 0.70999, 3
+4, personality, 0.726575, 1
+4, bar, 0.46463, 1
+4, mainstream, 0.720193, 4
+4, sceney, 0.442136, 4
+4, good atmosphere, 0.979204, 7
+4, vibe, 0.783868, 7
+5, regular jazz music, 0.897018, 0
+5, classic Scottsdale lounge, 0.862096, 0
+5, old town, 0.944825, 2
+5, train car, 0.708793, 2
+5, Chews owners, 0.71169, 3
+5, downtown douchebox, 0.706428, 3
+5, bar, 0.761986, 4
+5, place, 0.795261, 5
+5, smoking patio, 0.696994, 6
+5, regulars, 0.606, 6
+5, cool breezy attitude, 0.88653, 7
+5, real deal, 0.742987, 7
+5, fantastic sprawling patio, 0.9067, 8
+5, fantastic care, 0.732884, 8
+5, small cozy spot, 0.891116, 9
+5, Camelback mountain, 0.727318, 9

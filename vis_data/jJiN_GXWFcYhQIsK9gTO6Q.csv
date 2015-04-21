@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, rooftop bar, 0.970535, 0
+1, story restaurant, 0.890247, 0
+1, Cafe Central, 0.839272, 1
+1, bad experience, 0.823065, 1
+1, dirty dishes, 0.84508, 2
+1, change, 0.428603, 2
+1, napkins, 0.571894, 3
+1, drinks, 0.546613, 3
+1, food, 0.886079, 4
+1, rooftop terrace, 0.864631, 6
+1, view, 0.512303, 6
+1, location, 0.412657, 8
+2, good tacos, 0.819241, 0
+2, Monday night, 0.757996, 0
+2, mediocre tap selection, 0.960647, 1
+2, Slow service, 0.786503, 1
+2, little snack, 0.843195, 2
+2, Robot Johnson, 0.832222, 2
+2, chili-cheese tots, 0.816178, 6
+2, chili-cheese fries, 0.806726, 6
+4, weird botanical trellis, 0.991025, 0
+4, huge Budweiser neon, 0.977486, 0
+4, weird mix, 0.724996, 2
+4, bad reviewer, 0.721167, 2
+4, bar scenes, 0.713781, 3
+4, fixture, 0.458544, 3
+4, fried stuff, 0.719, 6
+4, Gulden Draak, 0.692557, 6
+4, BEST rooftop bar, 0.989686, 7
+4, great bar, 0.7102, 7
+4, better beer, 0.648833, 8
+5, Sundays, 0.283739, 6
+5, Buffalo style wings, 0.776313, 7
+5, past Friday, 0.571579, 7
+5, good atmosphere, 0.537048, 8
+5, Great DJ, 0.495178, 8
+5, new hangout spot, 0.930489, 9
+5, great time, 0.736214, 9

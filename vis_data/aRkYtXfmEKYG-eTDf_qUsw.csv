@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, neighborhood coffee shop, 0.726615, 0
+1, pepper tomato quiche, 0.71926, 0
+1, nope nope nope, 0.928656, 1
+1, pretentious hipsters, 0.71971, 1
+1, hipsters, 0.822787, 2
+1, cash register, 0.73394, 2
+1, Real hipsters, 0.714078, 3
+1, eye contact, 0.700128, 3
+1, coffee, 0.888365, 4
+1, greasy hipsters, 0.733365, 4
+1, place, 0.781877, 5
+1, morning craving croissants, 0.702527, 6
+1, coffee biz, 0.688546, 6
+1, favorite coffee house, 0.729285, 7
+1, fave date places, 0.706335, 7
+1, Great coffee, 0.691711, 8
+2, burnt coffee beans, 0.47222, 0
+2, coffee bar, 0.462695, 0
+2, cocktail bar, 0.491252, 1
+2, New Lux suffers, 0.477877, 1
+2, Lux countless times, 0.4789, 2
+2, want-to-be homeless pretenticons, 0.410535, 2
+2, customer service, 0.466652, 3
+2, line, 0.413771, 3
+2, place, 0.684098, 4
+2, lux, 0.550848, 4
+2, coffee, 0.966745, 5
+2, old lux, 0.461295, 5
+2, coffee shop, 0.823714, 6
+2, green chartreuse, 0.448405, 6
+2, wave coffee shop, 0.485577, 7
+2, specialty coffee shop, 0.474981, 7
+2, great coffee, 0.467044, 8
+2, great coffee joint, 0.465942, 8
+2, friendly neighborhood hipsters, 0.406267, 9
+3, Lux lovers, 0.455481, 0
+3, old Lux, 0.444872, 0
+3, coffee person, 0.430236, 1
+3, best place, 0.402994, 1
+3, work coffee drink, 0.429925, 2
+3, usual coffee joints, 0.406857, 2
+3, LUX Etiquette Handbook, 0.466935, 3
+3, full-to-the brim coffee, 0.41096, 3
+3, coffee bar, 0.507033, 4
+3, coffee, 0.990277, 5
+3, place, 0.849899, 5
+3, coffee shop, 0.524054, 6
+3, food, 0.461818, 6
+3, favorite coffee place, 0.465262, 7
+3, hip coffee shop, 0.420195, 7
+3, great place, 0.533851, 8
+3, good coffee, 0.474281, 8
+3, quirky coffee house, 0.411734, 9
+3, coffee drinks, 0.411597, 9
+4, coffee shop kinda, 0.430007, 0
+4, absolute best coffee, 0.425222, 0
+4, mediocre coffee shops, 0.406071, 1
+4, Lux many times, 0.478527, 2
+4, coffee shop connoisseur, 0.429547, 2
+4, good place, 0.416935, 3
+4, coffee bar, 0.409906, 3
+4, pane bianco, 0.551449, 4
+4, coffee shops, 0.471686, 4
+4, coffee, 0.912183, 5
+4, lux, 0.861428, 5
+4, great coffee joint, 0.431555, 6
+4, terrific little place, 0.421609, 6
+4, drink Lux Coffee, 0.530983, 7
+4, Lux Coffeebar, 0.501016, 7
+4, good coffee, 0.549783, 8
+4, best coffee, 0.521637, 8
+4, Lux fan, 0.463709, 9
+4, Lux experience, 0.454845, 9
+5, Lux Coffee Bar, 0.667988, 0
+5, crooked Lux sticker, 0.626853, 0
+5, bad coffee experience, 0.540071, 1
+5, fellow coffee drinkers, 0.524117, 2
+5, baked goods, 0.580845, 3
+5, time, 0.571225, 4
+5, coffee, 0.977715, 5
+5, lux, 0.806783, 5
+5, coffee shop, 0.652741, 6
+5, love Lux, 0.614171, 6
+5, frequent lux, 0.598337, 7
+5, Pane Bianco, 0.582627, 7
+5, best coffee, 0.699525, 8
+5, best coffee shop, 0.610475, 8
+5, Lux crew, 0.600352, 9
+5, Great great coffee, 0.589186, 9

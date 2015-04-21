@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, mediocre service, 0.63172, 0
+1, new place, 0.620198, 0
+1, parents anniversary, 0.657291, 1
+1, different pasta dishes, 0.853746, 2
+1, small hard disk, 0.787186, 3
+1, apple tart, 0.625128, 3
+1, butternut squash soup, 0.902568, 6
+1, fig app, 0.673396, 6
+1, favorite hang, 0.67443, 8
+1, places, 0.442913, 8
+1, wine selection, 0.640456, 9
+2, tapas places, 0.844819, 0
+2, wine, 0.460856, 0
+2, food, 0.662991, 1
+2, prices, 0.260876, 1
+2, apps/small plates, 0.855927, 3
+2, bean dip, 0.850572, 3
+2, beans, 0.442302, 5
+2, Nice place, 0.832939, 6
+2, Pita bread, 0.828966, 6
+2, great music, 0.765315, 8
+2, strangest appetizer, 0.927838, 9
+2, server, 0.448106, 9
+3, nightlife bar scene, 0.765325, 0
+3, portobello mushroom, 0.758336, 0
+3, terrible pun, 0.645361, 2
+3, chocolate bread pudding, 0.698653, 3
+3, d'vine wine, 0.918234, 4
+3, pita points, 0.751697, 4
+3, wine bar, 0.751275, 5
+3, small plate appetizers, 0.698479, 6
+3, food highlights, 0.651515, 6
+3, nice comfortable summer, 0.746135, 7
+3, good sized crowd, 0.733341, 7
+3, comfortable homey feel, 0.738356, 8
+3, place, 0.644769, 8
+3, Ballantyne Village, 0.735931, 9
+3, pretty sweet balcony, 0.697662, 9
+4, private wine tasting, 0.493264, 0
+4, bar wine, 0.44904, 0
+4, stuffy wine bar, 0.506648, 3
+4, slightly under-represented appetizer, 0.422338, 3
+4, wine bar, 0.637582, 4
+4, food, 0.512992, 4
+4, place, 0.56433, 5
+4, menu, 0.473759, 5
+4, different wine bar, 0.521876, 6
+4, nice little crowd, 0.510685, 6
+4, live music, 0.635458, 7
+4, Great wine selection, 0.516815, 7
+4, D'Vine Wine, 0.956994, 8
+4, D'Vine Wine Cafe, 0.882601, 8
+4, nice wine selection, 0.530417, 9
+4, great little wine, 0.506538, 9
+5, Ballantyne Village, 0.415353, 0
+5, education course, 0.384266, 0
+5, pastry tube, 0.370504, 2
+5, icing, 0.239358, 2
+5, local watering hole, 0.569244, 3
+5, new favorite spot, 0.511806, 7
+5, wine pairing, 0.436557, 7
+5, D'Vine Wine Cafe, 0.941778, 8
+5, Great outdoor seating, 0.618325, 8
+5, incredible wine selection, 0.611205, 9
+5, unique food menu, 0.590815, 9

@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, chronic gamblers, 0.72923, 0
+1, heavy smokers, 0.713741, 0
+1, visual quality, 0.678, 1
+1, TVs, 0.482547, 1
+1, huge nuisance, 0.764475, 2
+1, drinks, 0.587601, 2
+1, food quality, 0.672162, 6
+1, good beer specials, 0.922979, 9
+1, appetizer deals, 0.741709, 9
+2, social security collection, 0.879244, 0
+2, gaming lounges, 0.724994, 0
+2, unique quirks, 0.661661, 1
+2, interesting decor, 0.634369, 1
+2, note, 0.360324, 2
+2, ate half, 0.674682, 3
+2, chicken sandwich, 0.631881, 3
+2, lounge section, 0.942794, 4
+2, line, 0.356389, 4
+2, booths, 0.476735, 5
+2, restaurant section, 0.843276, 6
+2, main reason, 0.680051, 6
+2, drafts beers, 0.685247, 7
+2, appetizers, 0.52831, 7
+2, good bang, 0.625422, 8
+2, bartenders, 0.390507, 8
+2, pretty good deal, 0.973052, 9

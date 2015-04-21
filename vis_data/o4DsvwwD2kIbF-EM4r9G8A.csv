@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, non-confrontational way, 0.458092, 0
+1, bitter review, 0.438846, 0
+1, frat party stage, 0.829427, 1
+1, MRB REJECT, 0.543116, 1
+1, place, 0.339273, 2
+1, bouncer, 0.27811, 2
+1, guy, 0.237423, 3
+1, Darn, 0.204192, 3
+1, Malibu Rum, 0.918778, 4
+1, fruity island drinks, 0.815208, 7
+1, tiki thing, 0.477391, 7
+1, Fruity drinks, 0.575085, 8
+1, Ahhhh. Happy, 0.462577, 8
+1, cozy little tiki, 0.776818, 9
+1, happy hour specials, 0.445646, 9
+2, witty remark, 0.915348, 0
+2, recent visit, 0.879199, 0
+2, raucous group, 0.893762, 1
+2, people, 0.634795, 1
+2, total downer, 0.88394, 2
+2, seats, 0.434055, 2
+2, wet drywall, 0.875846, 3
+2, Drift, 0.457667, 3
+2, Saturday night, 0.890623, 6
+2, good music, 0.863088, 6
+2, friends birthday, 0.877753, 7
+2, blast, 0.450179, 7
+3, flourless lava cake, 0.776285, 0
+3, late night dessert, 0.763245, 0
+3, hmm skip hmm, 0.776323, 1
+3, densely cocked bar, 0.771737, 1
+3, limited hh menu, 0.754466, 2
+3, terrible place, 0.726306, 2
+3, good thing, 0.699437, 3
+3, house music, 0.691358, 3
+3, drift, 0.908915, 5
+3, place, 0.881343, 5
+3, stars. good beer, 0.775975, 6
+3, good time, 0.775339, 6
+3, lava cake, 0.884446, 7
+3, Drift talent pool, 0.838294, 7
+3, pretty Tiki Farm, 0.850715, 8
+3, great place, 0.737053, 8
+3, young crowd pleaser, 0.788135, 9
+3, delicious selection, 0.707582, 9
+4, fire-spewing tiki torches, 0.525359, 0
+4, low key place, 0.518244, 0
+4, pretty people clones, 0.534158, 1
+4, Old Town Scottsdale, 0.527532, 1
+4, numerous Tiki torches, 0.516657, 2
+4, tiki torches, 0.57395, 3
+4, South Pacific, 0.509617, 3
+4, old town, 0.795052, 4
+4, dance floor, 0.542048, 4
+4, drift, 0.925121, 5
+4, place, 0.657902, 5
+4, night, 0.615428, 6
+4, time, 0.5564, 6
+4, food, 0.553254, 7
+4, Tiki God statue, 0.513317, 7
+4, atmosphere, 0.516978, 8
+4, great time, 0.51414, 8
+4, great place, 0.532002, 9
+4, good people, 0.52893, 9
+5, dollar concoction, 0.780179, 0
+5, Thursday night, 0.772099, 0
+5, damn condo, 0.758151, 1
+5, worst line, 0.747424, 1
+5, dollar condo, 0.854632, 2
+5, serial killer, 0.84066, 2
+5, little kabob app, 0.871592, 3
+5, best pick-up technique, 0.862464, 3
+5, Random guy corners, 0.840444, 4
+5, Drift, 0.832104, 5
+5, arm, 0.789432, 5
+5, clam shell drink, 0.905256, 6
+5, place, 0.85403, 6
+5, old town, 0.899119, 7
+5, Kona Lager, 0.75011, 7
+5, Me/my friend stare, 0.876637, 8
+5, night scene, 0.775954, 8
+5, old town Scottsdale, 0.833435, 9
+5, Amazing place, 0.740847, 9

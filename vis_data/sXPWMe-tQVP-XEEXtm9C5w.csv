@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, bar area, 0.97805, 1
+1, Vibe, 0.832668, 1
+1, lounge, 0.796136, 2
+1, Experience, 0.704146, 3
+2, couple special drinks, 0.840504, 0
+2, dance floor, 0.833866, 0
+2, cigarette smoke, 0.586014, 1
+2, non-smoking rule, 0.620016, 2
+2, Hells Kitchen, 0.59269, 2
+2, Lava Lounge, 0.961984, 3
+2, hot Lava, 0.644535, 3
+2, nice eclectic mix, 0.810923, 6
+2, Friday night, 0.603777, 6
+2, cool dark booths, 0.829816, 7
+2, little more enthusiasm, 0.609307, 7
+2, cool dive bar, 0.78366, 8
+2, great time, 0.606053, 8
+3, lava rock chair, 0.623627, 0
+3, typical South Side-rs, 0.608112, 0
+3, Poor music selection, 0.622245, 1
+3, cheap date, 0.537146, 1
+3, Double Wide Grill, 0.623028, 2
+3, Dr. Pepper shots, 0.617294, 2
+3, normal club/dance music, 0.604576, 3
+3, good drinks, 0.549894, 3
+3, drinks, 0.555984, 4
+3, place, 0.889658, 5
+3, bar, 0.549935, 5
+3, 80s Night, 0.968746, 6
+3, teeny tiny measuring, 0.611234, 6
+3, cool creepy feeling, 0.620317, 7
+3, nice place, 0.562583, 7
+3, Lava Lounge, 0.781481, 8
+3, great 80s Night, 0.681871, 8
+3, good beer selection, 0.656719, 9
+3, unique place, 0.575778, 9
+4, little bar research, 0.499399, 0
+4, tall wood backs, 0.452621, 0
+4, swirly looking chairs, 0.430426, 1
+4, Pittsburgh bar experience, 0.475006, 2
+4, Tiki Lounge, 0.421786, 2
+4, preppy college boys, 0.449891, 3
+4, Street bro fest, 0.430997, 3
+4, favorite Southside bar, 0.448931, 4
+4, drinks, 0.447432, 4
+4, bar, 0.584498, 5
+4, Carson Street, 0.448761, 5
+4, Lava Lounge, 0.967325, 6
+4, place, 0.582363, 6
+4, dance floor, 0.577391, 7
+4, similar Lava Lounge, 0.57257, 7
+4, pretty cool crowd, 0.524769, 8
+4, underground lava bed, 0.505093, 8
+4, consistent regular crowd, 0.46283, 9
+4, nice dance floor, 0.431416, 9
+5, East Carson Street, 0.860829, 0
+5, different upbeat music, 0.697179, 0
+5, bar table, 0.653472, 1
+5, ground bar stools, 0.696119, 2
+5, Fraggle Rock-esque bar, 0.696038, 2
+5, pretty confusing place, 0.698859, 3
+5, Kickass bar, 0.655513, 3
+5, people, 0.664704, 4
+5, lava lounge, 0.995947, 5
+5, dance floor, 0.779693, 5
+5, casual taco dinners, 0.685223, 6
+5, Pittsburgh, 0.669777, 6
+5, place, 0.723421, 7
+5, great time, 0.721572, 7
+5, real cool place, 0.695489, 8
+5, information visit www.lavaloungepgh.com, 0.684735, 8
+5, Fraggle Rock, 0.705038, 9
+5, Fraggle Rock underworld, 0.697808, 9

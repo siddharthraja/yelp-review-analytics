@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, cheap drink specials, 0.956974, 0
+1, public transportation, 0.422066, 0
+1, bush league stuff, 0.718538, 1
+1, real life, 0.373791, 1
+1, Camp fire Ceasar, 0.530354, 2
+1, conversation, 0.205593, 2
+1, straight man, 0.396617, 3
+1, new experience, 0.37172, 3
+1, positive body image, 0.745071, 6
+3, venue-turned pop-up brunch, 0.786398, 0
+3, royal poutine, 0.727161, 0
+3, sad lol, 0.521071, 1
+3, bar scene, 0.51152, 1
+3, traditional brunch items, 0.796159, 2
+3, bar staff, 0.511291, 2
+3, fried pickles, 0.802277, 3
+3, fried pickles cuz, 0.743997, 3
+3, place, 0.415612, 4
+3, area, 0.370244, 4
+3, music, 0.373462, 5
+3, small outdoor seating, 0.651762, 6
+3, Sunday brunch, 0.609792, 6
+3, poutine au foie, 0.919379, 7
+3, good value, 0.509223, 7
+3, best poutine, 0.717965, 8
+3, small fruit bowl, 0.665472, 8
+3, chunky potato wedges, 0.687066, 9
+3, blonde handsome barkeep, 0.676234, 9
+4, mériter une place, 0.863287, 0
+4, une amie donc, 0.855615, 0
+4, deep fried pickles, 0.792367, 1
+4, deep fried squeaky, 0.813433, 2
+4, late Saturday night, 0.768374, 2
+4, Bacon Bloody Caesar, 0.94503, 6
+4, weekend brunch menu, 0.842983, 6
+4, mean brunch, 0.772035, 7
+4, vintage Bowie variety, 0.758264, 7
+4, good half wedges, 0.791326, 8
+4, Mile End bound, 0.7804, 8
+4, good thing, 0.720408, 9
+4, good people, 0.707263, 9
+5, tempura style batter, 0.759365, 0
+5, party monthly thing, 0.666509, 0
+5, times, 0.339054, 2
+5, weight, 0.339008, 2
+5, chaos, 0.348812, 3
+5, deep fried pickles, 0.947139, 7
+5, hot peppers, 0.553503, 7
+5, papaya salad, 0.60641, 8
+5, beet salad, 0.601093, 8

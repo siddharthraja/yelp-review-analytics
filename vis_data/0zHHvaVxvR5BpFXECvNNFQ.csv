@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, attitude, 0.544263, 0
+1, horrible treatment, 0.924911, 1
+1, food, 0.484109, 1
+1, bar maids, 0.952104, 2
+1, older employees, 0.899437, 2
+1, good place, 0.924554, 7
+1, hands, 0.548808, 7
+2, El Dorado burger, 0.952514, 0
+2, real reason, 0.713502, 0
+2, pound cheeseburger, 0.741776, 2
+2, pastrami, 0.491146, 2
+2, American Hodgepodge, 0.763528, 3
+2, white finish, 0.706519, 3
+2, kitchen, 0.503018, 6
+2, entertainment, 0.580665, 7
+2, kind, 0.537874, 7
+2, place, 0.529364, 8
+2, bartender, 0.495717, 9
+3, good bands, 0.768596, 0
+3, Garth Algar, 0.759457, 0
+3, kitchen, 0.544775, 1
+3, regular older folks, 0.964858, 2
+3, go-to watering hole, 0.944618, 2
+3, decent drink selections, 0.985395, 3
+3, standard bar food, 0.937864, 3
+3, Bud Light bottles, 0.965657, 6
+3, vodka drinks, 0.76027, 6
+3, couple bartenders, 0.828896, 7
+3, drink prices, 0.813259, 7
+3, quick drink, 0.766388, 9
+3, great place, 0.727719, 9
+4, huge lacrosse team, 0.929344, 0
+4, ahhhheeemmm Coach House, 0.905283, 0
+4, Cheap beer, 0.723334, 1
+4, dive bar, 0.732552, 2
+4, dive bars, 0.694986, 2
+4, wrong info, 0.697941, 3
+4, karaoke, 0.598197, 3
+4, local watering hole, 0.912075, 6
+4, Tuesday taco night, 0.861272, 6
+4, old regulars, 0.731339, 7
+4, old athletes, 0.715576, 7
+4, Tender Loving Fools, 0.855065, 8
+4, Great shots, 0.74057, 8
+4, reasonably priced drinks, 0.904675, 9
+4, new owners Doug, 0.856286, 9
+5, Prime Rib Special, 0.598762, 0
+5, charge live entertainment, 0.598557, 0
+5, Saturday night, 0.63129, 2
+5, new favorite hole, 0.625528, 2
+5, grill, 0.42166, 4
+5, Tammy, 0.417757, 5
+5, local neighborhood bar, 0.602226, 6
+5, Great people, 0.489968, 6
+5, El Dorado Bar, 0.921317, 7
+5, Angus beef hamburgers, 0.567624, 7
+5, great food, 0.725922, 8
+5, place, 0.704682, 8
+5, crispy fresh salad, 0.634901, 9
+5, friendly staff, 0.610511, 9

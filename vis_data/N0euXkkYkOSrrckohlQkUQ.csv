@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+2, wine bar, 0.813188, 0
+2, squash dish, 0.764333, 0
+2, Smoked Paprika Guinea, 0.674212, 1
+2, expensive wine, 0.5625, 1
+2, guinea breast, 0.648216, 2
+2, dessert menus, 0.502112, 2
+2, New York prices, 0.933348, 3
+2, New York-quality food, 0.685052, 3
+2, wine, 0.893418, 4
+2, server, 0.493714, 5
+2, decent wine, 0.524286, 6
+2, beef chewy, 0.501514, 6
+2, Excellent food, 0.501689, 7
+2, purpose, 0.34556, 7
+2, good Yelp reviews, 0.721908, 9
+2, discerning oenophile, 0.565142, 9
+3, Crunchy Smokey, 0.940235, 0
+3, Pour une soirée, 0.803194, 0
+3, pallet, 0.336615, 1
+3, regular eatery, 0.556156, 2
+3, restaurant, 0.340907, 2
+3, expensive dinner, 0.530716, 3
+3, price, 0.384862, 3
+3, Une option parmi, 0.776468, 6
+3, lunch d'affaires, 0.542877, 6
+3, lovely art installment, 0.701112, 7
+3, good service, 0.557728, 7
+3, cozy place, 0.566287, 8
+3, dinner menu, 0.554888, 8
+3, fairly earthy dish, 0.737095, 9
+3, fun dining experience, 0.732851, 9
+4, C'est un restaurant, 0.878956, 0
+4, que le vin, 0.82489, 0
+4, Chaque plat te, 0.803068, 1
+4, chaque plat, 0.810834, 2
+4, C'est un bar, 0.80186, 2
+4, c'est une expérience, 0.917765, 6
+4, ça c'est personnel, 0.892174, 6
+4, Une ambiance calme, 0.773154, 7
+4, tout comme la, 0.764079, 7
+4, truly great taste, 0.727242, 8
+4, wine cellar atmosphere, 0.751292, 9
+4, good night, 0.703482, 9
+5, wine pairing, 0.715678, 0
+5, grilled baby octopus, 0.711666, 0
+5, good food, 0.694622, 2
+5, delicious quail eggs, 0.709482, 4
+5, wine, 0.912326, 5
+5, wine pairings, 0.797454, 5
+5, classic wine combination, 0.757692, 6
+5, restaurant semble délicieux, 0.718403, 6
+5, wine list, 0.743759, 7
+5, cheese plate, 0.733632, 7
+5, perfectly paired wine, 0.78275, 8
+5, delicious dessert wine, 0.780371, 8
+5, spicy Spanish wine, 0.74939, 9
+5, delicious homemade bread, 0.71863, 9

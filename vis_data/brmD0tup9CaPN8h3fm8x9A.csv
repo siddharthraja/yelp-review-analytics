@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+2, classic rock nights, 0.954685, 0
+2, thoroughly disappointing night, 0.9296, 0
+2, cantankerous old git, 0.940226, 1
+2, bar staff, 0.926674, 1
+2, Opium Nightclub, 0.890689, 2
+2, alcoholic dregs, 0.785425, 2
+2, Brown Eyed Girl, 0.968944, 3
+2, hard rock, 0.763786, 3
+2, place, 0.911742, 4
+2, Edinburgh, 0.648853, 4
+2, reason, 0.596785, 5
+2, world-class example, 0.731663, 6
+2, best places, 0.741679, 7
+2, sort, 0.544289, 7
+2, small dancefloor, 0.743728, 8
+2, times, 0.543854, 8
+3, ridiculously cheap drinks, 0.914937, 0
+3, major life choices, 0.753882, 0
+3, night club, 0.584567, 1
+3, strange black substance, 0.767997, 2
+3, minor problem, 0.597648, 2
+3, love affair, 0.574742, 3
+3, college friends, 0.56007, 3
+3, bar, 0.540211, 4
+3, Hello Kitty shirt, 0.806418, 6
+3, daftly long hair, 0.797891, 6
+3, funny mixture, 0.5525, 7
+3, interesting people, 0.547879, 7
+3, close companion, 0.600781, 8
+3, small groups, 0.596726, 8
+4, Metal requests night, 0.592357, 0
+4, blue tiled bar, 0.588331, 0
+4, Opium Bombs, 0.677844, 1
+4, bad ass punks, 0.584562, 1
+4, cheap drink deals, 0.620503, 2
+4, late night drinking, 0.605786, 2
+4, small dance floor, 0.754379, 3
+4, opium hangover, 0.700758, 3
+4, bar, 0.674806, 4
+4, drinks, 0.565752, 4
+4, opium, 0.944504, 6
+4, dance floor, 0.809436, 6
+4, large group, 0.593038, 7
+4, pretty good prices, 0.592193, 7
+4, good rock tunes, 0.604167, 8
+4, rock kid, 0.532469, 8
+4, slightly different crowd, 0.592582, 9
+4, rock music, 0.547173, 9
+5, weird creeper guy, 0.576743, 0
+5, hometown Dropkick Murphys, 0.570163, 0
+5, hellish headache, 0.634765, 1
+5, dark dance floor, 0.639134, 2
+5, Faithless type dance, 0.623674, 2
+5, Iron Maiden style, 0.604816, 3
+5, cavernous hard rock, 0.594283, 3
+5, dance floor, 0.953864, 4
+5, post-Yelp Elite Event, 0.734368, 4
+5, opium, 0.785864, 5
+5, Tuesday night, 0.773919, 5
+5, dance music scene, 0.642366, 6
+5, Good mish mash, 0.602772, 6
+5, rock/metal/classic rock music, 0.645436, 7
+5, sweaty rockers, 0.522235, 7
+5, tiny dance floor, 0.615571, 8
+5, great couple nights, 0.589857, 8
+5, excellent time, 0.523134, 9
+5, pop music, 0.519153, 9

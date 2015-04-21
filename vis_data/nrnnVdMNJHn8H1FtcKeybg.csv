@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, horrible service, 0.835983, 0
+1, worst experience, 0.819261, 0
+1, terrible service, 0.870681, 1
+1, disrespectful bartender, 0.726768, 1
+1, local super market, 0.798311, 2
+1, food order, 0.707591, 2
+1, service, 0.937238, 3
+1, bar, 0.882235, 3
+1, beer, 0.764742, 4
+1, mins, 0.702161, 4
+1, food, 0.852897, 5
+1, past Saturday night, 0.797865, 6
+1, quick appetizer, 0.675613, 6
+1, better service, 0.816584, 7
+1, Good food, 0.698003, 7
+1, local soup kitchen, 0.774429, 8
+1, better staff, 0.645731, 8
+2, powering, 0.422286, 0
+2, hi, 0.41168, 0
+2, boyfriends plate, 0.825088, 1
+2, sloppy joe, 0.824231, 1
+2, eye contact, 0.738029, 2
+2, food item, 0.717058, 2
+2, TVs, 0.69747, 4
+2, spinach dip, 0.907262, 6
+2, nachos, 0.464053, 6
+2, blue moon, 0.808946, 7
+2, thing, 0.533323, 7
+2, different selections, 0.815082, 8
+2, Plenty, 0.532435, 8
+3, fried cheese churd, 0.784752, 0
+3, Wisconsin Fried Cheese, 0.784435, 0
+3, nasty tasting fries, 0.73124, 1
+3, basic bar food, 0.74558, 2
+3, deep fried s'mores, 0.741254, 2
+3, TAP chop salad, 0.712683, 3
+3, Beef Short Ribs, 0.705673, 3
+3, quick bite, 0.709509, 4
+3, sports bar, 0.948147, 5
+3, food, 0.816634, 6
+3, good sports bar, 0.774711, 6
+3, beer, 0.767692, 7
+3, sharp cheddar cheese, 0.763604, 7
+3, Pretty good food, 0.80134, 8
+3, convenient sports bar, 0.760029, 8
+3, pretty good selection, 0.757683, 9
+3, good view, 0.708902, 9
+4, best sports bar, 0.602532, 0
+4, average bar food, 0.587298, 0
+4, beer butt chicken, 0.630845, 1
+4, giant TV boards, 0.519718, 1
+4, good onion ring, 0.566428, 2
+4, good food, 0.552106, 2
+4, end rustic bar, 0.564694, 3
+4, service, 0.608172, 4
+4, game, 0.512772, 4
+4, sports bar, 0.945356, 5
+4, food, 0.685411, 5
+4, place, 0.649162, 6
+4, American sports bar, 0.612188, 6
+4, fried cheese curds, 0.65351, 7
+4, amazing Great place, 0.574798, 7
+4, TAP Sports Bar, 0.70549, 8
+4, great place, 0.615285, 8
+4, high quality place, 0.547834, 9
+4, nice open space, 0.539993, 9
+5, upscale sports bar, 0.742756, 0
+5, Peanut butter crunch, 0.735021, 0
+5, sports bar food, 0.769916, 2
+5, deep fried smores, 0.740137, 2
+5, cherry chocolate cake, 0.727932, 3
+5, sports bar, 0.996939, 4
+5, food, 0.832887, 5
+5, place, 0.831361, 5
+5, New Sports Bar, 0.786379, 6
+5, sports bar options, 0.752355, 6
+5, service, 0.777769, 7
+5, MGM Grand, 0.769574, 7
+5, Sports Bar LOVE, 0.750847, 8
+5, great food, 0.745475, 8
+5, big split screens, 0.741611, 9
+5, cornbread bowl, 0.736693, 9

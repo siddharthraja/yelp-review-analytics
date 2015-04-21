@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, bloody mary, 0.635173, 0
+1, dive bar, 0.638471, 1
+1, bartender, 0.718508, 2
+1, Rusty Nail, 0.641157, 2
+1, Aruba, 0.377497, 3
+1, Absolut, 0.363519, 3
+1, drambuie, 0.931828, 4
+1, cranberry, 0.535848, 4
+1, scotch + Drambuie, 0.876653, 6
+1, Dewar, 0.388479, 6
+1, lounge, 0.341537, 8
+2, sprawling red booths, 0.672177, 0
+2, local joint prices, 0.665098, 0
+2, particularly uninteresting stretch, 0.669157, 1
+2, different dive bar, 0.662344, 1
+2, bar food, 0.565304, 2
+2, non-event nights, 0.560486, 2
+2, lounge acts, 0.607955, 3
+2, white pictures, 0.55982, 3
+2, Las Vegas Blvd., 0.938082, 4
+2, Thunderbird Lounge, 0.753051, 4
+2, popular reggae party, 0.668616, 6
+2, Sarah, 0.469762, 6
+2, Las Vegas N.O.I.S.E., 0.692236, 7
+2, monthly drum circle, 0.66566, 7
+2, Video poker players, 0.659392, 8
+2, great retro pictures, 0.641183, 9
+3, unremarkable dive bar, 0.971281, 0
+3, local indie-pop band, 0.970888, 0
+3, chicken fingers, 0.938368, 1
+3, little attention, 0.725695, 1
+3, Total dive bar, 0.990855, 2
+3, hangout spot, 0.758687, 2
+3, small-ish plastic cups, 0.943171, 3
+3, OK place, 0.745443, 3
+3, drinks, 0.683401, 4
+3, beer, 0.5787, 5
+3, swing dance night, 0.920143, 6
+3, dance floor area, 0.893836, 6
+3, friendly bartender, 0.821869, 7
+3, loud music, 0.740066, 7
+3, vintage music, 0.720738, 8
+5, huge stage arena, 0.768986, 0
+5, Lounge= favorite dive, 0.766686, 0
+5, constant rotation, 0.617213, 2
+5, Save Ferris, 0.606865, 2
+5, Mod/skin head/Rude Boy, 0.808315, 3
+5, Die Warsaw, 0.627542, 3
+5, proud Goth, 0.632734, 6
+5, long time, 0.594678, 6
+5, free drinks, 0.600475, 7
+5, bartenders, 0.380121, 7
+5, euro synthpop genre, 0.930542, 8
+5, musical tastes, 0.651948, 8
+5, T-Bird Lounge, 0.642984, 9

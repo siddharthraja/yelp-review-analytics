@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+3, good jazz band, 0.874721, 0
+3, live band playing, 0.801583, 0
+3, bar atmosphere, 0.504428, 2
+3, somethings, 0.253213, 3
+3, crowd, 0.207205, 3
+3, trivia night, 0.898896, 6
+3, regular customers, 0.580483, 7
+3, cider, 0.201979, 7
+3, Totally chill place, 0.94141, 8
+3, great little dive, 0.84444, 8
+4, beaten path, 0.692952, 0
+4, hard time, 0.688937, 0
+4, awful sports bar, 0.89711, 1
+4, routine tour stop, 0.840495, 1
+4, neighborhood joint, 0.708409, 3
+4, classic pub, 0.696784, 3
+4, bartender, 0.662086, 4
+4, rounds, 0.582044, 5
+4, beer, 0.570047, 5
+4, Grumpy, 0.731902, 6
+4, French horn, 0.699183, 6
+4, irish pub, 0.981981, 7
+4, great little place, 0.912581, 7
+4, Super cool place, 0.836497, 8
+4, local talented musicians, 0.833141, 8
+4, super cool bar, 0.872548, 9
+4, fun place, 0.695116, 9
+5, dim, 0.507533, 0
+5, stoney, 0.490279, 0
+5, special bar, 0.631188, 1
+5, bit, 0.461209, 2
+5, half-underground hole, 0.691072, 3
+5, wall bar, 0.675067, 3
+5, bluegrass jams, 0.718246, 6
+5, musician friends, 0.701866, 6
+5, local talent sing, 0.903649, 7
+5, stone walls, 0.667889, 7
+5, hilarious staff, 0.694582, 8
+5, downtown, 0.550761, 8
+5, beer, 0.441834, 9
+5, prices, 0.441606, 9

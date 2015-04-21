@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, poor sound quality, 0.713857, 0
+1, Comerica Theater, 0.691846, 0
+1, thump thump thump, 0.922527, 1
+1, muffle muffle thump, 0.834722, 1
+1, comerica theatre, 0.963749, 2
+1, stage, 0.782223, 2
+1, high heels, 0.59742, 3
+1, crappy sound, 0.586699, 3
+1, sound problems, 0.569052, 4
+1, husband, 0.49378, 5
+1, flippin rock concert, 0.733103, 6
+1, masturbation jokes, 0.593858, 6
+1, A-hole venue, 0.575228, 7
+1, good seats, 0.560212, 7
+1, wonderful Dolly Parton, 0.714883, 8
+1, Phoenix heat, 0.576677, 8
+2, Mesa Arts Center, 0.819256, 0
+2, primo seats, 0.76027, 0
+2, Brian Regan, 0.755577, 1
+2, airplane seats, 0.739827, 1
+2, hefty ticket prices, 0.745554, 2
+2, low quality brews, 0.741318, 2
+2, regular movie theater, 0.754213, 3
+2, average size, 0.748363, 3
+2, seats, 0.916155, 4
+2, Comerica Theater, 0.818149, 4
+2, Kevin Hart, 0.787108, 6
+2, best seats, 0.760601, 6
+2, NPRs Wait Wait, 0.795144, 7
+2, host live entertainment, 0.741981, 7
+2, great outdoor amphiteater, 0.76378, 8
+2, internet purchasing age, 0.753584, 8
+2, art-deco revival theater, 0.775811, 9
+2, great way, 0.695432, 9
+3, stadium style seats, 0.686609, 0
+3, assigned seat area, 0.650075, 0
+3, cheap seats, 0.634613, 1
+3, parking garage, 0.625413, 1
+3, Dodge Theater, 0.639628, 2
+3, obstructed view, 0.634046, 2
+3, row seats, 0.664885, 3
+3, wrong seats, 0.649237, 3
+3, seats, 0.944127, 4
+3, general admission, 0.689088, 4
+3, tickets, 0.701417, 5
+3, people, 0.70138, 5
+3, venue, 0.932833, 6
+3, theater, 0.738711, 6
+3, pretty small venue, 0.71621, 7
+3, standard concert venue, 0.69542, 7
+3, pretty decent venue, 0.799258, 8
+3, nice venue, 0.682564, 8
+3, Bruno Mars concert, 0.630191, 9
+3, good intimacy vibe, 0.623435, 9
+4, damn good seats, 0.773416, 0
+4, large venue, 0.730974, 0
+4, Comerica Theater policy, 0.747334, 1
+4, beer prices, 0.703643, 2
+4, Arctic Monkeys concert, 0.783335, 3
+4, Average concert prices, 0.730479, 3
+4, acoustics, 0.767372, 4
+4, seats, 0.865042, 5
+4, concert venue, 0.8031, 5
+4, venue, 0.996685, 6
+4, Comerica Theater, 0.879707, 6
+4, club level, 0.773313, 7
+4, cool venue, 0.75413, 7
+4, nice venue, 0.769317, 8
+4, favorite concert venue, 0.763898, 8
+4, best concert venue, 0.766788, 9
+4, pretty good acts, 0.743377, 9
+5, VIP box seats, 0.796282, 0
+5, Il Divo, 0.762778, 0
+5, better nightlife, 0.697955, 3
+5, beverage service, 0.739141, 5
+5, bad seat, 0.946807, 6
+5, box seats, 0.898874, 6
+5, Fresh Beat Band, 0.878138, 7
+5, Blue Collar Comedy, 0.780183, 7
+5, Live Nation, 0.972725, 8
+5, Nation box seats, 0.79186, 8
+5, favorite big place, 0.77555, 9
+5, Live Nation experience, 0.755806, 9

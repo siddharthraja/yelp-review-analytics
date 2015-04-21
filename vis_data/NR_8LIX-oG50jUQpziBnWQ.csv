@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, 15th wedding anniversary, 0.934828, 0
+1, fly-ridden nwc table, 0.921444, 0
+1, original order sit, 0.87947, 2
+1, new order, 0.876422, 2
+1, styrofoam cups, 0.787135, 3
+1, asparagus spear, 0.763259, 3
+1, scallops, 0.733735, 4
+1, steak, 0.91375, 5
+1, server, 0.688891, 5
+1, longtime Arcadia residents, 0.908316, 6
+1, dilapidated Jolly Rancher, 0.888939, 6
+1, Strawberry cake, 0.759758, 7
+1, ice water, 0.759564, 7
+1, nice restaurant, 0.923832, 8
+1, best bone-in filet, 0.884651, 8
+1, fine dining, 0.766227, 9
+2, Overly sweet mush, 0.831934, 0
+2, business dinner dollars, 0.819014, 0
+2, out-of-town colleagues, 0.701406, 1
+2, new restaurant, 0.681361, 1
+2, Large lumps, 0.708342, 2
+2, light crowd, 0.682612, 2
+2, Steak, 0.581089, 3
+2, sweet potatoes, 0.855333, 4
+2, bar, 0.654102, 4
+2, brussel sprouts, 0.855445, 5
+2, Stone crabs, 0.860335, 6
+2, original Mastros, 0.790282, 6
+2, butter cake, 0.90434, 7
+2, crispy asparagus, 0.888288, 7
+2, Veal meatball appetizer, 0.890447, 8
+2, Great impression, 0.715481, 8
+2, best friend, 0.710994, 9
+2, wine list, 0.70698, 9
+3, nice steak places, 0.956454, 0
+3, city hall steak, 0.929877, 0
+3, half my steak, 0.837196, 1
+3, hot towel, 0.712902, 1
+3, city hall, 0.957842, 2
+3, big boo boo, 0.812441, 2
+3, oz cut steak, 0.934187, 3
+3, butter cake, 0.809527, 3
+3, steak, 0.978773, 4
+3, good steak, 0.863914, 6
+3, higher end Steakhouse, 0.795258, 6
+3, Pretty good food, 0.824656, 7
+3, fried devil eggs, 0.796687, 7
+3, stuff Amazing service, 0.81605, 8
+3, Nice wine list, 0.81394, 8
+4, smore cup dessert, 0.854475, 0
+4, spicy lobster cobb, 0.823479, 0
+4, Friday night, 0.842564, 2
+4, noise level, 0.831595, 2
+4, velvet bread pudding, 0.954691, 3
+4, red velvet bread, 0.953653, 3
+4, table, 0.816405, 4
+4, steak, 0.959614, 5
+4, food, 0.912274, 5
+4, Arcadia steak houses, 0.901485, 6
+4, bar area, 0.858364, 6
+4, shrimp appetizer, 0.861515, 7
+4, sautéed shrimp appetizer, 0.85628, 7
+4, place, 0.94641, 8
+4, great experience, 0.937873, 8
+4, special occasion, 0.909956, 9
+4, Great lively atmosphere, 0.86037, 9
+5, steak sauce, 0.603416, 0
+5, ........., 0.590577, 0
+5, steak specialty spots, 0.654462, 2
+5, upscale steak houses, 0.60213, 2
+5, over-priced steak houses, 0.604764, 3
+5, bone-in filet, 0.522238, 3
+5, steak houses, 0.696287, 4
+5, butter cake, 0.579595, 4
+5, steak, 0.943684, 5
+5, night, 0.565393, 5
+5, velvet bread pudding, 0.758668, 6
+5, service, 0.719083, 6
+5, red velvet bread, 0.811575, 7
+5, food, 0.786423, 7
+5, great steak, 0.709858, 8
+5, Great steak cuts, 0.6681, 8
+5, smaller sized steak, 0.650413, 9
+5, Amazing steak, 0.613568, 9

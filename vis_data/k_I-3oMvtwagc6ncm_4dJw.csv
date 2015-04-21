@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+1, four-outlet plate, 0.695834, 0
+1, seat, 0.472697, 0
+1, Weak service, 0.786078, 1
+1, sports bar, 0.694407, 1
+1, nasty chips, 0.830113, 2
+1, bunch, 0.485667, 2
+1, purple duct work, 0.983465, 3
+1, surf boards, 0.709005, 4
+1, wall, 0.485152, 4
+1, Buffalo Wild Wings, 0.986311, 6
+1, guacamole, 0.53821, 6
+2, badger game transportation, 0.489761, 0
+2, Buffalo Wild Wings, 0.443322, 0
+2, regular fries, 0.428982, 1
+2, sports bar, 0.351499, 1
+2, icy cold glass, 0.44694, 2
+2, wrapper. yuck, 0.372876, 2
+2, waitress look, 0.363857, 3
+2, sturdier bun, 0.355314, 3
+2, beer selection, 0.493565, 4
+2, sweet pot fries, 0.540145, 6
+2, extra couple miles, 0.436302, 6
+2, buffalo chicken wrap, 0.946649, 7
+2, nice ciabatta roll, 0.492967, 7
+2, sweet potato fries, 0.812034, 8
+2, friendly servers, 0.36246, 8
+4, Crema Pinot Noir, 0.783648, 0
+4, Badger game, 0.669708, 0
+4, noise, 0.523215, 2
+4, Period, 0.523863, 3
+4, long waits, 0.640239, 4
+4, BBQ pork sandwich, 0.83237, 6
+4, surrounding gyms, 0.637089, 6
+4, Seating Galore, 0.651095, 7
+4, tvs, 0.536319, 7
+4, sweet potato fries, 0.985167, 8
+4, great place, 0.820963, 8
+4, late night drinkin, 0.752388, 9
+4, after-work beer, 0.637688, 9
+5, PD, 0.627748, 2
+5, Seminole, 0.620829, 2
+5, gem, 0.612563, 7
+5, wings, 0.600047, 7
+5, old fashioned sweets, 0.922338, 8
+5, pork sandwich, 0.816888, 8
+5, service, 0.570577, 9

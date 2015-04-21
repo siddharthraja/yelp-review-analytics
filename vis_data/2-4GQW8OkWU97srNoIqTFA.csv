@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, sports book.  wtf, 0.978449, 0
+1, nasty unfriendly staff, 0.849487, 0
+1, enoough. wtf, 0.589153, 1
+1, sports bar, 0.649019, 2
+1, NFL Playoff football, 0.768207, 3
+1, small TVs, 0.548895, 3
+1, PBR Rock Bar, 0.772046, 8
+4, bar, 0.410754, 1
+4, drinks, 0.379922, 1
+4, blue SOLO cups, 0.855201, 2
+4, Mad Dog, 0.85139, 2
+4, waitress, 0.410625, 3
+4, Spurs/Miami game, 0.581188, 6
+4, hipsters, 0.414073, 6
+4, particular sporting event, 0.920462, 7
+4, good seat, 0.647055, 7
+4, Great place, 0.636814, 8
+4, moment, 0.39266, 8
+5, go-to Vegas bar, 0.867269, 0
+5, Video Black Jack, 0.812066, 0
+5, night, 0.450215, 4
+5, drinks, 0.360912, 6
+5, dinner, 0.352474, 6
+5, attractively lit bar, 0.969675, 7
+5, red Washington apple, 0.854084, 7
+5, EXTREMELY positive experience, 0.864508, 8
+5, chic venue, 0.658937, 8
+5, south casino entrance, 0.83857, 9
+5, Playing Field, 0.817291, 9

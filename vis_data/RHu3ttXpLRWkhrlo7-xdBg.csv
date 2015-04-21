@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+4, coast basement bar, 0.579181, 0
+4, sleek flat-screen TVs, 0.567482, 0
+4, seedy looking motel, 0.548421, 1
+4, kinda bar, 0.544848, 1
+4, beautiful mahogany bar, 0.604662, 2
+4, swank little place, 0.604425, 2
+4, sleek mahogany tone, 0.563709, 3
+4, strip clubs, 0.54827, 3
+4, Lucas R. states, 0.53308, 4
+4, bar, 0.708627, 5
+4, place, 0.650542, 5
+4, shiny metal door, 0.587523, 6
+4, Grand Avenue art, 0.57014, 6
+4, Grand Avenue, 0.902562, 7
+4, Grand Avenue Tavern, 0.834093, 7
+4, nice misted patio, 0.572012, 8
+4, great place, 0.563594, 8
+4, sleek cherry wood, 0.554147, 9
+4, DJ spinning tracks, 0.532942, 9
+5, bacon aficionado club, 0.860887, 0
+5, comfy bar stools, 0.798966, 0
+5, Zero Tolerance Policy, 0.730239, 1
+5, civilized persons, 0.631975, 1
+5, bar hundreds, 0.628574, 2
+5, shady neighborhood, 0.623668, 2
+5, industrial-chic updated interior, 0.727457, 3
+5, huge bar, 0.633657, 3
+5, Grand Avenue, 0.902991, 5
+5, Ribbon Bacon Tour, 0.862275, 6
+5, bacon pinwheels, 0.755956, 6
+5, shiny diamond-plate steel, 0.775249, 7
+5, gorgeous cherry wood, 0.769536, 7
+5, new phoenix classic, 0.727422, 8
+5, patio furniture, 0.656124, 8
+5, friendly staff, 0.652303, 9
+5, Friendly patrons, 0.652251, 9

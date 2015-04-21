@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, war shu chicken, 0.981798, 0
+1, Teriyaki Chicken Noodle, 0.8338, 0
+1, soggy egg roll, 0.825881, 1
+1, poor little princess, 0.778685, 1
+1, dry heaves, 0.648963, 2
+1, rodent problem, 0.644886, 2
+1, oldest bowling shoe, 0.720034, 3
+1, Wok, 0.569755, 3
+1, chinese food, 0.818482, 4
+1, Honey chicken, 0.65392, 6
+1, new location, 0.634169, 6
+1, Gourmet Chinese, 0.654625, 7
+1, flo, 0.549965, 8
+2, good Chinese food, 0.703228, 0
+2, late-night Chinese food, 0.692209, 0
+2, wonky tummy, 0.637155, 1
+2, food blows, 0.622427, 1
+2, peanut sauce chicken, 0.702209, 2
+2, bad Chinese food, 0.67448, 2
+2, cashew chicken, 0.698805, 3
+2, hoisin sauce, 0.692275, 3
+2, chinese food, 0.954832, 5
+2, place, 0.816302, 5
+2, place Gourmet Chinese, 0.69733, 6
+2, Hong Kong Pooie, 0.65026, 6
+2, chinese food container, 0.711095, 7
+2, PuPu platter, 0.647376, 7
+2, free live bands, 0.638768, 8
+2, superior customer service, 0.636745, 8
+2, great place, 0.610078, 9
+2, cool staff, 0.592377, 9
+3, traditional Chinese chicken, 0.783052, 0
+3, fully stocked bar, 0.762926, 0
+3, bar area, 0.658531, 2
+3, little ol, 0.65143, 2
+3, brown goop, 0.888753, 3
+3, kitschy tropical/beach bum, 0.789613, 3
+3, mongolian beef, 0.922137, 6
+3, young-ish rocker guy, 0.755151, 6
+3, lunch specials, 0.769472, 7
+3, ton soup, 0.74662, 7
+3, quick look, 0.635186, 8
+3, Cheap drinks, 0.620976, 8
+3, food chinese fair, 0.76405, 9
+3, impressive selection, 0.635844, 9
+4, chinese place, 0.435308, 0
+4, dive Chinese place, 0.418936, 0
+4, little enclosed area, 0.334651, 1
+4, dive bar, 0.46292, 2
+4, Egg Drop Soup, 0.400894, 2
+4, killer rock bar, 0.349848, 3
+4, date place, 0.322015, 3
+4, bar, 0.50131, 4
+4, chinese food, 0.945185, 5
+4, place, 0.673818, 5
+4, dan dan noodles, 0.423147, 6
+4, apple pork, 0.385589, 6
+4, good Chinese food, 0.422162, 7
+4, best Chinese food, 0.397931, 7
+4, amazing Chinese food, 0.394015, 8
+4, great place, 0.327692, 8
+4, good dive, 0.33997, 9
+4, young place, 0.324353, 9
+5, tiny take-out place, 0.760736, 0
+5, late night take-out, 0.733341, 0
+5, short ribs, 0.615325, 2
+5, dive bar, 0.95988, 3
+5, take-out Chinese place, 0.787614, 3
+5, chinese food, 0.883583, 6
+5, North Scottsdale, 0.699921, 6
+5, good size drinks, 0.724276, 7
+5, inexpensive food, 0.638989, 7
+5, vegetable tofu dish, 0.667333, 8
+5, spicy lettuce, 0.640015, 8
+5, favorite places, 0.702622, 9
+5, different dining experience, 0.692698, 9

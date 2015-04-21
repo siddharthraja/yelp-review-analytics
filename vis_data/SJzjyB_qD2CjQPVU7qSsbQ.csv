@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, Monday night visit, 0.98056, 0
+1, Big Cracker Ass, 0.956059, 0
+1, worst service, 0.80972, 1
+1, UFC fight, 0.790959, 1
+1, bar area, 0.973014, 2
+1, epic fail., 0.783431, 2
+1, drink orders, 0.775095, 3
+1, restaurant, 0.680842, 3
+1, BWW, 0.889651, 5
+1, mild bbq sauce, 0.951276, 6
+1, white people, 0.789785, 6
+1, DM phone number, 0.931368, 7
+1, manager Chris, 0.778873, 7
+1, better experience, 0.812948, 8
+1, server, 0.674431, 9
+1, flatware, 0.644083, 9
+2, anonymous survey, 0.751142, 0
+2, NY STYLE CHEESECAKE, 0.747375, 0
+2, bad Teriyaki sauce, 0.800665, 1
+2, sports bar, 0.584399, 1
+2, cacophony, 0.363851, 2
+2, BUENO, 0.35316, 2
+2, wings, 0.951734, 3
+2, UFC fight, 0.529581, 3
+2, flavors, 0.400655, 4
+2, food, 0.393531, 5
+2, BWW atmosphere, 0.581938, 6
+2, Baby Wipes, 0.526524, 6
+2, nba playoff, 0.726529, 7
+2, NBA playoff action, 0.716227, 7
+2, Teriyaki wings, 0.71616, 8
+2, best places, 0.549884, 8
+2, waitress Jasmin, 0.576472, 9
+2, service, 0.348725, 9
+3, mild wings, 0.475847, 0
+3, cheaper wings, 0.471018, 0
+3, typical sports bar, 0.637106, 1
+3, star rating, 0.446225, 1
+3, good tip, 0.366337, 2
+3, wing place, 0.350387, 2
+3, Duke basketball game, 0.454326, 3
+3, good ventilation, 0.368156, 3
+3, waitress, 0.355764, 5
+3, Buffalo Wild Wings, 0.972156, 6
+3, good time, 0.383536, 6
+3, NCAA tournament action, 0.45005, 7
+3, great app sampler, 0.446981, 7
+3, asian kicker, 0.445129, 8
+3, Thai Curry sauce, 0.407693, 8
+3, Good beer specials, 0.475889, 9
+3, pretty good franchise, 0.459353, 9
+4, crispy friend wings, 0.735089, 0
+4, cent wings, 0.672186, 0
+4, cold ones, 0.529081, 1
+4, typical sports bar, 0.83343, 2
+4, sports bar restaurant, 0.633419, 2
+4, main shopping complex, 0.610233, 3
+4, mini parking deck, 0.598866, 3
+4, university area, 0.707426, 5
+4, Buffalo Wings, 0.649227, 6
+4, university area restaurant, 0.614738, 6
+4, Buffalo Wild Wings, 0.965051, 7
+4, asian wings, 0.659696, 7
+4, chicken wings, 0.668133, 8
+4, favorite bartender works, 0.650752, 8
+4, great drink prices, 0.619838, 9
+4, cheese bacon fries, 0.58018, 9
+5, mild wings, 0.848618, 0
+5, anymore wings, 0.817729, 0
+5, UFC fights, 0.753998, 2
+5, golf football, 0.707178, 2
+5, bar area, 0.67829, 3
+5, Sat, 0.4635, 3
+5, Thursday lunch, 0.760949, 6
+5, huge variety, 0.727399, 6
+5, chipotle BBQ, 0.864953, 7
+5, Hot BBQ, 0.803006, 7
+5, Great lunch visit, 0.978525, 8
+5, best wings, 0.85808, 8

@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, acoustic live music, 0.910325, 0
+1, checker boards table, 0.878356, 0
+1, male employees, 0.927733, 1
+1, bar male employees, 0.854092, 1
+1, bad press events, 0.904383, 2
+1, anger management issue, 0.837332, 2
+1, wife, 0.51248, 3
+1, fun, 0.449962, 3
+1, new year FYI, 0.688994, 6
+1, Hmm, 0.464898, 6
+1, delicious hot wings, 0.960256, 7
+1, low key vibe, 0.925356, 7
+2, neighborhood fave, 0.622025, 0
+2, real meat, 0.545773, 0
+2, weird guy, 0.605744, 1
+2, patio last time, 0.594116, 1
+2, fastest service, 0.561906, 2
+2, bad review, 0.533118, 2
+2, game, 0.352245, 3
+2, food, 0.339166, 3
+2, better places, 0.943961, 6
+2, burger, 0.277684, 6
+2, sports bar vibe, 0.804586, 7
+2, money, 0.271589, 7
+2, good place, 0.527232, 8
+2, beer, 0.427087, 8
+2, good selection, 0.527158, 9
+2, drafts, 0.274236, 9
+3, pretty good bar, 0.780417, 0
+3, big sporting events, 0.75197, 0
+3, cheaters texting friends, 0.742194, 1
+3, true neighborhood bars, 0.730429, 1
+3, bar food, 0.972121, 2
+3, neighborhood sports bar, 0.793046, 2
+3, good bar food, 0.949567, 3
+3, standard bar food, 0.747844, 3
+3, Ed, 0.715864, 5
+3, trivia, 0.6536, 5
+3, urban professional crowd, 0.712359, 6
+3, DISCO FRIES, 0.625494, 6
+3, pool tables, 0.863856, 7
+3, good beer list, 0.766524, 7
+3, high gravity beer, 0.763146, 8
+3, sunny Thursday afternoon, 0.757618, 8
+4, better-than-average bar food, 0.783512, 0
+4, solid bar food, 0.780052, 0
+4, good bar food, 0.816759, 3
+4, late night bar, 0.780748, 3
+4, cucumber salad, 0.799598, 4
+4, bar food, 0.961287, 5
+4, Ed, 0.845668, 5
+4, music trivia, 0.778501, 6
+4, good shot specials, 0.760719, 6
+4, great bar food, 0.894095, 7
+4, live music, 0.856194, 7
+4, beer selection, 0.915294, 8
+4, great neighborhood bar, 0.815575, 8
+4, good beer selection, 0.851942, 9
+4, pool tables, 0.78437, 9
+5, Blackened Parmesan Cheese, 0.984344, 0
+5, Nice Ball glass, 0.94952, 0
+5, weekly trivia events, 0.933727, 1
+5, sports bar, 0.835414, 1
+5, bar food, 0.954893, 2
+5, terrible reviews, 0.827467, 2
+5, pop shot basketball, 0.921739, 4
+5, place, 0.938856, 5
+5, Saturday college football, 0.91163, 6
+5, good place, 0.893913, 6
+5, Perfect watering hole, 0.934995, 7
+5, beer, 0.92525, 7
+5, Hungarian Cucumber Salad, 0.965432, 8
+5, Great selection, 0.964615, 8
+5, Great beers, 0.842078, 9
+5, blue cheese, 0.824129, 9

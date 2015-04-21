@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+2, basil spring rolls, 0.958273, 0
+2, Thai Taste, 0.81776, 0
+2, guy, 0.567537, 1
+2, night, 0.556262, 1
+2, hoisin sauce, 0.806098, 2
+2, lettuce, 0.676367, 2
+2, red curry, 0.796203, 3
+2, better places, 0.782147, 7
+2, Charlotte, 0.557704, 7
+2, spring rolls, 0.968443, 8
+2, customer service, 0.78715, 8
+3, cheaper priced place, 0.722777, 0
+3, better drunken noddles, 0.715817, 0
+3, green curry, 0.605169, 2
+3, disappointment, 0.456594, 2
+3, pad thai, 0.930509, 4
+3, jasmine tea, 0.606458, 6
+3, Sweet chili sauce, 0.77999, 7
+3, deep fried apps, 0.741945, 7
+3, grilled chicken, 0.615506, 8
+3, service, 0.484787, 8
+4, non chain restaurant, 0.665224, 0
+4, good non, 0.496537, 0
+4, Bruton Smith Blvd, 0.705758, 1
+4, new location, 0.504337, 1
+4, slow night, 0.532599, 2
+4, strip mall, 0.514785, 2
+4, area, 0.383786, 3
+4, Bar, 0.34192, 3
+4, Thai dishes, 0.600451, 6
+4, Mai Thai, 0.57394, 6
+4, real deal, 0.531819, 7
+4, Saturday lunch, 0.521913, 7
+4, Thai food, 0.991497, 8
+4, good Thai cuisine, 0.829199, 8
+4, B+ Friendly staff, 0.765086, 9
+4, nice surprise, 0.549694, 9
+5, Britten smith blvd, 0.623109, 0
+5, Mai Thai, 0.587959, 0
+5, non-descript strip mall, 0.649235, 1
+5, Thai Tulips, 0.599391, 2
+5, early crowd, 0.512692, 2
+5, Kai Yad Sigh, 0.619972, 3
+5, chicken skewers, 0.510113, 3
+5, strip mall, 0.664579, 4
+5, small shopping center, 0.680001, 6
+5, new location, 0.613769, 6
+5, Best pad Thai, 0.772316, 7
+5, Charlotte area, 0.633467, 7
+5, best Thai food, 0.9755, 8
+5, high quality ingredients, 0.917335, 8
+5, favorite Thai place, 0.79186, 9
+5, thai iced tea, 0.786657, 9

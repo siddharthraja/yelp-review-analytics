@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+1, original play, 0.688508, 0
+1, long time, 0.666086, 0
+1, kinda bar, 0.67938, 1
+1, cigarette smoke, 0.673057, 1
+1, guy flipping burgers, 0.864854, 2
+1, tacky karaoke, 0.673995, 2
+1, dive bar, 0.82067, 3
+1, double doors, 0.655924, 3
+1, parking, 0.507915, 4
+1, video poker machines, 0.950705, 6
+1, bar tender, 0.689261, 6
+1, couple pool tables, 0.840751, 7
+1, shuffleboard, 0.459806, 7
+1, great locals, 0.752974, 8
+1, new level, 0.671604, 8
+4, random potluck servings, 0.860951, 0
+4, Blue Diamond Saloon, 0.84868, 0
+4, Bar Slut Eyes, 0.879376, 1
+4, shuffle board, 0.866541, 1
+4, specific NFL team, 0.834659, 2
+4, Long bar, 0.764174, 2
+4, dive bar, 0.892731, 3
+4, corner dive bar, 0.882764, 3
+4, place, 0.995449, 6
+4, bar, 0.920765, 6
+4, better score, 0.743265, 7
+4, Tijuana hooker, 0.72574, 7
+4, bartenders, 0.759511, 8
+4, Chiefs games, 0.737769, 8
+4, pretty ambiance, 0.74167, 9
+4, pretty cocktails, 0.739018, 9
+5, cheap spot, 0.645702, 0
+5, Mc Donalds, 0.600239, 0
+5, regular spot, 0.593511, 2
+5, cold beer, 0.552538, 2
+5, cheap drinks, 0.633319, 3
+5, Cheap beer, 0.633123, 3
+5, food, 0.394718, 6
+5, darts, 0.35784, 6
+5, clean bathroom,and shuffleboard, 0.920407, 7
+5, BDS, 0.618322, 7
+5, pretty good crowd, 0.882002, 8
+5, football games, 0.599437, 8
+5, Super friendly bartenders, 0.830197, 9
+5, FUN FUN FUN, 0.807584, 9

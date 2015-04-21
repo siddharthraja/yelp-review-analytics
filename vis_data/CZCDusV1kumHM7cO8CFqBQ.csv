@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, inattentive bartenders, 0.870177, 0
+1, introverts, 0.743908, 0
+1, crowd, 0.65973, 1
+1, hole, 0.535434, 2
+1, dive bar, 0.99588, 3
+4, cut athletic groups, 0.731036, 0
+4, West Phoenix, 0.581762, 0
+4, sports bar type, 0.787442, 1
+4, ice cold Budweiser, 0.697829, 1
+4, neighborhood bar, 0.617033, 2
+4, class neighborhood, 0.61555, 2
+4, trash fashion sensibilities, 0.741919, 3
+4, white dudes, 0.591897, 3
+4, people, 0.558995, 5
+4, punk, 0.45521, 5
+4, good mix, 0.593731, 6
+4, rock music, 0.580307, 6
+4, pool tables, 0.913848, 7
+4, Clean awesome bar, 0.751626, 7
+4, friends, 0.459281, 8
+4, dive bar kind, 0.99417, 9
+4, great service, 0.772047, 9
+5, best little hide, 0.818591, 0
+5, car wash, 0.507112, 0
+5, pards rage, 0.689765, 1
+5, bar rules, 0.569009, 1
+5, easy going crowd, 0.94563, 2
+5, neighborhood bar, 0.530552, 2
+5, dive bar, 0.503797, 4
+5, good times roll, 0.813852, 7
+5, upscaley spot, 0.573465, 7
+5, magic word, 0.493075, 8
+5, chill morning shift, 0.952558, 9
+5, Rockin day shift, 0.60618, 9

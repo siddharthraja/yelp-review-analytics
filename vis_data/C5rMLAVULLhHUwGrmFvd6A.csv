@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, customer service incidences, 0.739681, 0
+1, female server stop, 0.726852, 0
+1, bad experience, 0.791439, 1
+1, mediocre food, 0.761373, 1
+1, san tan, 0.798961, 2
+1, shark wheat beer, 0.75527, 2
+1, service, 0.870955, 3
+1, hard alcohol, 0.735555, 3
+1, place, 0.903942, 4
+1, food, 0.90358, 4
+1, bar, 0.800906, 5
+1, margarita pizza, 0.718658, 5
+1, soft opening, 0.859041, 6
+1, Perch burger w/, 0.737097, 6
+1, craft beer, 0.813523, 7
+1, craft beer place, 0.773182, 7
+1, downtown chandler, 0.725267, 8
+1, cool outdoor patio, 0.721939, 8
+1, easy listening classics, 0.725111, 9
+1, good food, 0.716582, 9
+2, service staff member, 0.45528, 0
+2, consistent wait time, 0.436205, 0
+2, slow service, 0.446239, 1
+2, sinus rinse bottle, 0.414853, 1
+2, times, 0.526782, 2
+2, bar, 0.433994, 2
+2, margarita pizza, 0.468125, 3
+2, overpriced crappy food, 0.447145, 3
+2, food, 0.813397, 4
+2, service, 0.743084, 4
+2, place, 0.942888, 5
+2, beer, 0.75114, 5
+2, great beer selection, 0.464411, 6
+2, fresh orange peel, 0.413014, 6
+2, beer selection, 0.478263, 7
+2, great outdoor place, 0.467635, 7
+2, downtown chandler, 0.488051, 8
+2, Great outdoor patio, 0.456956, 8
+3, great tasting beer, 0.557936, 0
+3, zilla cuke beer, 0.532791, 0
+3, poor table lighting, 0.504891, 1
+3, typical bar food, 0.532554, 3
+3, food /food presentation, 0.516571, 3
+3, atmosphere, 0.584502, 4
+3, beer menu, 0.536015, 4
+3, beer, 0.908919, 5
+3, food, 0.745919, 5
+3, gourmet beer sausage, 0.561637, 6
+3, golden blonde beer, 0.549381, 6
+3, beer sausage, 0.630781, 7
+3, birds, 0.595871, 7
+3, great beer, 0.598989, 8
+3, craft beer, 0.58856, 8
+3, new craft beer, 0.566583, 9
+4, perch, 0.625138, 4
+4, bar, 0.534854, 4
+4, beer, 0.935374, 5
+4, food, 0.835599, 5
+4, place, 0.930255, 6
+4, service, 0.680556, 6
+4, Good beer selection, 0.551361, 7
+4, beer list, 0.543168, 7
+4, great food, 0.608448, 8
+4, great atmosphere, 0.577054, 8
+4, downtown chandler, 0.675829, 9
+4, great place, 0.664946, 9
+5, good work, 0.611003, 0
+5, beer place, 0.59706, 2
+5, pork belly pizza, 0.648121, 4
+5, service, 0.647814, 4
+5, place, 0.936985, 5
+5, food, 0.846878, 5
+5, beer, 0.801367, 6
+5, birds, 0.749771, 6
+5, tater tots, 0.826946, 7
+5, beer selection, 0.652206, 7
+5, great place, 0.7091, 8
+5, good food, 0.676248, 8
+5, destination Good food, 0.625578, 9
+5, delicious food, 0.606974, 9

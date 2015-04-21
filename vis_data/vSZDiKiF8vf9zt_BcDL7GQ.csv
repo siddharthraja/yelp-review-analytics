@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, Mr. William Penn, 0.873134, 0
+1, menu prices, 0.588312, 1
+1, damn plastic cups, 0.96556, 2
+1, oz glass, 0.546757, 2
+1, place, 0.467677, 5
+1, cheaper Guinness, 0.659148, 6
+1, oz Guinness, 0.72636, 7
+2, nice back patio, 0.489052, 0
+2, small group, 0.407295, 0
+2, Wormhole tequila black-out, 0.85803, 1
+2, Friday/Saturday nights, 0.481485, 1
+2, nastiest hardcore rap, 0.91718, 2
+2, Drink prices, 0.447727, 2
+2, large drunk group, 0.681464, 3
+2, favorite place, 0.466995, 3
+2, great atmosphere, 0.49283, 7
+2, Great food, 0.4861, 7
+2, good hang-out spot, 0.750807, 8
+2, Weirdest nights, 0.558261, 8
+3, light bar food, 0.833985, 0
+3, Pittsburgh sports game, 0.833634, 0
+3, homeless Vietnam Vet, 0.778591, 1
+3, dollar signs, 0.674556, 1
+3, Kitchen Sink Wings, 0.887631, 2
+3, cent wings, 0.776039, 2
+3, typical sports bar, 0.949166, 3
+3, Chinese engineers, 0.659419, 3
+3, copious amounts, 0.652433, 4
+3, wings, 0.958402, 5
+3, great wings, 0.746243, 6
+3, decent beer, 0.710201, 6
+3, fried pub grub, 0.783752, 7
+3, nice change, 0.688124, 7
+3, food specials, 0.694537, 8
+3, nice touch, 0.680871, 8
+3, beer specials, 0.841164, 9
+4, jersey cheese steak, 0.347741, 0
+4, William Penn Taverns, 0.330057, 0
+4, cheese bites, 0.330862, 1
+4, little cup smh, 0.311936, 1
+4, Good bar food, 0.349983, 2
+4, standard bar menu, 0.329528, 2
+4, kitchen sink wings, 0.940027, 3
+4, Parmesan cheese, 0.279472, 3
+4, Slightly limited menu, 0.311208, 4
+4, stars, 0.265426, 4
+4, possibly good wings, 0.44495, 6
+4, best wings, 0.402762, 6
+4, cent wings, 0.406666, 7
+4, multiple yummy flavors, 0.316017, 7
+4, chili cheese fries, 0.433703, 8
+4, Bombbbbbbbbb A wings, 0.380562, 8
+4, delicious wings, 0.387565, 9
+4, Great amazing service, 0.316224, 9
+5, kitchen sink, 0.630923, 0
+5, Pittsburgh, 0.253736, 0
+5, bad experiences, 0.601364, 2
+5, amazing wing sauce, 0.906984, 7
+5, Patio outback, 0.750185, 7
+5, Good Beers, 0.632745, 8
+5, Better Prices, 0.589725, 8

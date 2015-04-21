@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+1, bruschetta salad, 0.608823, 0
+1, corporate site, 0.51805, 0
+1, worst enemy, 0.567896, 1
+1, oriental chicken rollup, 0.928513, 2
+1, entire ride home, 0.861724, 2
+1, calories lunch menue, 0.929938, 3
+1, friend, 0.212976, 3
+1, daily intake, 0.528784, 4
+1, meal, 0.365714, 6
+1, kudos, 0.225077, 6
+1, insurance company, 0.545203, 7
+1, stomach, 0.226238, 7
+2, Cheese Chicken Penne, 0.68021, 0
+2, oz sirloin, 0.460225, 0
+2, meh meh meh, 0.998203, 1
+2, lower fat dishes, 0.683599, 1
+2, somewhat cookie, 0.485292, 2
+2, common stunt, 0.452761, 2
+2, chain restaurant/sports bar, 0.697356, 3
+2, bbq sauce, 0.47337, 3
+2, quality, 0.369785, 4
+2, portions, 0.320771, 4
+2, white queso dip, 0.673961, 6
+2, pre-made margarita mix, 0.638134, 6
+2, new 5-cheese Mac, 0.671452, 7
+2, pinch, 0.258094, 7
+4, tomato soup, 0.728031, 0
+4, Santa Fe, 0.599034, 0
+4, roma tomato sirloin, 0.937583, 7
+4, cedar salmon, 0.613539, 7
+4, Aubrey P., 0.641263, 8
+4, great server, 0.554491, 8
+4, great deal, 0.639716, 9
+4, great meal, 0.607224, 9
+5, food, 0.947028, 7
+5, service, 0.927351, 7

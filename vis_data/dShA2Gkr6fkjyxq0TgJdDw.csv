@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, wedding rehearsal dinner, 0.895612, 0
+1, famous chef, 0.658183, 0
+1, wedding planner, 0.662236, 1
+1, blame, 0.514365, 1
+1, food, 0.535196, 4
+1, nightclub, 0.465394, 6
+1, price, 0.442118, 6
+1, better risotto, 0.664746, 7
+1, sleep, 0.447699, 7
+1, music club vibe, 0.933892, 8
+1, drink, 0.46272, 8
+5, large group, 0.669315, 0
+5, private section, 0.655265, 0
+5, bad feng shui, 0.810165, 1
+5, picky vegetarian, 0.715724, 1
+5, rehearsal dinner experience, 0.879086, 2
+5, guest list, 0.627639, 2
+5, people, 0.482787, 3
+5, rehearsal dinner, 0.957679, 6
+5, lime mascarpone mousse, 0.899368, 6
+5, wild mushroom risotto, 0.869718, 7
+5, best meal, 0.707844, 7
+5, perfect veal steak, 0.869093, 8
+5, vegetarian friends, 0.692657, 8
+5, husband, 0.450178, 9
+5, staff, 0.448734, 9

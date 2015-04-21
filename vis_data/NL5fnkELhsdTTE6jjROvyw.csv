@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, grey goose shots, 0.864041, 0
+1, TEH GHEY, 0.820724, 0
+1, dance floor, 0.941756, 1
+1, skilless dj, 0.804979, 1
+1, amazing original drinks, 0.914474, 2
+1, USA basketball team, 0.884646, 2
+1, 2k sq ft, 0.891153, 3
+1, power tripin security, 0.873186, 3
+1, place, 0.917157, 4
+1, VIP table, 0.883155, 4
+1, Blush, 0.872743, 5
+1, better review, 0.811481, 6
+1, boutique nightclub, 0.799141, 6
+1, friends birthday weekend, 0.868657, 7
+1, Las Vegas, 0.799443, 7
+1, better time, 0.902302, 8
+1, big living room, 0.875673, 8
+1, long blended daiquiri, 0.907497, 9
+1, damn DRINKS, 0.826283, 9
+2, older crowd, 0.89076, 0
+2, past Saturday night, 0.742997, 0
+2, middle aged people, 0.696664, 1
+2, sparse crowd, 0.67085, 1
+2, dance floor, 0.95753, 2
+2, music, 0.760948, 2
+2, table service, 0.808364, 3
+2, closer club friends, 0.708482, 3
+2, crowd, 0.946235, 4
+2, night, 0.888488, 4
+2, free drinks, 0.871425, 5
+2, place, 0.878945, 6
+2, club promoter friend, 0.697093, 6
+2, Friday night, 0.768479, 7
+2, strange night, 0.618951, 7
+2, free champagne, 0.991139, 8
+3, free bottled water, 0.506583, 0
+3, small outdoor area, 0.497717, 0
+3, over-priced vegas drinks, 0.506939, 2
+3, bad place, 0.503059, 2
+3, older crowd, 0.621554, 3
+3, small club, 0.533461, 3
+3, dance floor, 0.96446, 4
+3, bar, 0.594055, 4
+3, night, 0.816309, 5
+3, music, 0.759242, 5
+3, place, 0.922441, 6
+3, guest list, 0.78905, 6
+3, wynn, 0.537803, 7
+3, Nice outdoor area, 0.517184, 7
+3, outdoor patio, 0.570736, 8
+3, good music, 0.568187, 8
+3, seating areas, 0.515775, 9
+4, =P Blush, 0.426408, 0
+4, Saturday night, 0.479205, 3
+4, Friday night, 0.45334, 3
+4, vegas, 0.627693, 4
+4, time, 0.541441, 4
+4, place, 0.952374, 5
+4, night, 0.840683, 5
+4, free champagne, 0.888214, 6
+4, dance floor, 0.798665, 6
+4, good time, 0.504174, 7
+4, great time, 0.497651, 7
+4, outdoor patio, 0.591025, 8
+4, good music, 0.526309, 8
+4, perfect Vegas night, 0.422322, 9
+4, nice place, 0.421921, 9
+5, Blush feels, 0.855825, 0
+5, good old Wynn, 0.840547, 0
+5, new favorite bar, 0.843175, 2
+5, girlfriends official bachelorette, 0.828977, 2
+5, light lamp things, 0.827977, 3
+5, b.s. cordoned-off line, 0.823736, 3
+5, vegas, 0.864691, 4
+5, Vegas club, 0.858298, 4
+5, night, 0.954785, 5
+5, blush, 0.942692, 5
+5, club, 0.953392, 6
+5, hideously red-lit place, 0.841489, 6
+5, music, 0.86441, 7
+5, absolutely best service, 0.847622, 7
+5, place, 0.911014, 8
+5, insanely fun night, 0.864751, 8
+5, Nice boutique nightclub, 0.877667, 9
+5, nice chill spot, 0.857329, 9

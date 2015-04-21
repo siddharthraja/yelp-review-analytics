@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+3, walls, 0.484375, 0
+3, average pub fare, 0.980245, 3
+3, food, 0.453645, 3
+3, places, 0.451413, 6
+3, Fantastic ambiance, 0.830243, 7
+3, Edinburgh, 0.615533, 7
+3, cheese, 0.51204, 8
+3, mac, 0.463611, 8
+4, c'est un pub, 0.707602, 0
+4, large pub, 0.699832, 0
+4, good our food, 0.538409, 1
+4, current appearance, 0.528585, 3
+4, Tolbooth Tavern, 0.922847, 4
+4, haggis, 0.570069, 4
+4, pub, 0.952858, 5
+4, quality pub food, 0.80793, 6
+4, cosy Tolbooth Tavern, 0.721203, 6
+4, old stone Gothic, 0.647292, 7
+4, historic Edinburgh, 0.542555, 7
+4, Solid pub, 0.659563, 8
+4, Bon rapport qualité, 0.639071, 8
+4, lovely pub staff, 0.783656, 9
+4, traditional pub, 0.715874, 9
+5, Nice little pub, 0.674265, 0
+5, local lad, 0.602218, 0
+5, bipolar personality disorder, 0.723086, 1
+5, ADHD, 0.434687, 1
+5, disembodied spirits, 0.598008, 2
+5, horrific competitors, 0.577774, 3
+5, character-laden decor, 0.562578, 3
+5, Tolbooth Tavern, 0.909157, 6
+5, gentle mix, 0.564056, 6
+5, best mate, 0.564209, 7
+5, best Haggis, 0.560809, 7
+5, great place, 0.552052, 8
+5, good beers, 0.550125, 8
+5, environment, 0.429277, 9
+5, drink, 0.42755, 9

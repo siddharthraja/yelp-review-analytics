@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+1, evening, 0.28835, 0
+1, racist slurs, 0.99153, 1
+1, bar, 0.882226, 1
+1, GM, 0.527708, 2
+1, altercation, 0.326932, 2
+1, women, 0.774681, 3
+1, instigator, 0.618438, 3
+1, establishment, 0.563979, 7
+1, ambiance, 0.354019, 8
+1, bartenders, 0.347323, 9
+1, atmosphere, 0.312046, 9
+2, dry martini, 0.935196, 3
+2, garnishes bin, 0.932401, 3
+2, bartenders, 0.569098, 7
+2, music, 0.478231, 7
+2, decor, 0.52752, 8
+4, Upscale martini bar, 0.956557, 0
+4, small dance floor, 0.870887, 0
+4, sleaze ball, 0.732929, 1
+4, bad spot, 0.712345, 2
+4, manager, 0.565864, 2
+4, super hot-ties, 0.744083, 3
+4, bad thing, 0.715855, 3
+4, mixed drink, 0.718953, 4
+4, place, 0.965701, 6
+4, bed couch, 0.726919, 6
+4, classiest place, 0.731571, 7
+4, Great Atmosphere, 0.709559, 7
+4, fun time, 0.689107, 8
+4, Saturday night, 0.688262, 8
+4, mature place, 0.713315, 9
+4, Fun place, 0.713121, 9
+5, pittsburgh blue collar, 0.952699, 0
+5, dance floor, 0.589198, 0
+5, bad time, 0.674101, 1
+5, college bar, 0.612614, 2
+5, delish drinks, 0.67137, 3
+5, bar tender, 0.600913, 3
+5, nice decor, 0.717619, 6
+5, young professional, 0.633326, 6
+5, Nice mix, 0.784203, 7
+5, Drink orderes, 0.690465, 7
+5, elegant lounge, 0.638823, 8
+5, people, 0.347531, 8
+5, great club, 0.693641, 9
+5, awesome DJ, 0.67482, 9

@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, pleasant place, 0.913087, 0
+1, best bar, 0.901167, 0
+1, Sergakis, 0.231753, 6
+1, building, 0.230994, 6
+1, great vibes, 0.843625, 8
+1, Great music, 0.741576, 8
+2, locals, 0.402349, 0
+2, Ok, 0.389227, 0
+2, stubborn bugger, 0.689812, 1
+2, Amex, 0.392548, 1
+2, big complaint, 0.639818, 2
+2, place, 0.493817, 2
+2, credit cards, 0.961917, 3
+2, dive bar, 0.648898, 3
+2, local currency..no credit, 0.845871, 6
+2, nice women, 0.652065, 7
+2, weekends, 0.383068, 7
+3, pub downtown, 0.80222, 0
+3, sports station, 0.672727, 0
+3, Arts, 0.462382, 3
+3, people, 0.457724, 3
+3, nice little pub, 0.945532, 6
+3, Crafts Mondays, 0.771547, 6
+3, pretty cozy place, 0.922618, 7
+3, cool place, 0.745323, 7
+3, nice entertaining, 0.783801, 8
+3, time, 0.493562, 8
+4, Cock'n Bull Pub, 0.950118, 0
+4, grand ma ma, 0.881839, 0
+4, bad parents, 0.972457, 1
+4, English bartender, 0.693432, 1
+4, soda pop, 0.976602, 2
+4, extremely cheap beer, 0.893397, 2
+4, police officers, 0.912041, 3
+4, Montreal Police Officers, 0.907064, 3
+4, town, 0.459418, 6
+4, English pub, 0.671085, 7
+4, regulars, 0.475649, 7
+4, Great pre-drinking place, 0.89653, 8
+4, staff, 0.455949, 9

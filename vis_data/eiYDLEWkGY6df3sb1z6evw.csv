@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, worst hookah lounges, 0.616202, 0
+1, nasty tasting hookah, 0.610405, 0
+1, loud music, 0.511483, 1
+1, extremely loud music, 0.504641, 1
+1, hookah user, 0.599741, 2
+1, customer service, 0.588603, 2
+1, smoking hookah, 0.622041, 3
+1, time, 0.593345, 3
+1, hookah, 0.920689, 4
+1, hookah lounge, 0.807661, 4
+1, groupon, 0.488679, 5
+1, true hookah lounge, 0.621525, 6
+1, regular hookah, 0.552305, 6
+1, free hookah, 0.563485, 7
+1, fruit salad, 0.53809, 7
+1, Middle Eastern tradition, 0.502296, 8
+1, great reviews, 0.460948, 9
+2, fellow employee, 0.619875, 0
+2, international music, 0.588193, 0
+2, loud obnoxious music, 0.884469, 1
+2, shitty people, 0.666392, 1
+2, luna lounge, 0.942212, 2
+2, multiple hookah flavors, 0.908977, 2
+2, Customer service, 0.678293, 3
+2, inattentive staff, 0.599644, 3
+2, ice cubes, 0.592816, 4
+2, ice tip, 0.586013, 4
+2, women, 0.361435, 6
+2, hand, 0.36132, 6
+2, local girl, 0.621311, 7
+2, friend, 0.457088, 7
+2, good job, 0.628405, 8
+2, new place, 0.595535, 8
+3, Middle Eastern club, 0.885245, 0
+3, maxi dresses, 0.691264, 0
+3, kinda whack, 0.759813, 1
+3, horrible music., 0.703775, 1
+3, dress code, 0.962363, 2
+3, red peppers, 0.659912, 2
+3, hookah, 0.95436, 3
+3, place, 0.621125, 3
+3, owners hands, 0.646582, 4
+3, food, 0.493433, 6
+3, drinks, 0.511323, 7
+3, waitress, 0.468202, 7
+3, security guard, 0.647828, 8
+3, server, 0.457101, 9
+4, seduction hookah, 0.731697, 0
+4, it..fun chill place, 0.657135, 0
+4, fruit bowl, 0.578666, 1
+4, dope bar, 0.575797, 1
+4, expensive hookah spots, 0.801353, 2
+4, little light, 0.626325, 2
+4, hookah establishments, 0.721565, 3
+4, small shopping plaza, 0.652537, 3
+4, hookah, 0.92281, 6
+4, Luna, 0.638562, 6
+4, good hookah spot, 0.815409, 7
+4, lounge. great hookah, 0.799644, 7
+4, hookah lounges, 0.822524, 8
+4, hookah lounge, 0.787197, 8
+4, hookah experience, 0.771107, 9
+4, extended girls weekend, 0.659153, 9
+5, favorite hookah bar, 0.591533, 0
+5, hookahs great service, 0.516068, 2
+5, hookah alot, 0.57919, 3
+5, vegas, 0.577177, 5
+5, las vegas, 0.560229, 5
+5, hookah, 0.908475, 6
+5, place, 0.630539, 6
+5, hookah lounges, 0.6225, 7
+5, Hookah fruit, 0.58858, 7
+5, hookah lounge, 0.797972, 8
+5, great hookah spot, 0.704304, 8
+5, Hookah lounge Iv'e, 0.641133, 9
+5, reasonable hookah prices, 0.635163, 9

@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, minuscule secondary room, 0.963358, 0
+1, high school production, 0.962944, 0
+1, seriously bad series, 0.96039, 1
+1, HOLY CRAP ..I, 0.933832, 1
+1, Awesome 80s Prom, 0.986755, 2
+1, cheesy story line, 0.955352, 2
+1, Wisconsin dairy farm, 0.9218, 3
+1, random audience members, 0.920019, 3
+1, Sirc Michaels fan, 0.959244, 6
+1, black fella, 0.954485, 6
+1, movie references, 0.826896, 7
+1, blonde girl, 0.82703, 8
+1, great job, 0.825677, 8
+1, small theater, 0.831026, 9
+2, ad lib type, 0.922868, 0
+2, prom king, 0.700823, 0
+2, high school, 0.97085, 1
+2, weak script, 0.675938, 1
+2, little expectations, 0.668385, 2
+2, ticket prices, 0.652375, 2
+2, audience members, 0.704187, 3
+2, stronger storyline, 0.675914, 3
+2, friend, 0.703259, 4
+2, cast, 0.636131, 4
+2, Lloyd Dobler, 0.712888, 6
+2, Breakfast Club, 0.691285, 6
+2, price range, 0.827764, 7
+2, better options, 0.66455, 7
+2, free tickets, 0.719168, 8
+2, Vegas strip, 0.66106, 8
+3, CHEESY, 0.50289, 0
+3, Mom, 0.398203, 0
+3, crowd, 0.411608, 2
+3, babies, 0.397688, 2
+3, Breakfast Club, 0.749373, 6
+3, Whip, 0.407172, 6
+3, teen movies, 0.732136, 7
+3, big fan, 0.710055, 7
+3, hit wonder songs, 0.902358, 8
+3, pretty good job, 0.898245, 8

@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+2, comedian-2 horrible comedian, 0.958226, 0
+2, parking garage, 0.70195, 0
+2, fool, 0.474101, 1
+2, cheap chuckle, 0.808831, 2
+2, laugh, 0.478319, 2
+2, double date, 0.697483, 3
+2, different comedians-2, 0.688084, 3
+2, place, 0.574018, 7
+2, reviews, 0.462624, 7
+2, Great audience involvement, 0.950649, 8
+2, BYOB, 0.517782, 8
+2, large audience, 0.693164, 9
+2, laughter, 0.474376, 9
+3, audience vote, 0.789593, 0
+3, corkage fee, 0.699596, 0
+3, pm, 0.452739, 1
+3, Pittsburghers, 0.452311, 1
+3, alien costume gear, 0.948603, 6
+3, audience participation, 0.799299, 7
+3, good laughs, 0.772552, 7
+3, fun way, 0.752174, 9
+3, evening, 0.491385, 9
+4, high success rate, 0.824288, 0
+4, crowd, 0.442555, 0
+4, box office, 0.612922, 1
+4, paper ticket, 0.607309, 1
+4, dud, 0.464508, 2
+4, lobby, 0.443114, 2
+4, admission price, 0.642813, 3
+4, drink, 0.443937, 3
+4, tickets, 0.531581, 6
+4, norm, 0.444858, 6
+4, Steel City Improv, 0.872045, 7
+4, higher ticket price, 0.843547, 7
+4, good friend Jason, 0.797378, 8
+4, BYOB policy, 0.652148, 8
+4, Arcade Comedy Theater, 0.901413, 9
+4, decently affordable prices, 0.803859, 9
+5, Read Yelp Reviews, 0.595623, 0
+5, beer store prices, 0.583288, 0
+5, oft ignored skill, 0.578855, 1
+5, audience member, 0.578736, 2
+5, drink minimum bs, 0.55824, 2
+5, Arcade stage, 0.594376, 3
+5, bizarre seal-fetish nightmares, 0.573179, 3
+5, Downtown Pittsburgh, 0.603618, 5
+5, Friday night, 0.571454, 5
+5, Arcade Theater troupe, 0.673614, 6
+5, improv, 0.591242, 6
+5, BYOB, 0.606667, 7
+5, awesome yo-yo guy, 0.601129, 7
+5, Arcade Comedy Theater, 0.909977, 8
+5, local comedy performers, 0.608064, 8
+5, great place, 0.692225, 9
+5, nice cozy venue, 0.579709, 9

@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, cream sauce, 0.794894, 0
+1, pasta, 0.568839, 0
+1, WTF, 0.569185, 1
+1, lactose intolerant, 0.816514, 2
+1, waitress, 0.580872, 2
+1, hell, 0.632486, 3
+1, dish, 0.569411, 3
+1, high profile restaurants, 0.955134, 4
+1, Scottsdale, 0.567473, 4
+1, menu, 0.681792, 5
+1, gravy, 0.668956, 5
+1, Bolognese sauce, 0.839245, 6
+1, lamb meatloaf, 0.829797, 6
+2, Hilton Village.  service, 0.811433, 0
+2, fresh tomato salsa, 0.752375, 0
+2, dead clam, 0.664097, 1
+2, Rookie mistake, 0.595055, 1
+2, eggplant caponata, 0.943079, 2
+2, sunfish dinner, 0.863812, 2
+2, re-thermalized Sysco feed., 0.829107, 3
+2, tomato sauce, 0.61116, 3
+2, time, 0.47172, 4
+2, closed clam, 0.684578, 6
+2, Vegetarian Plate, 0.593788, 6
+2, neat Lincoln dr, 0.74966, 8
+2, Scottsdale rd, 0.588119, 8
+3, club sandwich, 0.877278, 0
+3, dining room, 0.829561, 0
+3, bread, 0.644412, 1
+3, good takeout, 0.88509, 2
+3, waiter, 0.650881, 2
+3, early bird, 0.81084, 4
+3, dollars, 0.646466, 4
+3, milk gelato, 0.80764, 6
+3, vanilla goat, 0.801646, 6
+3, peanut butter chip, 0.97787, 7
+3, caesar salad, 0.870623, 7
+3, quaint restaurant, 0.838916, 8
+3, Camelback Mountain, 0.824364, 8
+3, resort district, 0.856098, 9
+3, wonderful patrons, 0.834704, 9
+4, duck meat, 0.698396, 0
+4, lunch coffee, 0.673281, 1
+4, amazing meal, 0.659791, 1
+4, nearby restaurants, 0.701919, 2
+4, good things, 0.678541, 2
+4, unassuming touches fool, 0.821652, 3
+4, time, 0.610178, 3
+4, good work Calistro, 0.810228, 6
+4, place, 0.723361, 6
+4, asian duck wraps, 0.877271, 7
+4, lamb meatloaf sandwiches, 0.833863, 7
+4, Calistro California Bistro, 0.87795, 8
+4, sweet potato tots, 0.826802, 8
+4, cute unassuming restaurant, 0.847288, 9
+4, rich cream sauce/gravy, 0.806275, 9
+5, fresh strawberry pastry, 0.814305, 0
+5, tasteful food combinations, 0.760316, 0
+5, sweet potato mash, 0.714901, 3
+5, new management, 0.723669, 4
+5, food, 0.929985, 5
+5, ice cream, 0.799434, 5
+5, Calistro, 0.905984, 6
+5, Calistro California Bistro, 0.827628, 6
+5, new place, 0.733719, 7
+5, veggie terrine dish, 0.727405, 7
+5, Calistro Bistro, 0.86378, 8
+5, great service, 0.842142, 8
+5, especially GREAT FOOD, 0.853867, 9
+5, John. Great location, 0.759665, 9

@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, pricey beers, 0.614678, 0
+1, stellar reviews, 0.611207, 0
+1, non-college bar, 0.659027, 1
+1, grad student, 0.645227, 1
+1, rude staff, 0.963718, 2
+1, drink prices, 0.917291, 2
+1, large hipster glasses, 0.840681, 3
+1, older judgmental people, 0.812804, 3
+1, ruddiest bartenders, 0.634717, 6
+1, pregnant bartender, 0.629674, 6
+1, better beer specials, 0.767649, 7
+1, friendlier crowd, 0.655082, 7
+2, Saw, 0.51525, 0
+2, drink, 0.513456, 0
+2, Dirty dirtiness, 0.908495, 2
+2, eye contact, 0.812919, 2
+2, Wednesday night, 0.789382, 3
+2, prompt service, 0.866491, 6
+2, beautiful night, 0.786856, 6
+3, pretty talented manuevers, 0.691372, 0
+3, industrial style, 0.624862, 0
+3, filthy little stall, 0.697827, 1
+3, go-to bar, 0.622844, 1
+3, kinda blah atmosphere, 0.723913, 2
+3, miss bathroom cleanliness, 0.68155, 2
+3, Cool little bar, 0.715301, 3
+3, graduate students, 0.621434, 3
+3, place, 0.755594, 4
+3, Genna, 0.953251, 5
+3, bar, 0.727655, 5
+3, Skip State St, 0.698319, 6
+3, mic comedy night, 0.687402, 6
+3, warm upstairs, 0.646464, 7
+3, good sign, 0.62639, 7
+3, little cozy spot, 0.698884, 8
+3, outdoor seating, 0.694233, 8
+3, summer Madison evening, 0.675641, 9
+3, pretty chill, 0.61842, 9
+4, Barcelonan wine bar, 0.539471, 0
+4, great drinks, 0.525696, 0
+4, upstairs bartenders, 0.518227, 1
+4, upstairs bathroom, 0.506289, 1
+4, little European-like escape, 0.507593, 2
+4, old stomping grounds, 0.504419, 2
+4, genna, 0.904295, 5
+4, bar, 0.762429, 5
+4, drinks, 0.691192, 6
+4, people, 0.593977, 6
+4, outdoor seating, 0.701495, 7
+4, great Madison bar, 0.616416, 7
+4, great place, 0.59287, 8
+4, great neighborhood place, 0.563307, 8
+4, regular college bar, 0.568149, 9
+4, Pretty awesome beer, 0.553831, 9
+5, favorite bar, 0.708213, 0
+5, comfortable little bar, 0.532514, 0
+5, State St. Genna, 0.762786, 1
+5, upstairs bathroom, 0.505595, 1
+5, Street mean Genna, 0.697097, 2
+5, upstairs bar area, 0.554949, 3
+5, quaint little bar, 0.539216, 3
+5, bar, 0.821458, 4
+5, bartenders, 0.564101, 4
+5, Genna, 0.92575, 5
+5, Madison, 0.67428, 5
+5, place, 0.696699, 6
+5, best bar, 0.499494, 6
+5, smoky hipster bar, 0.553818, 7
+5, good sized crowd, 0.542225, 7
+5, Thanks Genna, 0.691133, 8
+5, good drinks, 0.635627, 8
+5, Ahhh Genna, 0.691376, 9
+5, great place, 0.668863, 9

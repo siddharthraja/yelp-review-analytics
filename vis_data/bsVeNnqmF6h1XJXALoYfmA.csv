@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+2, Steelers fans, 0.753757, 0
+2, Pool tables, 0.661459, 0
+2, current Yelp reviews, 0.862996, 1
+2, appeal, 0.374032, 1
+2, cold ones, 0.688807, 2
+2, place, 0.360613, 2
+2, Steelers game night, 0.984272, 3
+2, likely overflows, 0.710832, 3
+2, important facilities, 0.637868, 6
+2, bathrooms, 0.380991, 6
+2, casual attire, 0.717011, 7
+2, large space, 0.664632, 7
+2, Friendly bartenders, 0.712258, 8
+2, boisterous fans, 0.684969, 8
+3, slightly above-average dive, 0.730115, 0
+3, average person, 0.460447, 0
+3, steelers game, 0.419302, 2
+3, TVs, 0.30947, 2
+3, bar food, 0.850179, 3
+3, dive bars, 0.749729, 3
+3, bar, 0.982175, 4
+3, wings, 0.235063, 4
+3, pool tables, 0.695379, 6
+3, good local bar, 0.694831, 6
+3, solid bar, 0.481069, 7
+3, dollar Coronas, 0.456891, 7
+4, comfort food, 0.660164, 0
+4, Charlotte airport, 0.696175, 1
+4, Steelers, 0.348887, 1
+4, passionate Pittsburgh fans, 0.986579, 3
+4, Patriots fan, 0.775313, 3
+4, onion rings, 0.712749, 6
+4, huge order, 0.687656, 6
+4, Great dive bar, 0.896869, 7
+4, John Taffer, 0.734675, 7
+4, good fun, 0.642476, 8
+4, wings, 0.299732, 9
+5, I.C. Light, 0.409414, 0
+5, Steelers sports bar, 0.7704, 2
+5, little homesick, 0.477131, 2
+5, Best Steelers bar, 0.96437, 3
+5, Pittsburgh staple, 0.425616, 3
+5, Steeler Nation, 0.459857, 6
+5, hot wings, 0.467472, 7
+5, truly HOT, 0.437333, 7
+5, draft beers, 0.397623, 8
+5, Good selection, 0.363901, 8
+5, Super friendly staff, 0.693262, 9
+5, healthy sampling, 0.408923, 9

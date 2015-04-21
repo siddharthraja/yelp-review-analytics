@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, Old Town Scottsdale, 0.779835, 0
+1, Old Money Scottsdale, 0.77816, 0
+1, dead dirty place, 0.768645, 1
+1, stale pita bread, 0.767557, 1
+1, waitress, 0.728571, 2
+1, food business, 0.708388, 2
+1, wine list, 0.806044, 3
+1, Sunday morning brunch, 0.766356, 3
+1, food, 0.806489, 4
+1, Armitage, 0.743654, 4
+1, wine, 0.907442, 5
+1, small chunky pieces, 0.769606, 6
+1, dc ranch, 0.768053, 6
+1, Garden Veggie Pita, 0.778763, 7
+1, Great place, 0.70981, 7
+1, shotty service, 0.69707, 8
+2, hubby ordered capellini, 0.649691, 0
+2, beet salad, 0.633139, 0
+2, little tomato sauce, 0.642844, 2
+2, overly garlic flavor, 0.641001, 2
+2, wine bars, 0.645556, 3
+2, tomato slices, 0.545269, 3
+2, Big bummer, 0.530273, 4
+2, fresh mozzarella, 0.9031, 5
+2, bruschetta, 0.707368, 5
+2, Tiny orange wedges, 0.608224, 6
+2, LOVE Armitage, 0.572668, 6
+2, Warm Spinach Dip, 0.873238, 7
+2, french fries, 0.794211, 7
+2, marinara dipping sauce, 0.652472, 8
+2, ranch type sauce, 0.638887, 8
+2, different bruschetta types, 0.644033, 9
+3, perimeter guiding customers, 0.725738, 0
+3, wine lounge, 0.664222, 0
+3, cheese board, 0.714513, 1
+3, new wine bars, 0.757801, 2
+3, different varietals, 0.638856, 2
+3, service, 0.830389, 4
+3, wine, 0.969397, 5
+3, DC Ranch, 0.890124, 5
+3, typical wine connesuir, 0.788061, 6
+3, customer service, 0.727062, 6
+3, high end cheeses, 0.745365, 7
+3, patio seating area, 0.74509, 7
+3, wine flights, 0.765005, 8
+3, new wine bar, 0.764137, 8
+3, Pretty good wine, 0.804799, 9
+3, nice selection, 0.766925, 9
+4, siliconey people, 0.541979, 0
+4, brie bruschetta, 0.536529, 0
+4, late night snack, 0.530614, 2
+4, little wine bar, 0.573483, 3
+4, large bar area, 0.53279, 3
+4, DC Ranch, 0.967785, 4
+4, night, 0.567809, 4
+4, place, 0.736698, 5
+4, wine, 0.867744, 6
+4, cheese plate, 0.669909, 6
+4, wine bar, 0.673752, 7
+4, wine flight menu, 0.584106, 7
+4, DC Ranch area, 0.7602, 8
+4, great place, 0.662313, 8
+4, nice wine bar, 0.623735, 9
+4, nice old world, 0.568363, 9
+5, large wine list, 0.682209, 0
+5, Italian sports cars, 0.664681, 0
+5, Armitage Turkey Club, 0.73793, 3
+5, DC Ranch, 0.92301, 4
+5, food, 0.645566, 5
+5, armitage, 0.757061, 6
+5, Baked Goat Cheese, 0.679396, 6
+5, roast beef panini, 0.687177, 7
+5, wine list, 0.686943, 7
+5, Market Street, 0.771025, 8
+5, wine, 0.753679, 8
+5, amazing cheese board, 0.669725, 9
+5, great bet, 0.633784, 9

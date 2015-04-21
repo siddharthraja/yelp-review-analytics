@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, trucker friends, 0.708688, 0
+2, different appeal, 0.665787, 0
+2, cheap drinks, 0.71488, 2
+2, horrible service, 0.664801, 2
+2, odd papers, 0.686967, 3
+2, trailer, 0.502759, 3
+2, weird fish tanks, 0.909258, 6
+2, Cool bar, 0.647957, 6
+2, fun crowd, 0.673625, 7
+2, staff, 0.452893, 7
+3, far-from-pleasant bartender, 0.642899, 0
+3, small groups, 0.593642, 0
+3, typical dive bar, 0.717152, 1
+3, cheap alcohol, 0.621201, 1
+3, dive bar crawl, 0.718166, 2
+3, dirty fish tank, 0.717087, 2
+3, crackhead hang, 0.572966, 3
+3, Odd drink, 0.572909, 3
+3, dive bar, 0.932151, 4
+3, bartender, 0.791304, 4
+3, fish tank, 0.720542, 6
+3, shuffleboard table, 0.58587, 6
+3, hard cheap drink, 0.759032, 7
+3, pretty nondescript dive, 0.756986, 7
+3, big fish tank, 0.702581, 8
+3, weirdly cool fish, 0.700291, 8
+4, Dilly Dally Lounge, 0.736676, 0
+4, reliable dive bar, 0.624725, 0
+4, little strip mall, 0.57431, 1
+4, Fish Tank Specials, 0.558813, 1
+4, cheap drinks, 0.864881, 2
+4, dive bars, 0.723082, 2
+4, Super cheap drinks, 0.629899, 3
+4, neighborhood dive bar, 0.628264, 3
+4, juke box, 0.79951, 4
+4, quintessential dive, 0.527318, 4
+4, bar, 0.815697, 5
+4, jukebox, 0.562907, 5
+4, Dilly Dally, 0.980009, 6
+4, dive bar, 0.747517, 6
+4, pool table, 0.733937, 7
+4, warm neighborly place, 0.593178, 7
+4, interesting dive bar, 0.652355, 8
+4, winter night, 0.574142, 8
+4, great go-to place, 0.629453, 9
+5, Golden cup video, 0.953196, 0
+5, mixed drinks, 0.832585, 0
+5, bday cupcakes, 0.656385, 1
+5, cheap drinks, 0.852476, 2
+5, Wood paneling, 0.713495, 2
+5, Dive bars, 0.691056, 3
+5, wine list, 0.614325, 3
+5, good jukebox, 0.692788, 7
+5, different crowd, 0.665822, 7
+5, water w lime, 0.637717, 8
+5, bartenders, 0.392333, 8
+5, hidden gem, 0.669998, 9
+5, dives, 0.375383, 9

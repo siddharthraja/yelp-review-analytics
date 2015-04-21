@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, hhhmmmm bad idea, 0.608499, 0
+1, later evening dinner, 0.593567, 0
+1, dark haired man, 0.615976, 1
+1, royal blue jacket, 0.614184, 1
+1, soggy sponge fries, 0.653448, 2
+1, dirty kitchen rag, 0.638155, 2
+1, Public House, 0.772036, 3
+1, Johnny Fox, 0.758808, 3
+1, chips, 0.732102, 4
+1, fish, 0.692474, 4
+1, place, 0.576382, 5
+1, new staff, 0.54308, 6
+1, bar, 0.536868, 6
+1, Lis Doon Varna, 0.916035, 7
+1, Doon Varna serverd, 0.647238, 7
+1, previous place, 0.554181, 8
+1, nice blonde hostess, 0.635316, 9
+1, female manager, 0.539774, 9
+2, Irish pub experience, 0.669484, 0
+2, local Irish Wolfhound, 0.631046, 0
+2, poor people, 0.610313, 1
+2, Lis Doon Varna, 0.88645, 2
+2, solid Irish fare, 0.635075, 2
+2, food, 0.77035, 3
+2, Johnny Fox, 0.694894, 3
+2, menu, 0.646163, 5
+2, place, 0.633519, 5
+2, irish pub, 0.902491, 6
+2, bread pudding, 0.754192, 6
+2, real Irish fun, 0.650309, 7
+2, sweet potato wedges, 0.622067, 7
+2, traditional Irish music, 0.63544, 8
+2, Irish cottage type, 0.634727, 8
+2, real Irish pub, 0.671222, 9
+2, good potato soup, 0.624076, 9
+3, limited lunch menu, 0.798723, 0
+3, Lis Doon Varnas, 0.782192, 0
+3, little plastic cup, 0.771105, 1
+3, crappy NFL Sundays, 0.770743, 1
+3, Lis Doon Varna, 0.966311, 2
+3, delicious cream sauce, 0.754934, 2
+3, greasy hamburger bun, 0.81229, 3
+3, mall art shop, 0.773465, 3
+3, place, 0.898995, 5
+3, Great food choices, 0.788321, 6
+3, main dining room, 0.771719, 6
+3, pretty good food, 0.878654, 7
+3, lunch size fish, 0.798526, 7
+3, excellent Irish beer, 0.816906, 8
+3, great beer selection, 0.812247, 8
+3, neat looking place, 0.791316, 9
+3, tap beer, 0.70933, 9
+4, authentic Irish food, 0.63824, 0
+4, long wait time, 0.623527, 0
+4, Bloody Mary bar, 0.619069, 2
+4, ice cream, 0.5976, 2
+4, fish fry, 0.693941, 3
+4, Bloody Mary, 0.653491, 3
+4, place, 0.858654, 4
+4, service, 0.629534, 4
+4, Johnny Fox, 0.955531, 5
+4, food, 0.794275, 5
+4, red velvet cake, 0.677548, 6
+4, wait staff, 0.618396, 6
+4, bread pudding, 0.642719, 7
+4, Sunday brunch buffet, 0.632428, 7
+4, friday night, 0.69792, 8
+4, great place, 0.62271, 8
+4, great size tables, 0.633502, 9
+4, pretty good deal, 0.629421, 9
+5, live music, 0.570028, 0
+5, traditional Corn Beef, 0.549034, 0
+5, lis doon varna, 0.628708, 2
+5, Irish-themed sports bar, 0.524589, 2
+5, little corned beef, 0.570115, 3
+5, legit Irish Pub, 0.542903, 3
+5, food, 0.671836, 4
+5, cabbage, 0.563801, 4
+5, Johnny Fox, 0.921422, 5
+5, corned beef, 0.751219, 5
+5, irish pub, 0.591141, 6
+5, wonderful corned beef, 0.584251, 6
+5, main dining area, 0.588089, 7
+5, service, 0.555553, 7
+5, seafood stew, 0.575114, 8
+5, great food, 0.567523, 8
+5, love Johnny Fox, 0.548033, 9
+5, tasty white wine, 0.529292, 9

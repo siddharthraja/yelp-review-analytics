@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, Lake Las Vegas, 0.93245, 0
+1, keno machine non, 0.922756, 0
+1, poor food quality, 0.928607, 1
+1, slot joint, 0.744287, 1
+1, black floating, 0.78614, 2
+1, thing, 0.651637, 2
+1, baked potato, 0.753094, 3
+1, night shift, 0.719261, 3
+1, bars, 0.592497, 4
+1, place, 0.740598, 5
+1, chips, 0.711757, 5
+1, steak, 0.627404, 6
+1, heavy-set blonde, 0.78181, 7
+1, chicken tenders, 0.779538, 7
+1, drink taste fine, 0.915506, 8
+1, bartenders friends, 0.721386, 8
+2, giant chunk, 0.855488, 0
+2, raspberry iced tea, 0.724778, 0
+2, red onions, 0.488588, 1
+2, chip, 0.377081, 1
+2, soggy ill-prepared nachos, 0.91323, 2
+2, small plate, 0.42743, 2
+2, large booth, 0.482988, 3
+2, ranch dressing, 0.48655, 6
+2, menu overhaul, 0.453867, 6
+2, salad, 0.280201, 7
+2, high-end cabin, 0.522447, 8
+4, separate bar areas, 0.853927, 0
+4, chili cheese fries, 0.820563, 0
+4, little slow service, 0.795861, 1
+4, Sunday afternoon, 0.719396, 1
+4, dining room, 0.817909, 2
+4, recent closures, 0.733427, 2
+4, MAJOR hangover, 0.747221, 3
+4, food, 0.84801, 5
+4, place, 0.84786, 5
+4, great hangover meal, 0.887405, 6
+4, new place, 0.752087, 6
+4, regular food menu, 0.84084, 7
+4, great neighborhood bar, 0.832853, 7
+4, Lake Las Vegas, 0.990955, 8
+4, separate bar area, 0.836188, 8
+4, smoke-free dining experience, 0.826067, 9
+4, rustic elegance features, 0.79831, 9
+5, Yelp, 0.537396, 0
+5, MountainSide, 0.514247, 0
+5, husband, 0.492384, 2
+5, half, 0.476436, 2
+5, experience, 0.472114, 7
+5, Fantastic food, 0.782435, 8
+5, service, 0.771797, 8
+5, best breakfast burritos, 0.957772, 9
+5, best breakfast burrito, 0.951763, 9

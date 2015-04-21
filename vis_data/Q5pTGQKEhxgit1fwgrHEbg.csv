@@ -1,0 +1,93 @@
+rating, keyword, relevance, bucket
+1, Monster energy drink, 0.837538, 0
+1, ridiculous parking garage, 0.834266, 0
+1, customer service, 0.86978, 1
+1, Double freaking ewwww, 0.841754, 1
+1, Golden Nugget, 0.835201, 2
+1, hard time, 0.820576, 2
+1, parking pass, 0.900504, 3
+1, Binion, 0.842551, 3
+1, place, 0.956723, 4
+1, parking, 0.94673, 4
+1, free drink, 0.881805, 5
+1, hotel, 0.881146, 5
+1, old vegas, 0.878635, 6
+1, VIP pass, 0.868964, 6
+1, vodka redbull, 0.824267, 7
+1, casino mere steps, 0.810863, 7
+1, VIP passes, 0.825055, 8
+1, vodka cranberry, 0.810056, 8
+2, clam chowder soup, 0.747394, 0
+2, Closeby parking garage, 0.741985, 0
+2, hard unfresh ice, 0.748664, 1
+2, big mean cook, 0.742329, 1
+2, parking garage, 0.820333, 2
+2, ubiquitous iron burn, 0.74747, 2
+2, World Series, 0.758984, 3
+2, Main Street Parking, 0.7553, 3
+2, Binion, 0.775274, 4
+2, place, 0.763486, 4
+2, fremont street, 0.930506, 5
+2, casino, 0.900508, 5
+2, Fremont Street casinos, 0.765743, 6
+2, super fakey machines, 0.743523, 6
+2, candy hot gals, 0.733061, 7
+2, cheesy pictures, 0.686377, 7
+2, old K-mart lunch, 0.754374, 8
+2, downtown Las Vegas, 0.746888, 8
+3, Old school Fremont, 0.743172, 0
+3, little old style, 0.742635, 0
+3, old local dudes, 0.755848, 1
+3, old college roommate, 0.740465, 1
+3, huge pool person, 0.71475, 2
+3, little food selection, 0.714577, 2
+3, Old West saloons, 0.731066, 3
+3, old cocktail waitress, 0.72427, 3
+3, Las Vegas, 0.967369, 5
+3, casino, 0.849617, 5
+3, Binion, 0.866831, 6
+3, place, 0.770759, 6
+3, Downtown Las Vegas, 0.818816, 7
+3, classic downtown casino, 0.786985, 7
+3, fremont street experience, 0.821701, 8
+3, great place, 0.732825, 8
+3, favorite casino downtown, 0.753436, 9
+3, Golden Nugget, 0.724091, 9
+4, downtown Las Vegas, 0.737795, 0
+4, slots.  old school, 0.734763, 0
+4, damn good time, 0.739548, 1
+4, dollar blackjack table, 0.721406, 1
+4, single deck, 0.805494, 3
+4, Old School Chain, 0.719793, 3
+4, good time, 0.770772, 4
+4, strip, 0.739443, 4
+4, Vegas, 0.899276, 5
+4, Binion, 0.85469, 5
+4, place, 0.927058, 6
+4, single deck blackjack, 0.804304, 6
+4, downtown vegas, 0.845332, 7
+4, black jack, 0.816218, 7
+4, old town Vegas, 0.753162, 8
+4, free picture, 0.751189, 8
+4, gritty old casino, 0.737917, 9
+4, good looking ladies, 0.710735, 9
+5, great old school, 0.755041, 0
+5, best server downtown, 0.729491, 0
+5, Limit Hold'em poker, 0.769901, 1
+5, Low table minimums, 0.724665, 1
+5, snack bar, 0.779773, 2
+5, limit cash game, 0.774948, 2
+5, Hold'em cash game, 0.708744, 3
+5, scrabble gambling hall, 0.706827, 3
+5, Binion, 0.804903, 4
+5, binions, 0.739703, 4
+5, poker, 0.929175, 5
+5, place, 0.924007, 5
+5, best poker room, 0.809109, 6
+5, video poker machine, 0.783773, 6
+5, true poker players, 0.767122, 7
+5, Limit Hold'Em game, 0.743334, 7
+5, old school, 0.822586, 8
+5, nice poker room, 0.810083, 8
+5, rowdy poker group, 0.769672, 9
+5, coffee shop, 0.767987, 9

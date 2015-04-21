@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, semi-alcoholic Rebus, 0.786473, 0
+2, Oxford, 0.33122, 0
+2, idea, 0.292772, 3
+2, Bar, 0.27192, 3
+2, sign, 0.330161, 6
+2, plainest, 0.271051, 6
+2, John Rebus, 0.897359, 7
+2, austere pub, 0.759249, 7
+2, traditional pub, 0.653733, 8
+2, museum, 0.268782, 8
+2, Ian Rankin fans, 0.965696, 9
+2, great setting, 0.578602, 9
+3, Scottish beers, 0.763859, 0
+3, tap, 0.406053, 0
+3, character, 0.377568, 6
+3, wonderful little neighborhood, 0.976787, 7
+3, hole-in-the-wall pub, 0.774243, 7
+4, old school pub, 0.986178, 0
+4, Rebus whiskey, 0.674248, 0
+4, review, 0.270312, 1
+4, new pubs, 0.599168, 2
+4, moment, 0.281276, 2
+4, small television, 0.562999, 3
+4, staff cope, 0.561857, 3
+4, Deuchars, 0.314813, 5
+4, finest pint, 0.640065, 6
+4, bar, 0.512887, 6
+4, old fashioned pubs, 0.908446, 7
+4, Rebus fan, 0.669221, 7
+4, truly unique Edinburgh, 0.996396, 8
+4, Perfect afternoon, 0.631139, 8
+5, nearby Princes Street, 0.922267, 0
+5, Oxford Bar, 0.877095, 0
+5, Princes Street, 0.933717, 2
+5, reference material, 0.686446, 2
+5, Rebus association, 0.749144, 3
+5, adjoining room, 0.704764, 3
+5, Edinburgh, 0.509622, 6
+5, truly delicious pint, 0.983156, 7
+5, rustic little pub, 0.925789, 7
+5, real characters, 0.702456, 8
+5, enjoyable time, 0.69476, 8
+5, no-frills kind, 0.680953, 9
+5, place, 0.479095, 9

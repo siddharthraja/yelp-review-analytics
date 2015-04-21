@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, BLT Steak, 0.902506, 0
+1, Beef hot dog, 0.779746, 0
+1, semi good food, 0.807956, 1
+1, roasted beets, 0.715299, 1
+1, fine dining restaurant, 0.778098, 2
+1, extremely burnt food, 0.76735, 2
+1, time, 0.715196, 3
+1, table, 0.7588, 4
+1, hostess, 0.741472, 4
+1, good money, 0.767276, 5
+1, food, 0.829162, 6
+1, BLT bar offer, 0.821146, 6
+1, fine dining experience, 0.91378, 7
+1, great meal, 0.788384, 7
+1, better options Uptown, 0.777738, 8
+1, -Good ambiance, 0.708867, 8
+2, Barbie family sides, 0.540024, 0
+2, molten lava cake, 0.536359, 0
+2, overpriced upscale steakhouses, 0.513864, 1
+2, major bummer BLT, 0.596458, 2
+2, steak way, 0.584551, 2
+2, skirt steak, 0.825923, 3
+2, steak house, 0.71435, 3
+2, hanger steak, 0.778021, 4
+2, steak houses, 0.686502, 4
+2, steak, 0.981564, 5
+2, BLT, 0.751985, 5
+2, hangar steak, 0.623909, 6
+2, potato leek soup, 0.615869, 6
+2, good steak, 0.702236, 7
+2, good steak dinner, 0.645577, 7
+2, BLT Steak, 0.724581, 8
+2, toffee ice cream, 0.590429, 8
+3, steak house, 0.510376, 0
+3, Cut bacon appetizer, 0.494185, 0
+3, Mushroom risotto appetizer, 0.467374, 1
+3, strong egg taste, 0.440531, 2
+3, brussels sprouts, 0.437702, 2
+3, mean brussel sprouts, 0.548347, 3
+3, fancy Japanese pot, 0.450278, 3
+3, service, 0.475006, 4
+3, brussel sprouts, 0.911213, 5
+3, steak, 0.759735, 5
+3, beefsteak tomato salad, 0.6142, 6
+3, steak home, 0.500364, 6
+3, rib eye steak, 0.567112, 7
+3, tuna tartar, 0.555311, 7
+3, BLT Steak, 0.627432, 8
+3, nice place, 0.454829, 8
+3, great place, 0.399308, 9
+3, good time, 0.397269, 9
+4, BLT Prime, 0.597404, 0
+4, BLT outlet, 0.595182, 0
+4, steak cuts, 0.596766, 2
+4, Steak House, 0.6224, 3
+4, food, 0.603792, 3
+4, Ritz, 0.613397, 4
+4, BLT Steak, 0.98335, 5
+4, ice cream, 0.680252, 5
+4, jalapeno mashed potatoes, 0.726502, 6
+4, order hanger steak, 0.630534, 6
+4, brussel sprouts, 0.801495, 7
+4, chicken liver pate, 0.76606, 7
+4, wine list, 0.649728, 8
+4, influence steak restaurant, 0.635168, 8
+4, BLT Steak experience, 0.702634, 9
+4, Wagyu Skirt Steak, 0.629113, 9
+5, Del Monico steak, 0.757541, 0
+5, peanut butter mousse, 0.729905, 0
+5, chocolate peanut butter, 0.784918, 1
+5, peanut butter mouse, 0.718324, 1
+5, blt steak, 0.811082, 2
+5, hanger steak, 0.776724, 4
+5, steak, 0.911268, 5
+5, banana ice cream, 0.988904, 6
+5, service, 0.764721, 6
+5, butter chocolate mousse, 0.921148, 7
+5, peanut butter chocolate, 0.913626, 7
+5, jalapeno mashed potatoes, 0.899856, 8
+5, chicken liver pate, 0.775109, 8
+5, crab cake appetizer, 0.77432, 9
+5, delicious butter, 0.720742, 9

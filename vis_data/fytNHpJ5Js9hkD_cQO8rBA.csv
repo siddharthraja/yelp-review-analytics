@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+3, city centre prices, 0.87124, 0
+3, real ale splurge, 0.859613, 0
+3, little brain teaser, 0.912807, 1
+3, Boda, 0.805526, 2
+3, little more downmarket, 0.745282, 2
+3, little rhinoceros, 0.738615, 3
+3, flavoured vodkas, 0.735217, 3
+3, instance, 0.542602, 4
+3, bar, 0.610516, 5
+3, student fancy dress, 0.958162, 6
+3, wrong night, 0.761905, 6
+3, Sofi, 0.741618, 7
+3, smallest sibling, 0.730644, 7
+3, new dress, 0.727812, 8
+3, Friday smorgasbord, 0.724795, 8
+3, Black Isle, 0.718401, 9
+3, bonus, 0.543564, 9
+4, popular hot spot, 0.790502, 0
+4, little pub, 0.668964, 0
+4, generally mixed bunch, 0.774134, 2
+4, Bar Boda, 0.713442, 2
+4, dodgy karaoke nights, 0.821304, 3
+4, small trendy bar, 0.766347, 3
+4, leith walk, 0.986247, 5
+4, quirky Swedish bar, 0.783651, 6
+4, place, 0.710737, 6
+4, quiet pint, 0.674669, 7
+4, perfect place, 0.670355, 7
+4, great friendly staff, 0.751636, 8
+4, ideal place, 0.648412, 8
+4, nice relaxed night, 0.804659, 9
+4, ceiling, 0.530492, 9
+5, sister bars Hemma, 0.687396, 0
+5, Revolutionary Bar chain, 0.679369, 0
+5, block, 0.430824, 2
+5, chavs, 0.428154, 2
+5, pubs, 0.468969, 3
+5, leith walk, 0.919577, 4
+5, Joseph Pearce, 0.725699, 6
+5, nice wee bar, 0.667668, 6
+5, Henderson Street, 0.553699, 7
+5, Sofi, 0.505278, 7
+5, odd-ball Swedish snacks, 0.722402, 8
+5, decent prices, 0.621502, 8
+5, true gem, 0.552382, 9
+5, different ways, 0.549673, 9

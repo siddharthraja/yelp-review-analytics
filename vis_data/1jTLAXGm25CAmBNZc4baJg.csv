@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+2, buffet process, 0.72932, 0
+2, plenty, 0.406446, 0
+2, pity, 0.418237, 1
+2, particular lacked flavour, 0.940254, 4
+2, roast potatoes, 0.787243, 4
+2, carvery person, 0.692948, 6
+2, tables, 0.372995, 6
+2, establishments, 0.418799, 7
+2, layout, 0.390625, 7
+2, franchise, 0.386397, 8
+2, prices, 0.37397, 9
+2, staff, 0.373476, 9
+3, nicer restaurants, 0.700276, 0
+3, food, 0.278558, 1
+3, indoor soft play, 0.860566, 2
+3, rainy afternoon, 0.709256, 3
+3, generic cider, 0.664429, 3
+3, soft play, 0.902654, 5
+3, chain pub variety, 0.959647, 8
+3, secret bargain, 0.672994, 8

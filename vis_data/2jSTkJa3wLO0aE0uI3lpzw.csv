@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, biggest pile, 0.744141, 0
+1, shit, 0.213689, 0
+1, Horrible service, 0.760607, 1
+1, bad area, 0.706051, 1
+1, rude staff, 0.900587, 2
+1, dress code, 0.79927, 2
+1, guy, 0.346929, 3
+1, cover, 0.315422, 3
+1, bartenders, 0.22132, 6
+1, favor, 0.205003, 6
+1, owner, 0.306734, 7
+1, patronage, 0.209413, 7
+2, Aunt Bunny, 0.914772, 0
+2, Friday night, 0.884533, 0
+2, prices, 0.321463, 1
+2, Saturday nights, 0.78516, 2
+2, busy, 0.339158, 2
+2, Guuuurrl, 0.330672, 3
+2, bar, 0.455498, 6
+2, Great dancefloor, 0.910834, 7
+2, quick drink, 0.846227, 7
+2, ambiance, 0.414594, 8
+2, stars, 0.349684, 8
+3, Low quality drinks, 0.777484, 0
+3, play music videos, 0.717006, 0
+3, dance floor.The staff, 0.723908, 1
+3, college nights, 0.653636, 1
+3, Thursday night experience, 0.727852, 2
+3, New York City, 0.710922, 2
+3, drinks, 0.804867, 3
+3, Thursday nights, 0.746009, 3
+3, dance floor, 0.935351, 4
+3, Thursday night, 0.817231, 4
+3, bar, 0.756962, 5
+3, actual dance music, 0.783956, 6
+3, typical Cruze crowd, 0.762272, 6
+3, normal Cruze crowd, 0.768914, 7
+3, dance floors, 0.714905, 7
+3, great dance music, 0.762771, 8
+3, premium drinks, 0.684624, 8
+3, big outdoor deck, 0.686534, 9
+3, great crowd, 0.656605, 9
+4, dance club w/, 0.958126, 0
+4, separate bar areas, 0.934696, 0
+4, featherweight, 0.642568, 1
+4, stripper, 0.640127, 1
+4, dance floor, 0.938705, 2
+4, gay bar, 0.921611, 2
+4, bars private deck, 0.921514, 3
+4, good time, 0.77665, 3
+4, night, 0.847813, 4
+4, bit, 0.74266, 4
+4, Pittsburgh, 0.699879, 5
+4, drinks, 0.84295, 6
+4, friday nights, 0.788734, 6
+4, Saturday night, 0.792316, 7
+4, great place, 0.789528, 7
+4, Great dance club, 0.988838, 8
+4, nice bartenders, 0.84923, 8
+5, dance floor, 0.932293, 1
+5, theme nights, 0.993486, 6
+5, Regular entertainment, 0.933544, 6
+5, drinks, 0.693559, 7
+5, ambiance, 0.431073, 8
+5, FANTASTIC, 0.418132, 8

@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+3, Studio Théatre, 0.932343, 0
+3, concert halls, 0.894705, 0
+3, charm, 0.465388, 1
+3, sound, 0.447234, 1
+3, ambiance, 0.476234, 2
+3, decor, 0.455952, 2
+3, bigger halls, 0.870621, 3
+3, halls, 0.912689, 5
+3, Place, 0.45479, 6
+3, Arts, 0.454728, 6
+3, JFL galas, 0.728882, 7
+3, broadway musicals, 0.67537, 7
+4, que je passe, 0.980564, 0
+4, bien et le, 0.949131, 0
+4, sexy cave, 0.889926, 2
+4, little nineties, 0.805623, 3
+4, lighting design, 0.801213, 3
+4, La fameuse Place, 0.922912, 6
+4, beautiful sculpted ceiling, 0.89543, 6
+4, special feature concerts, 0.867369, 7
+4, Bravo Bastien, 0.816338, 7
+4, strong afternoon drink, 0.851166, 8
+4, Places Des, 0.8347, 8
+4, des Arts, 0.879429, 9
+4, great sound, 0.815867, 9
+5, que ce soit, 0.866067, 0
+5, La Place des, 0.812257, 0
+5, c'est une organisation, 0.704127, 6
+5, ticket office, 0.690793, 6
+5, Wilfrid Pelletier theatre, 0.700029, 7
+5, hot summer night, 0.664806, 7
+5, Place des Arts, 0.917394, 8
+5, quality cultural experience, 0.665622, 8
+5, great classy venue, 0.689918, 9
+5, digital art wall, 0.666513, 9

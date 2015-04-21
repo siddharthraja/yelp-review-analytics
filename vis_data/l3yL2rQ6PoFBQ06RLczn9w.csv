@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, hot electro-indie band, 0.880978, 0
+1, poor liquor selection, 0.868236, 0
+1, worst music venue, 0.92053, 1
+1, small time bands, 0.890357, 1
+1, homes. total suck, 0.875263, 2
+1, sound quality, 0.849725, 2
+1, place, 0.858511, 3
+1, sticky-floored bar area, 0.853443, 3
+1, band, 0.92632, 4
+1, venue, 0.976057, 5
+1, positive thing, 0.86422, 5
+1, greatest comedy line, 0.869631, 6
+1, Native New Yorker, 0.849059, 6
+1, local Screamo band, 0.881117, 7
+1, Rhythm Room, 0.853394, 7
+1, great music, 0.793987, 8
+2, Clubhouse Music Venue, 0.876169, 0
+2, Bikram yoga class, 0.834499, 0
+2, profit generating drinkers, 0.872587, 1
+2, poor sight lines, 0.870351, 1
+2, horrible music venue, 0.922526, 2
+2, poor venue, 0.745844, 2
+2, business complex, 0.869154, 3
+2, Miike Snow, 0.868452, 3
+2, bands, 0.877674, 4
+2, favorite bands, 0.861209, 4
+2, decent shows, 0.770426, 6
+2, eye contact, 0.725242, 6
+2, concert goers, 0.731516, 7
+2, great business, 0.730791, 7
+2, older shows, 0.732567, 8
+2, town end, 0.727372, 8
+3, local music venues, 0.746273, 0
+3, gross music venue, 0.728513, 0
+3, screamy generic emo, 0.704446, 1
+3, Bar Tender, 0.681724, 1
+3, bar, 0.750581, 2
+3, asshole security guards, 0.741704, 2
+3, huge strip-mall parking, 0.723236, 3
+3, big ol deuce, 0.719534, 3
+3, place, 0.833337, 4
+3, band, 0.687725, 4
+3, security guards, 0.952753, 5
+3, Clubhouse, 0.889712, 5
+3, smaller music venue, 0.74105, 6
+3, small music venues, 0.723392, 6
+3, Hotel Cafe tour, 0.845871, 7
+3, cent piece size, 0.724047, 7
+3, awesome national acts, 0.719015, 8
+3, dirty musical venues, 0.710369, 8
+4, all-ages bar w/, 0.61995, 0
+4, crazy bar scene, 0.60227, 0
+4, Cranky bar tenders, 0.627798, 1
+4, strip mall, 0.654986, 2
+4, club venue level, 0.633817, 2
+4, bar area, 0.716672, 3
+4, drink, 0.60263, 3
+4, clubhouse, 0.790106, 4
+4, bar, 0.78637, 4
+4, place, 0.914647, 5
+4, venue, 0.818684, 5
+4, pretty good audio, 0.651801, 6
+4, Good size stage, 0.621766, 6
+4, good music venue, 0.694134, 7
+4, good bands, 0.643457, 7
+4, great place, 0.654281, 8
+4, pretty good experience, 0.638042, 8
+4, all-ages music venue, 0.664356, 9
+4, small venue, 0.616985, 9
+5, local movers, 0.851274, 0
+5, music scene, 0.849846, 0
+5, ice cubes, 0.835984, 1
+5, deepest bar stool, 0.962484, 2
+5, roped-off bar area, 0.954345, 3
+5, bleak strip mall, 0.943784, 3
+5, venue, 0.829245, 4
+5, Clubhouse, 0.85368, 5
+5, best mid-level indie, 0.94988, 6
+5, Phoenix concert spots, 0.941488, 6
+5, old-school indie innovators, 0.971216, 7
+5, Pitchfork favorite Sparklehorse, 0.955111, 7
+5, Creed cover bands, 0.970973, 8
+5, Good quality sound, 0.930549, 8
+5, unexpected triumph, 0.8323, 9
+5, favorite aspect, 0.824587, 9

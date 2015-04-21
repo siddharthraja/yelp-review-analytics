@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, young female bartender, 0.733782, 0
+1, overweight drunk girl, 0.695782, 0
+1, major projectile vomit, 0.692628, 1
+1, college student, 0.505338, 1
+1, ......, 0.703482, 2
+1, Dont stop reading, 0.693778, 2
+1, bar, 0.902511, 3
+1, Sunday afternoon, 0.661622, 3
+1, young new bartender, 0.68667, 4
+1, drinks, 0.44757, 4
+1, wife, 0.495376, 5
+1, bartenders, 0.403111, 5
+1, music playing, 0.526099, 6
+1, owner, 0.375726, 6
+1, friends, 0.444852, 7
+1, beers, 0.389648, 7
+1, following event, 0.505294, 8
+1, incredible visit, 0.504301, 8
+1, friendly servers, 0.501404, 9
+1, good service, 0.484988, 9
+2, live music, 0.657404, 0
+2, Meh experience, 0.649446, 0
+2, deadly accident, 0.634092, 1
+2, way, 0.491099, 1
+2, fairly poor experience, 0.853901, 2
+2, Saturday afternoon, 0.705912, 2
+2, burger, 0.836014, 3
+2, bun, 0.534614, 3
+2, place, 0.75749, 4
+2, average sized chicken, 0.925773, 6
+2, great spring weather, 0.845693, 6
+2, TGI Fridays, 0.695203, 7
+2, ......, 0.683576, 7
+2, Chicken Tender Appetizer, 0.976784, 8
+2, Border Burger, 0.790926, 8
+2, food quality wise, 0.840599, 9
+3, good tho, 0.488711, 0
+3, single female, 0.48331, 0
+3, good customer service, 0.596532, 1
+3, good views, 0.491075, 1
+3, standard bar fare, 0.594859, 2
+3, sad little things, 0.588036, 2
+3, plain iced tea, 0.615608, 3
+3, freezer burn, 0.476375, 3
+3, sports bar, 0.777949, 4
+3, food, 0.640778, 4
+3, iced tea, 0.903398, 6
+3, buffalo chicken sandwich, 0.612716, 6
+3, iced tea cost, 0.62288, 7
+3, okay sports bar, 0.599115, 7
+3, club sandwich, 0.525305, 8
+3, good specials, 0.475561, 8
+3, excellent quality, 0.482149, 9
+3, return visit, 0.481588, 9
+4, little appetizer food, 0.790832, 0
+4, good college basketball, 0.784273, 0
+4, buffalo wild wings, 0.741644, 1
+4, greasy fare, 0.750436, 2
+4, Tap-Out T-Shirt crowd, 0.737173, 2
+4, bar area booth, 0.755334, 3
+4, little sports bar, 0.749948, 3
+4, place, 0.780349, 5
+4, live band, 0.725284, 5
+4, food, 0.961786, 6
+4, sports bar, 0.817403, 6
+4, southwest egg rolls, 0.860716, 7
+4, pretzel sticks, 0.858738, 7
+4, good beer list, 0.820799, 8
+4, amazing pretzel bun, 0.806258, 8
+4, good food, 0.781801, 9
+4, Great food, 0.746877, 9
+5, onion rings, 0.707438, 0
+5, Spring Training Game, 0.686107, 0
+5, hardest working bartender, 0.705753, 1
+5, little bit, 0.617087, 1
+5, sports bar, 0.983802, 2
+5, overcrowded sports bar, 0.744796, 2
+5, non-chain sports bar, 0.734165, 3
+5, local watering hole, 0.670147, 3
+5, food, 0.86696, 5
+5, drinks, 0.621188, 5
+5, Augie, 0.878342, 6
+5, half pound burger, 0.735692, 6
+5, time, 0.664029, 7
+5, Border Burger, 0.646396, 7
+5, augies new place, 0.71986, 8
+5, native new yorker, 0.69825, 8
+5, nice neighborhood feel, 0.66462, 9
+5, great experience, 0.620287, 9

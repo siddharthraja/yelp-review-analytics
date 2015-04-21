@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, donner une meilleure, 0.956706, 0
+2, Une bonne aubaine, 0.93585, 0
+2, special menu, 0.568304, 1
+2, waiters, 0.439459, 1
+2, Parmesan cheese, 0.71783, 3
+2, cheddar cheese, 0.603207, 3
+2, waiter, 0.441328, 4
+2, order, 0.438455, 4
+2, bénéficier des midis, 0.771831, 6
+2, grilled chicken, 0.625699, 6
+2, fact, 0.45104, 7
+3, regular Italian dressing, 0.588225, 0
+3, complaints, 0.251989, 2
+3, things, 0.240704, 2
+3, Italian dressing, 0.794017, 6
+3, mood, 0.249487, 6
+3, Oriental chicken salad, 0.963717, 7
+3, spinach dip, 0.425157, 7
+3, house salad, 0.441189, 8
+3, house fries, 0.412741, 8
+3, staff, 0.248116, 9
+4, burger menu, 0.920656, 0
+4, majority, 0.355726, 0
+4, price difference, 0.842541, 2
+4, entire table, 0.741199, 3
+4, dry food, 0.739894, 3
+4, salmon, 0.329383, 6
+4, Madison burger, 0.965484, 7
+4, skinny fries, 0.910017, 7
+4, west island, 0.863663, 8
+4, decor, 0.346032, 8
+4, Friendly staff, 0.740486, 9
+4, great service, 0.738927, 9
+5, rib steak, 0.716593, 0
+5, way, 0.345478, 0
+5, personal touch, 0.606691, 6
+5, juicy tender, 0.717076, 8
+5, Wonderful service, 0.679323, 8
+5, Wonderful resto, 0.900644, 9
+5, Barbie dining room, 0.889383, 9

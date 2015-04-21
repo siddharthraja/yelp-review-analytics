@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, worst bar, 0.661847, 0
+1, Crabby Don, 0.647763, 0
+1, lower drink prices, 0.852747, 1
+1, hot waitresses, 0.630989, 1
+1, bar, 0.933086, 2
+1, Friday night, 0.616001, 2
+1, dive bar, 0.588757, 3
+1, Mexican restaurant, 0.584864, 3
+1, ghost town, 0.614374, 4
+1, band, 0.404688, 4
+1, people, 0.413838, 7
+1, recommendation, 0.363543, 7
+2, place Crappy Don, 0.915686, 0
+2, fancy-schmancy Val Vista, 0.842518, 0
+2, highly unlikely possibility, 0.899793, 1
+2, worst dive bar, 0.856724, 1
+2, east valley type, 0.865676, 2
+2, Gilbert strip mall, 0.859677, 2
+2, pretty divey bar, 0.857844, 3
+2, best  venue, 0.738299, 3
+2, kind, 0.714083, 5
+2, real punching bag, 0.873731, 6
+2, couple good craft, 0.868055, 6
+2, house party charm, 0.862748, 7
+2, couple different areas, 0.859931, 7
+3, Derby Dames event, 0.92483, 0
+3, bar food menu, 0.87466, 0
+3, cold adult beverage, 0.885506, 1
+3, little dive bar, 0.862683, 1
+3, Crabby Don, 0.948929, 2
+3, live band, 0.682232, 2
+3, passable summer lager, 0.893295, 3
+3, time, 0.568022, 3
+3, Breckenridge Brewing SummerBright, 0.875649, 6
+3, good drink selection, 0.853508, 6
+3, great beer selection, 0.840419, 7
+3, graffiti art, 0.684277, 7
+3, good grilled flavor, 0.901931, 8
+3, kinda place, 0.744696, 8
+4, great laidback bar, 0.894892, 0
+4, main room indoors, 0.86309, 0
+4, local DUI victims, 0.86332, 1
+4, sports bar, 0.891573, 2
+4, worst case scenario, 0.889372, 2
+4, bar, 0.998075, 3
+4, innermost left hand, 0.871082, 3
+4, cab ride home, 0.884455, 6
+4, live bands, 0.765835, 6
+4, nice new shuffleboard, 0.853277, 7
+4, great bartender, 0.776667, 7
+4, Great live music, 0.857489, 8
+4, special praise, 0.7444, 8
+4, Reasonably priced food, 0.858783, 9
+4, local bands, 0.73607, 9
+5, Best dive bar, 0.694374, 0
+5, good service, 0.700504, 6
+5, good time, 0.434367, 6
+5, dive Good food, 0.73146, 7
+5, mixed crowd, 0.450429, 7
+5, best CHEERS style, 0.955551, 8
+5, fun, 0.267809, 8
+5, bomb best bartender, 0.906249, 9
+5, staff excellent food, 0.779278, 9

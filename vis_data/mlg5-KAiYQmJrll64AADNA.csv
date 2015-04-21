@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, half glass wall, 0.9253, 0
+1, ridiculously small portions, 0.902791, 0
+1, street taco size, 0.927652, 1
+1, pretty expensive meal, 0.913736, 1
+1, awkward pause, 0.953237, 2
+1, cheese sauce, 0.818008, 2
+1, food, 0.987491, 3
+1, sauce, 0.885547, 3
+1, place, 0.820244, 4
+1, waiter, 0.914381, 5
+1, kale citrus salad, 0.962057, 6
+1, table, 0.93514, 6
+1, ex-hotel restaurant owners, 0.902593, 7
+1, wedding party, 0.828728, 7
+1, huge plate, 0.921402, 8
+1, diameter bowl w/, 0.90924, 8
+2, lunch time, 0.602954, 0
+2, right area, 0.582772, 0
+2, average overpriced food, 0.93336, 1
+2, ways sucks, 0.569626, 1
+2, pop chip bags, 0.819186, 2
+2, True Food crowd..but, 0.814052, 2
+2, fate, 0.36351, 3
+2, meet, 0.358097, 3
+2, hair, 0.396717, 4
+2, certain clientele, 0.600531, 6
+2, menu, 0.355359, 6
+2, blonde waitress, 0.595135, 7
+2, meal, 0.428685, 7
+2, ya ya ya, 0.977146, 8
+2, Sunday brunch, 0.600837, 9
+2, Haha thanks, 0.598575, 9
+3, definite revisit, 0.639753, 0
+3, large group, 0.556571, 0
+3, main dining room, 0.917922, 2
+3, Monday night, 0.623579, 3
+3, bad experience, 0.559758, 3
+3, fish tacos, 0.732172, 6
+3, better half, 0.575843, 6
+3, good time, 0.533373, 7
+3, Duck confit tacos, 0.975349, 8
+3, vegetarian quinoa burger, 0.900304, 8
+3, Prices, 0.264797, 9
+3, quality, 0.264634, 9
+4, yelp reviews, 0.771982, 0
+4, pineapple juice, 0.770417, 0
+4, huge deal, 0.7197, 2
+4, little pricy, 0.704561, 2
+4, staff members, 0.721151, 3
+4, entire place, 0.703829, 3
+4, Tickled Pink, 0.761955, 6
+4, bar seating, 0.733608, 6
+4, Chow Bella write-up, 0.963701, 7
+4, comfy chair options, 0.951964, 7
+4, great job, 0.750844, 8
+4, Great atmosphere, 0.7057, 8
+4, modern elegant twist, 0.864654, 9
+4, dog friendly patio, 0.862409, 9
+5, high end cocktails, 0.766428, 0
+5, turkey burger, 0.764402, 0
+5, previous good restaurants, 0.747054, 2
+5, Street Blue Van, 0.733547, 2
+5, nearby high school, 0.726779, 3
+5, early morning travelers, 0.72425, 3
+5, turkey meatballs, 0.742897, 5
+5, place, 0.91024, 6
+5, Ahi Tuna Sandwich, 0.875262, 6
+5, Great hot weather, 0.763068, 7
+5, cold pressed juices, 0.757271, 7
+5, great food, 0.828162, 8
+5, great food choices, 0.804577, 8
+5, Soy Glazed Beef, 0.866729, 9
+5, great menu selection, 0.781821, 9

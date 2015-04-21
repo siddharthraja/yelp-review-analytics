@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, advise, 0.226093, 0
+1, couple, 0.219202, 0
+1, worst cocktail, 0.817487, 1
+1, poutine few times, 0.590026, 2
+1, McDonalds, 0.24504, 2
+1, fake non-tasty tequila, 0.974837, 3
+1, cucumber, 0.239154, 3
+1, cocktail, 0.932729, 5
+1, waiter, 0.462788, 5
+1, critics, 0.234796, 7
+1, nice cocktail, 0.759016, 8
+1, no-drunk cocktail, 0.669229, 8
+2, notch spot, 0.817074, 0
+2, notch ingredients, 0.800952, 0
+2, compatriots Talisker, 0.781831, 2
+2, drip fountain, 0.740828, 2
+2, overly sweet swill, 0.993894, 3
+2, congenial bar tender, 0.939083, 3
+2, execution, 0.599698, 5
+2, Willy Wonka, 0.743614, 6
+2, sharable ones, 0.737199, 6
+2, great little bar, 0.883905, 7
+2, HOLY CAW, 0.752076, 7
+2, delicious final result, 0.992467, 8
+2, precise flavor control, 0.989207, 8
+4, bar les cocktails, 0.574553, 0
+4, Le Lab pop, 0.509528, 0
+4, different drinks, 0.499788, 1
+4, coffee drink, 0.540242, 2
+4, bartender juggle cocktail, 0.517683, 2
+4, original mixed drinks, 0.562831, 3
+4, decent cocktail bar, 0.54223, 3
+4, bar tricks, 0.569069, 4
+4, le lab, 0.966858, 5
+4, bar, 0.80773, 5
+4, beef jerky, 0.715858, 6
+4, Beef Jerky cocktail, 0.549438, 6
+4, jerky jack, 0.56319, 7
+4, Jerky Jack Cocktail, 0.552282, 7
+4, unique drink experience, 0.563895, 8
+4, new favorite bar, 0.538022, 8
+4, interesting drinks, 0.534248, 9
+4, beef jerky jack, 0.519608, 9
+5, et le bar, 0.704915, 0
+5, bien expliqué le, 0.650716, 0
+5, coolest cocktail bars, 0.605, 1
+5, que le Lab, 0.688359, 2
+5, best Montreal bar, 0.610542, 3
+5, massive wooden bar, 0.598167, 3
+5, cocktails, 0.667483, 4
+5, le lab, 0.970002, 5
+5, drinks, 0.688953, 5
+5, drink, 0.649492, 6
+5, craft cocktail, 0.645163, 6
+5, jerky lab jack, 0.834755, 7
+5, sur le Lab, 0.67026, 7
+5, exceptionally original drinks, 0.638692, 8
+5, unique mix drinks, 0.618, 8
+5, great winter drink, 0.626483, 9
+5, Good drinks, 0.620591, 9

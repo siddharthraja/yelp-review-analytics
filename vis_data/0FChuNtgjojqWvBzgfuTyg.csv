@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, high school dance, 0.70252, 0
+1, dress shorts, 0.644944, 0
+1, sexist dress standards, 0.790135, 1
+1, end dance club, 0.76041, 1
+1, Friday night, 0.755623, 2
+1, kiddy club, 0.620681, 2
+1, club, 0.985308, 3
+1, little dress, 0.642967, 3
+1, room, 0.467525, 4
+1, dance floor, 0.67551, 5
+1, elite dance club, 0.759961, 6
+1, high crime place, 0.717702, 6
+1, dress shoes, 0.790299, 7
+1, canvas dress shoes, 0.784654, 7
+1, better place, 0.576378, 8
+1, VIP section, 0.566821, 8
+3, strobe lights, 0.740694, 0
+3, town strobe lights, 0.73068, 0
+3, plastic disposable cups, 0.776221, 2
+3, mediocre experience, 0.633588, 2
+3, old town, 0.926073, 3
+3, smoke machine, 0.586273, 3
+3, little help, 0.585782, 4
+3, people, 0.575555, 4
+3, Sunday night, 0.59527, 6
+3, reggae night, 0.814906, 7
+3, friend, 0.442329, 7
+3, Reggae music, 0.645378, 8
+3, vibe, 0.445763, 8
+4, place, 0.353457, 0
+4, moves, 0.383482, 1
+4, dancers, 0.37201, 1
+4, Disco Dottie, 0.700761, 2
+4, cardiac arrest, 0.674568, 2
+4, Brazilian Carnaval event, 0.959097, 7
+4, past weekend, 0.672073, 7
+5, great bar specials, 0.903605, 9
+5, door guys, 0.661609, 9

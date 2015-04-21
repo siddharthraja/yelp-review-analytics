@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, regular frozen bag, 0.938964, 0
+1, common item soo, 0.936141, 0
+1, downtown spots, 0.953217, 1
+1, lousy time, 0.860755, 1
+1, bar, 0.922884, 2
+1, local places, 0.854271, 2
+1, time, 0.862835, 3
+1, food, 0.859577, 3
+1, portlands, 0.836284, 4
+1, menus, 0.834688, 4
+1, place, 0.983975, 5
+1, extremely close proximity, 0.994511, 6
+1, decent reviews, 0.870585, 6
+1, lovely warm summer, 0.963765, 7
+1, better options, 0.856657, 7
+1, great place, 0.85181, 8
+1, lively bar/restaurant, 0.845353, 8
+2, eagle eye beau, 0.788715, 0
+2, jazz background music, 0.785807, 0
+2, Rail ride home, 0.780197, 1
+2, odd negative energy, 0.764777, 1
+2, better indoor seating, 0.769685, 2
+2, initial waitress, 0.723751, 2
+2, big red flag, 0.78764, 3
+2, extra bread order, 0.786336, 3
+2, food, 0.73882, 4
+2, place, 0.83857, 5
+2, wine bar, 0.792029, 5
+2, local distributor rep, 0.793337, 6
+2, wine selection, 0.710234, 6
+2, parmesan fries, 0.916452, 7
+2, upscale hangout, 0.711107, 7
+2, wait staff smile, 0.823658, 8
+2, c'est la vie, 0.796946, 8
+3, circular bar area, 0.694013, 0
+3, bland flavored food, 0.692029, 0
+3, friday night, 0.731509, 1
+3, better wine bars, 0.713866, 1
+3, plain ol, 0.711847, 2
+3, place settings, 0.692993, 2
+3, wine bar, 0.751689, 3
+3, BBQ Chicken pizza, 0.74429, 3
+3, prix fixe menu, 0.826806, 4
+3, Portland, 0.935541, 5
+3, place, 0.853513, 5
+3, bar, 0.793276, 6
+3, Alfredo burger, 0.736469, 6
+3, light rail, 0.826559, 7
+3, dinner, 0.73868, 7
+3, parmesan fries, 0.743728, 8
+3, good beer, 0.704533, 8
+3, best bar tenders, 0.700919, 9
+4, Justin wine pairings, 0.759496, 0
+4, wine tasting sessions, 0.755807, 0
+4, new wine glass, 0.734788, 1
+4, owner Dylan Bethge, 0.714111, 1
+4, au gratin potatoes, 0.775871, 2
+4, fire-seared Cowboy Chop, 0.713611, 2
+4, cozy-feeling wine bar, 0.766636, 3
+4, gourmet food critics, 0.72959, 3
+4, service, 0.755643, 4
+4, Portland, 0.776917, 5
+4, Cowboy Chop, 0.718798, 5
+4, wine, 0.900731, 6
+4, place, 0.85819, 6
+4, downtown midrise condo, 0.735, 7
+4, dinner option downtown, 0.724446, 7
+4, great place, 0.799151, 8
+4, wine pairings, 0.788297, 8
+4, wine list, 0.797803, 9
+4, Decent wine pairings, 0.731551, 9
+5, Parmesean garlic fries, 0.957571, 0
+5, stars.  pork chop, 0.901957, 0
+5, good thing, 0.825471, 1
+5, little kick, 0.819536, 1
+5, veggie sides, 0.915526, 3
+5, Au gratin taters, 0.901972, 3
+5, little dinner Caesar, 0.910565, 6
+5, flourless chocolate cake, 0.892615, 6
+5, downtown hot spots, 0.909696, 7
+5, crab cake, 0.902518, 7
+5, great little meal, 0.968722, 8
+5, Best French Fries, 0.955916, 8
+5, high class style, 0.917899, 9
+5, Solid wine selection, 0.916265, 9

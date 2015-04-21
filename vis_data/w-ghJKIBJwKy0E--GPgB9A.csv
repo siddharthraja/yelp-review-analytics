@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+3, traditional dive bar, 0.831771, 0
+3, fragile vietnam vets, 0.774163, 0
+3, service, 0.581633, 1
+3, couch crash isnt, 0.77182, 2
+3, blundering mess, 0.672762, 2
+3, strip mall, 0.981626, 3
+3, traditional quarters, 0.667528, 3
+3, little hideaway, 0.652001, 4
+3, lovely mother, 0.641861, 4
+3, Hoot Owl, 0.864456, 6
+3, pool table, 0.804432, 6
+3, neighborhood bar vibe, 0.788374, 7
+3, rag tag friends, 0.747028, 7
+3, stronger pour, 0.652333, 8
+3, time, 0.574036, 8
+4, foo foo drink, 0.926651, 0
+4, better dive bars, 0.873513, 0
+4, divey little places, 0.837683, 1
+4, Frys parking, 0.723096, 1
+4, bar scenes, 0.701888, 2
+4, honky tonk country, 0.904586, 3
+4, dive bars, 0.886273, 3
+4, group, 0.5659, 5
+4, crowd, 0.537226, 6
+4, relax, 0.537126, 6
+4, Perfect dive bar, 0.867431, 7
+4, perfect place, 0.715738, 7
+4, Super friendly barkeep, 0.91166, 8
+4, cool chill environment, 0.848005, 8
+4, fun neighborhood bar, 0.941821, 9
+4, great place, 0.741926, 9
+5, AZ smoking ban, 0.945453, 0
+5, best dive bar, 0.934429, 0
+5, fancy schmancy bar, 0.840645, 2
+5, little trouble, 0.641784, 2
+5, Mixed crowd young, 0.890089, 3
+5, cause, 0.444029, 3
+5, attractive younger singles, 0.904871, 6
+5, Hoot Shot, 0.720941, 6
+5, newbies great mix, 0.871359, 7
+5, cozy little place, 0.852378, 7
+5, extremely clean restrooms, 0.887439, 8
+5, great time, 0.65764, 8
+5, great deals, 0.877201, 9
+5, Hoot Owl, 0.74267, 9

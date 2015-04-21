@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, drunken employees party, 0.979402, 1
+1, reproach, 0.393025, 1
+1, faggot, 0.494643, 2
+1, lunch, 0.327237, 2
+1, protien shake, 0.810815, 3
+1, Guy, 0.31255, 3
+1, bathroom, 0.330264, 6
+1, pm, 0.31388, 6
+2, nearby Tailgaters, 0.707228, 0
+2, incorrect drinks, 0.701159, 0
+2, Thursday night hang, 0.857716, 2
+2, bar tender, 0.708686, 2
+2, mini pitcher, 0.947975, 3
+2, good beer, 0.641633, 3
+2, hint hint, 0.708783, 6
+2, Good service, 0.6667, 6
+2, Uncle Bear, 0.691681, 7
+2, Queen Creek, 0.689445, 7
+3, ownership, 0.465648, 0
+3, Came, 0.461724, 0
+3, Drinks, 0.468987, 1
+3, bar food, 0.907292, 2
+3, normal bar food, 0.850439, 2
+3, Saturday night, 0.683036, 3
+3, place, 0.508745, 3
+3, karaoke, 0.561272, 5
+3, Good neighborhood stop, 0.945618, 6
+3, good taste, 0.695794, 6
+3, Good specials, 0.676795, 7
+3, nice host, 0.674061, 7
+3, Great, 0.457219, 9
+4, limited beer selection, 0.660541, 0
+4, good work, 0.57618, 0
+4, Wild Side grill, 0.542043, 2
+4, good bar food, 0.92868, 3
+4, special average, 0.561609, 3
+4, cold beer, 0.676733, 4
+4, long time, 0.555065, 4
+4, tc, 0.66666, 5
+4, decent drink specials, 0.642499, 6
+4, ad fries, 0.561462, 6
+4, Nice pub menu, 0.715613, 7
+4, Good food, 0.613308, 7
+4, Great Cobb salad, 0.714998, 8
+4, attentive wait staff, 0.70206, 8
+4, sweet potato fries, 0.736856, 9
+4, French Dip sliders, 0.719311, 9
+5, Cheesy Shroom Burger, 0.885681, 0
+5, different items, 0.756146, 0
+5, bar Jenga, 0.779838, 1
+5, bar trivia, 0.773872, 1
+5, sports bar, 0.884731, 2
+5, Big sports bar, 0.8796, 2
+5, cold beer, 0.928211, 3
+5, busy nights, 0.749486, 3
+5, great neighborhood bar, 0.988334, 6
+5, chilli hamburger, 0.789603, 6
+5, pretty good food, 0.930783, 7
+5, bun w/ fries, 0.926858, 7
+5, live music, 0.894731, 8
+5, perfectly seasoned fries, 0.885515, 8
+5, east valley, 0.938513, 9
+5, great local bar, 0.92769, 9

@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, physical manner, 0.738119, 0
+1, correct door, 0.716547, 0
+1, assault charge, 0.728428, 1
+1, fake lines, 0.727885, 1
+1, good speakeasy skip, 0.875121, 2
+1, eye contact, 0.726619, 2
+1, laundry room, 0.97019, 3
+1, reservation, 0.867438, 3
+1, bartender, 0.664576, 4
+1, Harrah, 0.66392, 4
+1, people, 0.590953, 5
+1, location spending, 0.760264, 6
+1, great time, 0.736527, 6
+1, good time, 0.714362, 7
+1, guests, 0.640106, 7
+1, customer service, 0.932807, 8
+1, great review, 0.718319, 8
+1, bartenders, 0.548699, 9
+3, light cardigan, 0.538548, 0
+3, certain rules, 0.532896, 0
+3, scene, 0.32933, 1
+3, pictures, 0.306111, 1
+3, short notice, 0.54064, 2
+3, changes, 0.426841, 2
+3, laundry room, 0.813544, 3
+3, class, 0.272406, 3
+3, room, 0.828948, 5
+3, red flag, 0.535013, 6
+3, favorite places, 0.52907, 6
+3, customer, 0.335622, 7
+3, absolute best mixologists, 0.839172, 8
+3, real black eye, 0.824925, 8
+3, beautifully quaint speakeasy, 0.927247, 9
+3, downtown Vegas, 0.548741, 9
+4, secret phone number, 0.695425, 0
+4, long stick candles, 0.695304, 0
+4, new born puppy, 0.692536, 1
+4, Las Vegas, 0.695351, 2
+4, redeeming social value, 0.693252, 2
+4, Common Wealth, 0.689464, 3
+4, Real chill place, 0.683563, 3
+4, speakeasy, 0.679664, 4
+4, laundry room, 0.919737, 5
+4, bar, 0.707368, 5
+4, drinks, 0.72281, 6
+4, phone number, 0.697993, 6
+4, craft cocktails, 0.757787, 7
+4, couple small tables, 0.677448, 7
+4, awesome drink selection, 0.693251, 8
+4, great time, 0.692805, 8
+4, favorite Pre-Prohibition cocktails, 0.711678, 9
+4, dim intimate atmosphere, 0.685614, 9
+5, secret number, 0.585057, 0
+5, dubious Laundry Room, 0.568705, 0
+5, overly STRONG drinks, 0.573468, 1
+5, expensive overpriced drinks, 0.57332, 1
+5, actual laundry room, 0.562765, 2
+5, remarkable little speakeasy, 0.55497, 2
+5, mixed drinks, 0.573039, 3
+5, average wells drinks, 0.570028, 3
+5, Las Vegas, 0.664782, 4
+5, number, 0.587068, 4
+5, laundry room, 0.98928, 5
+5, drinks, 0.792665, 5
+5, place, 0.708745, 6
+5, commonwealth, 0.643232, 6
+5, phone number, 0.566808, 7
+5, Laundry Room Hands, 0.562978, 7
+5, popcorn, 0.563115, 8
+5, good drinks, 0.55934, 8
+5, best drinks, 0.591749, 9
+5, amazing drinks, 0.556463, 9

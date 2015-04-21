@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, draft beer, 0.727833, 0
+1, worlds, 0.403475, 0
+1, ur spot KillRoy, 0.933272, 1
+1, bar fight, 0.74929, 1
+1, food, 0.384843, 3
+1, best Berger, 0.74839, 7
+3, cheapest hangout, 0.918607, 6
+3, drinks, 0.546779, 7
+3, service, 0.408614, 7
+4, Seoul Plaza, 0.492589, 0
+4, soccer game, 0.489232, 0
+4, popular plaza, 0.491458, 2
+4, parking spots, 0.476615, 2
+4, wall sorta place, 0.682363, 3
+4, small neighborhood bar, 0.646076, 3
+4, Samuel Adams, 0.483487, 4
+4, work, 0.365661, 5
+4, Japanese Curry Zen, 0.949842, 6
+4, Kilroy character, 0.766773, 6
+4, real sober life, 0.605031, 7
+4, **no pool table, 0.60109, 7
+4, Awesome spot, 0.525307, 8
+4, beer haha, 0.497588, 8
+4, beer smaller sizes, 0.606012, 9
+4, good service, 0.473838, 9
+5, strip mall sign/billboard, 0.909429, 0
+5, quick-service restaurants, 0.657622, 0
+5, FUCKING BOMB, 0.663027, 1
+5, strip mall, 0.957036, 2
+5, bar sign, 0.67289, 2
+5, japanese curry, 0.644964, 3
+5, drinks, 0.509598, 3
+5, local dive bars, 0.898732, 6
+5, Big Wang, 0.677644, 6
+5, time bartenders, 0.705345, 7
+5, good thing, 0.665157, 7
+5, bartenders, 0.71334, 8
+5, impromptu potluck, 0.695115, 8
+5, awesome bartender, 0.766219, 9
+5, awesome service, 0.661572, 9

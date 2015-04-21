@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, reviewing, 0.367664, 0
+2, sample, 0.347982, 0
+2, poor service, 0.842508, 1
+2, old beer, 0.786533, 1
+2, clientele, 0.61312, 2
+2, beers, 0.573682, 2
+2, entire time, 0.760649, 3
+2, place, 0.368527, 3
+2, half-price, 0.43001, 6
+2, good seating, 0.829677, 7
+2, bartender, 0.431434, 7
+2, nice woodwork, 0.940431, 8
+2, tin ceiling, 0.931212, 8
+4, downtown Champaign peers, 0.866334, 0
+4, super-impressive street-front presence, 0.80975, 0
+4, traditional Irish music, 0.635256, 2
+4, Wednesday nights, 0.376525, 2
+4, English Pub, 0.45702, 6
+4, high tables, 0.390226, 6
+4, pretty nice place, 0.932551, 7
+4, nice selection, 0.450609, 8
+4, great place, 0.345629, 8
+4, limey brews, 0.489923, 9
+4, English ales, 0.421627, 9
+5, real darts, 0.812723, 0
+5, Champaign-Urbana area, 0.812115, 0
+5, neighborhood bar, 0.808415, 1
+5, dive bar, 0.806228, 1
+5, usual drunken undergrads, 0.964447, 2
+5, pretentious hipsters, 0.890459, 2
+5, Scotty Karate Scotch, 0.95522, 3
+5, saturday night, 0.947831, 3
+5, Bentley, 0.729234, 5
+5, Irish jam session, 0.922477, 6
+5, Macallan scotch, 0.781262, 6
+5, loud techno music, 0.981007, 7
+5, good free music, 0.96238, 7
+5, nice patio area, 0.942148, 8
+5, good party mood, 0.93982, 8
+5, perfect volume, 0.780024, 9

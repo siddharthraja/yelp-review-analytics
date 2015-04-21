@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+1, Worst comedy club, 0.793877, 0
+1, incompetent staff, 0.576409, 0
+1, Rude Aggressive owner, 0.988518, 1
+1, Insult comedy, 0.574673, 1
+1, glasses, 0.706102, 2
+1, server, 0.404268, 2
+1, drinks, 0.312368, 3
+1, tables, 0.30098, 3
+1, lobby, 0.325154, 4
+1, comedians, 0.310264, 4
+1, better planning, 0.508426, 6
+1, tickets, 0.427251, 6
+1, brand new place, 0.810741, 7
+1, better table, 0.498077, 7
+4, actual food, 0.423318, 0
+4, comedy club, 0.393285, 1
+4, extremely important PSA, 0.92946, 2
+4, hassle parking, 0.53081, 2
+4, great looking place, 0.772191, 7
+4, Great new edition, 0.903193, 8
+4, comedy clubs, 0.492242, 8
+4, great comedy venue, 0.795368, 9
+4, Rocky Laporte, 0.547625, 9
+5, new comedy club, 0.6918, 0
+5, large flatscreens, 0.536675, 0
+5, table service, 0.531778, 2
+5, hummus, 0.446595, 3
+5, OMG, 0.349016, 3
+5, Tony Gaud, 0.558089, 4
+5, Harland Williams, 0.543312, 4
+5, great job, 0.535501, 7
+5, good way, 0.507663, 7
+5, comedy club, 0.920199, 8
+5, Rick Bronson, 0.827245, 8
+5, Great new place, 0.708583, 9
+5, amazing time, 0.531406, 9

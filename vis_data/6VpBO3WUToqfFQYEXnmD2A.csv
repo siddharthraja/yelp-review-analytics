@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, mushroom dish, 0.47358, 0
+1, portabello mushroom dish, 0.472743, 0
+1, overly salted food, 0.509252, 1
+1, big chain restaurant, 0.495981, 1
+1, negative stars, 0.498936, 2
+1, lunch period, 0.485674, 2
+1, manager, 0.533875, 3
+1, place, 0.498501, 3
+1, food, 0.977184, 4
+1, time, 0.685908, 4
+1, service, 0.69967, 5
+1, waitress, 0.664056, 5
+1, huge Applebee, 0.465024, 6
+1, Patronizing manager, 0.408358, 6
+1, American style food, 0.524456, 7
+1, appetizer tht ddnt, 0.471986, 7
+1, spinach dip appetizer, 0.462277, 8
+1, fiesta chicken w/, 0.456995, 8
+1, great food, 0.437602, 9
+2, chunks, 0.415066, 0
+2, service, 0.3791, 0
+2, fast food places, 0.957663, 1
+2, restaurant chains, 0.670838, 1
+2, chicken, 0.813626, 4
+2, chicken strips, 0.790105, 6
+2, wings, 0.474504, 6
+2, cheese penne, 0.694857, 7
+2, order, 0.441939, 7
+3, Napa chicken mushrooms, 0.903117, 0
+3, musculature old photos, 0.873398, 0
+3, best lunch expeience, 0.794358, 2
+3, new remodeling, 0.55923, 2
+3, long time, 0.80641, 4
+4, mozzarella sticks, 0.939351, 0
+4, onion rings, 0.865218, 0
+4, price appetizers, 0.896162, 6
+4, Went, 0.483974, 6
+4, beers, 0.449057, 7
+4, Awesome place, 0.934067, 8
+4, delicious food, 0.802297, 9
+4, Great service, 0.709067, 9
+5, Surprise Arizona, 0.473698, 0
+5, chicken/cheese penne pasta, 0.931483, 7
+5, spinach salad, 0.541445, 7
+5, great service, 0.775413, 8
+5, great suggestions, 0.470868, 8
+5, dollars beers, 0.580994, 9
+5, Kenny our waiter, 0.502025, 9

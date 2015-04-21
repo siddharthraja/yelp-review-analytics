@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, barbeque chicken pizza, 0.78389, 0
+1, credit cards, 0.638174, 0
+1, awful service, 0.907241, 1
+1, time, 0.580821, 1
+1, kitchen guy, 0.604537, 2
+1, pizza place, 0.590131, 2
+1, hot dogs, 0.617608, 3
+1, beer, 0.536935, 3
+1, tab, 0.527032, 4
+1, french fries, 0.625401, 6
+1, Map Room, 0.610714, 6
+2, long time, 0.719448, 0
+2, selection drives, 0.715838, 0
+2, bad service, 0.73736, 1
+2, instances, 0.547865, 1
+2, absurd kafkaesque mess, 0.966018, 2
+2, annoyed resentment, 0.776263, 2
+2, natural casings. puh-leez., 0.945142, 3
+2, run-of-the-mill hotdogs, 0.76654, 3
+2, food, 0.724217, 4
+2, beer to-go costs, 0.910258, 6
+2, New York City, 0.904646, 6
+2, Decent tap selection, 0.861822, 7
+2, Monroeville location, 0.733841, 7
+2, beer selection, 0.87215, 8
+2, great rep, 0.700767, 8
+3, Cheese hot dog, 0.407456, 0
+3, Smith hot dogs, 0.302113, 0
+3, generally unimpressive food, 0.232004, 1
+3, hot dog menu, 0.310002, 2
+3, actual hot dog, 0.309628, 2
+3, fries, 0.405558, 3
+3, untouched hot dog, 0.286647, 3
+3, food, 0.382936, 4
+3, hot dogs, 0.919682, 5
+3, hot dog, 0.884744, 5
+3, beer selection, 0.667879, 6
+3, style hot dog, 0.309612, 6
+3, beer cave, 0.703714, 7
+3, amazing beer selection, 0.315719, 7
+3, hot dog selection., 0.311009, 8
+3, large beer cave, 0.275735, 8
+3, enormous beer cave, 0.297966, 9
+3, beer store, 0.224579, 9
+4, Pittsburgh Beer Society, 0.350794, 0
+4, hot dog bar, 0.337003, 0
+4, Chicago hot dog, 0.345226, 1
+4, friends, 0.331777, 3
+4, good bar food, 0.329535, 3
+4, beer cave, 0.858818, 4
+4, veggie dog, 0.37083, 4
+4, beer, 0.984796, 5
+4, hot dogs, 0.735971, 5
+4, place, 0.620103, 6
+4, fries, 0.541068, 6
+4, chicago dog, 0.486234, 7
+4, bar food, 0.372186, 7
+4, beer selection, 0.818262, 8
+4, Regent Square, 0.637905, 8
+4, great place, 0.467062, 9
+4, great beer selection, 0.428745, 9
+5, beer selection changes, 0.48736, 0
+5, good hot dog, 0.483673, 0
+5, huge hot dog, 0.494981, 1
+5, hot dog guy, 0.47726, 1
+5, Roethlisberger hot dog, 0.479216, 3
+5, hot dog breath, 0.478765, 3
+5, pub fries, 0.50418, 4
+5, french fries, 0.501092, 4
+5, beer cave, 0.980782, 5
+5, hot dogs, 0.874599, 5
+5, beer selection, 0.735263, 6
+5, place, 0.680732, 6
+5, best beer selection, 0.548553, 7
+5, great beer selection, 0.506077, 7
+5, regent square, 0.526477, 8
+5, amazing beer selection, 0.500561, 8
+5, great place, 0.51727, 9
+5, beer awesome dogs, 0.504005, 9

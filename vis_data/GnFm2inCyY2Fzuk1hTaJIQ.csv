@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+2, Bier Garten, 0.990132, 0
+2, real grass, 0.693199, 0
+2, slow service, 0.699201, 1
+2, way, 0.56222, 1
+2, downtown Las Vegas, 0.832319, 2
+2, food, 0.776659, 2
+2, German Brat, 0.679724, 3
+2, star rating, 0.662479, 3
+2, beers, 0.558349, 4
+2, Golden Slipper, 0.875392, 6
+2, parking receipt, 0.65488, 6
+2, previous reviews, 0.708808, 8
+2, experience, 0.456513, 8
+3, weather, 0.340025, 0
+3, food court area, 0.761643, 3
+3, pretty new spot, 0.934911, 8
+3, downtown Las Vegas, 0.873019, 8
+3, yummy beer flavors, 0.887805, 9
+3, Giant pretzels, 0.664849, 9
+4, cute little structure, 0.917687, 0
+4, world only fries, 0.634012, 0
+4, fans, 0.270766, 2
+4, misters, 0.270721, 2
+4, beer, 0.333472, 3
+4, crispy onions, 0.66383, 6
+4, grass, 0.274807, 6
+4, basic food court, 0.920921, 7
+4, indoor seating area, 0.884297, 7
+4, giant pretzel, 0.640563, 8
+4, meal, 0.2735, 8
+4, German sweet mustard, 0.859473, 9
+4, perfect accompaniment, 0.577455, 9
+5, picnic tables, 0.749252, 0
+5, Cajun Bleu cheese, 0.697261, 0
+5, draft craft beer, 0.711951, 6
+5, beer nerd, 0.586169, 6
+5, real grass, 0.91112, 7
+5, ample outdoor space, 0.725273, 7
+5, Banana Bread beer, 0.797626, 8
+5, lovely Belgian beers, 0.7005, 8
+5, picnic table style, 0.738543, 9
+5, Absolutely amazing brats, 0.706351, 9

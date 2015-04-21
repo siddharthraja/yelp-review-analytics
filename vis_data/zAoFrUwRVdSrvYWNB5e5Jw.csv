@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, sucky airport bar, 0.61276, 0
+1, Dos-Equis Amber draft, 0.601287, 0
+1, Wall Street investment, 0.611547, 1
+1, service, 0.595288, 1
+1, airport food, 0.699522, 2
+1, bad food, 0.620136, 2
+1, tenders best judgement, 0.566898, 3
+1, food uneaten, 0.566736, 3
+1, food, 0.985723, 4
+1, place, 0.71501, 4
+1, Mexican food, 0.687145, 5
+1, baseball playoff games, 0.607454, 6
+1, Taberna Express, 0.597861, 6
+1, friendly waitress, 0.528977, 7
+2, mahi mahi tacos, 0.692278, 0
+2, non-fast food place, 0.684691, 0
+2, late night restaurant, 0.586929, 1
+2, subpar food, 0.547541, 1
+2, bad food, 0.565173, 2
+2, salsa, 0.563642, 2
+2, tacos, 0.792785, 3
+2, airport food, 0.709342, 3
+2, food, 0.926582, 4
+2, service, 0.656493, 4
+2, best mexican food, 0.800177, 5
+2, airport, 0.778253, 5
+2, decent chorizo flavor, 0.622302, 6
+2, shrimp tacos, 0.598201, 6
+2, taco salad, 0.685525, 7
+2, natural corn color, 0.61501, 7
+2, airport dining, 0.525874, 8
+2, great margarita, 0.51982, 8
+2, shelf silver margarita, 0.600352, 9
+3, Blue burrito sans, 0.844732, 0
+3, pre-flight adult beverage, 0.798254, 0
+3, star rating, 0.752796, 1
+3, airport restaurants, 0.674522, 1
+3, airport high prices, 0.775893, 2
+3, exclusive captive audience, 0.752734, 2
+3, Airport food prices, 0.81748, 3
+3, house Vodka, 0.648274, 3
+3, Chicken Caesar Salad, 0.782504, 4
+3, breakfast menu, 0.677338, 4
+3, place, 0.930335, 5
+3, food, 0.913467, 5
+3, nice smokey flavor, 0.797371, 6
+3, awesome Mexican food, 0.776945, 6
+3, Mexican food, 0.809133, 7
+3, pre-flight brews, 0.69637, 7
+3, chicken taco salad, 0.825829, 8
+3, pork nachos, 0.684089, 8
+4, spicy red salsa, 0.5839, 0
+4, great Mexican food, 0.507694, 0
+4, poor service, 0.273336, 1
+4, best Mexican food, 0.455124, 2
+4, sour cream, 0.27092, 2
+4, big blue burrito, 0.601934, 3
+4, service, 0.281131, 3
+4, airport food, 0.75368, 4
+4, key lime pie, 0.940422, 6
+4, chicken quesadilla, 0.304663, 6
+4, decent burrito, 0.325229, 7
+4, favorite dessert, 0.245487, 7
+4, Surprisingly good food, 0.507823, 8
+4, decent place, 0.346486, 8
+4, yummy salsa, 0.362379, 9
+4, chipotle salsa, 0.334578, 9

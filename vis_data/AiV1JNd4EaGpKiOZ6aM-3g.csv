@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, Horrible service, 0.625066, 0
+1, main reason, 0.663984, 1
+1, good staff, 0.642398, 1
+1, old watering hole, 0.931633, 2
+1, drug dealers, 0.629042, 2
+1, beer choices, 0.618594, 3
+1, large party, 0.617356, 3
+1, time, 0.43793, 5
+1, place, 0.429812, 5
+1, peeing, 0.330558, 6
+1, bathroom, 0.286826, 6
+1, fun, 0.284709, 7
+1, snooty bartenders, 0.785483, 8
+1, guy, 0.292784, 8
+1, street, 0.280312, 9
+2, big ass bar, 0.928895, 1
+2, restroom, 0.611912, 1
+2, times, 0.394586, 2
+2, girl, 0.284061, 2
+2, funky smell, 0.625823, 3
+2, cigarette smell, 0.621706, 3
+2, good whiff, 0.627584, 4
+2, place, 0.310935, 5
+2, awesome outdoor beach, 0.786747, 7
+2, pool tables, 0.555169, 7
+2, good game, 0.503404, 8
+2, grabs, 0.205762, 8
+3, couple dart boards, 0.954343, 0
+3, outdoor bar area, 0.902677, 0
+3, outdoor beach area, 0.996902, 1
+3, interesting element, 0.702286, 1
+3, little sportsbook, 0.685022, 2
+3, television, 0.358029, 2
+3, long time, 0.679814, 3
+3, Boomerangs, 0.412541, 3
+3, dive bar Mango, 0.975485, 6
+3, nice area, 0.649866, 6
+3, Vegas Carly, 0.759392, 9
+3, best bartenders, 0.707466, 9
+4, food selection, 0.731217, 0
+4, large round bar, 0.566843, 0
+4, ordinary bar food, 0.832468, 2
+4, thing, 0.505144, 2
+4, X107.5 wing bowl, 0.949477, 3
+4, Mangos, 0.305006, 3
+4, robertos, 0.429234, 4
+4, cigar, 0.35706, 4
+4, wings, 0.361675, 5
+4, flat screens, 0.577472, 6
+4, place, 0.533036, 6
+4, happy hour menu, 0.532359, 7
+4, outdoor space, 0.527241, 7
+4, comfortable place, 0.530424, 8
+4, great place, 0.521032, 9
+4, area, 0.346408, 9
+5, management, 0.470815, 0
+5, big money, 0.791906, 6
+5, patrons, 0.508289, 6
+5, NW area, 0.796012, 7
+5, best games, 0.744691, 7
+5, bar, 0.485199, 8
+5, Great local spot, 0.93017, 9
+5, wonderful beach, 0.777321, 9

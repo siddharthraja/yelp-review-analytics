@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, counter, 0.427208, 0
+1, servers, 0.387775, 0
+1, bad attitude, 0.874925, 1
+1, order, 0.389015, 1
+1, BAD service, 0.909234, 2
+1, bad interactions, 0.905926, 2
+1, campus, 0.476542, 3
+1, good beer, 0.749673, 6
+1, place, 0.397219, 6
+2, business owners, 0.744547, 0
+2, odd after-work beer, 0.737774, 0
+2, Major assholes, 0.585043, 1
+2, dollar secret, 0.579714, 2
+2, lunch trip, 0.579448, 2
+2, upscale bar food, 0.780942, 3
+2, small business, 0.713989, 3
+2, odd assortment, 0.606175, 4
+2, cheese, 0.469212, 4
+2, people, 0.764424, 5
+2, turkey sandwich, 0.916911, 6
+2, turkey sandwich arena, 0.862398, 6
+2, good beer selection, 0.792474, 7
+2, wonderful smokiness, 0.595496, 7
+2, Pretty good food, 0.726921, 8
+2, spitting distance, 0.60749, 8
+2, hospitable way, 0.591981, 9
+3, small concrete bunker, 0.910531, 0
+3, Badger football game, 0.907306, 0
+3, Library Bar, 0.760167, 2
+3, Camp Randall, 0.751465, 2
+3, tight space, 0.757233, 3
+3, college student, 0.736663, 3
+3, fireside couching, 0.789885, 4
+3, euchre, 0.559069, 4
+3, typical bar food, 0.891843, 6
+3, beer + killin, 0.792613, 6
+3, magical hot beverages, 0.976082, 7
+3, -Cozy fireplace, 0.764882, 7
+3, efficient bartenders, 0.77118, 9
+4, homecoming football game, 0.859943, 0
+4, jerk chicken sandwich, 0.826932, 0
+4, cheap booze, 0.729018, 1
+4, long islands, 0.952454, 2
+4, college binge drinkers, 0.859483, 2
+4, South Union, 0.830598, 3
+4, bar seating, 0.741825, 3
+4, quick lunch break, 0.819157, 4
+4, Union food court, 0.813289, 4
+4, comfy couches, 0.745607, 6
+4, good local bar, 0.895405, 7
+4, cool bar, 0.856269, 7
+4, friend Ryan E., 0.844577, 8
+4, Good burgers, 0.783297, 8
+4, best place, 0.746118, 9
+5, Hall parking ramp, 0.970314, 0
+5, homecoming football game, 0.968192, 0
+5, frat dudes, 0.819927, 2
+5, issue, 0.630284, 2
+5, lunchtime, 0.637238, 3
+5, salads, 0.631902, 3
+5, best Salty Dog, 0.899681, 4
+5, campus, 0.674776, 4
+5, free parking, 0.786003, 6
+5, future librarians, 0.780986, 6
+5, usual bar-type things, 0.920289, 7
+5, particular sparkling wine, 0.892528, 7
+5, great place, 0.947995, 8
+5, great food, 0.931894, 8
+5, Stephani, 0.642399, 9

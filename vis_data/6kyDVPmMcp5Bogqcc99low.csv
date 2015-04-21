@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, awful customer service, 0.845309, 0
+1, cold Eggs Benedict, 0.808601, 0
+1, final insult, 0.642176, 1
+1, server, 0.51348, 1
+1, check, 0.505031, 2
+1, patrons, 0.379229, 2
+1, food, 0.970415, 3
+1, busy weekend, 0.645153, 3
+1, free drinks, 0.619366, 7
+1, small price, 0.63871, 8
+1, free drink, 0.620712, 8
+2, brunch, 0.206231, 0
+2, low staff attendance, 0.927947, 1
+2, service, 0.25411, 1
+2, cheesy grits, 0.560531, 2
+2, Mediterranean omelet, 0.450478, 2
+2, incredibly long time, 0.846388, 3
+2, fast food joint, 0.831171, 3
+2, simple questions, 0.513908, 4
+2, items, 0.238857, 4
+2, salmon entree, 0.561786, 6
+2, outdoor seating, 0.518003, 6
+2, mom, 0.290918, 7
+2, Mother, 0.272106, 7
+2, Smoked Salmon omelet, 0.77988, 8
+2, brunches, 0.228047, 8
+3, weakest peppers, 0.68159, 0
+3, positive reviews, 0.679118, 0
+3, jalapeno flat bread, 0.813425, 1
+3, short ribs, 0.983662, 2
+3, tiny scallops, 0.683278, 2
+3, multiple people, 0.640329, 3
+3, Veranda, 0.682658, 4
+3, dessert, 0.592677, 4
+3, food, 0.656207, 5
+3, chewy piece, 0.65195, 6
+3, caprese sliders, 0.648065, 6
+3, outdoor patio, 0.671437, 7
+3, eggplant involitini, 0.657911, 7
+3, smoked salmon, 0.665082, 8
+3, Great location, 0.660806, 8
+3, excellent wine list, 0.75401, 9
+3, Great tapas, 0.688577, 9
+4, high quality cuts, 0.873067, 0
+4, friends Veranda, 0.84881, 0
+4, caramel flan, 0.756126, 1
+4, new location, 0.7334, 2
+4, tapas atmosphere, 0.757161, 3
+4, Cafe Continental, 0.828837, 5
+4, Rigatoni Veranda Style, 0.948378, 6
+4, dill cream cheese, 0.851481, 6
+4, great place, 0.862592, 7
+4, fresh mozzarella, 0.843677, 7
+4, friendly service, 0.873968, 8
+4, menu items, 0.864545, 8
+4, classy place, 0.858821, 9
+4, fantastic diverse selection, 0.853625, 9
+5, spicy sashimi tuna, 0.855744, 0
+5, habanero spiced caviar, 0.83766, 0
+5, melt-in-your-mouth short ribs, 0.81384, 1
+5, Veranda Restaurant, 0.938909, 3
+5, little neck clams, 0.821208, 3
+5, Veranda, 0.981405, 6
+5, avocado pesto linguine, 0.844077, 6
+5, small plates, 0.907059, 7
+5, Veranda benedict, 0.889388, 7
+5, Veranda Caesar salad, 0.925841, 8
+5, Café Continental, 0.877457, 8
+5, great bar selection, 0.853279, 9
+5, Amazing breakfast potatoes, 0.835623, 9

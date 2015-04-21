@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+2, pork chop, 0.746398, 0
+2, daughter, 0.393131, 0
+2, high end, 0.646202, 1
+2, football match, 0.664335, 2
+2, sides, 0.395116, 2
+2, fish n chips, 0.913169, 3
+2, normal greasy, 0.707959, 3
+3, rose-street pub crawl, 0.868704, 0
+3, old mans, 0.61395, 0
+3, rose street, 0.810271, 2
+3, Rose Street location, 0.766627, 2
+3, see-through tv, 0.73468, 3
+3, friend, 0.443869, 3
+3, bar, 0.63591, 5
+3, OK selection, 0.664032, 7
+3, Magical mysteries, 0.644841, 7
+3, pretty ok pub, 0.928397, 8
+4, traditional Scottish pub, 0.9672, 0
+4, traditional pub food, 0.806574, 0
+4, typical pub food, 0.777973, 2
+4, aforementioned vfm, 0.540225, 2
+4, restorative mid-shopping pint, 0.628772, 3
+4, pub central area, 0.817424, 6
+4, over-priced posh crisps, 0.670451, 6
+4, Abbotsford Bar, 0.811915, 7
+4, Rose Street, 0.788823, 7
+4, city centre pub, 0.748487, 8
+4, nice pub, 0.678134, 8
+4, super high ceilings, 0.659761, 9
+4, amazing art work, 0.655081, 9
+5, traditional Beer Engine, 0.902464, 0
+5, existing pubs, 0.649145, 0
+5, Street Pub Crawl, 0.988733, 3
+5, Scottish Brewing History, 0.922029, 3
+5, massive handle, 0.662657, 6
+5, thats, 0.382938, 6
+5, handle beer maidens, 0.978303, 7
+5, nice ones, 0.593874, 7
+5, Art Gallery, 0.60576, 8
+5, great time, 0.576138, 8
+5, ridiculously great position, 0.911716, 9
+5, lovely pub, 0.707119, 9

@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, temperature preference, 0.597409, 0
+1, tapas, 0.337355, 0
+1, raw chicken, 0.963824, 1
+1, chicken skewers, 0.785866, 1
+1, beef skewers, 0.97823, 2
+1, Fried calamari, 0.700382, 2
+1, canned beets, 0.636582, 3
+1, Beet salad, 0.631536, 3
+1, restaurant, 0.39643, 4
+1, salmon croquettes, 0.617276, 6
+1, positive note, 0.578472, 6
+3, Bureau Bar Tapas, 0.793517, 0
+3, tapas style dishes, 0.717325, 0
+3, Le Bureau Tapas, 0.786378, 2
+3, little midweek drink, 0.638969, 2
+3, patatas bravas, 0.677933, 3
+3, chipotle lime sauce, 0.647262, 3
+3, Le Bureau, 0.953124, 5
+3, ex-antique shop, 0.582716, 6
+3, media launch, 0.576399, 6
+3, grilled chorizo, 0.675082, 7
+3, Mediterranean-influenced tapas, 0.662203, 7
+3, quiet snowy evening, 0.638973, 8
+3, cod croquettes, 0.636302, 8
+3, great lounge bar, 0.638031, 9
+3, steel ventilation tubes, 0.628034, 9
+5, griffintown bar, 0.700886, 0
+5, non-pretencious attitude, 0.669404, 0
+5, simply good food, 0.935094, 7
+5, fantastic soundtrack, 0.710664, 7
+5, comforting tapas, 0.829208, 8
+5, cool atmosphere, 0.63796, 8

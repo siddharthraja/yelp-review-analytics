@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, ass gutter bug, 0.996438, 0
+1, nuts, 0.483436, 0
+1, valuable protein, 0.798507, 2
+1, little packet, 0.781051, 2
+1, apologetic way, 0.758996, 3
+1, Beertown, 0.704622, 3
+1, service, 0.507133, 4
+1, Abe Erb, 0.769019, 7
+1, passport office, 0.739258, 7
+2, Saturday evening, 0.782553, 0
+2, tomato bisque, 0.594818, 0
+2, horrible food, 0.945146, 1
+2, worst caesar salad, 0.794464, 1
+2, inconsistent service, 0.602159, 2
+2, bite, 0.490745, 2
+2, restaurant, 0.817488, 4
+2, crown jewel, 0.602405, 6
+2, penne, 0.446411, 6
+2, pork belly poutine, 0.952399, 7
+2, trendy atmosphere, 0.613643, 7
+2, pretty big portion, 0.759455, 8
+2, strawberry crisp dessert, 0.742496, 8
+2, unique beer experience, 0.782384, 9
+2, Waterloo town square, 0.771814, 9
+3, La sauce est, 0.90204, 0
+3, Beertown est probablement, 0.890077, 0
+3, c'est bruyant et, 0.900603, 2
+3, poissons sont fades, 0.877933, 2
+3, pork belly, 0.880537, 3
+3, C'est vraiment dommage, 0.884324, 6
+3, Le peach bellini, 0.858036, 6
+3, Good beer selection, 0.971505, 7
+3, prime rib, 0.874757, 7
+3, Great beer selection, 0.924088, 8
+3, nice area uptown, 0.901081, 8
+3, good option, 0.836773, 9
+3, couple beers, 0.799951, 9
+4, replacement dish, 0.68191, 0
+4, paddle glass, 0.668328, 0
+4, allergen, 0.466933, 2
+4, order, 0.450478, 2
+4, skirt steak salad, 0.923349, 3
+4, waiter, 0.540574, 3
+4, tap, 0.488725, 5
+4, turkey club sandwich, 0.862292, 6
+4, large selection, 0.632, 6
+4, sweet potato fries, 0.886673, 7
+4, uptown worker bees, 0.881882, 7
+4, relatively popular beer, 0.831554, 8
+4, Lunch specials, 0.698605, 8
+4, great chill atmosphere, 0.862928, 9
+4, Lunchtime service, 0.678136, 9
+5, Service, 0.512384, 0
+5, presentation, 0.508013, 0
+5, blue burger, 0.968133, 8
+5, Great food, 0.804837, 8

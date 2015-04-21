@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, poor customer service, 0.913733, 0
+1, lobster bisque, 0.735787, 0
+1, bartender cash, 0.629996, 1
+1, service attitude, 0.628187, 1
+1, friday night, 0.805807, 2
+1, good thing, 0.710477, 2
+1, guest check, 0.611185, 3
+1, food, 0.783984, 4
+1, new entrees, 0.711558, 4
+1, place, 0.760945, 5
+1, wine list, 0.710591, 6
+1, super friendly attitude, 0.683526, 6
+1, husband, 0.707275, 7
+1, new place, 0.636779, 7
+1, local place, 0.64684, 8
+1, great food, 0.636556, 8
+1, cool looking place, 0.696132, 9
+1, great date night, 0.691175, 9
+2, local neighborhood bar, 0.776314, 0
+2, tiny shrimp bruschetta, 0.776036, 0
+2, hungover college teenie, 0.755294, 1
+2, 25th class reunion, 0.719142, 1
+2, tater tots, 0.793824, 2
+2, food, 0.742212, 2
+2, banana bread pudding, 0.993731, 3
+2, french onion soup, 0.743908, 3
+2, dinner, 0.684906, 4
+2, best thing, 0.761378, 6
+2, menu, 0.699757, 6
+2, birthday dinner, 0.658108, 7
+2, house salad, 0.643499, 7
+2, good thing, 0.648556, 9
+2, wine list, 0.638475, 9
+3, good short ribs, 0.863189, 0
+3, original chef, 0.849687, 0
+3, menu, 0.873229, 2
+3, dessert menu, 0.849892, 2
+3, chef, 0.862209, 3
+3, sexy little place, 0.830469, 3
+3, open tables, 0.888388, 4
+3, place, 0.872836, 4
+3, food, 0.961667, 5
+3, Avalon, 0.869293, 5
+3, short ribs, 0.928667, 6
+3, time, 0.913499, 6
+3, pork belly, 0.933847, 7
+3, ice cream, 0.928714, 7
+3, rasberry cake w/, 0.814482, 8
+3, creme fresh ice, 0.809341, 8
+3, wine pairing option, 0.827137, 9
+3, good time, 0.824998, 9
+4, ???, 0.804892, 0
+4, marrow bread pudding, 0.766452, 0
+4, dark chocolate, 0.813266, 1
+4, dark chocolate fan, 0.767794, 2
+4, lobster bisque, 0.986717, 4
+4, creme brulee, 0.77972, 4
+4, avalon, 0.89308, 5
+4, bread pudding, 0.885321, 5
+4, Banana Bread Pudding, 0.854579, 6
+4, food, 0.843646, 6
+4, prix fixe menu, 0.813273, 7
+4, good food, 0.793642, 7
+4, iron steak salad, 0.834455, 8
+4, fresh baked bread, 0.80387, 8
+4, great restaurant, 0.774178, 9
+5, standard bread salad, 0.803529, 0
+5, Duck Duck Goose, 0.801221, 0
+5, duck breast, 0.804007, 1
+5, dark chocolate mousse, 0.795279, 1
+5, chocolate decadence dessert, 0.812652, 2
+5, single small piece, 0.789939, 2
+5, lobster porcini soup, 0.822345, 3
+5, chocolate mousse, 0.799099, 3
+5, lobster bisque, 0.914098, 4
+5, place, 0.868998, 5
+5, restaurant, 0.838919, 5
+5, menu, 0.820986, 6
+5, new chocolate dessert, 0.820147, 6
+5, Handmade Lobster Ravioli, 0.812688, 7
+5, great Lamb osso, 0.810766, 7
+5, french onion soup, 0.87686, 8
+5, service, 0.862625, 8
+5, great service, 0.812187, 9
+5, Sunday brunch, 0.807141, 9

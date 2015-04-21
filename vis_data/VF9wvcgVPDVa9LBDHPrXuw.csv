@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+2, tasty chicken wings, 0.76907, 0
+2, decent bar food, 0.715799, 0
+2, bad location, 0.544802, 1
+2, enthusiasm, 0.434493, 1
+2, typical bar food, 0.706355, 2
+2, lame unacceptable excuses, 0.695101, 2
+2, Fair warning, 0.542003, 3
+2, apologies, 0.443431, 3
+2, buds, 0.442855, 6
+2, advice, 0.426923, 6
+2, chicken wings, 0.926314, 7
+2, owner, 0.425784, 8
+2, heart, 0.425708, 8
+3, friendly bar folk, 0.908817, 0
+3, stiff drinks, 0.717281, 0
+3, lesser quality food, 0.813028, 1
+3, lunch crowd, 0.634529, 1
+3, cheap booze, 0.99823, 2
+3, so-so bar food, 0.896374, 2
+3, crap booths, 0.686247, 3
+3, dive bar, 0.637579, 3
+3, place, 0.521299, 4
+3, times, 0.489675, 4
+3, Friday, 0.500826, 5
+3, business, 0.479318, 5
+3, decent juke box, 0.9349, 6
+3, pool table, 0.68283, 6
+3, best cheese curds, 0.875726, 7
+3, main reasons, 0.644574, 7
+3, grilled chicken salad, 0.901214, 8
+3, friends, 0.447521, 8
+4, average wing sauce, 0.717399, 0
+4, music cause welI, 0.712276, 0
+4, heavy metal, 0.726014, 2
+4, pathetic wings, 0.679572, 2
+4, nice little dive, 0.674724, 3
+4, God dam, 0.571752, 3
+4, wings, 0.944593, 4
+4, cent wings, 0.676217, 6
+4, piece wings, 0.671692, 6
+4, best wings, 0.832019, 7
+4, Best hot wings, 0.801916, 7
+4, fantastic IPAdraught beer, 0.694378, 8
+4, beer specials, 0.564686, 8
+4, wait staff, 0.577688, 9
+4, old show Cheers, 0.561978, 9
+5, hot wings, 0.655451, 0
+5, bicycle tour, 0.581151, 0
+5, low quality food, 0.774209, 2
+5, bad experience, 0.548702, 2
+5, high school, 0.812305, 3
+5, different bars, 0.576182, 3
+5, Stacker, 0.744021, 5
+5, place, 0.571363, 5
+5, Neighborhood dive bar, 0.81651, 6
+5, amazing wings, 0.693445, 6
+5, GREAT wings, 0.63328, 7
+5, cheapest drinks, 0.611737, 7
+5, Delicious chicken wings, 0.980136, 8
+5, Staff remembers, 0.547049, 8
+5, establishment best burger, 0.740863, 9
+5, Bomb wings, 0.631951, 9

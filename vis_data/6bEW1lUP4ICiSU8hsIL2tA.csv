@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, odd tasting bacon, 0.960341, 0
+1, green chile burger, 0.926692, 0
+1, male server, 0.80913, 1
+1, Roadhouse, 0.759256, 1
+1, bitter lettus, 0.809091, 2
+1, burger medium, 0.80602, 2
+1, heavy syrup, 0.811858, 3
+1, big let, 0.804855, 3
+1, owner, 0.690669, 4
+1, place, 0.709844, 5
+1, couple employees, 0.770776, 6
+1, great choices BUUUT, 0.98459, 7
+1, Prime Rib, 0.973525, 7
+2, people, 0.467599, 1
+2, sauce, 0.672566, 2
+2, disappointment, 0.573057, 2
+2, little bit, 0.78274, 3
+2, good flavor, 0.765225, 3
+2, bacon cheeseburger, 0.902025, 7
+2, chicken wings, 0.870774, 7
+2, wait staff, 0.839131, 8
+2, menu suggestions, 0.805647, 8
+3, Kitchen Food, 0.811606, 0
+3, better things, 0.754585, 0
+3, chop steak, 0.916536, 2
+3, baked fish, 0.844094, 2
+3, try, 0.494502, 7
+3, Cool place, 0.792361, 9
+4, waitstaff, 0.501259, 6
+4, Roadhouse Cafe, 0.94172, 8
+4, saloon, 0.611854, 8
+4, great place, 0.95252, 9
+4, good food, 0.77038, 9
+5, standard fare, 0.932546, 0
+5, bun, 0.561183, 0
+5, try, 0.561758, 3
+5, wife, 0.540628, 3
+5, crispy, 0.570435, 7
+5, toppings, 0.555772, 7
+5, drinks, 0.526467, 8
+5, server, 0.498047, 8
+5, great flavor, 0.853997, 9
+5, great visit, 0.814868, 9

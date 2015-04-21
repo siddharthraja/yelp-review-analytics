@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+2, iced tea, 0.976267, 0
+2, terrible tasting, 0.975197, 0
+2, customer service, 0.865879, 1
+2, kraut, 0.688514, 3
+2, Reuben, 0.648624, 3
+3, fried extra crispy, 0.924054, 0
+3, cheap drinks, 0.713798, 0
+3, Monday night crowd, 0.907576, 2
+3, dozen different cities, 0.884844, 2
+3, partial sandwiches, 0.744988, 3
+3, fish sandwich, 0.67385, 3
+3, sandwiches, 0.756163, 4
+3, salad, 0.530369, 5
+3, fried food, 0.716818, 6
+3, people, 0.480493, 6
+3, Bread french fries, 0.890362, 7
+3, best reubens, 0.720976, 7
+3, Good beer selection, 0.904937, 8
+3, good job, 0.712949, 8
+3, quick lunch, 0.697189, 9
+4, older hockey fans, 0.788064, 0
+4, flavorful hot sausage, 0.779868, 0
+4, worst mushrooms, 0.676426, 1
+4, worst thing, 0.599371, 1
+4, ice cream factory, 0.964188, 2
+4, bar food food, 0.735128, 2
+4, quality article, 0.599986, 3
+4, garlic flavor, 0.601655, 6
+4, white pizza, 0.601415, 6
+4, overall delicious pizza, 0.776627, 7
+4, peaceful little place, 0.742419, 7
+4, tasty food, 0.818827, 8
+4, townie bar, 0.809626, 8
+4, great townie bar, 0.796825, 9
+4, interesting clientele, 0.613554, 9
+5, car keys, 0.492471, 0
+5, cold beer, 0.487532, 0
+5, Pittsburgh bar, 0.432271, 3
+5, atmosphere, 0.26905, 5
+5, fish sandwich, 0.786392, 6
+5, Alexions fish sandwich, 0.759969, 6
+5, wings, 0.971649, 7
+5, best cheeseburger, 0.642088, 7
+5, Fantastic wings, 0.743434, 8
+5, Awesome drink specials, 0.956888, 9
+5, Great place, 0.516622, 9

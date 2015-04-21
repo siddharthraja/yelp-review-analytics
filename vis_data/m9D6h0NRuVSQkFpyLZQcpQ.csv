@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+1, Dear Owner, 0.651153, 0
+1, Dank, 0.446899, 0
+1, ...No!, 0.558058, 1
+1, redeeming feature, 0.716565, 2
+1, curly wurly, 0.690391, 2
+1, sub standard house, 0.927336, 3
+1, hefty whack, 0.766221, 3
+2, little indie/alternative venue, 0.958599, 0
+2, awful guys, 0.754709, 0
+2, bar staff, 0.726499, 2
+2, s***e, 0.470154, 2
+2, ones, 0.472851, 3
+2, group, 0.465062, 3
+2, dance floor, 0.7173, 7
+2, Ha, 0.490133, 7
+2, memorable nights, 0.80689, 8
+2, funny night, 0.694078, 8
+2, truly hilarious night, 0.976608, 9
+2, Citrus Club, 0.756277, 9
+4, dirty black pit, 0.969333, 0
+4, retro soul music, 0.872572, 0
+4, dance floor, 0.809489, 1
+4, spilt drink, 0.614625, 1
+4, fake tan, 0.577244, 2
+4, stilettos, 0.322337, 2
+4, lime green toilets, 0.89314, 3
+4, cloak room, 0.604628, 3
+4, fine design, 0.537251, 4
+4, luxury, 0.26436, 4
+4, people, 0.301572, 5
+4, warren, 0.265229, 6
+4, end, 0.259328, 6
+4, black walls, 0.527493, 7
+4, floors, 0.26743, 7
+4, good time, 0.525784, 8
+4, ones, 0.26195, 8

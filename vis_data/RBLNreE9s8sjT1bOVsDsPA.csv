@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, Fillmore management, 0.659792, 0
+1, Miller High Life, 0.627553, 0
+1, ridiculous drink prices, 0.839011, 1
+1, snotty twenty-something girls, 0.628123, 1
+1, actual bathroom area, 0.638793, 2
+1, Entry security treats, 0.625484, 2
+1, re-entry policy, 0.642023, 3
+1, ticket prices/service fees, 0.607297, 3
+1, fillmore, 0.990222, 4
+1, place, 0.631757, 4
+1, Flaming Lips, 0.757149, 6
+1, Fillmore venues, 0.63316, 6
+1, private events, 0.625181, 7
+1, will-call box, 0.523878, 7
+1, Universal Studios, 0.526338, 8
+1, Disney World, 0.521174, 8
+2, different level floor, 0.863563, 0
+2, general admission standing, 0.858352, 0
+2, mixed drink, 0.845719, 1
+2, overall bad layout, 0.839565, 1
+2, grey goose vodka, 0.838463, 2
+2, bar, 0.837787, 2
+2, VIP, 0.926635, 3
+2, credit card, 0.880289, 3
+2, Fillmore, 0.86187, 4
+2, private bar, 0.795318, 4
+2, venue, 0.94855, 5
+2, place, 0.818088, 5
+2, door security guys, 0.855777, 6
+2, VIP section, 0.826913, 6
+2, good visibility, 0.883316, 7
+2, good time, 0.878172, 7
+2, decent Railroad Earth, 0.869911, 8
+2, ta love ticketmaster, 0.852576, 8
+2, vibrant wall colors, 0.874154, 9
+3, craft brew prices, 0.759809, 0
+3, live music junkie, 0.720265, 0
+3, domestic beer ringing, 0.733741, 1
+3, ticket price, 0.732219, 1
+3, silly VIP sections, 0.72753, 2
+3, drink prices, 0.713102, 2
+3, favorite band play, 0.73575, 3
+3, Fillmore Charlotte, 0.683803, 3
+3, Fillmore, 0.853545, 5
+3, venue, 0.839978, 5
+3, Live Nation venue, 0.813769, 6
+3, beer, 0.804763, 6
+3, place, 0.883026, 7
+3, tastier booze option, 0.75117, 7
+3, live music, 0.965169, 8
+3, Flaming Lips, 0.77495, 8
+3, impressive craft beer, 0.729208, 9
+3, reasonable priced drinks, 0.707942, 9
+4, corporate Fillmore thing, 0.567754, 0
+4, small mixed drinks, 0.514946, 0
+4, area- expensive drinks, 0.542654, 2
+4, VIP bar area, 0.53336, 2
+4, VIP, 0.592125, 3
+4, Nation drink prices, 0.535737, 3
+4, drink prices, 0.685671, 4
+4, bit, 0.520184, 4
+4, venue, 0.915912, 5
+4, fillmore, 0.902479, 5
+4, place, 0.708164, 6
+4, bar, 0.549035, 6
+4, live nation venue, 0.730458, 7
+4, music, 0.617033, 7
+4, good view, 0.609498, 8
+4, great venue, 0.598599, 8
+4, cool venue, 0.597812, 9
+4, nice venue, 0.555015, 9
+5, Fillmore offers, 0.775621, 0
+5, Music Factory area, 0.775479, 0
+5, bad ass venue, 0.802948, 1
+5, general admission area, 0.75567, 2
+5, hectic mosh pit, 0.750607, 2
+5, post event drinks/food, 0.761213, 3
+5, sound quality, 0.702048, 3
+5, Fillmore, 0.937092, 5
+5, venue, 0.806107, 5
+5, general admission ticket, 0.918186, 6
+5, place, 0.82873, 6
+5, main floor area, 0.764056, 7
+5, music venue,in charlotte, 0.762321, 7
+5, PBR tall boys, 0.766049, 8
+5, favorite bands, 0.762588, 8
+5, live music scene, 0.757268, 9
+5, enjoyable concert expierience, 0.752475, 9

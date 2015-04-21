@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+3, Las Vegas Film, 0.983966, 0
+3, film festival, 0.975971, 0
+3, obscure liquors, 0.698297, 1
+3, cocktails, 0.538281, 1
+3, performance section, 0.728371, 2
+3, Inspire Theatre, 0.682224, 2
+3, main entrance, 0.70782, 3
+3, folding ones, 0.700041, 3
+3, Interesting concept, 0.657255, 6
+3, movie, 0.534967, 6
+3, juice. thanks, 0.711462, 7
+3, high hopes, 0.679234, 7
+3, Ty W., 0.74178, 8
+3, sofa seats, 0.721897, 8
+4, living room area, 0.820273, 0
+4, World Wide Web, 0.808513, 0
+4, bar crawl downtown, 0.851142, 1
+4, Fremont East Entertainment, 0.83084, 1
+4, doubt Scullery bar, 0.87032, 2
+4, Ogden high rise, 0.814505, 2
+4, bar area, 0.851129, 3
+4, new wine bar, 0.847312, 3
+4, bar, 0.91378, 5
+4, scullery, 0.890973, 5
+4, Black Box theater, 0.904521, 6
+4, true cocktail drinkers, 0.819417, 6
+4, Street District bar, 0.870593, 7
+4, snooty wine bar, 0.845416, 7
+4, small venue, 0.840605, 8
+4, craft cocktails, 0.831591, 8
+4, downtown Las Vegas, 0.91484, 9
+5, Downtown Cocktail rooms, 0.932414, 0
+5, later  dinner reservation, 0.892127, 0
+5, superficial, 0.480749, 1
+5, purpose, 0.454397, 1
+5, places, 0.455798, 2
+5, yelpers, 0.452948, 2
+5, great conversations, 0.737635, 3
+5, Maybe, 0.465447, 3
+5, place, 0.685508, 6
+5, WOW, 0.459417, 6
+5, house tour, 0.694404, 7
+5, food, 0.588734, 7
+5, pacific northwest vibe, 0.963917, 8
+5, charcuterie board, 0.920021, 8
+5, great atmosphere, 0.711851, 9
+5, chill, 0.468324, 9

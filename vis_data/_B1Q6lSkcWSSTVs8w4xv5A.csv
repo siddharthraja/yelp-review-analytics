@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, Russian store, 0.511625, 0
+1, Sad, 0.271994, 0
+1, overpriced coffee, 0.485671, 1
+1, good times, 0.465237, 2
+1, bad service, 0.459639, 2
+1, relaxing cup, 0.484976, 3
+1, kitchen person, 0.470665, 3
+1, Brighton beach, 0.768036, 6
+1, table, 0.318311, 6
+1, good caviar taste, 0.951797, 7
+1, good black caviar, 0.932941, 7
+1, lounge, 0.250739, 8
+1, seat, 0.250692, 8
+1, black currant sauce, 0.789337, 9
+1, butter toast, 0.547007, 9
+2, DING DING DING, 0.700239, 0
+2, tea sandwiches, 0.625732, 0
+2, hot water, 0.481236, 1
+2, tea time, 0.72857, 2
+2, Petrossian Bar, 0.554574, 2
+2, middle aged woman, 0.549487, 3
+2, Bella Peach cocktails, 0.542933, 3
+2, tea service, 0.773962, 4
+2, desserts, 0.452655, 4
+2, afternoon tea, 0.979381, 5
+2, bar, 0.570773, 5
+2, Afternoon Tea service, 0.705415, 6
+2, nothing-to-prove Italian decor, 0.552752, 6
+2, Nice bar, 0.48274, 7
+2, favorite hotel/casino property, 0.558135, 8
+2, great place, 0.481727, 8
+3, afternoon tea place, 0.618769, 0
+3, relaxing little afternoon, 0.533525, 0
+3, customer service, 0.468924, 1
+3, bitchy chick, 0.465889, 1
+3, afternoon tea places, 0.614314, 2
+3, caviar quality, 0.481794, 2
+3, exact tea, 0.514443, 3
+3, snooty hostess lady, 0.507826, 3
+3, scones, 0.471316, 4
+3, afternoon tea, 0.935509, 5
+3, service, 0.482003, 5
+3, high tea, 0.698863, 6
+3, tea sandwiches, 0.529711, 6
+3, afternoon tea setup, 0.628179, 7
+3, Alaskan crab salad, 0.510957, 7
+3, mint tea, 0.515629, 8
+3, green tea, 0.511765, 8
+3, good people, 0.463558, 9
+3, Great people, 0.460427, 9
+4, High Tea experience, 0.683628, 0
+4, Transmontanous Oscietra caviar, 0.664834, 0
+4, old fart bar, 0.629155, 1
+4, best people-watching bar, 0.617533, 1
+4, Petrossian Bar, 0.919382, 2
+4, sour faced server, 0.601781, 2
+4, lemon curd, 0.741262, 3
+4, cranberry scones, 0.63881, 3
+4, caviar, 0.821104, 4
+4, time, 0.648386, 4
+4, afternoon tea, 0.775725, 5
+4, people, 0.696377, 5
+4, high tea, 0.988968, 6
+4, tea service, 0.700983, 6
+4, high tea lovers, 0.65849, 7
+4, high tea tower, 0.658246, 7
+4, great people, 0.664145, 8
+4, best high tea, 0.663876, 8
+4, amazing tea, 0.622294, 9
+4, hot tea, 0.621971, 9
+5, tea experience, 0.37087, 0
+5, bagged tea options, 0.353257, 0
+5, Las Vegas, 0.333278, 2
+5, delicate watercress sandwiches, 0.308611, 2
+5, tea pots, 0.320347, 3
+5, Bellagio casino floor, 0.311843, 3
+5, afternoon tea, 0.90188, 5
+5, caviar, 0.429364, 5
+5, high tea, 0.558064, 6
+5, Afternoon Tea Service, 0.461769, 6
+5, Afternoon tea seekers, 0.432149, 7
+5, piano, 0.369085, 7
+5, lovely afternoon tea, 0.432342, 8
+5, Afternoon Tea Service., 0.430046, 8
+5, afternoon high tea, 0.461911, 9
+5, elegant afternoon tea, 0.45683, 9

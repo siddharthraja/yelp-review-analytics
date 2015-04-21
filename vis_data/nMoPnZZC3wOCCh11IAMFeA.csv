@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, bus ride, 0.677471, 0
+1, party bus ride, 0.677016, 0
+1, random bus, 0.634838, 1
+1, complete waste, 0.570687, 1
+1, party bus tour, 0.701519, 2
+1, wrist bands, 0.647983, 2
+1, people, 0.638041, 3
+1, nice host Amanda, 0.60761, 3
+1, party bus, 0.990575, 4
+1, ultra lounge, 0.735388, 4
+1, company, 0.653464, 5
+1, Party Bus package, 0.722949, 6
+1, pool club, 0.655109, 6
+1, better time, 0.56768, 7
+1, entire night, 0.567547, 7
+1, Pool Party tour, 0.620873, 8
+1, company elite VIP, 0.61253, 8
+2, entire regular line, 0.871137, 0
+2, good odds, 0.736348, 0
+2, yelp, 0.555545, 1
+2, sloppy wristband, 0.742992, 2
+2, terrible service, 0.736344, 2
+2, certain age, 0.741739, 3
+2, lily bar, 0.707153, 3
+2, Vegas Rockstar, 0.93666, 5
+2, Tiesto/Diplo/Calvin Harris, 0.740336, 6
+2, hunky owners, 0.737267, 6
+2, Rockstar VIP deal, 0.941664, 7
+2, better time, 0.72411, 7
+4, Las Vegas sign, 0.555459, 0
+4, Rockstar VIP crew, 0.531671, 0
+4, mistaken phone numbers, 0.528692, 1
+4, bus trip, 0.48367, 1
+4, club crawl tour, 0.589588, 2
+4, Cuervo margarita stuff, 0.523902, 2
+4, Aria, 0.425002, 3
+4, blurry images, 0.419141, 3
+4, party bus, 0.947469, 5
+4, time, 0.708292, 5
+4, VIP Nightclub tour, 0.570281, 6
+4, free drinks, 0.434382, 6
+4, pool party tour, 0.783134, 7
+4, MAKE SURE, 0.457777, 7
+4, night club tour, 0.738416, 8
+4, Great party music, 0.569632, 8
+4, nicer place, 0.421006, 9
+5, way home, 0.397304, 0
+5, small group, 0.39552, 0
+5, recent reviews, 0.396276, 1
+5, cheaper tour, 0.391566, 1
+5, bus ride, 0.46858, 3
+5, dance clubs, 0.385022, 3
+5, bucks, 0.316866, 4
+5, party bus, 0.946055, 5
+5, Bank, 0.308379, 5
+5, drinks, 0.853489, 6
+5, party bus groups, 0.65432, 6
+5, Vegas Rockstar VIP, 0.538186, 7
+5, stripper poll, 0.403609, 7
+5, party bus tour, 0.655498, 8
+5, excellent activity choice, 0.596281, 8
+5, young people, 0.418185, 9
+5, fun lady, 0.414911, 9

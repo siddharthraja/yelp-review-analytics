@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, poor service, 0.724587, 0
+1, poor food, 0.724261, 0
+1, Doubt, 0.48114, 1
+1, dinner, 0.458217, 1
+1, martini glass, 0.800237, 2
+1, leftover drink, 0.771379, 2
+1, Dover Sole dish, 0.977411, 3
+1, nice local restaurant, 0.965322, 3
+1, entree salads, 0.829464, 6
+1, New owners, 0.709621, 6
+1, delightful neighborhood restaurant, 0.963402, 8
+1, calamari appetizer, 0.866463, 8
+2, Amstel Light beer, 0.919766, 0
+2, Food average, 0.80731, 2
+2, BBQ sauce, 0.774843, 2
+2, waiter, 0.577006, 3
+2, visit, 0.548577, 3
+2, restaurant, 0.578422, 4
+2, wine pours, 0.768066, 6
+2, draft beer, 0.734778, 6
+2, good place, 0.743631, 7
+3, hamburgers, 0.247238, 0
+3, Poor ambience, 0.823217, 1
+3, Souless Cafe, 0.958841, 2
+3, Soul Cafe, 0.787606, 6
+3, Service ok, 0.636596, 6
+3, quiet customers, 0.740186, 7
+3, quiet places, 0.707903, 7
+3, martini lists, 0.632563, 8
+3, Good wine, 0.515519, 8
+4, quick bite, 0.717272, 0
+4, Friday night, 0.632234, 2
+4, little gem, 0.611404, 2
+4, Lamb Shank, 0.77846, 6
+4, vine, 0.401027, 7
+4, Rock, 0.308408, 7
+4, French onion soup, 0.932674, 8
+4, dinner, 0.318694, 8
+4, Pretty great lunch, 0.891581, 9
+4, perfect smile, 0.678868, 9
+5, por manager checks, 0.900884, 0
+5, bloody marys, 0.817966, 0
+5, bad review, 0.813471, 1
+5, basil cucumber smash, 0.941777, 2
+5, killer desert, 0.815143, 2
+5, plate envy, 0.811632, 3
+5, Grape vine bistro, 0.9106, 6
+5, time, 0.862915, 6
+5, caprese salad, 0.842343, 7
+5, baked prosciutto, 0.833625, 7
+5, balsamic glazed salmon, 0.942448, 8
+5, DOUBLE perfect evening, 0.930723, 8
+5, Sophisticated friendly place, 0.945135, 9
+5, ample portion, 0.926949, 9

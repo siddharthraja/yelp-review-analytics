@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, walmart parking, 0.90095, 0
+1, lounge, 0.384269, 0
+1, Yelp profile, 0.975281, 1
+1, junk selection, 0.784994, 1
+1, Rude service, 0.85276, 2
+1, good time, 0.760833, 2
+1, smoke shops, 0.853984, 3
+1, budget, 0.369549, 3
+1, prices, 0.657085, 5
+1, sneaky employees, 0.975102, 7
+1, business, 0.334717, 8
+3, good company, 0.784279, 0
+3, Place, 0.50204, 2
+3, watchful eye, 0.978033, 3
+3, bigger location, 0.952774, 3
+3, Good music, 0.805163, 7
+3, good fun, 0.803346, 7
+3, Went, 0.596203, 8
+3, friends, 0.50992, 8
+5, re-grand opening, 0.712729, 0
+5, DJ playing, 0.707095, 0
+5, opinion, 0.45785, 1
+5, Monday night football, 0.862767, 3
+5, smoking, 0.459271, 3
+5, music, 0.453298, 6
+5, dance, 0.453139, 6
+5, great time, 0.66144, 7
+5, Hookah, 0.474073, 7
+5, pretty legit time, 0.902535, 8
+5, Kaizads, 0.616042, 8
+5, pretty good flavors, 0.980823, 9
+5, awesome experience., 0.689799, 9

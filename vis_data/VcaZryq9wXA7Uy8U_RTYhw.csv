@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, chicken fettucini alfredo, 0.821281, 0
+1, old stale smoke, 0.818945, 0
+1, Big mistake, 0.694149, 1
+1, family return, 0.693949, 1
+1, picky person, 0.673936, 2
+1, waffle iron, 0.671881, 2
+1, Saturday evening, 0.672944, 3
+1, chicken burger, 0.657063, 3
+1, husband, 0.615089, 5
+1, Mothers, 0.604411, 5
+1, rib eye, 0.970728, 6
+1, rib eye steak, 0.918125, 6
+1, glowing reviews, 0.689285, 7
+1, hangover breakfast, 0.660656, 7
+1, easy listening jams, 0.778123, 8
+1, high hopes, 0.695316, 8
+2, lousy kitchen service, 0.626186, 0
+2, steak sauce tobasco, 0.606289, 0
+2, food order, 0.543529, 1
+2, Terrible service, 0.540521, 1
+2, huge chicken bone, 0.612257, 2
+2, bbq bacon burger, 0.598892, 2
+2, parm chicken sandwich, 0.721491, 3
+2, California Turkey sandwich, 0.700372, 3
+2, food, 0.95527, 4
+2, sandwich, 0.771183, 4
+2, service, 0.789162, 5
+2, husband, 0.598849, 5
+2, chicken sandwich cost, 0.702675, 6
+2, chicken Marseille, 0.53378, 6
+2, food aisle, 0.539312, 7
+2, upcoming promotions, 0.515184, 7
+2, Great customer service, 0.648297, 8
+2, caramel banana pancakes, 0.61297, 8
+2, generous refills, 0.512519, 9
+2, mozzarella sticks, 0.509889, 9
+3, best spinach artichoke, 0.574088, 0
+3, Super cold drinks, 0.553378, 0
+3, fried batter, 0.458746, 1
+3, cook waitress, 0.448891, 1
+3, bar, 0.496888, 2
+3, cheap drinks, 0.445535, 2
+3, neat little Mason, 0.545702, 3
+3, dining room, 0.542037, 3
+3, service, 0.625182, 4
+3, food, 0.930718, 5
+3, place, 0.818918, 5
+3, spinach artichoke dip, 0.790952, 6
+3, time, 0.551714, 6
+3, Saturday night, 0.576573, 7
+3, tequila sunrise, 0.554126, 7
+3, sweet fries, 0.651852, 8
+3, Thursday afternoon/evening, 0.436791, 8
+3, best waiter, 0.448473, 9
+3, Great appetizers, 0.447704, 9
+4, nice little spot, 0.846529, 0
+4, couple food items, 0.819, 0
+4, video poker bar, 0.824219, 1
+4, college football bar, 0.813801, 1
+4, little neighborhood bar, 0.819695, 2
+4, daily drink specials, 0.796929, 2
+4, typical bar food, 0.850338, 3
+4, little bit, 0.802475, 3
+4, bar food, 0.907774, 4
+4, time, 0.846431, 4
+4, food, 0.998658, 5
+4, Saturday night, 0.830448, 5
+4, place, 0.863331, 6
+4, veggie omlette, 0.813839, 6
+4, Good lunch food, 0.871487, 7
+4, Great little place, 0.859111, 7
+4, dining area, 0.850787, 8
+4, root beer float, 0.845016, 8
+4, great food, 0.88042, 9
+4, Nicely decorated place, 0.813092, 9
+5, best bar food, 0.612479, 0
+5, bar food establishment, 0.610606, 0
+5, great family restaurant, 0.609752, 1
+5, breakfast, 0.603142, 5
+5, breakfast menu, 0.569589, 5
+5, food, 0.923844, 6
+5, place, 0.755994, 6
+5, dog friendly place, 0.597206, 7
+5, Great selection, 0.555906, 7
+5, great service, 0.80078, 8
+5, sweet potato fries, 0.65841, 8
+5, great place, 0.647552, 9
+5, great food, 0.631062, 9

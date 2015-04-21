@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, Steelers afternoon game, 0.820113, 0
+1, Pirates game, 0.805309, 0
+1, moz sticks, 0.845996, 1
+1, bar area, 0.771417, 1
+1, uncomfortably sped mp3s, 0.781377, 2
+1, Top-40 bangers, 0.656395, 2
+1, Miller Lite, 0.988219, 3
+1, brainiac business management, 0.787656, 3
+1, place, 0.771263, 4
+1, drinks, 0.692147, 4
+1, waitress, 0.873385, 5
+1, Burgh staples, 0.664529, 6
+1, Cupid Shuffle, 0.649541, 6
+1, steelers games, 0.672266, 7
+1, good sandwich, 0.663252, 7
+1, great time, 0.65437, 8
+2, grade school cafeteria, 0.864349, 0
+2, bridge party, 0.8611, 0
+2, drunk old dudes, 0.886713, 1
+2, terrible college bars, 0.876911, 1
+2, morbidly obese cats, 0.910467, 2
+2, pretty good wings, 0.898322, 2
+2, dining partner, 0.849526, 3
+2, place, 0.828229, 3
+2, beer selection, 0.998545, 5
+2, kitchen counter eating, 0.822343, 6
+2, Decent beer selection, 0.848009, 7
+2, nice guy, 0.73735, 7
+2, large groups, 0.739626, 8
+3, specialty mullen chicken, 0.961959, 0
+3, wide open floor, 0.865098, 0
+3, Pittsburgh Pirates game, 0.907245, 2
+3, good wingman, 0.778574, 2
+3, standard sports bar, 0.893705, 3
+3, nacho platter, 0.757742, 3
+3, Pirates game, 0.919235, 4
+3, door smoke detectors, 0.867067, 4
+3, food, 0.864568, 5
+3, beer, 0.828241, 5
+3, place, 0.876062, 6
+3, Good place, 0.814797, 6
+3, delicious draft offerings, 0.868488, 7
+3, good burgers, 0.760852, 7
+3, PNC Park, 0.918865, 8
+3, good food, 0.778176, 8
+3, cold delicious brew, 0.905673, 9
+3, nice view, 0.76567, 9
+4, Ohio State Buckeyes, 0.690325, 0
+4, Ohio State vs, 0.680171, 0
+4, sports bar, 0.943787, 2
+4, sports bar fare, 0.885973, 2
+4, home game, 0.541668, 3
+4, Ohio State, 0.789851, 4
+4, Ohio State bar, 0.71967, 4
+4, large open space, 0.680718, 6
+4, sweet potato fries, 0.647742, 6
+4, tater tots, 0.878069, 7
+4, great Buckeye atmosphere, 0.669445, 7
+4, parmesan garlic, 0.67056, 8
+4, basic cheese quesadilla, 0.639549, 8
+4, Pittsburgh thing, 0.546113, 9
+4, game day traffic, 0.537732, 9
+5, Sept 27th staying, 0.971082, 0
+5, spring hill suites, 0.863347, 0
+5, sloppy joe sandwich, 0.968485, 3
+5, pork sandwich, 0.714021, 3
+5, tots, 0.40496, 7
+5, visit, 0.369782, 8
+5, fish tacos, 0.720025, 9
+5, Bartender Steve, 0.692762, 9

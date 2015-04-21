@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+2, beer, 0.708615, 0
+2, tea, 0.852793, 2
+2, cup, 0.722786, 2
+3, excitement, 0.40689, 2
+3, decent drink prices, 0.989383, 3
+3, dive bar, 0.507121, 3
+3, couple pool tables, 0.810983, 6
+3, date Golden Tee, 0.806715, 6
+4, Great dive bar, 0.683127, 0
+4, collar dive bar, 0.674796, 0
+4, Cheap beer, 0.757348, 1
+4, beer decent food, 0.68156, 1
+4, dive bar, 0.940677, 3
+4, downside, 0.272338, 3
+4, giant basket, 0.481217, 6
+4, pool tables, 0.469405, 6
+4, service liquor bar, 0.70128, 7
+4, great little venue, 0.649608, 7
+4, awesome chicken wings, 0.777144, 8
+4, Decently priced food, 0.723572, 8
+4, Great cheap eats, 0.865677, 9
+4, Super great value, 0.707159, 9
+5, hot wings, 0.649502, 0
+5, drink, 0.458626, 0
+5, bit, 0.44205, 2
+5, dive bar, 0.686823, 3
+5, bar food, 0.585707, 3
+5, Chicken wings, 0.68008, 6
+5, Comfort food, 0.598176, 6
+5, great neighborhood bar, 0.794504, 7
+5, pool tables, 0.62124, 7
+5, Chicken sandwich, 0.915729, 8
+5, Western Chicken sandwich, 0.885041, 8
+5, beer great prices, 0.812506, 9

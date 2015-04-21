@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, cart steak house, 0.804509, 0
+1, medium filet mignon, 0.72451, 0
+1, new steak, 0.809473, 1
+1, worst Steak house, 0.806388, 1
+1, steak house, 0.83681, 2
+1, chuck steak, 0.751409, 2
+1, filet mignon, 0.826404, 3
+1, steak houses, 0.803237, 3
+1, steak, 0.94555, 4
+1, service, 0.820865, 4
+1, Criss Angel, 0.702472, 5
+1, grilled steak salads, 0.803493, 6
+1, prix fixe, 0.802156, 6
+1, hanger steak, 0.777026, 7
+1, Hawaiian tuna appetizer, 0.774968, 7
+2, beef strip steak, 0.762527, 0
+2, Zealand filet mignon, 0.720074, 0
+2, bad service, 0.727851, 1
+2, killer steak, 0.704456, 1
+2, wild game, 0.87008, 2
+2, kobe beef, 0.722478, 2
+2, lobster bisque, 0.763263, 3
+2, menu, 0.713032, 3
+2, filet mignon, 0.902081, 4
+2, service, 0.838728, 4
+2, steak, 0.975199, 5
+2, meat, 0.712231, 5
+2, food, 0.750562, 6
+2, short rib ravioli, 0.74234, 6
+2, wild game tasting, 0.827608, 7
+2, TENDER steak, 0.745939, 7
+2, steak house, 0.823438, 8
+2, medium rare steak, 0.749073, 8
+2, nice steak house, 0.740182, 9
+3, steak house look, 0.65928, 0
+3, wagyu Kobe-style beef, 0.650525, 0
+3, great steak places, 0.696024, 1
+3, rib-eye steak, 0.628481, 1
+3, lobster tail, 0.597858, 2
+3, true steakhouse feel/knowledge, 0.597761, 2
+3, steak temperature mishap, 0.6643, 3
+3, good rate, 0.589913, 3
+3, food, 0.767411, 4
+3, service, 0.64814, 4
+3, steak, 0.91347, 5
+3, las vegas, 0.681668, 5
+3, filet mignon, 0.70951, 6
+3, fantastic steak joints, 0.652569, 6
+3, good steak dinner, 0.724521, 7
+3, fine mashed potatoes, 0.627633, 7
+3, Pretty good place, 0.670904, 8
+3, food preparation. food, 0.631311, 8
+3, TENDER steak, 0.6465, 9
+3, good ambiance, 0.604557, 9
+4, good steak dinner, 0.761098, 0
+4, wild game sampler, 0.724164, 0
+4, Las Vegas, 0.72544, 3
+4, little steak restaurant, 0.745146, 4
+4, steak, 0.958277, 5
+4, service, 0.804552, 5
+4, tender, 0.807436, 6
+4, food, 0.786953, 6
+4, lobster bisque, 0.955676, 7
+4, filet mignon, 0.876976, 7
+4, good steak, 0.775489, 8
+4, tender juicy steak, 0.767062, 8
+4, TENDER Steak, 0.764731, 9
+4, high end steak, 0.717611, 9
+5, picky steak lovers, 0.71965, 0
+5, situation..new steak ASAP, 0.710801, 0
+5, vegas, 0.827022, 5
+5, luxor, 0.803274, 5
+5, steak, 0.954387, 6
+5, tender, 0.871475, 6
+5, wild game, 0.802985, 7
+5, filet mignon, 0.793202, 7
+5, best steak, 0.792883, 8
+5, TENDER Steak, 0.754393, 8
+5, great steak, 0.73692, 9
+5, nice steak house, 0.726621, 9

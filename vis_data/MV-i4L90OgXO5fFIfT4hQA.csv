@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, guy friend, 0.815422, 0
+1, CDC, 0.442188, 0
+1, bathroom, 0.677541, 2
+1, drinks, 0.467001, 2
+1, smallest bar, 0.999581, 3
+1, World, 0.444755, 3
+1, Hef, 0.680892, 5
+1, staff, 0.423043, 6
+3, beer specials, 0.716775, 0
+3, odd place, 0.684002, 0
+3, best venue, 0.661886, 2
+3, nachos, 0.471538, 2
+3, guy, 0.490485, 3
+3, bit, 0.448499, 3
+3, dinner, 0.520104, 4
+3, Hef, 0.500453, 5
+3, Price. The majority, 0.693935, 6
+3, different perspective, 0.682675, 6
+3, tamer chain stores, 0.936936, 7
+3, cent oysters, 0.689395, 7
+3, drink specials, 0.976088, 8
+3, happy hour specials, 0.974451, 8
+3, black flourishes, 0.716474, 9
+3, red wallpaper, 0.692563, 9
+4, good bar grub, 0.810778, 0
+4, pop rock music, 0.781115, 0
+4, city pages, 0.773243, 1
+4, crazy cheap specials, 0.752045, 1
+4, house ketchup tastes, 0.771374, 2
+4, chicken wings, 0.763401, 2
+4, hey dirty hipsters, 0.77971, 3
+4, cheap domestic beer, 0.771055, 3
+4, hef, 0.840507, 4
+4, wings, 0.906763, 5
+4, place, 0.814627, 5
+4, free drink, 0.838337, 6
+4, great frozen drink, 0.779911, 6
+4, free beer lures, 0.775977, 7
+4, cent wings, 0.751184, 7
+4, drink specials, 0.828288, 8
+4, free beer, 0.82138, 8
+5, wedge shape fries, 0.911144, 0
+5, free concert tickets, 0.77919, 0
+5, Turkey Club sandwich, 0.834949, 1
+5, dill sauce, 0.626034, 2
+5, sandwich bar, 0.654307, 3
+5, grill places, 0.638828, 3
+5, yukon gold potatoes, 0.800053, 6
+5, small bar feel, 0.798197, 6
+5, Great small bar, 0.796865, 7
+5, best fries, 0.749646, 7
+5, drink specials, 0.780946, 8
+5, Best drink specials, 0.752088, 8
+5, great options, 0.640496, 9
+5, great place, 0.628259, 9

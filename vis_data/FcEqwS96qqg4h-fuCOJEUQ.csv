@@ -1,0 +1,19 @@
+rating, keyword, relevance, bucket
+1, terrible choice, 0.975788, 2
+1, Bartender, 0.560758, 2
+1, Cold Beer, 0.729124, 6
+1, Great Sake, 0.861121, 7
+1, Satellite TV, 0.722813, 7
+5, beer specials, 0.718987, 0
+5, Sundays, 0.479907, 0
+5, different bars, 0.698004, 1
+5, bloody sake bar, 0.966992, 2
+5, food specials, 0.717428, 2
+5, sports bar, 0.65026, 3
+5, drink, 0.560444, 4
+5, chill friendly place, 0.869278, 7
+5, owner/bartender Chris, 0.648402, 7
+5, locals, 0.487512, 8
+5, Lounge, 0.463521, 8
+5, great owner, 0.703994, 9
+5, new place, 0.677547, 9

@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, bartenders, 0.826516, 0
+1, Amsterdam, 0.814736, 0
+1, price, 0.966605, 1
+1, drinks, 0.726305, 1
+3, past bartender, 0.796351, 0
+3, absolute chaos, 0.69885, 0
+3, bottle, 0.405611, 6
+3, better draft beer, 0.942443, 7
+3, selection, 0.371288, 7
+3, neat place, 0.701199, 9
+3, excellent potential, 0.669899, 9
+4, weekend, 0.381108, 2
+4, nice outdoor space, 0.958593, 6
+4, little friendly competition, 0.903796, 6
+4, Bliss Rebar, 0.792595, 8
+4, remodeling, 0.403565, 8
+4, awesome new feel, 0.961501, 9
+4, fun vibe, 0.720456, 9
+5, Best feature, 0.544784, 0
+5, Grand Opening, 0.535814, 0
+5, pop art theme, 0.72532, 2
+5, early Monday work, 0.71718, 2
+5, dollar Smirnoff, 0.621597, 6
+5, youre feeling, 0.570791, 6
+5, little dance platforms, 0.806876, 7
+5, Thursday nights Drag, 0.726082, 7
+5, amazing dance floor, 0.777175, 8
+5, Great music selection, 0.736995, 8
+5, great place, 0.933146, 9
+5, great musical selection, 0.772954, 9

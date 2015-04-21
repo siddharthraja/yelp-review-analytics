@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, Orange Creamcycle, 0.528507, 0
+1, boyfriend, 0.228665, 0
+1, male employees, 0.558409, 1
+1, rude comments, 0.637747, 2
+1, bar, 0.407108, 2
+1, long sleeved shirt, 0.999221, 3
+1, White Russian, 0.506247, 3
+1, Connoly, 0.291716, 4
+1, Young ladies, 0.595611, 6
+1, specialty drinks, 0.5417, 6
+1, pool tables, 0.637829, 7
+1, Black Russian, 0.81924, 8
+1, Kahlua, 0.230267, 8
+2, boring neighborhood bars, 0.996345, 0
+2, OK OK, 0.625163, 0
+2, coke, 0.378741, 1
+2, fuck, 0.252309, 3
+2, Bartender, 0.236196, 6
+2, respectable liquor selection, 0.853795, 7
+2, jukebox, 0.2079, 7
+2, Meghan Trainor album, 0.954833, 8
+2, Hooper, 0.379871, 8
+4, dive bars, 0.692344, 1
+4, minority, 0.46953, 1
+4, female bartenders, 0.784249, 2
+4, exception, 0.476844, 2
+4, times, 0.444795, 3
+4, great time, 0.65567, 6
+4, Wonderful sports bar, 0.95337, 9
+4, cherished family member, 0.870568, 9
+5, Great atmosphere, 0.976395, 8
+5, Best wings, 0.915348, 8

@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, Horrible risotto balls, 0.966042, 0
+1, private party, 0.808643, 0
+1, trivial price difference, 0.928953, 1
+1, entire life, 0.817478, 1
+1, cheap ass, 0.801907, 2
+1, final insult, 0.781894, 2
+1, Old Town Scottsdale, 0.934796, 3
+1, owner, 0.806554, 3
+1, menu, 0.673112, 5
+1, time, 0.710473, 6
+1, food, 0.702767, 6
+1, wine tasting event, 0.917723, 7
+1, Kitchen Nightmares, 0.823494, 7
+2, squatty goblet type, 0.561207, 0
+2, Grapefruit Basil Martini, 0.55392, 0
+2, langasto pasta, 0.487325, 1
+2, homemade pasta, 0.482524, 1
+2, good dining experience, 0.571028, 2
+2, food order, 0.439694, 2
+2, pasta dish, 0.515768, 3
+2, Italian food, 0.469015, 3
+2, food, 0.549148, 5
+2, evo salad, 0.99807, 6
+2, Heirloom Tomato pasta, 0.589344, 6
+2, pork belly risotto, 0.817834, 7
+2, good portion sizes, 0.56095, 7
+2, mushroom risotto, 0.586097, 8
+2, italian wedding soup, 0.567922, 8
+3, New York strip, 0.56515, 0
+3, vegetable risotto, 0.537244, 0
+3, good italian donuts, 0.553837, 1
+3, Limited menu options, 0.512644, 2
+3, spicy shrimp pasta, 0.601264, 3
+3, night, 0.576586, 3
+3, funghi pizza, 0.610088, 4
+3, bar, 0.579897, 4
+3, food, 0.890211, 5
+3, service, 0.679119, 5
+3, place, 0.69883, 6
+3, EVO Scottsdale, 0.641316, 6
+3, evo salad, 0.966169, 7
+3, good date night, 0.551416, 7
+3, good food, 0.533655, 8
+3, slightly upscale place, 0.514958, 8
+3, Local Dines deal, 0.552761, 9
+3, good specialty cocktail, 0.524358, 9
+4, Scallop Di EVO, 0.555776, 0
+4, star Evo, 0.518797, 0
+4, fried risotto balls, 0.662853, 3
+4, service, 0.655538, 4
+4, lobster risotto, 0.647558, 4
+4, evo salad, 0.908239, 5
+4, kale salad, 0.698428, 5
+4, food, 0.793888, 6
+4, good food, 0.651998, 6
+4, meat sauce, 0.569093, 7
+4, great service, 0.558047, 7
+4, old town, 0.892686, 8
+4, old town scottsdale, 0.650585, 8
+4, Great atmosphere, 0.553315, 9
+4, Great new restaurant, 0.551126, 9
+5, Scallop di Evo, 0.457852, 0
+5, Yelp/ EVO, 0.447275, 2
+5, old town scottsdale, 0.409671, 3
+5, evo salad, 0.996731, 5
+5, late night, 0.565045, 5
+5, food, 0.856478, 6
+5, old town, 0.764427, 6
+5, brussel sprouts, 0.524222, 7
+5, pizza, 0.508, 7
+5, great food, 0.536789, 8
+5, great service, 0.530398, 8
+5, Incredible job Evo, 0.476841, 9
+5, EVO staff, 0.465465, 9

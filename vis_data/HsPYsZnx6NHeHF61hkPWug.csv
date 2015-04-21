@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+3, qui fait qu'on, 0.913777, 0
+3, leur carte est, 0.910655, 0
+3, low music, 0.756029, 2
+3, nachos, 0.645378, 2
+3, joue au bar, 0.88746, 3
+3, mozzarella cheese, 0.767698, 3
+3, sangria, 0.699489, 5
+3, small treat, 0.754293, 6
+3, ça, 0.636409, 6
+3, Eric Van Nguyen, 0.920098, 7
+3, Good people, 0.801496, 7
+3, beer list, 0.760551, 8
+3, Cheers, 0.687745, 8
+3, Great bar, 0.789751, 9
+3, relax, 0.630736, 9
+4, endroit que j'aimerais, 0.849221, 0
+4, disons que le, 0.844156, 0
+4, unremarkable bar food, 0.885752, 1
+4, assis au bar, 0.851263, 3
+4, little local bar, 0.848059, 3
+4, Montreal, 0.818468, 4
+4, bar, 0.893444, 5
+4, food, 0.956214, 6
+4, place, 0.926539, 6
+4, cozy little bar, 0.866205, 7
+4, Great bar, 0.830965, 7
+4, neighborhood gathering place, 0.874234, 8
+4, interesting cocktail menu, 0.842121, 8
+4, great place, 0.871027, 9
+4, great drinks, 0.824685, 9
+5, little local bar, 0.74322, 0
+5, great neighborhood bars, 0.723441, 0
+5, good hip-hop joints, 0.721932, 2
+5, late night watering, 0.700743, 2
+5, snowy Montreal night, 0.709845, 3
+5, food, 0.770436, 4
+5, place, 0.926651, 5
+5, people, 0.685679, 5
+5, good music playing, 0.725255, 6
+5, great Scotch list, 0.721738, 6
+5, perfect place, 0.788826, 7
+5, Great little neighborhood, 0.726926, 7
+5, great scotch selection, 0.741271, 8
+5, great food, 0.735955, 8
+5, good beer, 0.775963, 9
+5, best meeting place, 0.758784, 9

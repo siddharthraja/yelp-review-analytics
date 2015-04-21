@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, new ownership, 0.947526, 0
+1, new target audience, 0.92444, 0
+1, self-esteem boost, 0.83833, 1
+1, obnoxious bars, 0.836869, 1
+1, unwelcoming private bar, 0.963581, 2
+1, negative review, 0.835119, 2
+1, dimly-lit martini bar, 0.944722, 3
+1, unwashed hipster look, 0.939167, 3
+1, Opus, 0.989287, 4
+1, fast-food restaurateur work, 0.931313, 4
+1, friends, 0.877402, 5
+1, seemingly self-contained patrons, 0.950987, 6
+1, Madison nightlife gem, 0.933104, 6
+1, new Opus business, 0.986223, 7
+1, classy wait staff, 0.96543, 7
+1, intimate spot ideal, 0.919922, 8
+1, sophisticated upscale lounge, 0.911914, 8
+1, swanky eclectic mix, 0.925555, 9
+1, right volume, 0.825984, 9
+2, Opus namesake, 0.783786, 0
+2, new target audience, 0.780204, 0
+2, crappy food quality, 0.773482, 1
+2, basement bar, 0.717032, 1
+2, unwelcoming private bar, 0.825517, 2
+2, equally unimpressive bottle, 0.765891, 2
+2, dimly-lit martini bar, 0.802183, 3
+2, bar changes hands, 0.791874, 3
+2, fast-food restaurateur work, 0.782884, 4
+2, Opus, 0.937908, 5
+2, tapas, 0.773697, 5
+2, new ownership, 0.80604, 6
+2, Madison nightlife gem, 0.795493, 6
+2, new Opus business, 0.858086, 7
+2, classy wait staff, 0.822867, 7
+2, intimate spot ideal, 0.770102, 8
+2, sophisticated upscale lounge, 0.764308, 8
+2, swanky eclectic mix, 0.775213, 9
+2, tapas dinner, 0.757857, 9
+3, -My dirty martini, 0.755289, 0
+3, not-exactly-comfortable seating arrangements, 0.717293, 0
+3, crazy looking martinis, 0.76861, 1
+3, undergrad college kids, 0.76658, 1
+3, dirty martini, 0.766237, 2
+3, low seating, 0.654503, 2
+3, mixed drinks, 0.767908, 3
+3, limited tap menu, 0.747618, 3
+3, drinks, 0.906896, 6
+3, green neon lighting, 0.727521, 6
+3, regular food menu, 0.779653, 7
+3, vinegar though. frambua, 0.770424, 7
+3, true cocktail lounge, 0.770142, 8
+3, decent stand-by place, 0.751112, 8
+3, extensive menu, 0.640443, 9
+3, alcoholic thirst, 0.629848, 9
+4, small group drink, 0.878921, 0
+4, Happy hour drinks, 0.835342, 0
+4, times Opus, 0.795694, 1
+4, oft passed-over place, 0.829283, 2
+4, spring rolls, 0.820018, 2
+4, bigger urban centers, 0.830859, 3
+4, big plus, 0.779389, 3
+4, drinks, 0.98298, 5
+4, Opus, 0.835001, 5
+4, perfectly crafted drink, 0.893292, 6
+4, craft drink places, 0.871556, 6
+4, drink, 0.960896, 7
+4, sweet potato fries, 0.928501, 7
+4, fantastic mix drinks, 0.900603, 8
+4, sweet drink, 0.8583, 8
+4, cool place, 0.780513, 9
+4, GREAT service, 0.778448, 9
+5, good pale ale, 0.68529, 0
+5, pulp fiction, 0.659815, 0
+5, low tables, 0.64237, 2
+5, martini flight, 0.754122, 3
+5, nightly martini flight, 0.7007, 3
+5, martinis, 0.674207, 5
+5, drinks, 0.914902, 6
+5, Opus, 0.656712, 6
+5, Best mixed drinks, 0.740681, 7
+5, Butter Up Kim, 0.731434, 7
+5, highly alcoholic drinks, 0.743521, 8
+5, new drinks, 0.671633, 8
+5, absolute best cocktails, 0.669638, 9
+5, exotic drinks, 0.658967, 9

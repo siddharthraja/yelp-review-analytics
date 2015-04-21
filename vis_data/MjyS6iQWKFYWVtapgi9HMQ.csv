@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+1, tequila shot, 0.977107, 0
+1, dls, 0.519197, 0
+1, bar station, 0.832562, 1
+1, bucks, 0.683146, 1
+1, Bartenders, 0.552143, 2
+1, thieves, 0.529377, 2
+2, Hip Hop, 0.907944, 0
+2, Nice bar, 0.852671, 0
+2, drinks, 0.579679, 1
+2, people, 0.328608, 1
+2, drunken idiots, 0.952146, 2
+2, tennis match, 0.8595, 2
+2, Thursday night, 0.947871, 3
+2, security, 0.335018, 3
+2, good job, 0.832915, 6
+2, ambiance, 0.396, 6
+2, techno, 0.377028, 7
+2, dance, 0.344741, 7
+3, gymnasts, 0.546559, 0
+3, sorts, 0.533815, 0
+3, cover fee, 0.82432, 2
+3, lineups, 0.535781, 2
+3, yuck, 0.584005, 3
+3, Karina, 0.542593, 3
+3, great time, 0.819086, 6
+3, OK place, 0.802439, 6
+3, drinks, 0.670373, 7
+3, fun place, 0.9118, 9
+3, Drink, 0.507433, 9
+4, Great atmosphere, 0.965788, 8
+4, staff party, 0.780832, 8

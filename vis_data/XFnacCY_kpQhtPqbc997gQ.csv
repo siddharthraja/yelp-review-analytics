@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+2, social club, 0.55806, 0
+2, best bet, 0.557287, 0
+2, strictly enforced dress, 0.975735, 1
+2, hard way, 0.581413, 1
+2, tennis shoes, 0.848289, 2
+2, dark jeans, 0.622762, 2
+2, Thursday night jam, 0.767446, 3
+2, dress shoes, 0.620269, 3
+2, place, 0.401111, 4
+2, interesting art pieces, 0.741757, 6
+2, new converses, 0.607111, 6
+2, stylish addition, 0.575008, 7
+2, younger players, 0.566062, 7
+2, legendary jazz scene, 0.847923, 8
+2, Pittsburgh, 0.353417, 8
+4, reviews.  nicer, 0.853984, 0
+4, preservation hall, 0.753287, 0
+4, touristy, 0.46886, 3
+4, place, 0.475841, 6
+4, night, 0.47562, 6
+4, Nice jazz, 0.771873, 7
+4, atmosphere., 0.463493, 7
+4, low light ambiance, 0.996371, 8
+4, authentic scene, 0.868241, 8
+4, Service, 0.467937, 9
+5, Francis Bruce Marion, 0.914728, 0
+5, international Jazz stars, 0.890503, 0
+5, ethnic mix, 0.691153, 2
+5, Went, 0.388264, 2
+5, Saturday w\Tony Campbell, 0.914227, 3
+5, Jazz Surgery, 0.621263, 3
+5, Nina Simone, 0.683508, 6
+5, Cajun fish, 0.681563, 6
+5, good variety, 0.630264, 8
+5, crowd, 0.500906, 8
+5, great parking, 0.614371, 9
+5, food, 0.420927, 9

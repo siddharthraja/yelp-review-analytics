@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, main floor, 0.757025, 0
+1, stage, 0.438875, 1
+1, Paul Oakenfold, 0.942506, 2
+1, club, 0.582735, 2
+1, NOOOOPE, 0.448197, 3
+2, guestlist wait time, 0.930735, 0
+2, electronic music genre, 0.88051, 0
+2, hazard laws, 0.748684, 1
+2, Sky Box, 0.875452, 2
+2, positives Rain, 0.791195, 2
+2, Velvet Rope Lord, 0.893529, 3
+2, poor vibe, 0.786531, 3
+2, Perfecto, 0.870822, 4
+2, Billy Bob, 0.749653, 4
+2, Paul Oakenfold, 0.942942, 6
+2, DJ Qbert, 0.92276, 6
+2, glowing aerial dancers, 0.888406, 7
+2, decent guestlist, 0.807308, 7
+2, decent venue, 0.742464, 8
+2, outdoor patio, 0.738905, 8
+2, good time, 0.744997, 9
+2, loved ones, 0.732351, 9
+3, house music party, 0.834419, 0
+3, live EDM sets, 0.804375, 0
+3, horrible commercial music, 0.802096, 1
+3, legendary David Morales, 0.784527, 2
+3, EDM DJ, 0.740537, 2
+3, final song, 0.71732, 3
+3, all-access wristband, 0.715091, 3
+3, opening DJ, 0.955626, 4
+3, club, 0.826466, 5
+3, David Morales, 0.810825, 5
+3, real good time, 0.797442, 6
+3, la Ruby Skye, 0.795092, 6
+3, house music, 0.868532, 7
+3, Paul Oakenfold headline, 0.82764, 7
+3, perfecto night, 0.84162, 8
+3, great elecronic music, 0.839186, 8
+3, cirque style performers, 0.779067, 9
+4, Markus Schulz, 0.867302, 0
+4, Saw Paul Oakenfold, 0.770979, 0
+4, club shit, 0.704095, 1
+4, security guy, 0.751366, 2
+4, Planet Perfecto theme, 0.749025, 2
+4, ........., 0.78225, 3
+4, super sonic spacey, 0.712188, 3
+4, laser lights, 0.713246, 4
+4, crowd, 0.70176, 4
+4, house music, 0.889211, 5
+4, people, 0.792087, 5
+4, Dash Berlin, 0.70588, 6
+4, du Soliel-esque performances, 0.705578, 6
+4, DJ Paul Oakenfold, 0.908629, 7
+4, Vegas nightclub scene, 0.733754, 7
+4, good good times, 0.751789, 8
+4, fun good view, 0.736844, 8
+4, good house music, 0.799199, 9
+4, Nice place, 0.693678, 9
+5, Saw Paul Oakenfold, 0.684198, 0
+5, single time, 0.547243, 0
+5, long time, 0.55558, 1
+5, Paul Oakenfield, 0.536433, 1
+5, Paul Oakenfold, 0.908003, 2
+5, sick house music, 0.641333, 2
+5, packed clubs, 0.556862, 3
+5, huge crowd, 0.534231, 3
+5, dance floor, 0.979462, 4
+5, Rain, 0.576139, 4
+5, time, 0.696378, 5
+5, people, 0.572863, 5
+5, house music, 0.769822, 6
+5, notch talent, 0.537856, 6
+5, size dance floor, 0.642652, 7
+5, Great house club, 0.638776, 7
+5, cirque style stuff, 0.628276, 8
+5, awesome rave, 0.57241, 8
+5, bottle service section, 0.673287, 9
+5, electro house music, 0.667093, 9

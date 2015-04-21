@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, truck stop restroom, 0.614664, 0
+1, times Merc Bar, 0.608442, 0
+1, toilet paper, 0.741816, 1
+1, Maybe Champagne room, 0.557854, 1
+1, horrible toilet paper, 0.611818, 2
+1, credit card charges, 0.562426, 2
+1, bad service, 0.581939, 3
+1, moscow mule, 0.578053, 3
+1, drinks, 0.694058, 4
+1, new business hours., 0.57624, 4
+1, place, 0.671112, 5
+1, Merc Bar, 0.919705, 6
+1, customer service skills, 0.590157, 6
+1, mature management staff, 0.574296, 7
+1, nice place, 0.522086, 8
+1, Beautiful place, 0.503444, 8
+1, nice upscale resort, 0.593685, 9
+1, restroom issue, 0.526227, 9
+2, mixed speciality drinks, 0.711165, 0
+2, wait staff remove, 0.697788, 0
+2, supercilious demeanor, 0.561346, 1
+2, cocktail waitress, 0.712113, 2
+2, bar menu, 0.586255, 2
+2, interesting cocktail menu, 0.689667, 3
+2, female server, 0.579627, 3
+2, Merc Bar, 0.945502, 4
+2, bartender, 0.701097, 5
+2, friends, 0.613503, 5
+2, entire Merc Bar, 0.780622, 6
+2, ittle ultra lounge, 0.660397, 6
+2, sexy virgin cocktails, 0.696348, 7
+2, attentive bartender, 0.635149, 7
+2, fresh ingredient drinks, 0.661721, 8
+2, premium liquors, 0.542189, 8
+3, point- pretty people, 0.480712, 0
+3, damn good time, 0.46945, 0
+3, little military style, 0.456404, 1
+3, vodka red bull, 0.435458, 1
+3, Merc Bar, 0.914245, 2
+3, underage bar visit, 0.491175, 2
+3, tasteless blasting music, 0.442167, 3
+3, super slow service, 0.4278, 3
+3, good time, 0.503591, 4
+3, bartender, 0.408557, 4
+3, place, 0.707718, 5
+3, cheese plate, 0.497871, 5
+3, safeway brand vodka, 0.451039, 6
+3, Totally believable alibi, 0.433686, 6
+3, dress code, 0.47593, 7
+3, late night cocktail, 0.46054, 7
+3, pretty ok place, 0.494794, 8
+3, pretty decent people, 0.468927, 8
+3, classy place, 0.410399, 9
+4, moscow mule, 0.352802, 0
+4, Merc Mojito, 0.328372, 0
+4, Merc crowd, 0.329066, 2
+4, Merc nights, 0.323766, 2
+4, guys bar tab, 0.307052, 3
+4, classy dive bar, 0.301715, 3
+4, Saturday night, 0.454056, 4
+4, lounge, 0.349568, 4
+4, Merc Bar, 0.900012, 5
+4, place, 0.781765, 5
+4, people, 0.336076, 6
+4, cool little bar, 0.334184, 6
+4, post dinner drink, 0.350426, 7
+4, good mix, 0.349314, 7
+4, great place, 0.419627, 8
+4, good place, 0.352334, 8
+4, great night capper, 0.341462, 9
+4, recommended great drinks, 0.324698, 9
+5, NYC Merc Bar, 0.689502, 0
+5, best little bar, 0.555426, 0
+5, decent wine selection, 0.521914, 1
+5, trashy John Cena, 0.508407, 1
+5, Old Town Scottsdale, 0.51397, 3
+5, dark wood paneling, 0.510029, 3
+5, night, 0.522825, 4
+5, wierd office complex, 0.504595, 4
+5, merc bar, 0.994072, 5
+5, place, 0.825531, 5
+5, great signature cocktails, 0.556058, 6
+5, wierd place, 0.512636, 6
+5, great time, 0.540913, 7
+5, awesome drinks, 0.530912, 7
+5, great date bar, 0.594753, 8
+5, great drinks, 0.591552, 8
+5, Great music selection, 0.550741, 9
+5, great Customer Service, 0.53767, 9

@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, lunch period crowd, 0.895358, 0
+1, local lunch spot, 0.892629, 0
+1, Terrible gross food, 0.735883, 1
+1, cold French fry, 0.734478, 1
+1, ground chicken burger, 0.752595, 2
+1, da*n stale wedding, 0.724736, 2
+1, extremely slow lunch, 0.810555, 3
+1, ate lunch, 0.770206, 3
+1, lunch, 0.950869, 5
+1, quiche, 0.760436, 5
+1, chicken salad panini, 0.985294, 6
+1, dried cherries, 0.63563, 6
+1, free lunch, 0.822171, 7
+1, good beer selection, 0.733485, 7
+1, beer selection, 0.852719, 8
+1, Sharp Edge, 0.844088, 8
+2, Initial bar service, 0.693117, 0
+2, panini-pressed cheese sandwich, 0.677325, 0
+2, terrible service, 0.669558, 1
+2, Shoddy service, 0.598574, 1
+2, bar, 0.726381, 2
+2, grilled portobello mushroom, 0.668387, 2
+2, cheap store-bought sandwich, 0.658426, 3
+2, good beer, 0.633171, 3
+2, beer selection, 0.669373, 4
+2, Sharp Edge, 0.989669, 5
+2, beer, 0.8492, 5
+2, cheese sandwich, 0.716998, 6
+2, Blue cheese flatiron, 0.678353, 6
+2, grilled cheese sandwich, 0.69599, 7
+2, Sharp Edge Bistro, 0.678634, 7
+2, good grilled cheese, 0.693307, 8
+2, Belgian beers, 0.652814, 8
+2, pretty extensive list, 0.643983, 9
+2, sweet potato fries, 0.641162, 9
+3, Belgian beer, 0.581559, 0
+3, Belgian beer bar, 0.576292, 0
+3, beer menu, 0.522617, 2
+3, Possible great things, 0.517359, 2
+3, beer prices, 0.552081, 3
+3, potentially great bar, 0.535519, 3
+3, menu, 0.591184, 4
+3, menu items, 0.543757, 4
+3, sharp edge, 0.98788, 5
+3, beer, 0.86523, 5
+3, place, 0.578306, 6
+3, free beer options, 0.554362, 6
+3, Great beer selection, 0.607038, 7
+3, Good beer selection, 0.584, 7
+3, beer selection, 0.815302, 8
+3, Excellent beer selection, 0.560001, 8
+3, craft beer selection, 0.567367, 9
+3, nice beer selection, 0.562356, 9
+4, boar burger, 0.656122, 0
+4, extensive beer selection, 0.462675, 0
+4, bar kinda bar, 0.443375, 1
+4, beer selection action, 0.457094, 2
+4, bar food, 0.440784, 2
+4, Sharp Edge Bistro, 0.474957, 3
+4, Belgium raspberry beer, 0.430368, 3
+4, beer emporium, 0.466478, 4
+4, bar, 0.499766, 5
+4, place, 0.495642, 5
+4, sharp edge, 0.982929, 6
+4, beer selection, 0.886828, 6
+4, belgian burger, 0.494399, 7
+4, Sharp Edge Beer, 0.464656, 7
+4, great selection, 0.547912, 8
+4, good food, 0.541946, 8
+4, Great beer selection, 0.584578, 9
+4, Great Belgium beer, 0.487236, 9
+5, lax nec playoffs, 0.481739, 0
+5, Buffalo Blue bites, 0.467988, 0
+5, long dangerous path, 0.463271, 1
+5, Sharper Edge, 0.488777, 3
+5, Lagunitas mason jar, 0.463582, 3
+5, place, 0.623538, 6
+5, food, 0.608386, 6
+5, Beer beer beer, 0.684767, 7
+5, ostrich burger, 0.511285, 7
+5, beer selection, 0.992432, 8
+5, Great beer selection, 0.662481, 8
+5, extensive beer menu, 0.650067, 9
+5, Fantastic beer selection, 0.56198, 9

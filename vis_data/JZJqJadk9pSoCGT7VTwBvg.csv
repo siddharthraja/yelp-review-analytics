@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, INSANELY loud I-do, 0.929079, 0
+1, good acts, 0.685714, 0
+1, entrance fee, 0.657232, 1
+1, email address, 0.643269, 1
+1, torn bar stools, 0.840086, 2
+1, dirty club, 0.642498, 2
+1, man, 0.556719, 3
+1, bartender, 0.538646, 3
+1, great acts, 0.693201, 6
+1, dollar Jack, 0.653982, 6
+1, booming silence, 0.678436, 7
+1, event coordinator, 0.65562, 7
+1, chill place, 0.668001, 8
+1, band, 0.448391, 8
+2, Petes new CD, 0.777756, 0
+2, horn players, 0.529396, 0
+2, stage time, 0.501216, 1
+2, annoyances, 0.280534, 1
+2, half, 0.317902, 2
+2, tip, 0.315998, 2
+2, Keyboardist, 0.271424, 3
+2, Rhythm Room, 0.932491, 4
+2, Door guys, 0.535966, 7
+2, faster setup/teardown, 0.508138, 7
+2, simple improvements, 0.501698, 8
+2, music area, 0.496712, 8
+2, right place, 0.49967, 9
+2, great night, 0.479053, 9
+3, good little venue, 0.812967, 0
+3, someones nasty ass, 0.800434, 0
+3, dance floor, 0.774723, 1
+3, dance floor/seating area, 0.772109, 1
+3, dive bar, 0.860071, 2
+3, cheap drinks, 0.797185, 2
+3, dive bar standards, 0.791557, 3
+3, Tim Fite, 0.781035, 3
+3, hot air, 0.713814, 4
+3, music, 0.892208, 5
+3, place, 0.886615, 5
+3, music venue, 0.791229, 6
+3, great people, 0.731795, 6
+3, Rhythm Room, 0.967487, 7
+3, ample stage room, 0.785189, 7
+3, frank turner, 0.780417, 8
+3, Great place, 0.743851, 8
+3, live music, 0.780402, 9
+3, great value, 0.724554, 9
+4, great live indie, 0.559545, 0
+4, indie music groups, 0.553308, 0
+4, Tuesday night, 0.558354, 1
+4, dingy music venue, 0.574456, 2
+4, dance floor, 0.583905, 3
+4, old music venue, 0.581769, 3
+4, blues, 0.582641, 4
+4, rhythm room, 0.950474, 5
+4, music, 0.712678, 5
+4, place, 0.732112, 6
+4, venue, 0.638917, 6
+4, intimate music venue, 0.568987, 7
+4, reduction Great venue, 0.567211, 7
+4, great place, 0.69679, 8
+4, Rhythm Room experience, 0.598596, 8
+4, times Rhythm Room, 0.583679, 9
+4, great time, 0.580807, 9
+5, great local acts, 0.581484, 0
+5, nationally touring acts, 0.559913, 0
+5, bad man, 0.584817, 1
+5, big cousin Marquee, 0.561113, 1
+5, fall music festival, 0.573843, 2
+5, mean theremin playing, 0.553675, 2
+5, greatest Blues legends, 0.565722, 3
+5, good music, 0.562416, 3
+5, rhythm room, 0.927489, 5
+5, venue, 0.638074, 5
+5, music, 0.690558, 6
+5, place, 0.688432, 6
+5, Rhythm Room All-stars, 0.606124, 7
+5, live music, 0.597717, 7
+5, great time, 0.629214, 8
+5, Great small venue, 0.589514, 8
+5, great little vibe, 0.584601, 9
+5, sound. good beer, 0.561891, 9

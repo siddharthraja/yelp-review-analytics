@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+3, Eine Kleinenacht Musik, 0.625561, 0
+3, decent sound engineer, 0.617845, 0
+3, venue bar prices, 0.633857, 1
+3, grand old edifices, 0.619291, 1
+3, glass cubicle thing, 0.619206, 2
+3, comfy seat, 0.574453, 2
+3, Lothian Road, 0.628662, 3
+3, glass bus shelter, 0.615778, 3
+3, Usher Hall, 0.939401, 5
+3, impressive concert hall, 0.642854, 6
+3, incredible Status Quo, 0.63677, 6
+3, new face lift, 0.619577, 7
+3, Billy Connolly, 0.565685, 7
+3, absolutely beautiful ceiling, 0.618005, 8
+3, concert venue, 0.57875, 8
+4, old school theatre, 0.668128, 0
+4, live Boa Constrictor, 0.659231, 0
+4, Ticket prices, 0.591613, 2
+4, majestic Usher Hall, 0.720975, 3
+4, new cafe/foodie venue, 0.670134, 3
+4, Usher Hall, 0.902221, 5
+4, Alice Cooper, 0.663651, 6
+4, Alice Cooper gig, 0.661312, 6
+4, great bus links, 0.680797, 7
+4, comedian Dylan Moran, 0.669182, 7
+4, great comedy venue, 0.70137, 8
+4, great Halloween night, 0.678993, 8
+4, great evening, 0.61495, 9
+4, lovely building, 0.605904, 9
+5, Vaughan Williams, 0.622962, 0
+5, Naked Classics, 0.617181, 0
+5, modern extension, 0.427235, 2
+5, bad experience, 0.424448, 2
+5, Hats, 0.279498, 3
+5, Usher Hall, 0.947519, 4
+5, tremendous time, 0.626961, 6
+5, ice cream, 0.610581, 6
+5, House/Neil Finn events, 0.602548, 7
+5, leg room fine, 0.590865, 7
+5, Great management staff, 0.818559, 8
+5, best performance, 0.594952, 8
+5, Wonderful enlightening dissection, 0.902775, 9
+5, genuinely loved piece, 0.617604, 9

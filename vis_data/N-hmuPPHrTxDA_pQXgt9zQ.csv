@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, new restaurant suffers, 0.642955, 0
+1, veggie wrap thing, 0.642231, 0
+1, piss poor service, 0.6171, 1
+1, male bartender, 0.586352, 1
+1, identity crisis, 0.654718, 2
+1, following troubling items, 0.638184, 2
+1, food, 0.947136, 3
+1, time, 0.547994, 3
+1, place, 0.893914, 4
+1, new place, 0.78872, 4
+1, bar, 0.65733, 5
+1, huge towering plate, 0.615581, 6
+1, fajita veggies, 0.543261, 6
+1, great new place, 0.693002, 7
+1, convenient neighborhood spot, 0.655552, 7
+1, saving positive thing, 0.603486, 8
+1, health department, 0.533505, 9
+1, surprise visit, 0.525963, 9
+4, old game room, 0.874416, 0
+4, private dining area, 0.872631, 0
+4, Grill, 0.5376, 2
+4, flat screen televisions, 0.903575, 3
+4, echoey warehouse-style establishment, 0.879722, 3
+4, standard-sized tables, 0.73014, 6
+4, Sweet Vidalia, 0.6965, 6
+4, brown/burgundy high-top tables, 0.881846, 7
+4, Wine Country, 0.708717, 7
+4, burgers, 0.549412, 8
+4, service, 0.541308, 8

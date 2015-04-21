@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, typical Chinese food, 0.463578, 0
+1, Terrible Terrible place, 0.455199, 0
+1, service, 0.55916, 1
+1, customer service, 0.433791, 1
+1, veggie rice bowl, 0.659756, 2
+1, food order, 0.460493, 2
+1, cheese burrito, 0.503457, 3
+1, Vegan Carne Asada, 0.441001, 3
+1, food, 0.955219, 4
+1, place, 0.765186, 4
+1, bar, 0.583247, 5
+1, drink, 0.498457, 5
+1, carne asada, 0.579287, 6
+1, grilled chicken burrito, 0.439685, 6
+1, carne asada burrito, 0.533548, 7
+1, Fettuccine Alfredo burrito, 0.434293, 7
+1, inexpensive bar food, 0.451415, 8
+2, tiny plastic cups, 0.892658, 0
+2, C.A.S.A/Sun Ba, 0.752057, 0
+2, typical bar burger, 0.916721, 1
+2, Chronic Taco, 0.754357, 1
+2, annoying flies, 0.740866, 2
+2, redeeming factor, 0.718124, 2
+2, new location, 0.974372, 3
+2, food, 0.823495, 3
+2, place, 0.848217, 6
+2, relaxed bar/restaurant, 0.773364, 6
+2, pretty good dishes, 0.898104, 7
+2, small bits, 0.728003, 7
+2, squeeze bottle, 0.723169, 8
+2, salsa, 0.588086, 8
+2, entire place, 0.73142, 9
+2, cheese burrito, 0.712237, 9
+3, vegan carne asada, 0.910152, 0
+3, street tacos, 0.684224, 0
+3, bad service, 0.770035, 1
+3, time, 0.743539, 1
+3, prominent bar smack, 0.693115, 2
+3, pretty bad service, 0.689756, 2
+3, brand new spot, 0.660254, 3
+3, pricey dive bar, 0.642136, 3
+3, food, 0.656966, 4
+3, place, 0.646657, 4
+3, bar, 0.798323, 5
+3, drinks, 0.654669, 6
+3, Vegan options, 0.533417, 6
+3, cheese burrito, 0.65952, 7
+3, California-type Mexican food, 0.647154, 7
+3, chill crowd, 0.551564, 8
+3, OG burritos, 0.544032, 8
+3, pretty cool place, 0.630797, 9
+3, Great drinks, 0.53822, 9
+4, carne asada burrito, 0.835057, 0
+4, Multiple vegan options, 0.684663, 0
+4, Chronic Taco, 0.673654, 1
+4, green chili mac, 0.626128, 1
+4, chinese takeout burrito, 0.936512, 2
+4, vegan Chinese Takeout, 0.691812, 2
+4, carne asada, 0.93957, 3
+4, breakfast burrito bowls, 0.75027, 3
+4, cheese burrito, 0.729699, 4
+4, bar, 0.699109, 5
+4, food, 0.668558, 5
+4, best vegan burrito, 0.844077, 6
+4, carne asada marinade, 0.70206, 6
+4, vegan carne asada, 0.866562, 7
+4, good sized burrito, 0.798287, 7
+4, teriyaki chicken burrito, 0.73868, 8
+4, Thanksgiving Dinner burrito, 0.725487, 8
+4, great place, 0.763782, 9
+4, Great drink selection, 0.650899, 9
+5, world drink specials, 0.660095, 0
+5, vegan brunch, 0.646119, 0
+5, phone,the high pressure, 0.664152, 1
+5, new extended bar, 0.655076, 2
+5, popular dive bar, 0.649659, 2
+5, typical dive bar, 0.642639, 3
+5, food, 0.860828, 5
+5, place, 0.856708, 5
+5, crane asada burrito, 0.78181, 6
+5, downtown San Diego, 0.657604, 6
+5, vegan carne asada, 0.996924, 7
+5, carne asada burrito, 0.910542, 7
+5, cheese burrito, 0.862731, 8
+5, great food, 0.82273, 8
+5, food great vibe, 0.732191, 9
+5, patio delicious food, 0.731266, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, blue burger, 0.464049, 0
+1, meat patty, 0.444063, 0
+1, long line, 0.416034, 1
+1, heart disease, 0.404042, 1
+1, red meat, 0.731159, 2
+1, food, 0.378258, 2
+1, meat, 0.809433, 3
+1, meal, 0.425584, 3
+1, meat burger, 0.607803, 4
+1, place, 0.382468, 4
+1, bean vegetarian burger, 0.612451, 6
+1, HEALTH REASONS, 0.415027, 6
+1, gift cards, 0.376092, 7
+1, manager, 0.319119, 7
+1, black bean burger, 0.906745, 8
+1, different dish, 0.401567, 8
+2, Buffalo Wild Wings, 0.642359, 0
+2, playoff football games, 0.63901, 0
+2, customer service experiences, 0.647711, 1
+2, good place, 0.534565, 1
+2, waitress, 0.587547, 2
+2, waitress visit, 0.564163, 2
+2, average chain restaurant, 0.658364, 3
+2, food order, 0.579293, 3
+2, place, 0.584331, 4
+2, food, 0.915241, 5
+2, manager, 0.561246, 5
+2, pretty big group, 0.63561, 6
+2, family friendly environment, 0.619696, 6
+2, boneless wings, 0.682882, 7
+2, Parmesan garlic, 0.545757, 7
+2, worst-ever dining experience, 0.618626, 8
+2, GOOD NIGHT, 0.556456, 8
+3, boneless wings, 0.746917, 0
+3, stand-up arcade games, 0.560715, 0
+3, New wings, 0.513745, 1
+3, big group, 0.623218, 2
+3, Pricey food, 0.4437, 2
+3, commercial sports bar, 0.519443, 3
+3, common domestics, 0.437147, 3
+3, WI-oriented tap selection, 0.530784, 4
+3, food, 0.477388, 4
+3, bar area, 0.672744, 5
+3, bar area guarantees, 0.540351, 6
+3, fried pickles, 0.446127, 6
+3, buffalo wild wings, 0.906506, 7
+3, open dining room, 0.541154, 7
+3, Pretty good service, 0.627762, 8
+3, big screen viewage, 0.547913, 8
+4, low- end eatery, 0.955899, 0
+4, hot FRESH wings, 0.90518, 0
+4, sports bars, 0.608454, 1
+4, TVs, 0.373947, 2
+4, beer glass, 0.600644, 3
+4, bar food, 0.581129, 3
+4, service, 0.50778, 5
+4, Good buffalo wings, 0.943752, 6
+4, non-fresh wings, 0.698542, 6
+4, pretty good job, 0.95544, 7
+4, non-wing special nights, 0.834672, 7
+4, beer tap lines, 0.821648, 8
+4, great wings, 0.718292, 8
+4, premium price tag, 0.797929, 9
+4, Mango habanero, 0.634278, 9
+5, *Completely inaccurate guess, 0.937909, 0
+5, Thursday NFL Network, 0.934467, 0
+5, bad experience, 0.726441, 1
+5, sub-par service, 0.724722, 1
+5, sports bar, 0.91007, 2
+5, nights, 0.582785, 2
+5, excited kid, 0.763788, 3
+5, noise level, 0.73867, 3
+5, Brewers game airing, 0.952046, 4
+5, semi-private regional cable, 0.948114, 4
+5, food, 0.620847, 5
+5, television screens, 0.735584, 6
+5, hot sauces, 0.732885, 6
+5, small children, 0.766625, 7
+5, place, 0.581438, 7
+5, solid menu offerings, 0.900919, 8
+5, tasty outing, 0.742911, 8

@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, worst restaurant experiences, 0.936716, 0
+1, awful service, 0.73252, 0
+1, good riddance, 0.692976, 1
+1, people, 0.449768, 1
+1, food, 0.807392, 2
+1, Little Es, 0.662227, 2
+1, restaurant drinking beer, 0.948592, 3
+1, moms birthday, 0.714928, 3
+1, eyes, 0.370333, 4
+1, live jazz, 0.635923, 6
+1, chances, 0.375347, 6
+1, patronage, 0.381976, 8
+1, money, 0.364149, 8
+2, kid frolicking, 0.876309, 0
+2, jazz club, 0.73633, 0
+2, raw potatoes, 0.909913, 1
+2, little girl, 0.811684, 1
+2, thing, 0.511857, 2
+2, food, 0.475974, 2
+2, People, 0.267125, 3
+2, stage, 0.414549, 4
+2, night time, 0.716236, 6
+2, occasion, 0.274325, 7
+2, small venue, 0.858239, 8
+3, live jazz/blues band, 0.961864, 0
+3, little better place, 0.797758, 0
+3, bar section, 0.531323, 2
+3, Sazerac, 0.417059, 2
+3, bit, 0.333094, 3
+3, stage, 0.327263, 3
+3, Brazilian artist sing, 0.843352, 6
+3, great time, 0.549139, 6
+3, particular evening, 0.520261, 7
+3, music, 0.399489, 7
+3, cover charge, 0.936128, 8
+3, mixed appetizer plate, 0.86758, 8
+5, funky Little Es, 0.934894, 0
+5, Jeff Tain Watts, 0.923237, 0
+5, stereo, 0.536698, 2
+5, cost Pittsburgh Jazz, 0.96903, 3
+5, experience, 0.538773, 3
+5, different taste desires, 0.931518, 6
+5, Jazz club, 0.726959, 6
+5, food, 0.570773, 7
+5, blast, 0.538563, 7
+5, great Pittsburgh groove, 0.928194, 8
+5, search great jazz, 0.925022, 8
+5, great entertainment, 0.751315, 9
+5, Pittsburgh way, 0.737623, 9

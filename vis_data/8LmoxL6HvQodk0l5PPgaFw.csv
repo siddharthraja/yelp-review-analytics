@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, Angelica Blue B&B, 0.849246, 0
+1, restaurant delivery man, 0.830528, 0
+1, french-speaking UQAM students, 0.854537, 1
+1, unacceptable manner, 0.725246, 1
+1, table, 0.790107, 2
+1, waitress, 0.764989, 2
+1, slightly frazzled barmaid, 0.901412, 3
+1, long time, 0.726195, 3
+1, service, 0.934892, 4
+1, friends, 0.741415, 4
+1, place, 0.804253, 5
+1, establishment, 0.579894, 5
+1, boy-howdy American selves, 0.852061, 6
+1, terrace, 0.718008, 6
+1, Neat spot, 0.68617, 7
+1, absolute graciousness, 0.698225, 8
+2, redhead bartender, 0.848566, 0
+2, Dutch beers, 0.780132, 0
+2, ass, 0.314874, 1
+2, review, 0.29093, 1
+2, bartender complain, 0.80676, 2
+2, wrong time, 0.752538, 2
+2, Dutch beer, 0.642589, 3
+2, rest, 0.304713, 3
+2, import beers, 0.774937, 6
+2, refill, 0.320507, 6
+2, Great atmosphere, 0.674946, 8
+2, vines, 0.327081, 8
+2, waitress excellent tips, 0.9756, 9
+2, Excellent waiters, 0.753918, 9
+3, fellow terrace drunks, 0.950165, 0
+3, terrace reading books, 0.935256, 0
+3, shit, 0.637629, 1
+3, waiter, 0.636926, 1
+3, crowded week-end nights, 0.920915, 2
+3, adult entertainment area, 0.918457, 2
+3, El Bar, 0.894663, 3
+3, nice yo, 0.787986, 3
+3, place, 0.842977, 6
+3, street, 0.657619, 6
+3, spot. excellent beer, 0.95931, 7
+3, frisky living room, 0.918384, 7
+3, great time, 0.803602, 8
+3, Nice pub, 0.801296, 8
+3, Great place, 0.790754, 9
+4, et le service, 0.857609, 0
+4, vaut le détour, 0.852723, 0
+4, good pub delivery, 0.804495, 2
+4, pub, 0.821941, 4
+4, Le Sainte Elisabeth, 0.943483, 5
+4, place, 0.840944, 6
+4, la magnifique terrasse, 0.808361, 6
+4, bar veut le, 0.830229, 7
+4, loud street terrace, 0.79973, 7
+4, Good place, 0.79562, 8
+4, great place, 0.810055, 9
+4, Sainte Catherine street, 0.798369, 9
+5, une pinte et, 0.673606, 0
+5, Elisabeth est le, 0.667755, 0
+5, dans une section, 0.643786, 2
+5, habituellement tout est, 0.625076, 2
+5, red light district, 0.600826, 3
+5, Sainte Elisabeth, 0.928306, 4
+5, Le Sainte Elisabeth, 0.800282, 6
+5, même une terrasse, 0.650669, 6
+5, terrace, 0.626848, 7
+5, place, 0.624871, 7
+5, awesome beer garden, 0.625092, 8
+5, extremely high walls, 0.616201, 8
+5, Great micro-beer selection, 0.617861, 9

@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, tip coz, 0.900439, 0
+1, poor service, 0.758277, 0
+1, False advertisement, 0.845622, 1
+1, signs, 0.241312, 1
+1, hallway, 0.319594, 2
+1, food, 0.263989, 2
+1, pink center, 0.854204, 3
+1, drinkers, 0.323221, 3
+1, Friday night, 0.786715, 6
+1, Medicare card, 0.774283, 6
+2, Club House Sandwich, 0.916049, 0
+2, steak fries, 0.76743, 0
+2, napkin, 0.476507, 1
+2, server Leslie, 0.660558, 2
+2, drinks, 0.642539, 2
+2, big deal, 0.705747, 3
+2, hurry, 0.493322, 3
+2, lunch menus, 0.734769, 6
+2, new place, 0.69761, 6
+2, breakfast menus, 0.708753, 7
+3, initial problem, 0.989709, 0
+3, food, 0.725521, 0
+3, Las Vegas, 0.922412, 3
+3, cryin, 0.643115, 3
+3, chance, 0.600069, 7
+4, good microbrewed beers, 0.69025, 0
+4, Ellis Island brews, 0.658136, 0
+4, coffee shop motif, 0.68703, 1
+4, Black Mountain Grill, 0.618496, 2
+4, new neighborhood spot, 0.612627, 2
+4, northern California, 0.454064, 3
+4, fish n chips, 0.844053, 4
+4, great fish, 0.621995, 6
+4, chilled glass, 0.449664, 6
+4, chicken pot pie, 0.957039, 7
+4, outstanding chicken pot, 0.707943, 7
+4, excellent service, 0.433356, 8
+4, hefewiezen, 0.23961, 8
+4, Waitress, 0.26969, 9
+4, dishes, 0.253264, 9
+5, Village Pub/Ellis Island, 0.839517, 0
+5, Las Vegas, 0.694033, 0
+5, hip trendy place, 0.871018, 2
+5, dining experience, 0.698387, 2
+5, long time friend, 0.8305, 3
+5, chicken parmesan, 0.721441, 3
+5, potatoes American fare, 0.875543, 6
+5, good meat, 0.710503, 6
+5, Good local pub, 0.935807, 7
+5, nice cheap breakfast, 0.87527, 7
+5, steak dinner, 0.718109, 8
+5, favorite location, 0.710698, 8
+5, great casual place, 0.894809, 9
+5, Great local spot, 0.8591, 9

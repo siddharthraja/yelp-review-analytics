@@ -1,0 +1,96 @@
+rating, keyword, relevance, bucket
+1, great beer selection, 0.386108, 0
+1, kids free cookies, 0.361568, 0
+1, hot dog stand, 0.497596, 1
+1, poor quality food, 0.374775, 1
+1, Brat Haus, 0.548057, 2
+1, better beer brats, 0.416209, 2
+1, server, 0.378473, 3
+1, table, 0.363368, 3
+1, food, 0.943429, 4
+1, German food, 0.371655, 4
+1, beer, 0.750271, 5
+1, place, 0.586364, 5
+1, belgian fries, 0.385677, 6
+1, size Belgian beer, 0.379784, 6
+1, beer selection, 0.531566, 7
+1, vegan grain sausage, 0.355561, 7
+1, good German beer, 0.38124, 8
+1, Good beer, 0.330734, 8
+1, nice cool night, 0.342766, 9
+2, Brat Haüs patio, 0.654551, 0
+2, duck brat, 0.627192, 0
+2, better beer brat, 0.706763, 1
+2, spicy brat, 0.678304, 1
+2, beer brat, 0.768486, 2
+2, brats, 0.710273, 2
+2, Brat Haüs, 0.686551, 3
+2, ole beer brats, 0.64991, 3
+2, brat, 0.95735, 4
+2, brat haus, 0.922939, 4
+2, beer, 0.835053, 5
+2, place, 0.711129, 5
+2, german potato salad, 0.697566, 6
+2, root beer onions, 0.65066, 6
+2, apricot onion chutney, 0.631749, 7
+2, beer selection, 0.631316, 7
+2, good customer service, 0.605139, 8
+2, Haus Original Pretzel, 0.600756, 8
+3, good beer brat, 0.488792, 0
+3, German style pretzel, 0.317249, 0
+3, spicy brat, 0.433374, 1
+3, brat swimming, 0.367768, 1
+3, Brat Haus patio., 0.437731, 2
+3, Brat Haus AZ, 0.421163, 2
+3, beer brat, 0.592389, 3
+3, Old Town, 0.434442, 3
+3, Brat Haus, 0.978967, 4
+3, brats, 0.504225, 4
+3, beer, 0.696108, 5
+3, food, 0.588417, 5
+3, beer selection, 0.483433, 6
+3, traditional beer brat, 0.444783, 6
+3, belgian fries, 0.495524, 7
+3, beer garden, 0.366669, 7
+3, great place, 0.374999, 8
+3, fun place, 0.357768, 8
+3, Great beer list, 0.345199, 9
+3, delicious Belgian fries, 0.323233, 9
+4, beer brat pls, 0.442971, 0
+4, best brat, 0.360782, 0
+4, good brat, 0.385645, 1
+4, vegan brat, 0.372264, 1
+4, beer brat, 0.648973, 2
+4, Brat Haus houses, 0.402146, 2
+4, vegan grain brat, 0.398784, 3
+4, Brat Burger, 0.362432, 3
+4, time, 0.367939, 4
+4, german beer, 0.338461, 4
+4, brat haus, 0.982414, 5
+4, beer, 0.732087, 5
+4, Old Town Scottsdale, 0.539251, 6
+4, fries, 0.49534, 6
+4, chicken brat, 0.397462, 7
+4, root beer onions, 0.390292, 7
+4, belgian fries, 0.489581, 8
+4, beer garden, 0.402638, 8
+5, awesome Brat Haus, 0.44398, 0
+5, beer brat sandwich, 0.44015, 0
+5, huge brat fan, 0.399431, 1
+5, veil brat, 0.351534, 1
+5, spicy brat, 0.642502, 2
+5, spicy brat w/, 0.402791, 2
+5, drunken date cake, 0.456977, 3
+5, pepper jack brat, 0.397287, 3
+5, pretzels, 0.460994, 4
+5, lamb brat, 0.453749, 4
+5, brat haus, 0.997134, 5
+5, root beer onions, 0.545276, 5
+5, beer, 0.733846, 6
+5, beer brat, 0.541256, 6
+5, good brat, 0.388208, 7
+5, apricot onion chutney, 0.388046, 7
+5, beer selection, 0.702324, 8
+5, great beer, 0.40234, 8
+5, date brat, 0.359778, 9
+5, Great beer choices, 0.335327, 9

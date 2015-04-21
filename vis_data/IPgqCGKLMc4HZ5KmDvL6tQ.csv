@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+1, Fast Forward, 0.885376, 0
+1, French fries, 0.655644, 0
+1, craptastic roller rink, 0.959004, 1
+1, previous 2-star review, 0.944264, 1
+1, entire wheel craters, 0.925728, 2
+1, traditional potholes, 0.749265, 2
+1, private party, 0.851275, 3
+1, working double duty, 0.825999, 3
+1, Hey, 0.475799, 6
+1, great customer service, 0.823088, 8
+2, entire property, 0.744226, 0
+2, dark skating, 0.666592, 0
+2, moldy inserts, 0.804054, 1
+2, inline skates, 0.761723, 1
+2, blight, 0.489356, 2
+2, joke, 0.475211, 2
+2, kinda creepy, 0.832553, 3
+2, roller rink, 0.738444, 3
+2, Hip Hop Night, 0.932412, 6
+2, sisters night, 0.672065, 6
+3, corrugated metal, 0.651977, 0
+3, Lighting fixtures, 0.633933, 0
+3, sweaty smell, 0.722391, 2
+3, Ceiling tiles, 0.676354, 2
+3, Parking, 0.375516, 3
+3, retro-themed birthday party, 0.968062, 6
+3, Violet, 0.404473, 6
+3, New owners, 0.64151, 7
+3, effort, 0.380465, 7
+3, improvements, 0.386057, 8
+3, Staff, 0.362016, 8
+4, time warp, 0.66009, 0
+4, new owners, 0.641746, 0
+4, old Twix wrappers, 0.835774, 2
+4, Gatorade bottles, 0.716451, 2
+4, potholes, 0.492672, 3
+4, tons, 0.47612, 3
+4, old man, 0.644322, 6
+4, snacks, 0.46012, 6
+4, great skating music, 0.976201, 7
+4, glowing objects, 0.687543, 7
+4, pacifiers, 0.486863, 8
+4, place, 0.481264, 8
+5, birthday parties, 0.931364, 8
+5, great time, 0.850432, 8

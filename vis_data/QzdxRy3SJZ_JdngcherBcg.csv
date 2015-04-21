@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, town guest, 0.780654, 0
+1, bartender, 0.5823, 0
+1, terrible service, 0.942466, 1
+1, times, 0.611501, 1
+1, food order, 0.741793, 2
+1, Eddie, 0.664356, 2
+1, inhospitable clowns, 0.778285, 3
+1, table service, 0.762654, 3
+1, Sun Prairie, 0.81819, 7
+1, local businesses, 0.812039, 7
+2, smaller tvs, 0.552449, 0
+2, larger tv, 0.534043, 0
+2, Typical bar food, 0.955909, 1
+2, average sandwich, 0.507339, 1
+2, wilted lettuce, 0.527754, 2
+2, plain mayonnaise, 0.507048, 2
+2, dark beers, 0.576953, 3
+2, Decent beer selection, 0.909595, 6
+2, nice flavor, 0.51246, 6
+2, small local place, 0.909093, 7
+2, chicken sandwich, 0.532878, 7
+2, great selection, 0.513056, 9
+3, bar food, 0.609028, 0
+3, talk businesses, 0.570234, 0
+3, cheese curds, 0.630083, 1
+3, beer menu, 0.614885, 1
+3, mediocre service, 0.592535, 2
+3, Greek place, 0.575453, 2
+3, couple times, 0.586219, 3
+3, huge deal, 0.582536, 3
+3, bartenders, 0.479708, 5
+3, Stella Artois cider, 0.744637, 6
+3, Sun Prairie, 0.736202, 6
+3, Prairie local establishment, 0.711683, 7
+3, Eddie, 0.635553, 7
+3, Good beer selection, 0.7498, 8
+3, pork tenderloin sandwich, 0.748845, 8
+3, beer selection, 0.965664, 9
+3, great beer selection, 0.793062, 9
+4, occasional live music, 0.71728, 0
+4, state-wide smoking ban, 0.698266, 0
+4, downside, 0.350851, 1
+4, elbows, 0.344332, 2
+4, sports bar, 0.498098, 3
+4, pool table, 0.708259, 6
+4, Big Eddy burger, 0.658412, 6
+4, beer selection, 0.89832, 7
+4, Sun Prairie scene, 0.751713, 7
+4, Sun Prairie, 0.908888, 8
+4, deliciously greasy bar, 0.756809, 8
+4, awesome beer list, 0.669093, 9
+4, tasty basic food, 0.664693, 9
+5, large tables, 0.359624, 0
+5, seating area, 0.353389, 0
+5, Raging Bitch, 0.384068, 1
+5, husband, 0.221115, 1
+5, typical bar food, 0.52627, 2
+5, fish fry, 0.397574, 2
+5, har har har, 0.8567, 3
+5, tiny little burgers, 0.622078, 3
+5, pretty mean burger, 0.54307, 6
+5, pool table, 0.363372, 6
+5, Nice interior, 0.337818, 7
+5, great beer selection, 0.555979, 8
+5, beer list, 0.372397, 8
+5, beer selection, 0.945337, 9
+5, Excellent beer selection, 0.944041, 9

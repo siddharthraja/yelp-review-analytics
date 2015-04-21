@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, great American bar, 0.791794, 0
+1, basic bar cleanliness, 0.78048, 0
+1, downtown Scottsdale bar, 0.779154, 1
+1, Dita Von Tease, 0.771064, 1
+1, bar, 0.981622, 2
+1, bartenders attention, 0.785751, 3
+1, blue cheese olives, 0.765957, 3
+1, place, 0.976982, 4
+1, bartender, 0.88399, 4
+1, Bartender hands, 0.753971, 6
+1, service, 0.771337, 7
+1, Quick service, 0.723757, 7
+1, band, 0.720703, 8
+1, interesting craft cocktail, 0.76753, 9
+1, interesting craft cocktails, 0.76613, 9
+2, old school hip-hop, 0.786414, 0
+2, strange area way, 0.755663, 0
+2, god awful service, 0.783732, 1
+2, slow food service, 0.778121, 1
+2, event coordinator, 0.763672, 2
+2, server, 0.731263, 2
+2, crab dip, 0.774476, 3
+2, service, 0.929735, 4
+2, drinks, 0.836071, 4
+2, place, 0.999856, 5
+2, Casablanca, 0.81064, 5
+2, good starting place, 0.814877, 6
+2, blue cheese olives, 0.760977, 6
+2, zig zag attitude, 0.78352, 7
+2, date night, 0.768183, 7
+2, pin-up style look, 0.788831, 8
+2, light-up menus, 0.785021, 8
+2, Saturday night, 0.786336, 9
+2, better service, 0.716177, 9
+3, mixed whiskey drink, 0.958579, 0
+3, high priced cocktails, 0.896597, 0
+3, musical ear infection, 0.908094, 1
+3, awful music, 0.789084, 1
+3, wait time wasnt, 0.944524, 2
+3, wonderful AZ night, 0.916343, 2
+3, music, 0.946766, 3
+3, little better service, 0.89444, 3
+3, drinks, 0.999919, 5
+3, patio, 0.924289, 5
+3, Old Town, 0.918498, 6
+3, stars, 0.809685, 6
+3, Saturday night, 0.890124, 7
+3, good looking, 0.782778, 7
+3, great looking room, 0.920165, 8
+3, ambiance. music, 0.803193, 8
+3, nice patio, 0.830851, 9
+3, Great patio, 0.805401, 9
+4, new lounge opening, 0.785127, 0
+4, high end lounge, 0.76655, 0
+4, dark rich colors, 0.7315, 3
+4, dinner drinks, 0.718351, 3
+4, Estate House, 0.746157, 4
+4, place, 0.992232, 5
+4, Casablanca Lounge, 0.817676, 5
+4, lounge, 0.846335, 6
+4, seating areas, 0.817218, 6
+4, drinks, 0.834644, 7
+4, live music, 0.801406, 7
+4, great place, 0.837372, 8
+4, Short Rib Tacos, 0.817395, 8
+4, good drinks, 0.761117, 9
+4, great lounge, 0.741682, 9
+5, strawberry thyme royal, 0.642664, 0
+5, specialty drink, 0.63753, 0
+5, hell copper mug, 0.646649, 1
+5, East Coast, 0.66788, 3
+5, East Coast bars, 0.647511, 3
+5, drink, 0.769035, 5
+5, place, 0.91527, 6
+5, Seasonal Buck drink, 0.700196, 6
+5, Casablanca, 0.798524, 7
+5, live music, 0.73535, 7
+5, awesome tequila drink, 0.713189, 8
+5, new favorite place, 0.708928, 8
+5, old town, 0.753718, 9
+5, great new place, 0.744797, 9

@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, Food, 0.543848, 0
+1, bacon, 0.706605, 1
+1, disappointment, 0.582457, 1
+1, table, 0.811489, 2
+1, order, 0.666682, 2
+1, absolutely NO service, 0.889349, 3
+1, Nope, 0.621716, 3
+1, fight, 0.714254, 4
+1, good popusas, 0.964606, 6
+1, nice dinner, 0.934754, 7
+1, place, 0.528012, 7
+2, Honduran adapted taste, 0.943021, 0
+2, El Salvadoran restaurant, 0.734665, 0
+2, menu, 0.249125, 2
+2, country, 0.248921, 2
+2, overlap, 0.302097, 3
+2, head, 0.293114, 3
+2, Central American, 0.775291, 6
+2, Central American restaurant, 0.72995, 6
+2, Best advise, 0.527571, 8
+4, dance floor, 0.846116, 0
+4, small dance floor, 0.819232, 0
+4, pretentious attitude, 0.625871, 1
+4, low key, 0.57174, 2
+4, fully stocked bar, 0.958906, 6
+4, young chica hottie, 0.911447, 6
+4, local latin hangout, 0.870049, 7
+4, nightclub, 0.701816, 7
+4, 3-for-1 kind, 0.642378, 8
+4, DJs, 0.424342, 8
+5, doors, 0.612702, 0
+5, Thursday, 0.629878, 2
+5, Monday, 0.629212, 2
+5, Latin Nights, 0.929673, 3
+5, Cover, 0.495018, 3
+5, Dance Merengue, 0.900029, 6
+5, Bachata, 0.762085, 6

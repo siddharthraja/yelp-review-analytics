@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, garlic mayo def, 0.95329, 0
+2, crunchy water, 0.827968, 0
+2, soup, 0.413567, 2
+2, chairs, 0.393196, 2
+2, free wifi, 0.813509, 3
+2, stroganoff, 0.624708, 3
+2, Brakes Bros, 0.829876, 7
+2, old-fashioned decor, 0.797181, 7
+3, meal, 0.374927, 0
+3, styling, 0.373805, 0
+3, Decent bar, 0.704646, 1
+3, soggy fish, 0.65465, 1
+3, fast food burger, 0.934793, 2
+3, time, 0.449423, 2
+3, berry mule cocktail, 0.932014, 3
+3, chain feel, 0.644416, 3
+3, small smoking area, 0.9562, 4
+3, chips, 0.559257, 4
+3, mentally stange, 0.681957, 6
+3, Italian seasoning, 0.657566, 6
+3, excellent grub, 0.699193, 7
+3, Food prices, 0.664417, 7
+3, place, 0.439824, 8
+3, sort, 0.378191, 8
+3, nice spot, 0.676281, 9
+3, relax, 0.37986, 9
+4, dry pork loin, 0.710366, 0
+4, page cocktail menu, 0.655295, 0
+4, disastrous experiences, 0.542734, 1
+4, new management, 0.658001, 2
+4, original waiter *literally*, 0.630216, 2
+4, Cajun Chicken Burger, 0.633369, 3
+4, large signs, 0.549142, 3
+4, pork loin, 0.978268, 5
+4, food, 0.57083, 5
+4, lovely Miss Emily, 0.66604, 6
+4, comfy sofa seats, 0.655273, 6
+4, readily available menus, 0.667491, 7
+4, cute hidden beer-garden, 0.640127, 7
+4, sweet potato, 0.783904, 8
+4, delicious pesto dressing, 0.664344, 8
+4, delicious sounding gastropub, 0.681657, 9
+4, bonus points, 0.667411, 9
+5, good looking food, 0.821558, 6
+5, Pints, 0.445438, 6
+5, beer, 0.381119, 7
+5, garden, 0.380823, 7
+5, smokers, 0.415477, 8
+5, staff, 0.398236, 8
+5, cute charming decor, 0.905046, 9
+5, little place, 0.609716, 9

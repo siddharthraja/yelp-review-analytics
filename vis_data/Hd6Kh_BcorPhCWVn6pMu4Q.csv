@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, requesting hot sauce, 0.482852, 0
+1, average bar food, 0.448056, 0
+1, surly human beings, 0.442811, 1
+1, bar standards, 0.352659, 1
+1, bar, 0.555491, 2
+1, sports bar, 0.507819, 2
+1, ........., 0.927191, 3
+1, Extra sauce charges, 0.455866, 3
+1, hot sauce, 0.756947, 4
+1, chicken tenders, 0.650696, 4
+1, food, 0.662016, 5
+1, zipps, 0.40329, 5
+1, buffalo sauce, 0.46226, 6
+1, cold chicken tenders, 0.435458, 6
+1, good places, 0.31743, 7
+1, Hey Mr. Goldman, 0.393881, 8
+2, lame waitress, 0.833596, 0
+2, Chicken Caesar salad, 0.806234, 0
+2, Hot Topic cashier, 0.827623, 1
+2, sports bar, 0.812251, 1
+2, real flavor, 0.793252, 2
+2, faint fennel taste, 0.792974, 2
+2, particularly long time, 0.802945, 3
+2, fun St. Patrick, 0.796982, 3
+2, food, 0.944893, 5
+2, service, 0.810429, 5
+2, O.H.S.O. Ordered wings, 0.848669, 6
+2, Golden medium wings, 0.801064, 6
+2, BBQ Bacon Burger, 0.84664, 7
+2, personal gluttonous rule, 0.82771, 7
+2, Golden Wings sauce, 0.841058, 8
+2, beer selection, 0.813608, 8
+3, best food item, 0.606896, 0
+3, standard bar food, 0.60672, 0
+3, darn good, 0.504843, 1
+3, common error, 0.487954, 1
+3, sports bar, 0.758341, 2
+3, good bar food, 0.630577, 2
+3, turkey chili, 0.56734, 3
+3, plastic square brick, 0.5467, 3
+3, food, 0.928337, 4
+3, onion rings, 0.880952, 4
+3, service, 0.56988, 5
+3, place, 0.53414, 5
+3, pretty good waits, 0.590719, 6
+3, Zipps burger, 0.56837, 6
+3, buffalo chicken wrap, 0.546654, 7
+3, Zipps locations, 0.513474, 7
+3, green-chili turkey burger, 0.584459, 8
+3, Great environment loud, 0.556021, 8
+4, good onion rings, 0.823792, 0
+4, great bleu cheese, 0.775875, 0
+4, sports bar, 0.972091, 2
+4, favorite sports bar, 0.765416, 2
+4, tasty bar food, 0.788357, 3
+4, jalapeno goo fall, 0.736903, 3
+4, good drinks, 0.779802, 4
+4, tv, 0.732283, 4
+4, service, 0.787592, 5
+4, food, 0.934356, 6
+4, sweet jalapeno goo, 0.836399, 6
+4, onion rings, 0.945614, 7
+4, sports grill, 0.909638, 7
+4, Green Chili Cheese, 0.813826, 8
+4, great place, 0.793048, 8
+4, good looking menu, 0.769288, 9
+4, good time, 0.76648, 9
+5, Great bar food, 0.768467, 0
+5, Best neighborhood bar, 0.725087, 0
+5, big orange tables, 0.704081, 1
+5, late night specials, 0.676232, 1
+5, place, 0.725762, 4
+5, bar food, 0.955609, 5
+5, Zipps, 0.72594, 5
+5, buffalo chicken focaccia, 0.888589, 6
+5, local sports bar, 0.866253, 6
+5, wings, 0.870507, 7
+5, Great buffalo wings, 0.791796, 7
+5, best wings, 0.790608, 8
+5, good wings, 0.779752, 8
+5, Best damn wings, 0.785419, 9
+5, grand marnier, 0.719807, 9

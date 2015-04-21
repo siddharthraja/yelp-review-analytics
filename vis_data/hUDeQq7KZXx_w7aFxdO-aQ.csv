@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+2, Meatball sandwich, 0.745934, 0
+2, Weird vibe, 0.719526, 0
+2, Tastes, 0.547995, 1
+2, potato salad disgusting, 0.944391, 2
+2, excuse, 0.553578, 2
+2, fried white potato, 0.942846, 3
+2, short ribs, 0.749782, 3
+2, food, 0.580234, 4
+2, time, 0.639752, 5
+2, Portobella stew, 0.791217, 6
+2, light broth, 0.777564, 6
+2, tiny bar area, 0.96648, 7
+2, Friday fish fry, 0.883059, 7
+2, flavor, 0.607413, 8
+2, richness, 0.553761, 8
+2, nice piece, 0.709603, 9
+3, face-lift, 0.437817, 0
+3, meatballs, 0.432297, 0
+3, big plasticy pile, 0.62568, 1
+3, worst burger, 0.621992, 1
+3, cozy little space, 0.642288, 2
+3, little lacking, 0.546575, 2
+3, regular store, 0.548184, 3
+3, nearby table, 0.532896, 3
+3, bun, 0.579186, 4
+3, spot burger, 0.906285, 5
+3, food, 0.49459, 5
+3, Pesto Chicken sandwich, 0.680435, 6
+3, nice roll, 0.555314, 6
+3, Baked Artichoke Ramekin, 0.659601, 7
+3, okay place, 0.555748, 7
+3, meatball grinder, 0.547426, 8
+3, fresh mozzarella, 0.530308, 8
+3, Great service, 0.514265, 9
+4, dark red walls, 0.826811, 0
+4, old corner store, 0.812642, 0
+4, fluorescent kitchen lights, 0.824881, 1
+4, poor man, 0.958865, 3
+4, bloody mary, 0.822347, 3
+4, dining room, 0.846275, 6
+4, Baked Artichoke Remikin, 0.827351, 6
+4, spot, 0.861674, 7
+4, great little place, 0.861599, 7
+4, chorizo breakfast burrito, 0.850272, 8
+4, sweet potatoes, 0.82121, 8
+4, simplistically charming place, 0.824432, 9
+4, nearly flawless meal, 0.814559, 9
+5, seriously great- food, 0.808547, 0
+5, amazing tomato sauce, 0.807526, 0
+5, Poor Man, 0.846302, 2
+5, ice cream, 0.801454, 2
+5, birthday dinner, 0.844119, 3
+5, nice little patio, 0.826937, 3
+5, spot, 0.972939, 5
+5, place, 0.840099, 6
+5, portabella mushroom stew, 0.799171, 6
+5, gorgonzola chips, 0.980037, 7
+5, spot burger, 0.964051, 7
+5, caesar salad, 0.856044, 8
+5, nice cocktail selection, 0.834139, 8
+5, nice crispy surface, 0.811356, 9
+5, tangy cheese sauce, 0.807988, 9

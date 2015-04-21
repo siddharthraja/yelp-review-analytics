@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, new neighborhood bar, 0.641374, 0
+1, horrifc food, 0.545811, 0
+1, deaf ears, 0.533731, 1
+1, old middle, 0.518439, 1
+1, time, 0.60438, 2
+1, mushy mess, 0.559372, 2
+1, debit card, 0.71727, 3
+1, fish, 0.522645, 3
+1, place, 0.730702, 5
+1, new owners, 0.933828, 6
+1, sweet potato fries, 0.739634, 6
+1, beer selection, 0.501582, 9
+2, Bad bar food, 0.692809, 0
+2, n't big fan, 0.692606, 0
+2, bar fare, 0.650255, 1
+2, house tacos, 0.642522, 1
+2, buffalo chicken sliders, 0.652112, 2
+2, typical sports bar, 0.644686, 2
+2, sports bar, 0.70829, 3
+2, Saturday night, 0.646553, 3
+2, beer, 0.672542, 4
+2, chicken strips, 0.630859, 4
+2, food, 0.936392, 5
+2, place, 0.794416, 5
+2, 30 min wait, 0.657831, 6
+2, good selection, 0.648651, 6
+2, buffalo chicken salad, 0.67383, 7
+2, buffalo sauce, 0.619392, 7
+2, entire kitchen staff, 0.629087, 8
+2, good place, 0.626032, 8
+2, Excellent beer selection, 0.670489, 9
+3, -Carne Asada Tacos, 0.778965, 0
+3, Public House Garage, 0.772516, 0
+3, blue cheese situation, 0.765146, 1
+3, equivalent number, 0.703342, 2
+3, Thursday night, 0.703038, 2
+3, big bar area, 0.782014, 3
+3, couple Hop Knot, 0.765562, 4
+3, menu, 0.722521, 4
+3, cold fish sandwich, 0.793947, 6
+3, bar area, 0.792171, 6
+3, Blackened Catfish Po, 0.794939, 7
+3, Good quality meat, 0.785755, 7
+3, sweet potato fries, 0.998404, 8
+3, bleu cheese, 0.787559, 8
+3, bleu cheese dressing, 0.778287, 9
+3, good option, 0.728497, 9
+4, delicious bar food, 0.779156, 0
+4, decent bar food, 0.76934, 0
+4, buffalo chips, 0.720426, 1
+4, truck stop burger, 0.820315, 3
+4, food, 0.956861, 5
+4, place, 0.878435, 5
+4, bar food, 0.848934, 6
+4, Great HH food, 0.775296, 6
+4, good food, 0.882165, 7
+4, Pretty good selection, 0.841787, 7
+4, Public House Garage, 0.961672, 8
+4, beer selection, 0.887748, 8
+4, pretty good deal, 0.77224, 9
+4, happy hour menu, 0.764198, 9
+5, new wing spot, 0.686686, 0
+5, free Bud Light, 0.684919, 0
+5, somewhat slow waitress, 0.71151, 2
+5, favorite bar, 0.615134, 3
+5, food, 0.832808, 4
+5, place, 0.930123, 5
+5, pot pie calzone, 0.698878, 6
+5, comfort food, 0.6326, 6
+5, great beer selection, 0.752147, 7
+5, Truck Stop Burger, 0.739784, 7
+5, sweet potato fries, 0.896687, 8
+5, great place, 0.873701, 8
+5, great service, 0.743457, 9
+5, Super cool environment, 0.726209, 9

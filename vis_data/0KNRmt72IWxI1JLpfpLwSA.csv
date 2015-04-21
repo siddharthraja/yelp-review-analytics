@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, Al Pastor tacos, 0.635433, 0
+1, relatively unoccupied section, 0.616984, 0
+1, damp dirty towels, 0.632846, 1
+1, waitstaff horrible food, 0.626405, 1
+1, Old El Paso, 0.608211, 2
+1, old cooking oil, 0.605004, 2
+1, Mexican food, 0.805908, 3
+1, saffron rice, 0.601987, 3
+1, food, 0.948728, 4
+1, enchiladas, 0.562785, 4
+1, waiter, 0.602543, 5
+1, South Park location, 0.737782, 6
+1, Mexican Street Corn, 0.612339, 6
+1, Mexican food night, 0.663029, 7
+1, quality food, 0.551933, 7
+1, nice margarita choices, 0.58021, 9
+1, Mexican Chef, 0.555474, 9
+2, enchiladas swissa verde, 0.777118, 0
+2, super-salty tortilla chips, 0.759149, 0
+2, queso dip, 0.758585, 1
+2, wrong food, 0.750462, 1
+2, ear-bleeding sound levels, 0.765577, 2
+2, lower priced options, 0.748217, 2
+2, enchiladas, 0.809978, 3
+2, aforementioned mexican joints, 0.746967, 3
+2, food, 0.927447, 4
+2, Cantina, 0.798223, 4
+2, mexican restaurant, 0.796373, 5
+2, service, 0.795467, 5
+2, chain restaurant food, 0.774621, 6
+2, Asada Steak Burrito, 0.773275, 6
+2, mexican food, 0.79291, 7
+2, pretty good drink, 0.755537, 7
+2, better job, 0.695967, 8
+2, tasty green chili, 0.734529, 9
+3, tomato veggies soup, 0.838589, 0
+3, Cantina Rea Rd, 0.833677, 0
+3, black beans, 0.833793, 1
+3, bar area, 0.90162, 2
+3, menu changes, 0.84755, 2
+3, tortilla soup, 0.986502, 4
+3, margarita flight, 0.845921, 4
+3, food, 0.9439, 5
+3, time, 0.875926, 5
+3, Mexican fare, 0.846939, 6
+3, acoustic guitar guy, 0.838447, 6
+3, East blvd location, 0.843037, 7
+3, green tomatillo salsa, 0.81813, 7
+3, Pretty good menu, 0.857833, 8
+3, fish taco appetizer, 0.85477, 8
+3, Pretty good guacamole, 0.86505, 9
+3, Rea Road location, 0.8433, 9
+4, Tacos Marco Polo, 0.723057, 0
+4, best Fajita dish, 0.699704, 0
+4, best Mexican food, 0.823183, 3
+4, guac tacos, 0.711673, 3
+4, chips, 0.730578, 4
+4, food, 0.987103, 5
+4, mexican food, 0.88179, 5
+4, tacos al pastor, 0.837077, 6
+4, place, 0.811541, 6
+4, restaurant, 0.805387, 7
+4, salsa, 0.7532, 7
+4, table-side guacamole, 0.77104, 8
+4, tableside guac, 0.738111, 8
+4, fish tacos lunch, 0.740225, 9
+4, NCFoodGuy Excellent food, 0.73112, 9
+5, fish tacos, 0.883876, 0
+5, non-vegetarian enchilada dish, 0.882875, 0
+5, BAD MEAL, 0.836, 1
+5, -Ian M. Recommended, 0.889966, 3
+5, meal home, 0.828781, 3
+5, service, 0.845557, 4
+5, bread pudding, 0.946395, 5
+5, meal, 0.897174, 5
+5, Marco Polo tacos, 0.918739, 6
+5, Bananas Foster chimichanga, 0.881245, 6
+5, Johnny Carnitas Tacos, 0.954832, 7
+5, favorite Mexican spot, 0.891242, 7
+5, table side guacamole, 0.928708, 8
+5, huge portion, 0.899742, 8
+5, delicious unique restaurant, 0.963802, 9
+5, tacos Marco polo, 0.939629, 9

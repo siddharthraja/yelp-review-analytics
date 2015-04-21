@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+2, hazmat suit, 0.960457, 0
+2, pint, 0.653324, 0
+2, martini, 0.629978, 2
+2, place, 0.51701, 6
+3, Une grande terrasse, 0.903032, 0
+3, bar pas très, 0.869654, 0
+3, une rue piétonne, 0.9193, 2
+3, agréable car dans, 0.749014, 2
+3, English channel, 0.501651, 3
+3, town, 0.29908, 3
+3, French, 0.300136, 5
+3, même hors HH, 0.815737, 6
+3, vous pouvez amener, 0.780182, 6
+3, une bonne ambiance, 0.984995, 7
+3, c'est cool, 0.541546, 8
+4, hard drinking regulars, 0.85883, 0
+4, Plateau neighborhood, 0.655441, 0
+4, nicer weather, 0.659738, 1
+4, Little patio, 0.630491, 1
+4, Saint Laurent, 0.965565, 3
+4, Saint Dominique, 0.632631, 3
+4, Vol, 0.506569, 4
+4, cobblestones, 0.389556, 6
+4, tables, 0.350048, 6
+4, pretty dank place, 0.894435, 7
+4, inexpensive pints, 0.703161, 7
+4, CND pints, 0.80805, 8
+4, Nuit, 0.388752, 8
+4, cheap lovely starting, 0.856908, 9
+4, summer afternoon, 0.610785, 9

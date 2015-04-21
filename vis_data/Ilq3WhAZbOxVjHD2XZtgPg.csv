@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, initial impressions, 0.548975, 0
+1, repeat customers, 0.547859, 0
+1, major branding fail, 0.830504, 1
+1, bartender, 0.297574, 1
+1, Friday night, 0.993881, 2
+1, indications, 0.278283, 2
+1, WPXI half, 0.710644, 3
+1, new menus, 0.553574, 3
+1, food, 0.623189, 6
+1, dinner menu, 0.564641, 6
+1, hottest new spot, 0.799483, 7
+1, best burger, 0.568274, 7
+1, happy hour menu, 0.599576, 8
+1, greatness, 0.281222, 8
+1, City Diner Coupon, 0.869742, 9
+1, pretty good deal, 0.836396, 9
+5, chicken tenders, 0.685607, 0
+5, time, 0.356612, 0
+5, wing-nights, 0.358403, 2
+5, bad rep, 0.681762, 3
+5, previous owners, 0.635628, 3
+5, ThePittsBurgher burger competition, 0.928608, 6
+5, Casino, 0.372135, 6
+5, better reviews, 0.632831, 7
+5, regular basis, 0.622267, 7
+5, AWESOME FOOD, 0.690312, 8
+5, best chicken, 0.631437, 8
+5, best breading, 0.634715, 9
+5, wings, 0.37176, 9

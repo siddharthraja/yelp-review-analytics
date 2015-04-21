@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, Continental, 0.989833, 0
+3, light snacks, 0.614578, 0
+3, inebriated patrons, 0.61133, 0
+3, Wolfgang Puck Express, 0.92829, 1
+3, long layover, 0.60149, 2
+3, great airport lounges, 0.928147, 6
+3, secure internet browsing, 0.824871, 7
+3, shortbread cookies, 0.646443, 7
+3, great martini, 0.585004, 8
+3, friendly staff, 0.522479, 8
+4, Red Carpet Club, 0.958852, 0
+4, nice Presidents, 0.855662, 0
+4, bunch more snacks, 0.765724, 2
+4, wife, 0.459697, 2
+4, cheap bread, 0.726928, 3
+4, people, 0.511505, 3
+4, tad spotty, 0.764153, 6
+4, exhausting trip, 0.730104, 6
+4, huge wall, 0.749422, 7
+4, Comfortable seating, 0.732772, 7
+4, nice club, 0.862678, 8
+4, bread sticks, 0.772913, 8
+4, Dallas/Fort Worth, 0.790863, 9
+4, comfy place, 0.754559, 9
+5, Red Carpet Club, 0.984814, 0
+5, McCarran International Airport, 0.843384, 0
+5, airline employees, 0.380628, 1
+5, long bar, 0.391463, 2
+5, bar area, 0.388341, 2
+5, complimentary grapefruit juice, 0.719098, 3
+5, Limited snacks, 0.436711, 3
+5, comfy chairs, 0.493507, 6
+5, libations, 0.202202, 6
+5, quiet atmosphere, 0.393059, 8

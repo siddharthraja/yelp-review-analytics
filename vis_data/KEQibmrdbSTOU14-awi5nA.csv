@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, ill def, 0.666709, 0
+2, biggest complaint, 0.618738, 0
+2, shitty machine, 0.636707, 1
+2, old place, 0.580884, 1
+2, bar, 0.98773, 2
+2, urgency, 0.256827, 2
+2, place, 0.792315, 3
+2, dollars, 0.233838, 3
+2, time, 0.354697, 6
+2, diff, 0.247266, 6
+2, great beers, 0.725954, 8
+2, drink, 0.236365, 8
+3, red wines, 0.801752, 0
+3, beer-drinking friend, 0.789544, 0
+3, adornments, 0.571112, 1
+3, lack, 0.555643, 1
+3, open space, 0.784298, 2
+3, bar fare, 0.777403, 2
+3, previous occupants, 0.808719, 3
+3, Bad Beat, 0.769718, 3
+3, wife, 0.718111, 4
+3, chance, 0.551188, 4
+3, martini flatbread, 0.85479, 6
+3, large selection, 0.814823, 6
+3, reliable HH, 0.80516, 7
+3, Local beers, 0.802723, 7
+3, Great menu variety, 0.999264, 8
+3, good ambiance, 0.850614, 8
+4, pretty modern junk, 0.90792, 0
+4, normal bar, 0.731346, 0
+4, shredded beef flautas, 0.933813, 1
+4, Pretzel bites, 0.750494, 1
+4, da brat, 0.728094, 2
+4, bacon, 0.539471, 2
+4, Nevada Day weekend, 0.743524, 3
+4, slot machines, 0.722408, 3
+4, different video poker, 0.87401, 6
+4, dollar jaeger, 0.753205, 6
+4, decent beer selection, 0.881223, 7
+4, pool table, 0.716244, 7
+4, great customer service, 0.880133, 8
+4, regular basis, 0.699797, 8
+4, clean sports bar, 0.933438, 9
+4, warm atmosphere, 0.760392, 9
+5, grilled cheese sandwich, 0.945288, 0
+5, greasy bar food, 0.900111, 0
+5, Irish Stout Guiness, 0.846278, 2
+5, San Franciscan beer, 0.844213, 2
+5, Omg, 0.547732, 3
+5, Summerlin, 0.545887, 3
+5, Big HDTVs, 0.725633, 6
+5, new spot, 0.690935, 6
+5, cool options, 0.733274, 7
+5, nearby pub, 0.7116, 7
+5, friendly staff, 0.890446, 8
+5, great manager, 0.879613, 8
+5, super happy vibe, 0.929102, 9
+5, Yay Pint, 0.815602, 9

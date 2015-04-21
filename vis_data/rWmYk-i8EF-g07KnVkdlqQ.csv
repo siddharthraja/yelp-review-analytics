@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+1, food, 0.475074, 0
+1, service, 0.474501, 0
+1, waitress, 0.55366, 1
+1, waters, 0.499561, 1
+1, flirty, 0.557147, 3
+1, waitresses, 0.550731, 3
+1, eggs, 0.512702, 6
+1, 45 minutes, 0.471661, 6
+1, topless breakfast place, 0.972618, 7
+1, sense, 0.494537, 7
+3, Theres nudity, 0.670222, 0
+3, downtown core, 0.651059, 0
+3, passable diner fare, 0.864221, 1
+3, potential trouble makers, 0.826723, 1
+3, someones junk, 0.641783, 2
+3, school children, 0.624849, 2
+3, fully dressed man, 0.836919, 3
+3, Princesses first thing, 0.755312, 3
+3, morning, 0.479488, 5
+3, Princesses, 0.795485, 6
+3, Princesses credit, 0.736585, 6
+3, spoon style diner, 0.922559, 7
+3, Topless Breakfast, 0.721359, 7
+3, Giddy giggling, 0.682447, 8
+3, glances, 0.453529, 8
+3, kind experience, 0.600219, 9
+3, context, 0.487356, 9
+5, Topless diner heaven, 0.998498, 6
+5, food good service, 0.705138, 8
+5, place, 0.347119, 8
+5, male, 0.340287, 9

@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, Tom Cruise abomination, 0.954529, 0
+1, eh decent place, 0.951766, 0
+1, wet t-shirt, 0.950093, 1
+1, obnoxious  college crowd, 0.933615, 1
+1, complete dumb asses, 0.965395, 2
+1, normal sized cocktail, 0.939272, 2
+1, Coors light, 0.941693, 3
+1, trashy dumpy kind, 0.929393, 3
+1, Hip Hop, 0.842536, 6
+1, tight shirt, 0.835563, 6
+1, Arizona teams, 0.834581, 7
+1, street clothes, 0.830351, 7
+1, nice guy, 0.831796, 8
+2, VIP card girls, 0.931895, 0
+2, 2-for-1 drinks, 0.835119, 0
+2, gas station, 0.930833, 1
+2, weak drinks, 0.816915, 1
+2, weakest long island, 0.937322, 2
+2, T-Pain video, 0.79625, 2
+2, dance floor, 0.947336, 3
+2, Rocky Point, 0.815923, 3
+2, T-Pain Moment, 0.797899, 4
+2, people, 0.708601, 4
+2, place, 0.892068, 5
+2, reason, 0.675236, 5
+2, fishbowl chalice style, 0.98721, 6
+2, baja beach party, 0.959014, 6
+2, overwhelming desire, 0.811298, 7
+2, entertaining spot, 0.805157, 7
+2, better crowds, 0.787519, 8
+2, conversation, 0.672713, 8
+3, test tube shots, 0.671076, 0
+3, Thursday night, 0.661326, 0
+3, drunken dancing queen, 0.671674, 1
+3, boobs haha, 0.574759, 1
+3, cent Jaeger bombers, 0.728765, 2
+3, crowd cheap drinks, 0.716346, 2
+3, cheap drinks, 0.98122, 3
+3, wet t-shirt contest, 0.915091, 3
+3, place, 0.683951, 4
+3, dance offs, 0.594631, 4
+3, people, 0.479408, 5
+3, Margarita Rocks, 0.728668, 6
+3, free admission coups, 0.685375, 6
+3, dance floor, 0.684306, 7
+3, open patio, 0.544189, 7
+3, Fun times, 0.582248, 8
+3, attractive bartenders, 0.570338, 8
+4, fake id thing, 0.916871, 0
+4, wet t-shirt contests, 0.856251, 0
+4, Margarita Rocks, 0.614316, 1
+4, frat party, 0.599053, 1
+4, Great service, 0.566058, 2
+4, wrong shoes, 0.561433, 2
+4, downtown, 0.359828, 3
+4, car, 0.268836, 3
+4, people, 0.334124, 5
+4, place, 0.523581, 6
+4, town, 0.337082, 6
+4, good time, 0.552217, 7
+4, great crowd, 0.549651, 7
+4, Cool place, 0.521296, 8
+4, Staff, 0.279246, 8
+5, cent wings, 0.943742, 1
+5, cheap drinks, 0.932458, 1
+5, best club, 0.709318, 7
+5, notch, 0.334028, 7
+5, Margarita Rocks, 0.878049, 8
+5, wet t shirts, 0.846038, 8

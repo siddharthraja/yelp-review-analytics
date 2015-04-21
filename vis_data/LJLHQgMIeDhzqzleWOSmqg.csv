@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, Town Square, 0.961926, 0
+1, Green Valley Ranch, 0.942444, 0
+1, couple other stores, 0.792825, 1
+1, central area, 0.741411, 1
+1, unforgiving parking, 0.738448, 2
+1, patio dining, 0.706071, 2
+1, atmosphere, 0.967118, 3
+1, District, 0.594491, 3
+1, place, 0.897178, 4
+1, Big thumbs, 0.758999, 4
+1, shops, 0.584438, 5
+1, vehicle free shopping, 0.901995, 6
+1, stores, 0.875097, 6
+1, outdoor areas, 0.734918, 7
+1, nice place, 0.730605, 7
+1, boys, 0.597458, 8
+1, fact, 0.5476, 8
+1, men stores, 0.797079, 9
+1, people, 0.600065, 9
+2, sustainable business model, 0.666548, 0
+2, single anchor store, 0.665136, 0
+2, biggest complaint, 0.664208, 1
+2, strict security, 0.578243, 1
+2, anal drivers, 0.706104, 2
+2, outdoor movies, 0.688131, 2
+2, Sharper Image, 0.584174, 3
+2, major road, 0.560792, 3
+2, District, 0.643668, 5
+2, drive way, 0.63964, 5
+2, palm trees, 0.549468, 6
+2, Green Valley Ranch, 0.90464, 7
+2, Kings Fish House, 0.681161, 7
+2, great place, 0.596199, 8
+2, great classes, 0.588101, 8
+2, Reston Town Center, 0.683053, 9
+2, planning people, 0.561289, 9
+3, Pottery Barn, 0.518754, 0
+3, Valley Ranch Station, 0.476622, 0
+3, sporting goods store, 0.45794, 1
+3, Elephant Bar, 0.587661, 2
+3, William Sonoma, 0.505212, 2
+3, parking, 0.518587, 3
+3, conventional chain stores, 0.464032, 3
+3, Green Valley Parkway, 0.657274, 4
+3, stores, 0.528465, 4
+3, green valley ranch, 0.922256, 5
+3, district, 0.634019, 5
+3, Balboa Pizza, 0.514117, 6
+3, Cheesecake Factory, 0.486158, 6
+3, Las Vegas, 0.533608, 7
+3, special place, 0.493338, 7
+3, nice place, 0.494301, 8
+3, Las Vegas spring, 0.453959, 8
+3, nice shopping center, 0.482176, 9
+4, Pottery Barn, 0.674356, 0
+4, Ann Taylor Loft, 0.668997, 0
+4, Las Vegas, 0.77517, 2
+4, main shopping destination, 0.624681, 2
+4, retail stores, 0.651, 3
+4, quality retail stores, 0.6468, 3
+4, cheesecake factory, 0.872423, 4
+4, stores, 0.870099, 4
+4, Green Valley Ranch, 0.939817, 5
+4, district, 0.896565, 5
+4, Williams Sonoma, 0.788224, 6
+4, couple boutique stores, 0.645439, 6
+4, live music, 0.685502, 7
+4, nice place, 0.672073, 7
+4, shopping center, 0.708476, 8
+4, great place, 0.700106, 8
+4, none-crowded luxurious place, 0.60943, 9
+5, Green Valley area, 0.697767, 0
+5, Super Run programs, 0.695089, 0
+5, clothing shops, 0.641471, 3
+5, Elephant Bar, 0.825586, 5
+5, Small boutique shops, 0.709795, 6
+5, little water park, 0.686916, 6
+5, District, 0.731453, 7
+5, Panera Bread, 0.719068, 7
+5, Green Valley, 0.938507, 8
+5, great little shops, 0.882475, 8
+5, Green Valley Ranch, 0.869403, 9
+5, nice little play, 0.729487, 9

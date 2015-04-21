@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, sports-bar type place, 0.768047, 0
+1, kitchen window, 0.641637, 0
+1, guest extra chips, 0.775242, 1
+1, food, 0.634274, 1
+1, table, 0.768258, 2
+1, pure disappointment, 0.652089, 2
+1, drink order, 0.63316, 3
+1, cold beer, 0.622812, 3
+1, waitress, 0.953699, 4
+1, drinks, 0.687238, 4
+1, middle aged men, 0.791029, 6
+1, young waitress, 0.785932, 6
+1, pretty basic apps, 0.757062, 7
+1, bartender, 0.58616, 8
+2, Twin Peaks, 0.809721, 0
+2, Under-dressed wait staff, 0.735865, 0
+2, beer menu, 0.638633, 1
+2, Tilted Kilt, 0.922212, 2
+2, new Tilted Kilt, 0.820642, 2
+2, better sports bars, 0.724087, 3
+2, hot eye candy, 0.715068, 3
+2, food, 0.726027, 5
+2, Hooters, 0.699741, 5
+2, medium burger, 0.627074, 6
+2, all-female staff, 0.624029, 6
+2, nice chuckle, 0.6193, 7
+2, great opportunity, 0.619226, 7
+2, garlic fries, 0.636439, 8
+2, better burgers, 0.634601, 8
+2, reasonable size, 0.623568, 9
+2, nice spot, 0.615992, 9
+3, Tilted Kilt odds, 0.814653, 0
+3, French Connection, 0.57651, 0
+3, cut tops, 0.548579, 1
+3, ugly orange shorts, 0.75807, 2
+3, half shirts, 0.742847, 2
+3, Tilted Kilt, 0.874668, 3
+3, best burger, 0.615489, 3
+3, game, 0.397109, 5
+3, quicker service, 0.552012, 6
+3, dozen other places, 0.542819, 6
+3, garlic fries, 0.921762, 7
+3, nice wood paneling, 0.846313, 7
+3, nice televisions, 0.636516, 8
+3, ton, 0.358865, 8
+3, open atmosphere, 0.598287, 9
+4, Irish Cheese steak, 0.928628, 0
+4, white table cloth, 0.90612, 0
+4, short skirts, 0.725653, 1
+4, bikini tops, 0.725419, 1
+4, Waitresses, 0.555695, 2
+4, waitress, 0.555568, 2
+4, UFC fight, 0.742326, 3
+4, large group, 0.741786, 3
+4, girl, 0.588802, 4
+4, people, 0.583764, 6
+4, school/college, 0.56898, 6
+4, wrong impression, 0.725732, 7
+4, girls, 0.587225, 7
+4, pretty large chain, 0.912332, 8
+4, nice restrooms, 0.807106, 8
+4, good pub food, 0.918212, 9
+4, solid place, 0.729767, 9
+5, monster-sized projection screen, 0.826239, 0
+5, UFC events, 0.610629, 0
+5, TV, 0.347538, 2
+5, past weekend, 0.586426, 3
+5, cold beer, 0.566176, 3
+5, TK Exclusive beverage, 0.825227, 6
+5, high quality, 0.573291, 6
+5, Great bar, 0.572427, 7
+5, Matthew nc, 0.552857, 7
+5, definite go-to location, 0.942212, 8
+5, customer care friends, 0.770758, 8
+5, good service, 0.568967, 9
+5, great food, 0.555039, 9

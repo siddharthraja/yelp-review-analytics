@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, bartender infront, 0.714312, 0
+1, entire time, 0.49827, 0
+1, stink face, 0.551439, 1
+1, guilt trip, 0.870911, 2
+1, abrasive experiences, 0.569339, 2
+1, little bit, 0.530139, 3
+1, place, 0.431355, 3
+1, time, 0.773316, 5
+1, pizza, 0.349215, 5
+1, Bartender Jake greets, 0.987984, 6
+1, dress shirt, 0.543589, 6
+1, blast, 0.27158, 7
+1, free BBQ dinner, 0.819535, 8
+1, time Jake, 0.580893, 8
+1, Monday night, 0.494269, 9
+1, big deal, 0.494002, 9
+3, middle aged woman, 0.960238, 0
+3, Chinese menu, 0.951479, 0
+3, bartender, 0.949416, 1
+3, common social skills, 0.884066, 1
+3, fellow traveler, 0.903127, 2
+3, service, 0.789236, 2
+3, entire bar, 0.800471, 3
+3, shuffleboard table, 0.784481, 3
+3, drinks, 0.823412, 4
+3, time, 0.80097, 4
+3, bar, 0.917529, 5
+3, place, 0.669497, 5
+3, pool tables, 0.911018, 6
+3, Texas hold'em poker, 0.891603, 6
+3, small celebration, 0.777477, 7
+3, large proportions, 0.76761, 8
+4, pool tables, 0.755487, 0
+4, piece band, 0.739325, 0
+4, Saturday night, 0.742573, 1
+4, couple more drinks, 0.723665, 1
+4, extensive Chinese menu, 0.855932, 2
+4, good pool table, 0.898814, 3
+4, good bar food, 0.864911, 3
+4, Chinese food, 0.929981, 5
+4, good size pitchers, 0.907807, 6
+4, type mind message, 0.844196, 6
+4, Jake, 0.870389, 7
+4, hour/ football menu, 0.845419, 7
+4, great locals bar, 0.855802, 8
+4, Chinese food menus, 0.841112, 8
+4, great Chinese food., 0.849913, 9
+4, new lucky charm, 0.829877, 9
+5, Great Chinese food, 0.645948, 0
+5, new Chargers Bar, 0.590912, 0
+5, Vegas Charger Bolts, 0.578242, 1
+5, main bartender jake, 0.676548, 2
+5, gaming bar scene, 0.600248, 2
+5, Diego Chargers bar, 0.585898, 3
+5, night, 0.516378, 5
+5, chinese food, 0.92297, 6
+5, jake, 0.737769, 6
+5, great Charger Bar, 0.641218, 7
+5, super friendly staff, 0.582728, 7
+5, place, 0.753625, 8
+5, best long island, 0.727001, 8
+5, howerver great pizza, 0.625571, 9
+5, great real Vegas, 0.608312, 9

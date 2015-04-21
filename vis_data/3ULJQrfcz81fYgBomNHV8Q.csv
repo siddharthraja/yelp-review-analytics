@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, wet hose, 0.766484, 0
+1, small pieces, 0.748791, 0
+1, questionable service, 0.815726, 1
+1, Horrible service, 0.78018, 1
+1, guys, 0.336381, 2
+1, number, 0.329297, 2
+1, server, 0.415066, 3
+1, menus, 0.318665, 3
+1, place, 0.90059, 5
+1, time, 0.472082, 5
+1, hookah order, 0.941224, 6
+1, drink, 0.326435, 6
+1, customers, 0.46822, 7
+1, attentive, 0.364528, 7
+1, Wednesday night, 0.801405, 8
+1, boyfriend, 0.359958, 8
+1, available seat, 0.79891, 9
+1, customer, 0.323437, 9
+2, belly dancers, 0.862433, 0
+2, Arabic music, 0.765591, 0
+2, Hookah, 0.639193, 3
+2, Crowd, 0.617412, 3
+2, Decent place, 0.905929, 6
+3, fake ID, 0.895923, 0
+3, questionable customers, 0.890546, 0
+3, parking, 0.387767, 1
+3, cheap drinks, 0.944729, 3
+3, hookah worth, 0.926625, 3
+3, people, 0.521614, 6
+3, waitress, 0.427195, 6
+3, Haha, 0.446544, 8
+4, longs islands, 0.787193, 0
+4, Nigerian music, 0.738637, 0
+4, Saw police, 0.728062, 2
+4, Yikes, 0.497614, 2
+4, spontaneous decision, 0.807438, 3
+4, Good vibes, 0.762501, 3
+4, hookah, 0.976762, 6
+4, strawberrry pineapple, 0.779782, 6
+4, couple times, 0.829109, 7
+4, loud music, 0.760934, 7
+4, DJ spinning, 0.795609, 8
+4, good vibe, 0.750113, 8
+4, booths, 0.495593, 9
+4, coal, 0.47246, 9
+5, big hookah, 0.568844, 0
+5, regular price, 0.354256, 0
+5, watermelon vanilla, 0.365213, 3
+5, light flavors, 0.353104, 3
+5, ice tip, 0.599434, 6
+5, place, 0.358911, 6
+5, best hookah lounge, 0.960514, 7
+5, cheapest lounge, 0.419404, 7
+5, real good hookah, 0.787161, 8
+5, customer service, 0.636805, 8
+5, bad cuz customer, 0.658609, 9

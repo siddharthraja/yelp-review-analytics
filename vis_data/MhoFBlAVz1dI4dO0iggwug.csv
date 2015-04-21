@@ -1,0 +1,16 @@
+rating, keyword, relevance, bucket
+3, Goose Island, 0.875609, 0
+3, Brooklyn, 0.212678, 0
+3, atmosphere, 0.279313, 1
+3, airport pubs, 0.976683, 2
+3, best bar, 0.764294, 2
+3, Rogue, 0.249212, 3
+3, excellent array, 0.967731, 7
+3, craft beers, 0.879698, 7
+3, good stop, 0.824949, 9
+3, plane, 0.238319, 9
+4, cold drinks, 0.695001, 0
+4, flight, 0.369669, 3
+4, best airport restaurant/pub, 0.988513, 6
+4, Good food, 0.640687, 6
+4, pleasant service, 0.687404, 7

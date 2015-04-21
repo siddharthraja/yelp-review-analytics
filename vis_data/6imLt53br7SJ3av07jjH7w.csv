@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, opinion Hanny, 0.65779, 0
+1, original historic piece, 0.640369, 0
+1, weed-like plants Hanny, 0.685888, 1
+1, district manager Alex, 0.638459, 1
+1, Hanny, 0.837982, 2
+1, shade trees, 0.657218, 2
+1, manager, 0.709881, 3
+1, server, 0.682021, 3
+1, food, 0.683672, 4
+1, bar, 0.64335, 4
+1, place, 0.909651, 5
+1, drinks, 0.757205, 6
+1, Sweet Home Chicago, 0.626371, 6
+1, highly visible area, 0.61973, 7
+1, nice historic tour, 0.61386, 7
+1, alright place, 0.593902, 8
+1, swanky modern place, 0.652105, 9
+1, positive reviews, 0.579552, 9
+2, restaurant table service, 0.614212, 0
+2, bar /restaurant scene, 0.596036, 0
+2, good bar food, 0.645299, 2
+2, bar area, 0.606358, 2
+2, food, 0.847824, 4
+2, service, 0.763653, 4
+2, place, 0.913593, 5
+2, Hanny, 0.904287, 5
+2, Hopefully Hanny, 0.635068, 6
+2, elevator shaft, 0.594535, 6
+2, late night food, 0.616257, 7
+2, star awesome place, 0.60746, 7
+2, Awesome drink menu, 0.598939, 8
+2, man sized drink, 0.584084, 8
+2, place opening, 0.579875, 9
+2, ok place, 0.578503, 9
+3, top-notch bar food, 0.615491, 0
+3, creepy Hanny, 0.641822, 2
+3, bar food, 0.615492, 2
+3, roast beef sandwich, 0.63289, 3
+3, non pizza place, 0.626258, 3
+3, service, 0.711747, 4
+3, menu, 0.700475, 4
+3, hanny, 0.958683, 5
+3, place, 0.901187, 5
+3, late night, 0.607179, 6
+3, decor, 0.594636, 6
+3, bar plate, 0.613827, 7
+3, ......, 0.606088, 7
+3, crunchy pizza Hanny, 0.688974, 8
+3, great place, 0.658763, 8
+3, good simple meals, 0.587992, 9
+3, finger food   Pizzas, 0.584418, 9
+4, story Hanny, 0.498363, 0
+4, average bar food, 0.404276, 0
+4, not-so-fabby night downtown, 0.377707, 2
+4, loving Hanny, 0.482864, 3
+4, fault Hanny, 0.477018, 3
+4, menu, 0.43197, 4
+4, roast beef, 0.428736, 4
+4, Hanny, 0.916181, 5
+4, place, 0.731879, 5
+4, bar plate, 0.484727, 6
+4, pizzas, 0.384086, 6
+4, department store, 0.554135, 7
+4, legendary Hanny, 0.487366, 7
+4, Lauren V. Hanny, 0.545776, 8
+4, great place, 0.526091, 8
+4, great destination downtown, 0.405351, 9
+4, pretty great meals, 0.389245, 9
+5, Darn snazzy place, 0.308241, 0
+5, historic building downtown, 0.29213, 0
+5, loving Hanny, 0.453771, 1
+5, elevator shaft, 0.456448, 4
+5, bathrooms, 0.330163, 4
+5, Hanny, 0.945963, 5
+5, place, 0.674485, 5
+5, downtown phoenix, 0.765023, 6
+5, special Hanny, 0.470208, 6
+5, bar plate, 0.332469, 7
+5, light rail, 0.306982, 7
+5, department store, 0.487236, 8
+5, old department store, 0.429689, 8
+5, LOVE LOVE Hanny, 0.502106, 9
+5, awesome place, 0.297807, 9

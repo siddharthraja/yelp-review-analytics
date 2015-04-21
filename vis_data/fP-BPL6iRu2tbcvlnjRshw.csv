@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, dated blues band, 0.850985, 0
+1, cast iron pan, 0.849421, 0
+1, rude staff member, 0.83915, 1
+1, food, 0.820908, 1
+1, Tits McGee, 0.855636, 2
+1, picky restaurant person, 0.838985, 2
+1, local brews, 0.901191, 3
+1, Copper Blues, 0.87012, 3
+1, drinks, 0.773046, 4
+1, Anyways manager, 0.73439, 4
+1, place, 0.804454, 5
+1, night, 0.769609, 5
+1, tapas restaurant, 0.761131, 6
+1, cute girl, 0.747994, 6
+1, great place, 0.756549, 7
+1, good beers, 0.751868, 7
+1, City Scape, 0.762104, 8
+1, bbq pizza, 0.733949, 8
+1, military ID. thanks, 0.843662, 9
+2, Suns game, 0.679689, 0
+2, entire bar area, 0.61561, 0
+2, thigh high stockings, 0.615523, 1
+2, cream dipping sauce, 0.604299, 1
+2, bad customer service, 0.638972, 2
+2, so-so bar food, 0.638426, 2
+2, Tilted Kilt, 0.683306, 3
+2, bar area, 0.676372, 3
+2, Copper Blues, 0.986334, 4
+2, food, 0.800841, 4
+2, beer, 0.849016, 5
+2, time, 0.787969, 5
+2, Nice beer selection, 0.64637, 6
+2, beers, 0.632212, 6
+2, live music, 0.870528, 7
+2, Friday night, 0.775883, 7
+2, Awesome beer list, 0.618754, 8
+2, fabulous live music, 0.610686, 8
+3, cover band, 0.797692, 0
+3, live band playing, 0.746688, 0
+3, Super cool place, 0.718818, 2
+3, good job singing, 0.705309, 2
+3, live band, 0.933303, 4
+3, service, 0.777473, 4
+3, place, 0.970358, 5
+3, food, 0.851928, 5
+3, Copper Blues, 0.829606, 6
+3, night, 0.761054, 6
+3, live music, 0.954099, 7
+3, great beer selection, 0.775047, 7
+3, beer selection, 0.990662, 8
+3, cover charge, 0.695252, 8
+3, Pretty neat bar, 0.716804, 9
+3, pretty awesome way, 0.716318, 9
+4, Copper Blues Burger, 0.424224, 0
+4, amazing beer selection, 0.419027, 0
+4, live rock band, 0.407673, 3
+4, great time, 0.446121, 4
+4, live music, 0.816141, 5
+4, beer, 0.761354, 5
+4, copper blues, 0.944396, 6
+4, place, 0.657044, 6
+4, live band, 0.555132, 7
+4, good band playing, 0.410998, 7
+4, beer selection, 0.743941, 8
+4, great place, 0.513446, 8
+4, great beer selection, 0.529641, 9
+4, extensive tap beer, 0.432902, 9
+5, good live music, 0.586725, 0
+5, Live cover band, 0.582457, 0
+5, downtown phoenix, 0.652216, 3
+5, service, 0.609007, 4
+5, comedy club, 0.571428, 4
+5, time, 0.614011, 5
+5, bar, 0.601223, 5
+5, copper blues, 0.955638, 6
+5, place, 0.749066, 6
+5, live music, 0.79628, 7
+5, Saturday night, 0.753465, 7
+5, beer selection, 0.7108, 8
+5, great food, 0.656599, 8
+5, great beer, 0.602543, 9
+5, great live music, 0.600645, 9

@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, ice berg lettuce, 0.769898, 0
+1, entire little cup, 0.755086, 0
+1, ranch dressing, 0.765416, 1
+1, bitter green peppers, 0.759593, 1
+1, frozen vegetables, 0.877479, 2
+1, flavor, 0.825087, 2
+1, oil wine sauce, 0.791906, 3
+1, vegetable lasagna, 0.742239, 3
+1, old building, 0.667161, 4
+1, olive oil, 0.747719, 5
+1, red sauce, 0.932647, 6
+1, favorite Italian place, 0.786205, 6
+1, meal, 0.648783, 7
+1, beer price, 0.643056, 7
+1, white wine sauce, 0.818404, 8
+1, right dish, 0.789183, 8
+2, husband, 0.60262, 0
+2, AZ, 0.586397, 2
+2, NY, 0.560018, 2
+2, chance ir, 0.789534, 3
+2, pizza, 0.99413, 4
+2, Greek salad, 0.870469, 6
+2, way, 0.568482, 6
+4, Queen Creek, 0.726634, 0
+4, Amalfi Platter, 0.724066, 0
+4, so-so garden salad, 0.902147, 1
+4, food stains, 0.713556, 1
+4, good food, 0.759986, 2
+4, decent restaurants, 0.736363, 2
+4, previous reviewer, 0.700115, 3
+4, main course, 0.696069, 3
+4, Christina, 0.781158, 4
+4, Pizza Muffins, 0.732827, 6
+4, professional bartender, 0.725882, 6
+4, amazing Italian food, 0.929952, 7
+4, calamari choices, 0.731533, 7
+4, light cream sauce, 0.895563, 8
+4, house tzatziki sauce, 0.873107, 8

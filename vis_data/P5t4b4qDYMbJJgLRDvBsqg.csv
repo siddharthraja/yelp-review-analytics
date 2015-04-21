@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+2, new BBQ place, 0.880586, 0
+2, good BBQ, 0.818261, 0
+2, poor quality sauce, 0.884042, 1
+2, poor quality preparation, 0.753309, 1
+2, BBQ Gods, 0.732565, 2
+2, BBQ joint, 0.728751, 2
+2, raw meat look, 0.77857, 3
+2, classic hot link, 0.727094, 3
+2, BBQ, 0.981748, 4
+2, sauce, 0.897987, 4
+2, brisket, 0.759225, 5
+2, potato salad, 0.745891, 5
+2, crispy burnt-endish pieces, 0.728362, 6
+2, jalapeño corn bread, 0.702547, 6
+2, new BBQ, 0.976046, 7
+2, brand new BBQ, 0.846829, 7
+2, BBQ sauce, 0.883359, 8
+2, Jiffy cornbread mix, 0.717127, 8
+4, sliced brisket sandwich, 0.990995, 0
+4, fall-off-the-bone meat, 0.452974, 0
+4, dill potato salad, 0.792752, 2
+4, sliced turkey breast, 0.851901, 3
+4, angus cheddar burger, 0.824484, 6
+4, Las Vegas, 0.415863, 6
+4, ribs, 0.657401, 7
+4, sweet rack, 0.541567, 7
+5, typical Vegas Tavern, 0.939237, 0
+5, Town Center Lounge, 0.923987, 0
+5, BBQ sauce, 0.670248, 2
+5, sweat, 0.296838, 3
+5, Nick, 0.266014, 3
+5, nom nom, 0.920883, 6
+5, BBQ sauces, 0.675473, 6
+5, attractive blond, 0.649147, 7
+5, beverage, 0.272483, 7
+5, quick service vibe, 0.919342, 9
+5, number type, 0.571778, 9

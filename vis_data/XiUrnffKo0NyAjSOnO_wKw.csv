@@ -1,0 +1,12 @@
+rating, keyword, relevance, bucket
+1, greatest thing, 0.999542, 6
+1, place, 0.633423, 6
+4, party night, 0.670706, 0
+4, well-known physicist, 0.660052, 0
+4, questionable late night, 0.963445, 1
+4, sickly sweet smell, 0.932051, 1
+4, underage drinking, 0.723024, 2
+4, COs, 0.479615, 2
+4, alcohol poisoning, 0.635139, 3
+4, local ER, 0.621259, 3
+4, time, 0.279101, 7

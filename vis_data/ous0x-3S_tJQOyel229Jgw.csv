@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, business, 0.919899, 0
+2, food, 0.500322, 0
+2, Awkward environment, 0.934716, 2
+2, longest time, 0.902955, 2
+2, sporting event, 0.866808, 3
+2, beer, 0.485928, 6
+2, wine, 0.485644, 6
+2, Great area, 0.931522, 7
+3, Korean beef, 0.778713, 0
+3, terribly salty, 0.96431, 1
+3, previous reviews, 0.811877, 1
+3, service, 0.265389, 2
+3, tv, 0.25819, 2
+4, egg rolls, 0.931022, 0
+4, cucumber carrot garnish, 0.906364, 0
+4, HH pricing, 0.722367, 1
+4, beer discount, 0.705546, 2
+4, sports bar, 0.879015, 3
+4, chinese sports bar, 0.837466, 3
+4, coconut shrimp, 0.759912, 6
+4, big place, 0.727725, 6
+4, draft beers, 0.904107, 7
+4, Great drink specials, 0.863014, 7
+4, kirin sake bombers, 0.916404, 8
+4, Nice decor, 0.761141, 8
+4, Rapid Rewards dining, 0.845885, 9
+4, Great experience, 0.7004, 9
+5, shrimp Kung pao, 0.84321, 0
+5, Chicken Almond Rolls, 0.824341, 0
+5, low prices, 0.723553, 2
+5, Native New Yorker, 0.879025, 3
+5, good food, 0.858137, 3
+5, place, 0.780422, 5
+5, food, 0.921673, 6
+5, perfectly awesome experience, 0.860573, 6
+5, High quality ingredients, 0.869102, 7
+5, locals business employees, 0.821089, 7
+5, super reasonable prices, 0.846135, 8
+5, lovely heavy silverware, 0.827933, 8
+5, SUPER CLEAN, 0.731123, 9
+5, music selection, 0.725473, 9

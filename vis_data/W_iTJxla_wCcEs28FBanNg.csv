@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+2, Friday rush, 0.978926, 0
+2, Slooooow service, 0.847954, 1
+2, Food, 0.601763, 2
+2, staff, 0.645074, 8
+4, usual local micros, 0.735853, 0
+4, New Glarus, 0.58494, 0
+4, parking, 0.458544, 1
+4, non-descript commercial area, 0.745726, 2
+4, relatively new establishment, 0.742954, 2
+4, lunch, 0.471485, 3
+4, Madison, 0.457763, 4
+4, good cheese curds, 0.718402, 6
+4, standard burger, 0.601117, 6
+4, pretty good taste, 0.722822, 7
+4, great smoke-free sportsbar, 0.721547, 7
+4, Byrd, 0.932832, 8
+4, homemade guacamole, 0.829578, 8
+4, nicer features, 0.582817, 9
+4, decent cocktail, 0.577709, 9
+5, tip, 0.202501, 0
+5, hurry sit, 0.976865, 3
+5, Wednesday evening, 0.86031, 8
+5, Team Trivia, 0.699343, 8
+5, decent selection, 0.942208, 9
+5, great bar, 0.675599, 9

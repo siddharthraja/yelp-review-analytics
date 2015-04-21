@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+3, DeForest Public Library, 0.893455, 0
+3, strip mall location, 0.875704, 0
+3, skepticism, 0.54084, 1
+3, concern, 0.53535, 1
+3, dark roast, 0.695668, 2
+3, Coffee Cooperative, 0.691413, 2
+3, coffee bar, 0.703984, 3
+3, brick wall, 0.699455, 3
+3, comfy chairs, 0.708547, 6
+3, autumn tones, 0.706115, 6
+3, classic breakfast sandwich, 0.856333, 7
+3, free organic egg, 0.836319, 7
+3, positive Yelp reviews, 0.911827, 8
+3, return visit, 0.741797, 8
+3, cheerful staff, 0.701133, 9
+4, Rocket Fuel variety, 0.881111, 0
+4, tapas bar, 0.728429, 0
+4, Bloody Mary bar, 0.874966, 1
+4, line, 0.446663, 1
+4, mall exterior dissuade, 0.993058, 3
+4, elbow, 0.468119, 3
+4, place, 0.883685, 5
+4, Seriously swanky coffee, 0.983561, 6
+4, nice little town, 0.923101, 6
+4, modern Italian decor, 0.957375, 7
+4, Yer doin, 0.696952, 7
+4, snazzy black fixtures, 0.920062, 8
+4, obvious excitement, 0.697537, 8
+4, fireplace, 0.453134, 9
+4, staff, 0.445263, 9
+5, hot food buffet, 0.538775, 0
+5, Spinach benedict, 0.482789, 0
+5, wine bar, 0.540108, 2
+5, bloody mary bar, 0.54638, 3
+5, cheesy hash browns, 0.542391, 3
+5, sunday brunch, 0.912908, 6
+5, caprese salad, 0.583749, 6
+5, delish caprese salad, 0.575828, 7
+5, Abd bacon-wrapped tenderloin, 0.570146, 7
+5, Brunch features, 0.609292, 8
+5, Ghirardelli chocolate brownie/lava, 0.548188, 8
+5, Dane County, 0.546469, 9
+5, live piano player, 0.534664, 9

@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, blonde waitress, 0.805151, 0
+1, bit picky, 0.788267, 0
+1, valuable vacation time, 0.913936, 1
+1, Hard Rock Cafe, 0.903142, 1
+1, dark curly hair, 0.920019, 2
+1, stocky waiter, 0.816187, 2
+1, food, 0.849805, 3
+1, idiot manager, 0.804044, 3
+1, waiter Rico, 0.830992, 4
+1, simplest requests, 0.786684, 4
+1, world-class dweeb., 0.806257, 6
+1, security guys, 0.800324, 6
+1, check cause, 0.776079, 7
+1, Christmas dinner, 0.769098, 7
+1, best waiter, 0.809069, 8
+1, area, 0.666132, 8
+2, Hard Rock Cafe, 0.799267, 0
+2, flake chicken strips, 0.691746, 0
+2, worst Salmon, 0.66083, 1
+2, slow service, 0.634451, 1
+2, Hard Rock, 0.971406, 2
+2, ........., 0.725197, 2
+2, food, 0.781058, 3
+2, average food, 0.689866, 3
+2, service, 0.688479, 4
+2, Burger sehr gut, 0.675537, 4
+2, Cheese Chicken Salad, 0.68775, 6
+2, super nachos, 0.627491, 6
+2, good looking waitresses, 0.706587, 7
+2, nachos appetizer, 0.630782, 7
+2, good service, 0.679308, 8
+2, pretty cool place, 0.650547, 8
+3, Hard Rock shirt, 0.577414, 0
+3, Hard Rock Cafes, 0.569251, 0
+3, Hard Rock employees, 0.577234, 1
+3, kitschy Las Vegas, 0.54897, 1
+3, onion rings, 0.575316, 2
+3, particularly good combination, 0.55, 2
+3, hard rock café, 0.573183, 3
+3, peanut butter, 0.554452, 3
+3, hard rock, 0.955505, 4
+3, food, 0.606937, 4
+3, place, 0.604994, 5
+3, burger, 0.576464, 5
+3, Hard Rock Cafe, 0.820299, 6
+3, Hard Rock Hotel, 0.608415, 6
+3, rock music, 0.581904, 7
+3, good locals discount, 0.549211, 7
+3, Rock history paraphenalia, 0.567199, 8
+3, burger ordering process, 0.550456, 8
+3, rock memorabilia, 0.557467, 9
+3, big music buff, 0.546491, 9
+4, roll. good service, 0.513565, 0
+4, crappy Hard Rock, 0.500983, 0
+4, bar Americana food, 0.454569, 2
+4, flat screen TVs, 0.443881, 2
+4, Hard Rock Cafe, 0.831779, 3
+4, Hard Rock Cafes, 0.469578, 3
+4, waiter, 0.4389, 4
+4, food, 0.692266, 5
+4, music videos, 0.66792, 6
+4, Hard Rock Hotel, 0.568133, 6
+4, hard rock, 0.958022, 7
+4, Good music, 0.470227, 7
+4, section good food, 0.50709, 8
+4, Veggie garden burger, 0.481856, 8
+4, pretty good experience, 0.506083, 9
+4, Wi-Fi+ Awesome Service, 0.438518, 9
+5, Las Vegas location, 0.485236, 0
+5, music videos, 0.399752, 0
+5, Hard Rock Hotel, 0.622004, 3
+5, major city, 0.3987, 3
+5, Hard Rock Cafe, 0.768699, 4
+5, place, 0.505658, 5
+5, Hard Rock, 0.999531, 6
+5, Hard Rock Casino, 0.602215, 6
+5, pork sandwich, 0.529669, 7
+5, nice chill place, 0.49693, 7
+5, Hard Rock Café, 0.622176, 8
+5, Las Vegas, 0.547105, 8
+5, atmosphere great food, 0.487042, 9
+5, moist pulled pork, 0.47663, 9

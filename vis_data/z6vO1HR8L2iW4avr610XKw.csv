@@ -1,0 +1,97 @@
+rating, keyword, relevance, bucket
+1, spring training game, 0.680776, 0
+1, Sunday afternoon, 0.676927, 0
+1, instead- big mistake, 0.652594, 1
+1, mediocre food, 0.615452, 1
+1, time, 0.698378, 2
+1, Saint Patrick, 0.694965, 2
+1, old town, 0.683519, 3
+1, drink order, 0.669712, 3
+1, place, 0.977725, 4
+1, food, 0.974341, 4
+1, new times, 0.638612, 5
+1, song, 0.612373, 5
+1, head chef, 0.676668, 6
+1, french dip sandwiches, 0.665229, 6
+1, BEST karaoke place, 0.697949, 7
+1, recent Friday night, 0.673218, 7
+1, better food, 0.614547, 8
+1, upstairs patio, 0.601474, 8
+1, good meal, 0.598183, 9
+2, surly older waitress, 0.652587, 0
+2, convenient patio area, 0.645428, 0
+2, big deal, 0.620688, 1
+2, bar, 0.691873, 2
+2, Saturday night. karaoke, 0.691386, 2
+2, service, 0.772528, 3
+2, expensive alcoholic drinks, 0.634356, 3
+2, food, 0.939804, 4
+2, place, 0.739391, 4
+2, old town, 0.823798, 5
+2, saturday night, 0.782749, 5
+2, patio area, 0.646291, 6
+2, fab job BTW, 0.631338, 6
+2, real classic untidiness, 0.637799, 7
+2, outdoor/upstairs dining patio, 0.635763, 7
+2, upstairs patio, 0.671561, 8
+2, song choices, 0.615551, 8
+2, nice upstairs patio, 0.670556, 9
+2, star convenient location, 0.628164, 9
+3, Grapevine several times, 0.722656, 0
+3, karaoke machine, 0.712864, 0
+3, karaoke bars, 0.733935, 1
+3, funnest Karaoke bars, 0.731497, 1
+3, karaoke host, 0.703721, 2
+3, standard/average bar fare, 0.688891, 2
+3, dive bar, 0.725122, 3
+3, Short Dick Man, 0.722612, 3
+3, karaoke, 0.837008, 4
+3, bar, 0.796409, 4
+3, grapevine, 0.986237, 5
+3, place, 0.823866, 5
+3, food, 0.732889, 6
+3, song, 0.720528, 6
+3, Old Town Scottsdale, 0.816295, 7
+3, patio, 0.729686, 7
+3, great place, 0.718865, 8
+3, french dip, 0.718854, 8
+3, Good food, 0.68848, 9
+3, late night eats, 0.686161, 9
+4, Karaoke my friend, 0.765047, 0
+4, usual American food, 0.69965, 0
+4, Slow karaoke service, 0.848759, 1
+4, barely passable food, 0.712284, 1
+4, night karaoke crowd, 0.867986, 2
+4, Karaoke dive bar, 0.859933, 2
+4, karaoke bar, 0.826494, 3
+4, private karaoke room, 0.797686, 3
+4, people, 0.803128, 4
+4, drinks, 0.731527, 4
+4, karaoke, 0.958097, 5
+4, grapevine, 0.7326, 5
+4, damn good time, 0.738632, 6
+4, chicken strips, 0.733618, 6
+4, favorite karaoke place, 0.86992, 7
+4, good karaoke stage, 0.844868, 7
+4, Great Karaoke 7-days, 0.878141, 8
+4, great place, 0.786692, 8
+4, Great veggie sandwich, 0.719466, 9
+4, great patio, 0.700827, 9
+5, bay area guy, 0.874112, 0
+5, huge upstairs patio, 0.841253, 0
+5, bachelorette party, 0.750701, 1
+5, post-grapevine morning, 0.731964, 1
+5, Vine Karaoke Regulars, 0.986604, 2
+5, public apology, 0.743531, 2
+5, real memory, 0.740846, 3
+5, George Michael, 0.737135, 3
+5, food, 0.87392, 4
+5, grapevine, 0.876478, 5
+5, mr. dancing queen, 0.847864, 6
+5, Double Tree, 0.734047, 6
+5, late night Karaoke, 0.925024, 7
+5, au jous sauce, 0.839063, 7
+5, great place, 0.953597, 8
+5, good starter place, 0.854214, 8
+5, environment awesome place, 0.844973, 9
+5, friendly place, 0.782991, 9

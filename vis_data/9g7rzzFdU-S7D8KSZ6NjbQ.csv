@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, Bad neighborhood, 0.814992, 0
+1, patronage, 0.557684, 0
+1, pretentious places, 0.978536, 1
+1, THUMBS, 0.558265, 1
+1, counter, 0.539457, 2
+1, exit, 0.538273, 2
+1, beer, 0.51445, 3
+1, sayin, 0.594439, 6
+1, friend, 0.552235, 6
+1, nice room, 0.765804, 7
+1, friends, 0.505282, 7
+3, decent fans, 0.666878, 0
+3, decent air, 0.654339, 0
+3, somewhat bland selection, 0.837315, 2
+3, AC issues, 0.578058, 2
+3, nabe, 0.348593, 3
+3, chairs, 0.347671, 3
+3, gospel-y bluegrass, 0.572554, 6
+3, decent tap beer, 0.888293, 7
+3, oddly shaped space, 0.84186, 7
+3, Evening Muse, 0.990519, 8
+3, great little listening, 0.909728, 8
+4, primarily acoustic music, 0.573991, 0
+4, quality Indie rock, 0.533045, 0
+4, especially good joke, 0.540497, 1
+4, saturday night gig, 0.537506, 1
+4, live music scene, 0.578651, 2
+4, popular band playing, 0.550132, 2
+4, great little venue, 0.616491, 3
+4, hipster style crowd, 0.546836, 3
+4, bar, 0.577619, 4
+4, music, 0.722701, 5
+4, live music, 0.676033, 5
+4, Evening Muse, 0.994759, 6
+4, mic nights, 0.50478, 6
+4, open mic night, 0.707728, 7
+4, small Charlotte venue, 0.58438, 7
+4, great place, 0.86662, 8
+4, small venue, 0.633245, 8
+4, Nice small venue, 0.566325, 9
+4, friendly staff, 0.539838, 9
+5, local music venue, 0.675673, 0
+5, host rock bands, 0.58303, 0
+5, Live Nation venues, 0.59032, 2
+5, open mic participants, 0.607324, 3
+5, authentic music garage, 0.588323, 3
+5, time, 0.500997, 5
+5, Muse Open Mic, 0.837223, 6
+5, weekly featured artist, 0.606901, 6
+5, Evening Muse, 0.985109, 7
+5, best live music, 0.629941, 7
+5, occasional local artist, 0.614398, 8
+5, local music scene, 0.612008, 8
+5, small venue, 0.642813, 9
+5, Gallery Crawl, 0.612089, 9

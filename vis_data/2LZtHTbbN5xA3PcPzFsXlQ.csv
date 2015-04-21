@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+2, standard pub food, 0.853556, 0
+2, incredible unfairness, 0.754776, 0
+2, pip smack bang, 0.898405, 1
+2, Eton Mess, 0.720178, 1
+2, rude bartender, 0.696298, 2
+2, drink, 0.637113, 2
+2, pretty sucky experience, 0.912239, 3
+2, pub grub affairs, 0.888529, 3
+2, Conan Doyle, 0.937634, 6
+2, pork belly, 0.709967, 6
+2, free desert, 0.714613, 7
+2, nice spot, 0.69639, 7
+2, cozy atmosphere, 0.706387, 8
+3, Arthur Conan Doyle, 0.763429, 0
+3, standard pub, 0.754829, 0
+3, toilet stalls, 0.640914, 1
+3, Gold Medals, 0.635192, 1
+3, closest pub, 0.757064, 2
+3, ordinary here folks, 0.645804, 2
+3, main downtown attractions, 0.725805, 3
+3, bad pub, 0.717107, 3
+3, Conan Doyle, 0.925976, 5
+3, pub, 0.853626, 5
+3, small lunch steak, 0.742465, 6
+3, traditional pub, 0.736612, 6
+3, quintessential Scottish tavern, 0.75063, 7
+3, steak pie, 0.628498, 7
+3, cozy place, 0.764439, 8
+3, thriving Royal Mile, 0.749211, 8
+3, work drink, 0.643184, 9
+3, lunch time, 0.63587, 9
+4, old man pub, 0.741681, 0
+4, lamb shank pie, 0.633529, 0
+4, flaky pies, 0.523119, 2
+4, earnest young man, 0.624548, 3
+4, middle aged city, 0.637968, 6
+4, long coach trip, 0.629477, 6
+4, great food, 0.635899, 7
+4, roasted veggie tart, 0.632764, 7
+4, Conan Doyle, 0.980639, 8
+4, Conan Doyle pub, 0.798172, 8
+4, Conan Doyle/Sherlock Holmes, 0.654968, 9
+4, cute pub, 0.60231, 9
+5, regional scotches, 0.443245, 0
+5, perfect spot, 0.505832, 2
+5, star rating, 0.654519, 3
+5, recent poll, 0.43188, 3
+5, better pub crawl, 0.912824, 6
+5, nice little spot, 0.70795, 6
+5, Edinburgh pub crawl, 0.922398, 7
+5, Sherlock Holmes novel, 0.779506, 7
+5, Conan Doyle, 0.963399, 8
+5, essential need, 0.444376, 8

@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, fried/baked flatbread pieces, 0.790602, 0
+1, half pizza choice, 0.783015, 0
+1, RUSTY ONION way, 0.751341, 1
+1, NON Customer Service, 0.721179, 1
+1, rusty onion, 0.997989, 2
+1, long story, 0.768574, 2
+1, Rusty Onion appetizer, 0.815135, 3
+1, responsible dog owners, 0.746035, 3
+1, restaurant, 0.659128, 4
+1, main course, 0.653372, 4
+1, dogs, 0.721865, 5
+1, attractive feature, 0.636832, 6
+1, provalone cheese, 0.632596, 6
+1, dog-friendly patio, 0.884842, 7
+1, specialty pizza, 0.787337, 7
+1, specialty pizza prices, 0.772495, 8
+1, patio status, 0.72333, 8
+2, great beer list, 0.841278, 0
+2, Rusty Onion, 0.713111, 0
+2, garlic nots, 0.721808, 1
+2, vinaigrette dressing, 0.710418, 1
+2, bite, 0.578838, 2
+2, time, 0.573196, 2
+2, pizza, 0.921644, 3
+2, onions, 0.752315, 3
+2, expensive fresh mozzarella, 0.85563, 4
+2, specialty options, 0.675897, 4
+2, food, 0.869349, 5
+2, sauce, 0.740159, 5
+2, friends Philly cheesesteak, 0.876281, 6
+2, real folks, 0.695619, 6
+2, large pizza, 0.739566, 7
+2, new places, 0.711631, 7
+2, good food, 0.853591, 8
+2, fun bar, 0.715226, 8
+3, Italian sub-style pizza, 0.69659, 0
+3, cheeseburger pizza, 0.61874, 0
+3, chipotle dipping mayo, 0.544345, 1
+3, menu online, 0.490272, 1
+3, Rusty Onion, 0.941252, 2
+3, new restaurant, 0.617599, 2
+3, NY cannoli, 0.501616, 3
+3, pizza, 0.896354, 5
+3, Eye-talian Stallion, 0.677164, 6
+3, build-your-own cheese pizza, 0.663601, 6
+3, pizza crust, 0.614696, 7
+3, pizza options, 0.604325, 7
+3, little pizza place, 0.691004, 8
+3, pizza pop, 0.608015, 8
+3, new pizza place, 0.678426, 9
+3, GREAT start, 0.49771, 9
+4, regular Brooklyn Pizza, 0.599108, 0
+4, extensive draft beers, 0.493067, 0
+4, grand opening jitters, 0.514981, 1
+4, new go-to spot, 0.501606, 1
+4, rusty onion app, 0.759067, 3
+4, cheeseburger dynamite pizza, 0.596235, 3
+4, rusty onion, 0.92139, 4
+4, night, 0.458492, 5
+4, pizza, 0.743961, 6
+4, white truffle oil, 0.5089, 6
+4, large pizza half, 0.619189, 7
+4, gluten free pizza, 0.593049, 7
+4, Fun Guy pizza, 0.606263, 8
+4, philly cheese steak, 0.566146, 8
+4, great pizza place, 0.62039, 9
+4, portion size, 0.512806, 9
+5, local beer selection, 0.797196, 0
+5, non-chain pineapple pizzas, 0.76824, 0
+5, terrible lunch trips, 0.740963, 3
+5, Rusty Onion, 0.980814, 5
+5, good Italian restaurants, 0.766608, 6
+5, chill live music, 0.730771, 6
+5, 5-star draft beer, 0.793641, 7
+5, real Italian menu, 0.782226, 7
+5, beer selection, 0.91405, 8
+5, perfect pineapple pizza, 0.778248, 8
+5, great atmosphere, 0.764559, 9
+5, excellent beer, 0.64337, 9

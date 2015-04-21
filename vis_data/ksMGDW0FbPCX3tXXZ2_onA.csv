@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, different section, 0.83259, 0
+1, disappointment, 0.466262, 0
+1, waitress, 0.439774, 1
+1, clue, 0.399922, 1
+1, honest review, 0.867707, 2
+1, drink, 0.523751, 2
+1, stone cold, 0.833614, 3
+1, half our food, 0.829566, 3
+1, good choice, 0.952717, 6
+1, star rating, 0.94169, 6
+2, extremely fast response, 0.983618, 0
+2, curly black hairs, 0.977233, 0
+2, poor review, 0.80517, 1
+2, artificial sweetener, 0.796238, 1
+2, extra star, 0.804327, 2
+2, fish tacos, 0.793636, 2
+2, long blonde hair, 0.943287, 3
+2, Weird order, 0.787786, 3
+2, best experience, 0.95154, 4
+2, food, 0.795829, 4
+2, money, 0.675202, 5
+2, decent meal, 0.785894, 6
+2, stars, 0.675178, 6
+2, occupied tables, 0.803454, 7
+2, Wyland posters, 0.788031, 7
+2, beer pint glass, 0.953587, 8
+2, rave reviews, 0.807462, 8
+3, Mic Ultra, 0.789209, 0
+3, male worker, 0.78905, 0
+3, tri tip nachos, 0.954055, 1
+3, Northgate area, 0.947077, 1
+3, apple juice, 0.934297, 2
+3, apple soda, 0.933355, 2
+3, doors smoking cigarets, 0.933813, 3
+3, pony tail, 0.784345, 3
+3, place, 0.813252, 5
+3, Nice little restaurant, 0.970476, 6
+3, nice acidity, 0.834175, 6
+3, patio area, 0.923477, 7
+3, good-looking patio area, 0.91507, 7
+3, nice shopping area, 0.952096, 8
+3, soft taco dish, 0.921613, 8
+3, menu items, 0.805406, 9
+3, beer options, 0.799798, 9
+4, taco sampler plate, 0.549519, 0
+4, house salsa, 0.475785, 0
+4, low end, 0.45973, 1
+4, cheap drunk, 0.45181, 1
+4, key points, 0.468055, 2
+4, little bit, 0.454942, 2
+4, drink specials, 0.442279, 3
+4, moderate size, 0.436462, 3
+4, place, 0.453088, 4
+4, house margaritas, 0.576972, 5
+4, Pollo Fundido, 0.807882, 6
+4, carnitas tacos, 0.670779, 6
+4, Good service~fun times, 0.622488, 7
+4, salsa verde, 0.575506, 7
+4, fish tacos, 0.919132, 8
+4, customer service, 0.591908, 8
+4, tri tip nachos, 0.596694, 9
+4, old world ipa, 0.592883, 9
+5, especially jalapeno cream, 0.701047, 0
+5, new beer, 0.634912, 0
+5, service, 0.922698, 5
+5, asada fries, 0.763221, 6
+5, carne asada fries, 0.737076, 6
+5, better Mexican food, 0.790741, 7
+5, fish tacos, 0.77595, 7
+5, great food, 0.981117, 8
+5, Great new place, 0.854291, 8
+5, place, 0.858686, 9
+5, great service, 0.83615, 9

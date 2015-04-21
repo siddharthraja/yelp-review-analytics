@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, gross chipotle sauce, 0.707669, 0
+1, shredded beef tacos, 0.704656, 0
+1, wrong thing, 0.565188, 1
+1, Mediocre food, 0.547131, 1
+1, food, 0.637711, 2
+1, unhappy butt, 0.549915, 2
+1, carne asada tacos, 0.940719, 3
+1, tequila godness, 0.556005, 3
+1, waiter, 0.469122, 4
+1, place, 0.55844, 5
+1, restaurant, 0.58252, 6
+1, Steak Fajita, 0.534789, 6
+1, customer service skills, 0.67194, 7
+1, original check, 0.545046, 7
+1, ne chicken, 0.544576, 8
+2, good mexican food, 0.618022, 0
+2, authentic Mexican food, 0.596084, 0
+2, unremarkable mexican restaurant, 0.620045, 1
+2, super slow service, 0.554065, 1
+2, refried beans, 0.578529, 2
+2, high yelp reviews, 0.575566, 2
+2, carne asada tacos, 0.95423, 3
+2, groupon, 0.586249, 3
+2, mexican food, 0.836011, 4
+2, time, 0.533583, 4
+2, place, 0.534028, 5
+2, barbacoa enchiladas, 0.682588, 6
+2, beef barbacoa enchiladas, 0.586258, 6
+2, Las Vegas, 0.649641, 7
+2, Mandalay Bay hotel, 0.55584, 7
+2, great lighting,good energy, 0.586708, 8
+2, good suggestions, 0.505892, 8
+3, cheapest Mexican food, 0.752021, 0
+3, quality food-even chips, 0.743598, 0
+3, shrimp ceviche, 0.778582, 2
+3, typical vegas bar, 0.707542, 2
+3, good tequila, 0.707347, 3
+3, bar area, 0.726772, 4
+3, margarita, 0.712818, 4
+3, tequila selection, 0.755248, 5
+3, vegas, 0.738018, 5
+3, food, 0.977917, 6
+3, salsa, 0.872902, 6
+3, mexican food, 0.943835, 7
+3, chips, 0.921005, 7
+3, Treasure Island, 0.864688, 8
+3, tortilla chips, 0.720436, 8
+3, good place, 0.693763, 9
+4, expensive Mexican food, 0.530862, 0
+4, best mexican food, 0.529106, 0
+4, variety Mexican food, 0.521107, 2
+4, good food, 0.508274, 2
+4, tequila bar, 0.624857, 3
+4, good cheesy food, 0.531349, 3
+4, chicken, 0.578097, 4
+4, chicken mole, 0.524926, 4
+4, margaritas, 0.632263, 5
+4, vegas, 0.629822, 5
+4, mexican food, 0.955408, 6
+4, tequila, 0.795102, 6
+4, salsa, 0.592311, 7
+4, Mexican restaurant, 0.579372, 7
+4, great tequila selection, 0.580871, 8
+4, las vegas, 0.560743, 8
+4, nice Mexican meal, 0.518642, 9
+4, tequila menu, 0.517714, 9
+5, carne asada burrito, 0.670015, 0
+5, better Mexican food, 0.625514, 0
+5, crappy Mexican food, 0.642844, 3
+5, local Mexican kitchen, 0.610686, 3
+5, vegas, 0.7577, 4
+5, margarita, 0.637253, 4
+5, treasure island, 0.943622, 5
+5, service, 0.729053, 5
+5, mexican food, 0.947277, 6
+5, place, 0.716614, 6
+5, chips, 0.748052, 7
+5, salsa, 0.684503, 7
+5, great mexican food, 0.682775, 8
+5, different salsas, 0.67251, 8
+5, yummy chicken enchiladas, 0.644024, 9
+5, service- great music, 0.618993, 9

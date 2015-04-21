@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, Montreal, 0.539855, 0
+1, meetings, 0.53674, 0
+1, flight, 0.659891, 1
+1, Waiter, 0.557518, 1
+1, biggest sin, 0.981518, 2
+1, snickers bar, 0.95842, 2
+1, restaurant, 0.653439, 3
+1, airport, 0.646948, 3
+2, turkey club sandwich, 0.930985, 0
+2, worst bloody marys, 0.905686, 0
+2, sad looking bacon, 0.77401, 1
+2, airport food, 0.46711, 1
+2, roast beef sandwich, 0.92569, 2
+2, oven baked fries, 0.794904, 2
+2, little plastic bowl, 0.735713, 3
+2, patties, 0.302169, 3
+2, pickles, 0.272322, 4
+2, quick serve places, 0.71056, 6
+2, regular sandwiches, 0.555164, 6
+2, Awesome picture, 0.499888, 7
+2, Beer, 0.250396, 7
+3, sandwich, 0.251238, 0
+3, bacon, 0.218143, 0
+3, Montreal airport, 0.57176, 2
+3, Sportscenter, 0.294902, 2
+3, Decent airport food, 0.976798, 3
+3, captive audience, 0.588559, 3
+3, sad,dry quesadilla, 0.629058, 6
+3, kind gentleman, 0.627953, 6
+3, orange juice, 0.591558, 7
+3, televisions, 0.238902, 7
+3, Le Bar Sportif, 0.881416, 8
+4, Montreal Airport saloon, 0.939522, 0
+4, Bloody Marys, 0.730215, 0
+4, GD Salt, 0.692898, 3
+4, rims, 0.419025, 3
+4, cole slaw, 0.714641, 6
+4, meat sandwiches, 0.675788, 6
+4, nice lunch, 0.809178, 8
+4, nice place, 0.683472, 8

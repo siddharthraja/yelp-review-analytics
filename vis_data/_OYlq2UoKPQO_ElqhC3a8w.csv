@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, pompous incompetent staff, 0.944504, 0
+1, Assistant Manager Rudy, 0.894182, 0
+1, Rude service, 0.828932, 1
+1, poor salesmanship, 0.809829, 1
+1, old town Scottsdale, 0.932333, 2
+1, Lucky Strike, 0.930231, 2
+1, dress code, 0.89239, 3
+1, good location, 0.830918, 3
+1, service, 0.977071, 4
+1, place, 0.906689, 4
+1, manager, 0.895879, 5
+1, drink, 0.843818, 5
+1, bowling alley, 0.909559, 6
+1, real bowling alley, 0.902493, 6
+1, showcases local artists, 0.908449, 7
+1, real UPSCALE venues, 0.889169, 7
+1, washington apple, 0.809773, 8
+2, actual bowling area, 0.673683, 0
+2, delicious bar food, 0.658029, 0
+2, dress code, 0.673422, 1
+2, inconsistent dress code, 0.650374, 1
+2, hot shit, 0.779018, 2
+2, Lucky Strike-try Scottsdale, 0.664214, 2
+2, head gear, 0.723759, 3
+2, Lucky Strike PHX, 0.710366, 3
+2, lane, 0.870056, 4
+2, time, 0.699651, 4
+2, lucky strike, 0.972259, 5
+2, wednesday night, 0.745534, 5
+2, bar, 0.71147, 6
+2, high maintenance customer, 0.675267, 6
+2, bowling alley, 0.758136, 7
+2, regular bowling ally, 0.705091, 7
+2, customer service, 0.757595, 8
+2, great customer service, 0.701109, 8
+3, regular bowling alleys, 0.488843, 0
+3, bowling alley portion, 0.473235, 0
+3, Lucky Strike Lanes, 0.545417, 2
+3, downtown bowling alley, 0.476843, 2
+3, bowling alleys, 0.547602, 3
+3, bowling lanes, 0.450725, 3
+3, bowling alley, 0.780389, 4
+3, time, 0.475235, 4
+3, Lucky Strike, 0.964562, 5
+3, place, 0.646829, 5
+3, soft pretzel sticks, 0.488422, 6
+3, bowling fun, 0.444262, 6
+3, overall nice time, 0.42929, 7
+3, garlic butter, 0.410062, 7
+3, sanitized bowling experience, 0.473158, 8
+3, cool place, 0.472423, 8
+3, great place, 0.515127, 9
+4, typical bowling alley, 0.370121, 0
+4, standard bowling ally, 0.332842, 0
+4, Lucky Strike Lanes, 0.358904, 1
+4, bowling alley food, 0.443003, 2
+4, recent bowling experience, 0.346632, 2
+4, VFW-like bowling alleys, 0.335115, 3
+4, saturday night, 0.306667, 3
+4, lucky strikes, 0.392184, 4
+4, bar, 0.362873, 4
+4, Lucky Strike, 0.967298, 5
+4, time, 0.51784, 5
+4, bowling alley, 0.818219, 6
+4, coolest bowling alley, 0.35739, 6
+4, good time, 0.37449, 7
+4, loveliest bowling alley, 0.364003, 7
+4, great place, 0.690823, 8
+4, great time, 0.411809, 8
+4, cool place, 0.339116, 9
+4, good sized bar, 0.306185, 9
+5, small bowling alley, 0.584305, 0
+5, model bowling alley, 0.582968, 0
+5, bowling lanes, 0.602154, 2
+5, standard bowling alley, 0.582582, 2
+5, Lucky Strike Phoenix, 0.589032, 3
+5, domestic drafts, 0.554566, 3
+5, bowling alley, 0.741842, 4
+5, lucky strike, 0.931133, 5
+5, place, 0.662188, 5
+5, food, 0.651436, 6
+5, Lucky Strike Team, 0.592467, 6
+5, pool tables, 0.606461, 7
+5, Lucky Strike remind, 0.589021, 7
+5, great time, 0.607455, 8
+5, different bowling experience, 0.594863, 8
+5, Great place, 0.563644, 9
+5, Great upscale atmosphere, 0.563305, 9

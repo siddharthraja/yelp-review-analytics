@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, bachelor party, 0.550375, 0
+1, dollar cover, 0.538692, 0
+1, night, 0.259222, 1
+1, dicks, 0.20365, 1
+1, dance floor, 0.92498, 2
+1, strange looking doorman, 0.78333, 2
+1, barking orders, 0.504403, 3
+1, guest list, 0.480976, 3
+1, oversized nerd glasses, 0.832302, 6
+1, black guy, 0.481917, 6
+1, pretty cool place, 0.943529, 7
+1, friend, 0.399342, 7
+2, massive pile, 0.71525, 0
+2, broken glass, 0.682545, 0
+2, aforementioned ladies, 0.708905, 1
+2, ton, 0.458658, 1
+2, hot spots, 0.73336, 2
+2, Tokyo Bar, 0.729064, 2
+2, belligerent drunk guy, 0.93285, 3
+2, main dance floor, 0.92229, 3
+2, ta imagine, 0.69429, 6
+2, better options, 0.668732, 6
+2, good lychee martini, 0.991108, 7
+2, good mixes, 0.685936, 7
+2, trance techno room, 0.958274, 8
+2, best ambiance, 0.731395, 8
+3, pretty mixed experience, 0.92755, 0
+3, loose Tokyo bitches, 0.924853, 0
+3, dance floor, 0.923117, 1
+3, J-Pop, 0.470453, 1
+3, geisha motorcycle gang, 0.915952, 2
+3, Shigeru Miyamato, 0.696452, 2
+3, Sake district, 0.674152, 3
+3, Mario buxxxx, 0.666832, 3
+3, private daytime Movember, 0.888295, 6
+3, downtown Montreal, 0.657035, 6
+3, nice bar, 0.651749, 7
+3, music, 0.538033, 7
+3, awesome guest djs, 0.874414, 8
+3, late summer night, 0.869404, 8
+3, outdoor lounging, 0.686097, 9
+3, overall fun, 0.650167, 9
+4, roof area, 0.494133, 0
+4, Ay karumba, 0.488478, 0
+4, hot Asian chicks, 0.943241, 2
+4, Hip Hop Tunes, 0.674603, 2
+4, chain hang, 0.661791, 3
+4, dance floor level, 0.655362, 3
+4, dance floor, 0.816866, 5
+4, fairly large room, 0.672229, 6
+4, decent size, 0.512405, 6
+4, coat check, 0.522974, 7
+4, drinks, 0.326849, 7
+4, Great DJ, 0.540229, 8
+4, Great club, 0.511949, 8
+5, good ol, 0.631588, 0
+5, new MIA, 0.616466, 0
+5, montreal dance-pants, 0.653724, 2
+5, indie girl, 0.636434, 3
+5, club girl, 0.630409, 3
+5, place, 0.510154, 5
+5, st laurent, 0.949168, 6
+5, cute scruffy, 0.629357, 6
+5, decent drink prices, 0.873931, 7
+5, tokyo bar, 0.639196, 7
+5, absolute BLAST, 0.610727, 8
+5, Friendly atmosphere, 0.607893, 8

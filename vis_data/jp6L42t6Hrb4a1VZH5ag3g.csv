@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+3, long time, 0.438209, 0
+3, demure, 0.277593, 0
+3, noise level, 0.443992, 1
+3, bartender, 0.27045, 3
+3, musical act, 0.426673, 6
+3, Frankie Moreno Band, 0.95369, 7
+3, Drinks, 0.262975, 7
+3, Rush Lounge, 0.772672, 8
+3, cool seating areas, 0.718089, 8
+3, downtown entertaining friends, 0.651373, 9
+3, amazing talent, 0.462739, 9
+4, Blackjack tables, 0.579607, 0
+4, sax player, 0.5765, 0
+4, bar, 0.46406, 1
+4, barstool, 0.450564, 2
+4, chair, 0.437513, 3
+4, Talk, 0.466393, 5
+4, Lionel Ritchie song, 0.925791, 6
+4, free live music, 0.717912, 6
+4, excellent jazz, 0.587558, 7
+4, nice tables, 0.574366, 7
+4, Nice atmosphere, 0.611276, 8
+4, great staff, 0.592887, 8
+4, Golden Nugget Hotel, 0.778014, 9
+4, Great classy place, 0.759591, 9
+5, local Las Vegas, 0.746904, 0
+5, lively country music, 0.718109, 0
+5, Golden Nugget casino, 0.77374, 1
+5, bed time, 0.561363, 2
+5, tiny little lounge, 0.726309, 3
+5, small bar, 0.582759, 3
+5, Golden Nugget, 0.978349, 6
+5, pineapple juice, 0.578858, 6
+5, Lorena Peril, 0.808555, 7
+5, Rush Lounge, 0.762549, 7
+5, Ray Jon, 0.878855, 8
+5, girls weekend birthday, 0.694902, 8
+5, Las Vegas, 0.867819, 9
+5, love fun music, 0.776098, 9

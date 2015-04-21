@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, undivided attention, 0.768152, 0
+1, worse food, 0.70557, 0
+1, service, 0.768681, 1
+1, Terrible wings, 0.74613, 1
+1, worst restaurant experience, 0.94143, 2
+1, good service, 0.761039, 2
+1, waitress, 0.935358, 3
+1, totem pole, 0.819911, 3
+1, good time, 0.798943, 6
+1, place, 0.412854, 6
+1, Buffalo Wild Wings, 0.964941, 7
+2, daytime shift girls, 0.586658, 0
+2, real low-rating clencher, 0.571509, 0
+2, nastiest crab legs, 0.599324, 1
+2, food, 0.409517, 1
+2, snow crab legs, 0.846803, 2
+2, McDs dollar menu, 0.532934, 2
+2, awesome wife damnit, 0.591871, 3
+2, skimpy clothing, 0.394753, 3
+2, hooters, 0.993305, 4
+2, course, 0.267074, 4
+2, huge Hooters fan, 0.812771, 6
+2, big tip, 0.381461, 6
+2, nice waitress, 0.424926, 7
+2, new waitress, 0.422001, 7
+2, boneless wings, 0.402306, 8
+2, seafood buffet, 0.390047, 8
+3, Hooters Las Vegas, 0.967289, 0
+3, orange gym shorts, 0.659988, 0
+3, peanut butter pie, 0.553663, 2
+3, Wednesday Wings, 0.381504, 2
+3, tight booty shorts, 0.599461, 3
+3, big boobs, 0.382451, 3
+3, primo chicken wings, 0.642629, 6
+3, Chicken Shack, 0.370504, 6
+3, Hooters alright, 0.665073, 7
+3, slightly buttery taste, 0.62101, 7
+4, Wing Wing leftovers, 0.629847, 0
+4, new waitress, 0.528509, 0
+4, service, 0.509833, 1
+4, good service, 0.49966, 1
+4, South Point, 0.489098, 2
+4, fine dining, 0.482829, 2
+4, Vegas trip, 0.509879, 3
+4, home town, 0.474905, 3
+4, hooters, 0.942499, 5
+4, dice, 0.377319, 5
+4, better Hooters, 0.769705, 6
+4, grilled cheese, 0.489481, 6
+4, curly fries, 0.697004, 7
+4, bleu cheese, 0.687968, 7
+4, calorie content, 0.661114, 8
+4, wings, 0.642856, 8
+4, fabulous hooters, 0.785866, 9
+4, favorite Hooters, 0.72024, 9
+5, various imported beers, 0.949107, 0
+5, lcd t.v. screens, 0.874262, 0
+5, great takeout carriers, 0.936892, 6
+5, food, 0.237101, 6
+5, great wings, 0.605492, 8
+5, good management, 0.517567, 8
+5, excellent customer service, 0.85968, 9

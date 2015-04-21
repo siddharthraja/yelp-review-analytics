@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, kick-ass sports bar, 0.550054, 0
+1, spring training game, 0.539652, 0
+1, food, 0.653075, 1
+1, pretty big tab, 0.575518, 1
+1, bar, 0.718909, 2
+1, server, 0.597035, 2
+1, cactus moon, 0.917346, 3
+1, manager, 0.557677, 3
+1, place, 0.871479, 4
+1, service, 0.781837, 4
+1, time, 0.756717, 5
+1, Friday night, 0.507274, 5
+1, game, 0.569533, 6
+1, people, 0.551977, 6
+1, pool tables, 0.582102, 7
+1, try Cactus Moon, 0.533663, 7
+1, country music, 0.564703, 8
+1, upbeat country music, 0.520922, 8
+1, big screen TVs, 0.521604, 9
+1, nice pool tables, 0.512106, 9
+2, small cold ramekins, 0.787892, 0
+2, Cold white bread, 0.784041, 0
+2, football season, 0.782665, 1
+2, UFC fights, 0.702359, 1
+2, cold chips, 0.763053, 2
+2, different experiences, 0.710279, 2
+2, pool tables, 0.845344, 3
+2, standard bar food, 0.83035, 3
+2, food, 0.944543, 4
+2, service, 0.83137, 4
+2, place, 0.921308, 5
+2, bartenders, 0.73795, 5
+2, cactus moon, 0.868545, 6
+2, ASU Football Game, 0.763786, 7
+2, dance floor, 0.763016, 7
+2, better quality places, 0.774785, 8
+2, pool table, 0.762946, 8
+2, solid bar, 0.694577, 9
+2, good game, 0.693827, 9
+3, Bleu Cheese Dressing, 0.76646, 0
+3, free dance lessons, 0.749758, 0
+3, Terrible parking situation, 0.714328, 1
+3, Mesa crowd, 0.626806, 1
+3, loud hip hop, 0.759306, 2
+3, Buffalo wings, 0.656772, 2
+3, regular season game, 0.777189, 3
+3, Typical bar food, 0.754537, 3
+3, pool tables, 0.957868, 6
+3, awesome wings, 0.696949, 6
+3, brisket Philly cheese, 0.721113, 7
+3, dance floor, 0.720555, 7
+3, good dance music, 0.760669, 8
+3, fun place, 0.653616, 8
+3, Waffle fries, 0.643312, 9
+4, mini dance floor, 0.656044, 0
+4, large bar, 0.561802, 0
+4, bar tables, 0.563997, 1
+4, negative reviews, 0.537084, 1
+4, typical bar food, 0.65959, 2
+4, biggest Sports Bars, 0.657399, 2
+4, largest Sports bar, 0.720666, 3
+4, dive bar type, 0.682292, 3
+4, Cactus Moon, 0.973561, 5
+4, pool tables, 0.823771, 5
+4, BBQ wings, 0.830975, 6
+4, Honey BBQ wings, 0.668199, 6
+4, Bike Night, 0.667587, 7
+4, real partner dancing, 0.640943, 7
+4, Friday nights, 0.799571, 8
+4, free dance lesson, 0.637023, 8
+5, dance floor, 0.547316, 0
+5, different sauces, 0.56061, 6
+5, Refills, 0.372629, 6
+5, Dream Dealer Poker, 0.75044, 7
+5, New place, 0.512072, 7
+5, awesome buffalo wings, 0.909373, 8
+5, excellent drinks, 0.692876, 8
+5, great attention, 0.528482, 9
+5, new location, 0.517358, 9

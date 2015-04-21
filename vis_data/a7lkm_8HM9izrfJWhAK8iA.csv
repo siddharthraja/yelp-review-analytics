@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, late night pizza, 0.785566, 0
+1, pizza salon, 0.6219, 0
+1, worst eating experience, 0.707978, 1
+1, great turmoil, 0.579166, 1
+1, horrific service experience, 0.74128, 2
+1, inhumane person, 0.629061, 2
+1, owner isnt, 0.613248, 3
+1, cell phone, 0.591635, 3
+1, restaurant, 0.469726, 4
+1, guy, 0.509432, 5
+1, driver, 0.463968, 5
+1, south aiken bar, 0.952816, 6
+1, leftover pizza experience, 0.797708, 6
+1, fancy new Volvo, 0.750151, 7
+1, Ok pizza, 0.679818, 7
+1, fun place, 0.580598, 8
+1, great place, 0.577867, 8
+2, midnight meal, 0.711871, 0
+2, onion ring, 0.584896, 0
+2, dryness, 0.337782, 1
+2, spice, 0.299634, 1
+2, bbq burger, 0.663778, 2
+2, flavor, 0.441878, 2
+2, average bar food, 0.938899, 3
+2, sauce, 0.603529, 3
+2, fries, 0.418843, 4
+2, good drink specials, 0.950337, 6
+2, Original Calzone, 0.741202, 6
+2, unimpressively tasting pizza, 0.970112, 7
+2, pizza menu, 0.627902, 7
+2, place, 0.383044, 8
+3, good bar food, 0.818654, 0
+3, jalepeno poppers, 0.660171, 0
+3, mere minutes distance, 0.631392, 2
+3, shady grove, 0.573373, 2
+3, greasy fried food, 0.978, 3
+3, late night, 0.88693, 3
+3, walk home, 0.593417, 7
+3, new owner, 0.557806, 7
+3, chicken tenders, 0.58468, 8
+3, yum, 0.295482, 8
+4, estimation, 0.37416, 0
+4, food, 0.353484, 0
+4, Cheap beer, 0.630563, 2
+4, tap, 0.372567, 2
+4, spot, 0.368614, 3
+4, delivery service, 0.552375, 7
+4, peppers, 0.379014, 7
+4, quick steak quesadilla, 0.959941, 8
+4, good beer selection, 0.794624, 8

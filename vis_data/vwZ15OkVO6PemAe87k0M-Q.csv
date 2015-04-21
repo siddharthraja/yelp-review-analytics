@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, Town Scottsdale crowd, 0.733221, 0
+1, fat bouncer, 0.640761, 0
+1, Aaron Mays flop, 0.777079, 1
+1, cool place, 0.602607, 1
+1, bit cocky eh, 0.787007, 2
+1, female stripper, 0.648227, 2
+1, BEAT LOOKING CHICK, 0.81954, 3
+1, young attractive people, 0.782734, 3
+1, Mabel, 0.98992, 4
+1, place, 0.653919, 4
+1, drinks, 0.73401, 5
+1, pretty large group, 0.752753, 6
+1, exclusive club, 0.605743, 6
+1, check, 0.602923, 7
+1, Cool atmosphere, 0.57857, 7
+1, happy hour drinks, 0.66738, 8
+1, fresh drinks, 0.637194, 8
+2, old school clubby, 0.708211, 0
+2, partially tucked gents, 0.693396, 0
+2, cubby service bartender, 0.704602, 1
+2, current drinks, 0.689556, 1
+2, great bar food, 0.726977, 2
+2, Old Town club, 0.711832, 2
+2, interesting bar food, 0.714426, 3
+2, slightly awkward service, 0.712138, 3
+2, drinks, 0.912581, 4
+2, Mabel, 0.843847, 4
+2, place, 0.910509, 5
+2, food, 0.851856, 5
+2, Old Town Scottsdale, 0.828152, 6
+2, butter lettuce, 0.723684, 6
+2, happy hour food, 0.708933, 7
+2, Saturday night, 0.69125, 7
+2, French 75s, 0.687219, 8
+2, Friday night, 0.684749, 8
+3, big central bar, 0.7422, 0
+3, Nice bar, 0.731595, 0
+3, bar staff, 0.727631, 1
+3, waitress, 0.7201, 1
+3, usual bar fare, 0.734206, 2
+3, Dark mahogany wood, 0.720735, 2
+3, pork belly, 0.712963, 3
+3, Old Town Scottsdale, 0.712352, 3
+3, bar, 0.976985, 4
+3, drinks, 0.906301, 4
+3, place, 0.896885, 5
+3, food, 0.885323, 5
+3, friday night, 0.822282, 6
+3, service, 0.779366, 6
+3, typical Scottsdale bar, 0.759336, 7
+3, Saturday night, 0.727322, 7
+3, blue cheese, 0.737716, 8
+3, old fashioned feel, 0.722753, 8
+3, creative new drinks, 0.754457, 9
+3, ........, 0.737415, 9
+4, perfect bar food, 0.60519, 0
+4, East Coast place, 0.59644, 0
+4, place numerous times, 0.597755, 1
+4, dark wood, 0.633192, 3
+4, dark mahogany bar, 0.591321, 3
+4, old town, 0.9637, 4
+4, Old Town Scottsdale, 0.765872, 4
+4, place, 0.946443, 5
+4, drinks, 0.827735, 5
+4, late night place, 0.6555, 6
+4, swedish meatballs, 0.642222, 6
+4, Great Old Town, 0.623602, 7
+4, nice sophisticated place, 0.61972, 7
+4, brick walls, 0.65904, 8
+4, good date place, 0.640429, 8
+4, good drinks, 0.617798, 9
+4, friendly staff, 0.613472, 9
+5, professionally-concocted mixology-style drinks, 0.623789, 0
+5, frequent Mabel, 0.596166, 0
+5, Big center bar, 0.59414, 2
+5, good drinks, 0.635869, 3
+5, bartender, 0.631488, 4
+5, long time, 0.61289, 4
+5, place, 0.923518, 5
+5, old town, 0.830208, 5
+5, drinks, 0.855923, 6
+5, Mabel, 0.776231, 6
+5, great mixed drinks, 0.653443, 7
+5, great old school, 0.629812, 7
+5, old town scottsdale, 0.722056, 8
+5, great drinks, 0.702468, 8
+5, great atmosphere, 0.630131, 9
+5, love Mabel, 0.614611, 9

@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+3, concession stand, 0.831635, 0
+3, circular stage, 0.808319, 0
+3, entire audience, 0.819313, 1
+3, actors, 0.563446, 1
+3, line, 0.546311, 3
+3, Hairspray, 0.608591, 7
+3, tiny theater, 0.842389, 8
+3, set pieces, 0.810277, 8
+3, cute community theater, 0.948194, 9
+4, first-row audience members, 0.546318, 0
+4, Stadium seats, 0.486774, 0
+4, Little Shop, 0.483664, 1
+4, exit strategy, 0.470404, 2
+4, bad seat, 0.750224, 3
+4, stage, 0.496405, 3
+4, Christmas Carol, 0.56638, 6
+4, small theater, 0.556276, 6
+4, Hale Center Theater, 0.922775, 7
+4, improv theater, 0.487032, 7
+4, good local theater, 0.582069, 8
+4, great night, 0.518788, 8
+4, great local theater, 0.586952, 9
+4, quality shows, 0.489705, 9
+5, smaller theater size, 0.382641, 0
+5, community theater production, 0.380616, 0
+5, Hale Theatre, 0.358328, 1
+5, Dirty Rotten Scoundrels, 0.317718, 1
+5, Bye Bye Birdie, 0.543899, 3
+5, yr old granddaughter, 0.32824, 3
+5, Hale Theater, 0.934584, 6
+5, Christmas Carol, 0.708356, 6
+5, downtown Gilbert, 0.448636, 7
+5, local theater, 0.435725, 7
+5, Hale Center, 0.695832, 8
+5, Hale Center Theater, 0.592801, 8
+5, small size, 0.341928, 9
+5, fantastic season prices, 0.336122, 9

@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+1, chicken fingers, 0.750277, 0
+1, low standards, 0.661929, 0
+1, worst places, 0.682756, 1
+1, horrific service, 0.672441, 1
+1, bad employees, 0.666872, 2
+1, servers, 0.512862, 2
+1, restaurant business, 0.874216, 3
+1, nachos, 0.615721, 3
+1, chicken skewers, 0.998714, 4
+1, heads, 0.454006, 6
+3, smoking section, 0.554128, 0
+3, co-workers, 0.356136, 0
+3, Fairmont reunion site, 0.992888, 3
+3, miss, 0.299438, 3
+3, place, 0.297107, 5
+3, local bar scene, 0.846301, 6
+3, pleasant surprise, 0.68583, 6
+3, appetizers, 0.334387, 7
+3, drinks, 0.303883, 7

@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+3, Paramount Jazz Band, 0.841512, 0
+3, Acker Bilk, 0.716286, 0
+3, progressive artists, 0.559626, 1
+3, grumble, 0.410976, 1
+3, Fat Sam, 0.606718, 3
+3, Baptiste Trotignon Trio, 0.968003, 6
+3, Princes Street Gardens, 0.811098, 6
+3, Hypnotic Brass Ensemble, 0.932207, 7
+3, Gordon Sings Sinatra, 0.840082, 7
+4, middle aged men, 0.85663, 0
+4, Jazz Festival gigs, 0.852167, 0
+4, sharp suited lothario, 0.842953, 2
+4, Rat Pack numbers, 0.824187, 2
+4, pointy little beards, 0.935942, 3
+4, berets, 0.40185, 3
+4, Mattmeister, 0.355716, 6
+4, things, 0.355046, 6
+4, occasional Big Band, 0.845392, 7
+4, event, 0.377654, 7
+4, brilliant throwback, 0.664032, 8
+4, dancehall bands, 0.620793, 8

@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, good place, 0.684476, 0
+1, TVs, 0.500021, 0
+1, frozen drink, 0.838536, 1
+1, Fuck, 0.545038, 1
+1, waitress, 0.556387, 2
+1, Shock, 0.508445, 2
+1, option, 0.484517, 3
+1, Metro, 0.463696, 3
+1, Buffalo Wild Wings, 0.949506, 7
+1, thanks, 0.520987, 7
+1, Buff WW, 0.810417, 9
+1, distance, 0.459283, 9
+2, TV section, 0.681376, 0
+2, entire staff, 0.678697, 0
+2, Major points, 0.675714, 1
+2, fun bar, 0.668412, 1
+2, slightly redeeming qualities, 0.882202, 2
+2, juke box, 0.664215, 2
+2, huge bar, 0.651018, 3
+2, pool hall, 0.646485, 3
+2, track dog race, 0.948157, 6
+2, dart board, 0.696324, 6
+2, reasonable smoking patio, 0.968638, 7
+2, pool table, 0.943325, 7
+2, reasonable price, 0.7234, 8
+2, sports bar, 0.686382, 8
+3, Buffalo Wild Wings, 0.859864, 0
+3, drink menu, 0.793395, 0
+3, divey bar, 0.751105, 1
+3, Tuesday night, 0.744151, 1
+3, big ass drink, 0.901931, 2
+3, cheap drinks, 0.820744, 2
+3, SUPER cheap appetizers, 0.930607, 3
+3, .oddest bar experience, 0.91808, 3
+3, night, 0.815355, 4
+3, people, 0.800247, 5
+3, widest age range, 0.910249, 6
+3, dart boards, 0.849097, 6
+3, rounded sports bar, 0.885553, 7
+3, old people, 0.779963, 7
+3, pretty big space, 0.884715, 8
+3, kinda cool signage, 0.853633, 8
+3, Decent staff, 0.754171, 9
+4, various dangerous-looking people, 0.942604, 0
+4, skewed pictures, 0.660771, 0
+4, cranky Uncle Jesse, 0.965724, 1
+4, impersonator, 0.377301, 1
+4, faux Aussie accent, 0.896769, 2
+4, horrible experience, 0.676611, 2
+4, wheelchairs, 0.391312, 3
+4, karaoke, 0.372126, 3
+4, time, 0.438939, 5
+4, horrible places, 0.771764, 6
+4, particular visit, 0.622393, 6
+4, nice big patio, 0.868481, 7
+4, bartender staff, 0.735607, 7
+4, good mixed drinks, 0.869171, 8
+4, tap beer, 0.654285, 8
+5, biker dudes, 0.664296, 0
+5, Mexican dudes, 0.658465, 0
+5, lame Phoenix club, 0.851035, 1
+5, extended period, 0.640737, 1
+5, real working class, 0.902862, 2
+5, big soccer game, 0.86328, 2
+5, ultimate fighting, 0.854369, 3
+5, ultimate fighting event, 0.85316, 3
+5, giant union friends, 0.852552, 6
+5, beer pitchers., 0.599166, 6
+5, authentic bar, 0.650165, 7
+5, Diverse crowd, 0.623846, 7

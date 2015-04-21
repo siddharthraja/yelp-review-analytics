@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+4, Andrew Dice Clay, 0.744573, 0
+4, little Wasted Space, 0.668604, 0
+4, Wasted Space, 0.707881, 1
+4, actual venue, 0.665061, 1
+4, box office, 0.646905, 2
+4, Hard Rock hotel, 0.665376, 3
+4, place, 0.786684, 4
+4, Smashing Alice, 0.686276, 4
+4, venue, 0.834482, 5
+4, space, 0.730123, 5
+4, Hard Rock, 0.968455, 6
+4, band, 0.829287, 6
+4, smaller concert venue, 0.701162, 7
+4, good little venue, 0.691254, 7
+4, free shows, 0.723403, 8
+4, Las Vegas, 0.696324, 8
+4, small intimate space, 0.692941, 9
+4, good size floor, 0.664352, 9
+5, greatest band, 0.676187, 0
+5, butt, 0.538055, 1
+5, bathrooms, 0.536331, 1
+5, sound sucks, 0.691786, 2
+5, standing room, 0.688711, 2
+5, amateur garage band, 0.825244, 3
+5, Mark Shunock, 0.694789, 3
+5, bar, 0.56688, 4
+5, drinks, 0.629002, 5
+5, various non profit, 0.833196, 6
+5, nice size, 0.7427, 6
+5, Street Drum Corps, 0.816994, 7
+5, personal experience, 0.701773, 7
+5, rockin good time, 0.839352, 8
+5, sure return, 0.722923, 8
+5, P.A. Great vibe, 0.911767, 9
+5, pretty good view, 0.853625, 9

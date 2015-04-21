@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, usual crowd, 0.553078, 0
+1, Moldy air, 0.545891, 0
+1, drunken frat boys, 0.9246, 1
+1, douche infested place, 0.747326, 1
+1, redeeming qualities, 0.569782, 2
+1, Bar Charlotte, 0.550633, 2
+1, amateur night, 0.577796, 3
+1, better time, 0.533284, 3
+1, wine list, 0.537968, 6
+1, Saturday night, 0.500433, 6
+1, displeasure, 0.303268, 7
+1, stuff, 0.263586, 7
+2, decent customer service, 0.834773, 0
+2, Decent food, 0.706101, 0
+2, cheese wiz, 0.672893, 1
+2, fridge, 0.460205, 1
+2, vacant bar stool, 0.877159, 2
+2, horrible food, 0.64617, 2
+2, room temp, 0.685399, 3
+2, high standards, 0.676907, 3
+2, food, 0.933871, 5
+2, waitresses, 0.530461, 5
+2, sub par food, 0.864351, 6
+2, decent job, 0.669513, 6
+2, best thing, 0.678753, 7
+2, real cheese, 0.672737, 7
+2, great patio, 0.916486, 8
+3, Bloody Mary bar, 0.968941, 0
+3, little lack luster, 0.846607, 0
+3, typical bar food, 0.877273, 1
+3, decent sport bar, 0.866368, 1
+3, bar food, 0.927518, 2
+3, fried bar food, 0.892656, 2
+3, South Park, 0.865118, 3
+3, South Park mall, 0.849965, 3
+3, bar, 0.989767, 4
+3, food, 0.960968, 4
+3, place, 0.94277, 5
+3, patio, 0.877141, 5
+3, Lemon Pepper, 0.878574, 6
+3, college football season, 0.865513, 6
+3, wait staff, 0.863394, 7
+3, wallet friendly drink, 0.860774, 7
+3, pretty good deal, 0.898302, 8
+3, hat age bracket, 0.844166, 8
+3, Pretty good chill, 0.913137, 9
+3, Solid patio experience, 0.873503, 9
+4, good sports trivia, 0.788445, 0
+4, Friday lunch break, 0.733088, 0
+4, great pub-ish experience, 0.787804, 1
+4, main bar area, 0.778798, 2
+4, standard bar fare, 0.74898, 2
+4, bloody mary bar, 0.99071, 3
+4, frozen bubba burgers, 0.732889, 3
+4, drinks, 0.830172, 5
+4, wait staff, 0.745507, 5
+4, place, 0.960922, 6
+4, food, 0.892237, 6
+4, good drinks, 0.798492, 7
+4, Great summer time, 0.796849, 7
+4, great place, 0.912644, 8
+4, patio, 0.852018, 8
+4, great outdoor deck, 0.800262, 9
+4, great outdoor space, 0.776722, 9
+5, high quality ingredients, 0.780631, 0
+5, fried pickles, 0.704345, 0
+5, cocktail drinker, 0.67657, 2
+5, beer person, 0.654157, 2
+5, decent bar, 0.716117, 3
+5, night crowd, 0.671057, 3
+5, Bloody Mary bar, 0.834047, 4
+5, large patio, 0.681586, 6
+5, early dinner, 0.67562, 6
+5, great bar, 0.695278, 7
+5, Sunday brunch, 0.69029, 7
+5, Nice big patio, 0.883803, 8
+5, New Belgium beers, 0.850754, 8
+5, great chill place, 0.918769, 9
+5, Great patio, 0.732889, 9

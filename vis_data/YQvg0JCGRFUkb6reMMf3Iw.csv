@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, inattentive ASU student, 0.708207, 0
+1, lousy Sweet'N Low, 0.697977, 0
+1, pretty lousy experience, 0.701193, 1
+1, food poisoning, 0.697155, 1
+1, bar manager, 0.713901, 2
+1, service, 0.692123, 2
+1, bar tab, 0.680717, 3
+1, La Bocco, 0.660727, 3
+1, La Bocca, 0.954901, 4
+1, place, 0.733269, 4
+1, food, 0.724475, 5
+1, restaurant, 0.654103, 5
+1, bar type place, 0.718075, 6
+1, salmon caesar salad, 0.711889, 6
+1, wait staff, 0.715114, 7
+1, high hopes, 0.709337, 7
+1, margherita pizza, 0.663064, 8
+1, Ignite Phoenix, 0.656693, 8
+2, cold untoasted bruschetta, 0.498967, 0
+2, great yelp rating, 0.48377, 0
+2, little bad bananas, 0.503683, 1
+2, Little Caesars palate, 0.492001, 1
+2, pine nuts, 0.522403, 2
+2, waitress, 0.508537, 2
+2, wine bar, 0.538467, 3
+2, service, 0.52316, 3
+2, bruschetta, 0.568728, 4
+2, menu, 0.568567, 4
+2, La Bocca, 0.927939, 5
+2, pizza, 0.748067, 5
+2, place, 0.60121, 6
+2, goat cheese, 0.522489, 6
+2, Seafood pizza soup, 0.532105, 7
+2, deal La Bocca, 0.509262, 7
+2, nice looking place, 0.508324, 8
+2, little pizza/wine bar/cafe, 0.495619, 8
+2, pretty good reviews, 0.501441, 9
+2, sicily pizza, 0.489087, 9
+3, La Bocca Urban, 0.49104, 0
+3, Bocca countless times, 0.477907, 0
+3, pizza snob, 0.46253, 1
+3, trendy pizza restaurants, 0.462616, 2
+3, wine bar, 0.496278, 3
+3, garlic pizza, 0.486803, 3
+3, service, 0.535033, 4
+3, time, 0.531911, 4
+3, La Bocca, 0.976964, 5
+3, pizza, 0.727536, 5
+3, wine, 0.575868, 6
+3, sangria, 0.493746, 6
+3, restaurant La Bocca, 0.521396, 7
+3, queen creek olives, 0.477163, 7
+3, Bocca trio pizza, 0.515347, 8
+3, fresh roma tomato, 0.464517, 8
+3, tastier pizza, 0.459459, 9
+4, La Bocca Urban, 0.404325, 0
+4, table order pizza, 0.372976, 0
+4, truffle oil pizza, 0.383107, 2
+4, truffle oil, 0.430208, 4
+4, mushroom pizza, 0.414062, 4
+4, La Bocca, 0.905094, 5
+4, pizza, 0.631419, 5
+4, wine bar, 0.493655, 6
+4, place, 0.456173, 6
+4, wine list, 0.384697, 7
+4, German style pizza, 0.379497, 7
+4, great pizza, 0.424815, 8
+4, pizza crust, 0.384262, 8
+5, various pizza selections, 0.36362, 0
+5, Ron La Bocca, 0.414008, 1
+5, ........., 0.368351, 1
+5, truffled mushroom pizza, 0.388376, 2
+5, mushroom pizza, 0.435144, 3
+5, spicy pepperoni pizza, 0.36757, 3
+5, bruschetta, 0.474528, 4
+5, la bocca, 0.940137, 5
+5, pizza, 0.578726, 5
+5, food, 0.409191, 6
+5, Visit La Bocca, 0.405363, 6
+5, ice cream, 0.424244, 7
+5, truffle oil, 0.41871, 7
+5, La Bocca pizza, 0.445456, 8
+5, La Bocca Urban, 0.407672, 8
+5, Great date place, 0.35854, 9

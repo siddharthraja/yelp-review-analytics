@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, dry Ketel martini, 0.57722, 0
+1, Las Vegas economy, 0.573727, 0
+1, lake las vegas, 0.964279, 1
+1, Las Vegas area, 0.584254, 1
+1, place, 0.627112, 2
+1, sausage spicy pasta, 0.564571, 2
+1, restaurant, 0.609427, 3
+1, table, 0.587262, 3
+1, food, 0.630218, 4
+1, wine, 0.603905, 4
+1, server, 0.58106, 5
+1, drink, 0.573919, 5
+1, Mr. Movie star, 0.624456, 6
+1, west Las Vegas, 0.583791, 6
+1, wine tasting, 0.602517, 7
+1, raucous piano rendition, 0.564963, 7
+1, NY style cheesecake, 0.565005, 8
+2, blackberry pinot noir, 0.706015, 0
+2, small plates, 0.684145, 0
+2, service, 0.504332, 1
+2, Yuck, 0.444496, 1
+2, prime rib cut, 0.686657, 2
+2, high facing, 0.553401, 3
+2, husband cause, 0.548138, 3
+2, restaurant, 0.490907, 4
+2, scallop linguini, 0.620146, 6
+2, truffle mac, 0.565249, 6
+2, crab cakes, 0.774611, 7
+2, bleu cheese, 0.772623, 7
+2, Lake Las Vegas, 0.915121, 8
+2, Good drink selection, 0.694272, 8
+2, great selection, 0.588561, 9
+2, great promise, 0.584873, 9
+3, different Vegas breweries, 0.583394, 0
+3, Smoked Salmon BLT, 0.57419, 0
+3, Bacon Apple Stack, 0.651047, 2
+3, service, 0.56057, 2
+3, sliced crunchy apples, 0.577281, 3
+3, tad bit cranky, 0.566761, 3
+3, Lake Las Vegas, 0.977599, 4
+3, patio, 0.582269, 4
+3, Caesar salad, 0.57536, 5
+3, meaty applewood-smoked bacon, 0.583425, 6
+3, port wine reduction, 0.567971, 6
+3, artisan cheese appetizer, 0.639475, 7
+3, bleu cheese, 0.590933, 7
+3, Las Vegas Village, 0.594825, 8
+3, baby garlic croutons, 0.578384, 8
+3, great lake view, 0.57952, 9
+4, amazing lake view, 0.361425, 0
+4, small bites menu, 0.343103, 0
+4, Tapas menu, 0.309777, 1
+4, caprese salad, 0.354056, 2
+4, asswipe smoker, 0.352307, 3
+4, service, 0.350156, 4
+4, Lake Las Vegas, 0.91966, 5
+4, wine, 0.440538, 5
+4, pork belly, 0.521939, 6
+4, patio, 0.438422, 6
+4, cheese plate, 0.386571, 7
+4, Lake Mead, 0.36914, 7
+4, sweet potato fries, 0.440332, 8
+4, food, 0.374943, 8
+4, great little spot, 0.367376, 9
+4, proscuitto caprese sandwich, 0.336296, 9
+5, short rib tapas, 0.503732, 0
+5, Vines multiple times, 0.440877, 0
+5, half baked exchanges, 0.424064, 1
+5, dinner date, 0.3917, 3
+5, food, 0.692398, 5
+5, Lake Las Vegas, 0.908727, 6
+5, rib eye, 0.518712, 6
+5, wine, 0.579238, 7
+5, tapas plates, 0.479702, 7
+5, place, 0.520702, 8
+5, great food, 0.473821, 8
+5, wine cellar, 0.536821, 9
+5, wonderful menu choices, 0.439865, 9

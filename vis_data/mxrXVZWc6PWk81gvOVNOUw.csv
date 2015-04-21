@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, true yelp fashion, 0.744149, 0
+1, fruit fly problem, 0.738582, 0
+1, raw pork loin, 0.883495, 1
+1, western dark atmosphere, 0.768157, 1
+1, bar area, 0.806626, 2
+1, manager, 0.755368, 2
+1, famous Huckleberry margarita, 0.737138, 3
+1, food, 0.972663, 4
+1, service, 0.724543, 4
+1, place, 0.851833, 5
+1, restaurant, 0.832923, 5
+1, swanson TV dinner, 0.739603, 6
+1, ole tiny portions, 0.732527, 6
+1, regular dining area, 0.955459, 7
+1, Rotisserie Chicken Flatbread, 0.766017, 7
+1, Old Town Scottsdale, 0.730258, 8
+1, deep breaths, 0.683396, 8
+1, happy hour gig, 0.687253, 9
+2, grilled fish tacos, 0.550532, 0
+2, corporate concept restaurant, 0.538148, 0
+2, pepper rub, 0.5388, 1
+2, sarcasm control regimen, 0.527647, 1
+2, cookie cutter ideas, 0.529139, 2
+2, cut boneless breast, 0.524761, 2
+2, bar area, 0.578487, 3
+2, Roaring Fork, 0.574323, 3
+2, food, 0.882774, 4
+2, drinks, 0.57716, 4
+2, big ass burger, 0.920796, 5
+2, waiter, 0.609317, 5
+2, steak, 0.569728, 6
+2, fish tacos, 0.553298, 6
+2, greater Phoenix area, 0.631985, 7
+2, coconut green tea, 0.601189, 7
+2, green chili mac, 0.530499, 8
+2, pecan pie, 0.524076, 8
+2, green chile pork, 0.742557, 9
+2, Chile Pork appetizer, 0.539097, 9
+3, Super heavy/rich food, 0.40733, 0
+3, green chili stew, 0.387706, 1
+3, rotisserie chicken, 0.502023, 2
+3, big ass burger, 0.445773, 2
+3, tortilla soup, 0.483988, 3
+3, ice cream, 0.408501, 3
+3, service, 0.615597, 4
+3, table, 0.413, 4
+3, Roaring Fork, 0.901645, 5
+3, food, 0.737306, 5
+3, green pork chili, 0.472501, 6
+3, good food, 0.439907, 6
+3, office building, 0.438952, 7
+3, green chile mac, 0.416961, 7
+3, green chile, 0.501815, 8
+3, green chile pork, 0.479269, 8
+3, Good sized portion, 0.394405, 9
+3, Good service, 0.393727, 9
+4, delicious green chile, 0.308196, 0
+4, Chili Pork Stew, 0.298798, 0
+4, green chili, 0.442351, 3
+4, dr. pepper, 0.359189, 4
+4, Green Chili Pork, 0.338996, 4
+4, food, 0.438476, 5
+4, huckleberry bread pudding, 0.381713, 5
+4, big ass burger, 0.931922, 6
+4, green chile, 0.784858, 6
+4, huckleberry margarita, 0.334017, 7
+4, Chile Pork appetizer, 0.306867, 7
+4, Roaring Fork Happy, 0.319845, 8
+4, great food, 0.313187, 8
+4, Roaring Fork screams, 0.298264, 9
+5, time Roaring Fork, 0.24121, 0
+5, Chile Cheese Grits, 0.211792, 0
+5, happy hour prices, 0.214323, 3
+5, green chili, 0.690994, 4
+5, green chile, 0.755896, 5
+5, cheese, 0.41071, 5
+5, big ass burger, 0.867825, 6
+5, food, 0.471824, 6
+5, green chile pork, 0.751004, 7
+5, chile pork stew, 0.380582, 7
+5, Roaring Fork, 0.90323, 8
+5, green chile mac, 0.626798, 8
+5, Roaring Fork dining, 0.234164, 9
+5, great food, 0.219291, 9

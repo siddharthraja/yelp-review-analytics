@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, mixed bag kind, 0.746195, 0
+1, REAL Buffalo wings, 0.739944, 0
+1, Microwave Defrosted Chicken, 0.788545, 1
+1, bww, 0.781788, 1
+1, sports bar, 0.791436, 2
+1, favorite sports bar, 0.730428, 2
+1, popular sports game, 0.715916, 3
+1, GOOD sports bars, 0.715806, 3
+1, time, 0.70455, 5
+1, ridiculously long wait, 0.760995, 6
+1, meals small quantities, 0.728503, 6
+1, chicken salad, 0.901251, 7
+1, cheap-o tiny croutons, 0.755615, 7
+1, BBQ Chicken Salad, 0.826278, 8
+1, better salads, 0.646888, 8
+2, Wing King Cafe, 0.784735, 0
+2, spinach artichoke dip, 0.501922, 0
+2, huge turnover, 0.372872, 1
+2, particular Yelper, 0.360446, 1
+2, great wings, 0.560591, 2
+2, sports bar theme, 0.515351, 2
+2, slight problems, 0.373839, 3
+2, mix-n-match flavors, 0.372464, 3
+2, wings, 0.915083, 5
+2, place, 0.466719, 5
+2, ......wait ..., 0.914785, 6
+2, buffalo wild wings, 0.897126, 6
+2, dry rub wings, 0.656903, 7
+2, cost vs value, 0.459007, 7
+2, flavored wings, 0.525926, 8
+2, normal Buffalo sauce, 0.491513, 8
+3, Buffalo Wild Wings, 0.946851, 0
+3, extremely personal service, 0.587869, 0
+3, new slider menu, 0.562153, 1
+3, good ufc fans, 0.54181, 1
+3, galric traditional wings, 0.676976, 2
+3, flat screen TVs, 0.531649, 2
+3, hot wings, 0.564483, 3
+3, mild hangover, 0.441722, 3
+3, typical wing joint, 0.525666, 4
+3, time, 0.505755, 4
+3, food, 0.454863, 5
+3, nice football atomsphere, 0.604513, 6
+3, medium wings, 0.539105, 6
+3, great flavor, 0.43609, 7
+3, timely manner, 0.42727, 7
+3, university area, 0.456417, 8
+3, good place, 0.441022, 8
+3, NFL games, 0.574536, 9
+3, Great place, 0.45681, 9
+4, trainee servers, 0.66299, 0
+4, good experience, 0.646487, 0
+4, extremely low reviews, 0.834729, 1
+4, cocktail beverage, 0.622578, 1
+4, usual order, 0.650709, 2
+4, Yuck, 0.468841, 2
+4, big wing person, 0.860991, 3
+4, good crunch, 0.694081, 3
+4, Lemon-Pepper dry rub, 0.832176, 4
+4, menus, 0.474373, 4
+4, Buzztime trivia game, 0.94469, 6
+4, Saturday lunch, 0.683213, 6
+4, welcome change, 0.651674, 7
+4, Potato skins, 0.628313, 7
+4, tall stella artois, 0.884442, 8
+4, good service, 0.82779, 8
+4, favorite spot, 0.666387, 9
+4, BWW, 0.575094, 9

@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, Cool little atmosphere, 0.895994, 0
+1, supposed owner, 0.542999, 0
+1, sports bar atmosphere, 0.904706, 1
+1, Bad service, 0.604498, 1
+1, food, 0.844916, 2
+1, deep fried food, 0.842462, 2
+1, credit card x2, 0.823855, 3
+1, Wed night, 0.550283, 3
+1, wings, 0.337135, 4
+1, better chef, 0.558792, 6
+1, salad, 0.281528, 6
+1, burgers, 0.28022, 7
+2, gluten free diet, 0.910982, 0
+2, ice teas, 0.773792, 0
+2, place, 0.493322, 1
+2, food, 0.727252, 2
+2, time, 0.564265, 2
+2, single thing, 0.808953, 3
+2, server, 0.570355, 3
+2, Thats, 0.561446, 6
+3, bar area, 0.76044, 2
+3, burgers, 0.610674, 7
+3, choices, 0.549656, 7
+3, lunch option, 0.932462, 9
+3, place, 0.492655, 9
+4, decent specials, 0.766675, 0
+4, viewable screens, 0.757717, 0
+4, cold ass beer, 0.908959, 2
+4, beautiful bar, 0.712456, 6
+4, pool tables, 0.680344, 6
+4, winner, 0.412523, 7
+4, owners, 0.366232, 7
+4, burger, 0.440281, 8
+5, french dip, 0.671957, 0
+5, drank, 0.412411, 0
+5, big burger draft, 0.952132, 6
+5, Chelsea, 0.388193, 6
+5, pints, 0.4317, 7
+5, fireball, 0.415858, 7
+5, Great beer, 0.576001, 8
+5, Tuesdays, 0.392573, 8
+5, Great place, 0.759816, 9
+5, fun Tons, 0.621247, 9

@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, horrible horrible place, 0.679632, 0
+1, goat cheese wonton, 0.635843, 0
+1, Extremely Overpriced Drinks, 0.670061, 1
+1, club, 0.660505, 1
+1, dance floor, 0.822305, 2
+1, classic L.A. names, 0.642476, 2
+1, friends, 0.662735, 3
+1, bartender, 0.599922, 3
+1, place, 0.99023, 4
+1, mint, 0.883246, 4
+1, dress code, 0.694864, 5
+1, people, 0.694244, 5
+1, Check, 0.629267, 6
+1, sweeten iced tea, 0.622562, 6
+1, great HH menu, 0.636444, 7
+1, money, 0.611764, 7
+1, better places, 0.658486, 8
+1, all-time great DJs, 0.637613, 8
+1, improved Mint, 0.605609, 9
+2, good looking people, 0.632153, 0
+2, gay club music, 0.615349, 0
+2, upper class, 0.606978, 1
+2, drunk people, 0.591854, 1
+2, people old men, 0.608006, 2
+2, lounge/dance club aspect, 0.603016, 2
+2, dress code, 0.755981, 3
+2, people, 0.742184, 3
+2, place, 0.983022, 4
+2, dance floor, 0.790162, 4
+2, night, 0.639796, 5
+2, food, 0.631361, 5
+2, good place, 0.689628, 6
+2, time, 0.645496, 6
+2, good late night, 0.620367, 7
+2, Facebook page, 0.591178, 7
+2, great place, 0.634443, 8
+2, fun place, 0.591481, 9
+3, night life review, 0.719414, 0
+3, killer dance floor, 0.70866, 0
+3, Old Town Scottsdale, 0.71226, 1
+3, dirty old men, 0.708789, 1
+3, dance floor, 0.863687, 2
+3, separate checks, 0.726757, 2
+3, Old Town, 0.795254, 3
+3, good time, 0.718246, 3
+3, food, 0.718948, 4
+3, times, 0.689845, 4
+3, place, 0.979798, 5
+3, mint, 0.925756, 5
+3, fun little experience, 0.712242, 6
+3, usual club hopping, 0.709869, 6
+3, beautiful people, 0.805695, 7
+3, fun, 0.734593, 7
+3, good looking people, 0.762426, 8
+3, Cheers. Great place, 0.737049, 8
+3, nice wrap-around patio, 0.709322, 9
+3, great party atmosphere, 0.700302, 9
+4, good service, 0.694906, 0
+4, tuna tartar BETTER, 0.694421, 0
+4, dance floor, 0.771417, 2
+4, wicked spicy sauce, 0.697991, 2
+4, Saturday night, 0.943202, 4
+4, mint, 0.917614, 5
+4, place, 0.876058, 5
+4, tuna tartar, 0.798778, 6
+4, effen cucumber vodka, 0.758549, 6
+4, great place, 0.740497, 7
+4, club experience, 0.737191, 7
+4, good time, 0.745458, 8
+4, great time, 0.745229, 8
+4, great long bar, 0.746488, 9
+4, summer-appropriate refreshing drinks, 0.712823, 9
+5, large lounge area, 0.527787, 0
+5, Guest list line, 0.527031, 0
+5, nearest liquor dealer, 0.54615, 2
+5, entrance lines, 0.63187, 3
+5, cover charge, 0.59446, 3
+5, Wednesday nights, 0.628385, 4
+5, people, 0.621923, 4
+5, dance floor, 0.932735, 5
+5, night, 0.733706, 5
+5, Mint party buses, 0.568736, 6
+5, Mint go-go dancers, 0.564903, 6
+5, old town, 0.6905, 7
+5, go-go dancers, 0.608432, 7
+5, place, 0.736047, 8
+5, guest list, 0.725987, 8
+5, fun night club, 0.583894, 9
+5, great outdoor patio, 0.56357, 9

@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, horrible service, 0.719062, 0
+1, horrible horrible service, 0.692085, 0
+1, customer service, 0.814994, 1
+1, bar food quality, 0.688341, 1
+1, bar food, 0.810613, 2
+1, Over-priced salty food, 0.675591, 2
+1, Gordon Biersch, 0.629108, 3
+1, decent chef salad, 0.62592, 3
+1, food, 0.959204, 4
+1, way, 0.676818, 4
+1, beer, 0.694847, 5
+1, chef salad, 0.628611, 5
+1, great bar food, 0.661615, 6
+1, good local placement, 0.626475, 6
+1, craft beer fans, 0.635109, 7
+1, craft beer club, 0.633916, 7
+1, Good beer, 0.604837, 8
+2, good ole college, 0.589683, 0
+2, exceptional food, 0.579026, 0
+2, average bar food, 0.628129, 1
+2, strong beer taste, 0.59478, 1
+2, bar food, 0.772199, 2
+2, parking, 0.637002, 2
+2, waitress, 0.673482, 3
+2, time, 0.655078, 3
+2, place, 0.754493, 4
+2, table, 0.728584, 4
+2, food, 0.981953, 5
+2, beer, 0.881701, 5
+2, excellent beer city, 0.595608, 6
+2, Kilt Lifter, 0.588637, 6
+2, better food, 0.652246, 7
+2, good food, 0.599789, 7
+2, Peaks beer, 0.611908, 8
+2, Good beer, 0.60432, 8
+3, real good beer, 0.384466, 0
+3, good fallback brew, 0.332773, 0
+3, peaks beer, 0.379788, 1
+3, street parking, 0.332169, 1
+3, bitter beer face, 0.329951, 2
+3, good parking fight, 0.325418, 2
+3, average bar food, 0.319287, 3
+3, seasonal beer, 0.315863, 3
+3, food, 0.78496, 4
+3, parking, 0.491919, 4
+3, beer, 0.955653, 5
+3, peaks, 0.656516, 5
+3, beer bread, 0.496847, 6
+3, comfort bar food, 0.32592, 6
+3, chicken beer bread, 0.402786, 7
+3, good food, 0.379462, 7
+3, beer battered fries, 0.385648, 8
+3, great beer, 0.358926, 8
+3, good place, 0.376877, 9
+3, pretty good place, 0.374135, 9
+4, beer battered fries, 0.427648, 0
+4, Pumpkin Ale beer, 0.417007, 0
+4, sports bar, 0.435594, 2
+4, parking, 0.503413, 3
+4, big beer drinker, 0.427073, 3
+4, good food, 0.539292, 4
+4, brewery, 0.46045, 4
+4, beer, 0.917101, 5
+4, food, 0.738112, 5
+4, beers, 0.504557, 6
+4, bar food, 0.483488, 6
+4, great place, 0.56689, 7
+4, good beer, 0.538324, 7
+4, beer bread, 0.54484, 8
+4, great food, 0.500664, 8
+4, great beer, 0.562215, 9
+4, absolutely great beer, 0.462608, 9
+5, good tasting food, 0.427968, 0
+5, Brewing Company beer, 0.425121, 0
+5, Peaks Brewing Company, 0.508174, 1
+5, hardened beer drinkers, 0.432112, 1
+5, dark beer, 0.451377, 2
+5, hop knot, 0.697419, 4
+5, beer bread, 0.678378, 4
+5, beer, 0.933427, 5
+5, food, 0.779863, 5
+5, oatmeal stout, 0.567323, 6
+5, best pub food, 0.452936, 6
+5, raj ipa, 0.505583, 7
+5, beef beer bread, 0.502986, 7
+5, great beer, 0.577512, 8
+5, good food, 0.507837, 8
+5, drinking good beer, 0.451383, 9
+5, great beers, 0.441063, 9

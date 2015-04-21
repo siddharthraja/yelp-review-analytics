@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, food worse bartenders, 0.961059, 0
+1, non existent, 0.775868, 0
+1, dingy smoke, 0.783313, 1
+1, atrocious service, 0.751654, 1
+1, mins, 0.502077, 2
+1, racist, 0.498136, 2
+1, Kind, 0.471052, 3
+1, problem, 0.455201, 3
+2, wing prices, 0.782255, 0
+2, cents, 0.443287, 0
+2, small box, 0.704825, 2
+2, bartender, 0.424746, 2
+2, wings, 0.985833, 3
+2, teh first time, 0.732985, 3
+2, couple cheaper places, 0.941951, 7
+2, kinds, 0.410397, 7
+3, free chicken wings, 0.601223, 0
+3, go-to wing sauces, 0.543735, 0
+3, little heart, 0.429275, 1
+3, fan movement, 0.41311, 1
+3, average bar food, 0.522404, 2
+3, sport game, 0.424764, 2
+3, Ugly Dog, 0.938802, 3
+3, Ugly Dog Saloon, 0.575417, 3
+3, wings, 0.772755, 4
+3, AMAZING wings, 0.522376, 6
+3, good prices, 0.415045, 6
+3, great wings, 0.618056, 7
+3, alright place, 0.445951, 7
+3, happy hour crowd, 0.429576, 8
+3, Pittsburgh, 0.32336, 8
+4, batter coated fries, 0.636821, 0
+4, hot wings, 0.630644, 0
+4, big time potential, 0.637487, 1
+4, little local joint, 0.617478, 1
+4, Bacon Cheeseburger Stuffed, 0.638074, 2
+4, CHEESE STEAK, 0.537012, 2
+4, shelf liquer, 0.52345, 3
+4, long way, 0.5161, 3
+4, wings, 0.911547, 5
+4, Ugly Dog Saloon, 0.851342, 6
+4, place, 0.735183, 6
+4, FREE DRINKS, 0.585324, 7
+4, Nacho Cheese, 0.535078, 7
+4, exceptionally crispy fries, 0.646037, 8
+4, buffalo wings, 0.642189, 8
+4, different flavors, 0.514558, 9
+5, trivia nights, 0.763851, 0
+5, big review, 0.603399, 6
+5, awesome specials, 0.925679, 8
+5, lively staff, 0.801626, 8

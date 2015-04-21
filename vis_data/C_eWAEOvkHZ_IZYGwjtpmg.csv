@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, food service industry, 0.427483, 0
+1, Slow food movement, 0.410954, 0
+1, cotton candy, 0.549531, 1
+1, free cotton candy, 0.43229, 1
+1, waitress, 0.519083, 2
+1, game night, 0.423091, 2
+1, food, 0.924451, 3
+1, fresh hot food, 0.410302, 3
+1, manager, 0.665034, 4
+1, service, 0.591048, 4
+1, saddle ranch, 0.760894, 5
+1, place, 0.632001, 5
+1, drink order, 0.401374, 6
+1, ........., 0.39816, 6
+1, better food, 0.419659, 7
+1, food taste, 0.388296, 7
+1, casual night time, 0.407848, 8
+1, original burger medium., 0.385889, 8
+2, pseudo western place, 0.622468, 0
+2, ridiculous I.D. checking, 0.614557, 0
+2, little brunch crew, 0.603386, 1
+2, Herb Chicken entree, 0.60056, 1
+2, bar, 0.638869, 2
+2, RockStar  energy drink, 0.627035, 2
+2, Bladder buster drink, 0.625407, 3
+2, service, 0.611343, 3
+2, Saddle Ranch, 0.926426, 4
+2, food, 0.79748, 4
+2, baked potato, 0.69463, 5
+2, night, 0.635376, 5
+2, token electric bull, 0.616354, 6
+2, -Sunday morning, 0.608682, 6
+2, reasonably priced drink, 0.64098, 7
+2, Sunday night contest, 0.632141, 7
+2, late night jaunts, 0.624897, 9
+2, bartenders great crowd, 0.601986, 9
+3, regular food items, 0.534334, 0
+3, Coyotes game night, 0.526781, 0
+3, game time, 0.501247, 1
+3, bloody mary mix, 0.494927, 1
+3, coyotes game, 0.59126, 2
+3, bloody mary, 0.542654, 2
+3, stadium Saddle Ranch, 0.508804, 3
+3, food, 0.764939, 4
+3, time, 0.587333, 4
+3, saddle ranch, 0.941602, 5
+3, mechanical bull, 0.895073, 5
+3, good quality service, 0.538186, 6
+3, indoor mechanical bull, 0.530538, 6
+3, cotton candy, 0.595514, 7
+3, buffalo chicken sandwich, 0.568326, 7
+3, sweet potato fries, 0.644295, 8
+3, BBQ chicken sandwich, 0.536685, 8
+3, good drinks specials, 0.538617, 9
+3, great western atmophere, 0.500012, 9
+4, Good place, 0.613382, 0
+4, regular dinner place, 0.604453, 0
+4, little customer service, 0.603806, 1
+4, ENORMOUS mixed drinks, 0.596765, 1
+4, SR Chop House, 0.655332, 2
+4, crappy food, 0.598058, 2
+4, mechanical bull, 0.967903, 3
+4, pretty nice setup, 0.595102, 3
+4, Chop House, 0.706981, 4
+4, people, 0.592242, 4
+4, saddle ranch, 0.946942, 5
+4, food, 0.942636, 5
+4, place, 0.808694, 6
+4, good time, 0.736839, 6
+4, cotton candy, 0.775173, 7
+4, great long island, 0.602061, 7
+4, sweet potato fries, 0.845462, 8
+4, great food, 0.665328, 8
+4, great place, 0.644363, 9
+4, pretty fun place, 0.639693, 9
+5, biggest cotton candy, 0.568593, 0
+5, Nice big bar, 0.568275, 0
+5, Saddle Ranch Chop, 0.558458, 2
+5, big ass salad, 0.544735, 2
+5, country bar, 0.524043, 3
+5, cotton candy, 0.990407, 5
+5, food, 0.642414, 5
+5, saddle ranch, 0.849109, 6
+5, french dip, 0.626755, 6
+5, sweet potato fries, 0.777078, 7
+5, pink cotton candy, 0.577899, 7
+5, Great place, 0.643858, 8
+5, great time, 0.614399, 8
+5, good food Great, 0.635434, 9
+5, Thanks Great place, 0.602321, 9

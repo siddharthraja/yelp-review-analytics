@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, nondescript black sneakers, 0.745139, 0
+1, god awful sneakers, 0.740595, 0
+1, dark nondescript sneakers, 0.747272, 1
+1, supermarket complex, 0.734459, 1
+1, down/ lukewarm drinks, 0.764665, 2
+1, Bay Area hipster, 0.735904, 2
+1, strip mall, 0.84137, 3
+1, people, 0.766275, 3
+1, bar, 0.931155, 4
+1, drinks, 0.905488, 4
+1, time, 0.760473, 5
+1, completely different genre, 0.706996, 6
+1, extra drink, 0.686847, 6
+1, Greco/Roman white pillars, 0.721231, 7
+1, natural habitat, 0.710936, 7
+1, good Martini specials, 0.720308, 8
+1, Martini North, 0.718981, 8
+2, Devils Martini North, 0.862281, 0
+2, 40 year old virgin, 0.833293, 0
+2, crowd demographics, 0.799191, 1
+2, bar cheesy, 0.745927, 1
+2, dance floor, 0.836272, 2
+2, appetizer food, 0.744246, 2
+2, older sugar daddy, 0.822673, 3
+2, spring break style, 0.816485, 3
+2, crowd, 0.900032, 4
+2, place, 0.859746, 4
+2, french fries, 0.860953, 6
+2, older sugar mama, 0.853523, 6
+2, fun dance club, 0.858469, 7
+2, old fashioned people, 0.841219, 7
+2, Old Town counterpart, 0.832928, 8
+2, wine tasting benefit, 0.805387, 8
+2, San Diego, 0.73299, 9
+2, bartender staff, 0.732622, 9
+3, .......GIRLS?, 0.715498, 0
+3, pole dance class, 0.688443, 0
+3, bad cheesy wedding, 0.715065, 1
+3, drunk girls, 0.706726, 1
+3, ever-present BALCO contingent, 0.728621, 2
+3, sticky hands, 0.726237, 2
+3, dance floor, 0.93851, 3
+3, Old Town, 0.725452, 3
+3, night, 0.779062, 5
+3, place, 0.728063, 5
+3, bachelorette party, 0.70222, 6
+3, Passion Fruit martini, 0.69097, 6
+3, good time, 0.774149, 7
+3, standard wedding favorites, 0.704606, 7
+3, pretty good time, 0.739587, 8
+3, fancy martini menu, 0.701356, 8
+4, dance floor, 0.780205, 0
+4, college age crowd, 0.70089, 0
+4, mixed crowd, 0.624396, 1
+4, sexy sophistication love, 0.664283, 2
+4, beautiful young women, 0.663174, 2
+4, overstuffed white couches, 0.687445, 3
+4, old people, 0.613331, 3
+4, drinks, 0.721509, 4
+4, place, 0.658816, 5
+4, night, 0.931243, 6
+4, people, 0.689582, 6
+4, good time, 0.681911, 7
+4, white chaise longues, 0.68039, 7
+4, older crowd, 0.695088, 8
+4, great looking martini, 0.690835, 8
+4, fun places, 0.618158, 9
+5, older crownd leaves, 0.625626, 0
+5, comfy couches, 0.54459, 0
+5, Martini t-shirts, 0.691738, 3
+5, flip flops kids, 0.687587, 3
+5, dress code, 0.495645, 6
+5, patio, 0.370622, 6
+5, Thursday night, 0.503202, 7
+5, good mix, 0.484054, 7
+5, Godiva Chocolate martini, 0.937725, 8
+5, Bananas Foster martini, 0.927889, 8
+5, amazing martini, 0.772951, 9
+5, Martini North, 0.744195, 9

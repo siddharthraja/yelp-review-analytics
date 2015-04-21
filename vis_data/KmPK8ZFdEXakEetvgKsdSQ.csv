@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, long time, 0.923558, 0
+1, new restaurant, 0.8681, 0
+1, false excuses, 0.979583, 1
+1, mistake, 0.547764, 1
+1, food, 0.989586, 2
+1, service, 0.626573, 2
+1, Saw several customers, 0.991149, 3
+1, right home, 0.92329, 3
+1, Fish Tacos, 0.991317, 6
+1, waiter, 0.547106, 6
+1, Haymakers, 0.589061, 7
+1, couple, 0.525351, 9
+1, experience, 0.519452, 9
+2, half sandwich options, 0.851554, 0
+2, ceasar salad, 0.754388, 0
+2, alley French fries, 0.792891, 1
+2, little flavor, 0.594649, 1
+2, shredded cabbage mix, 0.820436, 2
+2, bottled standard dressing, 0.815498, 2
+2, average time, 0.6177, 3
+2, actual slices, 0.611149, 3
+2, salad, 0.796758, 4
+2, long time, 0.79634, 4
+2, food, 0.729769, 5
+2, order, 0.488257, 5
+2, garden salad, 0.733635, 6
+2, 10/17, 0.44461, 6
+2, new restaurant, 0.654257, 7
+2, Wildflower Bread, 0.631787, 7
+2, sweet potato fries, 0.984882, 8
+2, good craft beer, 0.750636, 8
+2, good beer, 0.59391, 9
+2, place, 0.473192, 9
+3, burger wit pastrami, 0.991135, 0
+3, mason type jar, 0.876686, 0
+3, high tops, 0.719296, 1
+3, menu offerings, 0.682386, 1
+3, little training, 0.692845, 2
+3, wife, 0.648138, 2
+3, food, 0.792952, 3
+3, service slowdown, 0.733788, 3
+3, service, 0.735157, 4
+3, tables, 0.635283, 4
+3, time, 0.777088, 5
+3, servers, 0.634731, 5
+3, fried pickles, 0.91935, 6
+3, burger spot, 0.779577, 6
+3, spicy chicken sandwich, 0.882844, 7
+3, huge burger, 0.754877, 7
+3, good job, 0.728413, 8
+3, pretzel roll, 0.722972, 8
+4, dessert menu items, 0.866009, 0
+4, bad food experience, 0.861377, 0
+4, fried green tomato, 0.909887, 1
+4, short stack, 0.754475, 1
+4, huge lineup, 0.736787, 2
+4, deep fried tomato, 0.915636, 6
+4, fried pickles, 0.801062, 6
+4, arizona burger, 0.904842, 7
+4, teriyaki steak bowl, 0.877849, 7
+4, good dining experience, 0.874913, 8
+4, French Dip sandwich, 0.865493, 8
+4, Great new addition, 0.860069, 9
+4, grilled pickles, 0.763094, 9
+5, American country style, 0.689088, 0
+5, Chicken Fried Chicken, 0.687555, 0
+5, dinner food, 0.647555, 3
+5, good food, 0.884181, 5
+5, service, 0.741736, 5
+5, food, 0.982678, 6
+5, travel baseball team, 0.721512, 6
+5, chipotile cream sauce, 0.71805, 7
+5, good service, 0.713966, 7
+5, great place, 0.813473, 8
+5, Great food, 0.714195, 8
+5, great experience, 0.640357, 9
+5, great beer, 0.637789, 9

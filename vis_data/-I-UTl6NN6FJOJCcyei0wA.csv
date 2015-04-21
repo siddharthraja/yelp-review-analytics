@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, to-go order, 0.603238, 0
+1, Sorry folks, 0.575477, 0
+1, little window, 0.815022, 1
+1, food, 0.66366, 1
+1, mouth issue, 0.570719, 2
+1, waitress, 0.38741, 2
+1, good reviews, 0.525772, 3
+1, compliments, 0.28921, 3
+1, hand, 0.506157, 4
+1, sandwich, 0.945421, 5
+1, newly made sandwich, 0.690924, 6
+1, to-go container, 0.653969, 6
+1, place, 0.69005, 7
+1, stars, 0.484333, 7
+2, corn meal batter, 0.837598, 0
+2, corn beef sandwich, 0.813994, 0
+2, deli, 0.449225, 1
+2, italian sausage, 0.597232, 2
+2, good food, 0.590108, 2
+2, cheese, 0.475127, 3
+2, quantity, 0.439708, 3
+2, chicken parm, 0.926643, 5
+2, Decent beer selection, 0.790726, 6
+2, parm  sandwiches, 0.704535, 6
+2, pretty good fries, 0.791449, 8
+2, filet, 0.458851, 8
+3, chicken salad sandwich, 0.997721, 0
+3, big plus, 0.381888, 0
+3, typical bar food, 0.72669, 2
+3, real service, 0.425334, 2
+3, local beer selection, 0.702811, 6
+3, veggie burger, 0.470133, 7
+3, good deli sandwich, 0.908263, 8
+3, CPCC campus, 0.474013, 8
+3, wait staff, 0.44525, 9
+4, somewhat narrow space, 0.843003, 0
+4, family owned business, 0.840756, 0
+4, Killer food, 0.751598, 1
+4, take-out lunch, 0.782556, 2
+4, suburban sprawl, 0.752073, 2
+4, meat, 0.786051, 3
+4, order meat, 0.783952, 3
+4, grocery store deli, 0.890181, 6
+4, deli sandwiches, 0.828754, 6
+4, great lunch spot, 0.885302, 7
+4, Good food, 0.772139, 7
+4, pub style food, 0.8916, 8
+4, Great French dips, 0.881361, 8
+4, New York sandwiches, 0.904437, 9
+4, good corned beef, 0.890559, 9

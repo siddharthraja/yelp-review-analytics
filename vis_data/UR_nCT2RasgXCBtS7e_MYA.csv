@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, jalapeno cheddar bagel, 0.832765, 0
+2, warmed bagel, 0.738004, 0
+2, rude woman, 0.588547, 1
+2, orange pekoe, 0.586688, 1
+2, burnt coffee, 0.597938, 2
+2, damn food, 0.592761, 2
+2, bean counters, 0.561969, 3
+2, display case, 0.559565, 3
+2, coffee, 0.952679, 4
+2, fancy shmancy facade, 0.709393, 6
+2, premium coffee prices, 0.708423, 6
+2, sub par coffee, 0.775081, 7
+2, iced coffee, 0.7692, 7
+2, Roasted Bean, 0.754028, 8
+2, hotel guests, 0.701061, 8
+2, Jean Phillipe, 0.558485, 9
+3, non-fat chai latte, 0.551109, 0
+3, hatter tea party, 0.510428, 0
+3, Las Vegas, 0.442253, 1
+3, Roasted Bean brand, 0.584803, 2
+3, chocolate flavor, 0.517452, 2
+3, little coffee shop, 0.598017, 3
+3, little bit nicer, 0.545099, 3
+3, roasted bean, 0.959847, 4
+3, mirage, 0.480875, 4
+3, coffee, 0.851172, 5
+3, Vegas, 0.498183, 5
+3, coffee shop, 0.627478, 6
+3, blueberry granola oatmeal, 0.50993, 6
+3, carrot cake, 0.80398, 7
+3, coffee au lait, 0.597721, 7
+3, pretty good coffee, 0.651595, 8
+3, carrot cake cupcake, 0.59508, 8
+3, quick breakfast, 0.582956, 9
+3, tasty cupcakes, 0.4863, 9
+4, new drink refill, 0.649224, 0
+4, baked goods, 0.512508, 0
+4, Kardashian Khaos store, 0.654213, 2
+4, morning, 0.385728, 2
+4, desperate need, 0.478032, 3
+4, tourist trap, 0.469724, 3
+4, decent size, 0.513045, 6
+4, bagel, 0.394139, 6
+4, Roasted Bean, 0.955435, 7
+4, Las Vegas, 0.841163, 7
+4, sugar free muffin, 0.67972, 8
+4, good tasting coffee, 0.627927, 8
+4, nice upper end, 0.723775, 9
+4, smooth tea combo, 0.647796, 9
+5, best choco crossaint, 0.923292, 7
+5, to-go counter, 0.819095, 7

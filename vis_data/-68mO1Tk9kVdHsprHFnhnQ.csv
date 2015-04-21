@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+2, vacation, 0.418671, 0
+2, nice little lounge, 0.9528, 3
+2, pit stop, 0.823789, 3
+2, eye view, 0.660138, 8
+2, casino, 0.417906, 8
+3, previous reviewer, 0.695034, 0
+3, iron railings, 0.664493, 0
+3, salty, 0.322919, 2
+3, prices, 0.28751, 2
+3, hang-out bar, 0.809822, 3
+3, Paris, 0.377984, 3
+3, Big comfy seats, 0.950869, 6
+3, quick drink, 0.753538, 6
+3, portion sizes, 0.650774, 7
+3, people, 0.468354, 7
+3, lobby, 0.306901, 8
+3, setting, 0.284368, 8
+3, fun place, 0.583997, 9
+4, regular Martini, 0.560355, 0
+4, fellow Vegas visitor, 0.526069, 0
+4, worse drinks, 0.438234, 1
+4, comped drinks, 0.434603, 1
+4, Bloody Mary, 0.528128, 2
+4, special Ketel, 0.43874, 2
+4, official martini list, 0.675374, 3
+4, bar, 0.433102, 3
+4, Le Central, 0.908867, 4
+4, bartender, 0.372499, 5
+4, martini, 0.754697, 6
+4, Great people, 0.421559, 6
+4, better martini deals, 0.658048, 7
+4, nice chair, 0.44234, 7
+4, nice place, 0.577155, 8
+4, Paris hotel, 0.424086, 8
+4, better price, 0.416304, 9
+4, Bally, 0.327697, 9
+5, little french village, 0.886979, 0
+5, sleepy little lounge, 0.880135, 0
+5, Las Vegas, 0.990934, 2
+5, chocolate martini, 0.668095, 2
+5, chocolate martinis, 0.735122, 3
+5, Absolute dream, 0.680497, 3
+5, bit, 0.45416, 6
+5, Paris Hotel, 0.919821, 7
+5, great spot, 0.618438, 7
+5, nice stop, 0.667004, 8
+5, blown scene, 0.637556, 8
+5, proper cocktail, 0.640729, 9
+5, passers, 0.412642, 9

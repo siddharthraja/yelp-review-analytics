@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, dirtieth thirtieth birthday, 0.900439, 0
+1, slow night, 0.629543, 0
+1, foot, 0.371819, 1
+1, tip, 0.363558, 1
+1, cherry flavor, 0.666226, 2
+1, Hubby, 0.541303, 2
+1, girls drinks, 0.635493, 3
+1, party, 0.362268, 3
+1, Rouge, 0.572913, 4
+1, cherry limeade, 0.845979, 6
+1, lime juice, 0.634856, 6
+1, cocktail waitress, 0.701172, 7
+1, D.J. Skribble, 0.68943, 7
+1, comfortable seats, 0.646274, 8
+1, old bartenders, 0.623633, 8
+1, free drink, 0.667781, 9
+1, new mixology, 0.661729, 9
+2, French maid outfit, 0.877267, 0
+2, cocktail waitresses, 0.816, 0
+2, b-day bar crawl, 0.928721, 1
+2, flavored ice cubes, 0.91995, 1
+2, Rouge, 0.894961, 2
+2, cocktail list, 0.781348, 2
+2, blackjack terms, 0.754665, 3
+2, bar tender, 0.748269, 3
+2, drink, 0.945751, 4
+2, bartender, 0.913374, 4
+2, Sophisticated Model Servers, 0.859177, 6
+2, mixology range, 0.759944, 6
+2, Vinyl diner decor, 0.891578, 7
+2, discount fashion store, 0.852951, 7
+2, TINY cocktail, 0.816326, 8
+2, hookah discount, 0.743237, 8
+3, RE/MAX R4 convention, 0.903689, 0
+3, overpriced Vegas bar, 0.888849, 0
+3, holy crap, 0.795554, 1
+3, whiny requests, 0.789228, 1
+3, hurt puppy, 0.773508, 2
+3, fun/cool place, 0.773426, 2
+3, lemon drop, 0.783223, 3
+3, night, 0.769174, 3
+3, drinks, 0.923342, 4
+3, place, 0.832403, 5
+3, big surprise, 0.79092, 6
+3, 21st birthday, 0.77992, 6
+3, free drink coupons, 0.939234, 7
+3, black striped shirts, 0.911707, 7
+3, trippy wall, 0.802572, 8
+3, light effects, 0.794291, 8
+3, fun place, 0.769532, 9
+3, easy meet, 0.765265, 9
+4, Pomegranate Ice Cubes, 0.838133, 0
+4, famous Rouge Cocktail, 0.828213, 0
+4, sparse crowd, 0.645155, 1
+4, standard bar drinks, 0.87607, 2
+4, lounge bar, 0.658071, 3
+4, Kinky Martini, 0.656918, 3
+4, drinks, 0.897581, 5
+4, Cute little cocktail, 0.830238, 6
+4, Stoli Blueberry, 0.662651, 6
+4, ice cubes, 0.994292, 7
+4, Mint Mondays, 0.90231, 7
+4, great place, 0.892542, 8
+4, free drink voucher, 0.797607, 8
+4, drinks.. great atmosphere, 0.811944, 9
+4, delicious drink, 0.694284, 9
+5, deserves, 0.208751, 0
+5, hodgepodge, 0.225846, 1
+5, martini spilled, 0.599252, 2
+5, -My friend, 0.484662, 2
+5, -The piano player, 0.824045, 6
+5, -STRONG DRINKS, 0.522159, 6
+5, -The customers, 0.625651, 7
+5, good martinis, 0.588833, 7
+5, pretty decent wine, 0.906433, 8
+5, Beautiful decor, 0.555853, 8

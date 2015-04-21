@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+1, Friday fish fry, 0.996068, 0
+1, unbussed tables, 0.603753, 0
+1, credit cards, 0.53444, 1
+1, stale taste, 0.630113, 2
+1, bar, 0.540328, 2
+1, good size pieces, 0.82226, 6
+1, fries, 0.222655, 6
+1, cottage cheese, 0.581019, 7
+1, dinner roll, 0.559676, 7
+4, long night, 0.490299, 0
+4, brunch, 0.324164, 0
+4, greasy plate, 0.646087, 1
+4, dive bars, 0.570117, 1
+4, friendly bartender, 0.647385, 6
+4, steak breakfast, 0.77919, 7
+4, Bartender Jamie, 0.712292, 7
+4, favorite breakfast joints, 0.950368, 8
+4, crispy crunchy, 0.693496, 8
+5, husband, 0.473077, 0
+5, drink, 0.469615, 0
+5, little dive bars, 0.905586, 2
+5, taps, 0.479066, 3
+5, great microbrews, 0.720346, 6
+5, meat raffle, 0.688722, 6
+5, Traditional breakfasts, 0.688778, 7
+5, Friday nights, 0.673142, 7
+5, waitress/ bartender, 0.68539, 9
+5, weekends, 0.56334, 9

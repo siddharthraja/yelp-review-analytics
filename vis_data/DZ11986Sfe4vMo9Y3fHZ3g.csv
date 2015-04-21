@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, k'n, 0.446934, 2
+1, OMG, 0.629118, 3
+1, hole, 0.462757, 3
+1, ........., 0.770796, 5
+1, Health Dept, 0.960809, 6
+1, bathrooms, 0.60821, 6
+2, bad bathrooms, 0.953198, 1
+2, drinks, 0.577623, 6
+2, DJ, 0.553523, 6
+3, little neighborhood bar, 0.900794, 0
+3, sideways glance, 0.667181, 0
+3, Cheap drinks, 0.789977, 1
+3, white person, 0.597719, 1
+3, Dirty bathrooms, 0.784699, 2
+3, Seedy crowd, 0.742806, 2
+3, free entertainment, 0.631014, 3
+3, credit cards, 0.615359, 3
+3, skin color, 0.618929, 6
+3, Cheers, 0.391027, 6
+3, Good drinks, 0.77343, 7
+3, Good prices, 0.685513, 7
+3, bartenders, 0.526962, 8
+3, customers, 0.359905, 8
+4, catfish balls, 0.813844, 0
+4, anyplace, 0.60677, 0
+4, smoke, 0.569799, 2
+4, smoking, 0.568356, 2
+4, ladies room, 0.7805, 3
+4, Great Dive Bar, 0.986903, 7
+4, interesting mix, 0.858426, 7
+4, beers, 0.673834, 8
+4, drinkers, 0.589924, 8

@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, worst dining experiences, 0.93027, 0
+1, high cost items, 0.868129, 0
+1, casual dinner, 0.595106, 1
+1, losses, 0.360424, 1
+1, bread, 0.700494, 2
+1, white bread, 0.676513, 2
+1, dirty film, 0.605056, 3
+1, bar order, 0.60214, 3
+1, table, 0.681305, 4
+1, wine, 0.660929, 5
+1, bottle, 0.510531, 5
+1, Cat Stevens songs, 0.817301, 6
+1, typical lounge songs, 0.816043, 6
+1, dining room, 0.575147, 7
+1, husband, 0.431403, 7
+2, chunky tomato sauce, 0.908782, 0
+2, chance Chianti, 0.812171, 0
+2, new Chronic Tacos, 0.868055, 1
+2, milk froth, 0.756984, 1
+2, dining room section, 0.869308, 2
+2, mediocre wine, 0.796591, 2
+2, McManis cab, 0.770743, 3
+2, lovely Mary, 0.761965, 3
+2, food, 0.847072, 4
+2, place, 0.789466, 4
+2, wine, 0.966536, 5
+2, fresh spinach, 0.917574, 6
+2, Sunday -early dinner, 0.917202, 7
+2, chianti, 0.824167, 7
+2, nicest staff, 0.793239, 8
+3, standard supermarket variety, 0.896978, 0
+3, appropriate rye bread, 0.872161, 0
+3, bad experience, 0.63553, 1
+3, restaurant, 0.359984, 1
+3, presentation, 0.355526, 2
+3, deli mustard, 0.67329, 3
+3, nice change, 0.634546, 6
+3, reasonable price, 0.971623, 7
+3, creamy garlic dressing, 0.942799, 7
+3, average lunch, 0.74059, 8
+3, kalamata olives, 0.655297, 8
+4, Carciofi Gratinati, 0.584593, 0
+4, Chianti Cafe, 0.584414, 0
+4, taste, 0.345629, 2
+4, asking, 0.354004, 3
+4, home, 0.34358, 3
+4, eggplant parm, 0.909079, 6
+4, cheesy artichoke dip, 0.886701, 6
+4, perfectly al dente, 0.837847, 7
+4, earth fine dining, 0.73508, 7
+4, excellently attentive waiter, 0.866699, 8
+4, Great place, 0.5412, 8
+4, delicous italian entrees, 0.781536, 9
+4, Nice quiet ambiance, 0.767975, 9
+5, owner, 0.270796, 0
+5, bad experience, 0.578242, 1
+5, lobster ravioli, 0.625217, 2
+5, limited item, 0.563565, 3
+5, Alvino, 0.342887, 6
+5, waiter, 0.31671, 6
+5, table several times, 0.599554, 7
+5, Anytime friends, 0.579317, 7
+5, Chianti Cafe, 0.934239, 8
+5, passion fro cooking, 0.82763, 8
+5, wonderful dinner, 0.67917, 9
+5, relaxing  dinner, 0.610889, 9

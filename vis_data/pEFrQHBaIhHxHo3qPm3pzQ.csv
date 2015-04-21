@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+1, Michigan fans, 0.693907, 0
+1, stale cigarettes, 0.986527, 1
+1, asshole patrons, 0.959454, 1
+1, main reason, 0.821466, 2
+1, whores, 0.310246, 2
+1, walmart employees, 0.881573, 3
+1, body odors, 0.825779, 3
+3, Good bar, 0.534084, 4
+3, cool hang, 0.572498, 7
+3, bartender, 0.306329, 7
+3, beer pitcher specials, 0.932483, 8
+3, Mellow atmosphere, 0.708938, 8
+3, Delicious hot wings, 0.928124, 9
+3, fries, 0.26694, 9
+4, Inn Zone location, 0.735293, 0
+4, main projection screen, 0.712168, 0
+4, elder fellow alumni, 0.700021, 1
+4, out-of-state enrollment, 0.593097, 1
+4, Michigan sports Bar, 0.744654, 2
+4, corner cutout pickup, 0.715635, 2
+4, Michigan State alumni, 0.757627, 3
+4, decent bar food, 0.701775, 3
+4, state universities, 0.580026, 4
+4, Michigan State, 0.907655, 5
+4, place, 0.467935, 5
+4, low key hang, 0.694879, 6
+4, Ann Arbor classics, 0.688637, 6
+4, Michigan Wolverines, 0.643123, 7
+4, cool surprise, 0.586657, 7
+4, Inn Zone, 0.742136, 8
+4, highest acceptance rates, 0.683224, 8
+5, Michigan-themed establishment, 0.599874, 0
+5, jukebox, 0.364158, 0
+5, worse places, 0.592712, 1
+5, daytime bartender, 0.671433, 2
+5, daytime drunk, 0.62929, 2
+5, Red Wing paraphernalia, 0.851468, 3
+5, Michigan football game, 0.78617, 3
+5, regulars, 0.480438, 4
+5, garlic parm fries, 0.983787, 6
+5, pool tables, 0.857435, 6
+5, buffalo chicken sandwich, 0.907104, 7
+5, best locals bars, 0.870722, 7
+5, pizza, 0.359747, 8
+5, pretty good memory, 0.806611, 9
+5, nice guy, 0.602468, 9

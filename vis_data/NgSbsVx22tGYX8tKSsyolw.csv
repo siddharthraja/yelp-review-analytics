@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, big nationwide promotion, 0.95657, 0
+1, Sorry folks, 0.849017, 0
+1, dozen times, 0.710544, 1
+1, waitress, 0.422792, 1
+1, food, 0.462534, 2
+1, complaints, 0.39575, 2
+1, kitchen, 0.46549, 3
+1, people, 0.465297, 3
+1, better experiences, 0.78192, 6
+1, tables, 0.382337, 6
+1, big group, 0.728079, 7
+1, tips, 0.439753, 7
+1, Hooters brand, 0.786675, 8
+1, real superstars, 0.728854, 8
+2, Carolina Pavilion, 0.79673, 1
+2, food, 0.670109, 1
+2, prime lunchtime, 0.82377, 3
+2, Buffalo Shrimp, 0.789923, 3
+2, chicken, 0.501675, 4
+2, bun, 0.430345, 4
+2, steak quesadillas, 0.826324, 6
+2, steakum, 0.388849, 6
+2, great thing, 0.923559, 7
+2, cold beer, 0.832085, 7
+2, best thing, 0.797617, 8
+2, curly fries, 0.789633, 8
+3, boneless wings, 0.924291, 0
+3, Mexico FIFA soccer, 0.754438, 0
+3, Thursday evening, 0.563248, 2
+3, location, 0.391416, 2
+3, ciabatta bun, 0.633787, 3
+3, regular bun, 0.627783, 3
+3, Hooters, 0.723767, 5
+3, fries, 0.630805, 5
+3, Pulled Pork BBQ, 0.871484, 6
+3, head bartender Kelli, 0.767923, 6
+3, Buzztime Trivia game, 0.83196, 7
+3, good job, 0.574405, 7
+3, definite improvement, 0.552876, 9
+3, past experiences, 0.536615, 9
+4, Hooters numerous times, 0.963412, 0
+4, fast food restaurants, 0.734857, 0
+4, Red Robin, 0.701123, 1
+4, lil North, 0.550718, 1
+4, bout HOOTERS, 0.837987, 2
+4, Hooters burger, 0.783115, 2
+4, multiple nights, 0.524552, 3
+4, PPV fights, 0.51946, 3
+4, Carolina Pavilion, 0.55182, 6
+4, past couple, 0.544282, 6
+4, attractive waitresses, 0.582864, 7
+4, LEMON PEPPER, 0.504666, 7
+4, surprise Erika, 0.537582, 8
+4, Hello friends, 0.516896, 8
+5, half pound burger, 0.809708, 0
+5, similar sports bars, 0.706511, 0
+5, menu, 0.337538, 3
+5, lunch, 0.366733, 6
+5, Renee, 0.363473, 6
+5, Hooters girl, 0.692792, 7
+5, better burger, 0.643548, 7
+5, Excellent service, 0.58748, 8
+5, Hooters happy birthday, 0.908559, 9
+5, entire Hooters staff, 0.867438, 9

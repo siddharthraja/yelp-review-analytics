@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, worst pizza, 0.745536, 0
+1, burnt pizza, 0.520919, 0
+1, super-cheap pizza, 0.546031, 1
+1, immediate service, 0.356427, 1
+1, toppings, 0.366921, 2
+1, place, 0.213782, 2
+1, pizza, 0.912832, 3
+1, Michigan football game, 0.540711, 3
+1, airport, 0.373804, 4
+1, gourmet pizza joint, 0.756874, 6
+1, Phoenix airport, 0.369481, 6
+1, Humble Pie, 0.663072, 7
+1, fancy food, 0.384375, 7
+1, light breakfast, 0.342134, 8
+2, tunnel vision thing, 0.548163, 0
+2, poor customer service, 0.526741, 0
+2, mediocre pizza, 0.628354, 1
+2, baked pizza, 0.587675, 1
+2, pizza duh, 0.59137, 2
+2, semi hungry selves, 0.587336, 2
+2, airport establishment, 0.45058, 3
+2, little box, 0.440497, 3
+2, pizza, 0.901225, 4
+2, size pizza, 0.609424, 6
+2, personal pizza, 0.583654, 6
+2, chicken pesto pizza, 0.701747, 7
+2, busier upscale airport, 0.569133, 7
+2, margherita pizza, 0.734448, 8
+2, pretty good shoestring, 0.557253, 8
+2, restaurant industry, 0.429818, 9
+3, Spicy Minestrone Soup, 0.828984, 0
+3, Long line, 0.622087, 0
+3, lol Service, 0.575239, 1
+3, wrong beer, 0.568992, 1
+3, favorite style, 0.571478, 2
+3, healthy meal, 0.567608, 2
+3, Traditionalist Wrap, 0.608735, 3
+3, pizza, 0.574915, 3
+3, eggs, 0.760306, 4
+3, airport, 0.677036, 4
+3, toast, 0.430018, 5
+3, experience, 0.414652, 5
+3, Phoenix airport, 0.617335, 6
+3, bacon, 0.488633, 6
+3, breakfast burrito, 0.938941, 7
+3, Good sign, 0.616726, 7
+3, young lady, 0.565649, 8
+3, combo, 0.359856, 8
+4, hot margherita pizza, 0.663812, 0
+4, good pizza, 0.626723, 0
+4, style pizza place, 0.683395, 1
+4, worst pizza, 0.619202, 1
+4, delicious pizza, 0.597811, 2
+4, bad pizza, 0.591815, 2
+4, best pizza, 0.604248, 3
+4, airport food, 0.515992, 3
+4, airport, 0.555627, 4
+4, phoenix airport, 0.528669, 4
+4, pizza, 0.905019, 5
+4, humble pie, 0.8251, 6
+4, good job, 0.480938, 6
+4, satisfying pizza, 0.595831, 7
+4, SOP pizza, 0.583955, 7
+4, BBQ Chicken Pizza, 0.649301, 8
+4, magherita pizza, 0.590805, 8
+4, pretty good food, 0.528455, 9
+4, good breakfast food, 0.524649, 9
+5, tasteless boring burrito, 0.860837, 0
+5, newly opened place, 0.763635, 0
+5, Woodfired pizza, 0.674024, 1
+5, Airport food, 0.611519, 1
+5, food, 0.629513, 3
+5, taste buds, 0.619158, 3
+5, airport, 0.931775, 4
+5, pizza, 0.773433, 4
+5, potato breakfast burrito, 0.850835, 6
+5, airport Humble Pie, 0.789063, 6
+5, favorite layover airport, 0.841752, 7
+5, Humble Pie, 0.804799, 7
+5, gates Humble Pie, 0.757193, 8
+5, cheese pizza, 0.707063, 8
+5, good airport value, 0.807049, 9
+5, individual pizza, 0.697803, 9

@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, chips. deep sea, 0.915986, 0
+1, onion baguette thingy., 0.912479, 0
+1, SUCKO SUCK SUCK, 0.905096, 1
+1, wayyyy better places, 0.886949, 1
+1, hot smoked salmon, 0.902829, 2
+1, hope dianna, 0.774446, 2
+1, pititful little bagel, 0.925921, 3
+1, decent Bloody Mary, 0.879204, 3
+1, good good food, 0.876422, 6
+1, salmon  risotto, 0.805893, 6
+1, Shore scene, 0.744972, 7
+1, great girly lunches, 0.892652, 8
+1, haddock risotto, 0.8115, 8
+2, wild grilled trout, 0.969922, 0
+2, daily specials, 0.714511, 0
+2, pheasant, 0.628889, 1
+2, complainer, 0.415528, 1
+2, strong gust, 0.75818, 2
+2, poor candle, 0.73402, 2
+2, dish, 0.512786, 3
+2, coat, 0.388229, 3
+2, Wednesday evening, 0.767283, 6
+2, visit, 0.490046, 6
+2, beetroot jelly, 0.802996, 7
+2, good service, 0.76793, 7
+2, unexpectedly busy evening, 0.990618, 8
+2, enjoyable meal, 0.825658, 8
+2, great food, 0.645037, 9
+2, Wark, 0.592308, 9
+3, Wir hatten nicht, 0.916028, 0
+3, wir mit einem, 0.826839, 0
+3, Robert Louis Stevenson, 0.670899, 1
+3, bar food, 0.616022, 1
+3, rickety table, 0.607981, 2
+3, Samstagabend und ordentlich, 0.737053, 3
+3, day-glo cycling jacket, 0.677984, 3
+3, good cauliflower cheese, 0.722715, 7
+3, nippit Edinburgh air, 0.672065, 7
+3, great vibe, 0.608922, 8
+3, reasonable number, 0.607935, 8
+4, roast withy bacon, 0.750601, 0
+4, late 18th century, 0.739522, 0
+4, little room, 0.692738, 1
+4, main courses, 0.692706, 1
+4, fish eater, 0.692774, 2
+4, good service, 0.709646, 3
+4, fish, 0.750852, 5
+4, black pudding salad, 0.766425, 6
+4, late lunch mid-afternoon, 0.765631, 6
+4, spicy gritty haggis, 0.782897, 7
+4, chips, 0.773273, 7
+4, Kings Wark, 0.904018, 8
+4, food, 0.791397, 8
+4, Yum yum yum, 0.776135, 9
+4, chunky farmhouse chips, 0.771544, 9
+5, traditional pub setting, 0.990973, 0
+5, pub grub, 0.760101, 0
+5, visit, 0.290487, 2
+5, Ox, 0.314006, 6
+5, tomato, 0.30059, 6
+5, Wark, 0.808058, 7
+5, impeccable standards, 0.721378, 7
+5, excellent line, 0.725707, 8
+5, prepared food, 0.700134, 8

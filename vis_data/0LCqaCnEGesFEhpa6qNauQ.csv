@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+3, Monterey, 0.268213, 0
+3, District, 0.211809, 0
+3, turn, 0.273646, 3
+3, hostess, 0.369186, 6
+3, try, 0.280091, 6
+3, nice glass, 0.824169, 7
+3, patio, 0.287114, 7
+3, nice view, 0.773171, 8
+3, pizza shop, 0.767412, 8
+3, cheese platter, 0.922129, 9
+3, perfect view, 0.718086, 9
+4, extras, 0.496564, 0
+4, decor, 0.470479, 6
+4, Nice couple, 0.968185, 7
+4, Jo, 0.500807, 7
+4, patio seating, 0.939117, 8
+4, new owners, 0.796726, 8
+4, new snacks, 0.782844, 9
+5, Steve Krum, 0.740583, 0
+5, Javier Garcia, 0.731829, 0
+5, misleading reviews, 0.719039, 1
+5, Sassy, 0.544593, 1
+5, Kyle Phelan, 0.756752, 6
+5, Sit, 0.554912, 6
+5, Wine Tasting Club, 0.904392, 7
+5, great wine, 0.872211, 7
+5, Fountain Hills, 0.964773, 8
+5, sip  great glass, 0.934001, 8
+5, great new people, 0.919621, 9
+5, great place, 0.877496, 9

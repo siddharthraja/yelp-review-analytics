@@ -1,0 +1,17 @@
+rating, keyword, relevance, bucket
+1, different red wines, 0.807051, 0
+1, knowledge, 0.292794, 2
+1, red wine list, 0.755899, 3
+1, bait, 0.330047, 3
+1, reasonably priced glasses, 0.923162, 6
+3, Black Friday, 0.949581, 0
+3, goat cheese, 0.893527, 0
+3, half, 0.271873, 2
+3, wine, 0.367693, 3
+3, counter, 0.270239, 3
+3, to-go coffee, 0.928879, 6
+3, glass, 0.230986, 6
+3, nice alternative, 0.771173, 8
+3, food court, 0.726332, 8
+3, new place, 0.870419, 9
+3, kinks, 0.352968, 9

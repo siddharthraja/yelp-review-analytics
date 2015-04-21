@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+2, Craft beer Haven, 0.89172, 0
+2, good pub fare, 0.877393, 0
+2, threatening void, 0.715674, 1
+2, Lothian Road, 0.710105, 1
+2, bar counter, 0.692447, 2
+2, numerous times, 0.689877, 2
+2, dodgy bar, 0.729017, 3
+2, style beers, 0.725894, 3
+2, fine lower ones, 0.843794, 6
+2, clientele, 0.5348, 6
+2, Craft Beer Revolution, 0.930466, 7
+2, Hop Head, 0.720791, 7
+2, traditionally real ale, 0.907325, 8
+2, hig ABV beers, 0.873733, 8
+3, decent size tub, 0.750558, 0
+3, actual pints, 0.665339, 0
+3, unusually expensive beer, 0.751268, 1
+3, bit bad rating, 0.732682, 1
+3, higher star rating, 0.737807, 2
+3, pork scratchings, 0.660109, 2
+3, Tsar Bomba, 0.757114, 3
+3, haggis dog, 0.652436, 3
+3, Hanging Bat, 0.983409, 5
+3, beer, 0.769435, 5
+3, Fever Tree Tonic, 0.742254, 6
+3, civilised drink, 0.654925, 6
+3, craft beer havens, 0.743092, 7
+3, touristy area, 0.64153, 7
+3, beers, 0.832201, 8
+3, fairly small menu, 0.759955, 8
+3, great selection, 0.75389, 9
+3, amazing craft brewers, 0.719907, 9
+4, little beer bar, 0.346832, 0
+4, beer mac, 0.315479, 0
+4, food menu, 0.322056, 2
+4, beer drinker, 0.318793, 2
+4, American Pit Bull, 0.447137, 3
+4, hot dog fan, 0.293845, 3
+4, Hanging Bat, 0.902369, 5
+4, hot dogs, 0.807258, 5
+4, Hanging Bat Beer, 0.472509, 6
+4, place, 0.424184, 6
+4, lothian road, 0.477173, 7
+4, bat beer cafe, 0.422929, 7
+4, extensive beer menu, 0.355296, 8
+4, Proper beer options, 0.335583, 8
+4, Great bar staff, 0.312429, 9
+4, chic artsy beer, 0.311097, 9
+5, Hanging Bar Beer, 0.40411, 0
+5, beer tap water, 0.374861, 0
+5, newest beer bar, 0.383125, 2
+5, regular tennants-like beers, 0.341478, 2
+5, bar staff, 0.344831, 3
+5, food, 0.341289, 3
+5, beer, 0.917292, 5
+5, hot dogs, 0.68362, 5
+5, beers, 0.489736, 6
+5, place, 0.483206, 6
+5, Hanging Bat, 0.73456, 7
+5, beer lover, 0.428921, 7
+5, craft beer, 0.474495, 8
+5, Edinburgh Craft Beer, 0.397123, 8
+5, fantastic craft beer, 0.349926, 9
+5, beer garden, 0.343944, 9

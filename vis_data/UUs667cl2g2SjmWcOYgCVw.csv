@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, couple other waitresses, 0.71538, 0
+1, vacant space, 0.65771, 0
+1, punk kid, 0.671047, 1
+1, establishment, 0.374218, 1
+1, credit card, 0.704771, 2
+1, Stool Pigeons, 0.681135, 2
+1, restaurant policy, 0.680841, 3
+1, parking, 0.366836, 3
+1, Flying Saucer, 0.965485, 6
+1, basically wings, 0.713879, 6
+1, Arbors shopping center, 0.845344, 7
+1, Friday night, 0.700425, 7
+3, fun after-work way, 0.779734, 0
+3, meat market crowd, 0.749378, 0
+3, unoriginal pub fare, 0.747767, 1
+3, new non-smoking laws, 0.744175, 1
+3, NTN trivia, 0.669083, 2
+3, TV screens, 0.654981, 2
+3, food, 0.658292, 3
+3, drink specials, 0.645175, 3
+3, sports fan, 0.627387, 4
+3, places, 0.579379, 4
+3, Stool Pigeons, 0.973665, 5
+3, chicken wings, 0.645431, 6
+3, good bet, 0.633627, 6
+3, basic burgers, 0.653727, 7
+3, decent atmosphere, 0.635788, 7
+3, fun place, 0.647965, 8
+3, server, 0.523901, 8
+4, UCB watering holes, 0.947489, 0
+4, choke holds, 0.643568, 0
+4, massive amounts, 0.663626, 2
+4, bar food, 0.617497, 2
+4, bar stools, 0.630425, 3
+4, favorite recreation, 0.620406, 3
+4, Sunday games, 0.65421, 6
+4, waitresses, 0.47821, 6
+4, great place, 0.842237, 7
+4, Stool Pigeons, 0.711964, 7
+5, Pool table, 0.572281, 0
+5, iPhone, 0.374702, 0
+5, Buzztime trivia network, 0.807539, 1
+5, night, 0.350117, 1
+5, menu, 0.357697, 2
+5, Saucer, 0.409802, 3
+5, pong, 0.375211, 3
+5, wraps, 0.375471, 6
+5, quesadillas, 0.353842, 6
+5, wings, 0.465806, 7
+5, burgers, 0.387844, 7
+5, different brews, 0.62556, 8
+5, homemade chips, 0.618795, 8
+5, Pretty chill place, 0.998838, 9
+5, bartenders, 0.398206, 9

@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, bartenders, 0.54326, 0
+1, drinks, 0.511201, 0
+1, Terrible food, 0.782722, 1
+1, Skip, 0.504111, 1
+1, reason, 0.503221, 2
+1, plastic tub, 0.780801, 3
+1, heat lamp, 0.767481, 3
+1, Pink berry, 0.793435, 6
+1, great breakfast spots, 0.997823, 7
+1, Jamba Juice, 0.860397, 7
+2, personal possessions, 0.804045, 0
+2, different restaurant, 0.796336, 0
+2, Extremely limited menu, 0.984158, 1
+2, Uptown Bar, 0.946959, 1
+2, rating middle-of-the road, 0.998334, 2
+2, airport restaurants, 0.983878, 2
+2, early morning flight, 0.911357, 3
+2, limited choices, 0.786076, 3
+2, place, 0.813863, 5
+2, mimosa, 0.676486, 5
+2, Hissho Sushi, 0.788949, 6
+2, open area, 0.777436, 6
+2, small breakfast menu, 0.913553, 7
+2, plastic bag, 0.811075, 7
+2, happy meal quality, 0.931385, 9
+3, overally general likeability, 0.871388, 0
+3, cheap paper napkins, 0.838809, 0
+3, flimsy paper napkins, 0.841875, 1
+3, Airport bar, 0.773909, 1
+3, long flight home, 0.85547, 2
+3, Bacon Vodka Mary, 0.832675, 2
+3, salad place, 0.765804, 3
+3, fast/bar food, 0.751762, 3
+3, grilled chicken sandwich, 0.913937, 6
+3, Terminal A. Friendly, 0.832135, 6
+3, Great customer service, 0.866543, 7
+3, southern hospitality service, 0.861753, 7
+3, pepperoni flatbread, 0.912043, 8
+3, great little place, 0.862767, 8
+3, sexy chic place, 0.872573, 9
+3, Uptown Bar, 0.787625, 9
+4, leather club chairs, 0.980585, 0
+4, domestic bottles, 0.766717, 0
+4, cheap stuff, 0.804705, 1
+4, shelf, 0.554026, 2
+4, couple mini-bottles, 0.79558, 3
+4, hash browns, 0.779336, 3
+4, long flight, 0.761612, 4
+4, place, 0.60902, 6
+4, Service, 0.550083, 6
+4, basic coffee shop, 0.994492, 7
+4, local draft beers, 0.974446, 7
+4, local beers, 0.762006, 8
+4, waiter, 0.565765, 8
+4, early morning flight, 0.99399, 9
+4, quick breakfast, 0.777925, 9

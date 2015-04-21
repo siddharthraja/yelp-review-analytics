@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+2, fairer man, 0.931298, 0
+2, food, 0.757432, 0
+2, royal mile, 0.934875, 1
+2, bit, 0.677579, 1
+2, bar, 0.745154, 2
+2, portions, 0.680817, 6
+3, quiet little pub, 0.898964, 0
+3, 50p comedy, 0.872728, 0
+3, little dark, 0.718134, 1
+3, large space, 0.694778, 1
+3, Stewarts beer, 0.888656, 2
+3, non-descript bog standard, 0.829189, 2
+3, Monday night, 0.684461, 3
+3, large portion, 0.678332, 3
+3, Stewarts Brewery, 0.905106, 4
+3, tourists, 0.578809, 5
+3, wee drink, 0.695391, 6
+3, main foyer, 0.688264, 6
+3, quick drink, 0.701255, 7
+3, good quality, 0.689711, 7
+3, spacious sitting area, 0.864141, 8
+3, quiet drinks, 0.710098, 8
+3, upper bar area, 0.869095, 9
+3, good selection, 0.688425, 9
+4, essentially tourist pub, 0.854304, 0
+4, fairly large student, 0.810992, 0
+4, UK beer festival, 0.71503, 2
+4, tourist pubs, 0.656986, 3
+4, main room, 0.59895, 3
+4, 70s/80s music, 0.598293, 6
+4, decent selection, 0.580513, 6
+4, Royal Mile, 0.999554, 7
+4, Royal Mile pubs, 0.796867, 7
+4, record player, 0.944645, 8
+4, fairly predictable selections, 0.831754, 8
+4, afternoon pint, 0.593596, 9

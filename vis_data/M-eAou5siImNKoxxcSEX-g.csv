@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+2, _Hookah bar_, 0.68365, 0
+2, duct tape, 0.646458, 0
+2, new equipment, 0.575896, 1
+2, blame, 0.300361, 1
+2, decent hookah bar, 0.931958, 2
+2, dirty cloth, 0.647251, 2
+2, campus, 0.351138, 3
+2, star, 0.34213, 3
+2, list, 0.279534, 6
+2, flavors, 0.432439, 7
+2, Karaoke, 0.290688, 7
+2, better job, 0.57538, 8
+2, staff, 0.335999, 8
+4, banana berry runt, 0.871521, 0
+4, ownerflavor, 0.247885, 0
+4, secret ingrediants, 0.568718, 4
+4, decently pleasant hookah, 0.98715, 7
+4, flavor, 0.352279, 7
+5, awesome karaoke DJ, 0.91444, 0
+5, dart boards, 0.670182, 0
+5, Outlaw Karaoke, 0.697893, 2
+5, bad experience, 0.695657, 2
+5, Miller family bottles, 0.879762, 3
+5, signature drinks, 0.711359, 3
+5, smoking Hookah, 0.912126, 6
+5, high recommendation, 0.651335, 6
+5, hookah lounges, 0.913353, 7
+5, Green Street, 0.90185, 7
+5, fun environment, 0.635334, 8
+5, staff, 0.483109, 8

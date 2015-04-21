@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, cold food thing, 0.770968, 0
+1, wait staff, 0.750818, 0
+1, cold food, 0.952331, 1
+1, unprofessional young staff, 0.773766, 1
+1, drop outs lol, 0.760135, 2
+1, wrong table, 0.666155, 2
+1, wine/ice tea refill, 0.799496, 3
+1, place, 0.700548, 4
+1, phone number, 0.797369, 6
+1, eye candy waitstaff, 0.790262, 6
+1, na-be party joint, 0.78712, 7
+1, continually seat people, 0.761365, 7
+1, north central Phoenix, 0.785626, 8
+1, free appetizer, 0.662416, 8
+2, old culinary dropout, 0.643779, 0
+2, LARGE outdoor patio, 0.636077, 0
+2, service, 0.672983, 1
+2, terrible service, 0.635299, 1
+2, Central Phoenix, 0.636571, 2
+2, actual restaurant space, 0.63647, 2
+2, corn hole, 0.646587, 3
+2, new steak, 0.642309, 3
+2, food, 0.977599, 4
+2, time, 0.674603, 4
+2, culinary dropout, 0.878689, 5
+2, table, 0.779514, 5
+2, fried chicken, 0.635128, 6
+2, potato chips, 0.6029, 6
+2, wait staff, 0.65423, 7
+2, live band, 0.63772, 7
+2, sweet potato, 0.648222, 8
+2, Fox restaurant, 0.647541, 8
+2, potato kale salad, 0.637058, 9
+2, good craft beer, 0.631859, 9
+3, prime rib dip, 0.719519, 0
+3, fox restaurants food, 0.707535, 0
+3, bar type food, 0.727992, 1
+3, fox restaurants, 0.717277, 1
+3, tuna salad, 0.718039, 2
+3, Shrimp salad vs, 0.68622, 2
+3, time, 0.749599, 3
+3, corn hole, 0.709036, 3
+3, bar, 0.763349, 4
+3, food, 0.942874, 5
+3, place, 0.879713, 5
+3, culinary dropout, 0.936637, 6
+3, usual Fox Concepts, 0.726195, 6
+3, sweet potato, 0.770747, 7
+3, pretzel bites, 0.762752, 7
+3, fun place, 0.769869, 8
+3, Scottsdale location, 0.724723, 8
+3, ping pong, 0.77612, 9
+3, great place, 0.712348, 9
+4, ping pong tables, 0.749525, 0
+4, Local First Arizona, 0.598688, 0
+4, Culinary Dropout biscuit, 0.599822, 2
+4, prime rib dip, 0.620279, 3
+4, shaved prime rib, 0.615583, 3
+4, drinks, 0.618738, 4
+4, Fox Restaurant, 0.602173, 4
+4, Culinary Dropout, 0.945811, 5
+4, chicken, 0.641376, 5
+4, place, 0.818656, 6
+4, food, 0.786717, 6
+4, ping pong, 0.892395, 7
+4, prime rib, 0.62533, 7
+4, great place, 0.677576, 8
+4, atmosphere, 0.659965, 8
+4, great food, 0.63851, 9
+4, great atmosphere, 0.626603, 9
+5, successful new place, 0.81647, 0
+5, 30-45 min wait, 0.806863, 0
+5, pretzel pastrami sandwich, 0.814122, 1
+5, giant patio area, 0.796003, 1
+5, Bacon Bloody Mary, 0.78888, 2
+5, super child-friendly place, 0.832841, 3
+5, patio area, 0.822168, 3
+5, pretzel fondue, 0.85013, 4
+5, night, 0.788468, 4
+5, place, 0.963521, 5
+5, ping pong, 0.85837, 5
+5, food, 0.948104, 6
+5, fox restaurant, 0.813851, 6
+5, Culinary Dropout, 0.917551, 7
+5, good food, 0.822927, 7
+5, great time, 0.880409, 8
+5, great food, 0.838897, 8
+5, great place, 0.871782, 9
+5, great beer selection, 0.827808, 9

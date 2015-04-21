@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, unsanitary conditions, 0.695622, 0
+1, separate room, 0.67563, 0
+1, Dive Bar mean, 0.911973, 1
+1, cigarette smoke, 0.703107, 1
+1, place, 0.579865, 2
+1, asthma, 0.299723, 2
+1, good way, 0.631465, 3
+1, smell, 0.323851, 3
+1, aroma, 0.324226, 6
+1, try, 0.314427, 6
+1, jazz singer Michelle, 0.987377, 7
+1, cleaner establishments, 0.654105, 7
+2, Dispensary Lounge, 0.910882, 0
+2, Dive bar authenticity, 0.834262, 0
+2, Big Macs, 0.678466, 1
+2, video poker, 0.646008, 1
+2, Las Vegas realtor, 0.848828, 2
+2, credit crisis problems, 0.840207, 2
+2, cigarette smoke batman, 0.813706, 3
+2, Beauty Bar, 0.692595, 3
+2, water wheel, 0.845791, 4
+2, order, 0.546004, 4
+2, Downtown Cocktail Lounge, 0.859918, 6
+2, hair shag carpeting, 0.855814, 6
+2, dive bar lounge, 0.895415, 7
+2, delicious burgers, 0.733579, 7
+3, small old school, 0.610632, 0
+3, UNLV basketball game, 0.597662, 0
+3, shag carpet, 0.740115, 1
+3, greasy stomach ache, 0.602766, 1
+3, water wheel, 0.950253, 2
+3, mediocre) burger., 0.784082, 2
+3, paper plates, 0.682367, 3
+3, famous burger, 0.634755, 3
+3, food, 0.53081, 4
+3, burger, 0.86137, 5
+3, place, 0.681897, 5
+3, Dispensary Lounge, 0.897292, 6
+3, burger special, 0.70976, 6
+3, lb burger, 0.611691, 7
+3, honey mustard, 0.606137, 7
+3, fries, 0.697197, 8
+3, good burger, 0.62105, 8
+3, honey mustard sauce, 0.593414, 9
+3, french fries, 0.586851, 9
+4, blurry burger picture-I, 0.67117, 0
+4, burger joint, 0.612533, 0
+4, Fast food places, 0.520104, 1
+4, little dark hovel, 0.512206, 1
+4, bomb ass burger, 0.652396, 2
+4, patty melt, 0.516618, 2
+4, food, 0.627255, 3
+4, carpet, 0.557485, 4
+4, burger, 0.931087, 5
+4, place, 0.549197, 5
+4, water wheel, 0.807604, 6
+4, bare burger, 0.61619, 6
+4, live jazz, 0.67288, 7
+4, great tasting burger, 0.67075, 7
+4, great burger, 0.668647, 8
+4, back. best burger, 0.647228, 8
+4, quality burger, 0.617218, 9
+5, expensive burger place, 0.590104, 0
+5, quarter pound burger, 0.557066, 0
+5, faceless chain bar, 0.527992, 1
+5, dive bar, 0.587501, 3
+5, fries, 0.587266, 3
+5, bar, 0.590989, 4
+5, burger experience, 0.516038, 4
+5, place, 0.807483, 5
+5, dispensary lounge, 0.778581, 5
+5, burger, 0.714112, 6
+5, Good cheese burgers, 0.528812, 6
+5, Las Vegas, 0.980173, 7
+5, water wheel, 0.606034, 7
+5, steak burger, 0.623213, 8
+5, Las Vegas Nevada, 0.598557, 8

@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+2, audience size, 0.947397, 0
+2, mixed bag, 0.94524, 0
+2, comedy club, 0.706041, 6
+2, setup, 0.26111, 6
+3, box office, 0.99043, 0
+3, comedy club, 0.961002, 0
+3, Shame, 0.554373, 1
+3, dozen people, 0.783527, 2
+3, server, 0.605209, 2
+3, discount tickets, 0.788583, 3
+3, new people, 0.738541, 3
+3, Customer service, 0.755872, 6
+3, drinks, 0.617908, 6
+3, door people, 0.73487, 7
+3, giggle, 0.5651, 8
+3, 45 minutes, 0.551303, 8
+3, lively crowd, 0.802457, 9
+4, general admission, 0.45587, 0
+4, bar tender, 0.446146, 0
+4, Cheap drinks, 0.46849, 1
+4, DVD, 0.246556, 1
+4, floor gig, 0.501978, 2
+4, Rat Pack, 0.500129, 2
+4, tourist numbers, 0.479496, 3
+4, cheap way, 0.456876, 3
+4, comedians, 0.513511, 4
+4, Saw jimmy, 0.442793, 6
+4, comedian, 0.245481, 6
+4, Sandy Hackett, 0.526786, 7
+4, chit chat, 0.480764, 7
+4, riviera comedy club, 0.943683, 8
+4, Small intimate venue, 0.643788, 8
+4, old-school comedy, 0.475301, 9
+5, Saw John DiCrosta, 0.717616, 0
+5, Las Vegas Strip, 0.673484, 0
+5, fair price, 0.551952, 3
+5, comedy, 0.514598, 5
+5, Matt Kazam, 0.938382, 6
+5, successful career, 0.695135, 6
+5, historic Riviera Hotel, 0.665041, 7
+5, great talent, 0.576455, 7
+5, great comedians, 0.729934, 8
+5, fairly prices night, 0.659389, 8
+5, Las Vegas, 0.794905, 9
+5, friendly bar servers, 0.682579, 9

@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+2, different waitress, 0.835183, 0
+2, obviously intoxicated woman, 0.795736, 0
+2, rude short service, 0.801558, 1
+2, sweet old lady, 0.778454, 1
+2, chicken Caesar wrap, 0.79058, 2
+2, large wet spot, 0.779459, 2
+2, waitress, 0.87531, 3
+2, main waitress, 0.77725, 3
+2, food, 0.725779, 4
+2, sweet potato fries, 0.998571, 5
+2, free drinks, 0.768693, 5
+2, fish tacos, 0.884952, 6
+2, chicken penne pasta, 0.819201, 6
+2, penne pasta, 0.84866, 7
+2, long blonde hair, 0.799195, 7
+2, dayshift bartender girl, 0.776438, 8
+2, unique dishes, 0.668811, 8
+2, LOVE Remedy, 0.698809, 9
+2, LOVE LOVE, 0.680587, 9
+3, food chicken fingers, 0.838323, 0
+3, local watering hole, 0.819022, 0
+3, cigarette smoke, 0.800155, 1
+3, bar food, 0.684015, 1
+3, St. Rose Parkway, 0.82513, 2
+3, go-to drinks, 0.665788, 2
+3, main bar area, 0.809066, 3
+3, couple miles, 0.667613, 3
+3, place, 0.696187, 4
+3, personal conversations, 0.650226, 6
+3, combo sliders, 0.646879, 6
+3, corn bread, 0.756652, 7
+3, Good place, 0.682557, 7
+3, artichoke dip appetizer, 0.909843, 8
+3, expertly mixed cocktail, 0.814988, 8
+3, good sliders, 0.676907, 9
+3, good beers, 0.672456, 9
+4, grilled vegetable sandwich, 0.603977, 0
+4, multiple footballs games, 0.576536, 0
+4, Bar area reeks, 0.614751, 1
+4, video poker taverns, 0.574319, 1
+4, typical sports bar, 0.611899, 2
+4, bar stop, 0.527485, 2
+4, soggy sweet potato, 0.601666, 3
+4, cold onion rings, 0.571408, 3
+4, place, 0.707135, 5
+4, sweet potato fries, 0.925782, 6
+4, food, 0.654308, 6
+4, Ample sitting area, 0.626101, 7
+4, real kid pleasers, 0.584739, 7
+4, fail-safe food options, 0.616081, 8
+4, great service, 0.613505, 8
+4, here.  chill bar, 0.647244, 9
+4, great food, 0.637054, 9
+5, Best local bar, 0.718501, 0
+5, southwest chicken salad, 0.647233, 0
+5, parking spot, 0.539615, 1
+5, Fish tacos, 0.547264, 2
+5, lunch break, 0.538277, 2
+5, food, 0.943789, 6
+5, Good Food, 0.631911, 6
+5, pool tables, 0.983809, 7
+5, great kids menu, 0.70574, 7
+5, great food, 0.874201, 8
+5, awesome service, 0.72469, 8
+5, time Awesome staff, 0.756624, 9
+5, truly great bar, 0.756202, 9

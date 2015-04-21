@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+2, Le Piano Rouge, 0.912236, 0
+2, free live bands, 0.820451, 0
+2, fault, 0.364332, 1
+2, energy, 0.359639, 1
+2, yr old couple, 0.830681, 2
+2, nice little table, 0.81101, 2
+2, Jose James, 0.904622, 3
+2, get-drunk-quick-to-enjoy-yourself college club, 0.812011, 3
+2, bar, 0.479821, 4
+2, night, 0.689411, 5
+2, normal night, 0.587721, 7
+2, loud music, 0.576121, 7
+2, small quaint place, 0.92666, 8
+2, time, 0.363192, 8
+3, jaw, 0.432239, 0
+3, drink, 0.430029, 0
+3, drinks, 0.418574, 2
+3, little jazz, 0.893304, 3
+3, karaoke singer, 0.867817, 6
+3, people, 0.510602, 6
+3, great  dinner, 0.908246, 7
+3, perfect goups, 0.822094, 7
+3, packed house, 0.891025, 8
+3, fabulous tunes, 0.860959, 8
+3, Horn player, 0.816584, 9
+3, savoury, 0.460859, 9
+4, token French phrase, 0.892831, 0
+4, live music heaven, 0.755078, 0
+4, small little lounge, 0.772345, 1
+4, bar seats, 0.531084, 1
+4, night, 0.386109, 2
+4, cover, 0.344318, 2
+4, weekday, 0.280408, 3
+4, jar, 0.272994, 3
+4, audience, 0.340651, 5
+4, parlez vous anglais, 0.996319, 6
+4, live music, 0.786379, 6
+4, time, 0.264224, 7
+4, good measure, 0.51113, 8
+4, hip hop, 0.506688, 8
+5, visit montreal, 0.717368, 3
+5, melina soochan, 0.818242, 4
+5, wife, 0.35424, 4
+5, Thursday night, 0.994851, 6
+5, bartender, 0.386168, 6
+5, live music, 0.645624, 7
+5, drinks, 0.346952, 7
+5, atmosphere, 0.341675, 8

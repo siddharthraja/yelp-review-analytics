@@ -1,0 +1,92 @@
+rating, keyword, relevance, bucket
+1, good comedy experience, 0.530074, 0
+1, bad server way, 0.527434, 0
+1, Terribly overpriced drinks, 0.572136, 1
+1, simple fountain drinks, 0.565296, 1
+1, comedy clubs, 0.619896, 2
+1, mixed drinks, 0.571751, 2
+1, tempe improv, 0.934637, 3
+1, service, 0.658748, 3
+1, drinks, 0.979492, 4
+1, food, 0.720953, 4
+1, server, 0.715205, 5
+1, time, 0.632651, 5
+1, drink minimum, 0.987527, 6
+1, drink minimum requirement, 0.560581, 6
+1, Michael McDonald, 0.551709, 7
+1, original awesome server, 0.531998, 7
+1, special drinks, 0.52737, 8
+1, love stand-up comedy, 0.520717, 8
+2, night Jim Bullishi, 0.498999, 0
+2, long wait line, 0.494492, 0
+2, nasty tap water, 0.501534, 1
+2, drink prices, 0.498294, 1
+2, comedy clubs, 0.743468, 2
+2, Customer service, 0.49642, 2
+2, water, 0.536185, 3
+2, special mixed drinks, 0.495564, 3
+2, food, 0.639185, 4
+2, drinks, 0.633733, 4
+2, drink minimum, 0.694352, 5
+2, time, 0.593159, 5
+2, Tempe Improv, 0.981472, 6
+2, food order, 0.517781, 6
+2, good job, 0.524087, 7
+2, good seats, 0.496667, 7
+2, good time, 0.513543, 8
+3, old Tempe Improv, 0.455332, 0
+3, text message service, 0.427721, 0
+3, bar quality food, 0.420566, 1
+3, exact wrong way, 0.418079, 1
+3, Patton Oswalt, 0.482369, 2
+3, cheese cake, 0.434127, 2
+3, tickets, 0.542796, 3
+3, open mic night, 0.412764, 3
+3, drink minimum, 0.712515, 4
+3, drinks, 0.681008, 4
+3, service, 0.548721, 5
+3, line, 0.525229, 5
+3, night, 0.511447, 6
+3, people, 0.47897, 6
+3, Tempe Improv, 0.91237, 7
+3, Tempe Improv food, 0.465491, 7
+3, tradition brick wall, 0.405719, 8
+3, pretty cool experience, 0.405447, 8
+3, improved Tempe Improv, 0.446028, 9
+3, pretty good price, 0.415661, 9
+4, RIP Tempe Improv, 0.471734, 0
+4, Improv many times, 0.452841, 0
+4, drink prices, 0.449978, 1
+4, Tempe Improv V-Card, 0.469458, 2
+4, Improv parking pass, 0.455318, 3
+4, comedy clubs, 0.45331, 3
+4, drink minimum, 0.759896, 4
+4, food, 0.553836, 4
+4, tempe improv, 0.913601, 5
+4, time, 0.635664, 5
+4, comedy, 0.533677, 6
+4, Michael Ian, 0.459087, 6
+4, Chicago Improv Group, 0.462738, 7
+4, pretty pricey night, 0.458259, 7
+4, good time, 0.59741, 8
+4, great time, 0.551022, 8
+4, Great improv comedy, 0.48487, 9
+4, Tempe Improv staff, 0.483147, 9
+5, Police acadamy movies, 0.520388, 0
+5, LARGE Japanese beer, 0.520166, 0
+5, shady dive bar, 0.508556, 1
+5, comedy place, 0.516421, 2
+5, Michael Winslow, 0.514705, 2
+5, long island, 0.520861, 3
+5, puny table space, 0.520738, 3
+5, Tempe Improv, 0.817806, 4
+5, comedians, 0.579735, 4
+5, place, 0.914327, 5
+5, improv, 0.832399, 5
+5, drink minimum, 0.915501, 6
+5, time, 0.631642, 6
+5, comedy clubs, 0.593642, 7
+5, best comedy clubs, 0.548769, 7
+5, Thanks Improv, 0.59729, 8
+5, great job, 0.596107, 8
+5, perfect place, 0.51888, 9

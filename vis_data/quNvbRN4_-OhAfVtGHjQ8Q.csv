@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, Dirty Gorgonzola Martini, 0.941194, 0
+1, Gargonzola Olives, 0.736135, 0
+1, alcohol, 0.525284, 2
+1, pits, 0.485726, 2
+1, Montreal black list, 0.877427, 6
+1, Good job Nakkita, 0.888838, 7
+1, gin choices, 0.765154, 7
+2, herb-crusted chicken breast, 0.837449, 0
+2, Old Montreal area, 0.82816, 0
+2, chicken supreme, 0.89153, 2
+2, Old Montreal, 0.876781, 2
+2, Montreal tourist trap, 0.944394, 3
+2, tomato based sauce, 0.845849, 3
+2, pasta dish, 0.907888, 4
+2, entrees, 0.607474, 4
+2, place, 0.631963, 5
+2, seafood scampi, 0.663146, 6
+2, tad, 0.451282, 6
+2, risotto ball appetizer, 0.900309, 7
+2, outdoor seating, 0.650099, 7
+2, charming atmosphere, 0.690793, 8
+2, ambiance, 0.456196, 8
+3, Très sympa et, 0.83865, 0
+3, credit card machine, 0.837396, 0
+3, bolognese sauce tastes, 0.837736, 1
+3, bar area, 0.736983, 1
+3, antipasti di case, 0.81672, 2
+3, great night, 0.751969, 2
+3, emailed confirmation, 0.741152, 3
+3, food, 0.76818, 5
+3, large trendy pizza, 0.96266, 6
+3, long time, 0.745944, 6
+3, service est très, 0.848833, 7
+3, qualité est là, 0.834612, 7
+3, good wine selection, 0.880116, 8
+3, arugula pizza, 0.813996, 8
+3, Great al fresco, 0.903653, 9
+3, summertime crowds, 0.755997, 9
+4, authentic pizza, 0.716241, 0
+4, pizza hotspots, 0.70871, 0
+4, pizza toppings, 0.708318, 1
+4, Cheap pizza, 0.689364, 1
+4, Expensive pizza, 0.689601, 2
+4, Pizza Pie, 0.676388, 2
+4, pizza order, 0.689195, 3
+4, pizza, 0.938645, 5
+4, nutella pizza, 0.751184, 5
+4, la pizza, 0.748455, 6
+4, une excellente pizza, 0.743228, 6
+4, best pizza, 0.718564, 7
+4, pizza oven bar, 0.710604, 7
+4, good pizza, 0.812636, 8
+4, pretty good pizza, 0.73435, 8
+4, pizza choices, 0.698754, 9
+4, tasty pizza, 0.690107, 9
+5, spacious outdoor seating, 0.498601, 0
+5, cast-iron chandelier-y thing, 0.472849, 0
+5, bad pizza, 0.550543, 2
+5, pretty picky eater, 0.489859, 2
+5, Old Montreal debating, 0.528901, 3
+5, toute les pizzas, 0.494136, 3
+5, food, 0.539337, 4
+5, pizza, 0.948785, 5
+5, nutella pizza, 0.865422, 5
+5, authentic italian food, 0.50106, 6
+5, son pesant d'or, 0.46552, 6
+5, best pizza, 0.710003, 7
+5, basic marinara pizza, 0.603163, 7
+5, margarita pizza, 0.641396, 8
+5, pizza crust, 0.567649, 8
+5, mushroom pizza, 0.582214, 9
+5, white clam pasta, 0.51454, 9

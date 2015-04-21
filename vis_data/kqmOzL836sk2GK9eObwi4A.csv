@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+3, Warsaw, 0.305154, 0
+3, cheap drinks, 0.67987, 1
+3, Peeps, 0.315372, 1
+3, beer bottle, 0.58682, 2
+3, muffler, 0.313875, 2
+3, typo, 0.307483, 3
+3, life, 0.28409, 3
+3, rock room, 0.656161, 6
+3, old band, 0.63859, 6
+3, Great dive bar, 0.835658, 7
+3, middle aged woman, 0.797744, 7
+3, pretty cool dude, 0.915475, 8
+3, Nice bartenders, 0.683762, 8
+4, deep-fried ok food, 0.726272, 0
+4, cent pizza boats, 0.710423, 0
+4, cheap sucker, 0.797325, 1
+4, CHEAP neighborhood bar, 0.947487, 2
+4, cheap stuff, 0.757936, 2
+4, cheap food, 0.900068, 3
+4, food specials, 0.849647, 3
+4, dive bar, 0.805097, 4
+4, place, 0.75513, 5
+4, people, 0.559848, 5
+4, daily food specials, 0.760874, 6
+4, pizza boats, 0.718171, 6
+4, local leather jacket, 0.685973, 7
+4, drink specials, 0.620846, 7
+4, Best place, 0.57216, 8
+4, food tastes, 0.587152, 9
+4, adventurous type, 0.555701, 9

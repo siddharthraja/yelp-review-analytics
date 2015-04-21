@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, terrible service, 0.452654, 0
+1, Gordon Ramsay Steak, 0.444107, 0
+1, chef ramsey, 0.409914, 1
+1, good meal opportunity, 0.404995, 1
+1, Gordon Ramsay Pub, 0.424733, 2
+1, tables, 0.423033, 2
+1, restaurant, 0.604765, 3
+1, people, 0.415226, 3
+1, food, 0.962018, 4
+1, Gordon Ramsay, 0.817964, 4
+1, place, 0.619472, 5
+1, pork belly, 0.599117, 5
+1, min, 0.402715, 6
+1, Gordon Ramsay restaurant, 0.537211, 7
+1, Gordon Ramsay fan, 0.433976, 7
+1, sticky toffee pudding, 0.560041, 8
+2, food service lesson, 0.522558, 0
+2, duck confit poutine, 0.493477, 0
+2, real pub food, 0.521049, 1
+2, stereotypical pub food, 0.514738, 1
+2, mushy peas, 0.526221, 2
+2, Gordon Ramsey restaurant, 0.497636, 2
+2, gordon ramsay, 0.95503, 3
+2, fast food burger, 0.500049, 3
+2, waiter, 0.709571, 4
+2, pub, 0.683638, 4
+2, food, 0.826719, 5
+2, service, 0.686189, 5
+2, dining experience, 0.529344, 6
+2, pork belly, 0.498409, 6
+2, Mr. Ramsay, 0.656438, 7
+2, lamb burger, 0.615008, 7
+2, new Ramsey Pub, 0.485483, 8
+2, good lamb flavor, 0.484594, 8
+2, beer list, 0.496335, 9
+2, beef cheek stew, 0.485592, 9
+3, Gordon Ramsay standard, 0.500077, 0
+3, pub style food, 0.498436, 0
+3, pub menu, 0.493234, 1
+3, Caesars Palace, 0.496989, 2
+3, pork belly, 0.539307, 3
+3, scotch egg, 0.533399, 3
+3, Gordon Ramsay, 0.930984, 4
+3, food, 0.788787, 4
+3, fish, 0.580161, 5
+3, place, 0.566081, 5
+3, ........., 0.514889, 6
+3, Gordon Ramsey, 0.51093, 6
+3, sticky toffee pudding, 0.713806, 7
+3, good service, 0.513819, 7
+3, Gordon Ramsay Steak, 0.672286, 8
+3, Gordon Ramsay Pub, 0.620674, 8
+3, good beer selection, 0.508637, 9
+4, food sampling event, 0.485828, 0
+4, British food, 0.50872, 1
+4, duck confit poutine, 0.532157, 2
+4, mushy peas, 0.527083, 2
+4, cheek sandwich, 0.523486, 3
+4, drink menu, 0.493325, 3
+4, Gordon Ramsay, 0.666225, 4
+4, chips, 0.600519, 4
+4, food, 0.787486, 5
+4, menu, 0.66665, 5
+4, lamb riblettes appetizer, 0.491935, 6
+4, steak fries, 0.485899, 6
+4, sticky toffee pudding, 0.957309, 7
+4, pub menu, 0.570533, 7
+4, pub food, 0.533202, 8
+4, yummy pub food, 0.53134, 8
+4, upscale pub food, 0.530967, 9
+5, good looking appetizers, 0.384493, 0
+5, Gordon Ramsay restaurant, 0.3925, 2
+5, Gordon Ramsey, 0.424313, 3
+5, pork belly, 0.595434, 4
+5, beer, 0.476885, 4
+5, sticky toffee pudding, 0.935388, 5
+5, food, 0.697315, 5
+5, service, 0.571147, 6
+5, pub, 0.525638, 6
+5, cheese, 0.437526, 7
+5, ......, 0.432778, 7
+5, great service, 0.475498, 8
+5, great food, 0.464024, 8
+5, great simple food, 0.430654, 9
+5, great time, 0.393915, 9

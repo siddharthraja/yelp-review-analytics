@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, half dozen wings, 0.751335, 0
+1, burger sans accoutrements, 0.698933, 0
+1, ice cream, 0.670869, 1
+1, drivers license, 0.604097, 1
+1, FUCKIN WINGS, 0.692412, 2
+1, chive-infused potato wedges, 0.692355, 2
+1, mediocre wings, 0.699368, 3
+1, good sports bar, 0.697772, 3
+1, order, 0.649497, 4
+1, time, 0.62546, 4
+1, wings, 0.976094, 5
+1, service, 0.725674, 5
+1, Buffalo Wild Wings, 0.94915, 6
+1, Caribbean Jerk wings, 0.778179, 6
+1, ......, 0.75576, 7
+1, big sized burgers, 0.693069, 8
+1, nice extra flavor, 0.67531, 8
+1, good friends, 0.626976, 9
+2, regular hockey season, 0.674875, 0
+2, hot wings, 0.666542, 0
+2, plastic basket, 0.504276, 1
+2, 21st century consumerism, 0.683945, 2
+2, loud sports bars, 0.675928, 2
+2, boneless wings, 0.879659, 3
+2, barely room temp, 0.664675, 3
+2, order, 0.495216, 4
+2, wings, 0.953492, 5
+2, food, 0.542711, 5
+2, ......, 0.929855, 6
+2, free trivia game, 0.709914, 6
+2, antiquated projection screen, 0.638761, 7
+2, asian wings, 0.618653, 7
+2, ..their wings, 0.630156, 8
+2, good portion, 0.482537, 8
+3, boneless wings, 0.559758, 0
+3, asian wings, 0.499287, 0
+3, dozen wings, 0.490461, 1
+3, dousche bags, 0.333916, 1
+3, beer Buffalo Wild, 0.45437, 2
+3, bar bacon cheeseburger, 0.450829, 2
+3, couple times, 0.452184, 3
+3, habanero sauce, 0.377329, 3
+3, food, 0.464991, 4
+3, wings, 0.997501, 5
+3, server, 0.355105, 5
+3, Buffalo Wild Wings, 0.891338, 6
+3, Red Sox games, 0.470409, 6
+3, habanero mango sauce, 0.499031, 7
+3, decent wings, 0.495129, 7
+3, vinager wings, 0.481119, 8
+3, European Soccer Championships, 0.424795, 8
+3, juice steak burger, 0.413711, 9
+4, Boneless wings Thursdays, 0.828708, 0
+4, Buffalo Wild Wings, 0.792026, 0
+4, Typical bar fare, 0.669487, 1
+4, extra ranch, 0.549981, 1
+4, sports bar, 0.684865, 2
+4, different favors, 0.554934, 2
+4, pretty large group, 0.708848, 3
+4, UFC fight, 0.569164, 3
+4, server, 0.548751, 5
+4, wings, 0.992951, 6
+4, bww, 0.597667, 6
+4, hot blonde girls, 0.688389, 7
+4, enthusiastic sports fans, 0.686931, 7
+4, boneless wings, 0.845509, 8
+4, best boneless wings, 0.840411, 8
+4, Buffalo wild wing, 0.873781, 9
+4, great place, 0.674864, 9
+5, agave wheat beer, 0.64288, 0
+5, atrocious experience, 0.495035, 0
+5, bar, 0.371118, 1
+5, outdoors, 0.370711, 1
+5, yells, 0.351801, 2
+5, preliminary fights, 0.525438, 3
+5, groups, 0.375389, 3
+5, people, 0.580096, 5
+5, area, 0.378876, 5
+5, Gilbert Rd location, 0.648991, 6
+5, new people, 0.536074, 6
+5, best wings, 0.761487, 7
+5, food, 0.701637, 7
+5, Buffalo Wild Wings, 0.945572, 8
+5, wings extra crispy, 0.765534, 8
+5, Super friendly staff, 0.63519, 9

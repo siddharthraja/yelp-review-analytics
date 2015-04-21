@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, tacos al pastor, 0.831621, 0
+1, Mahi fish tacos, 0.756442, 0
+1, chicken tacos, 0.668722, 1
+1, taco salad, 0.471224, 1
+1, Monday night, 0.50396, 2
+1, restaurant industry, 0.423728, 2
+1, red shirt smoking, 0.532184, 3
+1, turf taco, 0.493781, 3
+1, tacos, 0.964248, 4
+1, longboards, 0.562, 4
+1, California/ surf vibe, 0.509842, 6
+1, room temperature, 0.435793, 6
+1, Longboards tap, 0.488223, 7
+1, House space, 0.441604, 7
+1, past Longboards, 0.488852, 8
+2, tilapia tacos, 0.606627, 0
+2, mexican street corn, 0.601376, 0
+2, mid grade food, 0.539096, 1
+2, double corn tortillas, 0.5376, 1
+2, husbands pork tacos, 0.699514, 2
+2, different tacos, 0.619253, 2
+2, Mexican tacos, 0.631922, 3
+2, place, 0.584306, 3
+2, tacos, 0.928826, 4
+2, food, 0.680266, 4
+2, salsa, 0.62261, 5
+2, Tacos Al Pastor, 0.642731, 6
+2, corn tacos, 0.610073, 6
+2, healthy-ish tacos, 0.621006, 7
+2, pineapple salsa, 0.548278, 7
+2, beer selection, 0.757407, 8
+2, tempura avocado tacos, 0.690262, 8
+2, great beer selection, 0.651529, 9
+3, Mahi tacos, 0.815012, 0
+3, turf tacos, 0.800453, 0
+3, sorta bland tasting, 0.760598, 1
+3, additional food, 0.669968, 1
+3, pureed baby food, 0.803866, 2
+3, dark meat chicken, 0.77836, 2
+3, good fish tacos, 0.928782, 3
+3, service, 0.671612, 3
+3, tacos, 0.959453, 5
+3, place, 0.757487, 5
+3, salsa verde, 0.86788, 6
+3, live music, 0.815338, 6
+3, veggie tacos, 0.956614, 7
+3, pineapple salsa, 0.870347, 7
+3, street corn, 0.929902, 8
+3, taco place, 0.678579, 8
+3, pablano shrimp tacos, 0.940154, 9
+3, Mexican Street corn, 0.769333, 9
+4, southern fried tacos, 0.827491, 0
+4, fish tacos, 0.800566, 0
+4, lazy Saturday crowd, 0.695618, 1
+4, meaningful beer specials, 0.688334, 1
+4, cilantro sour cream, 0.860662, 2
+4, sour cream sauce, 0.685114, 2
+4, questionable surfboard artwork, 0.697677, 3
+4, beer specials, 0.691259, 3
+4, Longboards, 0.810808, 5
+4, menu, 0.665102, 5
+4, tacos, 0.958445, 6
+4, Mahi Avocado Taco, 0.747964, 6
+4, BBQ Mahi tacos, 0.865426, 7
+4, tilapia tacos, 0.807269, 7
+4, Tempura Avocado Tacos, 0.856337, 8
+4, tuna tacos, 0.83156, 8
+4, old Kenilworth Cafe, 0.714903, 9
+4, special price anyways, 0.681252, 9
+5, little plantain cups, 0.737106, 0
+5, local artists, 0.501441, 0
+5, client, 0.249324, 1
+5, traditional runny beans, 0.737901, 2
+5, Longboards, 0.363763, 4
+5, Tempura Avocado Taco, 0.901751, 6
+5, fish tacos, 0.667754, 6
+5, tacos, 0.671709, 7
+5, steak taco, 0.610976, 7
+5, cute shops, 0.532565, 8
+5, grand finale, 0.498905, 8
+5, wonderful zesty flavors, 0.713626, 9
+5, surf board decor, 0.669588, 9

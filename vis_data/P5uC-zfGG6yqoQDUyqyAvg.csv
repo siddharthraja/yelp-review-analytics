@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, warm crap wine, 0.744702, 0
+1, middle eastern music, 0.737446, 0
+1, uncomfortable high tops, 0.751499, 1
+1, bands HORRIBLE service, 0.747634, 1
+1, usual musty smell, 0.733422, 2
+1, bar room, 0.703285, 2
+1, AZ Wine Co., 0.754871, 3
+1, cover charge, 0.736636, 3
+1, service, 0.905534, 4
+1, wine, 0.829703, 4
+1, Friday night, 0.808287, 6
+1, onesie unisex restrooms, 0.731448, 6
+1, town wine bar, 0.781236, 7
+1, distinctive muscat nose, 0.722111, 7
+1, Interesting place, 0.696963, 8
+2, wine flights, 0.648615, 0
+2, good eye contact, 0.563475, 0
+2, little older crowd, 0.553446, 1
+2, little yellow lights, 0.540431, 1
+2, wine bar, 0.786755, 2
+2, old town, 0.637276, 2
+2, lit wine bar, 0.595606, 3
+2, nice big cab, 0.575542, 3
+2, wine, 0.953143, 4
+2, time, 0.650946, 4
+2, place, 0.773277, 5
+2, wine list, 0.649933, 5
+2, food menu, 0.630057, 6
+2, Cotes Du Rhone, 0.553503, 6
+2, reasonably priced malbec, 0.54126, 7
+2, nice place, 0.504998, 7
+2, unbelievable wine selection, 0.612956, 8
+2, nice wine selection, 0.572017, 8
+2, best olive bowl, 0.549386, 9
+2, wonderful place, 0.520198, 9
+3, drinking fine wine, 0.536117, 0
+3, wine cave, 0.521313, 0
+3, Roam wine, 0.504664, 1
+3, wine business, 0.507153, 2
+3, times, 0.499267, 2
+3, wine book, 0.496997, 3
+3, wine selection, 0.624444, 4
+3, service, 0.596167, 4
+3, wine, 0.98851, 5
+3, place, 0.849508, 5
+3, wine bar, 0.659827, 6
+3, glass, 0.524147, 6
+3, great wine, 0.629064, 7
+3, great wine list.., 0.563577, 7
+3, great place, 0.640715, 8
+3, nice wine bar, 0.555999, 8
+3, unique wine list, 0.529073, 9
+3, wine prices, 0.499985, 9
+4, diamond wine bar, 0.437999, 0
+4, overbearing wine list, 0.429519, 0
+4, wine glass, 0.40463, 1
+4, lit wine bar, 0.42422, 2
+4, white wine selection, 0.441602, 3
+4, favorite wine bar, 0.421652, 3
+4, wine list, 0.856427, 4
+4, Cowboy Ciao, 0.466492, 4
+4, wine, 0.992609, 5
+4, place, 0.721809, 5
+4, food, 0.490676, 6
+4, time, 0.49006, 6
+4, wine selection, 0.552733, 7
+4, great wine bar, 0.477444, 7
+4, great wine, 0.499034, 8
+4, Great wine selection, 0.449271, 8
+4, great place, 0.519157, 9
+4, huge wine list, 0.463403, 9
+5, total wine novice, 0.36377, 0
+5, speakeasy wine bar, 0.359047, 0
+5, tacky wine menu, 0.341986, 1
+5, lit wine bar, 0.375335, 3
+5, wines, 0.38456, 4
+5, Scottsdale, 0.341976, 4
+5, wine, 0.954284, 5
+5, wine bar, 0.594107, 5
+5, place, 0.761658, 6
+5, old town, 0.564148, 6
+5, wine selection, 0.490334, 7
+5, extensive wine list, 0.464034, 7
+5, wine list, 0.871997, 8
+5, wine flights, 0.461861, 8
+5, good wine, 0.371381, 9
+5, superb wine list, 0.360742, 9

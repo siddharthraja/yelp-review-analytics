@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, portabello mushroom burger, 0.92188, 0
+1, original portabello mushroom, 0.759818, 0
+1, beef short ribs, 0.706077, 1
+1, lousy cover band, 0.695259, 1
+1, short ribs, 0.851588, 2
+1, corned beef, 0.684924, 2
+1, portabello patties, 0.741737, 3
+1, sliced mushroom sandwich, 0.714833, 3
+1, server, 0.639193, 4
+1, food, 0.75602, 5
+1, Ri Ra, 0.868938, 6
+1, portabello mushroom patties, 0.770241, 6
+1, Lovely place, 0.626443, 7
+1, beer selection, 0.707479, 8
+1, great beer selection, 0.702297, 8
+1, nice looking place, 0.680969, 9
+2, cold french fries, 0.826202, 0
+2, overly large portion, 0.822032, 0
+2, overly salty sauce, 0.822192, 1
+2, sports bar galore, 0.821274, 1
+2, sparse ground beef, 0.802874, 2
+2, mixed vegetables, 0.802534, 2
+2, Ri Ra Sandwhich, 0.879388, 3
+2, Harvest Moon Grille, 0.802778, 3
+2, cottage pie, 0.847742, 5
+2, saving grace, 0.800304, 6
+2, spinach dip, 0.797129, 6
+2, Ri Ra, 0.985524, 7
+2, old faithful Reuben, 0.796251, 7
+2, comfort food dishes, 0.81206, 8
+2, quality food, 0.766723, 8
+2, nice pub atmosphere, 0.812507, 9
+3, pre-fire Ri Ra, 0.539911, 0
+3, good place, 0.537716, 0
+3, Ho-Hum bar experience, 0.516932, 1
+3, cookie-cutter Irish pub, 0.514886, 1
+3, nice pub, 0.503191, 2
+3, Decent bar food, 0.557924, 3
+3, authentic Irish Pub, 0.520533, 3
+3, time, 0.631579, 4
+3, downtown Charlotte, 0.522321, 4
+3, Ri Ra, 0.996326, 5
+3, irish pub, 0.804595, 5
+3, place, 0.785959, 6
+3, goat cheese, 0.544283, 6
+3, good food, 0.557837, 7
+3, Ri Ra sandwich, 0.557222, 7
+3, good beer selection, 0.613508, 8
+3, pretty good experience, 0.554321, 8
+3, pretty good beer, 0.567328, 9
+3, Food wise-the burgers, 0.513119, 9
+4, average Irish pub, 0.667301, 0
+4, chain Irish pubs, 0.64985, 2
+4, bar, 0.662008, 4
+4, good time, 0.661162, 4
+4, Ri Ra, 0.96148, 5
+4, irish pub, 0.806732, 5
+4, Ri Ra BBQ, 0.694969, 6
+4, Ri Ra Rocks, 0.685063, 6
+4, guinness bbq burger, 0.673053, 7
+4, live music, 0.670913, 7
+4, great irish pub, 0.708714, 8
+4, potato tater tots, 0.705686, 8
+4, pub food, 0.652993, 9
+4, good care, 0.64432, 9
+5, Discovery Place parking, 0.646677, 0
+5, normal Guiness stew, 0.637516, 0
+5, dark wood characteristic, 0.632332, 1
+5, succulent sandwich filler, 0.641332, 2
+5, irish pubs, 0.721348, 3
+5, steak pie, 0.648534, 3
+5, Ri Ra, 0.977468, 4
+5, late night menu, 0.783148, 5
+5, place, 0.712979, 6
+5, lunch menu, 0.710062, 6
+5, Friday night, 0.734746, 7
+5, Irish pub, 0.722514, 7
+5, great food, 0.768063, 8
+5, pub food, 0.723438, 8
+5, great place, 0.65094, 9
+5, Fantastic pub atmosphere, 0.639069, 9

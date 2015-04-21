@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, sports grill, 0.913836, 0
+1, Stadium Sports Grill, 0.866487, 0
+1, barely legal bartender, 0.880592, 1
+1, poor service, 0.857685, 1
+1, worse service, 0.650005, 2
+1, wrong table, 0.626285, 2
+1, wait time, 0.637032, 3
+1, party, 0.557937, 3
+1, people, 0.489361, 4
+1, pork sandwich, 0.671794, 6
+1, conceivable way, 0.666178, 6
+1, important celebration, 0.634362, 7
+1, family, 0.44407, 7
+2, green chile cheese, 0.923066, 0
+2, high competition location, 0.864312, 0
+2, minimal arugula, 0.774426, 1
+2, poor service, 0.772725, 1
+2, sports bar, 0.778793, 2
+2, old glasses, 0.777825, 2
+2, importantly NO BACON, 0.785423, 3
+2, rib eye, 0.763934, 3
+2, beer cheese, 0.886141, 4
+2, place, 0.910131, 5
+2, buddy, 0.698338, 5
+2, Stadium Sports Grill, 0.872078, 6
+2, beer pong, 0.749586, 6
+2, bacon bleu cheese, 0.93833, 7
+2, Chicken Fingers, 0.896497, 7
+2, Nice big TV, 0.898906, 9
+3, wings, 0.559471, 1
+3, turkey sandwich, 0.996857, 2
+3, food, 0.655178, 2
+3, Great bar, 0.982799, 7
+3, good drinks, 0.91407, 7
+3, service, 0.534474, 9
+3, care, 0.533212, 9
+4, killer beer list, 0.894288, 0
+4, Sports atmosphere, 0.500112, 0
+4, Tempe Marketplace, 0.475563, 2
+4, MLB package, 0.473106, 2
+4, work, 0.20193, 5
+4, Sonoran Style Hot, 0.915457, 6
+4, small talk, 0.417136, 6
+4, habenero buffalo sauce, 0.834089, 8
+5, football leather seats, 0.807795, 0
+5, Woodchuck Granny Smith, 0.80026, 0
+5, sports bars, 0.79934, 1
+5, average sports bar, 0.799265, 1
+5, annoying sports bar, 0.838569, 2
+5, old tv, 0.653801, 2
+5, bar tops, 0.682505, 3
+5, comfy booths, 0.674997, 3
+5, sports bar, 0.999658, 4
+5, stadium sports grill, 0.788531, 6
+5, tempe marketplace, 0.781677, 6
+5, gourmet bar food, 0.781823, 7
+5, Phoenix Metro area, 0.774311, 7
+5, GREAT customer service, 0.755012, 8
+5, great service, 0.677345, 8
+5, great food, 0.677423, 9
+5, Great place, 0.669124, 9

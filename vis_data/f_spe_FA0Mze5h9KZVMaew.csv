@@ -1,0 +1,15 @@
+rating, keyword, relevance, bucket
+3, bacon cheeseburger, 0.993082, 0
+3, complaints, 0.636555, 2
+3, Bar, 0.508736, 3
+3, room, 0.507422, 3
+3, soup, 0.804939, 7
+3, Service, 0.532167, 7
+4, different menu options, 0.987669, 0
+4, waitress, 0.599005, 6
+4, hurry, 0.599636, 7
+4, bit, 0.532453, 7
+4, Great job, 0.809693, 8
+4, fries, 0.547078, 8
+4, cx service, 0.887306, 9
+4, great work, 0.732699, 9

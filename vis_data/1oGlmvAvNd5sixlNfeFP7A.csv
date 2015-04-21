@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+2, fish tacos, 0.913297, 0
+2, biscuits, 0.400986, 0
+2, Bloody Mary, 0.827933, 2
+2, gravy, 0.628803, 3
+2, tortillas, 0.431354, 3
+2, eggs, 0.408679, 6
+2, husband, 0.380653, 6
+2, nachos, 0.489611, 8
+2, staff, 0.487646, 8
+3, spicy foods, 0.923177, 2
+3, date night, 0.461496, 2
+3, super spicy, 0.767425, 6
+3, horse radish, 0.50962, 6
+3, portions, 0.203848, 7
+4, cotton candy tower, 0.852875, 0
+4, HUGE plate, 0.656044, 0
+4, pancakes, 0.414195, 6
+4, cinnamon honey butter, 0.944446, 7
+4, electric bull, 0.614281, 7
+4, MMMMM, 0.419438, 8
+4, place, 0.356647, 8
+4, non busy night, 0.855699, 9
+4, superb service, 0.608255, 9

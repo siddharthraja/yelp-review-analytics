@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, women wearing heels, 0.905784, 0
+1, worst bottle service, 0.879039, 0
+1, restroom situation, 0.702712, 1
+1, promising things, 0.660191, 1
+1, EDM scene, 0.717987, 2
+1, dilapidated building, 0.706944, 2
+1, stall lock, 0.682307, 3
+1, lower level, 0.669297, 3
+1, upper level, 0.666395, 6
+1, portion, 0.457574, 6
+1, teeny tiny shot, 0.943575, 7
+1, drink prices, 0.692961, 7
+1, patio, 0.457053, 8
+2, major EDM enthusiast, 0.936718, 0
+2, normal club prices, 0.935297, 0
+2, dance floor, 0.916438, 1
+2, good people, 0.827726, 1
+2, major disappointments, 0.819856, 2
+2, single time, 0.815804, 2
+2, snooty Jagermeister girls, 0.92913, 3
+2, regular night, 0.812708, 3
+2, place, 0.932923, 4
+2, EDM DJ, 0.828004, 6
+2, Fusion Fridays, 0.820917, 6
+2, Electronic music, 0.837452, 7
+2, great sound, 0.835146, 7
+2, good sound engineers, 0.938622, 8
+2, Monarch Theatre, 0.80997, 8
+2, good ole Phoenix, 0.913844, 9
+2, fun people, 0.812887, 9
+3, soda costs, 0.564196, 0
+3, Monarch, 0.317927, 0
+3, special events, 0.516301, 2
+3, drink prices, 0.815441, 3
+3, major qualm, 0.610492, 3
+3, floors, 0.291204, 6
+3, seating, 0.289876, 6
+3, good drinks, 0.548981, 7
+3, bartenders, 0.310073, 7
+3, art show/dance night/party, 0.922462, 8
+3, cool place, 0.53123, 8
+4, singer Nadia Ali, 0.960267, 0
+4, regular pricing, 0.664399, 0
+4, early cuz, 0.772344, 2
+4, dark tunnel, 0.669419, 2
+4, -D TURN, 0.770653, 3
+4, stair, 0.459334, 3
+4, James Zabiela, 0.74558, 6
+4, Danny Howells, 0.722775, 6
+4, great sound systems, 0.962251, 7
+4, bring ear plugs, 0.940287, 7
+4, Crystal Method tmr, 0.945946, 8
+4, giant open space, 0.867646, 8
+5, Monarch Theater, 0.773065, 0
+5, Downtown Phoenix bar, 0.752004, 0
+5, FOUL PLAY, 0.617774, 1
+5, robotic tendencies, 0.615034, 1
+5, UK Thursdays, 0.731437, 2
+5, Downtown Phoenix, 0.838115, 3
+5, south end, 0.764275, 3
+5, mark farina, 0.90521, 5
+5, big techno fan, 0.689543, 6
+5, sound, 0.64459, 6
+5, double shows, 0.616209, 7
+5, notch artists, 0.615813, 7
+5, night club/bar venue, 0.721632, 8
+5, crowd pleaser, 0.656132, 8
+5, Monarch Theatre, 0.759862, 9
+5, extremely reasonable price, 0.692417, 9

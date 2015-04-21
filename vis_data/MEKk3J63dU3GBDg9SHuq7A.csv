@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, cushions topsy turvy, 0.88811, 0
+1, Sat night, 0.810681, 0
+1, bar, 0.951062, 1
+1, absolute worst experience, 0.905958, 1
+1, couple draft beers, 0.854632, 2
+1, multiple servers, 0.747555, 2
+1, fewer veg options, 0.907906, 3
+1, grilled cheese sandwich, 0.896354, 3
+1, time, 0.740407, 4
+1, customers, 0.721283, 5
+1, Friday night, 0.883412, 6
+1, web site, 0.768965, 6
+1, nearby establishments, 0.762961, 7
+1, professional bartenders, 0.75622, 7
+1, fair solution, 0.75874, 8
+1, Good music, 0.74873, 8
+2, Gras pub crawl, 0.760437, 0
+2, time pool party, 0.74136, 0
+2, hotel.. bad ass, 0.772698, 1
+2, pretty bad experience, 0.749057, 1
+2, dark haired girl, 0.967781, 2
+2, outrageously RUDE waitstaff, 0.794909, 2
+2, Lustre Bar, 0.944089, 3
+2, arrogant butcher, 0.777939, 3
+2, middle aged woman, 0.723757, 4
+2, public pool, 0.630587, 4
+2, place, 0.88346, 5
+2, good time, 0.65515, 6
+2, real meat, 0.62751, 6
+2, Great experience, 0.656003, 7
+2, Cool place, 0.639611, 7
+2, perfect temperature, 0.644985, 8
+2, best job, 0.632198, 8
+2, craft cocktails, 0.62641, 9
+3, Blue Hound kitchen, 0.645644, 0
+3, Pretty average experience, 0.639126, 0
+3, weak drinks, 0.640343, 1
+3, lamps so groups, 0.484421, 1
+3, NYE menu, 0.518933, 2
+3, train wreck, 0.481922, 2
+3, NYE party, 0.674218, 3
+3, outdoor bar, 0.502767, 3
+3, bar, 0.840087, 4
+3, food, 0.497604, 4
+3, people, 0.560828, 5
+3, champagne, 0.386176, 5
+3, Winter Wonderland party, 0.700852, 6
+3, Lustre Bar, 0.674848, 6
+3, drinks, 0.915597, 7
+3, head chef, 0.499902, 7
+3, comfortable seating, 0.496097, 9
+4, palomar hotel, 0.621761, 0
+4, restaurants Lustre neede, 0.599987, 0
+4, trendy roof-top bar, 0.53799, 1
+4, little bit, 0.550092, 2
+4, little downtown bar, 0.597824, 3
+4, bar area, 0.540473, 3
+4, drinks, 0.712864, 4
+4, Hotel Palomar, 0.590581, 4
+4, lustre bar, 0.934165, 5
+4, pool, 0.744873, 5
+4, night, 0.53457, 6
+4, pool party, 0.521282, 6
+4, great rooftop bar, 0.686188, 7
+4, stylish Lustre Bar, 0.621771, 7
+4, downtown phoenix, 0.960296, 8
+4, great bar, 0.606133, 8
+4, Lustre Rooftop Garden, 0.605656, 9
+4, downtown city scape, 0.550396, 9
+5, floor open roof, 0.423713, 0
+5, decent red blends, 0.418834, 0
+5, short young lady, 0.429241, 1
+5, straight black hair, 0.425184, 1
+5, downtown rooftop bar, 0.561507, 3
+5, good bar, 0.42434, 3
+5, Lustre Bar, 0.995523, 5
+5, place, 0.441727, 5
+5, rooftop bar, 0.703549, 6
+5, drinks, 0.617714, 6
+5, LOVE Lustre Bar, 0.722097, 7
+5, Lustre burger, 0.580802, 7
+5, air rooftop bar, 0.558636, 8
+5, Awesome rooftop bar, 0.532989, 8
+5, Lustre cool, 0.572612, 9
+5, ya Lustre, 0.562149, 9

@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+3, watering hole list, 0.828447, 0
+3, things Scottish football, 0.825628, 0
+3, red wine, 0.70342, 1
+3, dislike, 0.628504, 1
+3, wince, 0.630461, 2
+3, World football, 0.726541, 3
+3, local bar, 0.724523, 3
+3, SPL, 0.668534, 4
+3, international bar, 0.996216, 5
+3, Beer variety, 0.714436, 6
+3, dart board, 0.706619, 6
+3, passionate locals, 0.724677, 7
+3, decent bar, 0.721282, 7
+3, fairly traditional pub, 0.815026, 8
+3, standard pub, 0.714791, 8
+4, Celtic supporters bus, 0.979432, 0
+4, Celtic game, 0.695257, 0
+4, telly, 0.483484, 2
+4, odd tourist, 0.732225, 3
+4, locals, 0.60348, 3
+4, corner pubs, 0.804695, 6
+4, corner shops, 0.765612, 6
+4, favourite pubs, 0.770698, 7
+4, Tollcross area, 0.7534, 7
+4, cocktail list, 0.745674, 8
+4, attention, 0.459882, 8
+4, sufficient calibre, 0.799565, 9
+4, good chance, 0.742653, 9

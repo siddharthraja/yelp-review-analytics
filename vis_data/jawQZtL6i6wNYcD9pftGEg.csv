@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, quirky little waitress, 0.909216, 0
+1, police mug shots, 0.860131, 0
+1, poor waitress, 0.86345, 1
+1, average bar food, 0.848555, 1
+1, Holy crap, 0.762125, 2
+1, Scottsdale Rd, 0.752733, 2
+1, ultra nuclearmeltdown verioun, 0.863594, 3
+1, people, 0.819677, 3
+1, service, 0.858361, 4
+1, beer, 0.767601, 4
+1, place, 0.825378, 5
+1, fairly large group, 0.861561, 6
+1, new place, 0.7658, 6
+1, Magic/Knicks game, 0.758752, 7
+1, quick snack, 0.75524, 7
+1, good thing, 0.850126, 8
+1, good luck, 0.734468, 8
+2, Yah ill pass, 0.740671, 0
+2, Philly cheese steak, 0.740318, 0
+2, food specials BAD, 0.749867, 1
+2, good drink, 0.606248, 1
+2, good place, 0.614353, 2
+2, bad place, 0.60521, 2
+2, corner bar, 0.606999, 3
+2, great place, 0.601889, 3
+2, place, 0.923139, 4
+2, fights, 0.463325, 4
+2, time, 0.760852, 5
+2, waitress, 0.730069, 5
+2, hot wings, 0.771526, 7
+2, honey hot wings, 0.729334, 7
+2, decent beer selection, 0.71531, 8
+2, complimentary schnapps, 0.612892, 8
+3, best damn server, 0.923568, 0
+3, real beer, 0.615633, 0
+3, pizza slices, 0.754719, 2
+3, grueling reviews, 0.64467, 2
+3, Walmart deli, 0.67591, 3
+3, light beers, 0.642022, 3
+3, nice big beers, 0.954829, 7
+3, decent selection, 0.68005, 7
+3, pretty good selection, 0.916834, 8
+3, Wednesday Wing Night, 0.911436, 8
+3, toppings, 0.393477, 9
+3, waitresses, 0.392682, 9
+4, typical broads, 0.755557, 0
+4, MLB package, 0.70364, 0
+4, neighborhood bar atmosphere, 0.870184, 1
+4, low rating, 0.724559, 1
+4, Numerous flat screens, 0.903295, 2
+4, negative reviews, 0.685, 2
+4, NFL drink specials, 0.943031, 3
+4, drawback, 0.480792, 3
+4, time, 0.506193, 4
+4, night, 0.454112, 4
+4, food, 0.51015, 6
+4, drinks, 0.451256, 6
+4, Beer cold, 0.703851, 7
+4, good lunch, 0.698144, 7
+4, buffalo chicken salad, 0.935043, 8
+4, beers, 0.522589, 8
+4, Great pizza, 0.691817, 9
+4, great service, 0.652458, 9
+5, big beers, 0.832096, 0
+5, freakn weeknight, 0.762803, 0
+5, Great music videos, 0.98647, 7
+5, wings people, 0.816591, 7

@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, phone number, 0.615365, 0
+1, customer, 0.518345, 0
+1, pita jungle, 0.657933, 2
+1, crust, 0.44771, 2
+1, food, 0.540754, 3
+1, onion, 0.509836, 3
+1, bread, 0.454394, 4
+1, air, 0.450633, 4
+1, waitress, 0.560946, 5
+1, restaurant, 0.485413, 5
+1, eggplant parm, 0.702323, 6
+1, pizza, 0.495132, 6
+1, recommend cheese steak, 0.905115, 7
+1, chef, 0.522543, 7
+2, true pizza joints, 0.962808, 0
+2, fresh cracked pepper, 0.935065, 0
+2, takeout, 0.580616, 2
+2, antipasto, 0.506151, 2
+2, Sat, 0.487112, 3
+2, patio, 0.482898, 3
+2, Gelato Spot, 0.739536, 6
+2, stand-out, 0.492287, 6
+2, place, 0.538527, 8
+2, great pizza, 0.736885, 9
+3, roasted beets, 0.909196, 0
+3, Peaks Hop Knot, 0.898781, 0
+3, canned beets, 0.913987, 2
+3, real beets, 0.879659, 2
+3, overall pizza, 0.740202, 3
+3, place, 0.575404, 3
+3, beets, 0.958374, 4
+3, bit, 0.566859, 4
+3, restaurant, 0.618998, 5
+3, water, 0.61598, 5
+3, il capo, 0.90376, 6
+3, pizza, 0.817225, 6
+3, balsamic reduction, 0.721268, 7
+3, shopping plaza, 0.706756, 7
+3, penne alla vodka, 0.853789, 8
+3, similar pasta dish, 0.838543, 8
+4, sea salt caramel, 0.740055, 0
+4, single menu item, 0.739753, 0
+4, annoying obnoxious way, 0.754162, 1
+4, Chuck E. Cheese, 0.740786, 1
+4, Chopped Salad, 0.721174, 3
+4, delicious meal, 0.716436, 3
+4, place, 0.742633, 5
+4, pizza, 0.987452, 6
+4, small specialty pizza, 0.849251, 6
+4, free funghi pizza, 0.872566, 7
+4, il capo, 0.844273, 7
+4, meatball pizza, 0.868081, 8
+4, great pizza, 0.859794, 8
+4, pizza crust, 0.819138, 9
+4, honey shallot vinaigrette, 0.750941, 9
+5, mom good pizza, 0.604259, 0
+5, NY Italian food, 0.560615, 0
+5, rice ball, 0.531655, 1
+5, il capo, 0.996863, 5
+5, pizza, 0.815804, 5
+5, garlic knots, 0.880051, 6
+5, place, 0.651309, 6
+5, service, 0.696277, 7
+5, food, 0.662887, 7
+5, great service, 0.642626, 8
+5, eggplant parm, 0.617948, 8
+5, incredibly good pizza, 0.599828, 9
+5, Great Customer service, 0.559792, 9

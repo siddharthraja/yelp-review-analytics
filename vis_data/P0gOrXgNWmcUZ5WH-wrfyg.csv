@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+2, Seriously overpriced drinks, 0.671793, 0
+2, Flemmings house potatoes, 0.660957, 0
+2, Worse restaurant, 0.628446, 1
+2, good reviews, 0.60931, 1
+2, terrible steak, 0.692172, 2
+2, pathetic little glass, 0.660058, 2
+2, school cafeteria menu, 0.688139, 3
+2, Charlotte restaurant, 0.624, 3
+2, steak, 0.849856, 4
+2, restaurant, 0.766099, 4
+2, food, 0.745429, 5
+2, service, 0.687593, 5
+2, steak house, 0.680695, 6
+2, sweet chile taste, 0.657664, 6
+2, french onion soup, 0.936264, 7
+2, Grade A steak, 0.689637, 7
+2, great place, 0.68652, 8
+2, better food ambiance, 0.674903, 8
+2, sweet chile calamari, 0.65964, 9
+2, interactive wine menu, 0.654565, 9
+3, various filet mignon, 0.653931, 0
+3, RUBBED FILET MIGNON, 0.64994, 0
+3, steak house rotation, 0.69013, 2
+3, Flemmings steak, 0.626946, 2
+3, bar area, 0.665537, 3
+3, bit, 0.647265, 3
+3, filet mignon, 0.871236, 4
+3, Fleming, 0.664477, 4
+3, steak, 0.906021, 5
+3, steak house, 0.829866, 5
+3, nice steak house, 0.736751, 6
+3, Capital Grille, 0.701635, 6
+3, steak place repertoire, 0.702268, 7
+3, garlic mashed potatoes, 0.628638, 7
+3, great steak house, 0.81782, 8
+3, fab steak joints, 0.686597, 8
+3, pretty good selection, 0.67859, 9
+3, Consistently good food, 0.672479, 9
+4, ribeye steak, 0.735521, 2
+4, prime rib, 0.71111, 2
+4, NY Strip steak, 0.762111, 3
+4, bar, 0.704498, 3
+4, steak, 0.986327, 5
+4, service, 0.799577, 5
+4, red wine, 0.768197, 6
+4, steak places, 0.736486, 6
+4, steak house, 0.764052, 7
+4, best steak houses, 0.759771, 7
+4, wine list, 0.892608, 8
+4, good steak, 0.796015, 8
+4, steak quality, 0.733993, 9
+4, great light dinner, 0.726258, 9
+5, high end steak, 0.713264, 0
+5, big steak house, 0.723258, 3
+5, steaks, 0.726416, 4
+5, good food, 0.720994, 4
+5, food, 0.898454, 5
+5, sides, 0.721577, 5
+5, Fleming, 0.822352, 6
+5, meal, 0.799201, 6
+5, filet, 0.771326, 7
+5, filet mignon, 0.752972, 7
+5, service, 0.908004, 8
+5, great food, 0.854686, 8
+5, great steak, 0.797364, 9
+5, great Steak house, 0.790079, 9

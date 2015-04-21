@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, absolute worst service, 0.727421, 0
+1, BBQ ranch chicken, 0.726686, 0
+1, waitress, 0.83997, 1
+1, total train wreck, 0.744615, 1
+1, appeal Bar Louis, 0.743957, 2
+1, Masterpiece hickory BBQ, 0.731266, 2
+1, food, 0.711973, 3
+1, mixed drinks, 0.686345, 3
+1, Bar Louie, 0.961363, 4
+1, drinks, 0.83302, 4
+1, Sam Adams, 0.774887, 6
+1, Adams light bottle, 0.746608, 6
+1, particular restaurant benefits, 0.733399, 7
+1, decent sized piece, 0.732975, 7
+1, BBQ ranch dressing, 0.730182, 8
+2, pretty standard mass, 0.401618, 0
+2, island iced tea, 0.400393, 0
+2, long island, 0.399371, 1
+2, long island tea, 0.39513, 1
+2, HH pricing, 0.387496, 2
+2, John R. Went, 0.38642, 2
+2, Bar Louie Fan, 0.411156, 3
+2, baked goat cheese, 0.377856, 3
+2, Bar Louie, 0.90143, 4
+2, food, 0.725114, 4
+2, drinks, 0.641916, 5
+2, quick bite, 0.393559, 5
+2, iced tea, 0.519008, 6
+2, happy hour drinks, 0.362012, 6
+2, general pleasant experience, 0.374389, 7
+2, spinach artichoke dip, 0.373962, 7
+2, hummus appetizer, 0.325288, 8
+2, open windows, 0.314286, 8
+3, post movie food, 0.706492, 0
+3, baked goat cheese, 0.684973, 0
+3, large flatscreen tvs, 0.688107, 1
+3, multiple miller lites, 0.678934, 1
+3, single time, 0.620212, 2
+3, awful service, 0.616398, 2
+3, bar food, 0.709895, 3
+3, huge air head, 0.671631, 3
+3, Bar Louie, 0.916773, 4
+3, food, 0.740554, 5
+3, 75 cents, 0.658682, 5
+3, special martinis, 0.713806, 6
+3, red zinfandel, 0.653277, 6
+3, Dollar Burger Night, 0.74079, 7
+3, tempura shrimp, 0.710714, 7
+3, loud large groups, 0.690597, 8
+3, BBQ Burger, 0.681528, 8
+3, Great atmosphere, 0.619701, 9
+4, outdoor dining experience, 0.68697, 0
+4, Whiskey cake, 0.562246, 0
+4, fanatically cheap movie, 0.696699, 1
+4, extensive martini list, 0.693348, 1
+4, Bar Louie, 0.979625, 2
+4, real berries, 0.575688, 2
+4, honey mustard, 0.589489, 3
+4, huge bar, 0.585465, 3
+4, pretzel sticks, 0.767522, 6
+4, drinks, 0.720426, 6
+4, spicy queso dip, 0.793755, 7
+4, nice outdoor seating, 0.745603, 7
+4, nice cozy setting, 0.755728, 8
+4, Fantastic food, 0.615778, 8
+4, good place, 0.594249, 9
+4, chicken salad, 0.578552, 9
+5, Lemon Drop Martini, 0.976948, 0
+5, Bar Tender, 0.501668, 0
+5, ons, 0.200122, 6
+5, handsome guy Great, 0.902788, 7
+5, burger night, 0.57996, 7
+5, favorite places, 0.471048, 8
+5, tempura shrimp, 0.569387, 9
+5, enjoyable bartenders, 0.556687, 9

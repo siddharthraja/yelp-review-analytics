@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, grandmothers Italian cooking, 0.847699, 0
+1, crappy prices, 0.783307, 0
+1, crappy bar food, 0.965717, 1
+1, nearly empty..I think, 0.806929, 1
+1, dining area, 0.882853, 2
+1, fried mozzerella, 0.822507, 2
+1, Heck Mr. Irving, 0.78686, 3
+1, Local Vegas joints, 0.785308, 3
+1, cesar salad, 0.869864, 4
+1, place, 0.645914, 4
+1, meatball sandwich, 0.879258, 5
+1, bartender, 0.57477, 5
+1, alfredo sauce, 0.899623, 6
+1, old head chef, 0.784378, 6
+1, yummy Italian dish, 0.827392, 7
+1, Chicken Alfredo, 0.711416, 7
+1, sweet offer, 0.659162, 8
+2, Half price night, 0.679082, 0
+2, nephews bottle, 0.563343, 0
+2, big sports bar, 0.678647, 1
+2, place, 0.430777, 1
+2, decent food, 0.562511, 2
+2, bad service, 0.544125, 2
+2, meatball sub, 0.561023, 3
+2, golf ball, 0.556456, 3
+2, bread, 0.976928, 5
+2, food, 0.804694, 5
+2, tax, 0.430939, 6
+2, tip, 0.430416, 6
+2, Alfredo, 0.539658, 7
+2, deserts, 0.435417, 7
+2, bread sticks, 0.671572, 8
+2, objective go mondays, 0.552294, 8
+3, bread sandwich rolls, 0.926928, 0
+3, work holiday party., 0.821667, 0
+3, Penne Alla Vodka, 0.993837, 1
+3, philly cheesesteaks, 0.654965, 1
+3, oldskool villa pizza, 0.946495, 2
+3, juice, 0.263477, 3
+3, fried mozzarella, 0.61124, 6
+3, vento family, 0.599567, 6
+3, pastas, 0.291748, 7
+3, place, 0.273712, 7
+3, regular-priced breakfast, 0.541923, 8
+3, food, 0.261692, 8
+4, quality bacon strips, 0.648441, 0
+4, old Carmine, 0.624881, 0
+4, late night menu, 0.67749, 1
+4, free tiramisu, 0.601596, 1
+4, average vantage point, 0.648014, 2
+4, sports fantatics, 0.603141, 2
+4, sizable dining room, 0.659126, 3
+4, solitary yard banner, 0.644148, 3
+4, pregnant wife, 0.642201, 4
+4, bar area, 0.764208, 5
+4, food, 0.729935, 5
+4, bar, 0.924955, 6
+4, Big Screen TV, 0.695564, 6
+4, Great local bar, 0.725683, 7
+4, fun local bar, 0.717566, 7
+4, nice menu items, 0.683874, 8
+4, great service, 0.673981, 8
+4, couple cool suds, 0.666221, 9
+4, food tastes, 0.631731, 9
+5, chicken parm sandwich, 0.735251, 0
+5, school Italian style, 0.731099, 0
+5, bar door, 0.637368, 1
+5, bartenders not waiters, 0.614523, 2
+5, Foul Language, 0.621731, 3
+5, time, 0.695828, 4
+5, dining area, 0.910871, 5
+5, bar, 0.881585, 5
+5, pepperoni pizza, 0.827614, 6
+5, favorite Italian places, 0.740983, 6
+5, favorite Italian place, 0.745936, 7
+5, pregnant wife, 0.718176, 7
+5, great food, 0.799133, 8
+5, chicken Marsala, 0.76461, 8
+5, great personality, 0.635334, 9
+5, Italian omlet, 0.629087, 9

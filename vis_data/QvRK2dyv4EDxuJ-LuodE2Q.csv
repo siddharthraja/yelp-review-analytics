@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, fellow restaurant manager, 0.733072, 0
+1, General Manager, 0.727662, 0
+1, initial horrible experience, 0.734936, 1
+1, flight good luck, 0.725235, 1
+1, tomato juice, 0.893772, 2
+1, birthday girl, 0.788949, 2
+1, food, 0.942352, 3
+1, new waitress, 0.764709, 3
+1, service, 0.929324, 4
+1, manager, 0.906395, 4
+1, Gordon Biersch, 0.868581, 5
+1, stir fry, 0.821074, 5
+1, Customer service rule, 0.734763, 6
+1, night, 0.693174, 6
+1, jazz band, 0.731385, 7
+1, better stir fry, 0.729862, 7
+1, Sunday Brunch, 0.732882, 8
+2, Bone-In Ribeye Steak, 0.641464, 0
+2, Choice grade steak, 0.631415, 0
+2, fast food place, 0.670601, 1
+2, fresh brewed beer, 0.602787, 1
+2, kobe burger, 0.64641, 2
+2, bar area, 0.632639, 2
+2, colder Nevada nights, 0.591302, 3
+2, Nevada state law, 0.590101, 3
+2, food, 0.881845, 4
+2, place, 0.783605, 4
+2, Gordon Biersch, 0.950288, 5
+2, beer, 0.708599, 5
+2, new york steak, 0.632304, 6
+2, Homeade Root Beer, 0.611102, 6
+2, extensive fine beer, 0.631965, 7
+2, all-male business crowd, 0.603623, 7
+2, housemade root beer, 0.677627, 8
+2, good place, 0.628632, 8
+2, good time, 0.595517, 9
+3, Sick little minds, 0.519819, 0
+3, American bar food., 0.516998, 0
+3, average bar food, 0.543412, 1
+3, overpriced menu items, 0.50294, 1
+3, bar food, 0.57992, 2
+3, beer drinker, 0.525573, 2
+3, bar area, 0.719668, 3
+3, Gordon Biersch, 0.698274, 3
+3, service, 0.713367, 4
+3, good thing, 0.579056, 4
+3, garlic fries, 0.997669, 5
+3, food, 0.827033, 5
+3, great service, 0.529282, 6
+3, great cold beer, 0.527392, 6
+3, gorgonzola pear salad, 0.565995, 7
+3, pricey food deals, 0.550808, 7
+3, happy hour menu, 0.584519, 8
+3, yummy garlic fries, 0.580821, 8
+3, decently priced food, 0.539436, 9
+4, infamous Garlic Fries, 0.595797, 0
+4, pretty good food, 0.579893, 0
+4, big beer drinker, 0.546582, 2
+4, garlicy fries, 0.55377, 3
+4, Gordon Biersch, 0.855833, 5
+4, food, 0.681809, 5
+4, garlic fries, 0.97194, 6
+4, beer, 0.655743, 6
+4, fish tacos, 0.566876, 7
+4, Gordon Biersch locations, 0.561009, 7
+4, good food, 0.598761, 8
+4, great service, 0.595791, 8
+4, good beer, 0.571827, 9
+4, good service, 0.567627, 9
+5, size beer vats, 0.618967, 0
+5, regular drinks menu, 0.596805, 0
+5, typical bar food, 0.61137, 2
+5, big Chicken Parmesan, 0.597655, 2
+5, beer fan, 0.593895, 3
+5, Gordon Biersch, 0.968381, 4
+5, San Francisco location, 0.588085, 4
+5, beer, 0.8362, 5
+5, food, 0.796514, 5
+5, Gordon Biersch Brewery, 0.641067, 6
+5, Injury police officer, 0.620912, 6
+5, garlic fries, 0.832458, 7
+5, happy hr, 0.66197, 7
+5, great time, 0.686553, 8
+5, Gordon Biersch  Tapping, 0.652577, 8
+5, food great service, 0.652608, 9
+5, seasonal Gordon Biersch, 0.635831, 9

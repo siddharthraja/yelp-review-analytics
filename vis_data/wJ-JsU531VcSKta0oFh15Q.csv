@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, food, 0.320531, 0
+1, DNR category, 0.968933, 2
+1, numerous staff, 0.765587, 2
+1, wine selection, 0.79973, 6
+1, star review, 0.783401, 6
+2, crappy bbq sauce, 0.777029, 0
+2, Postino wine bar, 0.650631, 0
+2, brie cheese bruschetta, 0.929237, 1
+2, boar chops, 0.509652, 1
+2, affluent Las Sendas, 0.612606, 2
+2, weird crowd, 0.523397, 2
+2, Ohhh D'Vine, 0.558415, 3
+2, apple, 0.399101, 3
+2, Cornish Pasty, 0.500278, 6
+2, art work, 0.491511, 6
+2, okay wine selection, 0.606787, 7
+2, home prepared meal, 0.58686, 7
+2, reasonably priced wine, 0.636015, 9
+2, nice atmosphere, 0.629672, 9
+3, small wine bar, 0.850761, 0
+3, prickly pear crème, 0.832498, 0
+3, super stressful work, 0.841372, 1
+3, quick place, 0.740035, 1
+3, nice touch, 0.736834, 2
+3, Golden Spoon dessert, 0.818158, 3
+3, little cheese, 0.728296, 3
+3, ........., 0.963574, 5
+3, food quality, 0.837054, 5
+3, vodka cream sauce, 0.855757, 6
+3, classy joint, 0.748231, 6
+3, nice dinner, 0.756322, 7
+3, single entree, 0.7543, 7
+3, live music, 0.854723, 8
+3, decent portion sizes, 0.822217, 8
+3, perfect quick bite, 0.832452, 9
+3, pretty nice patio, 0.826451, 9
+4, good wine list, 0.688394, 0
+4, base good music, 0.67969, 0
+4, wine experience, 0.600281, 2
+4, wine trio flight, 0.62627, 3
+4, Wrapped Scallop appetizer, 0.618896, 3
+4, wine bar, 0.844659, 5
+4, good wine, 0.760684, 5
+4, wine, 0.964795, 6
+4, place, 0.741252, 6
+4, live music, 0.869191, 7
+4, ........., 0.804541, 7
+4, food, 0.750356, 8
+4, wine bar/bistro place, 0.66158, 8
+4, pretty good creme, 0.632287, 9
+4, great flavor, 0.619061, 9
+5, Best wine bar, 0.688578, 0
+5, acoustic guitar music, 0.64774, 0
+5, wine bar, 0.717356, 1
+5, good wine bar, 0.680425, 1
+5, big wine drinkers, 0.662231, 2
+5, bar table heights, 0.646211, 2
+5, place, 0.955509, 5
+5, D'Vine, 0.751703, 5
+5, wine, 0.96163, 6
+5, live music, 0.888505, 6
+5, great food, 0.865346, 7
+5, wine selection, 0.72529, 7
+5, date night, 0.816486, 8
+5, great place, 0.774122, 8
+5, great outdoor seating, 0.680657, 9
+5, great hidden gem, 0.669027, 9

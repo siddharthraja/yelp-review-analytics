@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, nice marina atmosphere, 0.639052, 0
+1, Red Fin Blues, 0.632999, 0
+1, obviously drunk man, 0.618496, 1
+1, food orders, 0.556531, 1
+1, slow food service, 0.67243, 2
+1, servers poor attitude, 0.607391, 2
+1, fox chapel, 0.614435, 3
+1, local lunch spots, 0.609854, 3
+1, food, 0.917293, 4
+1, waitress, 0.750082, 4
+1, home fries, 0.689547, 5
+1, waffle fries, 0.700671, 6
+1, fried zucchini slices, 0.652192, 6
+1, Philly steak wrap, 0.665933, 7
+1, basic sandwiches, 0.526781, 7
+1, Crows Nest, 0.532254, 8
+1, family gathering, 0.528743, 8
+2, N/A, 0.7505, 0
+2, Overall impression, 0.699539, 0
+2, sketchy service, 0.700796, 1
+2, happy hour specials, 0.683804, 1
+2, close-by sunny spot, 0.943084, 6
+2, Rupe Rankings, 0.814984, 6
+2, Sysco, 0.453998, 7
+2, food, 0.358621, 7
+2, great outdoor seating, 0.963739, 8
+2, river, 0.358531, 8
+3, low key place, 0.869089, 0
+3, waffle fries, 0.709786, 0
+3, wait staff, 0.704988, 2
+3, bunch, 0.657068, 2
+3, direct sunlight, 0.97801, 3
+3, Crows Nest, 0.678534, 3
+3, outdoor river-view spot, 0.884007, 6
+3, pasta dishes, 0.721195, 6
+3, great bar shuffleboard, 0.938036, 7
+3, tremendous view, 0.723824, 7
+3, nice dinner, 0.714719, 8
+3, Crab Louie, 0.706423, 8
+3, coconut shrimp, 0.968296, 9
+3, coconut shell, 0.744572, 9
+4, french onion soup, 0.91581, 0
+4, somewhat extensive menu, 0.914536, 0
+4, good stuff, 0.692228, 1
+4, good food, 0.687149, 1
+4, salt cube, 0.700192, 2
+4, times, 0.581008, 2
+4, people, 0.571747, 3
+4, place, 0.590646, 4
+4, specials, 0.572953, 5
+4, fried bologna sandwich, 0.881877, 6
+4, little restaurant/bar, 0.756735, 6
+4, soup gal, 0.756021, 7
+4, french fries, 0.711402, 7
+4, summer time, 0.739522, 8
+4, various boats, 0.739007, 8
+4, completely different option, 0.88609, 9
+4, dinner entree, 0.728458, 9
+5, mistake, 0.726196, 0
+5, previous reviews, 0.978857, 2
+5, notch, 0.69965, 7
+5, food, 0.538534, 7
+5, entire experience, 0.902017, 8
+5, deck, 0.623105, 8
+5, gem, 0.6517, 9
+5, place, 0.545493, 9

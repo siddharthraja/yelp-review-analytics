@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, worst experience, 0.81875, 0
+1, Las Vegas, 0.72656, 0
+1, Monte Carlo, 0.741969, 1
+1, family, 0.455158, 1
+1, drink, 0.551251, 2
+1, conversation, 0.339198, 2
+1, bartender, 0.914452, 4
+1, ingredient, 0.367444, 7
+4, bar, 0.447493, 2
+4, Jameson fan, 0.718638, 3
+4, whiskeys, 0.505231, 3
+4, reward, 0.506296, 6
+4, steal, 0.47874, 6
+4, Jameson Select Reserve, 0.95453, 7
+4, comfy seats, 0.701392, 7
+4, Cool ambiance, 0.704955, 8
+4, wonderful place, 0.654012, 8
+4, free whiskey tastings, 0.978404, 9
+4, vouchers, 0.481375, 9
+5, long time, 0.588096, 0
+5, leave, 0.314193, 0
+5, large selection, 0.608432, 7
+5, free whiskey, 0.971715, 8
+5, free whiskey tasting, 0.953809, 8
+5, James our bartender, 0.628202, 9
+5, experience, 0.436086, 9

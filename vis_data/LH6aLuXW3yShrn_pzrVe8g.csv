@@ -1,0 +1,92 @@
+rating, keyword, relevance, bucket
+1, real Chinese food, 0.627844, 0
+1, mall food court, 0.596286, 0
+1, brown rice, 0.51474, 1
+1, Hotel food, 0.513833, 1
+1, Chinese food, 0.651977, 2
+1, half Chinese food, 0.546904, 2
+1, place, 0.624304, 3
+1, service, 0.571396, 3
+1, food, 0.947953, 4
+1, Panda Express, 0.778662, 4
+1, restaurant, 0.615537, 5
+1, Express quality food, 0.56266, 6
+1, miso soup, 0.539069, 6
+1, Sushi bar area, 0.559308, 7
+1, sushi rolls, 0.538619, 7
+1, belly tuna, 0.524356, 8
+2, spicy sushi rolls, 0.697239, 0
+2, better Asian food, 0.63158, 0
+2, mediocre food, 0.703279, 1
+2, Las Vegas, 0.629009, 1
+2, Chinese food, 0.722514, 2
+2, Crazy Mad Dragon, 0.653219, 2
+2, singapore noodles, 0.748556, 3
+2, good Asian food, 0.651508, 3
+2, sushi, 0.875939, 4
+2, rice, 0.761893, 4
+2, food, 0.979727, 5
+2, spicy tuna roll, 0.944388, 5
+2, sushi rolls, 0.704765, 6
+2, piece nigiri sushi, 0.653671, 6
+2, good sushi, 0.680955, 7
+2, Japanese Sushi, 0.617422, 7
+2, end sushi place, 0.676984, 8
+2, good place, 0.62072, 8
+2, great sushi chef, 0.653212, 9
+2, amazing sushi, 0.607292, 9
+3, inspired food Rice, 0.721331, 0
+3, asian food options, 0.717707, 0
+3, huge Sushi person, 0.71563, 1
+3, bad food, 0.68811, 1
+3, Pad Thai, 0.770925, 2
+3, miso soup, 0.743336, 2
+3, best sushi Ive, 0.732192, 3
+3, dollar food credit, 0.703189, 3
+3, rice, 0.802514, 4
+3, Singapore Noodles, 0.759575, 4
+3, food, 0.951369, 5
+3, place, 0.905737, 5
+3, good place, 0.725041, 6
+3, service, 0.701172, 6
+3, mongolian beef, 0.745611, 7
+3, luxor hotel, 0.744029, 7
+3, beef chow fun, 0.80828, 8
+3, Hong Kong Noodles, 0.746592, 8
+3, fast food flavor, 0.708621, 9
+3, Nice upscale restaurant, 0.697393, 9
+4, amazing sushi, 0.675371, 0
+4, good sushi, 0.661338, 0
+4, mediocre sushi places, 0.675707, 2
+4, Chinese food, 0.576143, 2
+4, ty-ku coconut sake, 0.558446, 3
+4, dragon roll, 0.557331, 3
+4, vegas, 0.597838, 4
+4, sushi, 0.983134, 5
+4, service, 0.696625, 5
+4, food, 0.79523, 6
+4, nice sushi dinner, 0.692875, 6
+4, sushi restaurant, 0.680292, 7
+4, couple sushi rolls/sashimi, 0.67969, 7
+4, Great sushi, 0.710156, 8
+4, Gud sushi, 0.673499, 8
+4, Overall great experience, 0.536897, 9
+4, great dipping sauces, 0.531768, 9
+5, Mad Dragon roll, 0.560135, 0
+5, Bang Bang roll, 0.540992, 0
+5, Dang sushi rolls, 0.684728, 1
+5, favorite sushi joint, 0.726509, 2
+5, non sushi guy, 0.689493, 2
+5, crazy mad dragon, 0.595171, 3
+5, hot dang roll, 0.548714, 3
+5, Vegas, 0.625012, 4
+5, sushi, 0.950809, 5
+5, food, 0.619772, 5
+5, sushi rolls, 0.748146, 6
+5, yellowtail sushi, 0.656949, 6
+5, best sushi, 0.777935, 7
+5, hottest sushi roll, 0.743715, 7
+5, great sushi, 0.790218, 8
+5, breathing dragon roll, 0.698167, 8
+5, Good Sushi Roll, 0.778321, 9
+5, mango/avocado sushi roll, 0.752349, 9

@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+3, food basically chips, 0.844105, 0
+3, hop profile, 0.644583, 0
+3, hop heads, 0.915621, 2
+3, fancy, 0.448454, 2
+3, beers, 0.57199, 3
+3, min ride, 0.625015, 6
+3, bus line, 0.608562, 6
+3, beer pro, 0.614055, 7
+3, taproom, 0.468951, 7
+3, Nice place, 0.731068, 8
+3, nice touch, 0.708112, 8
+3, open vibe, 0.657121, 9
+3, beer lover, 0.610754, 9
+5, Belgian beers, 0.825252, 0
+5, different beers, 0.810996, 0
+5, East Ohio Street, 0.882814, 1
+5, Pens game, 0.743114, 2
+5, building, 0.668709, 2
+5, Oldish wooden tables, 0.8973, 3
+5, Turncoats Public House, 0.889139, 3
+5, Belgian style brews, 0.912146, 6
+5, Draai Laag, 0.897938, 6
+5, Belgian beer fan, 0.87418, 7
+5, world pub atmosphere, 0.872318, 7
+5, Belgian style beers, 0.949331, 8
+5, complex beers, 0.823246, 8
+5, perfect craft beer, 0.861171, 9
+5, unique experience, 0.74734, 9

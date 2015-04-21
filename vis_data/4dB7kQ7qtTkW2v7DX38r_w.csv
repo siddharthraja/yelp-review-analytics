@@ -1,0 +1,92 @@
+rating, keyword, relevance, bucket
+1, typical Scottsdale crowd, 0.764417, 0
+1, Sorry Dierks, 0.747609, 0
+1, damn VIP line, 0.733134, 1
+1, good atmosphere Rudest, 0.719617, 1
+1, dance floor, 0.95162, 2
+1, existent dance floor, 0.73977, 2
+1, whiskey row, 0.975535, 3
+1, Bud Light, 0.796819, 3
+1, bar, 0.987332, 4
+1, country, 0.945923, 4
+1, place, 0.895348, 5
+1, real country bar, 0.78943, 6
+1, gain VIP access, 0.731896, 6
+1, good country bar, 0.812868, 7
+1, country music, 0.798446, 7
+1, country music scene, 0.762096, 8
+1, swanky Scottsdale lounge, 0.757744, 8
+1, real breakfast place, 0.738173, 9
+2, Thats Whiskey Row, 0.64184, 0
+2, Monte Cristo sandwich, 0.639963, 0
+2, small dance floor, 0.759139, 1
+2, bar food, 0.65755, 1
+2, country bar, 0.807994, 2
+2, old town, 0.793385, 2
+2, food, 0.742744, 3
+2, cookie cutter bar, 0.695258, 3
+2, bar, 0.977723, 4
+2, drinks, 0.700455, 4
+2, night, 0.707344, 5
+2, Scottsdale Douche-bags male, 0.648283, 6
+2, Phoenix Metro area, 0.647525, 6
+2, whiskey row, 0.865949, 7
+2, country music trend, 0.655655, 7
+2, great time, 0.662487, 8
+2, typical trendy place, 0.637033, 8
+2, big country fan, 0.665865, 9
+2, great husker win, 0.645055, 9
+3, big dance floor, 0.640355, 0
+3, bigger dance floor, 0.635962, 0
+3, hate old town, 0.602727, 1
+3, country bar, 0.75425, 2
+3, electronic monitor, 0.618239, 2
+3, bar drinks, 0.615683, 3
+3, hot spot yall, 0.603866, 3
+3, bar, 0.907378, 4
+3, place, 0.839202, 4
+3, table, 0.738083, 5
+3, beer, 0.725553, 5
+3, cool bar, 0.643831, 6
+3, beer list, 0.640697, 6
+3, dance floor, 0.885963, 7
+3, nice wrap-a-round bar, 0.650845, 7
+3, co-wokers great place, 0.666729, 8
+3, Dierks Bentley fan, 0.628724, 8
+4, standard bar food, 0.632084, 0
+4, damn good time, 0.62179, 0
+4, country bar, 0.640949, 1
+4, usual bar vibe, 0.600284, 1
+4, new bar problems, 0.622944, 2
+4, country fan, 0.625068, 3
+4, cool table taps, 0.59222, 3
+4, bar, 0.867496, 4
+4, old town, 0.778244, 4
+4, dance floor, 0.72423, 5
+4, food, 0.690157, 5
+4, country music, 0.914522, 6
+4, place, 0.834073, 6
+4, grilled cheese, 0.741794, 7
+4, live band, 0.637054, 7
+4, great place, 0.640525, 8
+4, great time, 0.626539, 8
+4, modern country music, 0.611796, 9
+4, Dierks Bentleys bar, 0.610969, 9
+5, live band playing, 0.448232, 0
+5, country music theme, 0.442778, 0
+5, small dance floor, 0.45411, 2
+5, cowboy boots, 0.417764, 2
+5, dance floor, 0.608084, 3
+5, Whiskey Row., 0.423389, 3
+5, old town, 0.71214, 4
+5, food, 0.63616, 4
+5, Whiskey Row, 0.974325, 5
+5, place, 0.740839, 5
+5, country bar, 0.513727, 6
+5, drinks, 0.447856, 6
+5, old town scottsdale, 0.680627, 7
+5, great place, 0.513051, 7
+5, country music, 0.801843, 8
+5, great time, 0.666578, 8
+5, Dierks Bentley, 0.434851, 9
+5, great bar, 0.431317, 9

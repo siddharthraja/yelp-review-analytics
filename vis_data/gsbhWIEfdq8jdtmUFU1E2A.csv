@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+3, drink, 0.302212, 0
+3, music, 0.26711, 0
+3, staple dive-type bar, 0.956561, 1
+3, good intimate bar, 0.840587, 1
+3, kinda cool, 0.671687, 7
+3, hipster, 0.341716, 7
+3, good place, 0.730729, 8
+3, fun, 0.265827, 8
+4, vodka cranberry, 0.631699, 0
+4, understanding people, 0.614027, 0
+4, drink order, 0.623875, 1
+4, server, 0.359099, 1
+4, mistake, 0.373893, 2
+4, scrubs, 0.372009, 2
+4, Bar Blue Dog, 0.915643, 3
+4, special night, 0.646612, 3
+4, decent bar, 0.60653, 4
+4, Blue Dog, 0.959033, 5
+4, Montreal, 0.518571, 5
+4, small dance floor, 0.836664, 6
+4, zebra mask, 0.670385, 6
+4, everybody, 0.442869, 7
+4, fun, 0.415961, 7
+4, coat check girl, 0.900244, 8
+4, asses haha, 0.654171, 8
+4, good atmosphere, 0.586265, 9
+5, street hot spot, 0.831416, 0
+5, crowd pleasers, 0.62438, 0
+5, Yucky bathrooms, 0.634699, 1
+5, Weird people, 0.568795, 1
+5, ......, 0.532404, 3
+5, drinks, 0.264294, 3
+5, Loud dancey music, 0.852332, 6
+5, tall pabst, 0.597555, 7
+5, good vibes, 0.533271, 7
+5, Fun electro/dubstep beats, 0.919059, 8
+5, Great drink specials, 0.797623, 8
+5, great spot, 0.528003, 9
+5, old friends, 0.525146, 9

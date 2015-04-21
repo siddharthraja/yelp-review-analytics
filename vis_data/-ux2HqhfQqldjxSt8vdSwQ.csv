@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+1, lawn seats, 0.978003, 0
+1, cluster, 0.595342, 0
+1, venue, 0.818269, 1
+1, shame, 0.650595, 1
+1, adjustments, 0.62389, 2
+1, parking, 0.581506, 2
+3, hot mess, 0.717014, 0
+3, Ak-Chin Pavilion, 0.706455, 0
+3, parking pass, 0.74168, 1
+3, 7pm concert, 0.7321, 1
+3, crappy microwave pizza, 0.845906, 2
+3, air flow, 0.81195, 2
+3, WAY WAY WAY, 0.852527, 3
+3, Cell phone service, 0.822786, 3
+3, VIP area, 0.710438, 4
+3, parking, 0.912275, 5
+3, drinks, 0.685416, 5
+3, Premier parking, 0.740311, 6
+3, IRON MAIDEN, 0.692055, 6
+3, cool outdoor venue, 0.842865, 7
+3, pretty nice chance, 0.815005, 7
+3, seating area, 0.821622, 8
+3, Venue amenities, 0.672885, 8
+3, gigantic seating area, 0.811083, 9
+3, entire stage, 0.657303, 9
+4, GA lawn seats, 0.88407, 0
+4, Admission Lawn Seats, 0.840337, 0
+4, Saw Toby Keith, 0.795775, 2
+4, VIP area, 0.788149, 2
+4, bay area, 0.813007, 3
+4, VIP bar access, 0.788344, 3
+4, drinks, 0.740997, 4
+4, bit, 0.777776, 5
+4, free parking, 0.945064, 6
+4, outdoor amphitheater style, 0.830157, 6
+4, VIP parking, 0.853291, 7
+4, souvenir guitar cup, 0.789042, 7
+4, Billy Joe Armstrong, 0.768176, 8
+4, lawn seats, 0.944646, 9
+4, good size stage, 0.773191, 9
+5, bummer, 0.542223, 0
+5, concessions, 0.510026, 0
+5, Poison/Crüe, 0.468635, 7
+5, lawn seats, 0.987374, 9
+5, LEGIT SEATS, 0.87402, 9

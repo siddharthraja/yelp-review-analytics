@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+2, voucher offer, 0.733094, 0
+2, Edinburgh pubs, 0.667394, 0
+2, fault, 0.461505, 1
+2, fairly uncomfortable experience, 0.90119, 2
+2, room whilst, 0.647988, 2
+2, relatively high expectations, 0.915409, 6
+2, Yelp, 0.511529, 6
+2, taste, 0.462713, 7
+2, matter, 0.451707, 7
+3, Holyrood 9A, 0.761323, 0
+3, Holyrood 9A burgers, 0.714074, 0
+3, somewhat clumsy service, 0.685872, 1
+3, booze order people, 0.68166, 1
+3, granola, 0.689661, 2
+3, Red Squirrels fault, 0.687078, 2
+3, Scottish breakfast style, 0.68457, 3
+3, work lunch meeting, 0.681933, 3
+3, red squirrel, 0.990884, 4
+3, breakfast, 0.686567, 4
+3, burger, 0.739858, 5
+3, lothian road, 0.69361, 5
+3, bloody good deal, 0.698418, 6
+3, new Lothian road, 0.688648, 6
+3, near-identical burger options, 0.699526, 7
+3, wee bit, 0.69654, 7
+3, pretty quiet night, 0.685991, 8
+3, Great string fries, 0.685107, 8
+3, fairly welcoming bar, 0.687007, 9
+3, totally great night, 0.685582, 9
+4, red hot burger, 0.694129, 0
+4, extensive beer selection, 0.676675, 0
+4, trendy wine bar, 0.683583, 1
+4, little bit, 0.664216, 1
+4, Holyrood 9A bars, 0.705064, 3
+4, beer selection, 0.677481, 3
+4, bars, 0.710228, 4
+4, red squirrel, 0.935582, 5
+4, lothian road, 0.742061, 5
+4, burgers, 0.71183, 6
+4, chicken burgers, 0.687585, 6
+4, great place, 0.672375, 7
+4, Blue Moon, 0.670821, 7
+4, good quality food, 0.693634, 8
+4, good quality drink, 0.689713, 8
+4, good burger eating, 0.677973, 9
+4, awesome looking breakfast, 0.664662, 9
+5, Usher Hall, 0.661184, 0
+5, Lothian Road, 0.65804, 0
+5, chips, 0.445347, 3
+5, Nom nom, 0.752184, 6
+5, sweet potato fries, 0.813801, 7
+5, post work drinks, 0.937307, 8
+5, halloumi burger, 0.713985, 8
+5, great atmosphere, 0.624797, 9
+5, good selection, 0.61634, 9

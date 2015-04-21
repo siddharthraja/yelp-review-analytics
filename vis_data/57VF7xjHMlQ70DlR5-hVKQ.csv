@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+3, seafood restaurant, 0.966485, 7
+3, Fremont Street, 0.905673, 7
+4, indoor bar, 0.583507, 0
+4, drink minimum, 0.617329, 4
+4, service, 0.263754, 4
+4, nice location, 0.632481, 6
+4, Cons, 0.308327, 6
+4, Pros, 0.309647, 7
+4, fun, 0.270565, 7
+4, adorable outdoor location, 0.948731, 8
+4, great mai thai, 0.860663, 8
+5, downtown Las Vegas, 0.953988, 0
+5, Fremont St, 0.767219, 0
+5, mock feel, 0.670625, 2
+5, Strip, 0.360601, 2
+5, jars, 0.391111, 3
+5, choosing, 0.378801, 3
+5, couple, 0.44379, 5
+5, super fancy menus, 0.871829, 6
+5, Raspberry Lipstick, 0.715124, 6
+5, olives, 0.539383, 7
+5, lovely choice, 0.712418, 8
+5, yummy drink, 0.710539, 8
+5, bar tenders, 0.708638, 9
+5, setting, 0.366319, 9

@@ -1,0 +1,28 @@
+rating, keyword, relevance, bucket
+2, historical memorabilia, 0.569301, 0
+2, walls, 0.354064, 0
+2, pubs, 0.359775, 1
+2, toilet, 0.356793, 1
+2, slightly tacky feel, 0.78062, 2
+2, big annoyance, 0.560628, 2
+2, Royal Mile, 0.768469, 3
+2, low ceilings, 0.587882, 3
+2, Ensign Ewart, 0.988508, 4
+2, traditional Scottish pub, 0.81768, 6
+2, reasonable prices, 0.552263, 8
+2, British beers, 0.543708, 8
+4, standard pub fare, 0.833784, 0
+4, food, 0.429841, 0
+4, fear, 0.43138, 2
+4, need, 0.428523, 2
+4, loos, 0.447365, 3
+4, tourists, 0.441383, 4
+4, Ensign Ewart, 0.988108, 5
+4, keypad code, 0.57758, 6
+4, bar, 0.428167, 6
+4, canny solution, 0.587161, 7
+4, close neighbours, 0.584534, 7
+4, Ensign Ewart pub, 0.939817, 8
+4, decent selection, 0.599692, 8
+4, real scotish pub., 0.775113, 9
+4, delightful pub, 0.687306, 9

@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, wow, 0.71662, 0
+1, night, 0.547894, 0
+1, rural America, 0.981084, 3
+1, hard time, 0.883449, 3
+2, gay dive bar, 0.96916, 1
+2, somethings, 0.54133, 1
+2, someones ID, 0.797641, 2
+2, old queens, 0.736476, 2
+2, pregame, 0.530001, 3
+2, smoke, 0.481418, 3
+3, vegan sad face, 0.822244, 0
+3, cheap drink, 0.566614, 0
+3, crap domestics, 0.578698, 1
+3, straight friends, 0.587171, 2
+3, Gay bar, 0.505247, 2
+3, cheap pool, 0.539145, 3
+3, gay dudes, 0.489745, 3
+3, beer selection, 0.455007, 4
+3, downsides, 0.243671, 4
+3, Yep, 0.2619, 6
+3, bad-ass Golden Girls, 0.922292, 8
+3, main evening bartender, 0.915051, 8
+4, commercial center, 0.969651, 0
+4, neighborhood gay bar, 0.859812, 0
+4, Badlands Saloon, 0.862553, 1
+4, country bar, 0.737662, 1
+4, gay bar, 0.930415, 2
+4, gay bar sports, 0.85897, 2
+4, straight bathhouse, 0.87814, 3
+4, tragic fetish fashion, 0.864052, 3
+4, dance floor, 0.822422, 6
+4, early Sunday night, 0.806747, 6
+4, friendly locals bar, 0.900353, 7
+4, best Thai food, 0.846203, 7
+4, great dive bar, 0.886153, 8
+4, mega friendly watering-hole, 0.83863, 8
+4, great local feel, 0.821303, 9
+4, better customer service, 0.813398, 9
+5, cheap drinks, 0.687516, 0
+5, live band, 0.626408, 0
+5, straight guy, 0.611355, 2
+5, strange underwear, 0.604007, 2
+5, gay bar, 0.964578, 3
+5, walks, 0.441099, 4
+5, vodka tonic, 0.621079, 6
+5, Vine, 0.448902, 6
+5, lead singer, 0.612767, 7
+5, quirky clientele, 0.609691, 7
+5, great bartender, 0.646596, 8
+5, great drinks, 0.642172, 8
+5, cool local hangout, 0.836073, 9
+5, Fabulous Funny, 0.59649, 9

@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+3, Crown Station, 0.723951, 0
+3, different machines, 0.606022, 0
+3, non-fat vanille latte, 0.967971, 3
+3, abrasive attitude, 0.745189, 3
+3, espresso, 0.531903, 5
+3, nicer way, 0.672509, 6
+4, local music events, 0.693714, 0
+4, reggae artists, 0.437707, 0
+4, non-music sounds, 0.524218, 2
+4, terrible DJ, 0.49389, 2
+4, Yelp, 0.218532, 3
+4, little local pub/coffee, 0.702891, 6
+4, nice place, 0.532962, 7
+4, strange vibe, 0.475304, 7
+4, pretty decent coffee, 0.972945, 8
+4, nice little bar, 0.899186, 8
+4, supportive people, 0.472533, 9
+5, NoDa bar crowd, 0.823392, 0
+5, snooty New Yorkers, 0.727387, 0
+5, bar bar, 0.660816, 1
+5, Coffee bar, 0.663929, 2
+5, Old Geezer, 0.637456, 3
+5, place, 0.934696, 6
+5, coffee shop crowd, 0.823329, 6
+5, good craft beer, 0.761072, 7
+5, Saturday nights performance, 0.726888, 7
+5, pretty good coffee, 0.801767, 8
+5, friendly bartender, 0.748173, 8
+5, Delicious coffee drinks, 0.748276, 9
+5, reasonable drink prices, 0.746556, 9

@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, totally foreign concept, 0.954252, 0
+1, super hot girl, 0.925172, 0
+1, hot mess, 0.940258, 1
+1, bar kinda gal, 0.896376, 1
+1, excessively huge hair, 0.938508, 2
+1, crazy human tetris, 0.926249, 2
+1, time, 0.720591, 3
+1, place, 0.694239, 3
+1, people, 0.727215, 4
+1, Coconut creme pie, 0.920675, 6
+1, classy VIP, 0.774044, 6
+1, badass techno DJ, 0.894973, 7
+1, Donald Glaude, 0.770727, 7
+1, Jack-rasses Scottsdale, 0.778033, 8
+1, square foot, 0.773405, 8
+1, true delight, 0.784638, 9
+2, little fuzzy creatures, 0.880253, 0
+2, person selling gum, 0.873618, 0
+2, low budget wedding, 0.883245, 1
+2, Total snobbish meat, 0.878648, 1
+2, burlesque dancers, 0.804496, 2
+2, scottsdale clubs, 0.787183, 2
+2, vegas prices, 0.777224, 3
+2, Dirty Pretty, 0.774271, 3
+2, place, 0.768514, 4
+2, bottle, 0.659199, 4
+2, old Scottsdale scene, 0.944333, 6
+2, people, 0.861025, 6
+2, decent spot, 0.78597, 7
+2, house music, 0.755114, 7
+2, S. Izzo, 0.971538, 8
+2, best experiences, 0.774148, 8
+3, Jackrabbit Supper Club, 0.98777, 0
+3, Scottsdale.. yes..it is..BUT, 0.89474, 0
+3, entrance fee, 0.784416, 1
+3, big room, 0.775264, 1
+3, small crowded patio, 0.930393, 2
+3, private tables, 0.770496, 2
+3, hottie Matt Leinart, 0.921803, 3
+3, pop singer, 0.767507, 3
+3, drinks, 0.76552, 5
+3, hourly burlesque-style performances, 0.896834, 6
+3, dollar millionaires, 0.783601, 6
+3, good time, 0.930234, 7
+3, music, 0.66028, 7
+3, little outdoors area, 0.918701, 8
+3, rooms facilitates, 0.775393, 8
+4, flirty co-eds, 0.641339, 0
+4, night change, 0.636495, 0
+4, drunken haze, 0.614947, 1
+4, dark spendy lounges, 0.708524, 2
+4, AmEx black card, 0.707009, 2
+4, old town, 0.800279, 3
+4, cheesy go-go dancers, 0.736838, 3
+4, Jackrabbit, 0.947613, 4
+4, place, 0.732584, 4
+4, music, 0.638219, 5
+4, belly dancer perform, 0.711299, 6
+4, Jon Ric Fashion, 0.710581, 6
+4, Friday nights, 0.692848, 7
+4, good time, 0.643314, 7
+4, truly original lounge, 0.705892, 8
+4, true place, 0.633076, 8
+4, good job staff, 0.7207, 9
+4, Good place, 0.659059, 9

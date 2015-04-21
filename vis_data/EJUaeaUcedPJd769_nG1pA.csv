@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, musty bar, 0.86919, 0
+1, new ownership, 0.833434, 0
+1, place, 0.592036, 1
+1, tots, 0.53369, 1
+1, Friday night, 0.919039, 2
+1, food, 0.712617, 2
+1, orders, 0.662466, 3
+1, coworkers, 0.549654, 3
+1, GOOD BYE, 0.922384, 6
+2, big sporting event, 0.902399, 0
+2, horse racing, 0.628218, 0
+2, wall sports bar, 0.915833, 1
+2, cost cutting tactic, 0.857626, 1
+2, pathetic looking wings, 0.957216, 2
+2, typical beat, 0.647941, 2
+2, staff, 0.389258, 3
+2, good. strange smell, 0.863409, 6
+2, cheap drinks, 0.654864, 6
+2, large meaty wings, 0.952871, 8
+2, selling point, 0.589817, 8
+3, typical Scottsdale place, 0.928674, 0
+3, track betting area, 0.921094, 0
+3, Typical bar food, 0.924684, 1
+3, green onions, 0.71503, 1
+3, blood mary bar, 0.852845, 2
+3, decent wine, 0.731813, 2
+3, Bloody Mary bar, 0.88544, 3
+3, wings, 0.575774, 3
+3, little neighborhood bar, 0.928926, 6
+3, spicy queso dip, 0.887527, 6
+3, friendly people, 0.734494, 7
+3, chicken strips, 0.714223, 7
+3, Hand Nitro milk, 0.894391, 8
+3, Total Wine, 0.712197, 8
+3, favorite sports team, 0.88796, 9
+3, great place, 0.711975, 9
+4, tasty bar food, 0.786962, 0
+4, nice added touches, 0.726977, 0
+4, spice-up bar, 0.629684, 1
+4, OTB so hips, 0.623018, 1
+4, late-ish dinner, 0.613731, 2
+4, Sunday morning, 0.60712, 2
+4, wee bit divey, 0.704758, 3
+4, boring bottled sauce, 0.700474, 3
+4, good drink specials, 0.906194, 6
+4, tater tots, 0.886229, 6
+4, SOLID BLOODY BAR, 0.716846, 7
+4, super freindly staff, 0.702526, 7
+4, nice beer selection, 0.762805, 8
+4, little neighborhood place, 0.746259, 8
+4, nice large patio, 0.728842, 9
+4, great selection, 0.63819, 9
+5, sports bar gem, 0.835234, 0
+5, pub food, 0.705662, 0
+5, Gilbert, 0.440022, 1
+5, good sports bar, 0.914203, 2
+5, times, 0.442086, 2
+5, jalapeno cream cheese, 0.902136, 3
+5, Bloody Mary bar, 0.834404, 3
+5, chicken strips, 0.696807, 6
+5, Mexican influence, 0.640262, 6
+5, Thai chicken pita, 0.913815, 7
+5, best fried chicken, 0.868147, 7
+5, Great weekend breakfast, 0.849153, 8
+5, Great food, 0.811912, 8
+5, peppery crispy bacon, 0.9678, 9
+5, Juicy burgers, 0.802912, 9

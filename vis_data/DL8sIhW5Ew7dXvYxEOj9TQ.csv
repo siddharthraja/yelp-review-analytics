@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+2, fish fry dinner, 0.788975, 0
+2, fish fry sandwich, 0.548685, 0
+2, old people, 0.91648, 1
+2, Eyed Dog, 0.417625, 1
+2, nursing home cafeteria, 0.569368, 2
+2, Sun City, 0.41072, 2
+2, peculiarly flavored vinegar, 0.574909, 3
+2, place, 0.325714, 3
+2, authentic British look, 0.555487, 6
+2, Friday night, 0.404918, 6
+2, french fries, 0.404436, 7
+2, wings, 0.345926, 8
+2, time, 0.238175, 8
+3, Walleye sandwich, 0.736633, 0
+3, Friday night, 0.716935, 0
+3, Meh, 0.36825, 3
+3, service, 0.404732, 4
+3, fish fry, 0.937431, 6
+3, dinner guest, 0.649104, 6
+3, Friday fish fry, 0.868539, 7
+3, culture, 0.366782, 7
+4, nearby local place, 0.940769, 0
+4, huge local feel, 0.908129, 0
+4, Eyed Dog, 0.71556, 1
+4, sausage rolls, 0.69866, 2
+4, Huge circular bar, 0.907484, 3
+4, English pub, 0.753808, 3
+4, batter, 0.703991, 4
+4, big thing, 0.703951, 6
+4, interesting things, 0.703423, 6
+4, casual young folk, 0.902186, 7
+4, middle aged folks, 0.894911, 7
+4, interesting place, 0.724755, 8
+4, recent visits, 0.706323, 8

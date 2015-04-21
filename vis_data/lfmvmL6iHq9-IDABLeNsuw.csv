@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, terrible customer service, 0.841545, 0
+1, mediocre food, 0.820973, 0
+1, rabbit lie, 0.858827, 1
+1, terrible service, 0.842452, 1
+1, good right um, 0.817118, 2
+1, price tag, 0.810903, 2
+1, service, 0.952226, 3
+1, food, 0.937244, 3
+1, place, 0.929958, 4
+1, table, 0.855981, 4
+1, cosmopolitan hotel, 0.815239, 5
+1, Mr. Piffles, 0.886786, 6
+1, Friday night, 0.810358, 6
+1, final lovely contortionist, 0.81815, 7
+1, tap dancers, 0.810518, 7
+1, las vegas, 0.863709, 8
+1, friends Bachlorette party, 0.808181, 8
+2, standard night club, 0.790152, 0
+2, original tea party, 0.787164, 0
+2, Las Vegas, 0.790849, 1
+2, bachlorette party, 0.7789, 1
+2, ........., 0.874193, 2
+2, social ticket, 0.779495, 2
+2, people, 0.865422, 3
+2, service, 0.832126, 3
+2, table, 0.833561, 4
+2, dinner, 0.803272, 4
+2, food, 0.903302, 5
+2, place, 0.877731, 5
+2, simple basic cocktails, 0.777026, 6
+2, scantilly clad contortionist, 0.775419, 6
+2, great food, 0.79813, 7
+2, great venue, 0.781283, 7
+2, Great door staff, 0.788922, 8
+2, ordinary fun dishes, 0.778064, 8
+3, Living Social deal, 0.85105, 0
+3, ...... good., 0.831428, 0
+3, total wannabe Absinthe, 0.805505, 2
+3, off-strip late night, 0.789093, 2
+3, tickets, 0.846324, 3
+3, dining room, 0.784008, 3
+3, acts, 0.914395, 4
+3, experience, 0.861389, 4
+3, drinks, 0.952808, 5
+3, place, 0.925722, 5
+3, bar, 0.880021, 6
+3, live entertainment tax, 0.849015, 6
+3, Vegas Nocturne, 0.879318, 7
+3, great work Ben, 0.78226, 7
+3, different fun vibe, 0.794794, 8
+3, different rooms, 0.790355, 8
+3, great deal, 0.787072, 9
+3, fine dining experience, 0.782547, 9
+4, foie gras, 0.782103, 0
+4, cloak room, 0.780139, 0
+4, little bit, 0.812125, 1
+4, Cheap Date Night, 0.78048, 2
+4, music room, 0.779997, 2
+4, bar area, 0.835044, 3
+4, Wicked Spoon, 0.809222, 3
+4, drinks, 0.986214, 4
+4, place, 0.845402, 4
+4, night, 0.930839, 5
+4, room, 0.926362, 5
+4, club, 0.823106, 6
+4, fun, 0.822807, 6
+4, tap dancers, 0.816482, 7
+4, people, 0.814561, 7
+4, experience, 0.800301, 8
+4, best drinks, 0.7894, 8
+4, Vegas Nocturne, 0.792312, 9
+4, fun fun experience, 0.784456, 9
+5, intimate Study Bar, 0.882728, 0
+5, !!!, 0.913207, 2
+5, Rose Rabbit Lie, 0.93307, 3
+5, stage production, 0.871499, 3
+5, room, 0.984389, 4
+5, Vegas Nocturne, 0.972555, 4
+5, place, 0.988621, 5
+5, vegas, 0.985697, 5
+5, music room, 0.974993, 6
+5, tap dancers, 0.96, 6
+5, small portions, 0.905665, 7
+5, rooms, 0.900302, 7
+5, experience, 0.942388, 8
+5, great time, 0.894465, 8
+5, love love love, 0.919659, 9
+5, unique dining experience, 0.907662, 9

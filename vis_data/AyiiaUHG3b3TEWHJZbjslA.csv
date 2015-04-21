@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, chicken sandwich, 0.663164, 0
+1, bar area, 0.595729, 0
+1, overly salty, 0.713931, 1
+1, fishy smell, 0.694725, 1
+1, middle aged lady, 0.912587, 2
+1, food, 0.82072, 2
+1, jar sauce tastes, 0.978571, 3
+1, late morning, 0.624907, 3
+1, Henderson, 0.425025, 4
+1, salad, 0.373872, 6
+1, ya, 0.371944, 6
+1, pasta, 0.376701, 7
+1, Great customer service, 0.819843, 8
+2, package beef pattie, 0.581762, 0
+2, Foothill HS Wrestlers, 0.57969, 0
+2, wings person, 0.570604, 1
+2, nxt time, 0.522335, 1
+2, BBQ sauce nauseating, 0.603104, 2
+2, glorified little ceasars, 0.601115, 2
+2, good things, 0.633875, 3
+2, good Seattle way, 0.618375, 3
+2, pizza, 0.95035, 4
+2, place, 0.637956, 4
+2, wings, 0.768908, 5
+2, time, 0.583932, 5
+2, large mushroom pizza, 0.73558, 6
+2, pepperoni pizza, 0.600268, 6
+2, Johnny Mac, 0.758845, 7
+2, Pizza OK, 0.610557, 7
+2, good memories, 0.518144, 9
+3, Buffalo Wild Wings, 0.837876, 0
+3, pizza night Johnny, 0.807255, 0
+3, SW Vegas for., 0.784015, 1
+3, slow service, 0.713007, 1
+3, buffalo wings, 0.757298, 2
+3, restaurant service, 0.727523, 2
+3, Jalapeno Cheeseburger w/fries, 0.778036, 3
+3, graphed trend, 0.702122, 3
+3, service, 0.997381, 4
+3, food, 0.889538, 4
+3, wings, 0.887637, 5
+3, spotty service, 0.885117, 5
+3, order extra sauce, 0.808199, 6
+3, friendly local place, 0.761798, 6
+3, great. homemade meatballs, 0.798063, 7
+3, meatball sub togo, 0.786838, 7
+3, watermelon sauce, 0.76389, 8
+3, good chance, 0.717238, 8
+3, crispy italian roll., 0.789825, 9
+3, good mood, 0.723815, 9
+4, best chicken wings, 0.349182, 0
+4, bat wings, 0.315161, 0
+4, Pizza Cat, 0.277626, 1
+4, pizza center, 0.244905, 1
+4, crust pizza, 0.256909, 3
+4, amazing pizza, 0.254942, 3
+4, Johnny Mac, 0.95508, 5
+4, pizza, 0.645328, 5
+4, wings, 0.78305, 6
+4, chicken wings, 0.469617, 6
+4, best pizza, 0.300459, 7
+4, scorching wings, 0.294778, 7
+4, great wings, 0.351019, 8
+4, half price pizza, 0.348635, 8
+5, price pizza night, 0.504089, 0
+5, slimy wings, 0.496564, 0
+5, best bbq sauce, 0.452464, 2
+5, Johnnie Mac Wings, 0.57793, 3
+5, good food, 0.456146, 3
+5, sports bar, 0.551071, 4
+5, bbq sauce, 0.513634, 4
+5, wings, 0.973007, 5
+5, pizza, 0.81074, 5
+5, johnny mac, 0.831129, 6
+5, place, 0.760293, 6
+5, large pizza, 0.534835, 7
+5, buffalo wings, 0.503245, 7
+5, chicken wings, 0.633959, 8
+5, best wings, 0.554368, 8
+5, Johnny fabulous wings, 0.551506, 9
+5, family friendly place, 0.452041, 9

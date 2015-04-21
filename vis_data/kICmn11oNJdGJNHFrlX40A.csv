@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+3, Drinks, 0.229995, 0
+3, short menu, 0.832147, 1
+3, burgers, 0.273993, 1
+3, bit, 0.226016, 2
+3, table service, 0.765343, 3
+3, wifi, 0.273019, 6
+3, new people, 0.917165, 8
+3, Good place, 0.813664, 8
+4, cold cereal, 0.662992, 0
+4, couches, 0.4738, 0
+4, evening meet-up spot, 0.992184, 1
+4, afternoon naps, 0.756739, 1
+4, pitchers, 0.563936, 2
+4, pounds, 0.536183, 2
+4, good place, 0.689841, 3
+4, student commons, 0.653135, 3
+4, royal mile area, 0.885674, 6
+4, cheapest place, 0.718421, 6
+4, standard dining tables, 0.908508, 7
+4, comfy chairs, 0.71059, 7
+4, fun place, 0.655779, 8
+4, drinks, 0.452706, 8
+4, pretty good deal, 0.986757, 9
+4, burgers, 0.467232, 9

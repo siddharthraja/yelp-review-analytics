@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+2, city centre prices, 0.715374, 0
+2, Kilted Pig, 0.620174, 0
+2, worst Ceasar salad, 0.931588, 1
+2, bar, 0.301518, 1
+2, G&T, 0.260186, 2
+2, town, 0.259995, 2
+2, food, 0.409155, 3
+2, instance, 0.289283, 3
+2, gathering, 0.269872, 6
+2, sports, 0.259454, 6
+2, sunny spot, 0.518471, 7
+3, reasonable lunch menu, 0.841237, 0
+3, Regular drinking buddies, 0.757556, 0
+3, vibe, 0.444997, 1
+3, pro, 0.439417, 1
+3, shame Nel, 0.623682, 2
+3, bad experience, 0.595623, 2
+3, wait staff, 0.620746, 3
+3, people, 0.481973, 3
+3, Kilted Pig, 0.955379, 4
+3, luke warm, 0.593999, 4
+3, time, 0.50086, 5
+3, crazy family,the jacksons, 0.778226, 6
+3, good service too., 0.769564, 6
+3, reasonable local pub, 0.833165, 7
+3, normal menu, 0.620766, 7
+3, quick lunch, 0.651627, 8
+3, work colleagues, 0.613566, 8
+3, fairly standard place, 0.761916, 9
+4, meggetland sports, 0.990735, 0
+4, road, 0.207764, 0
+4, fault, 0.25836, 2
+4, reason, 0.2441, 2
+4, good standard, 0.759491, 6
+4, toilets, 0.281912, 6
+4, good start, 0.884627, 8
+4, good place, 0.756841, 8

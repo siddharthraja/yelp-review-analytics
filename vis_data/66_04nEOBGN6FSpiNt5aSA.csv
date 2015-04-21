@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, long time, 0.768256, 0
+2, rhubarb crumble, 0.984503, 1
+2, Staff, 0.345723, 2
+2, oven, 0.383636, 3
+2, Sam Adams, 0.85086, 7
+2, big plus, 0.799776, 7
+2, loud music, 0.934124, 8
+2, cake, 0.833093, 8
+3, boda bar, 0.905686, 0
+3, Boda Bar furniture, 0.801619, 0
+3, luke warm impression, 0.682871, 1
+3, toast option, 0.600449, 1
+3, Swedish themed bar, 0.732278, 2
+3, sister bars, 0.620042, 2
+3, boda bars, 0.992831, 3
+3, pleasant little spot, 0.692035, 3
+3, hemma, 0.743229, 5
+3, food, 0.713534, 5
+3, delicious Swedish influence, 0.699231, 6
+3, different area, 0.607291, 6
+3, Joseph Pearce, 0.85012, 7
+3, Commando training group, 0.673436, 7
+3, dill potato salad, 0.712208, 8
+3, herby fries, 0.706244, 8
+3, henny lunch, 0.597802, 9
+4, pine nut salad, 0.727898, 0
+4, blue cheese salad, 0.717554, 0
+4, Ne Sais Quoi., 0.686282, 1
+4, joseph pearce, 0.832399, 2
+4, great big glass, 0.702904, 2
+4, normal bar food, 0.718499, 3
+4, rocket salad, 0.693436, 3
+4, bit, 0.685742, 4
+4, food, 0.995157, 5
+4, salad, 0.841262, 5
+4, hemma, 0.952748, 6
+4, bar, 0.74807, 6
+4, blue cheese, 0.780924, 7
+4, great outdoor seating, 0.693273, 7
+4, great selection, 0.762973, 8
+4, industrial space Hemma, 0.712649, 8
+4, Yelp brunch event, 0.71327, 9
+4, Huuuuge yummy salads, 0.698656, 9
+5, style photo frames, 0.849949, 0
+5, white-painted metal pillars, 0.830837, 0
+5, big space, 0.847831, 2
+5, cool new bar, 0.824469, 2
+5, open sandwich, 0.785335, 3
+5, Hemma, 0.95969, 4
+5, Boda bars, 0.953057, 4
+5, comfy couches, 0.87791, 6
+5, living room, 0.834167, 6
+5, free wifi, 0.94556, 7
+5, fairy lights, 0.902312, 7
+5, Big comfy sofas, 0.879748, 8
+5, Swedish owners personality, 0.856122, 8
+5, delicious Swedish menu, 0.846885, 9
+5, Super friendly staff, 0.843818, 9

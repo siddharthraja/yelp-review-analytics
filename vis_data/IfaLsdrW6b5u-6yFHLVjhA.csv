@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, glass drink ware., 0.774228, 0
+1, large man points, 0.752646, 0
+1, yelps word limit, 0.774596, 1
+1, deep fried potatoes, 0.759205, 1
+1, large bearded guy, 0.786209, 2
+1, unnecessarily profane things, 0.745781, 2
+1, grilled cheese, 0.97449, 3
+1, fish, 0.699422, 3
+1, food, 0.851315, 4
+1, girlfriend, 0.748917, 4
+1, french toast, 0.795037, 6
+1, french toast arrive, 0.754064, 6
+1, animal protein source, 0.752687, 7
+1, old building, 0.660971, 7
+1, Great bathrooms, 0.656763, 8
+1, entire time, 0.640604, 8
+1, best fish, 0.642622, 9
+2, nearby bar bistro, 0.735032, 0
+2, open faced egg, 0.643973, 0
+2, inexperienced waiters, 0.482556, 2
+2, long time, 0.443248, 2
+2, grilled cheese, 0.674977, 3
+2, half grilled cheese, 0.654461, 3
+2, food, 0.793743, 4
+2, waiter, 0.511107, 4
+2, meal, 0.527266, 5
+2, brussels sprouts, 0.981467, 6
+2, club music, 0.466336, 6
+2, Brussels sprouts appetizer, 0.726239, 7
+2, decor, 0.67986, 7
+2, skirt steak salad, 0.71928, 8
+2, black patent, 0.507139, 8
+3, cool indoor/outdoor bar, 0.700077, 0
+3, mahi mahi, 0.6048, 0
+3, lemon wedge, 0.77137, 1
+3, soggy napkin, 0.595022, 1
+3, fruity/tropical type drinks, 0.667309, 2
+3, Dirty Martini, 0.552214, 2
+3, old Fruit Loop, 0.673188, 3
+3, black licorice, 0.564807, 3
+3, restaurant, 0.544017, 4
+3, Ahi Tacos, 0.912003, 6
+3, chicken wings, 0.703831, 6
+3, Nice alt mix, 0.683775, 7
+3, amazing taste treats, 0.676644, 7
+3, Fresh Cut Fries, 0.672801, 8
+3, time visit kind, 0.658352, 8
+4, sesame sea salt, 0.6593, 0
+4, grilled blue point, 0.628344, 0
+4, Kanye dog, 0.66199, 2
+4, skirt steak, 0.645354, 2
+4, notorious p.i.g., 0.732274, 3
+4, Notorious P.I.G, 0.636404, 3
+4, Monday night, 0.640039, 4
+4, edamame, 0.635772, 4
+4, food, 0.916625, 5
+4, hot dog, 0.837533, 5
+4, brussel sprouts, 0.87779, 6
+4, grilled mahi mahi, 0.718602, 6
+4, grilled cheese, 0.951806, 7
+4, mahi mahi tacos, 0.847895, 7
+4, Roasted Garlic Shrimp, 0.660133, 8
+4, Great food, 0.638688, 8
+4, cool little place, 0.610102, 9
+4, little loungy place, 0.606929, 9
+5, Alien Mule, 0.73009, 0
+5, new bar area, 0.689469, 1
+5, blow pop, 0.754254, 3
+5, best Brussels sprouts, 0.703323, 3
+5, brussel sprouts, 0.857649, 4
+5, Monday night, 0.746302, 4
+5, mingo, 0.996096, 5
+5, food, 0.857944, 5
+5, AMAZING Bar Food, 0.748873, 6
+5, brussels sprouts, 0.74762, 6
+5, best brussel sprouts, 0.768973, 7
+5, beach shack.Yay Mingo, 0.766373, 7
+5, great place, 0.895377, 8
+5, deep fried oreos, 0.735574, 8
+5, Fun tasty drinks, 0.703432, 9

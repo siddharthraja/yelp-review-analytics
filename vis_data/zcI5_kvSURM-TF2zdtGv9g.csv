@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+2, rude service, 0.692606, 0
+2, MGM casino, 0.687445, 0
+2, confusion, 0.477314, 1
+2, drinks, 0.469639, 1
+2, normal Starbucks, 0.95626, 2
+2, expensive Starbucks, 0.926653, 2
+2, convenience, 0.558515, 4
+2, complaints, 0.463875, 4
+2, Barista, 0.494756, 6
+2, great thing, 0.699742, 7
+2, costumers, 0.483928, 7
+3, plain croissant costs, 0.920805, 1
+3, free hot water, 0.807072, 7
+4, MGM Starbucks, 0.860702, 0
+4, usual beverage everyday/, 0.596698, 0
+4, cheap Starbucks, 0.751632, 1
+4, Venti Vanilla Macchiato, 0.678247, 1
+4, MGM food court, 0.669753, 2
+4, Starbucks phone app, 0.95071, 8
+5, bad reviews, 0.903126, 0
+5, MGM Grand, 0.879805, 0
+5, drinks, 0.494541, 3
+5, time, 0.4173, 3
+5, drink, 0.490454, 9
+5, staff, 0.416445, 9

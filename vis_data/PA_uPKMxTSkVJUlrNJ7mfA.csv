@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+3, great nick, 0.853788, 7
+3, toilets, 0.368932, 7
+3, Junction bar, 0.995338, 8
+3, welcome addition, 0.96201, 8
+3, Broughton Street, 0.961232, 9
+3, real ales, 0.924341, 9
+4, pub grub, 0.651528, 0
+4, Broughton Street, 0.535836, 0
+4, C&B Broughton, 0.565003, 2
+4, crusty saloon, 0.538901, 2
+4, drinking pub, 0.650902, 3
+4, pub, 0.964454, 5
+4, cask, 0.644492, 6
+4, Stowford Press cider, 0.627599, 6
+4, sister pub, 0.711141, 7
+4, good spacious bar, 0.676905, 7
+4, great pub, 0.764472, 8
+4, fairly large pub, 0.760507, 8
+4, Good honest service, 0.644433, 9
+4, friendly staff, 0.5499, 9
+5, occasional Andy Murray, 0.790517, 0
+5, Yelp review, 0.65248, 0
+5, real ales, 0.607649, 1
+5, selection, 0.350225, 1
+5, stop shop, 0.574036, 3
+5, sports bar, 0.568024, 3
+5, wine, 0.398231, 4
+5, bad range, 0.571323, 6
+5, malts, 0.376439, 6
+5, Edinburgh CAMRA Pub, 0.931598, 7
+5, excellent bar, 0.5915, 7
+5, quality pub, 0.690073, 8
+5, Best pub, 0.669303, 8
+5, lovely pint, 0.688308, 9
+5, knowledgeable staff, 0.662152, 9

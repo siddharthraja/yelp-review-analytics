@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+3, Sports bar, 0.7989, 2
+3, ambience, 0.605289, 2
+3, identity crisis, 0.968142, 3
+3, Bit, 0.529943, 3
+3, good service, 0.753705, 7
+3, lounge, 0.522434, 7
+3, nice place, 0.824876, 8
+4, Great little pub, 0.897792, 0
+4, authentic asian restaurant., 0.880711, 0
+4, stereotypical pickup lines, 0.851599, 1
+4, embarrassing outfits, 0.709212, 1
+4, teeny tiny dresses, 0.878026, 2
+4, tight dress, 0.722786, 2
+4, body language, 0.70009, 3
+4, livelier crowd, 0.693388, 3
+4, nightclub type hangout, 0.929485, 6
+4, casual atmosphere, 0.724762, 6
+4, thai dumplings, 0.747472, 7
+4, Bullseye burger, 0.730012, 7
+4, Perfect size, 0.712169, 8
+4, Service, 0.576825, 8
+4, nice looking ladies, 0.839525, 9
+4, NDGers favorite Great, 0.836964, 9
+5, bad service, 0.631676, 0
+5, Typhoon, 0.474105, 0
+5, Kristy bar, 0.704989, 3
+5, Monkland, 0.517265, 6
+5, fav, 0.516949, 6
+5, great NDG, 0.709962, 7
+5, great staff, 0.641445, 7
+5, raspberry mint lemonade, 0.956385, 8
+5, sweet potato fries, 0.881879, 8

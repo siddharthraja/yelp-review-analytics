@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, pool tables, 0.95319, 0
+1, regulars, 0.756938, 0
+1, bouncers, 0.728184, 3
+1, staff, 0.739868, 5
+1, service, 0.606027, 6
+1, business, 0.577228, 6
+4, fried cheesecake bites, 0.747357, 0
+4, french toast sticks, 0.729549, 0
+4, Cheap junk food, 0.840428, 1
+4, smell, 0.256431, 1
+4, junk food, 0.958907, 2
+4, cheap booze, 0.627166, 2
+4, breakfast junk food, 0.757892, 3
+4, Heineken dark lager, 0.722845, 3
+4, pool, 0.295017, 4
+4, dive, 0.305228, 5
+4, interesting bottles, 0.465479, 6
+4, good people, 0.4535, 6
+4, vodka u-call-its, 0.481932, 7
+4, Sunday night, 0.464669, 7
+4, golf cart land, 0.651264, 8
+4, great place, 0.459433, 8
+4, room, 0.24708, 9
+4, corner, 0.246985, 9
+5, chilled shot machine, 0.662635, 0
+5, impromptu karaoke, 0.553811, 0
+5, go-to dive bar, 0.657725, 2
+5, home bar, 0.53145, 2
+5, honky tonk girl, 0.679229, 3
+5, cha cha slide, 0.673995, 3
+5, night football season, 0.639258, 6
+5, great bar, 0.553933, 6
+5, deli sports bar, 0.959228, 7
+5, husband Matt H., 0.646794, 7
+5, juke box, 0.652594, 8
+5, excellent prices, 0.641068, 8
+5, gold hot wings, 0.610783, 9
+5, good time, 0.523129, 9

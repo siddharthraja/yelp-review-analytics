@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, worst bartender, 0.5568, 0
+1, door stop, 0.489661, 0
+1, Cleveland Browns bar, 0.90543, 1
+1, ring doorbell, 0.575664, 1
+1, Kopper Keg West, 0.880266, 2
+1, Browns game, 0.55996, 2
+1, Kopper Keg, 0.970272, 3
+1, ridiculous red zone, 0.889347, 3
+2, Mediocre lasagna, 0.78524, 0
+2, ok service, 0.612155, 0
+2, heavy smoke smell, 0.929783, 1
+2, odd flavor, 0.660035, 1
+2, tomato sauce, 0.799656, 2
+2, McDonalds crowd, 0.66922, 2
+2, small space, 0.591633, 3
+2, small piece, 0.576327, 3
+2, actually pasta, 0.670107, 6
+2, loud time, 0.602531, 6
+2, North-East Ohio, 0.699972, 7
+2, husband, 0.300397, 7
+2, lasagna sauce, 0.839045, 8
+2, sweetness, 0.309431, 8
+3, better pizza, 0.826265, 0
+3, exact same things, 0.741086, 0
+3, salad, 0.401477, 1
+3, flavor, 0.395882, 1
+3, Typical bar breakfast, 0.956339, 2
+3, constant basis, 0.72485, 2
+3, dishes, 0.506081, 3
+3, pasta, 0.413297, 3
+3, pretty decent menu, 0.971042, 6
+3, local bar, 0.733716, 6
+3, cooks, 0.403132, 7
+3, plus, 0.395555, 7
+3, pizza nights, 0.838197, 8
+3, def worth, 0.811598, 8
+4, chicken club salad, 0.872686, 0
+4, Buffalo Chicken Sliders, 0.859715, 0
+4, Cleveland/old Vegas hybrid, 0.838447, 2
+4, good bar food, 0.922824, 3
+4, smoker friendly patio, 0.865291, 3
+4, good Italian food, 0.93751, 6
+4, South Point, 0.906363, 6
+4, chicken marsala, 0.894464, 7
+4, light brown sauce, 0.84815, 7
+4, price. good food, 0.914466, 8
+4, great chicken parmigiana, 0.876506, 8
+4, Crispy Breaded Chicken, 0.876216, 9
+4, perfectly cooked Spaghetti, 0.843582, 9
+5, sports bar theme, 0.716698, 0
+5, high school pennants, 0.683526, 0
+5, barbecue place, 0.616275, 1
+5, typical bar food, 0.855267, 2
+5, Browns/Cleveland Cavs bar, 0.673691, 2
+5, cajun chicken sandwich, 0.959446, 5
+5, food, 0.915077, 5
+5, notch Italian meal, 0.681722, 6
+5, Spumoni ice cream, 0.669249, 6
+5, good food, 0.697921, 7
+5, Best chicken parm, 0.68986, 7
+5, chicken club salad, 0.865741, 8
+5, South Point, 0.747713, 8
+5, basic dinner salad, 0.730555, 9
+5, great Italian food, 0.724817, 9

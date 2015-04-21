@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, boneless buffalo wings, 0.661692, 0
+1, fast food paper, 0.590942, 0
+1, honey bbq wings, 0.647373, 1
+1, wings suck, 0.601057, 1
+1, boneless wings, 0.593866, 2
+1, medium wings, 0.566879, 2
+1, buffalo wild wings, 0.871979, 3
+1, food, 0.685578, 3
+1, wings, 0.956542, 4
+1, place, 0.544597, 4
+1, horror stories, 0.553631, 5
+1, server, 0.539878, 5
+1, hot wings, 0.584973, 6
+1, half eaten food, 0.564163, 6
+1, buffalo chips, 0.612139, 7
+1, southern style cooking, 0.532321, 7
+1, sweet bbq wings, 0.615245, 8
+1, steamy brown gravy, 0.549024, 8
+2, buffalo wild wings, 0.937948, 0
+2, decent buffalo wings, 0.635704, 0
+2, boneless wings, 0.738139, 1
+2, Big screen tv, 0.516946, 1
+2, usual traditional wings, 0.601734, 2
+2, diet coke, 0.57247, 2
+2, parmesan garlic wings, 0.653997, 3
+2, service, 0.622603, 3
+2, wings, 0.964132, 4
+2, location, 0.572537, 4
+2, food, 0.636547, 5
+2, cole slaw cups, 0.576368, 6
+2, downtown Tempe locations, 0.518184, 6
+2, relatively good service, 0.523154, 7
+2, asian zing, 0.521977, 7
+2, habanero wings, 0.552272, 8
+3, cent boneless wings, 0.56298, 0
+3, expensive wings, 0.498959, 0
+3, chipotle wings, 0.501758, 2
+3, Edible bar food, 0.459838, 2
+3, dry salty wings, 0.555327, 3
+3, little dinky containers, 0.441559, 3
+3, mango habanero, 0.658522, 4
+3, time, 0.454584, 4
+3, food, 0.576555, 5
+3, service, 0.535146, 5
+3, buffalo wild wings, 0.962567, 6
+3, asian zing, 0.687291, 6
+3, potato wedges, 0.590083, 7
+3, 45-cent Wings Night, 0.574986, 7
+3, honey bbq, 0.732049, 8
+3, boneless wings, 0.618207, 8
+3, boneless chicken wings, 0.562764, 9
+3, traditional wings, 0.521966, 9
+4, Habanero boneless wings, 0.468928, 0
+4, spicy wings, 0.442779, 0
+4, steak house service, 0.329477, 1
+4, little spicy, 0.327522, 1
+4, spicy chicken wings, 0.500228, 2
+4, boneless wing night, 0.316891, 3
+4, Buffalo Chicken Flat, 0.31017, 3
+4, chicken wings, 0.571924, 4
+4, asian zing, 0.521295, 4
+4, wings, 0.964562, 5
+4, place, 0.508889, 5
+4, boneless wings, 0.664361, 6
+4, habanero chicken wings, 0.488, 6
+4, buffalo wild wings, 0.836343, 7
+4, time, 0.417059, 7
+4, pretty fantastic wings, 0.45638, 8
+4, delicious wings, 0.450415, 8
+4, honey BBQ wings, 0.465697, 9
+4, Classic delicious wings, 0.427045, 9
+5, tradition wings, 0.64528, 0
+5, mango habanero, 0.45293, 0
+5, UFC PPV, 0.474914, 2
+5, lunch break, 0.464365, 2
+5, half Thai curry, 0.562973, 3
+5, odd flavors, 0.454068, 3
+5, wings, 0.983839, 6
+5, Buffalo Wild Wings, 0.966172, 6
+5, boneless wings sandwiches, 0.81851, 7
+5, Tempe Amazing place, 0.600037, 7
+5, great wings, 0.690606, 8
+5, Def best place, 0.61172, 8
+5, wonderful waitresses, 0.468904, 9

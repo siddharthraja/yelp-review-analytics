@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+1, drinking beers, 0.440759, 0
+1, losers, 0.264813, 0
+1, food menu, 0.906582, 2
+1, simple beer, 0.412877, 2
+1, Las Vegas, 0.650635, 3
+1, Las Vegas airport, 0.554328, 3
+1, sign, 0.252155, 4
+1, lunch time, 0.403771, 6
+1, general info, 0.418844, 7
+1, restaurant/bar, 0.261627, 7
+2, sam adams, 0.692818, 0
+2, typical airport fare, 0.93548, 2
+2, stars, 0.284859, 2
+2, drinks, 0.320354, 3
+2, beer, 0.385486, 4
+2, goose island ipa, 0.895973, 6
+2, rocks, 0.316364, 6
+2, shot, 0.332557, 7
+2, sounds, 0.29151, 8
+2, positive note, 0.624016, 9
+2, waitress, 0.565584, 9
+3, bartender Steve, 0.995049, 0
+3, bar March madness, 0.893035, 0
+3, problem, 0.624714, 3
+3, good service, 0.884751, 6

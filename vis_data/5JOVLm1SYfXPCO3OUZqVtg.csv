@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, bunch, 0.443627, 1
+1, clowns, 0.442874, 1
+1, money, 0.574372, 2
+1, times, 0.421455, 2
+1, song, 0.874939, 3
+1, guy, 0.613814, 3
+1, place, 0.939323, 4
+1, songs, 0.905907, 6
+1, birthdays, 0.431215, 6
+1, drunk people, 0.783576, 7
+1, regular night, 0.779337, 7
+1, places, 0.428729, 8
+1, town, 0.428626, 8
+2, little tiny drink, 0.928208, 0
+2, sake bombs, 0.775013, 0
+2, drinks, 0.575727, 1
+2, times, 0.463755, 1
+2, particular bartender, 0.739447, 2
+2, rude service, 0.732571, 2
+2, normal business, 0.676428, 3
+2, Believin, 0.504158, 3
+2, birthday, 0.539995, 5
+2, song, 0.544207, 6
+2, Heh, 0.465833, 8
+2, fun, 0.462732, 8
+3, Black Out Drunk, 0.595553, 0
+3, Um, 0.376849, 0
+3, quality seating, 0.610379, 1
+3, drinks, 0.374114, 1
+3, good way, 0.575758, 2
+3, annoying problems, 0.568468, 2
+3, smallest bar, 0.621473, 3
+3, general area, 0.585463, 3
+3, singing, 0.362928, 6
+3, Real KK, 0.928288, 7
+3, holy moly, 0.593616, 7
+3, incredible song list, 0.799812, 8
+4, seriously extensive song, 0.890033, 0
+4, velvet curtains, 0.718333, 0
+4, seriously awful singers, 0.882737, 1
+4, best thing, 0.714837, 1
+4, super small space, 0.845098, 2
+4, toilet seat, 0.721502, 2
+4, Japanese karaoke bar, 0.910432, 3
+4, little stage, 0.711688, 3
+4, people, 0.689653, 4
+4, weeknights, 0.621122, 5
+4, alcohol, 0.562997, 5
+4, extensive list, 0.701985, 6
+4, crazy gaps, 0.698741, 6
+4, good song choice, 0.867273, 7
+4, singular favorite place, 0.836869, 7
+4, Awesome hangout, 0.697179, 8
+4, REAL K.K., 0.682704, 8
+4, Excellent song selection, 0.835652, 9
+4, Jell-O shots, 0.690501, 9
+5, original japanese karaoke, 0.995443, 0
+5, random people, 0.820157, 0
+5, Madison prices, 0.587894, 2
+5, drinks, 0.388471, 2
+5, bombs, 0.289393, 3
+5, real adult, 0.583585, 6
+5, japanese mom, 0.547094, 6
+5, sake bomb, 0.929879, 7
+5, college kids, 0.551974, 7
+5, trip morale boosts, 0.907773, 8
+5, Great place, 0.510214, 8
+5, Awesome place, 0.541991, 9

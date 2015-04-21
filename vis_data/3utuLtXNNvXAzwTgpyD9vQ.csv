@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, Chris Hansen, 0.928723, 0
+1, under-21 clubs, 0.899105, 0
+1, drinks, 0.496229, 1
+1, pluses, 0.551047, 3
+1, thing, 0.634209, 4
+1, heart-felt plea, 0.903993, 6
+1, usual excuse, 0.86682, 6
+1, pervert skin, 0.856799, 7
+1, straight hip-hop, 0.828149, 7
+1, alright experience, 0.868195, 8
+1, face lift, 0.843223, 8
+2, nightclub, 0.461983, 0
+2, floorspace, 0.43442, 0
+2, basketball jerseys, 0.659945, 1
+2, knees, 0.476894, 1
+2, typical ghetto teen, 0.929765, 2
+2, hip hop dance, 0.874478, 2
+2, dance club, 0.827387, 4
+2, new image, 0.602804, 6
+2, place, 0.468567, 6
+2, live music venue, 0.800121, 7
+2, Marquee Theatre, 0.634733, 7
+3, music, 0.95287, 6
+4, Dance floor, 0.798857, 0
+4, Friday nights, 0.795496, 0
+4, ghetto, 0.698966, 2
+4, crowd, 0.686375, 2
+4, bar, 0.55677, 3
+4, ta, 0.575294, 4
+4, seating area, 0.806757, 6
+4, simple club, 0.798183, 6
+4, hottie, 0.590424, 7
+4, majority, 0.568699, 7
+4, place, 0.551876, 8

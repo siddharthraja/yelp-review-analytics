@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+3, Edinburgh Uni campus, 0.818784, 0
+3, pub crawl, 0.702941, 0
+3, people, 0.571421, 1
+3, quiet bars, 0.707556, 2
+3, square metres, 0.677982, 2
+3, Meadow Bar, 0.940854, 3
+3, chat, 0.605329, 5
+3, time, 0.563368, 5
+3, function room upstairs, 0.816273, 6
+3, filling station, 0.679818, 6
+3, place, 0.704192, 7
+3, free comedy, 0.659835, 7
+3, specific events, 0.677784, 8
+3, solid bar, 0.657942, 8
+3, pints, 0.596391, 9
+3, afternoon, 0.537809, 9
+4, Chess-Themed Poetry Night, 0.6294, 0
+4, wee bit, 0.577895, 0
+4, typical student prices, 0.629966, 2
+4, typical student beverages, 0.628549, 2
+4, nice wee bar, 0.639066, 3
+4, fantastical board game, 0.631024, 3
+4, George Square campus, 0.751237, 4
+4, Bar their haunt, 0.593059, 4
+4, meadow bar, 0.947557, 5
+4, pub food, 0.582588, 6
+4, student discount, 0.575976, 6
+4, upstairs room, 0.66514, 7
+4, veggie burgers, 0.653235, 7
+4, reasonably priced pint, 0.667553, 8
+4, nearby George Square, 0.61545, 8
+4, best house merlot, 0.611605, 9
+4, comfortable pub, 0.577208, 9
+5, cheese veggie burger, 0.792606, 0
+5, ice cream, 0.532385, 0
+5, late evening, 0.536951, 1
+5, seats, 0.344724, 1
+5, cozy bar, 0.56774, 2
+5, extra liquor, 0.553606, 2
+5, function room upstairs, 0.950069, 3
+5, delicious food, 0.562872, 3
+5, White Russian, 0.529702, 6
+5, reggae parties, 0.527358, 6
+5, staff super nice, 0.808259, 7
+5, free fringe shows, 0.731551, 7
+5, best kind, 0.558462, 8
+5, friendliest staff, 0.546009, 8
+5, past closing time, 0.813566, 9
+5, good non-intrusive playlist, 0.737256, 9

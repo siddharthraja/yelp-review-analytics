@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+2, fried pickles, 0.547278, 0
+2, smoking bar, 0.554183, 1
+2, lunch break, 0.506704, 1
+2, food, 0.448205, 2
+2, average South, 0.423997, 2
+2, cigarette smoke, 0.513424, 3
+2, Ruggers, 0.359714, 3
+2, seitan steak sandwich, 0.960989, 6
+2, nice veg options, 0.893644, 7
+2, pretty extensive menu, 0.922176, 8
+2, good beer selection, 0.740476, 8
+3, distinct veggie burger, 0.937306, 0
+3, chain influence, 0.738744, 0
+3, low key pub, 0.864127, 1
+3, bro-free bar, 0.718623, 1
+3, smoking bar, 0.887869, 2
+3, von dutch, 0.699043, 2
+3, hot sweaty mess, 0.906824, 3
+3, tiny little bar, 0.899966, 3
+3, fairly session-able craft, 0.910779, 6
+3, Ruggers, 0.713405, 6
+3, East End, 0.723269, 7
+3, beer list, 0.722314, 7
+3, craft in-season drafts, 0.890397, 8
+3, half stars, 0.697655, 8
+4, deep fried pickles, 0.912286, 0
+4, hot farts, 0.495021, 0
+4, Cheap food, 0.516709, 1
+4, following things, 0.488751, 1
+4, Cheap beer, 0.524989, 2
+4, weekends, 0.3364, 2
+4, sports themes, 0.49592, 3
+4, bar food, 0.480637, 3
+4, music, 0.359439, 5
+4, punk rock, 0.453215, 6
+4, upside, 0.346746, 6
+4, best veggie burger, 0.836375, 7
+4, Ruggers Pub, 0.523668, 7
+4, best bartender, 0.469533, 8
+4, Erie Railbender, 0.465594, 8
+4, ever-changing beers, 0.480369, 9
+4, great selection, 0.463707, 9
+5, small local bar, 0.717779, 0
+5, nice little divey, 0.709493, 0
+5, price burger night, 0.764874, 1
+5, South Side.I, 0.582082, 1
+5, fried pickle chips, 0.992448, 3
+5, regular rugby players, 0.7134, 3
+5, al fresco dining., 0.758088, 6
+5, Ruggers Pub, 0.701888, 6
+5, fried patios, 0.687544, 7
+5, buffalo sauce, 0.578904, 7
+5, great food, 0.757092, 8
+5, beer selection, 0.738867, 8
+5, amazing beer selection, 0.722126, 9
+5, best friend Abby, 0.708426, 9

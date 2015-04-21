@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+1, new owners, 0.962946, 0
+1, bikers, 0.767225, 0
+1, regulars, 0.843972, 2
+1, place, 0.615323, 2
+2, ... ..., 0.930241, 0
+2, liquor store, 0.880363, 0
+2, neighborhood dive, 0.992382, 1
+2, place, 0.438966, 1
+2, man, 0.465727, 2
+2, Old, 0.292353, 2
+2, rest, 0.281258, 3
+2, life, 0.256973, 3
+2, True Story, 0.836572, 8
+4, Leinenkugel, 0.409006, 0
+4, pitchers, 0.383204, 0
+4, shortage, 0.490622, 2
+4, vodka, 0.371471, 2
+4, bar, 0.390753, 3
+4, liquors, 0.387576, 3
+4, DOLLAR DRINKS, 0.817838, 6
+4, liquor selection, 0.635081, 6
+4, competitors. great dive, 0.857535, 7
+4, cheap drinks, 0.693041, 7
+4, auspicious dancing pole, 0.958386, 8
+4, comfy booths, 0.688448, 8
+5, pool tables, 0.585321, 0
+5, bands, 0.361031, 0
+5, places, 0.358221, 1
+5, Cheap drinks, 0.734888, 2
+5, great bartenders,friendly people, 0.923012, 6
+5, Fleetwood, 0.400833, 6
+5, juke box music, 0.873509, 7
+5, asshole, 0.446456, 7
+5, Great neighborhood crowd, 0.959481, 8
+5, servers, 0.358036, 8

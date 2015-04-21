@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, sane ones, 0.664599, 0
+1, staff try, 0.59651, 0
+1, awful music, 0.955577, 1
+1, leering jeering crowd, 0.818422, 1
+1, anthropologists, 0.30106, 2
+1, honesty, 0.300039, 2
+1, police cars, 0.651726, 3
+1, meat market, 0.594064, 3
+1, place, 0.474394, 4
+1, Siglo, 0.643548, 5
+1, interesting study, 0.595546, 6
+1, desperation, 0.321559, 6
+1, sane folk, 0.66208, 8
+2, closest Siglo, 0.766105, 0
+2, Ann Summers corsets, 0.755404, 0
+2, Cheap paintstripper booze, 0.816414, 1
+2, Awful music, 0.634612, 1
+2, Siglo, 0.910458, 2
+2, Crappy drinks, 0.60789, 2
+2, pole dancing, 0.632645, 3
+2, things, 0.439543, 3
+2, Cowgate, 0.534062, 4
+2, places mind, 0.630901, 6
+2, great potential, 0.627439, 6
+2, Edinburgh chit chat, 0.794768, 7
+2, great night, 0.589425, 7
+2, old girl, 0.617357, 8
+2, Good place, 0.608714, 8
+3, huge fan, 0.700883, 0
+3, birthday dos, 0.671766, 0
+3, police presence, 0.638914, 1
+3, Cowgate, 0.585019, 1
+3, pretty awful performances, 0.847586, 2
+3, licensing laws, 0.653781, 2
+3, sweaty feel, 0.69094, 3
+3, sheer numbers, 0.686282, 3
+3, night, 0.805093, 4
+3, place, 0.681883, 4
+3, free shot, 0.887991, 6
+3, free drink, 0.663018, 6
+3, PR guy, 0.929775, 7
+3, karaoke night, 0.686937, 7
+3, Siglo, 0.756917, 8
+4, crazy Brits, 0.82803, 0
+4, farmer, 0.569312, 0
+4, hardcore, 0.565757, 1
+4, friend, 0.565158, 1
+4, bathroom sink, 0.833888, 2
+4, cowgate club, 0.811006, 2
+4, ridiculous pole dancing, 0.981034, 3
+4, case, 0.553107, 3
+4, old age, 0.799488, 4
+4, good times, 0.797453, 6
+4, lad, 0.584543, 6
+4, reason, 0.568171, 8
+5, Thursday night Karaoke, 0.992246, 0
+5, venue, 0.248285, 0
+5, good singers, 0.432128, 3
+5, best Karaoke nights, 0.795088, 6
+5, Karaoke fan, 0.519008, 6
+5, reasonable drinks/offers, 0.433177, 7
+5, previous reviews, 0.411693, 7
+5, visit, 0.251847, 8

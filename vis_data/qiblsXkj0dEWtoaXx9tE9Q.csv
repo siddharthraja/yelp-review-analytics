@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+2, poor food, 0.535395, 0
+2, Stinks, 0.391526, 0
+2, bad waitress service, 0.93879, 1
+2, dive bar, 0.520592, 1
+4, typical Bud variety, 0.880283, 0
+4, couple pool tables, 0.860452, 0
+4, local dive bars, 0.85896, 1
+4, little place, 0.780154, 1
+4, local dive bar, 0.895437, 2
+4, nice lay, 0.757142, 2
+4, basic bar food, 0.905686, 3
+4, half pounder, 0.764072, 3
+4, menu, 0.677101, 4
+4, area, 0.693192, 5
+4, good size, 0.788187, 6
+4, pint glass, 0.781157, 6
+4, Northstar Bar, 0.904242, 7
+4, time visit Heather, 0.874197, 7
+4, half pound burger, 0.910042, 8
+4, Hangover Burger, 0.786596, 8
+4, FANTASTIC BURGERS, 0.779934, 9
+5, fresh potato chips, 0.927342, 0
+5, shredded cheese, 0.638601, 0
+5, menu, 0.319491, 2
+5, potato chips, 0.998739, 6
+5, homemade potato chips, 0.984956, 6
+5, night ROCK, 0.818332, 7
+5, Bartenders, 0.484298, 7
+5, ppl good food, 0.884957, 8
+5, snack, 0.295725, 9
+5, party, 0.260776, 9

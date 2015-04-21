@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+3, O'Clock Somewhere drink, 0.872308, 0
+3, headliner cocktail, 0.848056, 0
+3, cheap margaritas, 0.823281, 1
+3, domestic beer, 0.788546, 1
+3, high price, 0.805813, 2
+3, jet lag, 0.758031, 2
+3, little too flirty, 0.805972, 3
+3, 90s, 0.55223, 3
+3, standard drinks, 0.813782, 6
+3, Margaritaville Casino, 0.768782, 6
+3, fun haha, 0.79112, 7
+3, cold drink, 0.781881, 7
+3, cool casual bar, 0.98278, 8
+3, late late night, 0.970872, 8
+3, Nice place, 0.782604, 9
+3, lol, 0.564527, 9
+4, average drink slinger, 0.8407, 0
+4, Cruzan mango rum, 0.727791, 0
+4, Las Vegas Sign, 0.761846, 1
+4, ounce souvenir cup, 0.750766, 1
+4, Nice little bar, 0.855933, 2
+4, Las Vegas Strip, 0.779432, 3
+4, mixed feelings, 0.575922, 3
+4, bar, 0.893635, 4
+4, Las Vegas, 0.903506, 6
+4, bartender Phillip, 0.627008, 6
+4, Great bar, 0.878206, 7
+4, drinks, 0.729707, 7
+4, Great little bar, 0.834492, 8
+4, new Margaritaville casino, 0.781321, 8
+4, fun bartenders, 0.645792, 9
+4, bar tender, 0.614212, 9
+5, Green Mts., 0.513385, 0
+5, times more tricks, 0.479062, 0
+5, Vegas Margaritaville, 0.504268, 1
+5, real treat, 0.514218, 2
+5, Vegas, 0.547917, 5
+5, crystal clear turquoise, 0.656442, 6
+5, sandy beach, 0.492337, 6
+5, Jimmy Buffet music, 0.652427, 7
+5, awesome bar, 0.574732, 7
+5, bartenders, 0.959022, 8
+5, amazing bartenders, 0.72591, 8
+5, awesome flair bartender, 0.761699, 9
+5, best bartenders, 0.705438, 9

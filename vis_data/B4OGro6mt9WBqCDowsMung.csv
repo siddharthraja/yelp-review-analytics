@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+2, domestic bottles kind, 0.951885, 0
+2, packed dance floor, 0.931351, 0
+2, strip mall, 0.683527, 1
+2, crowd, 0.474297, 1
+2, couple decent beers, 0.945928, 6
+2, weird place, 0.699312, 6
+2, place love, 0.674917, 7
+2, people, 0.451393, 7
+2, Saturday night, 0.956689, 8
+2, Met my friend, 0.705072, 8
+3, young kids, 0.508648, 0
+3, good tunes, 0.503228, 0
+3, best impression, 0.551623, 3
+3, Saturday night, 0.821174, 4
+3, Different specials, 0.593685, 6
+3, drinks, 0.336436, 6
+3, especially new manager, 0.960393, 7
+3, manager Mark, 0.571321, 7
+3, courteous bartenders, 0.687795, 8
+3, good atmosphere, 0.562656, 8
+4, comedy zone emails, 0.627617, 0
+4, national comedy club, 0.609369, 0
+4, particular food item, 0.570587, 1
+4, Bar tenders, 0.505652, 1
+4, anglo sloppy mess, 0.539356, 2
+4, comedy zone section, 0.645072, 3
+4, comedy club aspect, 0.594272, 3
+4, comedy club, 0.905192, 4
+4, comedy zone, 0.9146, 5
+4, bar food, 0.647132, 5
+4, decent Comedy Club, 0.638303, 6
+4, Comedy Zone Fort, 0.629492, 6
+4, Open Mic Night, 0.707791, 7
+4, free comedy zone, 0.659968, 7
+4, intimate environment, 0.632641, 8
+4, great night, 0.557257, 8
+4, Great bar food, 0.609938, 9
+4, surprisingly good seafood, 0.573635, 9
+5, DC Improv, 0.597252, 0
+5, sardines, 0.37493, 0
+5, little different sort, 0.818363, 2
+5, long trailer, 0.576821, 2
+5, nearest comedy club, 0.839106, 7
+5, Cheers episode, 0.639218, 7
+5, hand cut fries, 0.835415, 8
+5, friendly regulars, 0.640299, 8
+5, great sports bar, 0.924503, 9
+5, amazing bar tender, 0.879998, 9

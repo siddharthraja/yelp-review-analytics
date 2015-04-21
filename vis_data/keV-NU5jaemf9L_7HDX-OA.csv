@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, mediocre food options, 0.440967, 0
+1, bar table area, 0.410541, 0
+1, strangely hostile server, 0.472212, 1
+1, Bahama Breeze ruin, 0.4119, 1
+1, late food, 0.426983, 2
+1, long time, 0.405669, 2
+1, Bahama Breeze, 0.733605, 3
+1, chicken, 0.471477, 3
+1, food, 0.902091, 4
+1, table, 0.522794, 4
+1, people, 0.541745, 5
+1, appetizer, 0.436344, 5
+1, chicken tortilla soup, 0.411124, 6
+1, Jamaican grilled chicken, 0.40245, 6
+1, family reunion dinner, 0.475077, 7
+1, baja fish tacos, 0.464791, 7
+1, pre-made food, 0.396838, 8
+2, chain restaurant food, 0.767873, 0
+2, Olive Garden food, 0.75547, 0
+2, Special Jerk Chicken, 0.753463, 1
+2, thier poor service, 0.72114, 1
+2, Caribbean food, 0.774635, 2
+2, tasteless generic food, 0.772168, 2
+2, fish tacos, 0.881813, 3
+2, onion rings, 0.837302, 3
+2, food, 0.95641, 4
+2, service, 0.792643, 4
+2, place, 0.928193, 5
+2, time, 0.755054, 5
+2, drinks, 0.744527, 6
+2, blended island margarita, 0.727527, 6
+2, Las Vegas, 0.712234, 7
+2, Monday night, 0.710291, 7
+2, good time, 0.744841, 9
+2, tasty signature yummy, 0.710985, 9
+3, good jerk chicken, 0.599351, 0
+3, grilled jerk chicken, 0.561895, 0
+3, local Bahama Breeze, 0.52374, 1
+3, Jamaican chicken wings, 0.525534, 2
+3, fried food, 0.525265, 2
+3, good waffle fries, 0.507989, 3
+3, cream sauce, 0.500544, 3
+3, jamaican jerk wings, 0.557602, 4
+3, time, 0.540201, 4
+3, Bahama Breeze, 0.975856, 5
+3, food, 0.873383, 5
+3, coconut shrimp, 0.71059, 6
+3, drinks, 0.667443, 6
+3, chicken tortilla soup, 0.807543, 7
+3, yummy chicken tortilla, 0.55394, 7
+3, jerk chicken, 0.760006, 8
+3, Great tasting food, 0.539232, 8
+3, jerk chicken wings, 0.675743, 9
+3, great service, 0.499318, 9
+4, shrimp dishes, 0.316989, 0
+4, small shrimp, 0.315004, 0
+4, Calypso Shrimp Linguine, 0.42931, 1
+4, new Shrimp, 0.307989, 1
+4, coconut shrimp, 0.90381, 4
+4, jerk chicken, 0.541449, 5
+4, food, 0.517878, 5
+4, Bahama Breeze, 0.760854, 6
+4, place, 0.469714, 6
+4, good food, 0.418836, 7
+4, seafood paella, 0.390927, 7
+4, chicken pasta dish, 0.338901, 8
+4, warm chocolate pineapple, 0.327009, 8
+4, Good size shrimp, 0.381556, 9
+4, coconut shrimp pasta, 0.350604, 9
+5, Fire-Roasted Jerk Shrimp, 0.484427, 0
+5, jerk fire shrimp, 0.472837, 0
+5, Simmered Jerk Shrimp, 0.512775, 1
+5, spicy jerk sauce, 0.459221, 3
+5, bahama breeze, 0.971956, 5
+5, Las Vegas, 0.639829, 5
+5, place, 0.620978, 6
+5, jerk shrimp, 0.559866, 6
+5, coconut shrimp, 0.80151, 7
+5, jerk chicken pasta, 0.512836, 7
+5, jerk shrimp appetizer, 0.490193, 8
+5, great coconut shrimp, 0.48594, 8
+5, appetizer cajon shrimp, 0.475722, 9
+5, Great family place, 0.466951, 9

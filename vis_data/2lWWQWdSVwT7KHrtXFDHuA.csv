@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, REAL good food, 0.694425, 0
+1, luckiest person, 0.524429, 0
+1, Foia gras, 0.608819, 1
+1, mustard sauce, 0.475903, 1
+1, pretty terrible experience, 0.937358, 2
+1, place foot dinner, 0.696618, 3
+1, Steak frites, 0.551231, 3
+1, chicken breast, 0.446803, 6
+1, highly rated place, 0.811238, 7
+2, hanger steak, 0.916169, 0
+2, lobster risotto, 0.915918, 0
+2, bone marrow, 0.944924, 1
+2, coarse salt, 0.838309, 1
+2, foie gras, 0.851996, 2
+2, awful food, 0.798883, 2
+2, french bistros, 0.881467, 3
+2, panna cotta type, 0.872382, 3
+2, food, 0.957552, 4
+2, place, 0.831499, 4
+2, steak, 0.934522, 5
+2, glowing reviews, 0.875647, 5
+2, l'express, 0.937712, 6
+2, l'Express n'est pas, 0.925187, 6
+2, steak frites, 0.883393, 7
+2, goat cheese salad, 0.871688, 7
+2, good appetizer, 0.809103, 8
+2, great ones, 0.793223, 8
+2, bare essential service, 0.859621, 9
+3, foie gras appetizer, 0.533297, 0
+3, foie gras terrines, 0.516444, 0
+3, order foie gras, 0.510142, 2
+3, sea bass, 0.593956, 3
+3, fish soup, 0.530089, 3
+3, foie gras, 0.975597, 4
+3, bone marrow, 0.887053, 4
+3, wild rice, 0.636801, 5
+3, service, 0.620369, 5
+3, food, 0.763881, 6
+3, duck confit salad, 0.714123, 6
+3, french food, 0.640618, 7
+3, steak tartare, 0.634702, 7
+3, warm goat cheese, 0.559928, 8
+3, french bistro, 0.508008, 8
+3, Authentic french food, 0.472918, 9
+3, sunday afternoon, 0.456633, 9
+4, pot au feu, 0.631965, 0
+4, typical French Bistro, 0.628867, 0
+4, duck confit, 0.777108, 3
+4, bone marrow appetizer, 0.716475, 3
+4, wild rice, 0.647573, 4
+4, bread, 0.644701, 4
+4, bone marrow, 0.978873, 5
+4, steak frites, 0.747642, 5
+4, l'express, 0.738492, 6
+4, place, 0.696625, 6
+4, duck confit salad, 0.732362, 7
+4, goat cheese salad, 0.695964, 7
+4, french bistro, 0.814282, 8
+4, wine list, 0.730051, 8
+4, delicious french accents, 0.63819, 9
+4, Classic French food, 0.629134, 9
+5, ultimate French bistro, 0.63648, 0
+5, sole L'Express experience, 0.619866, 0
+5, wine, 0.623722, 4
+5, meal, 0.599916, 4
+5, bone marrow, 0.992909, 5
+5, l'express, 0.832569, 5
+5, hangar steak frites, 0.624431, 6
+5, steak w/shallot butter, 0.594556, 6
+5, steak frites, 0.729265, 7
+5, traditional french bistro, 0.638963, 7
+5, french bistro, 0.828563, 8
+5, best steak frites, 0.677048, 8
+5, french table bread, 0.600859, 9
+5, French comfort food, 0.598064, 9

@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, overwhelming brown tones, 0.900725, 0
+2, truth, 0.291376, 0
+2, opinion, 0.303886, 1
+2, atmosphere, 0.294548, 1
+2, good nights, 0.641923, 3
+2, bar staff, 0.537082, 3
+2, beers, 0.419713, 6
+2, tap, 0.413132, 6
+2, great things, 0.606951, 7
+2, place, 0.285859, 7
+2, cool old bar, 0.820738, 8
+2, nostalgia, 0.300251, 8
+3, unintentional pub crawl, 0.910568, 0
+3, long-winded way, 0.635892, 0
+3, itchy dancing feet, 0.797244, 1
+3, bad thing, 0.625645, 1
+3, taste buds, 0.589284, 2
+3, multiple screens, 0.564702, 2
+3, random pubs, 0.629664, 3
+3, New Town, 0.620525, 3
+3, place, 0.603736, 4
+3, time, 0.351871, 4
+3, old school look, 0.789817, 6
+3, regular old men, 0.786673, 6
+3, good ale, 0.876859, 7
+3, ultra cool Broughton, 0.809747, 7
+3, good thing, 0.624134, 8
+3, cold pints, 0.583376, 8
+3, air, 0.352325, 9
+4, different real ales, 0.87675, 0
+4, total guy boozer, 0.848745, 0
+4, big group, 0.61643, 1
+4, Johnny Foreigner, 0.64817, 2
+4, oddity, 0.452064, 2
+4, haven, 0.439903, 6
+4, Festival, 0.439861, 6
+4, lovely house wine, 0.855705, 7
+4, half pints, 0.66563, 7
+4, great Edinburgh pubs, 0.962887, 8
+4, Cask, 0.862883, 8
+4, standard pub food, 0.951186, 9
+4, easy walking distance, 0.880833, 9
+5, Broughton St Ale, 0.977594, 0
+5, Fancy traditions pubs, 0.864833, 2
+5, tourists, 0.46164, 2
+5, cask, 0.571098, 6
+5, spot, 0.449327, 6
+5, Great ale house, 0.927532, 8
+5, real ale house, 0.862663, 8
+5, Terrific local pub, 0.887655, 9
+5, sticky floors, 0.669176, 9

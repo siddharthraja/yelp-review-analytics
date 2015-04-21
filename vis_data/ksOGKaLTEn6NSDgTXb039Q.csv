@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, little dining area, 0.906925, 0
+1, nice things, 0.622228, 0
+1, ugly concrete floor, 0.814333, 1
+1, horrible service, 0.650541, 1
+1, domestic drafts, 0.878101, 2
+1, way home, 0.560615, 2
+1, p-trap issues, 0.588545, 3
+1, table, 0.417573, 3
+1, appetizers, 0.545043, 4
+1, drinks, 0.507337, 4
+1, place, 0.560113, 5
+1, coupon, 0.63263, 6
+1, purchase, 0.358441, 6
+1, extra profit, 0.58399, 7
+1, false assumption, 0.579998, 7
+1, Saturday night, 0.602865, 8
+1, dancing, 0.358308, 8
+2, geriatric retiree community, 0.565767, 0
+2, real old ones, 0.554761, 0
+2, beer selection, 0.479544, 1
+2, beer choices, 0.477977, 1
+2, long anticipated review, 0.587078, 2
+2, social dance bar, 0.550611, 2
+2, low key atmosphere, 0.547891, 3
+2, geriatric establishment, 0.506662, 3
+2, old people, 0.833592, 5
+2, lounge singer, 0.775604, 5
+2, place, 0.599483, 6
+2, Chances, 0.556961, 6
+2, Friday night, 0.488587, 7
+2, retirement home, 0.48501, 7
+2, sweaty gym sock, 0.562206, 8
+2, better dance venues, 0.546704, 8
+2, Salvation Army, 0.493451, 9
+3, live bands play, 0.956547, 2
+3, stage, 0.7047, 2
+4, younger crowd, 0.757469, 0
+4, Older crowd, 0.746219, 0
+4, refills, 0.380607, 1
+4, soda, 0.37232, 1
+4, bad thing, 0.671675, 3
+4, Karaoke night, 0.670768, 3
+4, place, 0.743209, 6
+4, steady basis, 0.728371, 6
+4, Basic decore, 0.723538, 7
+4, fun evening, 0.651191, 7
+4, good sized burger, 0.939508, 9
+4, cool entertainment, 0.671477, 9
+5, lemon caper pike, 0.925906, 0
+5, New York Strip, 0.922986, 0
+5, Scottsdale douchers, 0.764485, 1
+5, live music, 0.797215, 2
+5, little dark, 0.783331, 2
+5, crazy music, 0.773607, 3
+5, Sunday night, 0.748717, 3
+5, Chances, 0.923611, 5
+5, youngest group, 0.75872, 6
+5, boy Steve, 0.755892, 6
+5, padded room, 0.764398, 7
+5, right crew, 0.759605, 7
+5, great dance music, 0.898228, 8
+5, Great food, 0.879178, 8
+5, Great new menu, 0.88892, 9
+5, great music/real dance, 0.88482, 9

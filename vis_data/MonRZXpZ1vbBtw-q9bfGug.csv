@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, grand daughter, 0.973743, 0
+1, Eastern European descent, 0.871856, 0
+1, good experience, 0.654989, 1
+1, BBT, 0.501347, 1
+1, authentic Polish food, 0.835572, 3
+1, SUBSTITUTES, 0.473938, 3
+1, soft drink, 0.940476, 7
+1, soft drink refill, 0.912755, 7
+2, non-Polish family nick, 0.836032, 0
+2, chicken strips, 0.820142, 0
+2, dive bar, 0.688993, 1
+2, funny smell, 0.672715, 1
+2, bar, 0.95028, 2
+2, NCAA basketball tournament, 0.767257, 2
+2, fellow Polish brother, 0.806769, 3
+2, peach hair veyr, 0.784159, 3
+2, bartender, 0.796625, 4
+2, coffee, 0.645444, 5
+2, beers, 0.688411, 6
+2, Restaurant Impossible, 0.685654, 6
+2, higher ratings, 0.65075, 7
+2, cup, 0.569964, 7
+2, great dinner, 0.665428, 8
+2, Thai food, 0.664113, 8
+2, good variety, 0.666734, 9
+3, Arcadia Barlywine Ale, 0.611474, 0
+3, good luck, 0.559881, 0
+3, dive bar atmosphere, 0.612936, 1
+3, little outdoor section, 0.606045, 1
+3, disgusting drinks, 0.536085, 2
+3, odd introductions, 0.525151, 2
+3, dive bar cred, 0.774032, 3
+3, dollar beers, 0.750569, 3
+3, dive bar, 0.774473, 4
+3, craft beer, 0.644924, 4
+3, polish food, 0.757486, 5
+3, place, 0.694807, 5
+3, proper dive bar, 0.62016, 6
+3, separate cooler, 0.521055, 6
+3, Dollar Beer Night, 0.992991, 7
+3, East End Big, 0.628786, 7
+3, pretty good night, 0.638469, 8
+3, outdoor patio, 0.630495, 8
+3, Excellent local bar, 0.61483, 9
+3, good service, 0.57341, 9
+4, great polish food, 0.39218, 0
+4, cheap dive bar, 0.292743, 0
+4, best pierogies, 0.300442, 1
+4, Polish food fix, 0.336546, 2
+4, old polish woman, 0.293703, 2
+4, stuffed cabbage, 0.3201, 3
+4, authentic Polish food, 0.313894, 3
+4, bloomfield bridge, 0.386764, 4
+4, polish food, 0.925233, 5
+4, BBT, 0.559859, 5
+4, dive bar, 0.587485, 6
+4, pierogies, 0.499146, 6
+4, excellent polish food, 0.470475, 7
+4, good food, 0.358869, 7
+4, Bloomfield Bridge Tavern, 0.336116, 8
+4, Unbelievably good food, 0.321034, 8
+4, Yummy pierogies, 0.266896, 9
+4, great night spot, 0.233632, 9

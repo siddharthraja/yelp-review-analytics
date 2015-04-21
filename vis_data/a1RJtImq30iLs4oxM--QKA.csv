@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, incredible pathogen transmission, 0.874733, 0
+1, long shelf life, 0.856299, 0
+1, disgusting restroom experience, 0.945306, 1
+1, air conditioning vents, 0.89186, 1
+1, humid mens room, 0.939501, 2
+1, bar rag, 0.873953, 2
+1, bloody mary, 0.78535, 3
+1, beer, 0.784285, 3
+1, new restaurant kinks, 0.90588, 6
+1, draft beer, 0.763143, 6
+1, Decent selection, 0.746432, 7
+1, good place, 0.744101, 7
+1, good location, 0.758602, 8
+2, food service quality, 0.716605, 0
+2, sweet potato fries, 0.66647, 0
+2, Beer Cheese Brat, 0.781983, 1
+2, flavorless chicken breast, 0.693476, 1
+2, Free House Pub, 0.818323, 2
+2, cheese curds, 0.622295, 2
+2, service, 0.839983, 3
+2, new place work, 0.676821, 3
+2, Free House, 0.906236, 4
+2, food, 0.841188, 4
+2, stars, 0.615816, 5
+2, Beer Cheese soup, 0.682041, 6
+2, alcohol service, 0.61184, 6
+2, large screen TVs, 0.657505, 7
+2, outdoor eating area, 0.652083, 7
+2, exceptionally great server, 0.68116, 8
+2, buffalo chicken salad, 0.677341, 8
+3, prime rib sandwich, 0.440915, 0
+3, classic Wisconsin staples, 0.421542, 0
+3, notch bar food, 0.479481, 1
+3, fussy hipster ingredients, 0.438161, 1
+3, crowded bar area, 0.460801, 2
+3, buttery/skanky uncleaned line, 0.43726, 2
+3, cheese curds, 0.505868, 3
+3, upscale bar food, 0.483148, 3
+3, clam chowder, 0.421144, 4
+3, food, 0.552394, 5
+3, Free House, 0.939589, 6
+3, cheese beet salad, 0.458257, 6
+3, sweet potato fries, 0.721543, 7
+3, good sandwich, 0.487749, 7
+3, Free House Pub, 0.814744, 8
+3, garlic Parmesan fries, 0.466711, 8
+3, good beer options, 0.475568, 9
+3, House Pub Old, 0.450124, 9
+4, garlic parmesan fries, 0.616738, 3
+4, Free House Pub, 0.303052, 5
+4, Free House, 0.939068, 6
+4, sweet potato fries, 0.753888, 6
+4, patio, 0.212925, 8
+5, Ahi tuna sandwich, 0.759684, 0
+5, roasted turkey sandwich, 0.7423, 0
+5, little frugal, 0.626752, 2
+5, jalapeno popper appetizer, 0.752058, 3
+5, go-to order, 0.630033, 3
+5, bar area, 0.628912, 4
+5, Free House, 0.965309, 6
+5, Friday fish fry, 0.759149, 6
+5, portobello mushroom burgers, 0.775816, 7
+5, knowledgeable wait staff, 0.742611, 7
+5, Cozy evening atmosphere, 0.774517, 8
+5, great sounding salads, 0.771741, 8
+5, sweet potato fries, 0.745798, 9
+5, Yahara Bay cherry, 0.729587, 9

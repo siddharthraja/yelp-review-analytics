@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, Worse bouncer service, 0.726704, 0
+1, decently large group, 0.724467, 0
+1, Absolute worst service, 0.717953, 1
+1, douche bag bouncers, 0.71646, 1
+1, eye contact, 0.739144, 2
+1, table, 0.734541, 2
+1, place, 0.849817, 3
+1, Handlebar Tempe, 0.720784, 3
+1, food, 0.886532, 4
+1, service, 0.848426, 4
+1, beer, 0.910042, 5
+1, beers, 0.77112, 5
+1, local bicycle organization, 0.711568, 6
+1, beer selection, 0.790651, 7
+1, better service, 0.72015, 7
+1, drink order, 0.77341, 8
+1, better beer selection, 0.73912, 8
+1, beer garden, 0.771573, 9
+1, good craft beers, 0.73134, 9
+2, fast food places, 0.640415, 0
+2, tall red-haired male, 0.636042, 0
+2, horrible service, 0.663411, 1
+2, hipster bar, 0.661549, 1
+2, Friday night, 0.644446, 2
+2, fellow co-workers drinking, 0.642697, 2
+2, bar, 0.853049, 3
+2, server, 0.658996, 3
+2, beer, 0.95909, 5
+2, place, 0.864152, 5
+2, good beer selection, 0.675244, 6
+2, vodka martini, 0.647451, 6
+2, beer selection, 0.943926, 7
+2, real laid-back place, 0.670657, 7
+2, Great beer selection, 0.775157, 8
+2, local businesses, 0.655366, 8
+2, Pretty good drinks, 0.707106, 9
+2, open patio areas, 0.640878, 9
+3, goddamn fries, 0.671829, 0
+3, Belgium beer glass, 0.654673, 0
+3, disappointing fries, 0.664376, 1
+3, slow service, 0.640761, 1
+3, old creepy guy, 0.613048, 3
+3, favorite place, 0.606086, 3
+3, fries, 0.936952, 4
+3, drinks, 0.615965, 4
+3, place, 0.927567, 5
+3, sweet potato fries, 0.866553, 5
+3, food, 0.694858, 6
+3, ale beer selection, 0.646739, 6
+3, Belgium fries, 0.698045, 7
+3, beer, 0.677103, 7
+3, better blended drink, 0.635798, 8
+3, different dipping sauces, 0.62592, 8
+3, cool looking place, 0.646892, 9
+3, decent food options, 0.631931, 9
+4, Great neighborhood bar, 0.552783, 0
+4, normal beer prices, 0.532454, 0
+4, service, 0.525737, 4
+4, Good bar, 0.511838, 4
+4, fries, 0.608006, 5
+4, handlebar, 0.593032, 5
+4, beer, 0.999117, 6
+4, place, 0.826449, 6
+4, beers, 0.612575, 7
+4, beer cocktails, 0.607906, 7
+4, beer selection, 0.865098, 8
+4, great beer selection, 0.818139, 8
+4, great selection, 0.599063, 9
+4, pretty great place, 0.574542, 9
+5, beer cheese tastes, 0.73199, 0
+5, nice little details, 0.71423, 0
+5, food menu, 0.721683, 3
+5, time, 0.730707, 4
+5, Saturday night, 0.701761, 4
+5, beer, 0.951133, 5
+5, handlebar, 0.854613, 5
+5, place, 0.884079, 6
+5, patio, 0.735209, 6
+5, beer cheese, 0.823933, 7
+5, great beer selections, 0.758439, 7
+5, beer selection, 0.89657, 8
+5, great beer, 0.808405, 8
+5, good local beer, 0.754359, 9
+5, awesome beer selection, 0.751093, 9

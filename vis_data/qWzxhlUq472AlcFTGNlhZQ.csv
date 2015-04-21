@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, seemingly dead spot, 0.863663, 0
+1, actual street vendors, 0.810117, 0
+1, super loud place, 0.855563, 1
+1, equally poor service, 0.835367, 1
+1, chips, 0.896849, 2
+1, taco joint, 0.694694, 2
+1, Mahi Mahi tacos, 0.883148, 3
+1, non-busy Sunday evening, 0.868195, 3
+1, food, 0.952679, 4
+1, place, 0.913464, 4
+1, simple basic way, 0.834138, 6
+1, tex-mex restaurant, 0.689824, 6
+1, Chicken pancake combo, 0.825375, 7
+1, buffalo shrimp taco, 0.823651, 7
+1, Tex Mex, 0.682018, 8
+1, simple idea, 0.667172, 8
+2, different tacos, 0.693856, 0
+2, Smokehouse BBQ place, 0.667828, 0
+2, tacos terrible tasting, 0.720313, 1
+2, Maverick Rock Taco, 0.678217, 1
+2, black bean salad, 0.663917, 2
+2, good conscience pay, 0.632236, 2
+2, black beans, 0.641143, 3
+2, hot sauce, 0.637008, 3
+2, tacos, 0.92912, 4
+2, food, 0.684748, 4
+2, chips, 0.727259, 5
+2, place, 0.710584, 5
+2, mixed fish tacos, 0.729858, 6
+2, shrimp tacos, 0.720781, 6
+2, avocado tacos, 0.887799, 7
+2, fried avocado tacos, 0.863353, 7
+2, Latino food trucks, 0.634555, 8
+2, canned beer, 0.625831, 8
+2, Reasonably priced menu, 0.660506, 9
+3, different Tacos, 0.648894, 0
+3, street tacos, 0.648193, 0
+3, avocado tacos, 0.633528, 1
+3, Pacos Tacos, 0.634452, 2
+3, sour cream, 0.624843, 2
+3, mexican street corn, 0.761074, 3
+3, Mexican food, 0.60558, 3
+3, salsa, 0.91008, 4
+3, chips, 0.803685, 4
+3, food, 0.995033, 5
+3, Maverick Rock Taco, 0.924772, 5
+3, place, 0.808121, 6
+3, bar area, 0.79003, 6
+3, chicken tacos, 0.691184, 7
+3, pretty good selection, 0.684471, 7
+3, pretty nice place, 0.67177, 8
+3, Paco Tacos, 0.647115, 8
+4, outta bounds Tacos, 0.544956, 0
+4, good work, 0.405668, 0
+4, short rib torta, 0.441113, 2
+4, Mexican food truck, 0.432853, 2
+4, fish tacos, 0.501573, 3
+4, pork tacos, 0.596012, 4
+4, time, 0.425381, 4
+4, tacos, 0.910263, 5
+4, street corn, 0.752289, 5
+4, cilantro lime fries, 0.453565, 6
+4, service, 0.444787, 6
+4, mexican street corn, 0.703789, 7
+4, mahi mahi tacos, 0.656094, 7
+4, street tacos, 0.572644, 8
+4, shrimp tacos, 0.562697, 8
+4, chili shrimp tacos, 0.55292, 9
+4, good tacos, 0.547129, 9
+5, single taco variety, 0.798746, 0
+5, Pork Carnitas taco, 0.781478, 0
+5, Buffalo shrimp tacos, 0.801074, 1
+5, Short Rip taco, 0.784319, 1
+5, street tacos, 0.903787, 2
+5, great little taco, 0.810344, 2
+5, Cabo Fish Taco, 0.864115, 3
+5, Bob Marley, 0.745652, 3
+5, tacos, 0.979508, 5
+5, taco, 0.963093, 5
+5, Grigo Beef Tacos, 0.798282, 6
+5, bar area, 0.758224, 6
+5, Maverick Rock Taco, 0.881036, 7
+5, street corn, 0.858871, 7
+5, rock taco, 0.897376, 8
+5, food, 0.789741, 8
+5, fresh shrimp taco, 0.81688, 9
+5, notch tacos, 0.780401, 9

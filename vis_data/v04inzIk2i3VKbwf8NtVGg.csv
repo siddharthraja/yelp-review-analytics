@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, different Keg Steakhouses, 0.987041, 0
+1, biggie sizing, 0.794755, 0
+1, baked potato, 0.800829, 1
+1, customers, 0.459629, 1
+1, work crowd, 0.792475, 2
+1, Thursday evening, 0.780924, 2
+1, guide books, 0.781547, 3
+1, noisy room, 0.768881, 3
+1, L'express Restaurant, 0.768436, 6
+1, Place Ville-Marie, 0.718744, 6
+1, great experience, 0.722278, 7
+1, soda, 0.470347, 7
+1, Friendly staff, 0.7116, 9
+1, good food, 0.69871, 9
+2, Additional comment, 0.665321, 0
+2, entire steak, 0.66293, 0
+2, good combination, 0.701864, 1
+2, price, 0.438078, 1
+2, bar section, 0.954595, 2
+2, mediocre restaurants, 0.653101, 2
+2, customer service skills, 0.836812, 3
+2, place, 0.604102, 3
+2, TGIFridays, 0.431348, 5
+2, course, 0.432119, 6
+2, ambiance, 0.376858, 6
+2, three-star establishment, 0.672799, 7
+2, better steakhouses, 0.605718, 7
+2, Old Montreal, 0.685621, 8
+2, Keg, 0.390392, 8
+3, New York steak, 0.879314, 0
+3, fruit crème brulée, 0.777778, 0
+3, good food., 0.692766, 1
+3, Stuffy atmosphere, 0.651947, 1
+3, prime rib, 0.920865, 2
+3, overly sweet fudge, 0.773418, 2
+3, fried shoestring potatoes, 0.792645, 3
+3, pecan pie, 0.653233, 3
+3, golden brown, 0.670992, 6
+3, oignons français, 0.660863, 6
+3, truffle oil, 0.674718, 7
+3, nice touch, 0.668196, 7
+3, steak, 0.930012, 8
+3, American style steaks, 0.758675, 8
+3, slight charred flavor, 0.781207, 9
+3, Nice atmosphere, 0.669843, 9
+4, le steak New-York, 0.706301, 0
+4, direction le Keg, 0.657244, 0
+4, upscale steak house, 0.708636, 1
+4, Keg sort, 0.632473, 1
+4, Keg locations, 0.610144, 2
+4, steak house, 0.741923, 3
+4, nice steak dinner, 0.72358, 3
+4, steak, 0.937115, 5
+4, keg, 0.78775, 5
+4, Rib steak Chicago, 0.688439, 6
+4, son steak avait, 0.676343, 6
+4, Le steak est, 0.7421, 7
+4, le meilleur steak, 0.735717, 7
+4, rib steak, 0.738688, 8
+4, twice baked potato, 0.723186, 8
+4, splendid rib steak, 0.708812, 9
+4, decent steak, 0.691579, 9
+5, le keg, 0.898733, 0
+5, Le Keg fait, 0.897257, 0
+5, Keg several times, 0.807931, 2
+5, Le service est, 0.925324, 3
+5, plain baked potato, 0.840527, 3
+5, steak house, 0.963332, 6
+5, est le Steak, 0.933218, 6
+5, favorite steak house, 0.86576, 7
+5, une steak house, 0.850986, 7
+5, filet mignon, 0.974099, 8
+5, York strip steak, 0.922548, 8
+5, best steak, 0.820776, 9
+5, steak alternative, 0.817595, 9

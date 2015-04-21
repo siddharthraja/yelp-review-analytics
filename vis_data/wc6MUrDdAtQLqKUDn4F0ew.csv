@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, light pink meat, 0.692116, 0
+1, stale corn-dusted bun, 0.687966, 0
+1, bbq burger, 0.643267, 1
+1, potential e coli, 0.560568, 1
+1, innocent customer, 0.562798, 2
+1, rotten avocado, 0.551984, 2
+1, cole slaw, 0.901456, 3
+1, hair protection, 0.650418, 3
+1, hamburger meat, 0.572203, 4
+1, waitress, 0.53832, 5
+1, black bean burger, 0.748872, 6
+1, favorite veggie burger, 0.739961, 6
+1, favorite places downtown, 0.651836, 7
+1, higher prices, 0.552291, 7
+1, savory liquid, 0.550273, 9
+2, Faced Meatloaf sandwich, 0.657699, 0
+2, fish sandwich, 0.648852, 0
+2, mediocre main attraction, 0.562642, 2
+2, little silly bragging, 0.549041, 2
+2, hamburger bun, 0.718415, 3
+2, average hamburger bun, 0.581672, 3
+2, diamond market, 0.926156, 4
+2, fries, 0.802087, 5
+2, waitress, 0.587212, 5
+2, Beef Brisket sandwich, 0.601855, 6
+2, Steak Burger, 0.533557, 6
+2, Market Square, 0.709413, 7
+2, diamond fries, 0.622353, 7
+2, sweet potato fries, 0.628727, 8
+2, burger fries, 0.577106, 8
+3, portobello burger, 0.688133, 0
+3, veggie burger, 0.662511, 0
+3, sports bar, 0.640449, 2
+3, BBQ Angus burger, 0.723366, 3
+3, bar type foods, 0.629623, 3
+3, place, 0.730587, 4
+3, burger, 0.994731, 5
+3, Diamond Market, 0.821527, 5
+3, sweet potato fries, 0.838097, 6
+3, mid size place, 0.650261, 6
+3, cole slaw, 0.747618, 7
+3, ultimate market burger, 0.713138, 7
+3, market square, 0.999808, 8
+3, black bean burger, 0.702026, 8
+3, fresh cut fries, 0.665832, 9
+3, locally owned addition, 0.621048, 9
+4, regular cheese burger, 0.747005, 0
+4, California burger, 0.676594, 0
+4, bad bar food, 0.662549, 1
+4, Simply Grilled chicken, 0.629217, 3
+4, food, 0.7159, 4
+4, burgers, 0.695512, 4
+4, Diamond Market, 0.990788, 5
+4, burger, 0.861833, 5
+4, place, 0.730848, 6
+4, Engagement Grilled Cheese, 0.671118, 6
+4, market square, 0.831937, 7
+4, Diamond Market Bar, 0.783781, 7
+4, Pulled pork burger, 0.723413, 8
+4, mammoth burger, 0.663284, 8
+4, great neighborhood place, 0.694659, 9
+4, good way, 0.62025, 9
+5, bloody mary drinker, 0.671133, 0
+5, up-scale downtown restaurants, 0.655089, 0
+5, old tired beers, 0.646987, 2
+5, Diamond Market Bar, 0.673915, 3
+5, bloody mary mix, 0.662972, 3
+5, beer selection, 0.760775, 5
+5, market square, 0.916662, 6
+5, onion rings, 0.662752, 6
+5, damn tasty Moscow, 0.710946, 7
+5, Good stuff, 0.592853, 7
+5, great seasonal selection, 0.667578, 8
+5, portobello burger, 0.586456, 8
+5, nice beer selection, 0.689877, 9
+5, Delicious wings, 0.584864, 9

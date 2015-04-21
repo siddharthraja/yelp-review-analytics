@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+2, Downtown Grand Las, 0.830539, 0
+2, Friday night, 0.57069, 0
+2, signs, 0.350052, 1
+2, Yelp page, 0.665016, 2
+2, Mob Bar, 0.57495, 2
+2, odd experience, 0.569864, 3
+2, loitering, 0.349823, 3
+2, Art Bar, 0.983528, 6
+2, bartender, 0.638303, 6
+2, Yelp check-in offer, 0.962147, 7
+2, Downtown Grand, 0.855263, 7
+2, fresh lemon juice, 0.777818, 8
+2, beautiful furniture, 0.560188, 8
+3, personal experience, 0.538516, 0
+3, furnace bar, 0.543779, 1
+3, typical dive, 0.523535, 1
+3, lobby bar worth, 0.914173, 2
+3, Downtown Las Vegas., 0.898538, 2
+3, cryin, 0.23906, 3
+3, happy hour specials, 0.519748, 6
+3, LV, 0.236268, 6
+3, bartender remembers, 0.698848, 7
+3, Art Bar, 0.565239, 7
+4, Grand Downtown, 0.614091, 0
+4, Artisan, 0.211228, 0
+4, food, 0.244217, 3
+4, lobby, 0.218259, 3
+4, bartender male, 0.640586, 6
+4, 5-7 pm, 0.541881, 6
+4, cute bartender, 0.751116, 7
+4, comfy couches, 0.676123, 7
+4, unexpectedly pleasant places, 0.947766, 8
+4, classic art pieces, 0.937639, 8
+4, dozen pictures, 0.55734, 9
+5, rapidly gentrifying neighborhood, 0.912267, 0
+5, Edison bulb, 0.650199, 0
+5, DUDE, 0.367053, 1
+5, that.., 0.355619, 1
+5, matter, 0.362448, 2
+5, smoke, 0.355295, 2
+5, prices, 0.358968, 3
+5, machines, 0.355429, 3
+5, Jackson, 0.366789, 6
+5, pretty cool cat, 0.873295, 7
+5, NBA basketball, 0.610007, 7
+5, Nicest boy, 0.691408, 8
+5, cheese lover, 0.685574, 8
+5, shift, 0.361543, 9
+5, Mule, 0.359106, 9

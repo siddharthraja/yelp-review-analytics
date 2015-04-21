@@ -1,0 +1,18 @@
+rating, keyword, relevance, bucket
+2, traditional theater seating, 0.915876, 0
+2, previous reviewer, 0.717383, 0
+2, seedy quality, 0.699038, 1
+2, cash only bar, 0.63631, 1
+2, credit card machine, 0.904895, 2
+2, dirt, 0.366548, 2
+2, Vicky description, 0.725439, 3
+2, new machine, 0.624445, 3
+2, place, 0.714021, 5
+2, customer service, 0.672786, 6
+2, tickets, 0.361917, 6
+2, good cleaning, 0.650598, 7
+2, staff, 0.368826, 7
+2, place look, 0.62281, 8
+2, best place, 0.6165, 8
+5, ceiling venue, 0.998486, 8
+5, huge parking, 0.894614, 8

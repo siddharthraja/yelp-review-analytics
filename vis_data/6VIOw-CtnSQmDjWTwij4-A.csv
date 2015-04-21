@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, Candy Bar, 0.603585, 0
+1, mean time, 0.555946, 0
+1, chives, 0.283639, 1
+1, sour cream, 0.906115, 2
+1, Saturday evening, 0.558915, 2
+1, main course, 0.528271, 3
+1, turkey burger, 0.527043, 3
+1, cocktail making class, 0.774276, 4
+1, cocktail class, 0.884695, 6
+1, George Street, 0.595653, 6
+1, pretty cheap cocktails, 0.942587, 7
+1, Aussie guy, 0.509144, 7
+2, deep friend rubbish, 0.828792, 0
+2, cheery chap, 0.662052, 0
+2, Candy Bar, 0.646155, 1
+2, enticement, 0.477696, 2
+2, Bleh, 0.437746, 2
+2, ........., 0.995581, 3
+2, restaurant, 0.511776, 3
+2, reasonable prices, 0.629949, 7
+2, pints, 0.471192, 7
+2, good customer expereince, 0.76327, 8
+2, Nice seating, 0.623299, 8
+2, fun night, 0.592811, 9
+3, reasonably priced food, 0.867681, 0
+3, epic cocktail list, 0.852211, 0
+3, pub quizzes, 0.734733, 1
+3, sister venues, 0.741872, 2
+3, old flatmates, 0.735873, 2
+3, pub quiz, 0.965469, 3
+3, christmas lunch menu, 0.886384, 3
+3, awful pub quiz, 0.848377, 6
+3, main courses, 0.728616, 6
+3, cocktail list, 0.868995, 7
+3, epic cocktail, 0.86114, 7
+3, reasonable cocktail menu, 0.882463, 8
+3, great place, 0.753192, 8
+4, fabulous crowd, 0.635208, 0
+4, general lack, 0.605122, 0
+4, red pepper wrap, 0.860214, 1
+4, French Martinis, 0.642642, 1
+4, laughably easy pub, 0.920412, 2
+4, walk-in tables, 0.611506, 2
+4, george street, 0.956093, 3
+4, fairly unappetising selection, 0.898442, 3
+4, bit, 0.42178, 5
+4, beautiful people, 0.616036, 6
+4, neighbours, 0.376127, 6
+4, time, 0.367074, 7
+4, tastes, 0.365047, 7
+4, regards, 0.379794, 8
+4, vote, 0.365165, 8
+4, great place, 0.563971, 9
+5, Edinburgh trendy bar/restaurant, 0.96944, 0
+5, especially good job, 0.936364, 0
+5, stairs, 0.4938, 3
+5, canopy, 0.492265, 3
+5, Christmas time, 0.75136, 7
+5, sort, 0.605761, 7
+5, nice furniture, 0.744561, 8
+5, staff night, 0.718785, 8

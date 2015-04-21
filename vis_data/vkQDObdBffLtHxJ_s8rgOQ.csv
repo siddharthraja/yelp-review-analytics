@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, San Tan Village, 0.944968, 0
+1, padlock, 0.439602, 0
+1, lame, 0.395362, 1
+1, favourite beer, 0.800371, 6
+1, chips, 0.370133, 6
+3, cute little snugs, 0.85321, 0
+3, St. Patty, 0.693519, 0
+3, one-drink maximum, 0.669811, 1
+3, place, 0.561445, 1
+3, long way, 0.641569, 2
+3, food, 0.554665, 2
+3, locale, 0.464678, 3
+3, police, 0.451181, 3
+3, fish, 0.490213, 4
+3, chips, 0.504359, 5
+3, fondue plate, 0.715208, 6
+3, big draw, 0.656893, 6
+3, Irish beer choices, 0.862327, 7
+3, great Irish pub, 0.845261, 7
+3, pretzel bread twists, 0.923592, 8
+3, hearty menu, 0.675172, 8
+3, Nice selection, 0.657312, 9
+3, nice atmosphere, 0.655213, 9
+4, Val Vista/Baseline block, 0.783485, 0
+4, middle-of-the-road Irish pub, 0.756054, 0
+4, typical hangout, 0.651199, 1
+4, Irish restaurants, 0.647279, 1
+4, main bar, 0.67531, 2
+4, pub table, 0.646976, 2
+4, freshly baked pretzel, 0.762431, 3
+4, caloric wonderfulness, 0.638916, 3
+4, great Irish-pub atmosphere, 0.778859, 6
+4, gooey cheese greatness, 0.762945, 6
+4, Park outdoor mall, 0.732092, 7
+4, Good food, 0.658659, 7
+4, classic Irish comfort, 0.980642, 8
+4, Irish comfort booze, 0.799841, 8
+4, fun place, 0.747904, 9
+4, damn fine beer, 0.742344, 9

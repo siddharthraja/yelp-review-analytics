@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+1, worst experience, 0.551899, 0
+1, long time, 0.53837, 0
+1, pretty poor experience, 0.869294, 1
+1, cheap Corona, 0.574906, 1
+1, nearest urgent care, 0.911863, 2
+1, incredibly uncomfortable atmosphere, 0.882199, 2
+1, Nope, 0.307559, 3
+1, Eve, 0.273778, 3
+1, service, 0.346123, 5
+1, better reviewed bars, 0.826207, 6
+1, better idea, 0.539604, 6
+2, piggy banks, 0.993975, 0
+2, cleaning crew, 0.946088, 0
+2, Kinda, 0.480594, 3
+2, different place, 0.838849, 6
+2, dos, 0.628971, 6
+5, cheese bites, 0.46152, 0
+5, standard bar drinks, 0.746396, 1
+5, outdoor bar area, 0.739662, 1
+5, regular bar food, 0.712991, 2
+5, kinda, 0.340704, 3
+5, place, 0.390508, 4
+5, bar food, 0.914044, 5
+5, Folk Metal, 0.498248, 7
+5, grub sesh, 0.460652, 7
+5, chipotle dip, 0.519052, 8
+5, large enough amounts, 0.465307, 8
+5, good quality sound, 0.697789, 9

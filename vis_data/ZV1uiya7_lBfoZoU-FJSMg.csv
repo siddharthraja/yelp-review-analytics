@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, beef Wellington, 0.96589, 0
+1, late night eats, 0.909337, 0
+1, bar, 0.968176, 1
+1, sad display, 0.794202, 1
+1, eye contact, 0.977504, 2
+1, favorite tapas place, 0.972008, 2
+1, bartenders attention, 0.967899, 3
+1, Monday Night football, 0.9518, 3
+1, food, 0.861025, 4
+1, server, 0.729936, 4
+1, Mac n cheese, 0.968293, 6
+1, food menu, 0.778669, 6
+2, meatball sliders, 0.89123, 0
+2, Buffalo Chicken Wings, 0.870453, 0
+2, big gamblers, 0.895105, 1
+2, food tab, 0.859063, 1
+2, food, 0.923186, 2
+2, stuffed dates, 0.869745, 2
+2, small size bacon, 0.835124, 3
+2, normal bartender, 0.774869, 3
+2, mango chicken, 0.882558, 6
+2, crab cake, 0.877786, 6
+2, mango salsa, 0.877744, 7
+2, better crab cakes, 0.864362, 7
+2, burger patty swimming, 0.840701, 8
+2, super market, 0.73396, 8
+2, tapas style foods, 0.856655, 9
+2, nice drinks, 0.777464, 9
+3, play video poker, 0.839412, 0
+3, Bahama Breeze style, 0.816196, 0
+3, bad things, 0.706885, 1
+3, Long story, 0.685124, 1
+3, fellow patrons, 0.867837, 2
+3, Jackson Hollogram thingy, 0.839348, 2
+3, bacon, 0.574042, 3
+3, bartender, 0.915765, 4
+3, angus cheeseburger sliders, 0.840998, 6
+3, Fu*k Jimmy Buffett, 0.817063, 6
+3, locals preferred bar, 0.907257, 7
+3, locals preferred place, 0.850049, 7
+3, bartender Jess, 0.845424, 8
+3, great drink prices, 0.805315, 8
+3, Cool lil place, 0.87819, 9
+3, decent food, 0.707833, 9
+4, hot wings, 0.950011, 0
+4, endless draft, 0.944309, 0
+4, bar service, 0.856591, 1
+4, Saturday night, 0.847692, 2
+4, smoke smell, 0.832201, 2
+4, food yet**, 0.84794, 3
+4, female bartender, 0.84578, 3
+4, bar, 0.882601, 4
+4, game day buffet, 0.951921, 6
+4, low key place, 0.942775, 6
+4, NFL playoff game, 0.952296, 7
+4, nice variety, 0.851326, 7
+4, Super Bowl, 0.932092, 8
+4, Super Bowl weekend, 0.92589, 8
+4, pickle juice tastes, 0.949337, 9
+4, Blue Moon beers, 0.938075, 9
+5, blue haired bar, 0.856294, 0
+5, packed bar, 0.684614, 0
+5, WTF, 0.453173, 1
+5, foods, 0.444241, 1
+5, good things, 0.691829, 2
+5, Favorite spot, 0.628734, 2
+5, point, 0.448977, 3
+5, NOM NOM NOM, 0.984875, 6
+5, girl friend, 0.69032, 6
+5, best time, 0.872809, 7
+5, FAVES, 0.466845, 7
+5, nice casual place, 0.864145, 8
+5, different bartenders, 0.76623, 8
+5, coolest bartenders, 0.716764, 9
+5, best bartenders, 0.712153, 9

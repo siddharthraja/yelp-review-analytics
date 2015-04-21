@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, plain sucks, 0.92763, 0
+1, awful service, 0.855467, 0
+2, Jamaican jerk chicken, 0.985476, 1
+2, weird grisly bites, 0.909751, 1
+2, wobbly tables, 0.671808, 2
+2, Service, 0.364462, 2
+2, good flavors, 0.636788, 6
+3, Hurricane Wing Flavor, 0.545597, 0
+3, hot sauce, 0.508274, 0
+3, overall taste, 0.297409, 1
+3, family-friendly environment, 0.278939, 1
+3, tangy bar wings, 0.708884, 2
+3, Medium Hurricane Sauce, 0.609546, 2
+3, Firecracker Sauce, 0.420814, 3
+3, basketball finals, 0.291638, 3
+3, wings, 0.947626, 4
+3, bleu cheese, 0.654286, 4
+3, bleu cheese dressing, 0.474192, 6
+3, Great wings, 0.451827, 6
+3, Chile Lime Sauce, 0.867457, 7
+3, Ancho Chile Lime, 0.781002, 7
+3, good flavor, 0.480554, 8
+3, flavor choices, 0.361342, 8
+5, tiny buffalo wings, 0.805848, 0
+5, old big wings, 0.796224, 0
+5, BIGGER BAR, 0.587441, 1
+5, Wish, 0.283107, 1
+5, 31 flavors, 0.609827, 6
+5, local Heavenly hangout, 0.944008, 7
+5, delicious wings, 0.674338, 7
+5, Thai Ginger, 0.609008, 8
+5, fun environment, 0.591819, 8
+5, dry rubs, 0.662287, 9
+5, sauce, 0.295398, 9

@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, brawl, 0.284199, 0
+1, Dollar, 0.243957, 0
+1, total distraction, 0.815351, 1
+1, loud mouths, 0.813111, 1
+1, theatre, 0.283585, 2
+1, nuisance, 0.268276, 2
+1, usher, 0.980258, 3
+1, grown adults, 0.76475, 3
+1, harrah, 0.723518, 4
+1, booth, 0.459994, 5
+1, guys, 0.2431, 6
+1, Las Vegas, 0.798485, 7
+1, clientele, 0.27352, 7
+2, Jersey Boys, 0.829503, 0
+2, night, 0.563908, 0
+2, interesting twists, 0.95127, 1
+2, costume changes, 0.853106, 2
+2, acting, 0.529234, 2
+2, intermission, 0.577417, 3
+2, Voices, 0.521905, 3
+2, dynamite, 0.549305, 6
+2, vocals, 0.545718, 6
+2, tribute concert, 0.882114, 7
+2, Impersonations, 0.570846, 8
+3, good old time, 0.754914, 0
+3, Sun Record Studios, 0.753195, 0
+3, lame-ass cheesy sitcom, 0.736384, 1
+3, Harrah management, 0.63715, 1
+3, short times, 0.648812, 2
+3, close proximity, 0.635186, 2
+3, Carl Perkins, 0.922029, 3
+3, Rockabilly culture, 0.652372, 3
+3, jerry lee, 0.964011, 6
+3, Sam Phillips, 0.754863, 6
+3, jerry lee lewis, 0.881491, 7
+3, cool musical numbers, 0.724413, 7
+3, musical talent, 0.65002, 8
+3, Elvis guy, 0.643812, 8
+4, Mr. Jerry Lee, 0.571766, 0
+4, Dollar Quartet, 0.475062, 0
+4, guitars, 0.436256, 1
+4, actors, 0.424484, 1
+4, socially conservative assholes, 0.537241, 2
+4, cast member, 0.478015, 2
+4, Carl Perkins, 0.555154, 3
+4, old Sun Studios, 0.549026, 3
+4, songs, 0.461979, 5
+4, live music, 0.610324, 6
+4, live instrument playing, 0.556617, 6
+4, Jerry Lee Lewis, 0.966447, 7
+4, Great history lesson, 0.529335, 7
+4, johnny cash, 0.553839, 8
+4, Johnny cash singer, 0.540218, 8
+4, Mr. Elvis, 0.500118, 9
+4, Mr. Cash, 0.499238, 9
+5, Perkins Ot Jerry, 0.424573, 0
+5, Elvis Johnny Cash, 0.417539, 0
+5, jerry lee lewis, 0.965046, 2
+5, Sam Phillips, 0.405987, 2
+5, Carl Perkins, 0.474981, 3
+5, rag tag band, 0.400802, 3
+5, Johnny Cash, 0.566398, 6
+5, Martin Kaye, 0.45172, 6
+5, music, 0.424247, 7
+5, sun records, 0.404796, 7
+5, Dollar Quartet, 0.459026, 8
+5, true story stuff, 0.412641, 8
+5, iconic music superstars, 0.414467, 9
+5, wonderfully talented cast, 0.406754, 9

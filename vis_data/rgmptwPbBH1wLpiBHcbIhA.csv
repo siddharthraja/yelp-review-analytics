@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, Harris Grill shirts, 0.836805, 0
+1, recent Thursday night, 0.828796, 0
+1, pretty poor knowledge, 0.813795, 1
+1, worst waitress, 0.803783, 1
+1, food, 0.89565, 2
+1, cup spring mix, 0.805152, 2
+1, drink order, 0.830909, 3
+1, service, 0.802149, 3
+1, Harris Grill, 0.998504, 4
+1, waitress, 0.825558, 4
+1, drinks, 0.758036, 5
+1, salad, 0.797897, 6
+1, prompt service, 0.769239, 6
+1, Buffalo chicken dip, 0.813373, 7
+1, chili sauce dressing, 0.807326, 7
+1, favorite spots, 0.765956, 8
+1, bar/restaurant destinations, 0.765164, 9
+1, better way, 0.762488, 9
+2, simple. harris grill, 0.621754, 0
+2, infamous bacon night, 0.575919, 0
+2, poor service, 0.580138, 1
+2, sad little pieces, 0.558507, 1
+2, bloody mary, 0.577832, 2
+2, Sunday brunch, 0.561082, 2
+2, place, 0.629617, 3
+2, Harris Grill menu, 0.620902, 3
+2, harris grill, 0.913831, 4
+2, food, 0.704183, 4
+2, service, 0.587738, 5
+2, good drinks, 0.571618, 5
+2, big Harris Grill, 0.61291, 6
+2, good outdoor seating, 0.575759, 6
+2, bacon night, 0.700538, 7
+2, famed BACON NIGHT, 0.570732, 7
+2, good beer, 0.563132, 8
+2, Sunday afternoon, 0.559142, 8
+2, delicious looking burgers, 0.553513, 9
+2, diverse restaurant choices, 0.549297, 9
+3, frozen cosmos, 0.53296, 0
+3, above-average bar food, 0.520904, 0
+3, Harris Menu Item, 0.506853, 1
+3, dive bar charm, 0.48349, 1
+3, bar food, 0.54892, 2
+3, standard bar food, 0.538818, 2
+3, bacon night, 0.612116, 3
+3, Henny Penny, 0.505773, 3
+3, menu, 0.662472, 4
+3, brunch, 0.496119, 4
+3, food, 0.804429, 5
+3, night, 0.623514, 5
+3, Harris Grill, 0.99375, 6
+3, beer selection, 0.682557, 6
+3, Good Belgium beer, 0.512566, 7
+3, bar atmosphere Harris, 0.511026, 7
+3, free bacon, 0.568416, 8
+3, nice patio, 0.516411, 8
+3, fun place, 0.498724, 9
+3, casual fun night, 0.49064, 9
+4, good night, 0.402568, 0
+4, menu blue cheese, 0.391309, 0
+4, mixed drinks, 0.399052, 2
+4, menu style brunch, 0.397792, 2
+4, Pittsburgh, 0.394168, 3
+4, harris grill, 0.922902, 5
+4, menu, 0.601275, 5
+4, place, 0.537498, 6
+4, patio, 0.518947, 6
+4, bacon night, 0.536671, 7
+4, frozen cosmos, 0.516557, 7
+4, beer selection, 0.481277, 8
+4, outdoor patio, 0.456523, 8
+4, draft beer selection, 0.411668, 9
+4, fun place, 0.407043, 9
+5, good bar food, 0.639128, 0
+5, bacon Tuesdays, 0.589117, 0
+5, brunch buffets, 0.587791, 1
+5, bacon night, 0.791217, 4
+5, food, 0.805289, 5
+5, menu, 0.696837, 5
+5, harris grill, 0.976386, 6
+5, place, 0.782473, 6
+5, drinks, 0.699002, 7
+5, Henny Penny, 0.649567, 7
+5, beer selection, 0.67304, 8
+5, amazing beer selection, 0.667483, 8
+5, Great drinks, 0.610285, 9
+5, craft beer selection, 0.598112, 9

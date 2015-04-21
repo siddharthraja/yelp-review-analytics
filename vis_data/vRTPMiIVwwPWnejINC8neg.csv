@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, expensive bar, 0.776057, 0
+1, cocktail waitress, 0.695179, 0
+1, expensive drinks, 0.81851, 1
+1, San Tropez, 0.697943, 1
+1, ice cube, 0.696178, 2
+1, water, 0.493521, 2
+1, friend, 0.459538, 3
+1, lime, 0.452405, 3
+1, reply, 0.463249, 4
+1, course, 0.361518, 6
+1, review, 0.359649, 6
+1, cooler hipper spot, 0.929472, 8
+1, staff, 0.360951, 8
+1, Lift Bar bartenders, 0.952257, 9
+1, class act, 0.651166, 9
+2, savory cocktail, 0.761415, 0
+2, recommendation, 0.408975, 0
+2, price, 0.492274, 1
+2, signature cocktails, 0.72469, 2
+2, bar, 0.398007, 2
+2, old funk, 0.742347, 3
+2, stars, 0.613327, 4
+2, songs, 0.593774, 6
+2, DJ, 0.562694, 6
+2, Aria, 0.414121, 7
+2, table, 0.390666, 7
+2, fancy looking cocktail, 0.939036, 8
+2, great music, 0.673385, 8
+3, grand opening parties, 0.809352, 0
+3, good time, 0.617549, 0
+3, huge crowd, 0.687162, 3
+3, mini lobster tacos, 0.970728, 6
+3, mini pigs, 0.705111, 6
+3, Grand opening party, 0.896838, 7
+3, free apps, 0.663854, 7
+3, Aria lounge- swanky, 0.877092, 8
+3, mixology, 0.484474, 8
+3, speciality coctails, 0.636678, 9
+3, yummy, 0.477179, 9
+4, East access..sweet setting..cool, 0.823204, 0
+4, specialty cocktails, 0.505006, 0
+4, little bit, 0.435604, 3
+4, drinks, 0.399575, 5
+4, specialty drink, 0.518092, 6
+4, Aria, 0.299288, 6
+4, Great little spot, 0.677848, 7
+4, price tag, 0.429019, 7
+4, Rosemary Amaretti, 0.984438, 8
+4, deeper herbal note, 0.697551, 8
+4, favorite pick, 0.426915, 9
+5, end Craft Cocktail, 0.656139, 0
+5, old City Bar, 0.617474, 0
+5, ass cocktail lounge, 0.706503, 1
+5, bar staff, 0.542331, 1
+5, normal ice, 0.533424, 3
+5, bartender, 0.639105, 4
+5, specialty ice, 0.618865, 4
+5, drinks, 0.830995, 5
+5, newly opened Alibi, 0.683062, 6
+5, house specialty cocktails, 0.660693, 6
+5, newly renovated bar, 0.669218, 7
+5, Alibi Cocktail Lounge, 0.961826, 8
+5, great drinks, 0.777836, 8
+5, great experience Great, 0.757363, 9
+5, legit classic cocktails, 0.648788, 9

@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, lonely star, 0.58384, 0
+1, neighborhood bar, 0.563119, 0
+1, northwest las vegas, 0.772433, 1
+1, strip mall, 0.621182, 1
+1, Parking, 0.362975, 3
+1, problem, 0.33594, 3
+1, tool section Crowbar, 0.904558, 6
+1, Hoo boy, 0.656754, 7
+2, wonder, 0.550499, 1
+2, house, 0.547088, 3
+2, attentive bar tender, 0.993646, 7
+2, beer, 0.662138, 7
+3, Darts Live machines, 0.984304, 0
+3, dart boards, 0.940649, 0
+3, sad condition, 0.675069, 1
+3, way, 0.446731, 1
+3, potentially crap burger, 0.992549, 2
+3, typical bar food, 0.871019, 2
+3, big Jenga blocks, 0.913945, 6
+3, small pool table, 0.870402, 6
+3, Decent selection, 0.707757, 7
+3, salsa, 0.509012, 7
+3, chunky ppico, 0.70866, 8
+3, good night, 0.664306, 8
+3, staff, 0.492096, 9
+3, music, 0.453336, 9
+4, dive bar kind, 0.943786, 0
+4, previous reviewers, 0.763563, 0
+4, moldy cheese, 0.734345, 1
+4, drunken state, 0.734328, 1
+4, local neighborhood bar, 0.94442, 2
+4, Walking Dead parties, 0.896055, 2
+4, bar Charles Bukowski, 0.887846, 3
+4, Crowbar, 0.620519, 3
+4, beers, 0.584639, 5
+4, place, 0.753838, 6
+4, Sunday night, 0.708124, 6
+4, nice crowd, 0.745894, 7
+4, event, 0.591973, 7
+4, Friendly bartenders, 0.732458, 8
+4, comfortable place, 0.708737, 8
+4, awesome drinks, 0.74212, 9
+4, nachos, 0.567407, 9
+5, good bar food, 0.925775, 0
+5, random Wednesday, 0.733775, 0
+5, worthwhile spots, 0.739557, 1
+5, local bars, 0.722716, 1
+5, neighborhood bar, 0.869959, 2
+5, new neighborhood bar, 0.863766, 2
+5, Good atmosphere, 0.741767, 3
+5, birthday party, 0.710738, 3
+5, rowdy people, 0.719137, 4
+5, house, 0.568925, 5
+5, bartender, 0.986763, 6
+5, utmost pro manner, 0.860122, 6
+5, great clientel, 0.73177, 7
+5, Good times, 0.71326, 7
+5, delicious soft crunch, 0.869342, 8
+5, poker tournaments. cost, 0.866596, 8
+5, bartender Chris, 0.893714, 9
+5, different Homemade soup, 0.893148, 9

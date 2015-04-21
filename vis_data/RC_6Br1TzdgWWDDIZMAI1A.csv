@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, Ridiculous crummy tavern, 0.856648, 0
+1, biggest dining disappointment, 0.841395, 0
+1, half decent steak, 0.958242, 1
+1, Poor quality food, 0.884332, 1
+1, expensive steak, 0.830791, 2
+1, filthy bathrooms, 0.721351, 2
+1, prime rib, 0.810612, 3
+1, long period, 0.678556, 3
+1, Madison, 0.595766, 5
+1, average wait time, 0.861664, 6
+1, local establishment, 0.70318, 6
+1, traditional Wisconsin Supper, 0.893959, 7
+1, better steak, 0.818913, 7
+1, best thing, 0.670638, 8
+2, good steak, 0.913551, 0
+2, small PBR chaser, 0.878977, 0
+2, supper club, 0.950043, 2
+2, tacky christmas lights, 0.89754, 2
+2, tenderloin open-face sandwich, 0.864462, 3
+2, deservedly mixed reviews, 0.860877, 3
+2, steak, 0.98097, 4
+2, prime rib, 0.971609, 5
+2, time, 0.832105, 5
+2, garlic pickle spear, 0.872741, 6
+2, decent shrimp cocktail, 0.86706, 6
+2, great steak places, 0.92579, 7
+2, clam chowder, 0.887471, 7
+2, soupy soup, 0.81131, 8
+2, good flavors, 0.801957, 9
+3, Mad City natives, 0.907046, 0
+3, decent joint, 0.688583, 0
+3, school supper club, 0.946207, 2
+3, level, 0.448499, 2
+3, dingy little restaurant, 0.919765, 3
+3, best steakhouse, 0.697778, 3
+3, times, 0.563414, 5
+3, Ruth, 0.512413, 5
+3, good steak, 0.706054, 6
+3, pork chops, 0.697294, 6
+3, Decent beer selection, 0.954888, 7
+3, real martinis, 0.702347, 7
+3, good value, 0.634571, 8
+3, meal, 0.507828, 8
+3, neat place, 0.679402, 9
+3, parents, 0.489629, 9
+4, Old school steak, 0.958178, 0
+4, best side dish, 0.796481, 0
+4, room/leather bar stool, 0.929825, 2
+4, salt crust, 0.84132, 2
+4, cracker crust rim, 0.9414, 3
+4, Halloween-inspired martini, 0.835009, 3
+4, food, 0.687624, 4
+4, salad, 0.69388, 5
+4, Smoky, 0.67954, 5
+4, Martini Bob, 0.837163, 6
+4, pumpkin liqueur, 0.792486, 6
+4, good steak, 0.992673, 7
+4, reasonable price, 0.790657, 7
+4, reliably good experiences, 0.978912, 8
+4, great martini, 0.828049, 8
+4, la carte type, 0.969074, 9
+4, banter, 0.637159, 9
+5, Martini Bob club, 0.671534, 0
+5, basil tomato soup, 0.541848, 0
+5, bar food, 0.488859, 1
+5, New York Times, 0.520653, 2
+5, unobtrusive music, 0.483951, 2
+5, short order, 0.537114, 3
+5, stars, 0.481294, 4
+5, martini bar, 0.652364, 5
+5, sizzling hot plates, 0.646368, 6
+5, best martini list, 0.635545, 6
+5, Martini Bob, 0.944397, 7
+5, martinis, 0.748394, 7
+5, LOVE Martini Bob, 0.67258, 8
+5, Mixologist Martini Bob, 0.662034, 8
+5, chocolate raspberry martini, 0.633452, 9
+5, Martinis range, 0.585405, 9

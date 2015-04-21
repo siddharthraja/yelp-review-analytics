@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, Pub Picnic section, 0.718097, 0
+1, grocery-store-sushi grade fish, 0.714554, 0
+1, mediocre bbq sauce, 0.717897, 1
+1, raw meat mouth, 0.705967, 1
+1, bit cloudier, 0.627709, 2
+1, hygiene shortcuts, 0.623911, 2
+1, following policies, 0.642073, 3
+1, Rude hostess, 0.623425, 3
+1, service, 0.622646, 4
+1, gratuity, 0.618524, 5
+1, Cottage Grove location, 0.969044, 6
+1, final good note, 0.703666, 6
+1, general comments, 0.632654, 7
+1, pub food, 0.631609, 7
+1, great job, 0.824664, 8
+1, fast food restaurant, 0.747449, 8
+1, incredible audacity, 0.652492, 9
+1, Great Danes, 0.634775, 9
+2, life long fan, 0.782351, 0
+2, standard Wisconsin bar, 0.71512, 0
+2, adequate training, 0.59175, 1
+2, flavor, 0.485179, 1
+2, Texarkana burger, 0.609219, 2
+2, dark wood, 0.598807, 2
+2, drinks, 0.634044, 3
+2, gloomy night, 0.605873, 3
+2, food, 0.9776, 5
+2, long time, 0.765861, 5
+2, great places, 0.581897, 6
+2, root beers, 0.572155, 6
+2, Dane best wake, 0.755484, 7
+2, Madison restaurant scene, 0.744493, 7
+2, Craft brews, 0.594721, 8
+2, Fitchburg location, 0.594147, 8
+2, outstanding beers, 0.609709, 9
+3, novelty dill curds, 0.686178, 0
+3, Ultimate Frisbee game, 0.652377, 0
+3, menu description, 0.531209, 1
+3, unhealthy grub, 0.530814, 1
+3, little cheese, 0.578213, 2
+3, green chilis, 0.530741, 2
+3, mango habanero sauce, 0.931664, 3
+3, chain gang kind, 0.646287, 3
+3, burgers, 0.559313, 4
+3, cheese curds, 0.760309, 6
+3, fish tacos, 0.741131, 6
+3, chipotle BBQ sauce, 0.702652, 7
+3, aforementioned mango habanero, 0.659666, 7
+3, Great Dane, 0.715398, 8
+3, great place, 0.557206, 8
+3, blue cheese ranch, 0.658692, 9
+3, deep fried appetizers, 0.643502, 9
+4, Great Dane downtown, 0.694292, 0
+4, original Dane burger, 0.660806, 0
+4, flavorful dark beer, 0.623238, 2
+4, cheese curds, 0.650859, 3
+4, Crop Circle Wheat, 0.685201, 5
+4, beer, 0.683873, 5
+4, good craft beer, 0.672165, 6
+4, great food, 0.626996, 6
+4, good food, 0.776358, 7
+4, Buffalo Wild Wings, 0.677513, 7
+4, Great Dane, 0.93901, 8
+4, great place, 0.729895, 8
+4, great Great burgers, 0.680158, 9
+4, favorite Dane brews, 0.650603, 9
+5, traditional pub fare, 0.804992, 0
+5, occasional work lunch, 0.792471, 0
+5, pesky kids, 0.710503, 1
+5, countless items, 0.706918, 1
+5, big rosy cheeks, 0.778298, 2
+5, night fish fry, 0.777055, 2
+5, spicy peanut stew, 0.793772, 3
+5, cheese curds, 0.776277, 4
+5, big LazyBoy chair, 0.794095, 6
+5, honey colored eyes, 0.764947, 6
+5, curry noodle bowl, 0.906639, 7
+5, sunday brunch, 0.813175, 7
+5, Great Dane Fitchburg, 0.841973, 8
+5, warm Fitchburg feeling, 0.826268, 8
+5, Fitchburg area, 0.745438, 9
+5, great smile, 0.71659, 9

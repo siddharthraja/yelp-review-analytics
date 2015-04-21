@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, bout her mistake, 0.689039, 0
+1, biker types, 0.501085, 0
+1, low brow, 0.484229, 1
+1, gin tonic, 0.482697, 1
+1, simple drink order, 0.956728, 2
+1, credit card charge, 0.666828, 2
+1, wild biker bar, 0.688035, 3
+1, girls, 0.38183, 3
+1, jack n coke, 0.667587, 7
+1, rocks glass, 0.662481, 7
+1, sweaty middle-aged man, 0.734538, 8
+1, wonderful Scottsdale, 0.47847, 8
+2, typical Scottsdale posers, 0.529499, 0
+2, bar tab, 0.471191, 0
+2, grotesque bolt ons, 0.567722, 1
+2, overprossessed frosted hair, 0.566548, 1
+2, biker bar doesnt, 0.580831, 2
+2, Botix blonde barbi, 0.537715, 2
+2, rafter tricks folks, 0.553723, 3
+2, Snottsdale plastic people, 0.549705, 3
+2, badass biker bar, 0.900056, 4
+2, night, 0.378003, 4
+2, place, 0.487037, 5
+2, bartenders, 0.360135, 5
+2, pre-ripped cutoff denim, 0.557342, 6
+2, weekend rider types, 0.526515, 6
+2, cooler trust fund, 0.544123, 7
+2, hop rap event, 0.536942, 7
+2, good eye candy, 0.534376, 8
+2, reasonable man, 0.429676, 8
+2, special place, 0.47449, 9
+3, Biker dive bar, 0.848162, 0
+3, Wild Turkey, 0.743895, 0
+3, buck. good times, 0.834802, 1
+3, huge dudes, 0.727193, 1
+3, Dirty Dogg Saloon, 0.905694, 2
+3, Dirty old men, 0.865779, 2
+3, rafter swinging women, 0.85546, 3
+3, better biker bars, 0.838791, 3
+3, leopard print bras, 0.82265, 6
+3, free associate, 0.748296, 6
+3, Fun place, 0.746121, 7
+3, Kid Rock, 0.745974, 7
+3, cool place, 0.843649, 8
+3, neighborhood dive bar, 0.842378, 8
+3, fun dive, 0.73268, 9
+4, bar dancing women, 0.680566, 0
+4, Dirty Dogg Saloon, 0.674994, 0
+4, dirty dogg, 0.987788, 1
+4, bar multiple times, 0.6771, 1
+4, wet tshirt contest, 0.865611, 2
+4, biker bar, 0.71893, 2
+4, white trash bar, 0.675801, 3
+4, half strip club, 0.606196, 3
+4, bar, 0.824622, 4
+4, girls, 0.611422, 4
+4, place, 0.675092, 5
+4, night, 0.645173, 5
+4, covered pool table, 0.639875, 6
+4, metal music fan, 0.626635, 6
+4, drink prices, 0.638854, 7
+4, club rap songs, 0.631518, 7
+4, great little bar, 0.68286, 8
+4, good time, 0.671758, 8
+4, incredible bartender person, 0.616526, 9
+4, dancing bartenders, 0.602291, 9
+5, half naked girls, 0.604935, 0
+5, long time patron, 0.585498, 0
+5, Dirty Dog Saloon, 0.586945, 1
+5, wet shirt contest, 0.570265, 1
+5, biker bar, 0.704235, 2
+5, dive bar, 0.608775, 2
+5, Dirty Dogg Saloon, 0.75804, 3
+5, Coyote Ugly bar, 0.612134, 3
+5, bar, 0.909711, 4
+5, place, 0.817291, 5
+5, music, 0.641429, 6
+5, hot girls dancing, 0.592747, 6
+5, loud rock music, 0.638597, 7
+5, great time, 0.630761, 7
+5, good time, 0.743545, 8
+5, great drink specials, 0.620183, 8
+5, Great place, 0.588277, 9
+5, fantastic music mix, 0.586287, 9

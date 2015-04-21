@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+1, smooth way, 0.634626, 0
+1, bank statement, 0.600698, 0
+1, drinks, 0.327669, 1
+1, tipsy bartender, 0.844106, 2
+1, charges, 0.318734, 2
+1, nice art work, 0.984729, 7
+1, Cool place, 0.705563, 8
+4, lounge type scene, 0.975944, 0
+4, Glad, 0.414132, 6
+4, friend, 0.399577, 6
+4, lounge area, 0.693369, 7
+4, good drinks, 0.684574, 7
+4, local band, 0.622283, 8
+4, particular night, 0.62084, 8
+4, nice cozy bar, 0.986895, 9
+4, intimate private experience, 0.903899, 9
+5, Public Service Announcement, 0.770676, 0
+5, street parking, 0.510403, 0
+5, Kanvas, 0.254402, 3
+5, private event, 0.531011, 6
+5, friends, 0.253027, 7
+5, Great place, 0.493911, 8
+5, cool cozy place, 0.948245, 9
+5, orange walls, 0.596745, 9

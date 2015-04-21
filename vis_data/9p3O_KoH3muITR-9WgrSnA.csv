@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, ribeye steak sandwich, 0.824727, 0
+1, Thank goodness, 0.732638, 0
+1, grease trap sandwich, 0.827221, 1
+1, super convenient location, 0.821214, 1
+1, food, 0.961551, 2
+1, frozen crinkle fries, 0.828278, 2
+1, state hockey game, 0.823835, 3
+1, hockey games, 0.719584, 3
+1, place, 0.741639, 4
+1, pizza, 0.740667, 4
+1, potato casserole, 0.845767, 5
+1, waitress, 0.971572, 6
+1, Brew beef sandwich, 0.831247, 6
+1, limited beer selection, 0.838833, 7
+1, sports bar-style restaurant, 0.823807, 7
+1, tasty options, 0.717459, 8
+1, ......, 0.788202, 9
+1, consulting manager, 0.714206, 9
+2, home basketball game, 0.792246, 0
+2, Buffalo Wild Wings, 0.776419, 0
+2, mediocre food, 0.676407, 1
+2, terrible service, 0.652096, 1
+2, real craft beer, 0.807635, 2
+2, timid woodland creatures, 0.783899, 2
+2, beer selection, 0.993545, 3
+2, discernible pre-game crowd, 0.806035, 3
+2, restaurant, 0.672952, 4
+2, waitstaff, 0.591501, 5
+2, decent flavor, 0.656606, 6
+2, iced tea, 0.656346, 6
+2, couple additional napkins, 0.770516, 7
+2, nacho appetizer, 0.660177, 7
+2, nice decorations, 0.633329, 8
+3, large wine list, 0.822698, 0
+3, rib eye sandwich, 0.809544, 0
+3, worst run restaurants, 0.78215, 1
+3, grille type, 0.720916, 1
+3, sports bar, 0.889702, 2
+3, Typical sports bar, 0.783927, 2
+3, OK bar food, 0.822254, 3
+3, new restaurant problems, 0.801029, 3
+3, place, 0.861894, 4
+3, service, 0.816238, 4
+3, food, 0.965993, 5
+3, way, 0.742345, 5
+3, Brew Beef Sandwich, 0.80552, 6
+3, decent week-day specials, 0.781204, 6
+3, Ty Cobb salad, 0.95764, 7
+3, Super yummy food, 0.818641, 7
+3, wait staff, 0.731085, 8
+3, orange, 0.725149, 8
+3, great place, 0.748507, 9
+4, crinkle-cut frozen fries, 0.803234, 0
+4, 5-6 domestic beers, 0.755626, 0
+4, earlier negative review, 0.740483, 1
+4, raucous bar, 0.658957, 1
+4, food issues, 0.655638, 2
+4, real killer, 0.637633, 2
+4, frozen meat, 0.63305, 3
+4, place, 0.90522, 5
+4, food, 0.888061, 5
+4, crinkle cut fries, 0.76674, 6
+4, quiet music, 0.647465, 6
+4, beer selection, 0.726109, 7
+4, fun place, 0.649243, 7
+4, major sporting event, 0.713787, 8
+4, numerous tv screens, 0.710639, 8
+4, crunchy homemade style, 0.73714, 9
+4, food menu, 0.643612, 9
+5, busy world cup, 0.852266, 0
+5, great location, 0.803036, 0
+5, stone baked pizza, 0.873551, 2
+5, great building, 0.782016, 2
+5, coca cola bottling, 0.882076, 3
+5, mean Bloody Mary, 0.867792, 3
+5, nachos, 0.685095, 6
+5, crispy, 0.633525, 6
+5, Lunch.  Hot wings, 0.926052, 7
+5, healthy buffallo wings, 0.860505, 7
+5, franks hot sauce, 0.925949, 8
+5, real italian pizza, 0.915597, 8
+5, wonderful experience, 0.769135, 9
+5, best deal, 0.743269, 9

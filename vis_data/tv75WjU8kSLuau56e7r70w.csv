@@ -1,0 +1,19 @@
+rating, keyword, relevance, bucket
+2, corned beef, 0.971487, 0
+2, dining room, 0.766171, 0
+2, slight nod, 0.994233, 1
+2, sports bar, 0.833812, 1
+2, half, 0.423348, 3
+2, burgers, 0.464739, 7
+5, best corned beef, 0.992631, 0
+5, unbelievable prime rib, 0.953723, 0
+5, numerous things, 0.696077, 2
+5, menu, 0.449187, 2
+5, video black jack, 0.868143, 3
+5, negative reviews, 0.680949, 3
+5, Tuesday nights, 0.978657, 6
+5, Tuesday night, 0.70189, 6
+5, delicious drinks, 0.686966, 7
+5, acoustic guitar, 0.64932, 7
+5, rare treasure, 0.677186, 8
+5, shopping center, 0.675857, 8

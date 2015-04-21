@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, mid rare burger, 0.90791, 0
+1, Horrible customer service, 0.812653, 0
+1, straight sour juice, 0.83805, 1
+1, Husbands burger, 0.657181, 1
+1, time, 0.783929, 2
+1, Time Warner, 0.636844, 2
+1, parking deck, 0.590204, 3
+1, order, 0.475236, 3
+1, Margarita, 0.455254, 4
+1, orders, 0.44263, 4
+1, drinks, 0.674097, 6
+1, straight bourbon, 0.606054, 6
+1, people, 0.699629, 7
+1, entire party, 0.593562, 7
+2, good burger, 0.659114, 0
+2, onion kaiser bun, 0.530043, 0
+2, hot burger, 0.593572, 1
+2, onion bun, 0.453112, 1
+2, burger joint, 0.715711, 2
+2, burger joints, 0.610509, 2
+2, burger, 0.927621, 3
+2, fru fru burgers, 0.663624, 3
+2, burgers, 0.735178, 4
+2, bar, 0.430912, 4
+2, cucumber salad, 0.651094, 5
+2, predecessor burger joint, 0.714427, 6
+2, Burger better imo, 0.679341, 6
+2, simpler burger, 0.598759, 7
+2, Nix burger, 0.593437, 7
+2, great atmosphere, 0.419192, 8
+2, better burgers, 0.569474, 9
+2, better beer, 0.441443, 9
+3, beef burger eaters, 0.816795, 0
+3, pretentious new burger, 0.801511, 0
+3, burger joints, 0.796125, 1
+3, dark color accents, 0.538623, 1
+3, pricey hipster burger, 0.777141, 2
+3, onion rings, 0.679019, 2
+3, trendy burger joint, 0.743497, 3
+3, average burger joint, 0.740637, 3
+3, burger, 0.924112, 5
+3, black bean burger, 0.819395, 6
+3, turkey burger, 0.712003, 6
+3, burger place, 0.7055, 7
+3, burger cause, 0.699694, 7
+3, wildly topped burger, 0.797016, 8
+3, sweet potato tots, 0.792611, 8
+3, quick drink taker, 0.564725, 9
+3, tot sweet potatoes, 0.540272, 9
+4, burger joint Cowbell, 0.522089, 0
+4, Bocaan Bacon burger, 0.499313, 0
+4, burger joint, 0.547094, 2
+4, hip burger joint, 0.509103, 2
+4, Asian Burger, 0.491556, 3
+4, best burger, 0.489734, 3
+4, dumpling burger, 0.503196, 4
+4, burger, 0.740388, 5
+4, place, 0.529535, 5
+4, burgers, 0.654474, 6
+4, good burger joints, 0.527371, 6
+4, pretty good burger, 0.520643, 7
+4, Interesting burger concoctions, 0.515142, 7
+4, sweet potato tots, 0.968309, 8
+4, turkey burger, 0.52565, 8
+4, booshy burger bar, 0.507053, 9
+4, great burgers, 0.497193, 9
+5, typical go-to burger, 0.400274, 0
+5, traditional burger, 0.394354, 0
+5, red velvet cake, 0.367193, 2
+5, ice cream, 0.35974, 2
+5, Burger joints, 0.388497, 3
+5, burger snob, 0.384295, 3
+5, cheese, 0.377444, 4
+5, sweet potato tots, 0.957187, 5
+5, time, 0.357995, 5
+5, burger, 0.588892, 6
+5, good burger joint, 0.412343, 6
+5, place, 0.441129, 7
+5, music videos, 0.436493, 7
+5, black bean burger, 0.481436, 8
+5, burgers, 0.441819, 8
+5, great burger, 0.395861, 9
+5, umami burger, 0.393736, 9

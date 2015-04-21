@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, older male crowd, 0.914899, 0
+1, medical patient, 0.550377, 0
+1, drag king Contest, 0.908027, 1
+1, horrible service, 0.617008, 1
+1, debit, 0.202336, 3
+1, bank account, 0.784437, 4
+1, fun experience, 0.491048, 6
+1, generous tip, 0.569174, 7
+1, Friendly bars, 0.554291, 9
+2, Karaoke nites, 0.601429, 0
+2, good times, 0.579347, 0
+2, little gay bay, 0.929958, 1
+2, padlocks, 0.214363, 1
+2, Red Bull, 0.514118, 2
+2, issues, 0.255068, 2
+2, overly bright lighting, 0.819629, 3
+2, surly bartenders, 0.640401, 3
+2, Apollos, 0.495021, 6
+2, Ahhh, 0.274504, 6
+2, enjoyable area, 0.579184, 7
+2, diverse crowd, 0.558295, 7
+2, renovations, 0.202205, 8
+3, weekly hangout list, 0.967402, 0
+3, weird right, 0.755088, 0
+3, little overboard, 0.779462, 1
+3, bad experience, 0.771835, 1
+3, oldest gay bars, 0.957897, 2
+3, strong drinks, 0.789033, 2
+3, Apollo, 0.76745, 4
+3, night, 0.769685, 5
+3, favorite gay bar, 0.913506, 6
+3, birthday gathering, 0.777739, 6
+3, Pretty diverse group, 0.918063, 7
+3, overall vibe, 0.752537, 7
+3, drinks, 0.801248, 8
+3, great addition, 0.732563, 8
+3, non-special drinks, 0.779128, 9
+3, Free popcorn, 0.741165, 9
+4, gay bar fashion, 0.834857, 0
+4, biker boy compliment, 0.76306, 0
+4, weak our drinks, 0.711059, 1
+4, gay bar, 0.962303, 2
+4, average karaoke experience, 0.86265, 2
+4, Martha Stewart smirk, 0.777267, 3
+4, OG swivel naugahyde, 0.757011, 3
+4, neighborhood bar, 0.804481, 4
+4, drinks, 0.758808, 4
+4, average karaoke, 0.874404, 5
+4, Apollo, 0.806202, 5
+4, avid karaoke singer, 0.878906, 6
+4, drag queen, 0.829606, 6
+4, karaoke dive bar, 0.918399, 7
+4, outdoor patio, 0.86399, 7
+4, dynamic bar scene, 0.793355, 8
+4, great outdoor patio, 0.791008, 8
+4, great place, 0.782494, 9
+4, moderately sized establishment, 0.742596, 9
+5, drunken mess, 0.530891, 0
+5, mic hog, 0.503881, 0
+5, cheap cheap drinks, 0.927276, 2
+5, mainly gay dudes, 0.733794, 2
+5, gay dudes, 0.812249, 3
+5, Cheap strong drinks, 0.786567, 3
+5, karaoke host, 0.575195, 6
+5, Wonderful neighborhood feeling, 0.720793, 7
+5, favorite things, 0.481009, 7
+5, free fresh popcorn, 0.705539, 8
+5, little karaoke, 0.552988, 8
+5, Great drinks, 0.542141, 9
+5, great conversation, 0.468752, 9

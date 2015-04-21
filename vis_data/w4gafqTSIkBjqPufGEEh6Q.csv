@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, special chicken Philly, 0.935853, 0
+1, bad bartenders, 0.674054, 0
+1, old cold fries, 0.811829, 3
+1, situation, 0.436652, 3
+1, way, 0.399688, 5
+1, old carpeting, 0.630932, 6
+1, waitress, 0.393916, 6
+1, Good chicken fingers, 0.945942, 7
+2, check, 0.562165, 0
+2, favor, 0.731231, 2
+2, change, 0.55696, 2
+2, big TVs, 0.979084, 8
+2, good place, 0.87715, 8
+3, huge Vikings fan, 0.949582, 0
+3, country fried steaks, 0.892656, 0
+3, potatoes, 0.536123, 1
+3, rubbery, 0.535076, 1
+3, little neighborhood joint, 0.841188, 2
+3, Vikings bar, 0.778637, 2
+3, chicken sandwich, 0.895317, 3
+3, chicken breast, 0.713491, 3
+3, Minnesota Twin burger, 0.820001, 6
+3, chicken fingers, 0.720436, 6
+3, Wolf French Dip, 0.819866, 7
+3, Vikings fans, 0.730413, 7
+3, cut french fries, 0.817095, 8
+3, great variety, 0.684521, 8
+3, fun co-workers, 0.695387, 9
+4, dive chicken fingers, 0.75067, 0
+4, chicken finger sandwich, 0.609214, 0
+4, vanilla ice cream, 0.540704, 1
+4, star rating, 0.422538, 2
+4, Minnesota bar, 0.415699, 2
+4, chicken breast, 0.509834, 3
+4, Minnesota Vikings bar, 0.495359, 3
+4, chicken fingers, 0.994298, 4
+4, Blue Ox, 0.710609, 4
+4, Las Vegas, 0.548929, 5
+4, best chicken fingers, 0.887073, 6
+4, lunch dates, 0.478386, 6
+4, Chocolate Lava cake, 0.544301, 7
+4, homemade chips, 0.537848, 7
+4, good chicken fingers, 0.726095, 8
+4, chicken tenders, 0.659336, 8
+4, jalapeno burger, 0.561507, 9
+4, good experience, 0.442496, 9
+5, Vegas BLUE OX, 0.655759, 0
+5, frozen fingers, 0.589734, 0
+5, dimly lit tavern, 0.570429, 2
+5, spicy Bloody Mary, 0.567224, 2
+5, blue ox, 0.878332, 3
+5, ass alien fingers, 0.617104, 3
+5, chicken fingers, 0.915626, 5
+5, place, 0.604484, 5
+5, Grilled chicken salad, 0.614753, 6
+5, crunchy beer batter, 0.569794, 6
+5, HOMEMADE Chicken Fingers, 0.675763, 7
+5, chicken strips, 0.614673, 7
+5, best chicken fingers, 0.771671, 8
+5, Las Vegas, 0.653019, 8
+5, bartender Ted, 0.555649, 9
+5, laid-back place, 0.554525, 9

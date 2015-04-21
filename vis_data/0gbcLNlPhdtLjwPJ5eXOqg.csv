@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, vip guest list, 0.249329, 0
+1, worst Vegas club, 0.244122, 0
+1, LAX LAX LAX, 0.366473, 1
+1, Vegas club, 0.261104, 1
+1, lax, 0.595962, 2
+1, club LAX, 0.242354, 2
+1, service, 0.308332, 3
+1, girls, 0.230014, 3
+1, dance floor, 0.926977, 4
+1, club, 0.792781, 4
+1, good thing, 0.279932, 5
+1, friends, 0.253024, 5
+1, sweaty old men, 0.200082, 8
+2, LAX night club, 0.576085, 0
+2, new vegas club, 0.560136, 0
+2, makeshift dance floor, 0.561244, 1
+2, crowded dance floor, 0.566428, 2
+2, bar, 0.565117, 2
+2, dedicated dance floor, 0.560771, 3
+2, Saturday night, 0.560618, 3
+2, dance floor, 0.965386, 4
+2, place, 0.711291, 4
+2, club, 0.777203, 5
+2, line, 0.666453, 5
+2, VIP balcony upstairs, 0.549902, 6
+2, free VIP pass, 0.553698, 7
+2, VIP bottle, 0.547315, 7
+2, size dance floor, 0.563787, 8
+2, fancy Vegas club, 0.558392, 8
+3, entire dance floor, 0.571349, 0
+3, good music club, 0.569537, 0
+3, vip area, 0.600511, 2
+3, Vegas club, 0.573677, 2
+3, main dance floor, 0.586599, 3
+3, VIP section, 0.585521, 3
+3, dance floor, 0.987539, 4
+3, vegas, 0.688456, 4
+3, club, 0.816382, 5
+3, vip, 0.71954, 5
+3, upstairs ultra VIP, 0.557696, 6
+3, VIP rooms, 0.563321, 7
+3, ultra vip, 0.560953, 7
+3, good time, 0.567435, 8
+3, VIP booths, 0.556985, 8
+3, pretty cool club, 0.552618, 9
+4, big dance floor, 0.572823, 0
+4, packed dance floor, 0.572705, 0
+4, Vegas club, 0.58348, 2
+4, crowded dance floor, 0.573837, 2
+4, small dance floor, 0.568352, 3
+4, big club hound, 0.563693, 3
+4, people, 0.703516, 4
+4, drinks, 0.630963, 4
+4, dance floor, 0.986021, 5
+4, club, 0.851506, 5
+4, fun, 0.610842, 6
+4, service, 0.605769, 6
+4, Great night club, 0.571851, 7
+4, guest list, 0.560379, 7
+4, great time, 0.597154, 8
+4, great music, 0.568076, 8
+5, LAX Night Club, 0.469262, 0
+5, SUPER VIP, 0.467669, 0
+5, VIP areas, 0.465576, 2
+5, good music, 0.517449, 3
+5, dance floor, 0.948567, 4
+5, music, 0.624128, 4
+5, club, 0.885389, 5
+5, vip, 0.805068, 5
+5, VIP area, 0.553462, 6
+5, bottle, 0.456733, 6
+5, saturday night, 0.509756, 7
+5, VIP treatment, 0.480065, 7
+5, free drinks, 0.598537, 8
+5, vip table, 0.573611, 8
+5, VIP Host Paulo, 0.464482, 9
+5, VIP hosts, 0.430921, 9

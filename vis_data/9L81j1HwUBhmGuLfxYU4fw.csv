@@ -1,0 +1,14 @@
+rating, keyword, relevance, bucket
+4, apple pie, 0.666733, 0
+4, kick, 0.455182, 0
+4, Shame, 0.464638, 1
+4, group, 0.441356, 3
+4, Sin City Ciders, 0.881612, 6
+4, Sin City Cider, 0.877209, 6
+4, new-found friends, 0.930014, 7
+4, Fireball, 0.466752, 7
+4, Yum, 0.471984, 8
+5, actually add shots, 0.964046, 0
+5, additional cost, 0.78375, 0
+5, guys, 0.706689, 8
+5, prices, 0.490709, 8

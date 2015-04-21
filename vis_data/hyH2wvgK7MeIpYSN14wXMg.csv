@@ -1,0 +1,34 @@
+rating, keyword, relevance, bucket
+1, joke..  fuck, 0.904028, 0
+1, mother fucker, 0.733375, 0
+2, best tasting beer, 0.809767, 0
+2, kinda divey, 0.697308, 0
+2, neighborhood bar, 0.624114, 1
+2, bf, 0.40597, 2
+2, tight knit grp, 0.981163, 3
+2, divey bar, 0.609666, 3
+2, popcorn machine, 0.624871, 7
+2, pool tables, 0.596824, 7
+4, half cigarettes, 0.789618, 0
+4, half chips, 0.781688, 0
+4, drink, 0.476965, 3
+4, place, 0.446184, 3
+4, bartenders, 0.52601, 6
+4, pool, 0.4485, 6
+4, great neighborhood hangout, 0.982664, 7
+4, video poker, 0.718058, 7
+4, Lucky Joe, 0.776747, 8
+4, dive bars, 0.76542, 8
+5, wild party animals, 0.937207, 0
+5, bunch, 0.493396, 0
+5, sports bar, 0.697426, 1
+5, sort, 0.500512, 1
+5, dive bar, 0.883802, 2
+5, drinks, 0.491761, 2
+5, time, 0.4643, 4
+5, area, 0.463892, 4
+5, wide variety, 0.728701, 6
+5, people, 0.455903, 6
+5, Western philosophy, 0.702986, 7
+5, eclectic crowd, 0.769667, 8
+5, LA Lakers, 0.755464, 8

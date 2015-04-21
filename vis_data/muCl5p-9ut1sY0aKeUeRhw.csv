@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, Horrible customer service, 0.741633, 0
+1, tomato bisque soup, 0.725355, 0
+1, service, 0.910922, 1
+1, food, 0.772583, 1
+1, lunch service, 0.707943, 2
+1, times, 0.643471, 2
+1, wait staff, 0.849672, 3
+1, server, 0.752457, 3
+1, restaurant, 0.852442, 4
+1, wine, 0.842845, 4
+1, place, 0.820319, 5
+1, table, 0.699644, 5
+1, mozz cheese, 0.628199, 6
+1, Arizona Restaurant, 0.623252, 6
+1, wine list, 0.675928, 7
+1, good time, 0.613399, 7
+2, small cheese plate, 0.738586, 0
+2, Pascual Toso, 0.728033, 0
+2, good wine, 0.748208, 2
+2, cool wine bar, 0.73657, 2
+2, place, 0.815352, 3
+2, hip wine bar, 0.74598, 3
+2, wine bar, 0.786907, 4
+2, food, 0.740759, 4
+2, wine, 0.9487, 5
+2, cheese, 0.82376, 5
+2, school marching band, 0.711987, 6
+2, light rail station, 0.710161, 6
+2, wine dinner, 0.734503, 7
+2, good deal, 0.733847, 7
+2, cheese plate, 0.785674, 8
+2, Iberico cheese plate, 0.749026, 8
+3, artisan cheese plate, 0.628841, 0
+3, blue cheese mac-n-cheese, 0.626217, 0
+3, local cheese counter, 0.618793, 1
+3, cheese place, 0.637657, 2
+3, cheese appetizer, 0.627909, 2
+3, cheese plate, 0.808732, 3
+3, light rail, 0.726731, 4
+3, cheese, 0.908885, 5
+3, place, 0.74099, 5
+3, wine, 0.823946, 6
+3, goat cheese, 0.71798, 6
+3, blue cheese, 0.657685, 7
+3, chic wine bar, 0.594264, 7
+3, great cheese plates, 0.638064, 8
+3, wine bar, 0.622825, 8
+3, cheese menu online, 0.650209, 9
+3, cheese list, 0.624261, 9
+4, tasty cheese, 0.481557, 0
+4, cheese list, 0.462875, 0
+4, nearly enough cheese, 0.462252, 2
+4, wine bar, 0.507799, 4
+4, cheese, 0.923184, 5
+4, wine, 0.716526, 5
+4, place, 0.648126, 6
+4, roasted goat cheese, 0.524511, 6
+4, cheese plate, 0.724116, 7
+4, cheese selection, 0.580437, 7
+4, cheese menu, 0.497651, 8
+4, good wine selection, 0.474003, 8
+4, tasty goat cheese, 0.501431, 9
+4, interesting cheese plates, 0.451523, 9
+5, dry jack cheese, 0.518457, 0
+5, Sunday Italian cheese, 0.481383, 0
+5, fabulous cheese selection, 0.513363, 3
+5, service, 0.433834, 4
+5, light rail, 0.581164, 5
+5, cheese selection, 0.541598, 5
+5, cheese, 0.921371, 6
+5, wine, 0.809951, 6
+5, spanish cheese, 0.535201, 7
+5, cheese tasting, 0.524342, 7
+5, cheese plate, 0.696367, 8
+5, cheese list, 0.591597, 8
+5, American cheese tasting, 0.516139, 9
+5, mini cheese sampler, 0.504077, 9

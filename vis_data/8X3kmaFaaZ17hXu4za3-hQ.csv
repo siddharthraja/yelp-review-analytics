@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, creepy old guys, 0.827283, 0
+1, white people, 0.754688, 0
+1, power hungry mongers, 0.903895, 1
+1, club, 0.752855, 1
+1, fat chicks, 0.636059, 2
+1, bad place, 0.578619, 2
+1, good mix, 0.84289, 3
+1, ones exact words, 0.777504, 3
+1, people, 0.80879, 5
+1, place, 0.672381, 5
+1, cover charge, 0.791856, 6
+1, decent specials, 0.586387, 6
+1, black guys, 0.540186, 7
+1, white girls, 0.53829, 7
+1, black people, 0.549485, 8
+2, decent music, 0.722156, 0
+2, booth, 0.328624, 0
+2, major hearing damage, 0.996561, 1
+2, wore earplugs, 0.79787, 1
+2, frequent many nightclubs, 0.748269, 2
+2, busboy, 0.629666, 2
+2, noise level, 0.685177, 3
+2, waitress, 0.359771, 3
+2, VIP, 0.749567, 5
+2, smooth sailing, 0.722504, 6
+2, rest, 0.309004, 6
+2, Saturday, 0.324658, 8
+2, friends, 0.311508, 8
+3, different music playing, 0.937896, 0
+3, Philthy McNasty, 0.821513, 0
+3, regular basis, 0.787335, 2
+3, bars, 0.694034, 2
+3, late night crowd, 0.981812, 3
+3, different parts, 0.769385, 3
+3, club, 0.898226, 4
+3, dancing, 0.696128, 4
+3, whim, 0.914166, 5
+3, Pittsburgh, 0.669036, 5
+3, dance floor, 0.928648, 6
+3, big dance floor, 0.928344, 6
+3, fundraiser event, 0.977767, 7
+3, 40-ticket fundraiser event, 0.974201, 7
+3, nice variety, 0.796616, 8
+3, VIP table, 0.786916, 8
+4, Dance Vibe Drinks, 0.919851, 1
+4, wrong dancing, 0.41769, 1
+5, fellow club-goer, 0.509586, 0
+5, review, 0.271025, 0
+5, Thursday night, 0.832918, 3
+5, BEST club party, 0.713072, 3
+5, Carnegie Mellon, 0.967308, 5
+5, organization, 0.409324, 5
+5, VIP tables, 0.511178, 6
+5, legit, 0.294073, 6
+5, Spring Carnival, 0.574035, 7
+5, person, 0.263617, 7
+5, great time, 0.43336, 8
+5, Whim, 0.32924, 8

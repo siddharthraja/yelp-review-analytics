@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, door, 0.512727, 0
+1, friends, 0.501806, 0
+1, Boo, 0.57276, 1
+1, shenanigans, 0.584431, 3
+1, Brix, 0.999869, 5
+1, reservation, 0.881486, 6
+1, pm, 0.49188, 6
+1, Groupon, 0.770031, 7
+2, cozy wine bar, 0.779831, 0
+2, Cave Creek, 0.714147, 0
+2, nasty wine, 0.539026, 1
+2, different Wine bars, 0.733318, 2
+2, bad business practice, 0.67893, 2
+2, rubber suction stoppers, 0.674646, 3
+2, bartender, 0.353779, 3
+2, wine, 0.964275, 4
+2, place, 0.500558, 5
+2, liquor store, 0.778726, 6
+2, wine choices, 0.534543, 6
+2, wine tasting, 0.545077, 7
+2, Nice store, 0.506596, 7
+2, wonderful Pinot Grigio, 0.659798, 8
+2, Hello friends, 0.52719, 8
+2, wine., 0.340433, 9
+4, little wine jaunt, 0.734502, 0
+4, sub shop, 0.561834, 0
+4, little bit country, 0.739319, 1
+4, Cave Creek, 0.923366, 2
+4, Nancy, 0.431145, 2
+4, Cave Creek Road, 0.7031, 3
+4, Wine bottles, 0.582002, 3
+4, Bryan, 0.432047, 6
+4, things, 0.429626, 6
+4, western-themed barstools, 0.578467, 7
+4, sofa areas, 0.57181, 7
+4, Nice interior decor, 0.710475, 8
+4, weekend afternoon glass, 0.705043, 8
+4, friendly owners, 0.585706, 9
+5, great wine bar, 0.751009, 0
+5, fav wines, 0.586051, 0
+5, Bad Donkey, 0.71703, 2
+5, corkage charge, 0.568671, 2
+5, Scottsdale snobs, 0.55841, 3
+5, nicest couple Nancy, 0.805371, 6
+5, super-friendly bartender, 0.564055, 6
+5, wine bar, 0.999483, 7
+5, Bryan, 0.838858, 7
+5, Brix, 0.808751, 8
+5, WA wine obsession, 0.731397, 8
+5, fabulous cheese platter, 0.761182, 9
+5, extremely gracious host, 0.705787, 9

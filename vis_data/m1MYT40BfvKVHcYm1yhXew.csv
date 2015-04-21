@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, service based review, 0.769151, 0
+1, stars cuz, 0.590977, 0
+1, bar scene thing, 0.698121, 1
+1, receipt, 0.441084, 1
+1, credit cards, 0.588335, 2
+1, change, 0.579404, 2
+1, good texture, 0.559173, 3
+1, ketchup, 0.487131, 3
+1, kobe beef burger, 0.961758, 5
+1, cheese plate, 0.594194, 6
+1, cheeses, 0.436558, 6
+1, clear account, 0.573301, 7
+1, course, 0.434382, 7
+1, french toast, 0.782049, 9
+1, good job, 0.55893, 9
+2, Christmas yuletide log, 0.852396, 0
+2, good food, 0.792721, 0
+2, funky tasting seafood, 0.888885, 1
+2, flakey abomination, 0.754719, 1
+2, key lime pie, 0.869363, 2
+2, mediocre food, 0.787757, 2
+2, fatty salmon tartar, 0.851512, 3
+2, business group, 0.768057, 3
+2, food, 0.979816, 4
+2, fois gras, 0.893039, 4
+2, drinks, 0.906482, 5
+2, butter-like fois gras, 0.86414, 6
+2, white truffle cappuccino, 0.841558, 6
+2, good drink recipes, 0.870915, 7
+2, staff, 0.757309, 7
+2, friendly staff, 0.736289, 8
+2, cool decor, 0.735529, 8
+3, et tout juste, 0.918575, 0
+3, fait correcte et, 0.905937, 0
+3, rooftop terrasse department, 0.845667, 1
+3, borderline trashy clientele, 0.821332, 2
+3, et chic tout, 0.905212, 6
+3, La salle est, 0.862369, 6
+3, pretty indoor seating, 0.839564, 7
+3, Good place, 0.803173, 7
+3, real fresh fruit, 0.809624, 9
+3, warm summer evening, 0.808413, 9
+4, une fois très, 0.855818, 0
+4, très rafraîchissant et, 0.853083, 0
+4, Free Pour, 0.78855, 1
+4, Verses Bar, 0.777197, 1
+4, clueless bartenders, 0.786571, 2
+4, outdoor rooftop bars, 0.875876, 3
+4, Crescent Street detritus, 0.837307, 3
+4, terrasse place d'arme, 0.949567, 6
+4, rooftop craziness experience, 0.870288, 6
+4, eventual warm feeling, 0.821859, 7
+4, BBQ duck wings, 0.805616, 7
+4, upscale chill spot, 0.8142, 8
+4, Kobe beef sliders, 0.810386, 8
+4, great place, 0.909586, 9
+4, couple attentive bartenders, 0.837168, 9
+5, breakfast, 0.599926, 0
+5, music, 0.578297, 0
+5, bar, 0.586361, 2
+5, expectations, 0.604895, 6
+5, food, 0.574843, 6
+5, Drinks drinks drinks, 0.997682, 7
+5, lunch, 0.604582, 7
+5, place, 0.657122, 8
+5, MTL, 0.620874, 8

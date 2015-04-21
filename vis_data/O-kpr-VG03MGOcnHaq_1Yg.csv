@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, argumentative period, 0.77505, 1
+1, update, 0.483574, 1
+1, La Vigne, 0.930801, 2
+1, honesty, 0.503974, 2
+1, conviction, 0.49928, 3
+1, word, 0.456207, 3
+1, brief encounter, 0.706506, 6
+1, desire, 0.481987, 6
+1, Hey Guys, 0.828477, 7
+2, shredded Parmesan cheese, 0.704312, 0
+2, shelf Parmesan cheese, 0.695409, 0
+2, awful experience, 0.593761, 1
+2, terrible downturn, 0.593732, 1
+2, freshly grated fare, 0.696717, 2
+2, olive oil, 0.688015, 2
+2, egg noodle pasta, 0.762686, 3
+2, baby grand piano, 0.714225, 3
+2, boyfriend, 0.482321, 4
+2, seafood, 0.549049, 5
+2, nearly bare restaurant, 0.739271, 6
+2, egg noodles, 0.722946, 6
+2, La Vigne, 0.921573, 7
+2, specific palette, 0.560463, 7
+2, seriously lofty goals, 0.770377, 8
+2, delectable dinner bread, 0.716349, 8
+2, quiet chatting, 0.57221, 9
+3, old world churches., 0.849221, 0
+3, actual pieces, 0.604131, 0
+3, wine list, 0.663159, 2
+3, busy friday, 0.6444, 2
+3, whimsical fake vines, 0.925659, 3
+3, fake brick, 0.656675, 3
+3, style, 0.412947, 4
+3, menu, 0.421017, 5
+3, Thunder mountain railroad, 0.848093, 6
+3, pretty penny, 0.609001, 6
+3, restaurant playing elevator, 0.909944, 7
+3, boisterous crowd, 0.642929, 7
+3, brie, 0.380876, 8
+3, cheeses, 0.363085, 8
+4, trendy, 0.53859, 0
+4, door, 0.493776, 0
+4, ambiance, 0.563932, 3
+4, reviewers, 0.523887, 6
+4, loud RA crowd, 0.94041, 7
+4, food, 0.467858, 7
+4, daily pate, 0.823762, 8
+4, crepe, 0.552153, 8
+5, date, 0.5515, 0
+5, french toast, 0.78498, 6
+5, friend, 0.673074, 7
+5, breakfast, 0.670411, 7
+5, La Vigne, 0.997744, 8
+5, pleasant surprise, 0.84468, 8
+5, savory crepes, 0.853525, 9

@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, terrible night, 0.634321, 0
+1, main dish, 0.612025, 0
+1, waitress, 0.639276, 1
+1, warmer food, 0.636746, 1
+1, french onion soup, 0.892611, 2
+1, extremely salty, 0.642111, 2
+1, basic bar food, 0.815374, 3
+1, dining room, 0.627683, 3
+1, new meal, 0.61931, 6
+1, salt lick, 0.611115, 6
+1, avid fisherman, 0.610813, 7
+1, sunset, 0.357727, 7
+1, good Wisconsin bluegill, 0.916809, 8
+1, Papa Murphy, 0.641304, 8
+2, Friday night reservations, 0.872347, 0
+2, long wait, 0.676713, 0
+2, nice places, 0.693673, 1
+2, go-to place, 0.679024, 1
+2, cheap beer, 0.723891, 2
+2, partners case, 0.679136, 2
+2, dumpy little fish, 0.961745, 3
+2, Sunday drive, 0.691894, 3
+2, Bluegill, 0.555666, 5
+2, Ahi Tuna, 0.716847, 6
+2, great spot, 0.692271, 6
+2, ok flavor, 0.735811, 7
+2, great steak, 0.74522, 8
+2, good time, 0.693279, 8
+3, properly cooked burger, 0.927041, 0
+3, locals joint, 0.572181, 0
+3, fish fingers, 0.519796, 2
+3, lobster bites, 0.499411, 2
+3, outdoor seating area, 0.761022, 6
+3, better flavor, 0.552005, 6
+3, ground tenderloin burger, 0.917858, 7
+3, Beach House, 0.796145, 7
+3, lake access, 0.495753, 8
+3, Bonus, 0.267307, 8
+4, night fish fry, 0.576061, 0
+4, drank Miller Lite., 0.491268, 0
+4, slightly crowded bar, 0.480858, 1
+4, Walleye contains, 0.445957, 2
+4, bad place, 0.439716, 2
+4, outdoor service/outdoor bar, 0.486731, 3
+4, huge place, 0.412593, 3
+4, food, 0.538553, 4
+4, long damn way, 0.488696, 4
+4, walleye, 0.519927, 5
+4, beach house, 0.835102, 6
+4, Friday night fish, 0.660742, 6
+4, fave Fish Fry, 0.570864, 7
+4, Good fish fry, 0.566535, 7
+4, fish fry, 0.964854, 8
+4, steaks,and fish fry, 0.571641, 8
+4, favorite breakfast places, 0.492592, 9
+4, Good place, 0.468096, 9
+5, Cod dinner, 0.631141, 0
+5, salad, 0.526991, 0
+5, bloody mary, 0.756569, 2
+5, fans, 0.525759, 2
+5, crispy, 0.533561, 3
+5, vodka, 0.523369, 3
+5, eggs benedict, 0.760804, 4
+5, Beach House, 0.911152, 6
+5, good breakfast, 0.631468, 6
+5, weekend breakfasts, 0.760556, 7
+5, Bloody Marys, 0.650345, 7
+5, fried cheese curds, 0.782421, 8
+5, great local hangout, 0.715787, 8
+5, fish fry, 0.768327, 9
+5, GREAT fish fry, 0.747988, 9

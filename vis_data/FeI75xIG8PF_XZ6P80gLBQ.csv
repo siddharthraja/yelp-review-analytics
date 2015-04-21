@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, Bleh. Overpriced drinks, 0.860681, 0
+1, uninspired bar food, 0.859281, 0
+1, so-called Irish pub, 0.854139, 1
+1, HH food menu, 0.813348, 1
+1, saturday night, 0.851035, 2
+1, bartender, 0.805797, 2
+1, Irish pub, 0.866917, 3
+1, old menu items, 0.815596, 3
+1, place, 0.91183, 4
+1, Turf, 0.792371, 5
+1, grilled shrimp skewers, 0.845922, 6
+1, good Irish pub, 0.841139, 6
+1, seasoned waffle fries, 0.889762, 7
+1, still-waiting friends, 0.732684, 7
+1, central Phoenix area, 0.810887, 8
+1, good food, 0.721676, 8
+2, spectacular Irish bar, 0.850803, 0
+2, Traditional Irish Breakfast, 0.842391, 0
+2, passable interior environment, 0.788632, 1
+2, mealy tomato slices, 0.803158, 2
+2, soda bread, 0.893076, 3
+2, large open space, 0.808959, 3
+2, irish pub, 0.973824, 4
+2, Turf, 0.944317, 4
+2, place, 0.837571, 5
+2, service, 0.836146, 5
+2, real Irish soda, 0.832009, 6
+2, Phoenix Public Market, 0.809702, 6
+2, waffle fries, 0.847762, 7
+2, french toast, 0.839233, 7
+2, good luck, 0.815075, 8
+2, customer service skills, 0.813531, 8
+3, authentic Irish food, 0.641551, 0
+3, real Irish Pub, 0.635804, 0
+3, nondescript Irish bar, 0.639035, 1
+3, food HH specials, 0.599431, 1
+3, irish pub, 0.931108, 2
+3, decent bar, 0.610464, 2
+3, authentic pub, 0.597671, 3
+3, wide open bar, 0.59488, 3
+3, menu, 0.620536, 4
+3, place, 0.911528, 5
+3, turf, 0.86076, 5
+3, standard bar food, 0.664892, 6
+3, time, 0.645083, 6
+3, waffle fries, 0.642237, 7
+3, good standard bar, 0.621437, 7
+3, live music, 0.781205, 8
+3, great place, 0.640819, 8
+3, nice place, 0.617297, 9
+3, nicest Irish places, 0.596694, 9
+4, average Irish bar, 0.637206, 0
+4, Turf Accountant, 0.618974, 0
+4, Turf Bar, 0.647293, 2
+4, standard bar fare, 0.638132, 2
+4, sports bar, 0.618987, 3
+4, bar food, 0.605457, 3
+4, turf, 0.929151, 5
+4, irish pub, 0.895381, 5
+4, place, 0.748342, 6
+4, great Irish bar, 0.646764, 6
+4, Turf Pub, 0.672493, 7
+4, seasoned waffle fries, 0.661239, 7
+4, great place, 0.641453, 8
+4, great bar, 0.621086, 8
+4, PHX. great bar, 0.615809, 9
+4, good sized portions, 0.590849, 9
+5, Irish Pub downtown, 0.779255, 0
+5, Irish breakfast menu, 0.778076, 0
+5, traditional Irish breakfast, 0.753759, 2
+5, Chocolate Decadence Cake, 0.705564, 2
+5, live music, 0.759296, 5
+5, place, 0.853761, 6
+5, Irish pub goers, 0.770523, 6
+5, irish pub, 0.936872, 7
+5, century Irish pub, 0.770561, 7
+5, Seamus McCaffrey, 0.841751, 8
+5, great place, 0.787083, 8
+5, great live band, 0.76607, 9
+5, great food, 0.75584, 9

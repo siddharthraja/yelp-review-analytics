@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, great reviews, 0.827204, 0
+1, bartender, 0.557538, 0
+1, bloody Mary, 0.993463, 2
+1, straight tomato juice, 0.977709, 2
+1, beers, 0.526942, 3
+2, step dad, 0.564914, 0
+2, hot dog, 0.83748, 2
+2, Whiskey Pete, 0.621872, 2
+2, bartender, 0.223031, 3
+2, free drink, 0.585782, 6
+2, time, 0.261885, 6
+2, beer deal, 0.639278, 7
+2, eating places, 0.560209, 7
+2, video poker, 0.902172, 8
+3, Excalibur, 0.387801, 0
+3, casino bars, 0.740833, 3
+3, casinos, 0.364247, 3
+3, bartender, 0.392118, 6
+3, rounds, 0.359371, 6
+3, Sherwood Forest, 0.937743, 7
+3, drink coupon, 0.670197, 8
+3, check, 0.287781, 8
+4, GREAT pit stop, 0.917877, 0
+4, bet, 0.398664, 0
+4, Forest-y, 0.367374, 2
+4, bar, 0.367191, 2
+4, stiff drinks, 0.752077, 3
+4, destination, 0.381304, 3
+4, good video poker, 0.945437, 7
+4, poker machines, 0.883108, 7

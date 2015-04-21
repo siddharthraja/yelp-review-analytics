@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, Greasy nasty food, 0.736566, 0
+1, poor poor service, 0.719459, 0
+1, bad service, 0.589047, 1
+1, Sunday buffet, 0.581613, 1
+1, Scorpion Bay, 0.945306, 2
+1, food, 0.792786, 2
+1, waterfront grill, 0.858333, 3
+1, shuttle drivers, 0.569651, 3
+1, time, 0.715207, 4
+1, restaurant, 0.603611, 4
+1, service, 0.812117, 5
+1, Dillon, 0.674132, 6
+1, Pleasant Harbor, 0.556245, 6
+1, cool waterfront bar, 0.713436, 7
+1, Sweet potato fries, 0.67939, 7
+1, pretty busy marina, 0.758033, 8
+1, dock space, 0.740028, 8
+2, fist experience, 0.907036, 0
+2, real gold, 0.773726, 0
+2, shame, 0.590878, 1
+2, shirts, 0.550248, 2
+2, shoes, 0.549175, 2
+2, times, 0.510494, 3
+2, place, 0.510056, 3
+2, beer, 0.492242, 7
+2, boats, 0.491704, 7
+3, shuttle/golf cart service, 0.946336, 0
+3, holiday weekend, 0.944548, 0
+3, terrible service, 0.795968, 1
+3, didnt help, 0.785599, 1
+3, new waitress, 0.796682, 2
+3, plain eggs, 0.77309, 2
+3, slim pickings, 0.784027, 3
+3, sausage patty, 0.779451, 3
+3, stars, 0.708437, 4
+3, drinks, 0.778803, 5
+3, bar, 0.712157, 5
+3, buffet, 0.848485, 6
+3, marina/lake restaurant, 0.787725, 6
+3, pet peeve, 0.78602, 7
+3, breakfast food, 0.783363, 7
+3, place, 0.836307, 8
+3, notch service, 0.814216, 8
+3, French toast, 0.95516, 9
+3, outdoor patio, 0.8042, 9
+4, pastrami hot sandwich, 0.961275, 0
+4, Cuban sandwich, 0.793362, 0
+4, bad experiences, 0.796873, 1
+4, golf cart, 0.734328, 2
+4, parking area, 0.733792, 2
+4, wait staff, 0.730967, 3
+4, worries, 0.4814, 3
+4, band, 0.5032, 5
+4, Michelin stars, 0.738374, 6
+4, good food, 0.6832, 6
+4, Fried fish, 0.804181, 7
+4, entire night, 0.763496, 7
+4, Chicken Fried steak, 0.94938, 8
+4, wonderful evening, 0.744562, 8
+4, cool place, 0.720585, 9

@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+3, pub/bar quality food, 0.773973, 0
+3, cent wing night, 0.689507, 0
+3, food b/c, 0.625695, 1
+3, mediocre fare, 0.590632, 1
+3, usual Irish suspects, 0.680449, 2
+3, faint shimmer, 0.583665, 2
+3, slightly-better-than-average pub food, 0.868222, 3
+3, veggie black bean, 0.691048, 3
+3, Irish pub, 0.932344, 4
+3, black bean, 0.701938, 5
+3, Cool city pub, 0.793778, 6
+3, slightly Irish bent, 0.682287, 6
+3, ethic food profiling, 0.77957, 7
+3, cute old house, 0.690398, 7
+3, Monterey Pub, 0.87049, 8
+3, great little pub, 0.859892, 8
+3, great vibe, 0.555195, 9
+4, Monterey Patty Melt, 0.479373, 0
+4, War Streets neighborhood, 0.479235, 0
+4, stereotypical Irish pub, 0.492045, 2
+4, long bar, 0.464145, 2
+4, traditional pub fare, 0.495817, 3
+4, go-to neighborhood restaurant, 0.478405, 3
+4, monterey pub, 0.905746, 5
+4, mexican war streets, 0.781447, 5
+4, neighborhood, 0.555402, 6
+4, place, 0.519568, 6
+4, neighborhood bar, 0.526809, 7
+4, Great neighborhood bar, 0.521398, 7
+4, great place, 0.491932, 8
+4, intimate neighborhood feel, 0.473735, 8
+4, friendly neighborhood place, 0.503137, 9
+4, charming Irish pub, 0.493915, 9
+5, Dear Monterey Pub, 0.706785, 0
+5, Monterrey Pub, 0.589415, 0
+5, poor homemade substitute, 0.535767, 1
+5, favorite little pub, 0.654196, 2
+5, delicious Guinness Nachos, 0.587982, 3
+5, dimly lit bar, 0.545929, 3
+5, Guinness Nachos, 0.588187, 4
+5, food, 0.611211, 5
+5, Monterey Pub, 0.950461, 6
+5, Irish pub, 0.725124, 6
+5, Bar Monterey Pub, 0.68932, 7
+5, authentic Irish pub, 0.678466, 7
+5, great neighborhood pub, 0.685652, 8
+5, Best neighborhood pub, 0.646411, 8
+5, great place, 0.57443, 9
+5, good Guinness, 0.539098, 9

@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, Californian, 0.348204, 0
+1, cigarette smoke, 0.678258, 2
+1, smell, 0.354896, 2
+1, bit, 0.326534, 3
+1, bar, 0.321945, 4
+1, beer, 0.314427, 6
+1, smoky loud dive, 0.992828, 7
+2, large sunken seating, 0.980579, 0
+2, built-in poker machines, 0.909008, 0
+2, bad way, 0.672979, 1
+2, bartender, 0.44041, 1
+2, NFL package, 0.648816, 2
+2, older style, 0.626508, 2
+2, dive bar, 0.691949, 3
+2, epitome, 0.412564, 3
+2, small draft beers, 0.902602, 6
+2, Yelp check, 0.693131, 6
+3, major plus, 0.651885, 1
+3, Decent bar prices, 0.919094, 2
+3, bit, 0.461236, 2
+3, food, 0.448177, 3
+3, music act, 0.674777, 6
+3, stage area, 0.640046, 6
+3, door guys, 0.696728, 7
+3, different  people, 0.672077, 7
+3, occasion, 0.46709, 8
+3, place, 0.44626, 8
+3, vibe changes, 0.680537, 9
+3, improvements, 0.462485, 9
+4, Nice bar, 0.802406, 0
+4, island music, 0.792464, 0
+4, lunch break, 0.798521, 2
+4, large crowds, 0.79053, 2
+4, public areas, 0.792287, 3
+4, Bar prices, 0.791915, 3
+4, stage, 0.652668, 5
+4, great bucket specials, 0.960252, 6
+4, video poker games, 0.955979, 6
+4, hot wings, 0.905493, 7
+4, ISLAND VIBE, 0.799274, 7
+4, great place, 0.969213, 8
+4, divey little bar, 0.931211, 8
+4, Erica our bartender, 0.834868, 9
+5, Pat LaFrieda Burger, 0.87932, 0
+5, little dive bar, 0.821409, 0
+5, Fort Couch, 0.681768, 1
+5, customer service, 0.669391, 1
+5, broads, 0.54605, 3
+5, Best Bar food, 0.843566, 4
+5, best hot wings, 0.932032, 6
+5, couple friends, 0.698783, 6
+5, best buffalo wings, 0.9968, 7
+5, SUPER comfortable couches, 0.854684, 7
+5, newly remodeled place, 0.849774, 8
+5, Saturday night karaoke, 0.811831, 8
+5, Caroline BBQ sauce, 0.831022, 9
+5, Great food.Good drinks, 0.828831, 9

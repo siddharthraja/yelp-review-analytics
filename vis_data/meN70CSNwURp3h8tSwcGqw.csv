@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, overpriced drinks, 0.931029, 0
+1, urine, 0.285969, 0
+1, new space, 0.666682, 1
+1, acoustics, 0.246441, 1
+1, current management, 0.752431, 2
+1, large space, 0.686848, 2
+1, big stage, 0.747415, 3
+1, canine friends, 0.716455, 3
+1, place, 0.358145, 5
+1, Beers, 0.265369, 6
+1, Everybody, 0.283243, 7
+1, big theater, 0.648473, 8
+2, Lake Street Dive, 0.916884, 0
+2, overcrowded room, 0.730768, 0
+2, tiny balcony, 0.774033, 1
+2, SEATING, 0.457786, 1
+2, great band, 0.693209, 7
+2, spectacular instrumentalists, 0.802033, 8
+2, Beautiful harmonies, 0.767825, 8
+3, Tea Leaf Green, 0.875112, 0
+3, Marshall Tucker Band, 0.820707, 0
+3, crowd, 0.537701, 1
+3, obscure stuff, 0.711887, 2
+3, room, 0.534426, 2
+3, Rocky Horror Picture, 0.82167, 3
+3, little venue, 0.724624, 3
+3, accurate review, 0.672444, 4
+3, awesome bands role, 0.902908, 6
+3, yelp summer soire, 0.831923, 6
+3, Charlotte Venue. ah, 0.868499, 7
+3, Nice size bar, 0.840952, 7
+3, charlotte music scene, 0.896383, 8
+3, nice cheap night, 0.875309, 8
+3, pretty awesome venue, 0.989141, 9
+3, pretty cool staff, 0.953254, 9
+4, Neighborhood Theater, 0.714454, 0
+4, big beer standards, 0.680874, 0
+4, star range, 0.668744, 2
+4, huge ceiling fan, 0.662054, 2
+4, quaint little theatre, 0.678775, 3
+4, kitschy peep shows, 0.67313, 3
+4, bar, 0.653905, 4
+4, neighborhood theatre, 0.967954, 5
+4, venue, 0.717647, 5
+4, place, 0.752344, 6
+4, North Mississippi Allstars, 0.730574, 6
+4, perfect size place, 0.684855, 7
+4, favorite music venues, 0.677091, 7
+4, impressive event/music venue, 0.682103, 8
+4, local craft brews, 0.676763, 8
+4, great place, 0.711446, 9
+4, great little place, 0.700224, 9
+5, main stage area, 0.782767, 0
+5, monster ceiling fan, 0.775391, 0
+5, little sparse, 0.703976, 2
+5, free parking, 0.710362, 3
+5, true shame, 0.705221, 3
+5, dance floor, 0.753818, 4
+5, Charlotte, 0.73716, 5
+5, nice size music, 0.801141, 6
+5, Austin music scene, 0.794781, 6
+5, live music, 0.972428, 7
+5, great line ups, 0.823512, 7
+5, great place, 0.893226, 8
+5, great drink prices, 0.838709, 8
+5, excellent beer selection, 0.775737, 9
+5, free shows, 0.707109, 9

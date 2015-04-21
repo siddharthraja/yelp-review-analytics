@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+3, typical dive bar, 0.707829, 0
+3, small open area, 0.698446, 0
+3, Las Vegas, 0.754394, 1
+3, smokers bar Interesting, 0.73354, 2
+3, video poker machines, 0.7143, 2
+3, craft beers, 0.516272, 3
+3, cheap drink, 0.513132, 3
+3, Cellar lounge, 0.774642, 4
+3, video poker, 0.73993, 4
+3, place, 0.606701, 5
+3, coast swing dancing, 0.765505, 6
+3, Monday nights, 0.552437, 6
+3, live music, 0.933186, 7
+3, dive bar, 0.897442, 7
+3, solid dive bar, 0.695228, 8
+4, blues music fix, 0.74493, 0
+4, good soulful music, 0.744201, 0
+4, patrons. dam shame, 0.70622, 1
+4, good bars, 0.636601, 1
+4, low key place, 0.778277, 2
+4, style neighborhood bar, 0.71883, 2
+4, bar tender, 0.643501, 3
+4, fav bar, 0.631593, 3
+4, typical vegas bar, 0.922593, 5
+4, drinks, 0.797089, 5
+4, beer selection, 0.742916, 6
+4, live music til, 0.742569, 6
+4, strong drinks, 0.770148, 7
+4, Good drinks, 0.698871, 7
+4, blues music, 0.818761, 8
+4, Good blues music, 0.791231, 8
+4, Cellar Lounge, 0.729705, 9
+4, swing dance club, 0.699458, 9
+5, great blues/r&b band, 0.374824, 0
+5, Vegas hotel lounge, 0.325956, 0
+5, true Jazz music, 0.331154, 1
+5, BB king, 0.321837, 1
+5, bar friggn grooving, 0.331514, 2
+5, real central theme, 0.28727, 2
+5, means music mogul, 0.317611, 3
+5, place fucking, 0.23599, 3
+5, Billy Ray Charles, 0.938507, 5
+5, BBQ guy.. ohmigod, 0.316135, 6
+5, drinks, 0.267039, 6
+5, blues/jazz music, 0.256475, 7
+5, stuff drinks, 0.248814, 7
+5, Cellar Lounge, 0.750034, 8
+5, interesting cause Cellar, 0.333867, 8
+5, wonderful night, 0.233887, 9

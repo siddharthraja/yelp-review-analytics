@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, Cigarette smoke wafts, 0.945789, 0
+1, open til, 0.796368, 0
+1, service mediocre, 0.760365, 1
+1, unfortunate trend, 0.746641, 1
+1, basket, 0.565163, 2
+1, food, 0.508392, 2
+1, scantilly clad wait, 0.983929, 3
+1, dollars, 0.571296, 3
+1, bartender, 0.609042, 4
+1, Saturday night, 0.776099, 6
+1, dissatisfaction, 0.501585, 6
+1, Music, 0.520284, 7
+1, impressions, 0.470267, 7
+1, pleasant value, 0.702425, 9
+1, North Charlotte, 0.702294, 9
+2, friends birthday., 0.732224, 0
+2, Saturday night., 0.725541, 0
+2, bar, 0.295609, 2
+2, wings home, 0.687556, 3
+2, husband, 0.303138, 3
+2, essence, 0.297467, 6
+2, big takeout order, 0.941718, 7
+2, drinks, 0.61856, 7
+2, customer service skills, 0.85796, 9
+2, MVP, 0.308988, 9
+3, fav local dive, 0.92802, 0
+3, Adequate service, 0.60401, 0
+3, bar choices, 0.567595, 2
+3, bar food, 0.535064, 2
+3, dive bar, 0.82026, 3
+3, Old Meck, 0.591344, 3
+3, Garlic Parmesan Wings, 0.980037, 6
+3, tenders, 0.291806, 6
+3, favorite ranch dressings, 0.864383, 7
+3, drink special everyday, 0.814167, 7
+3, crab legs, 0.570251, 8
+3, good deal, 0.524704, 8
+4, sweet smelling cigar, 0.908455, 0
+4, pork wings, 0.770217, 0
+4, cancer survivor, 0.743219, 1
+4, wife, 0.65043, 1
+4, Raw Bars, 0.751819, 2
+4, town, 0.543902, 2
+4, little known cut, 0.894371, 3
+4, waitress, 0.64662, 3
+4, MVP, 0.68238, 4
+4, Chesapeake bay oysters, 0.992018, 6
+4, indoor dining room, 0.88042, 6
+4, buffalo sauce, 0.758793, 7
+4, bleu cheese, 0.750709, 7
+4, quality customer service, 0.885953, 8
+4, cocktail sauce, 0.762021, 8
+4, Blue Moon, 0.715489, 9
+4, beer selection, 0.711345, 9

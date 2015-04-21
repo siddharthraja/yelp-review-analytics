@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, -Absolutely terrible management, 0.77053, 0
+1, creative cuisine, 0.66253, 0
+1, small bland salsas, 0.79673, 1
+1, small order, 0.653634, 1
+1, eat crappy food, 0.763583, 2
+1, poor food quality, 0.757464, 2
+1, Hatch Green Chilis, 0.777545, 3
+1, latest trendy spot, 0.766635, 3
+1, food, 0.994966, 4
+1, waitress, 0.75325, 4
+1, Spotted Donkey, 0.777464, 5
+1, Mexican chopped salad, 0.751523, 6
+1, reviews, 0.687836, 6
+1, southwestern food tastes, 0.792512, 7
+1, pretty good chance, 0.779795, 7
+1, good margaritas, 0.65422, 8
+1, Mexican restaurant, 0.653058, 8
+1, Pace salsa, 0.642173, 9
+2, local Mexican food, 0.62526, 0
+2, authentic Mexican cuisine, 0.594135, 0
+2, chipotle mayo pool, 0.630837, 1
+2, Big strike number, 0.625295, 1
+2, battlefield promotion, 0.533565, 2
+2, WAITER CHECKS, 0.527246, 2
+2, prickly pear marg, 0.634123, 3
+2, wee bit, 0.528635, 3
+2, food, 0.79477, 4
+2, chipotle mayo, 0.696189, 4
+2, dining room manager, 0.955846, 5
+2, meal, 0.588027, 5
+2, green chile meatloaf, 0.618519, 6
+2, hot chicken, 0.552609, 6
+2, Spotted Donkey Cantina, 0.997347, 7
+2, extra chicken, 0.691317, 7
+2, chicken wrap plate, 0.653854, 8
+2, modern restaurant, 0.534996, 8
+3, short rib tacos, 0.720566, 0
+3, wet tacos, 0.66854, 0
+3, underwhelming chicken tacos, 0.720104, 1
+3, average food, 0.604937, 1
+3, Saturday night, 0.661432, 2
+3, good change, 0.602955, 2
+3, chips, 0.733964, 3
+3, salsa, 0.718598, 3
+3, Spotted Donkey Cantina, 0.932363, 4
+3, tacos, 0.791535, 4
+3, place, 0.680198, 5
+3, great table conversation, 0.650505, 6
+3, different homemade salsas, 0.628992, 6
+3, pork antijos. tacos, 0.735228, 7
+3, shrimp tacos, 0.672385, 7
+3, nice big table, 0.654891, 8
+3, best black beans, 0.630248, 8
+3, nice strong corn, 0.648269, 9
+3, old El Paso, 0.63943, 9
+4, standard Sonoran food, 0.505244, 0
+4, traditional Mexican food, 0.50147, 0
+4, good Sonoran fare, 0.501304, 1
+4, tortilla chips, 0.531533, 2
+4, authentic Mexican food, 0.501219, 2
+4, Spotted Donkey, 0.946061, 3
+4, good little kick, 0.51255, 3
+4, mexican food, 0.618228, 4
+4, tacos, 0.610614, 4
+4, food, 0.763783, 5
+4, time, 0.639509, 5
+4, Baja Shrimp Tacos, 0.538631, 6
+4, menu, 0.525419, 6
+4, cilantro buttermilk sauce, 0.525039, 7
+4, cobb salad, 0.51353, 7
+4, great food, 0.60783, 8
+4, good food, 0.585262, 8
+4, pleasant dining experience, 0.514624, 9
+4, great modern decor, 0.510141, 9
+5, class Mexican food, 0.650008, 0
+5, Great White Hefeweizen, 0.628257, 0
+5, dining area, 0.639689, 3
+5, fresh chopped jalapeno, 0.599234, 3
+5, dinner, 0.60806, 4
+5, place, 0.739124, 5
+5, service, 0.705928, 5
+5, food, 0.814441, 6
+5, margaritas, 0.725116, 6
+5, Spotted Donkey, 0.975876, 7
+5, best Margaritas, 0.663687, 7
+5, great food, 0.791878, 8
+5, dining experience, 0.681557, 8
+5, Mexican restaurants, 0.648317, 9
+5, one-of-a-kind Mexican restaurant, 0.644015, 9

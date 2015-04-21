@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, redeeming feature, 0.929962, 1
+1, Cheap beer, 0.887651, 1
+1, better pizza, 0.971748, 6
+1, news paper, 0.746889, 7
+1, hrs, 0.24344, 7
+1, big sign, 0.735367, 8
+2, half way, 0.609559, 0
+2, basketball game, 0.601276, 0
+2, place, 0.536036, 1
+2, cannoli, 0.461592, 1
+2, steak sandwich, 0.916399, 2
+2, Service, 0.444812, 2
+2, cold food, 0.593984, 3
+2, time, 0.5355, 3
+2, Chicago eatery, 0.654059, 6
+2, deep dish pizza, 0.795729, 7
+2, thing, 0.444102, 7
+4, new home, 0.592326, 0
+4, Omlett House, 0.571104, 0
+4, drink, 0.370466, 2
+4, bar, 0.344386, 2
+4, Town Center Lounge, 0.98689, 8
+4, gaming free pays, 0.772556, 9
+4, big gamblers, 0.58376, 9
+5, best chicago pizza, 0.924741, 0
+5, people, 0.267737, 3

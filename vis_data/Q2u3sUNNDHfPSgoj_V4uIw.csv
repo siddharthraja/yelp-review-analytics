@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+3, Friday nights, 0.936275, 0
+3, night life, 0.835261, 0
+3, strip malls, 0.986689, 1
+3, big fan, 0.916504, 1
+3, food, 0.40379, 2
+3, odd location, 0.988271, 3
+3, drink specials, 0.917541, 3
+3, accurate review, 0.899271, 6
+3, classic rock, 0.871527, 6
+3, place, 0.656173, 7
+3, happy hour weekdays, 0.983177, 8
+3, weekends, 0.447303, 8
+4, roll, 0.263892, 0
+4, exception, 0.320161, 2
+4, money, 0.249462, 6
+4, recent updates, 0.538949, 7
+4, great experiences, 0.504146, 7
+4, lunch, 0.30309, 8
+4, bite, 0.298245, 8
+4, lemon pasta w/, 0.946279, 9
+4, American Pale Ale, 0.830414, 9
+5, Friday afternoon, 0.756322, 0
+5, buffalo burger, 0.753485, 0
+5, headache, 0.548092, 1
+5, places, 0.545724, 1
+5, lowest common denominator, 0.921875, 2
+5, lunch, 0.752352, 2
+5, food, 0.767132, 4
+5, night, 0.582242, 4
+5, good price, 0.72998, 6
+5, fries, 0.686656, 6
+5, band Rock Garden, 0.902127, 7
+5, best food, 0.741603, 7
+5, cotton candy martini, 0.914076, 8
+5, plain old burgers, 0.907539, 8
+5, pop rocks, 0.738186, 9
+5, homemade eggnog, 0.725908, 9

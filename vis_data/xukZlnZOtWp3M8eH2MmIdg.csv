@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, MBI, 0.564281, 2
+2, skits, 0.553112, 2
+2, comedy troupe, 0.828867, 3
+2, Glass Nickle, 0.95257, 7
+2, great place, 0.754806, 7
+4, Monkey Business, 0.979467, 0
+4, Monkey Business folks, 0.91084, 0
+4, drink specials, 0.689638, 1
+4, disappointment, 0.473362, 1
+4, host, 0.487213, 2
+4, middle, 0.456675, 2
+4, later scenes drug, 0.883527, 3
+4, seats, 0.462967, 3
+4, Saturday night, 0.854761, 6
+4, late improv, 0.695752, 6
+4, good improvising, 0.732415, 7
+4, favorite shows, 0.657132, 7
+4, amazing things, 0.676719, 8
+4, great night, 0.674639, 8
+4, true Madison experience, 0.928099, 9
+4, glass nickle, 0.71064, 9
+5, Glass Nickel food, 0.568574, 0
+5, core level classes, 0.529736, 0
+5, late night shows, 0.562505, 1
+5, MBI troupe, 0.439159, 1
+5, awkward audience recommendation, 0.526898, 2
+5, improv comedy, 0.42067, 2
+5, family, 0.466032, 3
+5, comedy shows, 0.417523, 3
+5, glass nickel pizza, 0.708796, 4
+5, yelp event, 0.558841, 4
+5, glass nickel, 0.915468, 5
+5, saturday night, 0.879554, 6
+5, special topics class, 0.532041, 6
+5, cool yelp event, 0.542265, 7
+5, solid belly laugh, 0.53218, 7
+5, Saturday night activity, 0.532691, 8
+5, fun time, 0.448002, 8
+5, amazingly fun option, 0.539669, 9
+5, wonderful job, 0.43771, 9

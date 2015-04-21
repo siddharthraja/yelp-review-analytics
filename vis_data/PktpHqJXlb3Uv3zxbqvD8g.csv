@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, dollar tip, 0.780765, 0
+1, Zebra lounge, 0.767994, 0
+1, sorry im standing, 0.956254, 1
+1, waitress, 0.566858, 1
+1, single successful woman, 0.938851, 2
+1, skin tight material, 0.92493, 2
+1, Jameson gingers, 0.764749, 3
+1, boyfriend, 0.562741, 3
+1, glasses, 0.863643, 4
+1, table, 0.671164, 4
+1, mutual friend, 0.763906, 6
+1, girlfriend, 0.63278, 6
+1, previous customers, 0.754935, 7
+1, polite conversation, 0.75157, 7
+2, seating area, 0.558781, 0
+2, small bar, 0.504568, 0
+2, Laguna Champagne Bar, 0.638013, 1
+2, bar crawl, 0.527815, 1
+2, casino bar, 0.65177, 2
+2, cool bar steps, 0.580551, 2
+2, difficult time, 0.487574, 3
+2, bar, 0.918979, 4
+2, people, 0.507081, 4
+2, free glass, 0.571403, 5
+2, video poker, 0.556993, 5
+2, bar tour, 0.518158, 6
+2, Vegas, 0.50734, 6
+2, champagne bar, 0.747546, 7
+2, strawberry martini drink, 0.561253, 7
+2, nice big sign, 0.560018, 8
+2, st pattys, 0.554315, 8
+2, Côte d'Azur, 0.490096, 9
+2, good time, 0.482256, 9
+3, Different specialty champagne, 0.455874, 0
+3, video poker/blackjack machine, 0.310114, 0
+3, oppressive Vegas heat, 0.323436, 2
+3, nice crowd., 0.230484, 2
+3, champagne cocktails, 0.66602, 3
+3, extensive champagne menu, 0.511081, 3
+3, Laguna Champagne Bar, 0.928672, 4
+3, champange bar, 0.268111, 4
+3, decent Champagne, 0.447928, 6
+3, Flower Eclipse, 0.444474, 6
+3, Chandon Nectar Champagne, 0.514809, 7
+3, fruity herbal subtlety, 0.320727, 7
+3, Palazzo casino, 0.309612, 8
+3, food menu, 0.303202, 8
+4, Gosset Champagne Grand, 0.891481, 0
+4, great way, 0.615413, 0
+4, champagne fans, 0.76222, 1
+4, Hideous center-piece, 0.613796, 1
+4, champagne bar, 0.731226, 2
+4, casino floor, 0.601881, 2
+4, hot damn, 0.828936, 3
+4, glass bubble decor, 0.775741, 3
+4, service, 0.571285, 5
+4, great mix, 0.624036, 6
+4, lady DJ, 0.610082, 6
+4, nice champagne, 0.91519, 7
+4, pretty good view, 0.805531, 7
+4, nice variety, 0.676712, 8
+4, great time, 0.663609, 8
+4, free champagne cocktails, 0.946443, 9
+4, Palazzo gaming floor, 0.860499, 9
+5, convention attendees, 0.669601, 6
+5, drinks, 0.549961, 6
+5, Sands convention center, 0.979585, 7
+5, life saver, 0.781799, 7
+5, nice place, 0.738966, 8
+5, bar, 0.44173, 8

@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, chicken enchiladas, 0.512932, 0
+1, bloody marys, 0.503403, 0
+1, bloody mary, 0.494835, 1
+1, decent bars, 0.479878, 1
+1, fake boobs girl, 0.723009, 2
+1, bartender check, 0.581277, 2
+1, bartender, 0.858486, 3
+1, BFF, 0.461501, 3
+1, bar, 0.97908, 4
+1, boyfriend, 0.832095, 4
+1, new place, 0.502975, 6
+1, way blondie, 0.45805, 6
+1, boyfriend sit, 0.546291, 7
+1, pool table, 0.442299, 7
+1, salsa, 0.31898, 8
+1, chips, 0.318969, 8
+1, nice colorful decor, 0.684423, 9
+2, Cook, 0.627459, 0
+2, comps, 0.693289, 1
+2, gambling, 0.627636, 1
+2, night shifters, 0.929668, 3
+2, regular spot, 0.864837, 3
+2, regulars, 0.664946, 8
+2, end, 0.532575, 8
+4, Que Mas Mexican, 0.895278, 0
+4, Phil S., 0.634129, 0
+4, WTF Phil, 0.639517, 1
+4, damn fault, 0.62679, 1
+4, places, 0.419897, 2
+4, service, 0.419793, 2
+4, swing bar babe, 0.816142, 3
+4, table seating, 0.617977, 3
+4, bar, 0.927843, 4
+4, stars, 0.849645, 4
+4, fact, 0.402613, 5
+4, shift bartender, 0.654242, 6
+4, Location, 0.363467, 6
+4, Mexican sit-down restaurant, 0.865056, 7
+4, North Las Vegas, 0.863165, 7
+4, best friends, 0.545223, 8
+4, place, 0.400824, 8
+5, Mexican food, 0.792933, 0
+5, local area, 0.482735, 0
+5, Clean bar, 0.44376, 3
+5, north las Vegas, 0.733228, 6
+5, machines payout, 0.47366, 6
+5, damn good tacos, 0.9975, 7
+5, awesome neighborhood grill, 0.813949, 7
+5, Excellent service, 0.451974, 8
+5, great food, 0.420603, 8
+5, reasonable drink prices, 0.813455, 9
+5, great margaritas, 0.538841, 9

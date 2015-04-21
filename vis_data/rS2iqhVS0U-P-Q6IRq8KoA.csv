@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, good experience, 0.938333, 3
+1, food, 0.748427, 3
+3, toilets, 0.533767, 0
+3, Lift, 0.50979, 0
+3, coca cola, 0.963732, 3
+3, kinda stuff, 0.948771, 3
+3, drinks, 0.739626, 4
+3, school dinners, 0.905203, 7
+3, big place, 0.815281, 7
+4, Cordon Bleu, 0.819911, 0
+4, quirky names, 0.767506, 0
+4, oz. beef patty, 0.969421, 1
+4, mushy haggis, 0.798034, 1
+4, UK, 0.547456, 2
+4, Highland Burger, 0.763953, 3
+4, curfew, 0.588913, 3
+4, Broughton Brewery, 0.777422, 6
+4, Old Jock, 0.774099, 6
+4, guest ales, 0.79115, 7
+4, old buildings, 0.753366, 7
+4, pleasant place, 0.798057, 8
+4, Real Ales, 0.791602, 8
+4, opportunity, 0.556007, 9
+4, time, 0.555924, 9
+5, bit, 0.618144, 0
+5, layout, 0.609437, 0
+5, boyfriend, 0.672173, 1
+5, night, 0.613033, 1
+5, Portobello, 0.663876, 2
+5, bus, 0.621969, 2
+5, Leith Beer, 0.946831, 3
+5, pub/restaurant, 0.594596, 3
+5, lounge, 0.616533, 6
+5, people, 0.594025, 6
+5, food, 0.711628, 7
+5, Spoons, 0.659248, 7
+5, seat, 0.632359, 8
+5, Service, 0.607781, 8
+5, great experience, 0.842721, 9

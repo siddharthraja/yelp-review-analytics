@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+1, ear pieces, 0.635552, 0
+1, Pool room, 0.635108, 0
+1, bar service, 0.821216, 1
+1, bar food, 0.626072, 1
+1, Friday evening, 0.642647, 2
+1, large group, 0.639765, 2
+1, Thursday night, 0.658562, 3
+1, pregnant wife, 0.657881, 3
+1, food, 0.898981, 4
+1, big crowd, 0.640607, 4
+1, TV, 0.481489, 5
+1, place, 0.748236, 6
+1, entire back area, 0.639058, 6
+1, nice tables, 0.652093, 7
+1, customer wait, 0.633647, 7
+1, Flying Saucer shopping, 0.920202, 8
+1, new place, 0.663491, 8
+1, Good place, 0.660064, 9
+1, new customers, 0.652339, 9
+5, large crowd, 0.694194, 0
+5, upcoming events, 0.685206, 0
+5, staff member, 0.647858, 3
+5, bar, 0.448886, 3
+5, Pool tables, 0.656323, 7
+5, customer, 0.453863, 7
+5, GREAT drink specials, 0.926202, 8
+5, great drink places, 0.868819, 8
+5, attentive staff, 0.681186, 9

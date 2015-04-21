@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+2, goat cheese cheesecake, 0.692884, 0
+2, wine bar., 0.623802, 0
+2, deliberate bites, 0.563164, 1
+2, weird flavor, 0.558175, 1
+2, super rude, 0.590679, 2
+2, big lack, 0.584555, 2
+2, maple meringue, 0.721156, 3
+2, inflated prices, 0.584646, 3
+2, place, 0.695111, 4
+2, people, 0.532413, 4
+2, wine, 0.935557, 5
+2, big wine collection, 0.776807, 6
+2, micro tiny fries, 0.741169, 6
+2, Mozzarella di Bufala, 0.718999, 7
+2, equally good wine, 0.70946, 7
+2, nice flavor, 0.589509, 8
+2, Nice Pinot, 0.583157, 8
+2, nice variety, 0.597903, 9
+2, different regions, 0.564844, 9
+3, intimate date spot, 0.776787, 0
+3, miss.  goat cheese, 0.77519, 0
+3, waiter forgot, 0.728862, 1
+3, odd angles, 0.71785, 1
+3, single diner, 0.788377, 2
+3, 50-something age, 0.728568, 2
+3, red dipping sauce, 0.80337, 3
+3, mayonnaise based sauce, 0.80236, 3
+3, food, 0.969114, 5
+3, place, 0.909851, 5
+3, Huge wine list, 0.813648, 6
+3, mini bison burgers, 0.810159, 6
+3, wine, 0.924192, 7
+3, hangar steak, 0.808309, 7
+3, nice looking wine, 0.843748, 8
+3, snooty air, 0.721691, 8
+3, Substantial wine list, 0.802756, 9
+3, fine summer night, 0.787203, 9
+4, late harvest wine, 0.815592, 0
+4, la station Place, 0.813889, 0
+4, ice wine, 0.815552, 4
+4, food, 0.819178, 5
+4, wine, 0.974876, 6
+4, wine bar, 0.933631, 6
+4, cheese plate, 0.874427, 7
+4, Great wine bar, 0.868137, 7
+4, great place, 0.934322, 8
+4, wine list, 0.878451, 8
+4, wait staff, 0.84242, 9
+4, nice place, 0.791748, 9
+5, best wine bars, 0.73002, 0
+5, spicy red wine, 0.704253, 0
+5, red wine, 0.755346, 2
+5, long wine list, 0.6968, 2
+5, wine, 0.959566, 4
+5, Cheddar Grilled Cheese, 0.699604, 6
+5, pretty crowed space, 0.654464, 6
+5, grilled cheese, 0.963074, 7
+5, favorite wine, 0.768245, 7
+5, wine bar, 0.814617, 8
+5, great wine, 0.769379, 8
+5, good wine bar, 0.712025, 9
+5, great place, 0.687454, 9

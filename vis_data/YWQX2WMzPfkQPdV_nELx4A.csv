@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+3, random arcade machine, 0.912563, 0
+3, strip mall, 0.740807, 0
+3, massive bar, 0.731471, 1
+3, sketchy nature, 0.725617, 1
+3, cash-only bar, 0.738677, 2
+3, little TLC, 0.715235, 2
+3, stuffed animal, 0.960149, 3
+3, stuffed animal machine, 0.908319, 3
+3, bar, 0.806218, 6
+3, Rainbow Cactus, 0.706204, 6
+3, touch tunes jukebox, 0.890534, 7
+3, Taxidermy place, 0.738706, 7
+3, nice bartender, 0.774754, 8
+3, Friday nights, 0.7004, 8
+4, spiffy non-alcoholic drinks, 0.630741, 0
+4, bit divey, 0.511263, 0
+4, Mainly regulars, 0.505093, 1
+4, odd jumble, 0.500794, 1
+4, creepy complex, 0.501062, 2
+4, Taxadermy shop, 0.496053, 2
+4, great drink specials, 0.674353, 3
+4, new carpet, 0.509905, 3
+4, gay bars, 0.669443, 5
+4, rainbow cactus, 0.912917, 6
+4, actual RAINBOW CACTUS, 0.648654, 6
+4, huge drink selection, 0.739832, 7
+4, eclectic little place, 0.667596, 7
+4, cheap drink options, 0.682897, 8
+4, safe place, 0.487585, 8
+5, Cave Creek Rd., 0.850403, 0
+5, gay mecca, 0.631459, 0
+5, drag shows, 0.566287, 1
+5, voice damage, 0.554752, 1
+5, go-go platforms, 0.629514, 2
+5, disco balls, 0.614512, 2
+5, Madonna renditions, 0.624162, 3
+5, naked pixies, 0.621199, 3
+5, Rainbow Cactus, 0.910356, 6
+5, girlfriends, 0.296271, 6
+5, cool gems, 0.659571, 7
+5, gay Cheers, 0.546344, 7
+5, talented clientele, 0.598323, 8
+5, interesting characters, 0.573319, 8

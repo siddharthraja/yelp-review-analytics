@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+1, good customer services, 0.878974, 0
+1, large group, 0.677309, 0
+1, Terrible service, 0.716232, 1
+1, complete bitches, 0.714557, 1
+1, poor decision, 0.83316, 2
+1, drinks, 0.817092, 2
+1, bartender, 0.830056, 3
+1, place, 0.696632, 3
+1, gaming revenue, 0.64712, 4
+1, bartenders, 0.746432, 5
+1, bartender Lisa, 0.730018, 6
+1, place place, 0.638279, 6
+1, grand teton location, 0.901902, 7
+1, time, 0.632039, 7
+1, good ppl, 0.677551, 8
+1, priority, 0.519307, 8
+2, tattooed bearded bartender, 0.986572, 0
+2, ..my wife, 0.721432, 0
+2, meh, 0.468398, 2
+2, Mrs Invisible, 0.714598, 3
+2, prompt service, 0.685611, 3
+2, asian bartender chick, 0.917038, 4
+2, Mr BuffTatoo, 0.701088, 4
+2, 12minutes, 0.461834, 8
+2, attentive staff, 0.762372, 9
+2, great service, 0.686118, 9
+4, Toast bread slices, 0.920814, 0
+4, couple buddies, 0.546399, 0
+4, Waitress, 0.338738, 4
+4, BURGER.  1Lb Burger, 0.897426, 8
+4, great tasting, 0.518163, 8
+5, Fri.great bartender,good times,pool, 0.87123, 0
+5, Small talk, 0.689935, 0
+5, yoke, 0.473462, 1
+5, couple video games, 0.877893, 2
+5, pool tables, 0.662971, 2
+5, reviews, 0.447299, 3
+5, bar fun, 0.666053, 6
+5, Cool spot, 0.655643, 6
+5, fried egg, 0.719979, 7
+5, gravy, 0.527174, 7
+5, awesome meal, 0.721447, 8
+5, BEST food, 0.700429, 8
+5, absolutey best service, 0.960254, 9
+5, BEST salmon, 0.704443, 9

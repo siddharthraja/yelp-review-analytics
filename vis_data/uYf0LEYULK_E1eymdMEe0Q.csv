@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, Bland bland bland, 0.909458, 0
+1, bean dip, 0.608102, 0
+1, cool place, 0.577676, 1
+1, worst service, 0.573057, 1
+1, clever step, 0.626558, 2
+1, bar food, 0.562464, 2
+1, Yelpers, 0.356756, 3
+1, Sunday lunch, 0.56529, 6
+1, home, 0.358923, 7
+1, hand, 0.358844, 7
+1, interesting ingredients, 0.599576, 8
+1, restaurant chain, 0.572043, 8
+1, building, 0.365879, 9
+2, Chicken Greek pasty, 0.862961, 0
+2, big wing person, 0.777485, 0
+2, bad British food, 0.771318, 1
+2, Food lukewarm, 0.674911, 1
+2, okay chopped meat, 0.770703, 2
+2, boring mashed potatoes, 0.768887, 2
+2, lamb vindaloo pasty, 0.862079, 3
+2, shredded cabbage, 0.670382, 3
+2, food, 0.952237, 4
+2, soup, 0.601481, 4
+2, place, 0.717358, 5
+2, pasties, 0.667297, 5
+2, olive loving husband, 0.784262, 6
+2, cafeteria food, 0.66674, 6
+2, loud mining machinery, 0.839676, 7
+2, correct menu item, 0.755858, 7
+2, service oriented restaurants, 0.764446, 8
+2, Cornish Pasty, 0.71615, 8
+2, old fashioned way, 0.803546, 9
+2, tap selection, 0.676436, 9
+3, brandy cream sauce, 0.459298, 0
+3, south patio, 0.391362, 0
+3, particularly busy night, 0.49457, 1
+3, screechy hard sounding, 0.479585, 1
+3, harder shell empanada, 0.449871, 2
+3, unique fillings, 0.340121, 2
+3, Cornish Pasty Co., 0.792223, 3
+3, cold food, 0.390811, 3
+3, Cornish Pasty, 0.909364, 4
+3, food, 0.459148, 4
+3, marinara sauce, 0.366856, 6
+3, entire tables, 0.364697, 6
+3, large outdoor patio, 0.529544, 7
+3, Scotch Egg appetizer, 0.475955, 7
+3, Tempe location, 0.503022, 8
+3, great food, 0.393236, 8
+3, awesome flavorful pastys, 0.493254, 9
+3, Uhhh. ha ha, 0.461034, 9
+4, chicken greek pasty, 0.685476, 0
+4, chicken vindaloo pasty, 0.662949, 0
+4, different pasty options, 0.6322, 2
+4, pasty guy, 0.585627, 2
+4, pasty crust, 0.586697, 3
+4, banoffee pie, 0.504082, 3
+4, service, 0.527133, 4
+4, Chicken Tikka Massala, 0.52509, 4
+4, Old Town, 0.516864, 5
+4, place, 0.667721, 6
+4, food, 0.660328, 6
+4, red wine gravy, 0.616233, 7
+4, entire pasty, 0.570401, 7
+4, Cornish Pasty, 0.932671, 8
+4, Cornish Pasty Co., 0.863915, 8
+4, bench style seating, 0.530789, 9
+4, great drink selection, 0.523114, 9
+5, Cornish pasty company, 0.572528, 0
+5, Cornish Pasty Team, 0.561924, 0
+5, Cornish Pasty locations, 0.578256, 2
+5, new pasty, 0.541802, 2
+5, Cornish Pasty location, 0.595833, 3
+5, pot pie pasty, 0.563969, 3
+5, cornish pasty, 0.94817, 5
+5, Cornish Pasty Co., 0.658711, 5
+5, food, 0.615308, 6
+5, place, 0.583353, 6
+5, Tempe Cornish Pasty, 0.57108, 7
+5, Oggie pasty, 0.544905, 7
+5, great beer selection, 0.544028, 8
+5, tradional pasty, 0.540725, 8
+5, good pasty, 0.542977, 9
+5, steak pasty, 0.531818, 9

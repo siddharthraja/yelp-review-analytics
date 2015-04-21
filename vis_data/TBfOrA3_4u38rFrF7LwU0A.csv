@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, bleeding heart, 0.594892, 0
+1, waiter, 0.462346, 0
+1, bar chit chatting, 0.948388, 1
+1, pita bread, 0.572394, 1
+1, awful place, 0.619237, 2
+1, beautiful restaurant/deli, 0.551213, 2
+1, Sonoma chicken sandwich, 0.88203, 3
+1, ride ant, 0.555333, 3
+1, cute wine bar, 0.840918, 7
+1, mini AJ, 0.567568, 7
+2, favorite salad spots, 0.898186, 0
+2, inch cake, 0.896919, 0
+2, fresh food case, 0.898238, 1
+2, turkey sandwiches, 0.737197, 1
+2, employee department, 0.680174, 2
+2, minutes., 0.539835, 2
+2, LCD menu screen, 0.811583, 3
+2, obligatory pickle, 0.708159, 3
+2, place, 0.788531, 5
+2, Dish, 0.643878, 5
+2, average wedding cake, 0.931533, 6
+2, early lunch, 0.906638, 6
+2, extra special touches, 0.840881, 7
+2, good bread, 0.715635, 7
+2, good sandwiches, 0.753257, 8
+2, good selection, 0.727845, 8
+4, wine bar spin, 0.74903, 0
+4, new lunch spot, 0.732869, 0
+4, prepared food section, 0.718067, 2
+4, predecessor Dish, 0.701173, 2
+4, Dish, 0.748821, 3
+4, little cheerful woman, 0.712988, 3
+4, kitchen, 0.972736, 4
+4, wine, 0.798875, 4
+4, food, 0.736611, 5
+4, bit, 0.707436, 5
+4, lunch, 0.783819, 6
+4, cold sandwiches, 0.783122, 6
+4, great cheese selection, 0.721713, 7
+4, prime rib sandwich, 0.721421, 7
+4, great lunch spot, 0.754229, 8
+4, Pad Thai, 0.731335, 8
+4, Pad Thai Salad, 0.710488, 9
+4, typical Scottsdale restaurant, 0.697714, 9
+5, market lunch experience, 0.775139, 0
+5, dollar lunch, 0.7394, 0
+5, Apple crumble w/, 0.763827, 1
+5, magical turkey bacon, 0.72314, 1
+5, Napa Valley sandwich, 0.865217, 2
+5, spicy tuna, 0.800967, 2
+5, blood orange gelato, 0.729536, 3
+5, cheese, 0.707459, 3
+5, coffee bar, 0.724299, 6
+5, Roasting Company coffee, 0.718642, 6
+5, Catfish taco lunch, 0.773427, 7
+5, cheddar panini w/, 0.764894, 7
+5, sweet potato fries, 0.953965, 8
+5, ridiculously awesome kitchen, 0.777713, 8
+5, awesome lunch place, 0.816777, 9
+5, great catering menu, 0.736129, 9

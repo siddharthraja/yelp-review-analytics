@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, video poker machine, 0.794583, 0
+1, pm, 0.27742, 0
+1, Pinapple drink, 0.532996, 1
+1, basic tequila, 0.506427, 1
+1, bar, 0.589806, 2
+1, WORST service, 0.559273, 2
+1, drinks, 0.974979, 3
+1, video poker, 0.928216, 3
+1, Vegas, 0.431888, 4
+1, floor manager, 0.837072, 5
+1, max bet, 0.927384, 6
+1, espresso martinis, 0.566296, 6
+1, Josh, 0.894661, 7
+1, Sky Suite, 0.512893, 7
+1, Good thing, 0.525185, 8
+1, statements, 0.265659, 8
+2, TGI Fridays, 0.75684, 0
+2, closest bar, 0.586633, 0
+2, place, 0.312373, 2
+2, end Vegas hotel, 0.870859, 3
+2, high end mixology, 0.917267, 6
+2, service, 0.276082, 6
+4, Las Vegas, 0.971421, 0
+4, Aria channel, 0.848464, 0
+4, madness weekend, 0.66772, 1
+4, waitress, 0.467939, 1
+4, drinks, 0.529835, 2
+4, bit, 0.452, 2
+4, longest back story, 0.724026, 3
+4, elevator banks, 0.716609, 3
+4, bucket, 0.623476, 5
+4, orders, 0.51247, 5
+4, decent place, 0.984626, 6
+4, snack mix whisk, 0.902343, 6
+4, Blue Moon, 0.663083, 7
+4, friends/family, 0.472643, 7
+4, Kentucky football game, 0.883835, 8
+4, TVs, 0.454279, 8
+4, Aria casino, 0.773241, 9
+4, great deal, 0.658099, 9

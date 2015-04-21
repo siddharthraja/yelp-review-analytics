@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, tacos carne asada, 0.553651, 0
+1, Mexican inspired restaurant, 0.423742, 0
+1, Roberts tacos, 0.533981, 1
+1, Shrimp tacos, 0.504745, 1
+1, DOZEN STREET TACOS, 0.56913, 2
+1, experience Mexican Food, 0.4653, 2
+1, chicken tacos, 0.499324, 3
+1, service, 0.47691, 3
+1, tacos, 0.961928, 4
+1, food, 0.785083, 4
+1, mexican food, 0.513038, 5
+1, Las Vegas, 0.499675, 5
+1, swordfish tacos, 0.590648, 6
+1, small tacos, 0.554714, 6
+1, better tacos, 0.527806, 7
+1, lovely wife, 0.443372, 7
+1, fresh Mexican food, 0.474784, 8
+1, steak w/ slaw, 0.415779, 8
+2, mini size tacos, 0.533967, 0
+2, famous fish tacos, 0.532219, 0
+2, flavorless tacos, 0.483202, 2
+2, Pretentious Mexican food, 0.424644, 2
+2, pastor tacos, 0.53176, 3
+2, different tacos, 0.492025, 3
+2, food, 0.818664, 4
+2, carne asada tacos, 0.632589, 4
+2, tacos, 0.931012, 5
+2, carne tacos, 0.679448, 5
+2, red rock, 0.697035, 6
+2, fish tacos, 0.619932, 6
+2, chicken tacos, 0.583719, 7
+2, good tacos, 0.51368, 7
+2, tiny chicken tacos, 0.540922, 8
+2, street tacos, 0.493649, 8
+2, mexican restaurant, 0.414197, 9
+3, Tacos el Gordo, 0.63742, 0
+3, pancita tacos, 0.62265, 0
+3, Mahi Mahi tacos, 0.675808, 1
+3, expensive tacos, 0.620184, 1
+3, habanero salsa, 0.550509, 2
+3, average mexican food, 0.526417, 2
+3, street tacos, 0.660811, 3
+3, gourmet street tacos, 0.636817, 3
+3, tacos, 0.903521, 4
+3, mexican food, 0.557489, 4
+3, food, 0.759844, 5
+3, menu, 0.59397, 5
+3, red rock, 0.718397, 6
+3, asada tacos, 0.685002, 6
+3, carne tacos, 0.773411, 7
+3, Red Rock Casino, 0.631603, 7
+3, fried mahi mahi, 0.526603, 8
+3, Mexican cocktail menu, 0.515991, 8
+3, new mexican restaurant, 0.558198, 9
+4, small street tacos, 0.623239, 0
+4, ongo veggie tacos, 0.610976, 0
+4, AYCE TACOS, 0.532978, 2
+4, dollar tacos, 0.544886, 3
+4, mexican food, 0.498178, 4
+4, service, 0.483428, 4
+4, tacos, 0.926777, 5
+4, food, 0.803738, 5
+4, fish tacos, 0.707338, 6
+4, carne tacos, 0.706447, 6
+4, pastor tacos, 0.772323, 7
+4, carne asada tacos, 0.757564, 7
+4, friends ordered tacos, 0.613703, 8
+4, signature fish tacos, 0.612806, 8
+5, beef tacos, 0.481311, 0
+5, lamb tacos, 0.451987, 0
+5, mushroom tacos, 0.538699, 3
+5, cheap tacos, 0.479531, 3
+5, Mexican food, 0.54331, 4
+5, tacos, 0.90413, 5
+5, food, 0.674174, 5
+5, fish tacos, 0.716557, 6
+5, pancita tacos, 0.608166, 6
+5, pork belly tacos, 0.572832, 7
+5, happy hour tacos, 0.533646, 7
+5, shrimp tacos, 0.580715, 8
+5, great tacos, 0.545827, 8
+5, delicious Great food, 0.365124, 9
+5, amazing food, 0.346779, 9

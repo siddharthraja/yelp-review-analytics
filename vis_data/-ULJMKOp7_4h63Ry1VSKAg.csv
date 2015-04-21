@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+1, mediocre chicken wings, 0.815237, 0
+1, gross pizza, 0.730131, 0
+1, piss poor service, 0.843521, 1
+1, pizza doe, 0.745784, 1
+1, pizza, 0.989772, 2
+1, miller lite, 0.939195, 2
+1, little sister, 0.648279, 3
+1, Friday night, 0.57037, 3
+1, half our appetizers, 0.645987, 6
+1, sisters salad, 0.616749, 6
+1, entrees, 0.462605, 7
+1, waters, 0.358738, 7
+1, orders, 0.35641, 8
+4, tough reviews, 0.402693, 0
+4, to-go cup, 0.397473, 1
+4, pizza joints, 0.578078, 2
+4, pizza places, 0.562691, 6
+4, Prompt service, 0.46512, 7
+4, pizza lunch deal, 0.924948, 8
+4, Good pizza, 0.835011, 9
+4, friendly service, 0.300128, 9

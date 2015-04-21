@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+3, Cool little place, 0.908912, 0
+3, attention, 0.465447, 0
+3, surface parking, 0.66102, 1
+3, breeze, 0.460527, 1
+3, bad place, 0.632088, 2
+3, mistake, 0.487462, 2
+3, grill, 0.552561, 6
+3, bar, 0.496018, 6
+3, daily specials, 0.67129, 7
+3, beer, 0.494381, 7
+3, Decent craft brew, 0.903573, 9
+3, decent menu, 0.714143, 9
+4, best bar food, 0.831064, 0
+4, Nella Pils, 0.70616, 0
+4, GOOD place, 0.705601, 1
+4, hardest time, 0.69042, 1
+4, Sankey  meltdown, 0.711617, 2
+4, brat, 0.540835, 2
+4, ) Dip., 0.909009, 3
+4, Jalapeño pale ale, 0.834631, 3
+4, Thai chicken sandwich, 0.884412, 6
+4, lunch special, 0.718962, 6
+4, chicken Philly cheesesteak, 0.93013, 7
+4, cool little spot, 0.861873, 7
+4, bottled craft beers, 0.879109, 8
+4, Pretty good bar, 0.856048, 8
+4, craft beers, 0.882902, 9
+4, Sankey sandwich, 0.735368, 9
+5, chili, 0.332524, 0
+5, Chicken sandwich, 0.58143, 3
+5, taprooms, 0.317888, 4
+5, awesome food, 0.632567, 6
+5, cheesesteak, 0.327016, 6
+5, excellent food trucks, 0.910333, 7
+5, Great customer service, 0.823764, 7
+5, place, 0.367651, 8
+5, Damn good burgers, 0.887291, 9
+5, best local craft, 0.886599, 9

@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+3, main university area, 0.851943, 0
+3, Pleasance Theatre, 0.658742, 0
+3, student union bars, 0.933398, 3
+3, exam lunch, 0.629905, 6
+3, group, 0.345483, 6
+3, great fajitas, 0.655545, 7
+3, nachos, 0.420522, 7
+3, Teviot counterpart, 0.797393, 8
+4, Pleasance bar, 0.770299, 0
+4, Pleasance buildings, 0.738321, 0
+4, real downside, 0.425478, 1
+4, busy times, 0.407245, 1
+4, student bar, 0.578379, 2
+4, unique character, 0.451207, 2
+4, student pub quiz, 0.964541, 3
+4, student union bars, 0.683351, 3
+4, biggest draw, 0.459254, 4
+4, Monday night, 0.420933, 4
+4, student union food, 0.633178, 7
+4, large project groups, 0.622343, 7
+4, warmer times, 0.435776, 8
+4, brilliant questions, 0.422801, 8

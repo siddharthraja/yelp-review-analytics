@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+1, security guard grab, 0.956619, 0
+1, worst management, 0.614703, 0
+1, place, 0.292657, 1
+4, Joint music venue, 0.697872, 0
+4, Live concert venue, 0.697336, 0
+4, music venue, 0.767546, 1
+4, Hard Rock Café, 0.757542, 1
+4, Hard Rock Live, 0.869801, 2
+4, sound/strip view/good bar, 0.650875, 2
+4, ticket counter, 0.57791, 3
+4, Hard Rock, 0.925445, 4
+4, outdoor balcony, 0.643618, 4
+4, floor, 0.617515, 5
+4, Hard Rock Cafe, 0.71046, 6
+4, classic Hard Rock, 0.650554, 6
+4, nice little stage, 0.631202, 7
+4, Friendly security guards, 0.619795, 7
+4, Great room, 0.586143, 8
+4, important thing, 0.57523, 8
+4, cool rock, 0.578403, 9
+4, music type, 0.57601, 9
+5, Hard Rock Live, 0.608711, 0
+5, MGM Grand self-parking, 0.537527, 0
+5, Drink prices, 0.336796, 1
+5, Minus The Bear, 0.364414, 2
+5, bad view, 0.359377, 3
+5, Large bar, 0.319114, 3
+5, Living Colour, 0.518354, 6
+5, stellar sets, 0.379213, 6
+5, Hard Rock Café, 0.937718, 7
+5, Las Vegas Boulevard, 0.627582, 7
+5, pitch-perfect acoustics, 0.37587, 8
+5, small stage, 0.369344, 8
+5, intimate setting, 0.408208, 9
+5, great layout, 0.354985, 9

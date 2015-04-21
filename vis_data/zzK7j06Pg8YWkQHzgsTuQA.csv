@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+3, pizza dough items, 0.759396, 0
+3, pork Calzone type, 0.71918, 0
+3, typical bar food, 0.599519, 1
+3, Thursday night, 0.430351, 1
+3, bar food, 0.868677, 2
+3, BBQ sauce, 0.739724, 2
+3, better bar food, 0.651797, 3
+3, casual drinks, 0.42418, 3
+3, festivus beer, 0.430607, 6
+3, beer selection, 0.369698, 6
+3, BBQ pork nachos, 0.997852, 7
+3, cheese pizza, 0.557654, 7
+4, decent options, 0.687109, 0
+4, late-night options, 0.586289, 0
+4, Turkey Ranch Sandwich, 0.926732, 1
+4, Blind Pig, 0.537613, 1
+4, decent meal, 0.679005, 2
+4, drunk food, 0.514931, 2
+4, thicker cut, 0.57214, 3
+4, better craft beer, 0.793008, 6
+4, late dinner, 0.930719, 7
+4, intriguing menu, 0.52423, 7
+4, place, 0.24604, 8
+5, weekend door guy, 0.874848, 0
+5, bar manager, 0.7981, 0
+5, cheap beer specials, 0.876507, 1
+5, college aged drinkers, 0.867136, 1
+5, poor college wallet, 0.841785, 2
+5, bar space, 0.779969, 2
+5, killer pub grub, 0.90731, 3
+5, late night bite, 0.867368, 3
+5, place, 0.813912, 4
+5, cool paint scheme, 0.873711, 6
+5, service industry hotspot, 0.853999, 6
+5, awesome bar food, 0.918896, 7
+5, great bar, 0.787308, 7
+5, good beer selection, 0.858591, 8
+5, Awesome specials, 0.754336, 8
+5, favorite place, 0.786608, 9
+5, Incredible bartenders, 0.772414, 9

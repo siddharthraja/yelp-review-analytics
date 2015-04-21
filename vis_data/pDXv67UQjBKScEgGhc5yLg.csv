@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, customer service, 0.757645, 0
+1, Horrible horrible place, 0.70406, 0
+1, food, 0.689994, 1
+1, long time, 0.659755, 1
+1, tap lines, 0.719133, 2
+1, onion rings, 0.664956, 2
+1, sweet peppers, 0.64572, 3
+1, Hop Knot IPA, 0.644665, 3
+1, place, 0.907622, 4
+1, sports bar, 0.84963, 4
+1, Catch, 0.681883, 5
+1, drinks, 0.673766, 5
+1, blue cheese, 0.729776, 6
+1, Friday night, 0.677625, 6
+1, great sports bar, 0.671795, 7
+1, Deep fried mushrooms, 0.666858, 7
+1, Great place, 0.6146, 8
+1, love Catch, 0.606976, 8
+2, favorite sports bar, 0.752761, 0
+2, PPV UFC fights, 0.751149, 0
+2, Pats game, 0.80139, 1
+2, local sports bar, 0.758393, 1
+2, sports bar, 0.933963, 2
+2, bad past experiences, 0.74819, 2
+2, typical sports bar, 0.787487, 3
+2, better Chain sports, 0.770498, 3
+2, food, 0.924525, 4
+2, time, 0.760059, 4
+2, place, 0.879786, 5
+2, college football, 0.748092, 5
+2, great service, 0.746244, 6
+2, new owner, 0.745737, 6
+2, sweet potato fries, 0.727738, 7
+2, good deal, 0.693147, 7
+2, N. Phoenix chamber, 0.740278, 8
+3, final NAU classes, 0.522289, 0
+3, Angry Orchard Cider, 0.510152, 0
+3, bad meal, 0.562129, 1
+3, hot wings, 0.445056, 1
+3, decent bar food, 0.664998, 2
+3, fried cheese curds, 0.545053, 2
+3, bar type food, 0.603082, 3
+3, Cool sports bar, 0.567161, 3
+3, sports bar, 0.90918, 5
+3, typical sports bar, 0.732098, 5
+3, official UFC pay, 0.541199, 6
+3, A-OK place, 0.456366, 6
+3, decent run-o-the-mill bar/grill, 0.552963, 7
+3, live music, 0.550165, 7
+3, pretty good crowd, 0.649501, 8
+3, North Phoenix, 0.559407, 8
+3, pretty spacious place, 0.631106, 9
+3, draft beer selection, 0.528745, 9
+4, pretty decent sports, 0.699407, 0
+4, sports bar atmosphere, 0.668903, 0
+4, good fish tacos, 0.686936, 1
+4, bad fish tacos, 0.636936, 1
+4, family-friendly sports bar, 0.688119, 2
+4, great beer specials, 0.685648, 2
+4, bar food, 0.732187, 3
+4, fish tacos, 0.694933, 3
+4, sports bar, 0.920519, 5
+4, game, 0.67546, 5
+4, food, 0.766447, 6
+4, Great Eight game, 0.642676, 6
+4, pretty good deal, 0.698812, 7
+4, great neighborhood bar, 0.697675, 7
+4, great place, 0.734488, 8
+4, happy hour menu, 0.696025, 8
+4, Great chill place, 0.672244, 9
+4, live music, 0.627469, 9
+5, Hate sticky menus, 0.700685, 0
+5, Perfect place, 0.646914, 0
+5, Monday evening, 0.620429, 2
+5, sports bar, 0.862789, 4
+5, place, 0.735111, 4
+5, Great sports bar, 0.798703, 6
+5, new owner, 0.745476, 6
+5, prime rib sliders, 0.928276, 7
+5, Live music, 0.74199, 7
+5, great food, 0.843968, 8
+5, great food specials, 0.771335, 8
+5, good local bands, 0.74996, 9
+5, place bartenders ROCK, 0.727969, 9

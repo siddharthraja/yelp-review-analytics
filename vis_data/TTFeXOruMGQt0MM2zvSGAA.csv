@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+2, Jenny-Jelly Shooter, 0.63519, 0
+2, bar staff, 0.632829, 0
+2, Sports Bar Boredom, 0.821623, 1
+2, Little tvs, 0.628517, 1
+2, sports bar, 0.922451, 2
+2, little bit lairy, 0.753791, 2
+2, cheap drink, 0.870605, 3
+2, cheap vodka chaser, 0.82972, 3
+2, nice crowd, 0.615866, 6
+2, middle layer, 0.614537, 6
+2, sickly sweet liquid, 0.848942, 7
+2, good things, 0.615522, 7
+2, compliment sandwich, 0.642004, 8
+2, right occasion, 0.588681, 8
+3, American sports bars, 0.914284, 0
+3, decent dive bar, 0.858276, 0
+3, slow night, 0.569507, 1
+3, conversation, 0.276342, 1
+3, good sports bar, 0.867862, 2
+3, rambunctious cheering, 0.762683, 2
+3, one-man team, 0.675641, 3
+3, pub trivia, 0.654046, 3
+3, young backpacker, 0.592704, 6
+3, best time, 0.583487, 6
+3, sports-bar vibe, 0.70724, 7
+4, Guilty pleasures, 0.621738, 0
+4, quiz nights, 0.573718, 0
+4, fact, 0.345526, 1
+4, place, 0.345399, 1
+4, cheap drinks, 0.629063, 2
+4, one-stop locale, 0.602475, 2
+4, bombs, 0.35905, 3
+4, result, 0.34421, 3
+4, Globe, 0.51907, 4
+4, fancy cocktail-like drinks, 0.909357, 6
+4, pub crawl, 0.854771, 6
+4, great little bar, 0.873687, 7
+4, cheaper drinks, 0.71211, 7
+4, staff, 0.396955, 8
+5, sports tv, 0.948834, 1
+5, Saturday, 0.753597, 1
+5, Great Bar, 0.904105, 6

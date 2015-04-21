@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, crappy service, 0.694425, 0
+1, party members, 0.665929, 0
+1, service dog, 0.801861, 1
+1, real life, 0.673379, 1
+1, cup. new guy, 0.780186, 2
+1, old friends, 0.659445, 2
+1, negative Yelp review, 0.879877, 3
+1, bartender, 0.59309, 3
+1, sourdough burger, 0.98956, 5
+1, sourdough bread, 0.749164, 7
+1, grilled onions, 0.689509, 7
+2, Im sure theres, 0.920102, 0
+2, supper club, 0.700499, 0
+2, regulars, 0.440869, 3
+2, fool, 0.416494, 3
+3, Sierra Nevada, 0.713515, 0
+3, Arizona Lotteries, 0.698162, 0
+3, Angry service, 0.71361, 2
+3, training games, 0.698498, 2
+3, sports bar, 0.878219, 3
+3, Guinness last visit, 0.714477, 3
+3, place, 0.791894, 5
+3, chicken tenders, 0.698685, 6
+3, original review, 0.69764, 6
+3, beer selection, 0.96318, 7
+3, decent menu, 0.715969, 7
+3, spring training game, 0.93865, 8
+3, fairly good beer, 0.905078, 8
+3, Marriott Hotel, 0.721411, 9
+3, Downtown Mesa, 0.682196, 9
+4, average bar food, 0.813107, 0
+4, drink prices, 0.526832, 0
+4, drink selection, 0.499894, 3
+4, unbutton ur pants, 0.903925, 6
+4, finish ur, 0.610915, 6
+4, large flat screens, 0.800895, 7
+4, multiple college/NFL games, 0.754727, 7
+4, crispy, 0.224037, 8
+5, hockey game, 0.500389, 0
+5, Diamond, 0.340908, 0
+5, Bartenders, 0.367938, 1
+5, drink, 0.35218, 1
+5, friday fish fry, 0.947394, 6
+5, cleanest, 0.382258, 6
+5, good service, 0.665306, 7
+5, place, 0.423561, 7
+5, classic burger, 0.557539, 8
+5, Great food, 0.523321, 8
+5, courteous waitresses, 0.588053, 9
+5, nice atmosphere, 0.540687, 9

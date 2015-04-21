@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, San Jose-esque crowd, 0.756181, 0
+1, single white male, 0.751711, 0
+1, Totally racist people, 0.749953, 1
+1, terrible attitude problem, 0.733049, 1
+1, cover, 0.742112, 2
+1, invader zim backpack, 0.730269, 2
+1, right eye, 0.774111, 3
+1, liquor selection blows, 0.739724, 3
+1, place, 0.971106, 4
+1, time, 0.792911, 4
+1, self respecting women, 0.753649, 6
+1, right eye trouble, 0.734582, 6
+1, free drink tickets, 0.757172, 7
+1, radio station DJ, 0.715615, 7
+1, great night, 0.68195, 8
+1, hahahahahahaha. hahah. ha, 0.752228, 9
+2, go-go dancers, 0.810886, 0
+2, Virginia Tech, 0.793448, 0
+2, best place, 0.707056, 1
+2, women, 0.390065, 1
+2, massive stage, 0.800136, 2
+2, congested floor, 0.729103, 2
+2, main dance floor, 0.989185, 3
+2, place, 0.798968, 3
+2, cover, 0.597331, 4
+2, elbows, 0.412748, 4
+2, creepy guys, 0.790803, 6
+2, elbow fest, 0.786914, 6
+2, cleanliness, 0.411437, 7
+2, service, 0.383468, 7
+3, Ave promoter, 0.739835, 0
+3, radio DJ, 0.719556, 0
+3, peddler, 0.480751, 1
+3, bars, 0.454602, 1
+3, little upkeep, 0.703675, 2
+3, Totally. fucking., 0.700877, 2
+3, bad thing, 0.721746, 3
+3, club standards, 0.677132, 3
+3, Saturday night, 0.945329, 5
+3, different color decor, 0.937302, 6
+3, bottle, 0.5284, 6
+3, Strawberry Andre, 0.699006, 7
+3, place, 0.602392, 7
+3, Sunday night, 0.682685, 8
+3, drinks, 0.543367, 8
+3, hearty laugh, 0.75363, 9
+4, Gringos, 0.330676, 0
+4, strippers, 0.301277, 0
+4, old town Scottsdale, 0.926235, 3
+4, bad place, 0.575111, 3
+4, small dance floors, 0.871331, 6
+4, great asset, 0.608529, 6
+4, great hip hop, 0.898078, 7
+4, shit EDM, 0.620171, 7
+4, Great service, 0.626095, 8
+4, stars, 0.272273, 8

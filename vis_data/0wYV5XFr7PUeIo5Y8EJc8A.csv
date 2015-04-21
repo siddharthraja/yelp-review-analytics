@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+4, heavy-handed political overtone, 0.985054, 0
+4, late night date, 0.884677, 0
+4, little bit, 0.62331, 1
+4, snob, 0.389263, 1
+4, embarrassing, 0.383284, 2
+4, establishment, 0.362383, 2
+4, little more subtlety, 0.661703, 3
+4, graduate school, 0.635066, 3
+4, place, 0.480832, 5
+4, People, 0.416172, 5
+4, poetry slam, 0.619517, 6
+4, ways, 0.360776, 6
+4, freestyle gravitate, 0.613375, 7
+4, great time, 0.608785, 7
+4, Friendly crowd, 0.649468, 8
+4, pleasant surprise, 0.645256, 8
+4, NoDa sisters, 0.702773, 9
+4, flavor, 0.376718, 9
+5, Improv Charlotte, 0.77162, 0
+5, stairs, 0.291075, 0
+5, dead giveaway, 0.664175, 3
+5, Upstage, 0.334095, 3
+5, super secret thing, 0.938516, 6
+5, feels, 0.279346, 6

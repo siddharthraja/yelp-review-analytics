@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+2, cocktail waiters, 0.916411, 0
+2, cocktail waitress, 0.885739, 0
+2, terrible servers, 0.788356, 1
+2, realy nice place, 0.975212, 3
+2, shame, 0.365122, 3
+3, customer service, 0.839637, 0
+3, bad customer service, 0.828192, 0
+3, thing, 0.4505, 1
+3, reflection, 0.36779, 1
+3, bigger picture, 0.663591, 2
+3, lounge chairs, 0.646769, 2
+3, casino floor, 0.920497, 3
+3, bar, 0.798155, 3
+3, couple more friends, 0.628035, 6
+3, high school, 0.61678, 6
+3, widescreen spread, 0.659861, 7
+3, high end, 0.631165, 7
+3, pillows, 0.362406, 8
+4, nice long pours, 0.980055, 0
+4, corner area sofas, 0.94094, 0
+4, big bar, 0.716745, 2
+4, food service, 0.692741, 2
+4, wonder, 0.451736, 3
+4, group, 0.451559, 3
+4, centrally located bar, 0.933571, 6
+4, drink service, 0.68653, 6
+4, favorite drinks, 0.724469, 7
+4, somebody, 0.528353, 7
+4, good look, 0.712425, 8
+4, ur peoples, 0.704834, 8
+4, great lookout spot, 0.948392, 9
+4, Cocktail servers, 0.736797, 9
+5, old school tunes, 0.87709, 0
+5, strip bars, 0.73508, 0
+5, Hell, 0.5217, 1
+5, girlfriend, 0.468513, 1
+5, way, 0.487064, 2
+5, kids, 0.44908, 2
+5, Vegas strip vibe, 0.928123, 3
+5, Lol, 0.569306, 6
+5, drinks, 0.533923, 6
+5, current DJ tunes, 0.898004, 7
+5, superior service, 0.705355, 7
+5, GROWN FOLKS, 0.665804, 8
+5, place, 0.609622, 8
+5, hidden gem, 0.729849, 9
+5, desert, 0.457635, 9

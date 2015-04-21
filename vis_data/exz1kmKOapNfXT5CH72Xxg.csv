@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+2, grilled chicken sandwiches, 0.775543, 0
+2, large group, 0.437646, 0
+2, greasy mess, 0.581462, 1
+2, bar tenders, 0.411441, 1
+2, taste buds, 0.473309, 2
+2, better bars, 0.430909, 2
+2, bar food, 0.419325, 3
+2, Cupka, 0.252534, 3
+2, food, 0.902686, 5
+2, order, 0.214445, 5
+2, deep fried chicken, 0.754686, 6
+2, plate taste, 0.455525, 6
+2, honey mustard, 0.474602, 7
+2, favorite things, 0.459885, 7
+2, not-so fresh frozen, 0.715545, 8
+2, cole slaw, 0.498451, 8
+3, bad atmosphere, 0.912602, 0
+3, Mayo, 0.583463, 0
+3, Cinco, 0.742328, 2
+3, bar, 0.458194, 2
+3, room, 0.463414, 3
+4, playoff revelry, 0.710598, 0
+4, FIFTY-NINE CENTS, 0.708625, 0
+4, nice doorman, 0.709134, 1
+4, embarrassing number, 0.693412, 1
+4, low expectations, 0.704528, 2
+4, Cupka, 0.572294, 2
+4, spicy bbq, 0.726634, 3
+4, dear own Steelers, 0.713731, 3
+4, chips, 0.55635, 4
+4, Grilled Chicken Sandwich, 0.909557, 6
+4, drinks, 0.755457, 6
+4, bucket special, 0.696, 7
+4, delicious sandwiches, 0.692987, 7
+4, Jonathan D., 0.889233, 8
+4, Best Fish Sandwich, 0.874533, 8
+4, nice older crowd, 0.831698, 9
+4, speedy service, 0.697473, 9

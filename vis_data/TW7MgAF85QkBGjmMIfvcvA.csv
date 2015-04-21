@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, arrival, 0.341899, 0
+1, capacity, 0.320977, 0
+1, repeat, 0.333962, 1
+1, WTF, 0.312881, 1
+1, place, 0.630112, 2
+1, reasons, 0.293048, 2
+1, small venue, 0.965501, 3
+1, solitary couch, 0.936861, 3
+1, favorite records, 0.849685, 6
+1, Thanks, 0.314767, 6
+1, reminder, 0.321218, 7
+1, bands, 0.285244, 7
+2, Helio Sequence, 0.830885, 0
+2, sound engineer, 0.773388, 0
+2, isolated incident, 0.786871, 1
+2, drinks, 0.616995, 1
+2, port o potty, 0.812584, 2
+2, main complaint, 0.782755, 2
+2, band, 0.803678, 3
+2, mixed bag, 0.800943, 3
+2, tad bit, 0.828351, 4
+2, security, 0.560601, 4
+2, sound quality, 0.790944, 6
+2, better time, 0.749946, 6
+2, door staff, 0.780893, 7
+2, moved people, 0.775527, 7
+2, decent live music, 0.985215, 8
+2, Great bartenders, 0.863797, 8
+2, Rhythm Room, 0.772401, 9
+3, stoner rock band, 0.938997, 0
+3, small crowd, 0.8054, 0
+3, novelty punk band, 0.949861, 1
+3, little strip mall, 0.925006, 1
+3, little watery, 0.792365, 2
+3, billiards, 0.634912, 2
+3, Saw James Durbin, 0.980408, 3
+3, Zen Lunatics, 0.789239, 3
+3, Cool small venue/Bar, 0.996002, 7
+3, good sized crowd, 0.924678, 7
+3, west-valley-dive-bar type, 0.790378, 8
+3, clientele, 0.634255, 8
+4, City Chiefs bar, 0.778918, 0
+4, big screen TVs, 0.751374, 0
+4, bar area, 0.646295, 1
+4, Low key, 0.655119, 2
+4, odd venue, 0.65077, 2
+4, strip mall, 0.936727, 3
+4, -Enjoy Previously Chasers, 0.76335, 4
+4, local music scene, 0.780553, 6
+4, crazy good price, 0.766949, 6
+4, nice foosball table, 0.820177, 7
+4, good seating area, 0.800706, 7
+4, place, 0.755448, 8
+4, Great venue, 0.70406, 8
+4, smaller sized band, 0.753403, 9
+4, nice place, 0.701623, 9
+5, spot, 0.395661, 1
+5, suitable drink prices, 0.993744, 7
+5, Brown bag shots, 0.902873, 7
+5, Great, 0.354183, 8

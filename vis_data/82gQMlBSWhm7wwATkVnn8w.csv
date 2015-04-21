@@ -1,0 +1,16 @@
+rating, keyword, relevance, bucket
+1, Horrible service, 0.905485, 0
+4, dudes, 0.398655, 0
+4, bit, 0.345079, 0
+4, taxi line, 0.942871, 1
+4, Dennis Miller, 0.915063, 1
+4, club, 0.439025, 2
+4, unisex restroom, 0.900132, 3
+4, cover charge, 0.877921, 3
+4, thing, 0.48923, 4
+4, place, 0.468373, 4
+4, lap dances, 0.832592, 6
+4, cocktails, 0.388138, 9
+4, Decor, 0.358889, 9
+5, loyalty card, 0.910683, 9
+5, mountain love, 0.798663, 9

@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, double helix, 0.914902, 0
+1, double Helix bar, 0.726993, 0
+1, Mr Nisi, 0.761421, 1
+1, unappropriate insaulting behaviour, 0.703899, 1
+1, couple dollar bills, 0.723806, 2
+1, rude bartender, 0.610694, 2
+1, couple ice cubes, 0.735494, 3
+1, bartender, 0.727489, 3
+1, positive answer, 0.545797, 6
+1, way, 0.43828, 6
+2, enigmatic cheese plate, 0.88944, 0
+2, public wine drinking, 0.82071, 0
+2, designer crap dookie, 0.812793, 1
+2, French-manicured zombie consumers, 0.790107, 1
+2, overpriced wine shop, 0.814258, 2
+2, customer service, 0.761248, 2
+2, staff people, 0.651094, 3
+2, wine bar, 0.884492, 6
+2, feintly audible sighs, 0.788752, 6
+2, expensive kiddie pool, 0.807707, 7
+2, high-end shopping mall, 0.798878, 7
+2, cheese plate, 0.999946, 8
+2, successful wine bar, 0.80096, 8
+3, Helix Wine Bar, 0.580574, 0
+3, wine bars, 0.447331, 0
+3, Heix wine bar, 0.586645, 1
+3, Ed Hardy wines, 0.478769, 1
+3, inoffensive cheese plate., 0.481374, 2
+3, stemless globe glass, 0.465322, 2
+3, Chapoutier Cotes du, 0.468791, 3
+3, drunk bachelorette parties, 0.465977, 3
+3, way, 0.416517, 4
+3, wine, 0.956063, 5
+3, Double Helix, 0.906533, 5
+3, wine bar, 0.87739, 6
+3, good place, 0.558737, 6
+3, intimate wine bar, 0.556501, 7
+3, good wine selections, 0.541345, 7
+3, great place, 0.551325, 8
+3, big bar selection, 0.507979, 8
+3, unassuming wine bar, 0.553612, 9
+3, good wines, 0.494025, 9
+4, tiny wine bar, 0.481976, 0
+4, red wine flight, 0.465617, 0
+4, whiskey bar, 0.419718, 1
+4, nice quiet bar, 0.475864, 2
+4, nice little break, 0.43275, 2
+4, Palazzo shopping arcade, 0.442993, 3
+4, Non descript bar, 0.425487, 3
+4, double helix, 0.943868, 5
+4, wine bar, 0.786477, 5
+4, palazzo, 0.553752, 6
+4, little place, 0.499484, 6
+4, Helix Wine Bar, 0.603564, 7
+4, Double Helix Wine, 0.588242, 7
+4, Wine shop, 0.46308, 8
+4, Moscato sparkling wine, 0.460779, 8
+4, wine flight, 0.501409, 9
+4, palazzo shopping area, 0.477693, 9
+5, old song, 0.843206, 0
+5, flat-screen TVs, 0.842888, 0
+5, Wright Pinot Noir, 0.926609, 2
+5, killer deals, 0.818299, 2
+5, wine bar, 0.847915, 3
+5, retail boutique, 0.837048, 3
+5, Palazzo past Barneys, 0.998707, 6
+5, cushy seats, 0.844175, 6
+5, limited food menu, 0.937375, 7
+5, high-end shopping mall, 0.928601, 7
+5, Orin Swift Cellars, 0.953195, 8
+5, great place, 0.951605, 8
+5, Good wine selection, 0.947682, 9
+5, Las Vegas, 0.937683, 9

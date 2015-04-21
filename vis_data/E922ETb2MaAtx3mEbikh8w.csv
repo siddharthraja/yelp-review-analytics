@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+2, flute thimble thing, 0.910845, 0
+2, island bar, 0.744544, 0
+2, ground floor, 0.748008, 1
+2, movie star, 0.697121, 1
+2, souped-up Willy Wonka, 0.934586, 2
+2, unfortunate position, 0.736803, 2
+2, service, 0.570567, 4
+2, drinks menu, 0.739517, 6
+2, crooked zebra, 0.737029, 6
+2, summer cocktails, 0.732105, 7
+2, wide selection, 0.708547, 7
+2, Hotel Missoni Bar, 0.994509, 8
+2, wee treat, 0.75482, 8
+3, bit pricy, 0.785822, 0
+3, prices, 0.294133, 0
+3, shame, 0.348766, 1
+3, times, 0.30225, 1
+3, rasberry mule, 0.736433, 2
+3, nuts, 0.299528, 2
+3, multiple recommendations, 0.711357, 3
+3, different people, 0.709474, 3
+3, hotel bar, 0.905202, 6
+3, space age, 0.625763, 6
+3, toilets, 0.445947, 7
+3, Sarah-Jane, 0.338788, 7
+3, extensive cocktail menu, 0.928043, 8
+3, Great cocktails, 0.799123, 8
+4, swanky silver bar, 0.551429, 0
+4, low slung chairs, 0.487441, 0
+4, Missoni label, 0.701416, 2
+4, bright colours, 0.331089, 2
+4, Missoni, 0.90733, 4
+4, Hotel Missoni, 0.825578, 6
+4, Tom Dixon mirrorball, 0.531244, 6
+4, Bar Missoni, 0.675915, 7
+4, wine whilst, 0.339027, 7
+4, brilliant cocktail menu, 0.533872, 8
+4, pretty amazing building, 0.530118, 8
+5, feeling, 0.218525, 0
+5, decor, 0.208446, 0
+5, uniforms, 0.213029, 1
+5, bit, 0.211773, 1
+5, Missoni print kilt, 0.927912, 6
+5, folks Beautiful bar, 0.821375, 6
+5, hotel, 0.278775, 7
+5, cocktail, 0.212403, 7
+5, gorgeous space, 0.656145, 8
+5, overall experience, 0.597474, 8
+5, lovely bar, 0.616723, 9
+5, delicious drinks, 0.613722, 9

@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, laws bday, 0.652277, 0
+1, graveyard shift, 0.632647, 0
+1, bartender, 0.905402, 1
+1, Bartender Jeremy, 0.811158, 1
+1, credit card, 0.609096, 2
+1, wallet, 0.452021, 2
+1, ids, 0.523846, 3
+1, midnight, 0.45263, 3
+1, person, 0.504068, 6
+1, door, 0.504048, 6
+1, limes, 0.459742, 8
+3, everybody, 0.489219, 0
+3, bar, 0.384618, 2
+3, club card, 0.713033, 7
+3, kinda, 0.548786, 7
+3, happy hour roks, 0.942018, 9
+3, Great memories, 0.783195, 9
+4, local watering hole, 0.962202, 0
+4, drinks, 0.431956, 0
+4, Big Dogs, 0.717442, 3
+4, Nellis, 0.540116, 3
+4, Sunrise Manor, 0.782883, 8
+4, food, 0.360867, 8
+5, bar patrons, 0.563125, 0
+5, bomb, 0.273026, 0
+5, royal, 0.25693, 1
+5, dont serve food, 0.943556, 2
+5, stranger, 0.285327, 2
+5, job, 0.259331, 3
+5, pt, 0.385903, 4
+5, shift bartender Fatia, 0.928501, 6
+5, couch seating, 0.603685, 6
+5, good toke, 0.530264, 7
+5, cheesesteak, 0.32264, 7
+5, Broncos games, 0.61953, 8
+5, best Ive, 0.618042, 8
+5, Saturday night kareoke, 0.822132, 9
+5, Frosted mugs, 0.605843, 9

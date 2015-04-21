@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+2, vegetable cottage pie, 0.926541, 0
+2, fellow quester, 0.730185, 0
+2, complete rethink, 0.639841, 1
+2, service, 0.445109, 1
+2, main course, 0.911452, 2
+2, elements, 0.437629, 2
+2, single lowest score, 0.999205, 3
+2, Hamilton, 0.569836, 3
+2, starter, 0.382154, 6
+2, better places, 0.611092, 7
+2, drinks, 0.37946, 8
+3, small restaurant section, 0.845223, 0
+3, relatively inoffensive music, 0.840899, 0
+3, onion rings, 0.876728, 2
+3, eccentric weird person, 0.830018, 2
+3, entire beer menu, 0.839894, 3
+3, Busy bar, 0.820999, 3
+3, Friday night, 0.888244, 4
+3, bar, 0.88635, 4
+3, Hamilton, 0.919977, 5
+3, people, 0.819193, 5
+3, Smell good food, 0.874114, 6
+3, great regular bar, 0.845743, 6
+3, gluten free option, 0.934468, 7
+3, sweet potato wedges, 0.926315, 7
+3, Stockbridge, 0.894904, 8
+3, separate brunch menu, 0.852471, 8
+3, Stockbridge area, 0.857132, 9
+3, Sunday brunch gathering, 0.845174, 9
+4, pan fried chorizo, 0.847528, 0
+4, roast chicken dish, 0.838367, 0
+4, flaky white fish, 0.863779, 1
+4, alternative good eats, 0.877872, 2
+4, amazingly flaky fish, 0.85237, 2
+4, fabulous place Hamilton, 0.881103, 3
+4, Yelp Brunchy Munchy, 0.859543, 3
+4, cocktail menu, 0.839492, 4
+4, food, 0.873137, 5
+4, bar, 0.799522, 5
+4, Hamilton, 0.900873, 6
+4, good food, 0.867442, 6
+4, red wine, 0.902543, 7
+4, good friend William, 0.89641, 7
+4, good brunch experience, 0.885963, 8
+4, trendy wee bit, 0.867886, 8
+4, Yelp brunch action, 0.868304, 9
+4, chilled white wine, 0.851329, 9
+5, decent looking restaurants, 0.953569, 0
+5, office after-party folk, 0.921861, 0
+5, little squeeze, 0.938917, 2
+5, impulsive cats, 0.845614, 2
+5, Hamilton, 0.916017, 3
+5, good time, 0.85663, 3
+5, good wee bus, 0.923932, 6
+5, good friends, 0.844644, 6
+5, small town nightlife, 0.957597, 7
+5, Stornoway Black Pudding, 0.941223, 7
+5, best margaritas, 0.822382, 8
+5, good friend, 0.835759, 9

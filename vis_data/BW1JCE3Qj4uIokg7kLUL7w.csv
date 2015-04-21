@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, tomato bisque soup, 0.562728, 0
+1, Worst customer service, 0.550519, 0
+1, long wait, 0.540869, 1
+1, crappy attitude, 0.530367, 1
+1, pork belly, 0.51729, 2
+1, bright red shirt, 0.506031, 2
+1, service, 0.70044, 3
+1, Wolfgang Puck restaurant, 0.637934, 3
+1, blue cheese, 0.906791, 4
+1, soup, 0.590843, 4
+1, food, 0.859716, 5
+1, restaurant, 0.713609, 5
+1, manager, 0.808369, 6
+1, blue cheese potato, 0.644618, 6
+1, tasty cheaper food, 0.55869, 7
+1, carrot soup, 0.49836, 7
+1, Wolfgang Pucks restaurant, 0.555634, 8
+1, Super cute decor, 0.524036, 8
+1, good quality food, 0.587515, 9
+2, good sandwich head, 0.502705, 0
+2, pretty standard fare, 0.493204, 0
+2, wolfgang puck restaurant, 0.693479, 1
+2, Wolfgang Puck Bar, 0.551028, 1
+2, food snob, 0.485824, 2
+2, fried bone things, 0.481078, 2
+2, blue cheese, 0.559717, 3
+2, chicken, 0.514085, 3
+2, wolfgang puck, 0.929458, 4
+2, food, 0.790595, 4
+2, place, 0.568841, 5
+2, sausage pizza, 0.51202, 6
+2, Italian sausage pizza, 0.511823, 6
+2, crab cakes, 0.591515, 7
+2, caesar salad, 0.562391, 7
+2, adult Wolfgang Puck, 0.543567, 8
+2, world renowned chef, 0.528393, 8
+2, MGM Grand casino, 0.487145, 9
+3, Chicken Salad Sandwich, 0.517811, 0
+3, relatively good kickoff, 0.512425, 0
+3, humboldt fog cheese, 0.548543, 3
+3, strange. good service, 0.532878, 3
+3, food, 0.787513, 4
+3, salad, 0.722689, 4
+3, wolfgang puck, 0.963451, 5
+3, place, 0.625241, 5
+3, chicken salad, 0.649537, 6
+3, chinois chicken salad, 0.641597, 6
+3, potato chips, 0.693269, 7
+3, blue cheese, 0.636249, 7
+3, maytag blue cheese, 0.534828, 8
+3, good salad, 0.52011, 8
+3, good white wine, 0.513667, 9
+4, standard Wolfgang Puck, 0.610645, 0
+4, affordable Puck locations, 0.587534, 0
+4, wolfgang puck restaurant, 0.675097, 3
+4, puck restaurant def, 0.589702, 3
+4, chocolate souffle, 0.608878, 4
+4, organic chicken, 0.588422, 4
+4, MGM Grand, 0.772965, 5
+4, food, 0.74848, 5
+4, wolfgang puck, 0.933521, 6
+4, service, 0.669462, 6
+4, maytag blue cheese, 0.676085, 7
+4, crab cakes, 0.66188, 7
+4, Wolfgang Puck Bar, 0.778732, 8
+4, good food, 0.66581, 8
+4, Wolfgang Puck outlet, 0.615443, 9
+5, Wolfgang Puck installation, 0.417379, 0
+5, Delicious comfort food, 0.415602, 0
+5, food, 0.605732, 5
+5, Wolfgang Puck Bar, 0.514769, 5
+5, wolfgang puck, 0.903224, 6
+5, blue cheese, 0.734774, 6
+5, potato chips, 0.633409, 7
+5, maytag blue cheese, 0.531858, 7
+5, blue cheese sauce, 0.569726, 8
+5, bbq chicken pizza, 0.468015, 8
+5, hotel Great food, 0.408084, 9
+5, great hangover meal, 0.392126, 9

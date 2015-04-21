@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, Horrible drink prices, 0.920503, 0
+1, soda, 0.328968, 0
+1, glorified casino bar, 0.850043, 2
+1, nightclub prices, 0.505553, 2
+1, entertainment tax, 0.45574, 6
+1, mojito, 0.241216, 6
+2, Creepy guy, 0.676666, 0
+2, creepy older gentleman, 0.92559, 1
+2, service/drink speed, 0.632687, 1
+2, Drink prices, 0.606727, 2
+2, waitress, 0.571755, 2
+2, waitresses, 0.418994, 3
+2, drinks, 0.385172, 3
+2, 2-man cover band, 0.898031, 7
+2, fun place, 0.573904, 7
+3, Zebra Lounge, 0.711217, 0
+3, Palazzo, 0.481489, 0
+3, long drive, 0.672687, 4
+3, little afternoon pick, 0.860786, 6
+3, martini type drink, 0.913665, 7
+3, pretty light fixtures, 0.829583, 7
+3, Decor, 0.452137, 8
+3, nice server, 0.697045, 9
+3, menu, 0.444044, 9
+4, dance floor, 0.666, 0
+4, live shows, 0.600691, 0
+4, concerts, 0.538204, 1
+4, bigger touring artists, 0.682062, 2
+4, long ass prologue, 0.678551, 2
+4, Picture Pilot, 0.981087, 3
+4, Small Adventures, 0.698673, 3
+4, motherfucking Zebra Lounge, 0.845312, 4
+4, good live music, 0.664861, 6
+4, Zerba Lounge, 0.619711, 6
+4, alive iat night, 0.667862, 7
+4, fun spot, 0.663038, 7
+4, casino floor, 0.648434, 8
+4, free drinks, 0.597985, 8
+4, great place, 0.663809, 9
+4, awesome duo, 0.593012, 9
+5, Zebra Lounge, 0.650465, 0
+5, Great band, 0.540824, 0
+5, bit, 0.211207, 1
+5, headline entertainment act, 0.913141, 7
+5, interesting bantering, 0.638753, 7
+5, Las Vegas talent, 0.87181, 8
+5, Amazing talent, 0.678568, 9

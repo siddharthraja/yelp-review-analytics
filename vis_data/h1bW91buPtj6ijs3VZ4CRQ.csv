@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, work, 0.421648, 0
+1, night, 0.421454, 0
+1, end, 0.528813, 1
+1, Sat, 0.470502, 1
+1, bartender, 0.726491, 2
+1, door, 0.44307, 2
+1, fun bars, 0.917761, 3
+1, place, 0.533144, 3
+2, white haired man, 0.90629, 0
+2, Sad b/c, 0.775182, 0
+2, shame b/c, 0.676259, 1
+2, place b/c, 0.631525, 1
+2, normal chef wasnt, 0.881943, 2
+2, coule guys, 0.513413, 2
+2, times, 0.200673, 3
+2, new girl, 0.547388, 6
+2, Hint our ticket, 0.520456, 6
+3, DIVE bar, 0.68191, 0
+3, philly cheesesteaks, 0.676876, 0
+3, cheap liquor, 0.681463, 2
+3, constant smell, 0.676884, 2
+3, pretty terrible taste, 0.957928, 3
+3, UNLV students, 0.664429, 3
+3, regular barflies, 0.694441, 6
+3, generous portions, 0.652663, 6
+3, Sam Boyd stadium, 0.855061, 7
+3, chilli cheese fries, 0.849644, 7
+3, drinks, 0.446306, 8
+4, ping pong, 0.942412, 0
+4, basketball arcade-type machine, 0.849908, 0
+4, big TV, 0.700864, 1
+4, door prize, 0.687995, 1
+4, visible garbage disposals, 0.853041, 2
+4, football game, 0.680548, 2
+4, giant mug, 0.68914, 3
+4, red apple, 0.688464, 3
+4, video poker machines, 0.845965, 6
+4, Rebel Home Games, 0.831322, 6
+4, video poker, 0.90818, 7
+4, fun arcade games, 0.826863, 7
+4, nice local hangout, 0.886584, 8
+4, nice wine basket, 0.88189, 8

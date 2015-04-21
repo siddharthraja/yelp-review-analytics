@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, reguarly served food, 0.899801, 0
+1, Old Town Tortilla, 0.881918, 0
+1, waitress, 0.945361, 1
+1, soggy cold burger, 0.875364, 1
+1, highly unsuccessful attempt, 0.888559, 2
+1, California Pizza Kitchen, 0.854783, 2
+1, industrial type ceiling, 0.887899, 3
+1, Irish pub, 0.8804, 3
+1, place, 0.924267, 4
+1, food, 0.993803, 5
+1, BETTER SERVICE SKILLS, 0.863662, 6
+1, place dissapoints, 0.819992, 6
+1, authentic Irish food, 0.911584, 7
+1, Guiness Steak, 0.880234, 7
+1, ridiculously priced burger, 0.886517, 8
+1, corporate chain mentality, 0.873132, 8
+1, great job, 0.804587, 9
+2, tempe market place, 0.584561, 0
+2, Irish pub rock, 0.545289, 0
+2, so-called Irish pub, 0.578815, 1
+2, Irish miners/railroad workers, 0.514521, 1
+2, water glass test, 0.538525, 2
+2, sickly Irish child., 0.514219, 2
+2, D'Arcy McGees, 0.587578, 3
+2, bar, 0.576715, 3
+2, irish pub, 0.939685, 4
+2, d'arcy mcgee, 0.822273, 4
+2, place, 0.719389, 5
+2, tempe marketplace, 0.549752, 5
+2, goat cheese salad, 0.60384, 6
+2, traditional Irish pub, 0.579864, 6
+2, saturday night, 0.4854, 7
+2, Yorkshire pudding appetizer, 0.484659, 7
+3, late night menu, 0.613708, 0
+3, GOOD beer, 0.609045, 0
+3, Irish pub D'Arcy, 0.669427, 2
+3, bloody mary bar, 0.664093, 2
+3, Irish food, 0.602574, 3
+3, Irish beer, 0.5955, 3
+3, irish pub, 0.927455, 5
+3, service, 0.633138, 5
+3, Tempe Marketplace, 0.95349, 6
+3, Faun B., 0.633118, 6
+3, D'Arcy McGee, 0.744054, 7
+3, authentic Irish pub, 0.665603, 7
+3, decent sized space, 0.604626, 8
+3, reasonable drink prices, 0.596217, 8
+3, good food, 0.602735, 9
+4, great food wise, 0.891941, 0
+4, light wheat beer, 0.879991, 0
+4, fine Irish establishment, 0.862873, 1
+4, dark wood, 0.801962, 1
+4, past D'Arcy McGee, 0.885671, 3
+4, lovely young woman, 0.850459, 3
+4, D'Arcy McGee, 0.962982, 5
+4, service, 0.827002, 5
+4, Tempe Marketplace, 0.86338, 6
+4, Sweet potato fries, 0.858217, 6
+4, surprisingly good food, 0.916585, 7
+4, St. Patty, 0.884045, 7
+4, great meal option, 0.874114, 8
+4, best eating choices, 0.862405, 8
+4, yummy cheese dip, 0.854466, 9
+4, good conversationalist, 0.824773, 9
+5, pie filling/filo dough, 0.903349, 0
+5, french onion soup, 0.874842, 0
+5, average fried food, 0.928518, 2
+5, Irish women, 0.705691, 2
+5, joke, 0.536917, 3
+5, word, 0.540512, 6
+5, bacon, 0.537257, 6
+5, great lunch prices, 0.953992, 7
+5, savory sauce lettuce, 0.916728, 7
+5, secret LUNCH spot, 0.900692, 8
+5, Best thing, 0.752648, 8
+5, Octoberfest menu, 0.756764, 9
+5, food compliments, 0.748689, 9

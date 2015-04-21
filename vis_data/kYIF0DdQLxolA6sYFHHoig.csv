@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, Buffalo Wild Wings, 0.918638, 0
+1, JOB Buffalo Wild, 0.531999, 0
+1, horrible experiences, 0.581783, 1
+1, Super Bowl night, 0.524269, 1
+1, super bowl, 0.596678, 2
+1, original waitress, 0.421096, 2
+1, blue cheese, 0.818549, 3
+1, client event bury, 0.487983, 3
+1, DM phone number, 0.504056, 7
+1, early afternoon, 0.394711, 7
+1, wings deal, 0.482363, 8
+1, server Bruce, 0.368519, 8
+2, buffalo chicken sandwich, 0.71203, 0
+2, kids menu, 0.475841, 0
+2, actual celery stick, 0.769895, 1
+2, hot sauce, 0.466447, 1
+2, waitress, 0.58527, 2
+2, bigger piece, 0.467523, 2
+2, tables, 0.252936, 3
+2, section, 0.252896, 3
+2, corn dog bites, 0.685484, 4
+2, Buffalo Wild Wings, 0.96893, 6
+2, grilled chicken salad, 0.738114, 6
+2, chicken sandwich, 0.766637, 7
+2, care center, 0.439494, 7
+3, Drink specials, 0.630586, 0
+3, bathrooms, 0.37521, 0
+3, big snow event, 0.971296, 1
+3, Mild case, 0.694469, 1
+3, experience, 0.363582, 2
+3, review, 0.362256, 2
+3, drink order, 0.626792, 3
+3, wings, 0.562083, 3
+3, time, 0.395702, 5
+3, big B-Dubbs fan, 0.901305, 6
+3, wing special nights, 0.884801, 6
+3, new location, 0.937415, 7
+3, Typical BWW, 0.7085, 7
+4, real wing spot, 0.766556, 0
+4, Northlake area, 0.487776, 0
+4, mild wings, 0.652665, 1
+4, plain wings, 0.625447, 2
+4, Good wings, 0.721777, 3
+4, usual wait, 0.437721, 6
+4, Kelly, 0.23475, 6
+4, Asian Zing wings, 0.929912, 7
+4, seasoned lemon pepper, 0.730601, 7
+4, spicy garlic wings, 0.994782, 8
+4, jammin jalapeno, 0.520837, 8
+4, myriad televisions, 0.423437, 9
+4, news esp., 0.393907, 9
+5, similar food, 0.67197, 0
+5, Hound, 0.475291, 0
+5, kids, 0.450427, 3
+5, Panthers MNF game, 0.908092, 4
+5, steak wrap, 0.743198, 6
+5, entire crew, 0.730942, 6
+5, jalapeño poppers, 0.726058, 7
+5, meals, 0.466551, 7
+5, great experience, 0.700728, 8
+5, Vern, 0.491472, 8
+5, generous tip, 0.71229, 9
+5, big compliment, 0.702363, 9

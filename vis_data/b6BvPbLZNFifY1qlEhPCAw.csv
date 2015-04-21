@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, vegetarian risotto, 0.995123, 0
+2, cauliflower cheese, 0.935851, 0
+2, small worms, 0.895845, 1
+2, shame, 0.438097, 1
+2, drinks, 0.423606, 2
+2, portion sizes, 0.817409, 6
+2, big meat, 0.800027, 6
+2, curly kale, 0.903763, 7
+2, good cooks, 0.793591, 7
+2, good things, 0.902113, 8
+2, place, 0.428824, 8
+3, Eggs Irvine Welsh, 0.878851, 0
+3, retro arcade game, 0.878695, 0
+3, GF friendliness, 0.781381, 1
+3, bad points, 0.738334, 1
+3, tasty bourbons, 0.769157, 2
+3, limited choices, 0.723969, 2
+3, brunch menu, 0.77956, 3
+3, Mary Moriarty, 0.758458, 3
+3, Bourbon List, 0.844516, 4
+3, pinball machine, 0.819753, 4
+3, brioche bun, 0.96643, 6
+3, Damm GF beer, 0.893937, 6
+3, tacky tiara sums, 0.901814, 7
+3, GF friendly dishes, 0.873896, 7
+3, lovely brunch, 0.765474, 8
+3, wacky decoration, 0.750583, 8
+3, Perfectly satisfying food, 0.893577, 9
+3, brunchy situation, 0.739897, 9
+4, Eggs Irvine Welsh, 0.997259, 0
+4, benchmark Leith bar, 0.994166, 0
+4, pub grub affair, 0.938192, 1
+4, slight initial misstep, 0.928112, 1
+4, brunch roll thing, 0.945427, 2
+4, good local bars, 0.940749, 2
+4, big open bar, 0.960728, 3
+4, Beefeater chain thing, 0.934285, 3
+4, big dance space, 0.942676, 6
+4, lovely little chorizo, 0.942497, 6
+4, Leith destination bar, 0.990038, 7
+4, pretty nice menu, 0.951391, 7
+4, place, 0.957392, 8
+4, pretty good location, 0.934822, 8
+4, fantastic sunday lunch, 0.93084, 9
+4, nice place, 0.898809, 9
+5, massive Tudor mansions, 0.770548, 0
+5, picky English lady, 0.759727, 0
+5, couch, 0.53059, 2
+5, way, 0.526731, 2
+5, duke street, 0.938582, 3
+5, son, 0.54428, 3
+5, Duke St., 0.804993, 6
+5, traditional Stephanie style, 0.79301, 6
+5, terrifying turn, 0.671856, 7
+5, boyfriend, 0.575631, 7
+5, fantastic fantastic meal, 0.765507, 8
+5, fancy free water, 0.730523, 9
+5, cocktails, 0.528234, 9

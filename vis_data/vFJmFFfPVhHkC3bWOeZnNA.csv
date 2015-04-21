@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, diehard Packer fan, 0.989025, 0
+1, loyal business, 0.574232, 0
+1, DIE HARD Packer, 0.863287, 1
+1, worst customer services, 0.82306, 1
+1, loyal customer, 0.578042, 2
+1, waters, 0.335219, 2
+1, Casey Jones, 0.608462, 3
+1, hospitality, 0.266157, 6
+1, gentle feedback, 0.566781, 7
+1, experiences, 0.263784, 7
+1, waitress Marci, 0.638542, 8
+2, gentleman playing guitar, 0.927508, 0
+2, alright portions, 0.776304, 0
+2, wrong direction =/, 0.90139, 1
+2, Bad customer service, 0.883593, 1
+2, Dirty table, 0.808607, 2
+2, french dip, 0.80831, 2
+2, food, 0.842516, 3
+2, place, 0.792882, 3
+2, care, 0.685287, 4
+2, Queso appetizer, 0.820409, 6
+2, Juicy Lucy, 0.7922, 6
+2, green pork burrito, 0.926576, 7
+2, lunch special menu, 0.900237, 7
+2, pretty good lunch, 0.920581, 8
+2, sweet potato fries, 0.909772, 8
+2, people, 0.666304, 9
+3, air hockey table, 0.966154, 0
+3, old school track, 0.960579, 0
+3, Dive bar, 0.853564, 1
+3, real effect, 0.836691, 1
+3, Total Packer Bar, 0.973771, 2
+3, nearby place, 0.868877, 2
+3, HH prices, 0.866175, 3
+3, spectacular experience, 0.843521, 3
+3, bar games, 0.859956, 4
+3, Good Food Good, 0.962906, 6
+3, default Phoenix bar, 0.958214, 6
+3, couple pool tables, 0.960941, 7
+3, Casey Jones, 0.84289, 7
+3, pretty nice selection, 0.97501, 8
+3, happy hour prices, 0.869615, 8
+3, sweet potato fries, 0.964755, 9
+3, neighborhood strip bar, 0.95914, 9
+4, true Packer Bar, 0.745233, 0
+4, mouth watering wings, 0.742342, 0
+4, mexican food place, 0.828348, 1
+4, fresh hickory smoke, 0.728843, 1
+4, sports bar, 0.813694, 2
+4, dimly lit place, 0.768542, 2
+4, ...)., 0.844029, 3
+4, Mt Dew, 0.746096, 3
+4, bar, 0.861106, 4
+4, food, 0.96637, 5
+4, place, 0.902895, 5
+4, fried cheese curds, 0.858517, 6
+4, Green Bay Packers, 0.838528, 6
+4, cheese curds, 0.980085, 7
+4, Casey Jones, 0.894475, 7
+4, great place, 0.819327, 8
+4, Great local place, 0.785904, 8
+4, Great friendly place, 0.79296, 9
+4, local beer selection, 0.743904, 9
+5, sports bar experience, 0.709689, 0
+5, -Every Sports Channel, 0.703736, 0
+5, -GB Packers Bar, 0.729152, 1
+5, Bay packers bar, 0.69452, 2
+5, Packers fan, 0.658864, 2
+5, honey hot wings, 0.696043, 6
+5, fresh tortilla chips, 0.685589, 6
+5, Philly cheesesteak sandwiches, 0.722727, 7
+5, good size people, 0.717662, 7
+5, casey jones, 0.961635, 8
+5, great food, 0.790482, 8
+5, food good people, 0.720474, 9
+5, great staff, 0.716737, 9

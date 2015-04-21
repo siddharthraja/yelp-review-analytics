@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, human food, 0.926741, 0
+1, spinach artichoke dip, 0.891203, 0
+1, domestic bottled beer, 0.868327, 1
+1, frozen Costco appetizers, 0.86705, 1
+1, bar maid, 0.860224, 2
+1, service Scottsdale bar, 0.86019, 2
+1, place, 0.906147, 3
+1, valet ticket, 0.789785, 3
+1, Sunday night, 0.960308, 6
+1, cell phone keypad, 0.868616, 6
+1, professional customer service, 0.857502, 7
+1, free drinks, 0.800542, 7
+1, fine joke machine, 0.856836, 8
+1, pretty fabulous evening, 0.836372, 8
+1, Happy Hour menu, 0.792231, 9
+2, good food, 0.681964, 0
+2, fast food joint, 0.650428, 0
+2, Typical bar joint, 0.654331, 1
+2, Old Town economics, 0.652329, 1
+2, salad horribly salty, 0.665038, 2
+2, Town Scottsdale area, 0.655281, 2
+2, ole bar food, 0.689208, 3
+2, Old Town area, 0.658805, 3
+2, Old Town, 0.940941, 4
+2, bar, 0.801497, 4
+2, place, 0.714074, 5
+2, Peach Bellini, 0.652912, 5
+2, waitress, 0.752417, 6
+2, tight black t-shirt, 0.646389, 6
+2, ahi tuna salad, 0.661593, 7
+2, awesome grilled cheese, 0.65611, 7
+2, steak salad, 0.650066, 8
+3, nice date spot, 0.618067, 0
+3, Kobe Beef Burger, 0.597942, 0
+3, favorite place, 0.639213, 2
+3, bad place, 0.620987, 2
+3, Pretty cheap drinks, 0.607374, 3
+3, food, 0.69117, 4
+3, place, 0.954185, 5
+3, bar, 0.798201, 5
+3, old town, 0.757176, 6
+3, service, 0.689523, 6
+3, open air bar, 0.640435, 7
+3, grilled chicken, 0.638966, 7
+3, good solid place, 0.668751, 8
+3, great place, 0.665208, 8
+3, nice relaxing place, 0.661955, 9
+3, great app list, 0.618389, 9
+4, Bungalow Bites, 0.557213, 0
+4, Bungalow Bar, 0.603323, 1
+4, Kansas bball fans, 0.547162, 2
+4, bar food, 0.566587, 3
+4, Old Town bar, 0.54163, 3
+4, bar, 0.676113, 4
+4, Old Town Scottsdale, 0.622576, 4
+4, bungalow, 0.941876, 5
+4, old town, 0.908585, 5
+4, food, 0.802837, 6
+4, good food, 0.686002, 6
+4, food great service, 0.607472, 7
+4, steak salad, 0.597249, 7
+4, great place, 0.626752, 8
+4, great patio, 0.581169, 8
+4, Bungalow Juice, 0.565748, 9
+4, good company, 0.556312, 9
+5, Great patio bar, 0.759876, 0
+5, bungalow bites, 0.740608, 0
+5, bike crawl pack, 0.671962, 1
+5, OMG cheesy goodness, 0.65962, 1
+5, veggie burgers, 0.60971, 2
+5, bungalow, 0.86791, 5
+5, veggie burger, 0.69154, 5
+5, KU game, 0.670558, 6
+5, Old Town celebration, 0.659696, 6
+5, old town, 0.876067, 7
+5, cajun ahi tuna, 0.840846, 7
+5, great food, 0.966067, 8
+5, Great people, 0.707092, 8
+5, great place, 0.787908, 9
+5, night great place, 0.749988, 9

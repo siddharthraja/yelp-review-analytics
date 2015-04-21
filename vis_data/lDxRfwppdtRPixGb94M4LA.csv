@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+3, wrong establishment, 0.914809, 0
+3, fish nuggets, 0.874749, 0
+3, noon, 0.290847, 1
+3, stuff, 0.258129, 2
+3, shelf drinks, 0.847578, 3
+3, moons, 0.347083, 3
+3, seas, 0.909438, 6
+3, food, 0.436162, 6
+3, huge fan, 0.875586, 7
+3, hot links, 0.851, 7
+3, kind, 0.536843, 8
+3, shenanigans, 0.352235, 8
+3, fix, 0.294165, 9
+4, fried catfish, 0.913291, 0
+4, Southern Belle, 0.718419, 0
+4, good scrubbing, 0.678001, 1
+4, complaint, 0.461005, 1
+4, so-called Soul Food, 0.866148, 2
+4, sort, 0.452444, 2
+4, menu items, 0.659748, 3
+4, times, 0.463153, 3
+4, home cooking, 0.666405, 6
+4, Old West Las, 0.865215, 7
+4, staff meeting, 0.678535, 7
+4, vegas.live music,good food, 0.879075, 8
+4, food good entertainment, 0.873236, 8
+5, Las Vegas, 0.947931, 0
+5, fish fry offsite, 0.756966, 0
+5, yams, 0.494228, 2
+5, Thursday night, 0.60708, 3
+5, older crowd, 0.605962, 3
+5, step'n night, 0.604481, 6
+5, good food, 0.593181, 6
+5, family reunion, 0.903203, 7
+5, Seas Restaurant, 0.794929, 7
+5, family reunion fish, 0.759534, 8
+5, good tasting food, 0.733732, 8
+5, crunchy chicken, 0.691247, 9
+5, good care, 0.590322, 9

@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+2, drinks, 0.31808, 0
+2, tickets, 0.30256, 0
+2, need, 0.323386, 1
+2, people, 0.291608, 1
+2, little extra help, 0.937832, 3
+2, older ushers, 0.833857, 3
+2, LV Hilton, 0.775722, 6
+2, venue, 0.648172, 6
+2, school vegas, 0.679654, 9
+2, comforts, 0.335335, 9
+3, Gilbert Gottfried, 0.899772, 0
+3, tiny bistro-esque tables, 0.864306, 0
+3, god awful seats, 0.855516, 1
+3, worst small theater, 0.823203, 1
+3, overpriced drinks, 0.887089, 2
+3, uncomfortable chairs, 0.67847, 2
+3, bad seat, 0.889345, 3
+3, row center area, 0.831886, 3
+3, premium liquor options, 0.803229, 4
+3, bit, 0.56739, 5
+3, newly remodeled venue, 0.83513, 6
+3, small theaters, 0.726904, 6
+3, free ticket whore, 0.882563, 7
+3, pretty good view, 0.817288, 7
+3, Shimmer Showroom, 0.932949, 8
+3, shimmer cabaret, 0.932711, 8
+3, nice venue, 0.726608, 9
+3, LV Hilton, 0.718465, 9
+4, general admission seats, 0.903872, 0
+4, Trent Carlini, 0.699068, 0
+4, front-section seats, 0.733743, 1
+4, huge problem, 0.668976, 1
+4, quaint little venue, 0.825935, 2
+4, nit, 0.539495, 2
+4, Royal VIP tickets, 0.797395, 3
+4, orchestra style pit, 0.788909, 3
+4, lower level seats, 0.87378, 4
+4, stage, 0.711902, 5
+4, drinks, 0.560296, 5
+4, Great old school, 0.848649, 6
+4, style cabaret/night club, 0.846008, 6
+4, classical guitar renditions, 0.827626, 7
+4, small cocktail tables, 0.783003, 7
+4, Cozy little theater, 0.827182, 8
+4, fairly decent size, 0.806295, 8
+4, intimate cabaret setting, 0.820058, 9
+4, great venue, 0.675905, 9
+5, Gilbert Gottfried, 0.951466, 0
+5, Shimmer Showroom, 0.92135, 0
+5, Vegas Tenors, 0.728944, 3
+5, pictures, 0.313208, 3
+5, improv, 0.334937, 6
+5, small venue, 0.859673, 8
+5, Anthony Padilla, 0.813257, 8
+5, Mr. Gottfried, 0.841294, 9
+5, great songs, 0.709973, 9

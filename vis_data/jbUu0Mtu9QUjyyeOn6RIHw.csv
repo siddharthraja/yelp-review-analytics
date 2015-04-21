@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, Aldo boots, 0.656424, 0
+1, fat chicks, 0.649946, 0
+1, dimly lit, 0.69774, 1
+1, obnoxious rap, 0.684162, 1
+1, half naked girls, 0.908253, 2
+1, Bar Charlotte, 0.890531, 2
+1, drugged-out people, 0.648335, 3
+1, construction boots, 0.647053, 3
+1, place, 0.725945, 4
+1, drinks, 0.51085, 4
+1, market, 0.445093, 6
+1, Nice, 0.443634, 6
+1, little adult fun, 0.827438, 7
+1, time, 0.491025, 7
+1, chubby chaser, 0.673389, 8
+1, meaningful conversation, 0.655601, 8
+2, old creepy men, 0.925456, 0
+2, spilled beer, 0.726138, 0
+2, Bar Charlotte, 0.707264, 1
+2, dumbest stuff, 0.705015, 1
+2, half naked bar, 0.918816, 2
+2, dance floor, 0.916389, 2
+2, low 20s, 0.720492, 3
+2, place, 0.770966, 4
+2, cover, 0.584527, 5
+2, gang members, 0.70033, 6
+2, hip hop music, 0.903175, 7
+2, typical club hits, 0.895741, 7
+2, young girls, 0.7091, 8
+2, Fridays, 0.547636, 8
+3, fairly skanky crowd, 0.923587, 0
+3, cover price, 0.708334, 0
+3, interesting place, 0.745449, 3
+3, charlotte, 0.628144, 3
+3, pretty interesting, 0.796061, 8
+3, alarming views, 0.770465, 8
+4, Fri night, 0.717431, 0
+4, hip hop, 0.688675, 0
+4, half-naked bar tenders, 0.893531, 1
+4, short people, 0.880857, 1
+4, little people, 0.8918, 2
+4, everyday stuff, 0.687382, 2
+4, DJ playing stuff, 0.901628, 3
+4, actual remixes, 0.693707, 3
+4, place, 0.784785, 5
+4, headless bull, 0.694211, 6
+4, corner, 0.497923, 6
+4, teen dance club, 0.90881, 7
+4, Myrtle Beach, 0.691111, 7
+4, music, 0.701979, 8
+4, blast, 0.536899, 8
+4, fairly inexpensive drinks, 0.971757, 9
+4, hype, 0.463292, 9

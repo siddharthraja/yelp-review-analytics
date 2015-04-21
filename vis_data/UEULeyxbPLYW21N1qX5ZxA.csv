@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+3, bad taste, 0.705213, 0
+3, bother, 0.351606, 0
+3, things, 0.298318, 1
+3, host, 0.298165, 1
+3, customer service department, 0.939771, 2
+3, star review, 0.688644, 2
+3, good painting, 0.646003, 3
+3, case, 0.300714, 3
+3, drinking socials, 0.826927, 6
+3, bartender, 0.331477, 6
+3, pizazz, 0.371733, 7
+3, music, 0.310886, 7
+3, nice selection, 0.735133, 8
+3, different genres, 0.728563, 8
+3, funky, 0.335112, 9
+3, area, 0.310578, 9
+4, YELP PERSONAL CHALLENGE, 0.770126, 0
+4, painting lessons, 0.717869, 0
+4, particular painting, 0.807452, 1
+4, Cupid Shuffle dance, 0.767772, 2
+4, Buzz n Brushes, 0.712551, 3
+4, paper plate, 0.703851, 3
+4, painting, 0.852503, 4
+4, bar, 0.703437, 4
+4, Different sized paint, 0.823927, 6
+4, good quality time, 0.805902, 6
+4, buzz'n brushes, 0.855237, 7
+4, different color paints, 0.797012, 7
+4, time, 0.921119, 8
+4, family time, 0.736257, 8
+4, great time, 0.827818, 9
+4, place Buzz'n Brushes, 0.819741, 9
+5, painting class, 0.600819, 0
+5, open painting sessions, 0.575945, 0
+5, forward bar food, 0.55034, 1
+5, home cost dollar, 0.536609, 2
+5, stick figure drawing, 0.523963, 2
+5, fun dance session, 0.582171, 3
+5, Ebony aka DJ, 0.562863, 3
+5, painting, 0.897254, 5
+5, Buzz'N Brushes, 0.622009, 5
+5, fun, 0.871739, 6
+5, class, 0.780746, 6
+5, photo booth, 0.958218, 7
+5, good time, 0.60966, 7
+5, great time, 0.624941, 8
+5, fun painting, 0.55443, 8
+5, best photo booth, 0.559208, 9
+5, fun environment, 0.524781, 9

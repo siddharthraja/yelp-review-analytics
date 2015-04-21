@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, quinoa porridge, 0.791678, 0
+1, cashier girl, 0.736462, 0
+1, worst experiences, 0.765846, 1
+1, mediocre sandwich, 0.746846, 1
+1, re-made porridge, 0.788145, 2
+1, bbq sauce, 0.723634, 2
+1, bloody mary, 0.899332, 3
+1, waiter, 0.892745, 3
+1, car, 0.640807, 4
+1, menu, 0.652605, 5
+1, place, 0.609467, 5
+1, drinks, 0.968052, 6
+1, Portuguese donuts, 0.724436, 6
+1, beer, 0.548109, 7
+1, foodie friends, 0.722383, 8
+1, coronado area, 0.709338, 8
+2, different time, 0.411164, 0
+2, dining area, 0.407804, 0
+2, potato pancakes, 0.44176, 1
+2, Saturday morning, 0.403319, 1
+2, awkward stare, 0.430047, 2
+2, eye contact, 0.410804, 2
+2, sausage dish, 0.435065, 3
+2, Kansas City, 0.391842, 3
+2, Astor House, 0.976366, 4
+2, better tasting breakfast, 0.613433, 6
+2, pretend cafeteria, 0.40324, 6
+2, Tuck Shop, 0.793119, 7
+2, neighborhood joints, 0.411522, 7
+2, makeshift birthday cake, 0.580852, 8
+2, Portuguese donuts, 0.41313, 8
+2, restaurant, 0.277581, 9
+3, roast beef po, 0.657411, 0
+3, artsy place, 0.553252, 0
+3, beef sandwiches suffers, 0.64457, 1
+3, chicken sandwich, 0.571371, 1
+3, new barbecue menu, 0.619421, 2
+3, patio enjoyment, 0.543579, 2
+3, restaurant Astor House, 0.638494, 3
+3, chocolate pecan bars, 0.614567, 3
+3, astor house, 0.922223, 5
+3, patio, 0.619512, 5
+3, potato salad, 0.924704, 6
+3, beer vending machine, 0.761847, 6
+3, Tuck Shop, 0.791567, 7
+3, great modern design, 0.637723, 7
+3, great looking offerings, 0.657059, 8
+3, potatoe salad, 0.645169, 8
+3, pesto buttermilk dressing, 0.650787, 9
+3, charming patio, 0.557457, 9
+4, BBQ place, 0.513475, 0
+4, converted small house, 0.495958, 0
+4, quaint little houses, 0.496524, 1
+4, Sorry Tuck shop, 0.494464, 2
+4, mexican gyro, 0.650783, 3
+4, BBQ joint Astor, 0.555235, 3
+4, tuck shop, 0.79261, 4
+4, sandwich, 0.581426, 4
+4, astor house, 0.953283, 5
+4, place, 0.641836, 5
+4, potato salad, 0.709192, 6
+4, food, 0.601758, 6
+4, coronado neighborhood, 0.530934, 7
+4, green chile, 0.530594, 7
+4, great tasting food, 0.517791, 8
+4, chimichurri potato salad, 0.508994, 8
+4, Excellent BBQ spot, 0.512215, 9
+4, good looking venue, 0.50492, 9
+5, traditional BBQ sauce, 0.740308, 0
+5, BBQ sauces, 0.674446, 0
+5, self-control Astor House, 0.676635, 2
+5, astor house, 0.974615, 4
+5, ham sandwich, 0.647831, 5
+5, bbq, 0.851639, 6
+5, potato salad, 0.787189, 6
+5, place, 0.789145, 7
+5, BBQ joint, 0.726832, 7
+5, Great local BBQ, 0.741995, 8
+5, Great BBQ, 0.741281, 8
+5, spicy bbq sauce, 0.731563, 9
+5, good BBQ, 0.677421, 9

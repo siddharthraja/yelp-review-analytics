@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, actual edible food, 0.741075, 0
+1, Shitty diner, 0.59559, 0
+1, sorry elderly people, 0.974275, 1
+1, saddest store-bought vinaigrette, 0.924116, 1
+1, low grade piece, 0.773983, 2
+1, under-salted unappetizing mistake, 0.773558, 2
+1, unsalted greasy muck, 0.91286, 3
+1, Ahi tuna, 0.886464, 3
+1, try-hard decor, 0.447029, 7
+2, que la cuisson, 0.937213, 0
+2, que je lui, 0.851843, 0
+2, Yelp experience, 0.650195, 1
+2, dire ça avant, 0.747028, 2
+2, Vous auriez pu, 0.722495, 2
+2, bon resto dans, 0.713157, 3
+2, aihi tuna, 0.612655, 3
+2, pas tous les, 0.769026, 6
+2, trompé et m'a, 0.71336, 6
+2, quirky waiter, 0.652756, 7
+2, local professionals, 0.616485, 7
+2, fairly efficient waiter, 0.74296, 8
+3, times, 0.638537, 0
+3, location, 0.637683, 0
+3, wallet, 0.767112, 2
+3, trick, 0.716101, 2
+3, ribs, 0.933594, 7
+3, basics, 0.68659, 7
+3, Friendly waiter/waitress, 0.964997, 8
+4, Une bonne surprise, 0.880681, 0
+4, une autre fois, 0.87435, 0
+4, plat et, 0.718354, 2
+4, weird water smell, 0.823596, 3
+4, little bits, 0.72542, 3
+4, est vraiment pas, 0.826201, 4
+4, dois dire que, 0.826128, 4
+4, grilled Atlantic salmon, 0.835454, 6
+4, Je n'aime normalement, 0.83444, 6
+4, clam chowder, 0.913156, 7
+4, decent BBQ spot, 0.862883, 7
+4, grilled shrimp, 0.908424, 8
+4, authentic BBQ style, 0.844328, 8
+4, awesome experience, 0.719463, 9

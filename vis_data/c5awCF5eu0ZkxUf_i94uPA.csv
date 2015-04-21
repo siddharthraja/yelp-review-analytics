@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, Thanksgiving Eve, 0.914732, 0
+1, case, 0.631231, 0
+1, bother, 0.770755, 2
+1, experience, 0.654336, 6
+1, off,I, 0.660321, 7
+2, fried cheese curds, 0.988339, 0
+2, sort, 0.467321, 0
+2, place, 0.498346, 1
+2, truth, 0.450869, 1
+2, dart needs, 0.657088, 3
+2, non-frozen food, 0.625109, 3
+2, waffle fries, 0.731493, 6
+2, blues band, 0.659947, 6
+2, Tuesday blues night, 0.87939, 7
+2, decent beer, 0.72827, 7
+2, things, 0.457574, 8
+3, glowing red eyes, 0.876037, 0
+3, decent drink specials, 0.8742, 0
+3, middle aged drunks, 0.868998, 1
+3, Branch St. retreat, 0.783402, 1
+3, odd place, 0.591056, 2
+3, bar, 0.368698, 2
+3, friend, 0.26504, 3
+3, wood paneling, 0.958789, 6
+3, linoleum floor, 0.584786, 6
+3, Absolut mixers, 0.665987, 7
+3, excellent drink, 0.632375, 8
+3, Woohoo, 0.332606, 8
+4, true elderly drunks, 0.908048, 0
+4, personal favorite WHISKEY, 0.891371, 0
+4, Bristled Boar, 0.858438, 2
+4, proper game play, 0.915426, 6
+4, nice area, 0.816466, 6
+4, true Townie bar, 0.938058, 7
+4, free touchdown shots, 0.889123, 7
+4, place, 0.962494, 8
+4, prices calm atmosphere, 0.922011, 8
+4, Nice rustic log, 0.900924, 9
+4, nice conversation, 0.784355, 9
+5, smoking area, 0.914193, 7
+5, BAR food, 0.768585, 7
+5, place, 0.55161, 8
+5, staff, 0.527491, 9

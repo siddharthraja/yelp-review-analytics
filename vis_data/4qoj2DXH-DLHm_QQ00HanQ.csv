@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+2, separate Yelp review, 0.712427, 0
+2, different venue, 0.576197, 0
+2, weekly Thursday events, 0.741537, 3
+2, Stations Casino, 0.398618, 3
+2, Green Valley Ranch, 0.967716, 6
+2, Valley Ranch Resort, 0.96733, 6
+2, Rock N Roll, 0.860303, 7
+2, Wine Facebook page, 0.650269, 7
+2, Fine Steaks, 0.436794, 8
+5, RnR Wine event, 0.527742, 0
+5, best red wines, 0.494673, 0
+5, Yelp events, 0.391528, 1
+5, numerous times, 0.361253, 1
+5, salty cooking wine, 0.502886, 2
+5, new venues, 0.345149, 3
+5, red wine drinker, 0.532726, 6
+5, Hostile Grape, 0.487522, 6
+5, Roll Wine event, 0.74618, 7
+5, Las Vegas, 0.500073, 7
+5, Roll Wine, 0.982719, 8
+5, rock n roll, 0.829749, 8
+5, Wines white wine, 0.530045, 9
+5, best on-going events, 0.514458, 9

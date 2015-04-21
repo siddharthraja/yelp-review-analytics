@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, Armitage Shanks porcelain, 0.948229, 0
+1, good idea, 0.786975, 0
+1, strict security measures, 0.92401, 1
+1, main bar, 0.805848, 1
+1, Fantasy Palace employees, 0.969531, 2
+1, fairly poor sound, 0.92804, 2
+1, fellow conference goers, 0.90864, 3
+1, replacement lightbulb, 0.801951, 3
+1, place, 0.987421, 5
+1, husband, 0.715257, 5
+1, fabulous tipper, 0.781982, 6
+1, Doorman rating, 0.767006, 6
+1, tour guide, 0.936254, 7
+1, lovely place, 0.802094, 7
+1, fantastic LOCAL tour, 0.909883, 8
+1, mixed stories, 0.794219, 8
+2, Ghillie Dhu spam, 0.57389, 0
+2, email marketing industry, 0.413516, 0
+2, large drunken men, 0.402116, 1
+2, ceilidh dancing, 0.370929, 1
+2, Ghillie Dhu night, 0.550344, 2
+2, upstairs function room, 0.401628, 2
+2, expensive mon frere, 0.404058, 3
+2, completely meh, 0.356909, 3
+2, Ghillie Dhu, 0.947689, 4
+2, drinks, 0.375556, 4
+2, time, 0.368142, 5
+2, Scotish tour guide, 0.394538, 6
+2, important cultural milestone, 0.393323, 6
+2, nice cosy booth, 0.391807, 7
+2, one-star place, 0.361277, 7
+2, Yelp pages, 0.360864, 8
+2, fine city, 0.357277, 8
+2, light drinking, 0.356019, 9
+3, medieval long benches, 0.702386, 0
+3, actual space upstairs, 0.679496, 0
+3, crap batting average, 0.663093, 1
+3, cavernous ceiling, 0.611345, 1
+3, crap-pop DJs reserve, 0.679443, 2
+3, little bit, 0.617829, 2
+3, Monday morning, 0.597843, 3
+3, stars, 0.610119, 4
+3, Ghillie Dhu, 0.910823, 5
+3, people, 0.602909, 5
+3, nice big bar, 0.705026, 6
+3, large tour group, 0.679464, 6
+3, Great Hall, 0.711123, 7
+3, awesomly high spirits, 0.685922, 7
+3, friday night, 0.736356, 8
+3, fantastic conference room, 0.666715, 8
+3, stunningly beautiful building, 0.67302, 9
+3, ghillie pie, 0.636396, 9
+4, Irn Bru bar, 0.623356, 0
+4, good Scottish pub, 0.61659, 0
+4, wooden board, 0.615448, 1
+4, decent bar food, 0.628359, 2
+4, late Saturday night, 0.59958, 2
+4, good bar area, 0.633048, 3
+4, spacious bar area, 0.629146, 3
+4, Ghillie Dhu, 0.980696, 4
+4, chips, 0.583159, 4
+4, bar, 0.72776, 5
+4, food, 0.647578, 5
+4, Saturday night, 0.647991, 6
+4, regular Scottish breakfast, 0.587428, 6
+4, bar area, 0.648719, 7
+4, nice big bar, 0.642055, 7
+4, night live music, 0.610605, 8
+4, good night, 0.609535, 8
+4, spacious upstairs hall, 0.619899, 9
+4, lovely events space, 0.585419, 9
+5, light eaters, 0.634333, 0
+5, nice places, 0.631004, 0
+5, private party, 0.637479, 1
+5, space, 0.523092, 1
+5, drinks, 0.522861, 2
+5, weird word, 0.637658, 3
+5, night, 0.567974, 5
+5, ale pub, 0.658082, 6
+5, Scottish accents, 0.643107, 6
+5, Europe trip, 0.650254, 7
+5, Bon Appetit, 0.645222, 7
+5, candle lit stair, 0.753815, 8
+5, huge coved ceilings, 0.739025, 8
+5, Ghillie Dhu, 0.947225, 9
+5, good sized pub, 0.76512, 9

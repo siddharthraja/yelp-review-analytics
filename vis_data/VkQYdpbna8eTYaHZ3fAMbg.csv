@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, sock water, 0.682618, 0
+1, coffee houses, 0.607652, 0
+1, Yelp recommendations, 0.755163, 1
+1, disappointing, 0.326172, 1
+1, dark roast, 0.757564, 2
+1, redeeming flavor, 0.685535, 2
+1, Johnson Public House, 0.994281, 3
+1, Johnson Brothers coffee, 0.971142, 3
+1, nice Baristas, 0.860311, 7
+1, JPH, 0.347046, 7
+1, cool music, 0.62616, 8
+1, upside, 0.321896, 8
+2, smaller cup size, 0.536252, 0
+2, coffee shops, 0.453602, 0
+2, bottled water, 0.524317, 1
+2, trust fund babies, 0.500681, 1
+2, public house, 0.964388, 2
+2, Johnson Public House, 0.939398, 2
+2, coffee shop, 0.468634, 3
+2, various iterations, 0.42848, 3
+2, coffee, 0.816396, 5
+2, barista, 0.671862, 6
+2, AWARD WINNING BARISTA, 0.608442, 6
+2, handsome roasters cafe, 0.500273, 7
+2, good coffee, 0.463543, 7
+2, numerous wooden cutouts, 0.553427, 8
+2, good business strategy, 0.536973, 8
+2, coffee drinking boyfriend, 0.556489, 9
+3, late morning coffee, 0.764043, 0
+3, initial review, 0.569218, 0
+3, musty smell, 0.591535, 1
+3, pour-over coffee, 0.569578, 1
+3, Blue Bottle, 0.587362, 2
+3, time, 0.431742, 2
+3, bad coffee shop, 0.763585, 3
+3, coffee beans, 0.622107, 3
+3, things, 0.348989, 4
+3, coffee, 0.927492, 6
+3, couple flaws, 0.613623, 6
+3, fairly snooty tone, 0.84117, 7
+3, cool space, 0.566662, 7
+3, grilled cheese sandwich, 0.758406, 8
+3, bottled beers, 0.543921, 8
+3, Great music playing, 0.738955, 9
+3, perfect volume, 0.540508, 9
+4, Johnson Public House, 0.743059, 0
+4, COLD-BREWED iced coffee, 0.718007, 0
+4, JPH coffee, 0.69588, 1
+4, coffee shops, 0.628062, 2
+4, bulk brewing method, 0.62388, 3
+4, drip coffee, 0.622492, 3
+4, peanut butter, 0.633079, 4
+4, sunday morning, 0.620741, 4
+4, coffee, 0.902347, 6
+4, large iced coffee, 0.726124, 6
+4, place, 0.735189, 7
+4, food, 0.702644, 7
+4, excellent coffee selection, 0.71687, 8
+4, breakfast sandwich, 0.711048, 8
+4, Intelligentsia coffee, 0.758325, 9
+4, delicious coffee drinks, 0.682778, 9
+5, Intelligentsia coffee shop, 0.642543, 0
+5, local coffee shop, 0.560039, 0
+5, french press, 0.589965, 1
+5, good french press, 0.522348, 1
+5, Sunday morning, 0.570635, 3
+5, Slow Coffee movement, 0.539616, 3
+5, sole coffee roaster, 0.561461, 4
+5, coffee, 0.949783, 5
+5, JPH, 0.783052, 5
+5, coffee shop, 0.819985, 6
+5, place, 0.795005, 6
+5, breakfast sandwich, 0.754539, 7
+5, Johnson Public House, 0.686073, 7
+5, best coffee, 0.669442, 8
+5, new favorite coffee, 0.608497, 8
+5, high quality coffee, 0.63711, 9
+5, quality coffee result, 0.56411, 9

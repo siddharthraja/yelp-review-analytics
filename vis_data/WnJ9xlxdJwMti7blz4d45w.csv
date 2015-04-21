@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, inch long piece, 0.83949, 0
+1, poor business decision, 0.818913, 0
+1, rate Mexican place, 0.876125, 1
+1, Mexican food place, 0.869615, 1
+1, food, 0.875732, 2
+1, small dark meat, 0.839115, 2
+1, cold corn tortillas, 0.847984, 3
+1, California tacos, 0.783004, 3
+1, bar, 0.867631, 4
+1, place, 0.907578, 5
+1, chicken platter, 0.762132, 6
+1, new ownership, 0.739116, 6
+1, bar tender misunderstood, 0.857632, 7
+1, mango margaritas, 0.749708, 7
+1, customer service, 0.739134, 9
+1, saving grace, 0.738066, 9
+2, salsa bar, 0.582169, 0
+2, dining partner, 0.544173, 0
+2, counter, 0.269342, 1
+2, Bloody mary bar, 0.843536, 2
+2, california tacos, 0.586657, 2
+2, so-so. total dive, 0.950271, 3
+2, rest, 0.278326, 3
+2, place, 0.512123, 4
+2, food, 0.665406, 5
+2, menu, 0.341758, 5
+2, Good salsa, 0.660021, 6
+2, health board, 0.558933, 6
+2, nice people, 0.613019, 7
+2, cash register, 0.568502, 7
+2, vodka, 0.28438, 9
+3, self serve bar, 0.851841, 0
+3, basic program, 0.718105, 0
+3, area, 0.488571, 2
+3, stepfather, 0.486391, 2
+3, long review, 0.686842, 3
+3, cabbage salad, 0.681969, 3
+3, local dive bar, 0.897187, 6
+3, seaside decorations, 0.692453, 6
+3, casual Baja-beach-bar type, 0.863655, 7
+3, menu, 0.454478, 7
+3, good drink specials, 0.902288, 8
+3, dog friendly patio, 0.870825, 8
+4, long time bartender, 0.831879, 0
+4, small orange cone, 0.79123, 0
+4, little local place, 0.837536, 1
+4, new ownership, 0.671339, 1
+4, fried fish taco, 0.829575, 2
+4, giant immigration bust, 0.824071, 2
+4, dirt cheap breakfasts, 0.877888, 3
+4, stuffed animal, 0.673096, 3
+4, Chuy, 0.79657, 4
+4, order, 0.570306, 5
+4, amazing HH specials, 0.881337, 6
+4, casual good food, 0.83028, 7
+4, great bargain, 0.695128, 7
+4, boozy Sunday breakfasts, 0.907949, 8
+4, decent food specials, 0.824039, 8
+4, Great place, 0.689389, 9
+5, self serve chips, 0.718699, 0
+5, elementary school, 0.586041, 0
+5, nasty stuffed animals, 0.810565, 2
+5, better service, 0.616272, 2
+5, killer job, 0.616357, 3
+5, new owners, 0.61601, 3
+5, Good size portions, 0.733066, 6
+5, chicken salad, 0.610641, 6
+5, true Phoenix Mom, 0.765767, 7
+5, best mesquite broil, 0.762115, 7
+5, great food, 0.978594, 8
+5, new favorite place, 0.745899, 8
+5, salsa bar, 0.776296, 9
+5, fair prices, 0.75211, 9

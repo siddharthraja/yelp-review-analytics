@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, good quick place, 0.334216, 0
+1, crap bar food, 0.33078, 0
+1, long time, 0.357336, 1
+1, good place, 0.336589, 1
+1, bar food, 0.383533, 2
+1, las vegas, 0.337618, 2
+1, service, 0.533916, 3
+1, bar, 0.432406, 3
+1, food, 0.918156, 4
+1, todd english, 0.777917, 4
+1, beer, 0.639964, 5
+1, time, 0.453324, 5
+1, beer selection, 0.422887, 6
+1, better food, 0.314918, 6
+1, good beer selection, 0.365759, 7
+1, sweet potato fries, 0.323389, 7
+1, pretty good beer, 0.310504, 8
+1, impressive beer menu, 0.300564, 9
+2, better gastropub food, 0.50084, 0
+2, Todd English P.U.B, 0.488506, 0
+2, mediocre fusion food, 0.496547, 1
+2, bar food, 0.503533, 2
+2, good Solid beer, 0.501864, 2
+2, roast beef sliders, 0.631907, 3
+2, lobster rolls, 0.528574, 3
+2, roast beef, 0.654964, 4
+2, chips, 0.597803, 4
+2, Todd English, 0.954414, 5
+2, food, 0.900979, 5
+2, time, 0.504305, 6
+2, duck buns, 0.499031, 6
+2, good food, 0.520365, 7
+2, English Pub beer, 0.516901, 7
+2, ole pub food, 0.524179, 8
+2, Todd English P.U.B., 0.515885, 8
+2, delicious looking food, 0.501359, 9
+3, corn dogs, 0.622953, 0
+3, bar food appetizers, 0.613228, 0
+3, chicken pot pie, 0.84369, 2
+3, raw bar, 0.612156, 2
+3, ......, 0.591414, 3
+3, service, 0.688246, 4
+3, bit, 0.626431, 4
+3, Todd English, 0.969689, 5
+3, city center, 0.893375, 5
+3, Todd English P.U.B., 0.722409, 6
+3, Todd English PUB, 0.702192, 6
+3, good service, 0.648796, 7
+3, good place, 0.634872, 7
+3, beer selection, 0.676297, 8
+3, good bar food, 0.66716, 8
+3, great beer selection, 0.664719, 9
+3, Great Great Food, 0.622971, 9
+4, delicious duck meat, 0.59367, 0
+4, Todd English P.U.B., 0.590593, 0
+4, chicken livers, 0.593475, 2
+4, usual pub scene, 0.588703, 2
+4, Public Urban Bar, 0.605802, 3
+4, organic chicken pot, 0.590443, 3
+4, lobster rolls, 0.686463, 4
+4, vegas, 0.658931, 4
+4, Todd English, 0.835022, 5
+4, food, 0.758111, 5
+4, beer, 0.79892, 6
+4, dirty chips, 0.752524, 6
+4, black truffle mayo, 0.976513, 7
+4, sweet potato fries, 0.637226, 7
+4, beer selection, 0.749579, 8
+4, Great beer selection, 0.658492, 8
+5, english pub food, 0.448398, 0
+5, good pub, 0.407668, 0
+5, Good bar food, 0.421769, 2
+5, food porn, 0.42025, 2
+5, dirty chips, 0.485106, 3
+5, lobster rolls, 0.764894, 4
+5, butter lobster rolls, 0.452501, 4
+5, chicken pot pie, 0.659323, 5
+5, food, 0.651518, 5
+5, todd english pub, 0.980488, 6
+5, las vegas, 0.523739, 6
+5, lobster roll, 0.494321, 7
+5, truffle mayo, 0.473413, 7
+5, great place, 0.427036, 8
+5, great service, 0.420074, 8
+5, pub food taste, 0.422855, 9
+5, great beer selection, 0.421062, 9

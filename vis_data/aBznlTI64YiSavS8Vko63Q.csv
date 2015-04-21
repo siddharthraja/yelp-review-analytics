@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+2, cold cut sandwich, 0.811019, 0
+2, Significantly different timings, 0.806358, 0
+2, prices, 0.359643, 1
+2, accolades, 0.358745, 1
+2, Diet Coke, 0.805543, 2
+2, damned turkey sandwich, 0.79013, 2
+2, turkey sandwich, 0.95921, 3
+2, small indoor seating, 0.772335, 3
+2, place, 0.585065, 5
+2, order, 0.448735, 5
+2, tasty turkey sandwich, 0.810841, 6
+2, wait staff, 0.622773, 6
+2, berry smoothie, 0.616634, 8
+2, tortilla chips, 0.613422, 8
+2, Trump pool, 0.607687, 9
+3, Trump hotel, 0.802899, 0
+3, cobb salad, 0.793934, 0
+3, fries, 0.478009, 1
+3, lukewarm, 0.358501, 1
+3, good quality ham, 0.961404, 6
+3, ham panini, 0.803144, 6
+3, portion size, 0.67856, 8
+3, place, 0.457307, 8
+3, decent food, 0.736324, 9
+3, goodness, 0.348112, 9
+5, DJT, 0.565716, 0
+5, waitress, 0.523724, 0
+5, bit, 0.496287, 2
+5, Service, 0.468783, 2
+5, order, 0.514361, 3
+5, chair, 0.494746, 3
+5, menu, 0.516297, 4
+5, rasberry smoothie cocktail, 0.962792, 7
+5, PERFECT Sunday, 0.766169, 8

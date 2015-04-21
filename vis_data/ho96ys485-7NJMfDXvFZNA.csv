@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, bar men, 0.780081, 0
+1, hill, 0.51382, 0
+1, bar, 0.937589, 1
+1, bar man, 0.765191, 1
+1, dirty glasses, 0.9123, 2
+1, phone, 0.492806, 2
+1, Previous experience, 0.875335, 9
+1, total change, 0.86701, 9
+3, beer blogging amigo, 0.894589, 0
+3, couch corner, 0.785873, 0
+3, eccentric homely decor, 0.933298, 1
+3, larger crowd, 0.78679, 1
+3, seats, 0.672093, 2
+3, bars, 0.652544, 2
+3, churned-out mass culture, 0.908877, 3
+3, Joseph Pearce, 0.772871, 3
+3, Sofi, 0.917413, 4
+3, dog friendly bar, 0.884932, 6
+3, fairy lights, 0.780996, 6
+3, brother Jospeh Pearce, 0.961398, 7
+3, Boda Bar, 0.838426, 7
+3, adorably cute way, 0.956198, 8
+3, adorable wee guy, 0.926671, 8
+3, hand-made mocha, 0.782484, 9
+3, mid-afternoon pit-stop, 0.776253, 9
+4, Yelp Christmas Night, 0.806999, 0
+4, half price, 0.797895, 0
+4, lovely little gem, 0.776431, 2
+4, sister bars, 0.976123, 3
+4, sister bars Hemma, 0.781225, 3
+4, red pepper hummus, 0.76916, 6
+4, right eclectic mix, 0.747781, 6
+4, sofi, 0.950432, 7
+4, ........Sundays..., 0.937497, 7
+4, favourite cosy bar, 0.79081, 8
+4, good selection, 0.789127, 8
+4, old Sofi, 0.852595, 9
+4, Lovely quiet bar/cafe, 0.801651, 9
+5, Elliott Smith night, 0.971064, 0
+5, Johnny Cash night, 0.956636, 0
+5, dive bar, 0.969967, 2
+5, Edinburgh, 0.720702, 2
+5, dirty looks, 0.788723, 3
+5, room, 0.707381, 4
+5, sweet Jam Sundays, 0.965617, 6
+5, Ray la Montagne, 0.942065, 6
+5, Sofi, 0.980755, 7
+5, whimsical wool coat, 0.954801, 7
+5, old fashioned book, 0.995571, 8
+5, old fashioned candle, 0.992832, 8

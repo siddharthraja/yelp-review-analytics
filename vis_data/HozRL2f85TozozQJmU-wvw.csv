@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, little chicken wings, 0.785255, 0
+1, tiny little wings, 0.748407, 0
+1, leftover chicken wings, 0.73769, 1
+1, brown slimy coating, 0.653197, 1
+1, food runner, 0.542751, 2
+1, time, 0.540256, 2
+1, wings, 0.991911, 3
+1, terrible concession stand, 0.683178, 3
+1, service, 0.698268, 4
+1, small metal screw, 0.637022, 4
+1, blue cheese, 0.924986, 6
+1, sweet tasteless sauce, 0.652104, 6
+1, Buffalo Wild Wings, 0.743784, 7
+1, becuase blue cheese, 0.669126, 7
+1, super sweet sauce, 0.666264, 8
+2, late night food, 0.626135, 0
+2, late night dining, 0.587308, 0
+2, late night, 0.901935, 1
+2, food horrible service, 0.644836, 1
+2, late night specials, 0.835061, 2
+2, time, 0.614166, 2
+2, food, 0.818133, 3
+2, cold taco meat, 0.544725, 3
+2, service, 0.849537, 4
+2, place, 0.609591, 4
+2, BWW, 0.690491, 5
+2, wings, 0.619042, 5
+2, love song plays, 0.557183, 6
+2, fast food, 0.518963, 6
+2, experience great service, 0.573664, 7
+2, Vegas Boulevard location, 0.562647, 7
+2, usual server Phillip, 0.539494, 8
+2, huge saving grace, 0.534542, 8
+2, seasoned potato wedges, 0.557409, 9
+3, Caribbean Jerk sauce, 0.692715, 0
+3, Buffalo Wild Wings, 0.653881, 0
+3, Luckily Paul, 0.52841, 1
+3, kids menu, 0.521925, 1
+3, pepper jack cheese, 0.738759, 2
+3, regular wing sauce, 0.678767, 2
+3, bar area, 0.622424, 3
+3, Chain food, 0.533855, 3
+3, burger, 0.580872, 4
+3, my.boyfriends order, 0.526057, 4
+3, sauce, 0.758032, 5
+3, order, 0.60047, 5
+3, type teriyaki sauce, 0.696393, 6
+3, BWW, 0.637453, 6
+3, carryout window, 0.536532, 7
+3, good times, 0.517158, 7
+3, boneless wings, 0.9588, 8
+3, parmesan garlic sauce, 0.687701, 8
+3, great place, 0.544874, 9
+3, Good place, 0.536585, 9
+4, ofcourse ranch dressing, 0.44923, 0
+4, Onion rings-beer batteerd, 0.438118, 0
+4, cent wings, 0.503716, 2
+4, Boneless Thursday, 0.364354, 2
+4, boneless wings, 0.565534, 3
+4, long time, 0.346063, 3
+4, wings, 0.904051, 5
+4, trivia game, 0.446933, 5
+4, Michigan football game, 0.466106, 6
+4, pear cider beer, 0.41288, 6
+4, Buffalo Wild Wings, 0.794059, 7
+4, buffalo wings, 0.615055, 7
+4, chicken wings, 0.483105, 8
+4, staff good food, 0.452071, 8
+4, great wings, 0.492391, 9
+4, rowdy football fans, 0.465953, 9
+5, standard BWW food, 0.896446, 0
+5, traditional wing specials, 0.883208, 0
+5, bad  reviews, 0.727238, 1
+5, Laker player, 0.765489, 2
+5, UFC fights, 0.755369, 2
+5, good care, 0.759654, 6
+5, big burger, 0.747694, 6
+5, New fun spot, 0.90331, 7
+5, bww rocks, 0.809561, 7
+5, favorite BWW, 0.77637, 8
+5, stars cos, 0.757577, 8
+5, Mmmmm new menu, 0.855399, 9
+5, Great bartenders, 0.790674, 9

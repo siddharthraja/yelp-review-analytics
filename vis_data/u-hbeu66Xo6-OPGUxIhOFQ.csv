@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, Light Groups employees, 0.661941, 0
+1, different VIP tickets, 0.652265, 0
+1, proper promotions company, 0.651442, 1
+1, negative stars, 0.595157, 1
+1, rope man, 0.835402, 2
+1, Vegas experience, 0.669367, 2
+1, particular employees, 0.657733, 3
+1, incompetent individuals, 0.59094, 3
+1, ticket, 0.663652, 4
+1, Light Group, 0.969788, 5
+1, Aria, 0.613027, 5
+1, high level executives, 0.647078, 6
+1, weekend, 0.582214, 6
+1, bachelorette party, 0.5994, 7
+1, Gold Club, 0.596601, 7
+1, confirmation email, 0.660105, 8
+1, mess ups, 0.592918, 8
+2, bachelorette party weekend, 0.60018, 0
+2, VIP planning services, 0.59559, 0
+2, usual review colloquialisms, 0.656925, 1
+2, rude remark, 0.475618, 1
+2, Haze, 0.543281, 2
+2, cheap bitch, 0.460279, 2
+2, default Yelp comment, 0.61424, 3
+2, Haze Nightclub, 0.510737, 3
+2, details, 0.447046, 4
+2, girls, 0.364367, 4
+2, dinner, 0.775837, 5
+2, Stacey, 0.421632, 5
+2, confirmation email, 0.963615, 6
+2, VIP table, 0.461939, 6
+2, Prompt response, 0.494671, 7
+2, relative plus, 0.49197, 7
+2, simple guestlist access, 0.648006, 8
+2, free drinks, 0.644318, 8
+4, prix fixed meal, 0.623734, 0
+4, negative reviews, 0.495826, 0
+4, Haze Nightclub, 0.497469, 1
+4, complimentary entrance, 0.464524, 1
+4, ridiculous traffic, 0.473587, 2
+4, limo, 0.258383, 2
+4, small print, 0.459478, 3
+4, problem, 0.291706, 3
+4, Nicole, 0.82367, 4
+4, things, 0.347628, 4
+4, Aria, 0.313318, 5
+4, light group, 0.97806, 6
+4, bachelorette party, 0.955756, 6
+4, overall experience, 0.460194, 7
+4, nice hand, 0.447144, 7
+4, bachelorette weekend, 0.545703, 8
+4, Memorial Day Weekend, 0.501969, 8
+4, great job, 0.439159, 9
+4, timely manor, 0.43701, 9
+5, hip hop, 0.801012, 0
+5, table request inquiry, 0.793542, 0
+5, low ratings, 0.712841, 1
+5, money, 0.641327, 1
+5, Haze nightclub, 0.750802, 2
+5, security guards, 0.69945, 2
+5, Light Group, 0.996621, 4
+5, table service, 0.801858, 4
+5, Haze, 0.800076, 5
+5, bottle, 0.669256, 5
+5, Gold Lounge, 0.826231, 6
+5, late night cocktails, 0.820895, 6
+5, Nicole, 0.849141, 7
+5, drink tickets, 0.811058, 7
+5, stellar review, 0.711182, 8
+5, awesome table, 0.707383, 8
+5, fun night, 0.693691, 9
+5, girls weekend, 0.691556, 9

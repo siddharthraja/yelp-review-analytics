@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+2, Tuesday evening, 0.857563, 0
+2, high expectations, 0.835281, 0
+2, aswell, 0.404412, 1
+2, queue, 0.360499, 1
+2, service, 0.419545, 2
+2, frills atmosphere, 0.91034, 3
+2, chain bar, 0.768621, 3
+2, couple, 0.526976, 4
+2, convenient place, 0.914727, 7
+2, casual drinks, 0.846681, 7
+3, common theme, 0.581877, 0
+3, Lloyds bar, 0.537139, 0
+3, specific seats, 0.590248, 1
+3, thing, 0.476676, 1
+3, cheap canteen, 0.574164, 2
+3, bit, 0.456365, 2
+3, Mr Weatherspoon, 0.600239, 3
+3, widescreen televisions, 0.556215, 3
+3, football, 0.422054, 4
+3, bar, 0.563084, 5
+3, blessing, 0.279119, 6
+3, crowd, 0.277758, 6
+3, cheerful drinks, 0.540312, 7
+3, good ol, 0.52073, 7
+3, Omni Centre, 0.881168, 8
+3, good deals, 0.490391, 8
+3, reasonable prices, 0.94897, 9
+3, good tasty grub, 0.793134, 9

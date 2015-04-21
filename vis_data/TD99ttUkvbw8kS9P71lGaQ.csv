@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, brick oven pizza, 0.932408, 0
+1, little bit, 0.732679, 0
+1, to-go boxes, 0.741225, 1
+1, east coast, 0.719112, 1
+1, Caprese salad, 0.751502, 2
+1, flavor basil, 0.736543, 2
+1, sports bar, 0.731101, 3
+1, neon color, 0.729818, 3
+1, celebration, 0.667468, 5
+1, dining room, 0.967488, 6
+1, fluorescent  gelato display, 0.937211, 6
+1, piano bar sort, 0.96348, 7
+1, fine Italian food, 0.955843, 7
+3, veal dish, 0.688764, 0
+3, loud music, 0.67639, 0
+3, linguine dish, 0.730701, 2
+3, taste test, 0.656781, 2
+3, Charlie Sheen reference, 0.958375, 3
+3, background music, 0.624417, 3
+3, Seafood Linguine, 0.708119, 6
+3, new restaurant, 0.623782, 6
+3, nice bar area, 0.896228, 7
+3, outdoor patio, 0.643623, 7
+3, complimentary bread basket, 0.957217, 8
+3, nice conversation, 0.658292, 8
+4, LV convention center, 0.621154, 0
+4, nearby Turnberry Towers, 0.619814, 0
+4, Piano Lounge Brings, 0.748388, 3
+4, New Twist, 0.498531, 3
+4, little bit, 0.679292, 5
+4, old vegas, 0.640444, 5
+4, Las Vegas, 0.833953, 6
+4, Spring Mountain Road, 0.638077, 6
+4, red grand piano, 0.961425, 7
+4, Chicken Parmesan, 0.709392, 7
+4, vegan pasta dish, 0.629918, 8
+4, fresh Minestrone, 0.519687, 8
+5, calamari, 0.529814, 0
+5, Locals, 0.523337, 0
+5, nearby restaurants, 0.618318, 2
+5, gelato bar, 0.61599, 2
+5, BS, 0.52315, 3
+5, potato skinss, 0.62375, 6
+5, passion tea, 0.614673, 6
+5, portabello mushrooms, 0.631563, 7
+5, Ice tea, 0.620596, 7
+5, filet mignon medallions, 0.952034, 8
+5, fettuccine alla bolognese, 0.734208, 8
+5, incredible drink prices, 0.742685, 9
+5, perfectly prepared vodka, 0.698542, 9

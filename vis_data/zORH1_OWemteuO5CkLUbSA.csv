@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+3, beer battered fish, 0.810893, 0
+3, Murrayfield Bar, 0.601169, 0
+3, sound, 0.348638, 2
+3, tasty beverages, 0.716744, 3
+3, warm gushie, 0.613998, 3
+3, Roseburn Rodeo Drive, 0.904052, 6
+3, free buffet, 0.625563, 6
+3, homemade tartar sauce, 0.849728, 7
+3, decent dinner, 0.84644, 7
+3, undying affection, 0.680112, 8
+3, homely atmosphere, 0.619413, 8
+3, Murrays Bar, 0.573729, 9
+3, good place, 0.573377, 9
+4, Edinburgh, 0.244622, 0
+4, Murrayfield stadium, 0.89228, 3
+4, meeting point, 0.701744, 3
+4, big sports games, 0.988632, 7
+4, TVs, 0.263889, 7
+4, pub, 0.828313, 8
+4, great atmosphere, 0.692447, 8
+4, good range, 0.636944, 9
+4, spirits, 0.232009, 9

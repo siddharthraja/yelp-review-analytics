@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, new york steak, 0.780753, 0
+1, poor service, 0.678943, 0
+1, Kegs Sports Bar, 0.725066, 1
+1, best stromboli, 0.624247, 1
+1, original boli, 0.671086, 2
+1, veggie Stromboli, 0.61233, 2
+1, place, 0.796574, 3
+1, customer service, 0.747149, 3
+1, Guy Fieri, 0.923769, 4
+1, stromboli, 0.784057, 4
+1, antipasto salad, 0.598508, 5
+1, good dive bar, 0.646496, 6
+1, basic order wings, 0.609605, 6
+1, amazing Italian food, 0.610404, 7
+1, pizza pocket folks, 0.609987, 7
+1, decent pizza joit, 0.61474, 8
+2, incompetent wait staff, 0.775776, 0
+2, Hot Rod, 0.771551, 0
+2, time cheese burger, 0.748722, 1
+2, personal memo section, 0.747101, 1
+2, bar, 0.820747, 2
+2, dive bar, 0.775282, 2
+2, waitress, 0.815217, 3
+2, restaurant seating area, 0.761698, 3
+2, place, 0.87669, 4
+2, food, 0.965902, 5
+2, stromboli, 0.886615, 5
+2, diners drive ins, 0.909762, 6
+2, Guy Fieri, 0.789319, 6
+2, small stromboli, 0.785725, 7
+2, dining room, 0.763182, 7
+2, Good strombolli sandwiches, 0.7787, 8
+2, pizza sauce, 0.695181, 8
+2, delicious stromboli, 0.763196, 9
+3, Swiss Stromboli, 0.677648, 0
+3, Kegs countless times, 0.614265, 0
+3, true dive bar, 0.618972, 1
+3, stromboli expert, 0.680746, 2
+3, extra dipping sauce, 0.608911, 2
+3, sauce based stromboli, 0.741751, 3
+3, fucking stromboli costs, 0.707261, 3
+3, food, 0.794371, 4
+3, marinara sauce, 0.711085, 4
+3, stromboli, 0.974359, 5
+3, place, 0.831663, 5
+3, large original Stromboli, 0.743219, 6
+3, average stromboli, 0.705322, 6
+3, original stromboli, 0.854174, 7
+3, small meatball stromboli, 0.779999, 7
+3, stromboli dough, 0.729124, 8
+3, Stromboli options, 0.696165, 8
+3, great stromboli, 0.682153, 9
+4, Stromboli half price, 0.639285, 0
+4, small stromboli, 0.62556, 0
+4, good bar food, 0.613039, 2
+4, famous stromboli- skip, 0.633088, 3
+4, smoky bar area, 0.568023, 3
+4, dining room, 0.603255, 4
+4, wings, 0.598407, 4
+4, stromboli, 0.912537, 5
+4, bar, 0.668258, 5
+4, place, 0.798331, 6
+4, original stromboli, 0.781807, 6
+4, large stromboli, 0.663809, 7
+4, Guy Fieri, 0.640118, 7
+4, good stromboli, 0.677612, 8
+4, best Stromboli, 0.629003, 8
+4, damn good Stromboli, 0.674281, 9
+4, Great Stromboli, 0.632216, 9
+5, traditional Stromboli, 0.3223, 0
+5, great bar pizza, 0.286845, 0
+5, bar food, 0.254167, 2
+5, good food, 0.245078, 2
+5, Food Channel episode, 0.229057, 3
+5, pizza, 0.476557, 4
+5, kegs, 0.379247, 4
+5, stromboli, 0.911234, 5
+5, food, 0.701807, 5
+5, place, 0.610092, 6
+5, large original stromboli, 0.379565, 6
+5, Las Vegas, 0.370256, 7
+5, Stromboli my mouth, 0.358154, 7
+5, best stromboli, 0.717254, 8
+5, original stromboli, 0.537005, 8
+5, meatball stromboli, 0.34586, 9
+5, best babe food, 0.233793, 9

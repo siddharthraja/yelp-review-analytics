@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, red brick building, 0.731164, 0
+1, Brought large group, 0.683498, 0
+1, HORRIBLE CUSTOMER SERVICE, 0.711296, 1
+1, couple paying customers, 0.671667, 1
+1, old red brick, 0.940394, 2
+1, diarrhea green walls, 0.712308, 2
+1, town game, 0.547016, 3
+1, product, 0.451014, 3
+1, place, 0.580335, 4
+1, beautiful foamy heads, 0.684565, 6
+1, construction progress, 0.581826, 6
+1, afternoon spending money, 0.683958, 7
+1, craft beer, 0.598634, 7
+1, high hopes, 0.589692, 8
+1, Perfect location, 0.577117, 8
+2, san tan, 0.731545, 0
+2, San Tan Brewing, 0.657452, 0
+2, absolutely atrocious service, 0.679798, 1
+2, long long time, 0.603875, 1
+2, food cost perspective, 0.623738, 2
+2, bad beer, 0.613595, 2
+2, Nitrogen beer thing, 0.623322, 3
+2, burger, 0.611513, 3
+2, food, 0.81697, 4
+2, place, 0.741126, 4
+2, beer, 0.965935, 5
+2, great place, 0.654941, 5
+2, beer bread, 0.6929, 6
+2, ice tea, 0.60862, 6
+2, Good beer, 0.622451, 7
+2, Phoenix New Times, 0.597227, 7
+2, delicious beer bread, 0.640682, 8
+2, consistently yummy food, 0.639552, 8
+3, good bar food, 0.592418, 0
+3, best brewery beer, 0.516443, 0
+3, Big Red Ale, 0.490193, 1
+3, non impressive food, 0.494506, 2
+3, club sandwich, 0.489062, 2
+3, beer drinker, 0.500433, 3
+3, turkey burger, 0.499714, 3
+3, burger, 0.543703, 4
+3, good way, 0.510828, 4
+3, beer, 0.955374, 5
+3, food, 0.921097, 5
+3, beer sampler, 0.500692, 6
+3, san tan brewery, 0.589773, 7
+3, good beer, 0.578592, 7
+3, downtown chandler, 0.563323, 8
+3, good food, 0.553346, 8
+3, good perfect combo, 0.497893, 9
+4, SanTan Beer Sampler, 0.42785, 0
+4, favorite red beer, 0.417131, 0
+4, beer chug-a-lug style, 0.408195, 1
+4, red beer guy, 0.421128, 2
+4, bar food, 0.427389, 3
+4, San Tan Brewery, 0.419305, 3
+4, sunspot gold, 0.454187, 4
+4, night, 0.432343, 4
+4, beer, 0.819058, 5
+4, place, 0.654015, 5
+4, san tan, 0.935134, 6
+4, food, 0.695531, 6
+4, San Tan Brewing, 0.550817, 7
+4, beer bread, 0.445725, 7
+4, great place, 0.49619, 8
+4, great beer, 0.482067, 8
+4, w/ great beer, 0.447098, 9
+4, Consistently great food, 0.434678, 9
+5, current winter beer, 0.566396, 0
+5, typical winter beer, 0.564974, 0
+5, San Tan Brewery, 0.717446, 4
+5, San Tan, 0.989486, 5
+5, place, 0.696883, 5
+5, beer, 0.847714, 6
+5, food, 0.703779, 6
+5, great beer, 0.66301, 7
+5, beer sampler, 0.567835, 7
+5, great food, 0.635888, 8
+5, good beer, 0.5965, 8
+5, great summertime beer, 0.595746, 9
+5, Great beer selection, 0.580224, 9

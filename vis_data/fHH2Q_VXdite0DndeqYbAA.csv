@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, Griffintown Café, 0.980894, 0
+1, venir nous voir, 0.971359, 0
+1, Terrible brunch place, 0.945642, 1
+1, bad sounding piano, 0.910662, 2
+1, final strike, 0.824022, 2
+1, Pulled Pork Tacos, 0.967328, 3
+1, free tables, 0.896181, 3
+1, ambiance vraiment génial, 0.909995, 6
+1, items non disponibles, 0.903471, 6
+2, simple filter coffee, 0.951107, 0
+2, shift steam table, 0.942289, 0
+2, brunch, 0.868004, 1
+2, arugula leaves, 0.86539, 1
+2, non pretentious food, 0.994609, 2
+2, restaurant/hotel industry, 0.848023, 2
+2, tell tale sign, 0.965035, 3
+2, kitchen area, 0.836232, 3
+2, line, 0.836937, 4
+2, times, 0.750915, 4
+2, sense, 0.745943, 5
+2, grilled cheese sandwich, 0.998414, 6
+2, new condensed menu, 0.946898, 6
+2, simple breakfast person, 0.981676, 7
+2, nice setting, 0.844957, 7
+2, long fruitful life, 0.968418, 8
+2, drip coffee machine, 0.959168, 8
+3, black-bean vegie burger, 0.802833, 0
+3, l'attention aux détails, 0.725739, 0
+3, tasty brunch, 0.638408, 2
+3, big whoop, 0.632434, 2
+3, jalapeno pepper, 0.633183, 3
+3, rustic/industrial place, 0.622213, 3
+3, menu, 0.716796, 5
+3, vegie burger, 0.969961, 6
+3, white bread bun, 0.728363, 6
+3, gourmet burger concept, 0.730485, 7
+3, nice tall glass, 0.727785, 7
+3, Griffintown Cafe, 0.798119, 8
+3, Griffintown Bacon, 0.705697, 8
+3, Excellent pulled pork, 0.747329, 9
+3, soft shell tacos, 0.747055, 9
+4, brunch places, 0.570421, 0
+4, Griffintown cheeseburger, 0.550932, 0
+4, brunch needs, 0.576553, 3
+4, ate Griffintown, 0.548133, 3
+4, Cafe Griffintown, 0.584273, 4
+4, Griffintown, 0.716863, 5
+4, eggs, 0.633456, 5
+4, brunch, 0.900035, 6
+4, basic breakfast brunch, 0.62249, 6
+4, Griffintown Cafe, 0.606895, 7
+4, french toast, 0.591481, 7
+4, great Sunday brunch, 0.639885, 8
+4, best brunch, 0.606871, 8
+4, brunch menu, 0.588346, 9
+4, weekend brunch, 0.568941, 9
+5, avait Café Griffintown, 0.936617, 0
+5, Griffintown Café, 0.878308, 0
+5, little Asian woman, 0.827422, 1
+5, suite fait dire, 0.831029, 2
+5, l'ambiance m'a tout, 0.828382, 2
+5, la rue Notre-Dame, 0.834071, 3
+5, Mexican inspired dish, 0.813733, 3
+5, homemade bacon, 0.863014, 4
+5, le mimosa Griffintown, 0.927623, 6
+5, une bière et, 0.874963, 6
+5, nous et espionner, 0.906231, 7
+5, Nous nous sommes, 0.899489, 7
+5, new favorite breakfast, 0.845588, 8
+5, Griffintown Cheeseburger, 0.843346, 8
+5, Griffintown Cafe, 0.932944, 9

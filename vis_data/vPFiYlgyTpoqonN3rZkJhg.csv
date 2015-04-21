@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+1, Canadian whiskey, 0.764822, 0
+1, Wild Turkey, 0.764456, 0
+1, F-ing sugars packets, 0.91092, 1
+1, dirty ashtray, 0.792477, 1
+1, bar, 0.865651, 2
+1, good burger, 0.784826, 2
+1, strange flavored whiskey, 0.973584, 3
+1, lemon drops, 0.968749, 3
+1, shots, 0.672529, 4
+1, location, 0.669755, 5
+1, little bourbon, 0.832116, 6
+1, better bourbons, 0.789472, 6
+1, Bulleit, 0.591431, 7
+1, thanks, 0.550693, 7
+2, Food/drinks, 0.986146, 0
+2, clientele, 0.780886, 0
+2, place, 0.50423, 1
+2, bartender, 0.913558, 6
+2, Ambience, 0.868368, 6
+3, nicest area, 0.840956, 0
+3, nit, 0.3, 0
+3, PT, 0.592361, 2
+3, town, 0.201488, 2
+3, shuffle board, 0.921808, 3
+3, girls bathroom, 0.77958, 3
+3, bartender, 0.283036, 6
+3, location, 0.366645, 7
+3, 80s, 0.211495, 7
+3, half-price shots, 0.907883, 8
+3, midnight, 0.200735, 8
+5, Las Vegas standards, 0.863179, 0
+5, undying loyalty, 0.69635, 0
+5, drunken warbling, 0.68137, 2
+5, fellow patrons, 0.665306, 2
+5, compulsion, 0.463898, 3
+5, buckets, 0.809367, 5
+5, relatively quiet beer, 0.919419, 6
+5, Las Vegas, 0.903735, 6
+5, Buffalo Wild Wings, 0.872367, 7
+5, basically buckets, 0.80593, 7
+5, competitively entertaining stories, 0.850612, 8
+5, awesome lounging area, 0.848038, 8
+5, great place, 0.978706, 9
+5, shenanigans, 0.4555, 9

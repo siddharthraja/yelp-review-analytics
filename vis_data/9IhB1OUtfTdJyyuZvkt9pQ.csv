@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, SW Steak sandwich, 0.625355, 0
+1, chicken Cobb salad, 0.612826, 0
+1, diet cokes, 0.969679, 1
+1, untouched diet cokes, 0.760829, 1
+1, gift card, 0.905317, 2
+1, table, 0.299882, 2
+1, order, 0.247711, 3
+1, place, 0.353976, 4
+1, hamburger, 0.336048, 4
+1, long time, 0.417972, 6
+2, buffalo chicken wrap, 0.643193, 0
+2, negative five-star status, 0.626576, 0
+2, debit card, 0.95889, 1
+2, lackluster trips, 0.528748, 1
+2, good scrubbing, 0.535982, 2
+2, anxious mood, 0.534087, 2
+2, sports bar, 0.821691, 3
+2, restaurant, 0.536586, 3
+2, friend, 0.747563, 4
+2, food, 0.61813, 5
+2, server, 0.563374, 5
+2, chicken Caesar salad, 0.651296, 6
+2, place, 0.570308, 6
+2, better service, 0.615089, 7
+2, business card, 0.534908, 7
+2, good atmosphere, 0.555152, 8
+2, original check, 0.544869, 8
+3, Ruben, 0.301674, 0
+3, sports, 0.238561, 0
+3, rest, 0.275608, 3
+3, bit, 0.274614, 3
+3, crowd, 0.305527, 6
+3, Pretty good prices, 0.912634, 7
+3, drinks, 0.498485, 7
+3, food, 0.629384, 8
+3, place, 0.356791, 8
+3, new bartenders, 0.714434, 9
+3, great food, 0.537069, 9
+4, prime rib sliders, 0.665919, 0
+4, sports fries w/chili, 0.665555, 0
+4, sports bar, 0.410298, 1
+4, bloody mary, 0.428189, 2
+4, Fuzzy, 0.250021, 2
+4, go-to place, 0.458787, 3
+4, Surprise Arizona, 0.453131, 3
+4, French dip sandwich, 0.960577, 6
+4, prime rib, 0.679249, 6
+4, inexpensive bar fare, 0.679308, 7
+4, best burgers, 0.472037, 7
+4, good time, 0.470528, 8
+4, good ambience, 0.461676, 8
+4, good service, 0.436537, 9
+4, friendly atmosphere, 0.412057, 9
+5, best crab cakes, 0.73925, 0
+5, Bar great food, 0.712708, 0
+5, bar food folks, 0.767407, 2
+5, new ownership, 0.612289, 2
+5, Fuzzys Sports Bar, 0.682257, 3
+5, new Fuzzy, 0.622621, 3
+5, new owners, 0.829313, 4
+5, new carpet, 0.583579, 6
+5, salad dressings, 0.573521, 6
+5, homemade cannoli, 0.573562, 7
+5, homemade pasta, 0.567433, 7
+5, Texas French Toast, 0.989337, 8
+5, crab cakes, 0.773446, 8
+5, fun place, 0.577088, 9
+5, friendly staff, 0.570652, 9

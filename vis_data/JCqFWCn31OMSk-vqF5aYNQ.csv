@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, Big Grove Tavern, 0.731163, 0
+1, medium burger, 0.70309, 0
+1, mushroom farro, 0.805989, 1
+1, little popcorn things, 0.745552, 1
+1, food, 0.704839, 2
+1, flavorful items, 0.649204, 2
+1, big grove, 0.995785, 3
+1, menu, 0.714523, 3
+1, burger, 0.810346, 4
+1, eggplant sandwich, 0.755079, 4
+1, place, 0.744669, 5
+1, manager, 0.682402, 5
+1, fingerling potato salad, 0.760077, 6
+1, honey mustard dressing, 0.749968, 6
+1, range chicken dish, 0.741945, 7
+1, small bowl, 0.639596, 7
+1, table, 0.659749, 8
+1, Open table, 0.65724, 8
+1, brunch spots, 0.635147, 9
+2, mixed greens salad, 0.846718, 0
+2, small portion size, 0.825722, 0
+2, Big Grove, 0.870261, 1
+2, pork loin, 0.84296, 1
+2, long time, 0.890693, 2
+2, chicken salad sandwich, 0.866222, 2
+2, Dessert menu choices, 0.826545, 3
+2, burger, 0.969461, 4
+2, food, 0.951075, 5
+2, menu, 0.930626, 5
+2, tavern burger, 0.881149, 6
+2, place, 0.87771, 6
+2, local food movement, 0.866548, 7
+2, locally sourced menu, 0.825556, 7
+2, solid burger, 0.820871, 8
+2, outdoor concert series, 0.815112, 8
+3, classic burger, 0.435947, 0
+3, mixed greens salad, 0.424446, 0
+3, flavorless chicken salad, 0.450973, 1
+3, little vanilla speckles, 0.408756, 2
+3, burger plain, 0.455999, 3
+3, restaurant burger, 0.45234, 3
+3, chicken salad, 0.53238, 4
+3, big grove, 0.963419, 5
+3, burger, 0.817433, 5
+3, tavern burger, 0.521792, 6
+3, tavern burger tastes, 0.486809, 6
+3, Big Grove Tavern, 0.657825, 7
+3, Black Bean Burger, 0.533277, 7
+3, good service, 0.469676, 8
+3, Good local source, 0.435455, 8
+3, amazing burger, 0.448143, 9
+3, Nice spacious restaurant, 0.411746, 9
+4, trendy food item, 0.690665, 0
+4, Big Grove Taver, 0.687692, 0
+4, turkey sandwich, 0.817072, 2
+4, good spiced nuts, 0.70881, 2
+4, fried brussel sprouts, 0.742503, 3
+4, vanilla ice cream, 0.698318, 3
+4, food, 0.874127, 4
+4, cheese, 0.713042, 4
+4, Big Grove, 0.976068, 5
+4, service, 0.764396, 5
+4, menu, 0.78875, 6
+4, good food, 0.768004, 6
+4, good deviled egg, 0.770044, 7
+4, good beer selection, 0.763763, 7
+4, free range chicken, 0.723181, 8
+4, good brussel sprouts, 0.714444, 8
+4, good service, 0.725533, 9
+4, Pretty good meal, 0.721967, 9
+5, Beer Brined Pork, 0.393983, 0
+5, chicken liver pate, 0.385879, 0
+5, downtown Champaign restaurant, 0.40373, 2
+5, Big Grove Tavern, 0.85918, 5
+5, menu, 0.478597, 5
+5, Big Grove, 0.964529, 6
+5, tavern burger, 0.610831, 6
+5, tater tots, 0.525179, 7
+5, red onion marmalade, 0.519667, 7
+5, Big Grove burger, 0.477942, 8
+5, great downtown Champaign, 0.449437, 8
+5, great size, 0.390826, 9
+5, great flavor, 0.386418, 9

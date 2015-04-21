@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, various PT, 0.979569, 0
+1, worst experience, 0.82946, 0
+1, food orders, 0.826687, 1
+1, personal issues, 0.82009, 1
+1, horrific drinks, 0.92458, 2
+1, wrong order, 0.891992, 2
+1, upper management, 0.814708, 3
+1, location, 0.523484, 3
+1, Rudest staff, 0.94158, 7
+2, poor customer service, 0.731612, 0
+2, real disappointment, 0.54269, 0
+2, customer service, 0.827788, 1
+2, biggest inconvenience, 0.498256, 1
+2, place, 0.288406, 2
+2, tenders typical bar, 0.903541, 3
+2, wings, 0.234537, 3
+2, food, 0.380647, 4
+2, Tuesday night, 0.521413, 6
+2, big facade, 0.478208, 7
+2, great waitress, 0.47286, 7
+2, clean layout, 0.449592, 8
+3, Local watering hole, 0.94504, 0
+3, weird vibe, 0.752221, 0
+3, times, 0.507294, 3
+3, couple, 0.465875, 3
+3, pear cider, 0.801224, 7
+3, decent food, 0.7098, 7
+3, PT, 0.584485, 8
+3, drinks, 0.488092, 8
+3, accept, 0.476966, 9
+4, shuffle board, 0.778218, 0
+4, ice cold, 0.762172, 0
+4, common misconceptions, 0.75869, 2
+4, mug, 0.486252, 2
+4, different times, 0.732912, 3
+4, bar, 0.464393, 3
+4, place, 0.575678, 4
+4, people, 0.515554, 5
+4, great beers, 0.72612, 6
+4, jukebox, 0.469513, 6
+4, happy hour Hop, 0.818693, 7
+4, pool tables, 0.777106, 7
+4, Job PT PT, 0.975254, 8
+4, small BBQ Chicken, 0.970611, 8
+4, great drinks, 0.771442, 9
+4, staff, 0.462934, 9
+5, Big East opener, 0.92124, 0
+5, New Haven pizza, 0.875334, 0
+5, crust, 0.446237, 2
+5, spot, 0.437134, 2
+5, PT, 0.448076, 3
+5, circles, 0.445849, 3
+5, darkly lit bar, 0.888693, 6
+5, highly anticipated Monday, 0.879578, 6
+5, BONUS, 0.445301, 7
+5, crispy tortilla chips, 0.882691, 8
+5, warm nacho cheese, 0.867295, 8
+5, great place, 0.624222, 9
+5, good deals, 0.618724, 9

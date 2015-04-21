@@ -1,0 +1,93 @@
+rating, keyword, relevance, bucket
+1, better drinks, 0.534363, 0
+1, plain vodka shot, 0.498807, 0
+1, money hungry place, 0.508574, 1
+1, local young professionals, 0.497924, 1
+1, bar, 0.787294, 2
+1, Expensive watery drinks, 0.580555, 2
+1, friend, 0.679705, 3
+1, Fremont street bar, 0.523519, 3
+1, people, 0.776699, 4
+1, place, 0.696129, 4
+1, drinks, 0.919997, 5
+1, commonwealth, 0.615313, 5
+1, friends, 0.546331, 6
+1, Vegas, 0.523895, 6
+1, customer service, 0.541644, 7
+1, new downtown spot, 0.496205, 7
+1, reasonably priced drinks, 0.571727, 9
+1, Las Vegas, 0.515166, 9
+2, corny specialty drinks, 0.670615, 0
+2, new local bar, 0.653485, 0
+2, overpriced drinks, 0.683781, 1
+2, smoke-filled casino bar, 0.63211, 1
+2, velvet rope, 0.643898, 2
+2, good drinks, 0.630463, 2
+2, East Fremont, 0.655339, 3
+2, party clown/secret child, 0.598721, 3
+2, drinks, 0.931634, 4
+2, place, 0.918976, 4
+2, bar, 0.892171, 5
+2, beer, 0.760733, 5
+2, cover charge, 0.66965, 6
+2, Fremont East, 0.646074, 6
+2, upstairs patio, 0.677886, 7
+2, basic drinks, 0.643606, 7
+2, brand new bar, 0.641774, 8
+2, upstairs rooftop patio, 0.624813, 8
+2, beloved Fremont East.bA, 0.607655, 9
+2, nice creative cocktails, 0.604788, 9
+3, bar crawl downtown, 0.643908, 0
+3, upscale bar downtown, 0.635081, 0
+3, stereotypical hipster place, 0.60174, 1
+3, selection lmao Drinks, 0.611838, 2
+3, upstairs bar, 0.609947, 2
+3, hugely popular bar, 0.617799, 3
+3, high volume bar, 0.617675, 3
+3, commonwealth, 0.752565, 4
+3, laundry room, 0.727091, 4
+3, bar, 0.904048, 5
+3, place, 0.851956, 5
+3, music, 0.599595, 6
+3, good bar, 0.645627, 7
+3, good time, 0.627763, 7
+3, average downtown bar, 0.633228, 8
+3, fancy spot Downtown, 0.601632, 8
+3, cool upstairs patio, 0.679952, 9
+3, Good classy place, 0.615071, 9
+4, rooftop patio bar, 0.64973, 0
+4, downtown east Fremont, 0.610822, 0
+4, cheap drinks, 0.605559, 1
+4, speakeasy styled bar, 0.601022, 1
+4, upstairs bar, 0.617341, 2
+4, little bit, 0.611531, 2
+4, rooftop bar, 0.642588, 3
+4, downtown vegas, 0.619321, 3
+4, hot drinks, 0.697956, 4
+4, people, 0.663117, 4
+4, bar, 0.929566, 5
+4, drinks, 0.857489, 5
+4, beauty bar, 0.626341, 6
+4, friends, 0.608708, 6
+4, Great downtown bar, 0.658602, 7
+4, Las Vegas, 0.64059, 7
+4, new bar downtown, 0.645016, 8
+4, el cortez, 0.629381, 8
+4, downtown Fremont Street, 0.608585, 9
+5, brand new bar, 0.625932, 0
+5, favorite spot downtown, 0.62539, 0
+5, different bar staff, 0.624632, 2
+5, best bar spot, 0.61747, 2
+5, Downtown LV, 0.611739, 3
+5, bar, 0.818661, 4
+5, drinks, 0.712753, 4
+5, commonwealth, 0.739843, 5
+5, people, 0.668306, 5
+5, place, 0.949534, 6
+5, Downtown bar scene, 0.673912, 6
+5, downtown las vegas, 0.907617, 7
+5, banana bread beer, 0.697265, 7
+5, rooftop patio, 0.760971, 8
+5, great drinks, 0.708782, 8
+5, great rooftop patio, 0.662511, 9
+5, best dressed people, 0.658939, 9

@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+3, cigarette smoke, 0.833525, 0
+3, good time, 0.677435, 7
+3, discount food nights, 0.975562, 8
+3, vegetarian options, 0.818985, 8
+3, beer selection, 0.715307, 9
+3, atmosphere, 0.505264, 9
+4, huge beer fan, 0.844509, 0
+4, Indie music, 0.664251, 0
+4, dive bar, 0.660284, 1
+4, Bad Ideas, 0.620838, 2
+4, Birthplace, 0.443156, 2
+4, dive bars, 0.826151, 3
+4, huge fan, 0.634191, 3
+4, Sonny, 0.585406, 5
+4, place, 0.561234, 5
+4, craft beer options, 0.872372, 6
+4, veggie hotdog, 0.677929, 6
+4, friendly crowd, 0.663814, 7
+4, fair prices, 0.659773, 7
+4, classic Pittsburgh dive, 0.790308, 8
+4, good craft draft, 0.7724, 8
+4, fun loving locals, 0.906765, 9
+5, pickle shot, 0.673109, 0
+5, Best dive bar, 0.655032, 0
+5, cheap drinks, 0.404125, 2
+5, dive bar, 0.908055, 6
+5, friendly neighborhood dive, 0.650843, 6
+5, funky house shot, 0.824892, 7
+5, pickle juice, 0.438112, 7
+5, Remarkable neighborhood gem, 0.654092, 8
+5, reasonable beverage prices, 0.589173, 8

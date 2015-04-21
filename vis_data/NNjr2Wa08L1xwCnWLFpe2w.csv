@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, LARGE chunk, 0.590165, 0
+1, Victoria Station, 0.589353, 0
+1, sad sad representation, 0.665142, 1
+1, tough stringy piece, 0.645397, 1
+1, worst Yorkshire puddings, 0.690751, 2
+1, beer, 0.632027, 2
+1, Royal Mile, 0.65512, 3
+1, better steak, 0.584114, 3
+1, Deacon Brodies, 0.910442, 4
+1, Yorkshire puddings, 0.781301, 4
+1, old world pub, 0.641366, 6
+1, Interesting concept, 0.580018, 6
+1, double decker tour, 0.647174, 7
+1, dinning companions, 0.595239, 8
+1, Tapas, 0.520117, 8
+2, good pub experience, 0.71528, 0
+2, real Scottish pubs, 0.698872, 0
+2, real scottish pub, 0.742271, 1
+2, poor quality food, 0.73123, 1
+2, Deacon Brodie, 0.735026, 2
+2, dining room, 0.662176, 2
+2, Deacon Brodies, 0.95745, 3
+2, Royal Mile, 0.83776, 3
+2, place, 0.681617, 5
+2, new level, 0.579646, 6
+2, mini-bar area, 0.547612, 6
+2, tourists, 0.652813, 7
+2, good look, 0.589489, 7
+2, good business, 0.564792, 8
+2, good mood, 0.561624, 8
+3, dining area upstairs, 0.626492, 0
+3, fish chowder appetizer, 0.621055, 0
+3, big reputation, 0.516302, 1
+3, touristy place, 0.512256, 1
+3, tourist bar, 0.532876, 2
+3, good breeze, 0.522261, 2
+3, royal mile, 0.965617, 3
+3, tourist trap, 0.720215, 3
+3, place, 0.572251, 4
+3, Deacon Brodies, 0.722009, 5
+3, food, 0.699014, 5
+3, dining room, 0.685036, 6
+3, Wur braw Scots, 0.627289, 6
+3, solid pub option, 0.632029, 7
+3, Nice pub, 0.578157, 7
+3, nice haggis starter, 0.679919, 8
+3, Good beer selection, 0.5932, 8
+3, dining room upstairs, 0.643267, 9
+3, Deacon Brodie, 0.628732, 9
+4, Deacon Brodies, 0.485168, 0
+4, Scottish wedding party, 0.479216, 0
+4, initial rudeness, 0.406109, 1
+4, typical tourist trap, 0.47308, 2
+4, return address, 0.395978, 2
+4, tourist trap, 0.495354, 3
+4, food, 0.648198, 4
+4, traditional pints, 0.393817, 4
+4, place, 0.542534, 5
+4, royal mile, 0.983866, 6
+4, wait staff, 0.478054, 6
+4, Deacon Brodie, 0.822056, 7
+4, Solid pub food, 0.50842, 7
+4, good food, 0.501173, 8
+4, best pub dinner, 0.481254, 8
+4, decent place, 0.401955, 9

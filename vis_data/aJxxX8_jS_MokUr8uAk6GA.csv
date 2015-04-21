@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, juke  box tv, 0.91401, 2
+1, bar staff, 0.710842, 2
+1, traditional style pub, 0.915779, 6
+3, Hearts football club, 0.825821, 0
+3, Boring pub, 0.729335, 0
+3, badly pulled pint, 0.902493, 3
+3, standard sports bar, 0.826573, 3
+3, ex bf, 0.706169, 6
+3, real pub, 0.6752, 6
+3, nice real ale, 0.804548, 7
+3, quiet pint, 0.690957, 7
+4, half width tables, 0.818619, 0
+4, Friday night, 0.689991, 0
+4, bad visit, 0.67612, 1
+4, town bars, 0.689951, 2
+4, tourists, 0.53554, 2
+4, Hearts football team, 0.847915, 3
+4, original review, 0.693795, 3
+4, Diggers, 0.797445, 4
+4, pies, 0.585316, 4
+4, Edinburgh, 0.558818, 6
+4, keyrings, 0.538831, 6
+4, great pub, 0.86864, 7
+4, Diggers checks, 0.787182, 7
+4, traditional pubs, 0.903051, 8
+4, better known brands, 0.874148, 8
+4, great wee pub, 0.952955, 9
+4, independent breweries, 0.705771, 9
+5, Maria, 0.310141, 0
+5, mix, 0.309367, 0
+5, new neighbourhood, 0.833202, 2
+5, Diggers, 0.366539, 2
+5, pub, 0.323647, 6
+5, definition, 0.311107, 6
+5, brain numbing games, 0.959026, 7
+5, loud craic, 0.798395, 7
+5, Great place, 0.657217, 8
+5, Toilets, 0.330396, 8
+5, huge selection, 0.68881, 9
+5, special offers, 0.669722, 9

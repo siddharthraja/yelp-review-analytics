@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, llke downtown LA, 0.849313, 0
+1, awful experience, 0.668088, 0
+1, cool hipster dive, 0.850227, 1
+1, container park theme, 0.844394, 1
+1, poached egg, 0.699988, 2
+1, bacon pieces, 0.660881, 2
+1, pit area, 0.640717, 3
+1, food, 0.635498, 3
+1, time, 0.59537, 4
+1, photo, 0.490405, 4
+1, perch, 0.641172, 5
+1, crab louie salad, 0.968255, 6
+1, butter leaf lettuce, 0.845349, 6
+1, Egg Salad, 0.801196, 7
+1, night, 0.450373, 7
+1, dinner entrees, 0.649727, 8
+1, Venetian, 0.448076, 8
+1, Better ambiance, 0.670385, 9
+3, chicken pailliard dish, 0.92899, 0
+3, caramelized sugar, 0.866052, 0
+3, Flat Breads, 0.837876, 1
+3, undercooked biscuit, 0.837734, 1
+3, crab meat, 0.844214, 2
+3, small space, 0.844007, 2
+3, super salty dressing, 0.950028, 3
+3, Chicken entree, 0.891009, 3
+3, big sausage fan, 0.938974, 6
+3, Green flash West, 0.926677, 6
+3, steak sandwich, 0.967494, 7
+3, beef tartare, 0.957879, 7
+3, Salmon entree, 0.891698, 8
+3, fantastic vinaigrette, 0.856511, 8
+3, wonderful caramelized onions, 0.952575, 9
+3, wine list, 0.836492, 9
+4, hanger steak frites, 0.566368, 0
+4, spinach abs cheese, 0.553071, 0
+4, beef tartare, 0.504284, 2
+4, scant menu, 0.437958, 2
+4, food, 0.512817, 5
+4, beet carpaccio, 0.571532, 6
+4, french fries, 0.511444, 6
+4, container park, 0.902927, 7
+4, garlic aioli, 0.786711, 7
+4, power green salad, 0.714344, 8
+4, garlic aeoli, 0.563377, 8
+4, strong garlic flavor, 0.582185, 9
+4, fun retro atmosphere, 0.500605, 9
+5, nearby container park, 0.450737, 0
+5, hanger steak sandwich, 0.444254, 0
+5, raw quill egg, 0.419943, 2
+5, brand new spot, 0.437607, 3
+5, big red flag, 0.432108, 4
+5, Perch, 0.514882, 5
+5, beef tartare, 0.507059, 5
+5, container park, 0.902153, 6
+5, angel hair, 0.48719, 6
+5, place, 0.513188, 7
+5, great big slab, 0.470581, 7
+5, service, 0.706635, 8
+5, Great new restaurant, 0.498053, 8
+5, food great drinks, 0.470677, 9
+5, great environment, 0.462749, 9

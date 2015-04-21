@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, burger night, 0.807626, 0
+1, brick walls, 0.662333, 0
+1, burger, 0.842571, 1
+1, place, 0.41595, 1
+1, annoying reality TV, 0.955792, 2
+1, bar stools, 0.665062, 2
+1, chairs, 0.428173, 3
+1, exception, 0.314578, 3
+1, smoking, 0.29791, 4
+1, tin ceilings, 0.678945, 6
+1, personal preference, 0.670731, 6
+1, varied selection, 0.614184, 7
+1, fries, 0.332567, 7
+1, elbows, 0.318609, 8
+1, wood, 0.291544, 8
+2, BBQ chicken sandwich, 0.985736, 0
+2, good things, 0.685338, 0
+2, flop, 0.503081, 1
+2, expectations, 0.495973, 1
+2, garlic Parmesan fries, 0.928399, 2
+2, beer batter, 0.754002, 2
+2, pickles, 0.589073, 3
+2, reviews, 0.476014, 8
+2, place, 0.475822, 8
+3, rediculous wait, 0.654389, 0
+3, small kitchen., 0.628715, 0
+3, night. my roommate, 0.669733, 2
+3, wings, 0.377864, 2
+3, typical neighborhood bar, 0.784732, 3
+3, wing night, 0.623424, 3
+3, times, 0.598231, 5
+3, things, 0.375633, 6
+3, cheesesteak wrap, 0.983951, 7
+3, nice addition, 0.627606, 7
+4, regular chicken sandwich, 0.761249, 0
+4, Awesome bar food, 0.72131, 0
+4, spicy food, 0.595678, 1
+4, total wimp, 0.575793, 1
+4, non spicy, 0.57983, 2
+4, Jerk rub, 0.566522, 2
+4, boneless wings, 0.780126, 3
+4, cent boneless wings, 0.769649, 3
+4, bf, 0.472243, 5
+4, cozy little corner, 0.718588, 6
+4, better craft beer, 0.684718, 6
+4, bedrock bbq bbq, 0.886917, 7
+4, chicken sandwich, 0.873874, 7
+4, great summer beers, 0.738072, 8
+4, Good beer selection, 0.717639, 8
+4, BBQ sauce, 0.66962, 9
+4, friendly face, 0.549636, 9
+5, great pumpkin beer, 0.749917, 0
+5, red meat eater, 0.682819, 0
+5, go-to SouthSide bar, 0.836241, 1
+5, football drafts, 0.657033, 2
+5, local bar, 0.624753, 2
+5, Favorite bar hands, 0.704517, 3
+5, bottled beer, 0.629953, 3
+5, place, 0.675978, 4
+5, wings, 0.97851, 6
+5, time favorite bar, 0.714966, 6
+5, bbt, 0.747941, 7
+5, Awesome wings, 0.728567, 7
+5, great beer selection, 0.866956, 8
+5, Carson Street, 0.786649, 8
+5, BBQ sauce wings, 0.823587, 9
+5, street making parking, 0.684107, 9

@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, french fries, 0.763702, 0
+1, Horrible service, 0.517637, 0
+1, False Advertising, 0.499699, 1
+1, bar, 0.401904, 1
+1, friends shots, 0.506975, 2
+1, to-go box, 0.485052, 2
+1, hey man, 0.507131, 3
+1, food, 0.434965, 3
+1, fries, 0.94334, 4
+1, point, 0.405081, 4
+1, Unlimted Fries, 0.71871, 6
+1, entire time, 0.453707, 6
+1, LUNCH TIME, 0.461815, 7
+1, word, 0.334146, 7
+1, unlimited fries, 0.729793, 8
+1, fiance, 0.40466, 8
+2, cheese sauce, 0.77662, 0
+2, house specialty, 0.629255, 0
+2, gelatinous fat, 0.690359, 1
+2, Philly quality, 0.638631, 2
+2, disappointment, 0.428089, 2
+2, Steak sandwiches, 0.73165, 3
+2, Monona Cheese Steak, 0.979583, 6
+2, Friday, 0.390476, 6
+3, food, 0.406837, 0
+3, refill, 0.428547, 3
+3, website, 0.38671, 3
+3, junior high schooler, 0.965889, 6
+3, super hyper guy, 0.952903, 6
+3, good burgers, 0.716992, 8
+3, bloody bar, 0.71046, 8
+4, GREAT Bloody Mary, 0.720675, 0
+4, Boom Boom sauce, 0.682602, 0
+4, quaint little place, 0.650931, 1
+4, Monona Drive, 0.544942, 1
+4, outdoor smoking/patio area, 0.625514, 2
+4, dang door, 0.560528, 2
+4, Bloody Mary bar, 0.937101, 3
+4, little gem, 0.535998, 3
+4, Aldo Leopold/wooded area, 0.664285, 6
+4, couple beers, 0.533372, 6
+4, Decent place, 0.553458, 7
+4, drinks, 0.424297, 7
+4, Perfectly nice place, 0.685166, 8
+4, nice little place, 0.641071, 8
+4, early Sunday funday, 0.703479, 9
+4, amazing cider beer, 0.659764, 9
+5, burger, 0.306229, 0
+5, tv, 0.307041, 6
+5, games, 0.259213, 6
+5, Boom Boom Wings, 0.983175, 7
+5, burgers, 0.328038, 7
+5, best club sandwichs, 0.818602, 8
+5, Great staff, 0.492127, 8
+5, decent beer selection, 0.843026, 9

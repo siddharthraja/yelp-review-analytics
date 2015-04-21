@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, lovely tall bartender, 0.907203, 0
+1, hardcore country band, 0.883097, 0
+1, Girl bartenders suck, 0.863154, 1
+1, cold chicken, 0.741751, 1
+1, upstairs patio, 0.777251, 2
+1, terrible food, 0.76651, 2
+1, good customer service, 0.850824, 3
+1, particular order, 0.767129, 3
+1, food, 0.960061, 4
+1, service, 0.875515, 5
+1, Thomas St Tavern, 0.876391, 6
+1, college football games, 0.868396, 6
+1, place, 0.774345, 7
+1, great service, 0.756111, 7
+1, whiskey warehouse, 0.904278, 8
+1, great rooftop bar, 0.861392, 9
+1, good crowd, 0.76439, 9
+2, upscale whiskey bar, 0.788368, 0
+2, recent top-40 formula, 0.764362, 0
+2, better pimento cheese, 0.743079, 1
+2, snottty manager-type lady, 0.740677, 1
+2, sports bar, 0.856635, 2
+2, Thomas Street Tavern, 0.764496, 2
+2, sports bar vibe, 0.764436, 3
+2, Ed Hardy tees, 0.740124, 3
+2, Whiskey Warehouse, 0.937479, 4
+2, place, 0.83384, 4
+2, food, 0.8103, 5
+2, cozy waiting section, 0.751115, 6
+2, natural bitch look, 0.73165, 6
+2, green tomato burger, 0.765666, 7
+2, Sunday lunch crowd, 0.752618, 7
+2, new corporate credit, 0.7583, 8
+2, warm wood materials, 0.733483, 8
+2, sweet potato fries, 0.742079, 9
+3, whiskey bottle pub, 0.646822, 0
+3, Thomas Street, 0.638166, 0
+3, nice Ciabatta bun, 0.602475, 1
+3, large hamburger bun, 0.593356, 1
+3, bar food staple, 0.621484, 2
+3, sports bar, 0.595023, 2
+3, buffalo chicken wrap, 0.654585, 3
+3, Bloody Mary bar, 0.590634, 3
+3, whiskey warehouse, 0.918168, 4
+3, service, 0.637285, 4
+3, sweet potato fries, 0.888337, 5
+3, place, 0.75879, 5
+3, new Whiskey Warehouse, 0.671309, 6
+3, Plaza Midwood, 0.663999, 6
+3, prime rib, 0.741562, 7
+3, prime rib sandwich, 0.740533, 7
+3, nice place, 0.619749, 8
+3, great starter place, 0.611142, 8
+3, pretty good food, 0.629148, 9
+3, fairly new rooftop, 0.59111, 9
+4, Plaza Midwood location, 0.605229, 0
+4, normal bar fare, 0.595467, 0
+4, open bar area, 0.61773, 1
+4, whiskey bar, 0.629178, 2
+4, grit cake, 0.622963, 3
+4, sports bar, 0.619411, 3
+4, bloody mary bar, 0.919276, 4
+4, food, 0.83677, 5
+4, place, 0.690747, 5
+4, plaza midwood, 0.872749, 6
+4, whiskey warehouse, 0.818926, 6
+4, fried chicken breast, 0.643203, 7
+4, nice bar, 0.639682, 7
+4, rooftop bar, 0.746865, 8
+4, great drink specials, 0.668459, 8
+4, great food specials, 0.656427, 9
+4, good food, 0.653337, 9
+5, whiskey liquor selection, 0.503808, 0
+5, awesome bar scene, 0.453743, 0
+5, bloody mary bar, 0.654115, 2
+5, whiskey drinker, 0.528705, 2
+5, whiskey drinking, 0.450285, 3
+5, rooftop bar area, 0.44996, 3
+5, food, 0.512702, 4
+5, place, 0.478556, 4
+5, service, 0.508467, 5
+5, rooftop bar, 0.464168, 6
+5, Good menu selection, 0.435271, 6
+5, Whiskey Warehouse, 0.918274, 7
+5, pimento cheese, 0.567633, 7
+5, awesome rooftop bar, 0.456551, 8
+5, Good pours, 0.431293, 8
+5, whiskey shots, 0.483088, 9
+5, great place, 0.448649, 9

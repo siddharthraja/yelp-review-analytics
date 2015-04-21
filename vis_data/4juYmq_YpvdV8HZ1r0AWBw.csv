@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+2, overpriced drinks, 0.981682, 1
+2, little alcohol, 0.848701, 1
+2, place, 0.522242, 2
+2, bathroom, 0.692959, 7
+3, Good mixed crowd, 0.755621, 0
+3, white coz, 0.650875, 0
+3, Downside, 0.442335, 1
+3, midsized raised platform, 0.788242, 2
+3, ass disco ball, 0.782645, 2
+3, electro hip hop, 0.729515, 3
+3, white balloons, 0.616184, 3
+3, old town, 0.911066, 4
+3, dj booth, 0.738505, 5
+3, drink, 0.525648, 5
+3, old town scottsdale, 0.752784, 6
+3, makeshift patio, 0.635038, 6
+3, bachelorette party, 0.601449, 7
+3, dos gringos, 0.593833, 7
+3, nicer bar, 0.592194, 8
+3, Helpful staff, 0.575435, 8
+4, big open room, 0.732109, 0
+4, standard college-Scottsdale clubbers, 0.719953, 0
+4, outta my chair, 0.644096, 1
+4, long bars, 0.743891, 3
+4, BCS championship crowd, 0.734987, 3
+4, Scottsdale, 0.728896, 5
+4, pretty common recipe, 0.72088, 6
+4, wear comfortable shoes, 0.718734, 6
+4, white house, 0.935546, 7
+4, bathroom attendant, 0.735244, 7
+4, disco ball, 0.781058, 8
+4, dance floor, 0.757338, 8
+4, delish menu, 0.649839, 9
+4, generous pours, 0.64843, 9
+5, oldtown clubs, 0.808648, 0
+5, booze, 0.504889, 0
+5, large box, 0.776671, 2
+5, stranger, 0.487486, 2
+5, factor, 0.474327, 3
+5, smoking, 0.466872, 4
+5, Patron XO, 0.837309, 6
+5, Parrot Bay, 0.806401, 6
+5, free Texas Hold'em, 0.96789, 7
+5, great prizes, 0.785115, 7
+5, great time, 0.838507, 8
+5, swanky club, 0.803597, 8

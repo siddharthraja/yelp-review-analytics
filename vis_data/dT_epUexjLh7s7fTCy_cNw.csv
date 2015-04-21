@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, fish tacos, 0.683812, 0
+1, small shrimp, 0.642928, 0
+1, questionable cleanliness, 0.746055, 1
+1, frustrated bartender, 0.736507, 1
+1, untrained hostess, 0.753577, 2
+1, male employees, 0.671936, 2
+1, Sub-mediocre food, 0.68241, 3
+1, waitress, 0.33287, 3
+1, bang shrimp appetizer, 0.987846, 6
+1, tip, 0.282054, 6
+1, Margherita pizza, 0.738977, 7
+1, generous portion, 0.647384, 7
+2, Route 19/Washington Road, 0.873642, 0
+2, crab cake sandwich, 0.828978, 0
+2, waitress, 0.889134, 2
+2, unfriendly our waitress, 0.804793, 2
+2, brownie/ice cream desert, 0.885584, 3
+2, vanilla ice cream, 0.854468, 3
+2, brownie/ice cream, 0.903579, 5
+2, pizza chain pizza, 0.912069, 6
+2, Bang Shrimp Salad, 0.879958, 6
+2, meal, 0.499917, 7
+2, dad, 0.453304, 8
+2, dinner, 0.442434, 8
+2, great assortment, 0.629581, 9
+2, place, 0.515775, 9
+3, Penguins playoff game, 0.762719, 0
+3, notch restaurants, 0.501709, 0
+3, run-of-the-mill suburban chain, 0.920273, 1
+3, good experience, 0.424427, 2
+3, bar, 0.385648, 2
+3, similar experience, 0.415573, 3
+3, bartenders, 0.285532, 3
+3, nightly drink specials, 0.868914, 6
+3, Stone Peppers, 0.481766, 6
+3, large selection, 0.460163, 7
+3, good service, 0.43832, 7
+3, Friendly staff, 0.493081, 8
+3, quality ingredients, 0.461635, 8
+3, time, 0.222126, 9
+4, Pasta Jambalya, 0.536479, 0
+4, wait, 0.389983, 0
+4, crazy rust spots, 0.780671, 3
+4, lettuce, 0.369828, 3
+4, Cobb Salad Heaven, 0.926188, 6
+4, Atmosphere, 0.351684, 6
+4, lunch, 0.359826, 7
+4, meal, 0.357923, 7
+4, avocado bacon cheeseburger, 0.763453, 8
+4, cracker shrimp, 0.590818, 8
+4, great assortment, 0.582776, 9
+4, salads, 0.374297, 9
+5, DC area, 0.811201, 0
+5, fact, 0.511143, 0
+5, ridiculous levels, 0.957776, 1
+5, AC, 0.53269, 1
+5, restaurants, 0.496805, 2
+5, case, 0.476717, 2
+5, sweater, 0.558373, 3
+5, outfit, 0.539535, 3
+5, go-to staple, 0.996413, 6
+5, waitress, 0.606772, 6
+5, service, 0.479469, 7
+5, business, 0.500913, 9

@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+3, by-the-book gastropub fare, 0.84563, 0
+3, limited drinks options, 0.845328, 0
+3, barebones menu, 0.729175, 1
+3, awkward couple, 0.688451, 1
+3, questionable old man, 0.879503, 2
+3, right wrist, 0.718535, 2
+3, wee tasty things, 0.972604, 3
+3, plastic, 0.558453, 3
+3, little neighbourhood bar, 0.843497, 6
+3, food, 0.748182, 6
+3, cosy wee bar, 0.984674, 7
+3, wee potato cubes, 0.939405, 7
+3, onion rings, 0.673703, 8
+3, safe place, 0.722904, 9
+4, excellent little pub, 0.822187, 0
+4, pleasant little bar, 0.811286, 0
+4, sports bar clientelle, 0.813761, 2
+4, wee bit tipsy, 0.799359, 3
+4, animated short film, 0.779526, 3
+4, old man, 0.818667, 4
+4, bar, 0.905919, 5
+4, good beers, 0.80473, 5
+4, nice little place, 0.83161, 6
+4, best little pubs, 0.804528, 6
+4, grilled chicken burger, 0.804877, 7
+4, steak flat bread, 0.79206, 7
+4, great atmosphere, 0.918735, 8
+4, comfy seats, 0.815989, 8
+4, little eclectic pub, 0.825732, 9
+4, charming wee pub, 0.811569, 9
+5, Backstage Edinburgh pass, 0.93098, 0
+5, tiny pub, 0.849785, 0
+5, tasty bar menu, 0.854799, 3
+5, pan fried courgettes, 0.837779, 3
+5, best pub food, 0.977091, 6
+5, great pub quiz, 0.947229, 6
+5, good Mex selection, 0.860811, 7
+5, great cocktail menu, 0.859384, 7
+5, great little boozer, 0.862318, 8
+5, great little basement, 0.861466, 8
+5, good pub food, 0.999768, 9
+5, great cosy place, 0.880885, 9

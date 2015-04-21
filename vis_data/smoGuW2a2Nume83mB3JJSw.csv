@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, horrible service, 0.759471, 0
+1, dry flavorless food, 0.748077, 0
+1, food, 0.898122, 1
+1, didnt look, 0.6347, 1
+1, cheap m'fers, 0.657643, 2
+1, flat beer, 0.650175, 2
+1, time, 0.849896, 3
+1, firepit burger, 0.798734, 3
+1, service, 0.818012, 4
+1, french onion soup, 0.939262, 6
+1, Southwest Jalepano Burger, 0.80461, 6
+1, decent pricing, 0.644624, 7
+1, spinach dip, 0.641373, 7
+1, similar type restaurant, 0.729212, 8
+1, better service, 0.650865, 8
+2, shrimp salad, 0.827781, 0
+2, .typical Applebee, 0.78954, 0
+2, food, 0.797092, 1
+2, Terrible selection, 0.773132, 1
+2, food ASAP, 0.746562, 2
+2, older women, 0.74309, 2
+2, overly spicy, 0.810949, 3
+2, cole slaw, 0.803339, 3
+2, meal, 0.654909, 5
+2, iced teas, 0.796133, 6
+2, subject Omg, 0.775766, 6
+2, different drink specials, 0.927527, 7
+2, Fair service, 0.770976, 7
+3, free lunch, 0.602033, 0
+3, gift card, 0.447036, 0
+3, Long story, 0.424855, 1
+3, lunch ao food, 0.704072, 2
+3, maintenance picky people, 0.517722, 2
+3, Asian Chicken Salad, 0.61591, 3
+3, French Onion Soup, 0.559529, 3
+3, Applebee, 0.631545, 4
+3, ......, 0.573861, 4
+3, lunch, 0.902405, 5
+3, service, 0.561032, 5
+3, Bourbon Street Chicken, 0.781313, 6
+3, lunch combos, 0.544818, 6
+3, weekday lunch, 0.599337, 7
+3, lunch menu, 0.582699, 7
+3, pretty good lunch, 0.732294, 8
+3, lunch specials, 0.685619, 8
+3, worthwhile lunch spot, 0.679716, 9
+3, lunch times, 0.547673, 9
+4, Sam, 0.673255, 6
+4, server, 0.616928, 6
+4, Jordan, 0.702855, 7
+4, awesome bartender, 0.964266, 8
+4, questions, 0.612155, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, order wrong thing, 0.890124, 0
+1, regular folks, 0.783137, 0
+1, cole slaw, 0.933113, 1
+1, soda bread, 0.779841, 1
+1, bar, 0.862738, 2
+1, service, 0.801777, 2
+1, British isle prices, 0.869439, 3
+1, menu prices, 0.744098, 3
+1, food, 0.856, 5
+1, local watering holes, 0.903013, 6
+1, ethinic  backgrounds, 0.778691, 6
+1, nice local pub, 0.919689, 7
+1, pretty diverse guinness, 0.889946, 7
+1, nice neighborhood pub, 0.898577, 8
+1, good food, 0.775158, 9
+2, roasted red peppers, 0.729794, 0
+2, gorgeous-looking fried onion, 0.711297, 0
+2, flat bread, 0.727289, 1
+2, go-to menu item, 0.706722, 1
+2, bread pudding fool, 0.796392, 2
+2, Irish punk rock, 0.732297, 2
+2, shortrib pieces, 0.617891, 3
+2, sub-par quality, 0.61779, 3
+2, bread pudding, 0.902209, 4
+2, citrus vinaigrette, 0.765856, 4
+2, pub, 0.792073, 5
+2, bread pudding dish, 0.784637, 6
+2, irish pub, 0.733034, 6
+2, Friday fish fry, 0.704781, 7
+2, pretty authentic feeling, 0.67713, 7
+2, happy hour eats, 0.622636, 8
+2, good people, 0.612946, 8
+3, ..their pub quiz, 0.799219, 0
+3, various bread options, 0.732649, 0
+3, good reason, 0.747, 1
+3, trivia night crowd, 0.736045, 1
+3, night pub quiz, 0.809743, 2
+3, local pub flavor, 0.791552, 2
+3, go-to Irish pub, 0.791421, 3
+3, scale bar food, 0.767546, 3
+3, food, 0.810649, 5
+3, drinks, 0.722103, 5
+3, irish pub, 0.990303, 6
+3, pub quiz, 0.889124, 6
+3, Good service, 0.798347, 7
+3, cool Irish bar, 0.792332, 7
+3, Good tap beer, 0.837602, 8
+3, Unbelievably good atmosphere, 0.824864, 8
+3, Pub Trivia night, 0.821161, 9
+3, great live musician, 0.760291, 9
+4, irish pub food, 0.710506, 0
+4, standard Irish Pub, 0.640068, 0
+4, fish, 0.655034, 3
+4, Closest Irish pub, 0.626104, 3
+4, bar, 0.709502, 4
+4, corned beef, 0.623735, 4
+4, place, 0.899569, 5
+4, food, 0.854569, 5
+4, irish pub, 0.972859, 6
+4, Fibber Magee, 0.846235, 6
+4, great Irish place, 0.672778, 7
+4, great pub food, 0.664432, 7
+4, live music, 0.810119, 8
+4, irish breakfast, 0.681516, 8
+4, good place, 0.630191, 9
+5, Irish pub food, 0.495882, 0
+5, true Irish pub, 0.46283, 0
+5, dark mistress Fibber, 0.481787, 2
+5, Fibber Magees, 0.785317, 3
+5, best bar food, 0.4659, 3
+5, atmosphere, 0.4568, 4
+5, place, 0.573146, 5
+5, bar, 0.497864, 5
+5, food, 0.617763, 6
+5, great Irish pub, 0.508409, 6
+5, irish pub, 0.951354, 7
+5, live music, 0.600319, 7
+5, Fibber Magee, 0.575564, 8
+5, great live music, 0.525225, 8
+5, favorite place, 0.475357, 9
+5, great new menu, 0.46408, 9

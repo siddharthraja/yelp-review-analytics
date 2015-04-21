@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, worst dining experiences, 0.724854, 0
+1, Rail booze, 0.524411, 0
+1, go-to, 0.21057, 1
+1, girlfriend, 0.200594, 1
+1, hash browns, 0.901044, 2
+1, birthday dinner, 0.877367, 2
+1, normally fab walleye, 0.819146, 3
+1, price list, 0.474884, 3
+1, mins, 0.353584, 7
+1, someplace, 0.20782, 7
+1, salad plates, 0.494155, 8
+2, credit card receipt, 0.825086, 0
+2, particular waitress, 0.762589, 0
+2, waitress, 0.858367, 1
+2, horrible mood, 0.660041, 1
+2, bar food, 0.904216, 2
+2, typical bar food, 0.846893, 2
+2, decent customer service, 0.813798, 3
+2, tip section, 0.648668, 3
+2, service, 0.819839, 4
+2, Laurel, 0.577701, 4
+2, good service, 0.649947, 6
+2, parties, 0.448328, 6
+2, little old-American joint, 0.90141, 7
+2, good greasy burger, 0.808863, 7
+2, significant eye role, 0.812129, 8
+3, corned beef, 0.913225, 0
+3, average bar food, 0.905437, 0
+3, service, 0.771521, 1
+3, go-to neighborhood pub, 0.959229, 2
+3, Dudgeon-Monroe neighborhood, 0.791773, 2
+3, fish fry, 0.992471, 3
+3, minimally filled restaurant, 0.887283, 3
+3, bar chili, 0.944148, 4
+3, better fish fry, 0.890709, 4
+3, Best Reuben, 0.942684, 6
+3, High Noon Saloon, 0.938311, 6
+3, current free drink, 0.96138, 7
+3, free drink ticket, 0.961112, 7
+3, bar chili variants, 0.938008, 8
+3, definite contender, 0.794291, 8
+3, bread component, 0.781003, 9
+4, touchdown rout, 0.840477, 0
+4, alcoholic drink, 0.838906, 0
+4, Cheap greasy food, 0.921983, 1
+4, Boca burgers, 0.884614, 1
+4, Old school bar, 0.965225, 2
+4, large quantities, 0.82267, 2
+4, little pricey, 0.824611, 3
+4, large flat-screen HDTVs, 0.959119, 6
+4, grilled cheese sandwich, 0.933655, 6
+4, night fish fry, 0.957, 7
+4, old-school Wisco decor, 0.933276, 7
+4, good selection, 0.92929, 8
+4, Monroe St. landmarks, 0.924, 8
+4, Packer game, 0.962348, 9
+4, quintessential American tavern, 0.915401, 9
+5, Small neighborhood tavern, 0.926604, 0
+5, regulars, 0.266279, 0
+5, swiss mushroom burger, 0.934902, 6
+5, TVs, 0.220314, 8
+5, great burger, 0.601646, 9
+5, wonderful reunion, 0.533999, 9

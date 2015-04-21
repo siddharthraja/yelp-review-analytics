@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, unfortunate experience, 0.439486, 0
+1, pm, 0.327977, 0
+1, terrible bartenders, 0.436109, 1
+1, baby showers, 0.430953, 1
+1, drinks, 0.450699, 2
+1, baby shower, 0.440475, 2
+1, blue Christmas lights, 0.521521, 3
+1, high-schoolers, 0.336072, 3
+1, Atomic Koi, 0.954477, 5
+1, bartender, 0.540003, 5
+1, atmosphere, 0.362806, 6
+1, Koi numerous times, 0.599937, 8
+1, big scene, 0.430695, 8
+3, small customer count, 0.900554, 0
+3, bartenders, 0.490127, 0
+3, spot, 0.45919, 2
+3, people, 0.513454, 3
+3, seating, 0.462502, 3
+3, night, 0.570978, 5
+3, time, 0.529744, 6
+3, bartender, 0.481373, 6
+3, prompt service, 0.728646, 7
+3, South Beach, 0.689755, 7
+3, place, 0.513152, 8
+3, a-ok, 0.505352, 8
+3, basic mixed drinks, 0.919563, 9
+3, tasty martinis, 0.745519, 9
+4, Cool little place, 0.756573, 0
+4, old school shuffleboard, 0.681175, 0
+4, Atomic Koi, 0.678676, 1
+4, uptight suburban whitey, 0.661527, 1
+4, Ms. PacMan machine, 0.674182, 2
+4, tacky electronic jukeboxes, 0.639777, 2
+4, great vodka gimlet, 0.698554, 3
+4, middle scale bar, 0.677161, 3
+4, jade monkey, 0.942118, 4
+4, place, 0.833203, 5
+4, bar, 0.774488, 5
+4, Strong mixed drinks, 0.719543, 6
+4, great equipment liquidator, 0.709865, 6
+4, great drink menu, 0.724283, 7
+4, funky hip look, 0.671722, 7
+4, Great neighborhood bar, 0.739488, 8
+4, Cool date place, 0.73727, 8
+4, late night drinks, 0.70209, 9
+4, Fantastic bartenders, 0.630094, 9
+5, Koi Cocktail Lounge, 0.832646, 0
+5, great outdoor patio, 0.789491, 0
+5, Kick ass place, 0.775878, 1
+5, Koi Therapy, 0.704491, 3
+5, bar tenders, 0.645995, 3
+5, shuffle board, 0.909176, 6
+5, place, 0.836312, 6
+5, outdoor patio, 0.895344, 7
+5, nice chill bar, 0.838941, 7
+5, great atmosphere, 0.884324, 8
+5, nifty Koi tank, 0.802339, 8
+5, great drink list, 0.814119, 9
+5, reasonably priced drinks, 0.755428, 9

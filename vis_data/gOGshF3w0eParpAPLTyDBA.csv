@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+3, chicken caeser salad, 0.90773, 0
+3, stellar dining experience, 0.890869, 0
+3, berry compote, 0.803792, 1
+3, unused udder dangling, 0.883761, 2
+3, pretty half-hearted effort, 0.877397, 2
+3, Suited office workers, 0.891513, 3
+3, constant early morning, 0.868795, 3
+3, good things, 0.896352, 4
+3, bit, 0.804813, 4
+3, cocktails, 0.824367, 5
+3, food, 0.87835, 6
+3, high hopes, 0.814497, 6
+3, nice meal, 0.938697, 7
+3, restaurant quality dishes, 0.904408, 7
+3, lemon tart, 0.901703, 8
+3, basement bar/reception area, 0.876451, 8
+3, modern look/ feel, 0.865886, 9
+3, polite staff, 0.810453, 9
+4, lunch menu, 0.934512, 0
+4, posh Burger meal, 0.911782, 0
+4, weekend evenings, 0.824575, 1
+4, piano bar, 0.828643, 2
+4, good night, 0.824901, 2
+4, awkward experience, 0.841948, 3
+4, bed/2 cocktails/breakfast package, 0.924168, 6
+4, basement area, 0.840818, 6
+4, Frederick Street, 0.954604, 7
+4, brownie style dessert, 0.927581, 7
+4, superbly bubbly prosecco, 0.983916, 8
+4, nice balsamic salad, 0.971204, 8
+4, nice creamy sauce, 0.963486, 9
+4, stylish modern décor, 0.926474, 9
+5, Montpeliers venues, 0.936244, 0
+5, half price, 0.812109, 0
+5, time, 0.690492, 1
+5, depressingly small glass, 0.901713, 2
+5, Vanilla Daisy, 0.77517, 2
+5, vanilla vodka, 0.775683, 3
+5, intermittent sun, 0.771868, 3
+5, green leafy plants, 0.940349, 6
+5, water feature, 0.781329, 6
+5, Better By Half, 0.947287, 7
+5, Japanese garden terrace, 0.93289, 7
+5, pay great attention, 0.921931, 8
+5, passionfruit frozen margarita, 0.905494, 8
+5, good tasty food, 0.891149, 9
+5, funky relaxed atmosphere, 0.878955, 9

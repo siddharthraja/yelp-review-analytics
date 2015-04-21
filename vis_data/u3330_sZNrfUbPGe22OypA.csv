@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, clientele lacks class, 0.974094, 0
+1, Madison college scene, 0.925269, 0
+1, fun divey, 0.619857, 1
+1, liquor, 0.367354, 1
+1, redo coke, 0.625434, 2
+1, questionable food/drinks., 0.623097, 2
+1, attractive people, 0.612956, 3
+1, soap, 0.42731, 3
+1, better bars, 0.631077, 4
+1, high end place, 0.915278, 6
+1, friends, 0.361579, 6
+1, free refills, 0.608409, 7
+2, Sticky table tops, 0.935971, 0
+2, Boooo, 0.332035, 1
+2, lame music, 0.757313, 2
+2, tools, 0.336755, 3
+3, random beer pong, 0.865988, 0
+3, price pitchers, 0.513618, 0
+3, cheap beer, 0.459731, 2
+3, beer pong, 0.918618, 6
+3, credit card, 0.41684, 6
+3, free mini corn, 0.851428, 7
+3, Wednesday nights, 0.488107, 7
+3, rooftop bar, 0.559338, 8
+3, great spot, 0.452298, 8
+5, weekends, 0.581644, 0
+5, nights, 0.554114, 2
+5, thursday, 0.546786, 2
+5, great atmosphere, 0.960244, 9
+5, friendly staff, 0.781785, 9

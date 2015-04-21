@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, pool table, 0.732726, 0
+1, excellent weekend, 0.728718, 0
+1, complete rip-off, 0.832152, 1
+1, mortal enemies, 0.723278, 1
+1, bartender, 0.688365, 2
+1, people, 0.440906, 2
+1, deep seated wrongness, 0.941509, 3
+1, bar crawls, 0.685816, 3
+1, place, 0.544012, 4
+1, innate, 0.401788, 6
+1, fascinating story, 0.725972, 7
+1, random name change, 0.710138, 7
+1, tons, 0.386792, 8
+4, college-aged bar hoppers, 0.889125, 0
+4, East Carson Street, 0.861943, 0
+4, tasty pasta pockets, 0.818766, 1
+4, rainy Friday evening, 0.818113, 1
+4, heart, 0.532372, 2
+4, expectations, 0.532279, 2
+4, Southside dive bar, 0.956856, 3
+4, good bar, 0.709899, 3
+4, jukebox, 0.579107, 5
+4, Carson Street, 0.867435, 6
+4, dining area, 0.663604, 6
+4, Christmas music, 0.707569, 7
+4, couple brews, 0.701816, 7
+4, perfect place, 0.854173, 8
+4, great time, 0.699676, 8
+4, casual date night, 0.841901, 9

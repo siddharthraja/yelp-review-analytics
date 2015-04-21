@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, Terrible bar, 0.80326, 0
+1, tvs suck, 0.642487, 0
+1, Terrible bartender, 0.935971, 1
+2, Thursday night cause, 0.900389, 0
+2, college kids, 0.573882, 0
+2, skeevy frat house, 0.840012, 1
+2, beers, 0.304615, 2
+2, destination, 0.293785, 3
+2, Montreal, 0.282854, 3
+2, bit, 0.295686, 6
+2, things, 0.259281, 6
+3, il faisait pas, 0.911927, 0
+3, ne sont pas, 0.908828, 0
+3, frat house, 0.915884, 2
+3, Shit N Dales, 0.807522, 2
+3, cover charge, 0.809005, 3
+3, summer time, 0.803914, 3
+3, great dive bar, 0.902373, 6
+3, expérience au Madhatter, 0.898126, 6
+3, Interesting place, 0.849155, 7
+3, decent selection, 0.830445, 7
+3, comfortable dive, 0.808505, 8
+3, blue collar kinda, 0.889135, 9
+3, dope rooftop patio, 0.882808, 9
+4, et le jeudi, 0.893827, 0
+4, L'ambiance est excellente, 0.85517, 0
+4, shitty fake ID, 0.794452, 1
+4, beer kinda night, 0.843408, 2
+4, stupidest pick-up line, 0.817261, 2
+4, rue cresent, 0.736193, 3
+4, place, 0.818965, 6
+4, Bonne ambiance, 0.750744, 6
+4, dive bar appeal, 0.993295, 7
+4, rooftop patio, 0.833126, 7
+4, cool vintage decor, 0.783749, 8
+4, Elvis Burger, 0.732533, 8
+4, beer prices, 0.721514, 9
+5, Molson ex, 0.967065, 0
+5, pitchers, 0.64676, 0
+5, pub food, 0.817952, 8
+5, staff, 0.388773, 8

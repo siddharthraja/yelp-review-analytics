@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, worst restaurant experiences, 0.56496, 0
+1, innocent drunk guy, 0.544993, 0
+1, college kids, 0.500393, 1
+1, Fat Tire, 0.49997, 1
+1, waitress, 0.602947, 2
+1, greasy bar food, 0.55843, 2
+1, Casey Moore, 0.712338, 3
+1, bar, 0.692384, 3
+1, place, 0.961631, 4
+1, time, 0.698853, 4
+1, food, 0.883377, 5
+1, people, 0.597509, 5
+1, oyster house, 0.593206, 6
+1, Raspberry type beer, 0.488929, 6
+1, good place, 0.499893, 7
+1, great place, 0.497089, 9
+1, pretty nice patio, 0.496238, 9
+2, Irish type food, 0.640638, 0
+2, literally addictive oysters, 0.624985, 0
+2, Pretty average establishment, 0.599398, 1
+2, beer selection, 0.597923, 1
+2, separate checks, 0.664485, 2
+2, Blarney Stone, 0.614884, 2
+2, pudgy ASU kids, 0.596777, 3
+2, orange spray-tanned Jersey, 0.588352, 3
+2, food, 0.783741, 4
+2, service, 0.665856, 4
+2, place, 0.907852, 5
+2, casey moore, 0.725993, 5
+2, oyster house, 0.699367, 6
+2, good place, 0.646263, 6
+2, great laid-back place, 0.64853, 7
+2, place people, 0.61811, 7
+2, cool place, 0.610277, 8
+2, good food, 0.60675, 8
+2, Quick attentive bartenders, 0.593666, 9
+3, good time, 0.62462, 0
+3, Blue Point Oysters, 0.61483, 0
+3, college bar hangout, 0.602656, 1
+3, oyster house, 0.657156, 2
+3, fresh raw oysters, 0.612852, 2
+3, fried oysters, 0.708001, 3
+3, fried bar food, 0.654006, 3
+3, Casey Moore, 0.868479, 4
+3, time, 0.700475, 4
+3, place, 0.93789, 5
+3, oysters, 0.859352, 5
+3, atmosphere, 0.6719, 6
+3, weekend night crowd, 0.597643, 6
+3, great outdoor patio, 0.615073, 7
+3, great food, 0.607274, 7
+3, great place, 0.719669, 8
+3, pretty good deal, 0.664281, 8
+3, nice place, 0.64469, 9
+4, Great bar service, 0.431271, 0
+4, bar food fare, 0.411689, 0
+4, Good bar food, 0.457226, 2
+4, Good neighborhood bar, 0.416032, 2
+4, standard bar food, 0.435111, 3
+4, simple bar food, 0.418519, 3
+4, Tempe, 0.472397, 4
+4, casey moore, 0.917925, 5
+4, place, 0.765166, 5
+4, friends, 0.458085, 6
+4, beer, 0.442285, 6
+4, good time, 0.511885, 7
+4, pretty good time, 0.453289, 7
+4, great place, 0.565621, 8
+4, great food, 0.451169, 8
+4, great great bar, 0.470711, 9
+4, great late night, 0.39532, 9
+5, frequent Casey Moore, 0.49973, 0
+5, Dear Casey, 0.487776, 0
+5, Casey Moores, 0.470983, 1
+5, chill Casey, 0.478933, 2
+5, main bar, 0.46841, 2
+5, blarney stone, 0.44912, 3
+5, people, 0.500117, 4
+5, time, 0.485176, 4
+5, casey moore, 0.921703, 5
+5, bar, 0.622645, 5
+5, place, 0.596729, 6
+5, ahhh  Casey Moore, 0.494071, 6
+5, Dearest Casey Moore, 0.505947, 7
+5, beer, 0.480891, 7
+5, favorite bar, 0.532904, 8
+5, great place, 0.516302, 8
+5, great patio, 0.456748, 9
+5, place. great food, 0.451038, 9

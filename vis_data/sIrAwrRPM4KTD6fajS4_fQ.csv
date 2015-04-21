@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+2, shwank cocktail bar, 0.996168, 0
+2, nice bars, 0.798875, 0
+2, Amore Dogs upstairs, 0.998988, 2
+2, Underdogs fulfils, 0.86492, 2
+2, living room, 0.735866, 3
+2, final straw, 0.726003, 3
+2, cocktail list, 0.772699, 4
+2, pubs, 0.574248, 4
+2, expectations, 0.465294, 6
+2, standby favourites, 0.748839, 7
+2, fancy house, 0.711286, 7
+2, good beer, 0.773833, 8
+3, Yankee beers, 0.719256, 0
+3, big sink, 0.688068, 0
+3, finger, 0.380159, 1
+3, case, 0.362475, 2
+3, groups, 0.364893, 3
+3, little quirky cafe, 0.929299, 6
+3, nice place, 0.833378, 6
+3, little snacks menu, 0.933029, 7
+3, nice fireplace, 0.845709, 7
+3, Cosy couches, 0.995408, 8
+3, windy Edinburgh night, 0.950915, 8
+3, bottles, 0.386847, 9
+3, couple, 0.379946, 9
+4, peanut butterjelly cheesecake, 0.924507, 0
+4, comfy seats, 0.744258, 0
+4, Edinburgh winter, 0.736773, 2
+4, squishy sofas, 0.727586, 2
+4, wee corner, 0.709859, 3
+4, Thistle Street, 0.705647, 3
+4, cocktails, 0.672376, 4
+4, time, 0.632821, 5
+4, town, 0.576654, 5
+4, festive season, 0.737065, 6
+4, Christmas Market, 0.72274, 6
+4, spacious basement bar, 0.868306, 7
+4, beer snacks, 0.720904, 7
+4, armchairs, 0.555805, 8
+4, cosy pub, 0.802749, 9
+5, table service, 0.894809, 0
+5, cold bar chair, 0.85647, 0
+5, surplus yelpers-to-seats ratio, 0.884399, 2
+5, different peeps, 0.726286, 2
+5, small basement Underdogs, 0.93395, 3
+5, basement bar, 0.742883, 3
+5, chic drink, 0.795451, 6
+5, nice couches, 0.745808, 6
+5, lovely wee place, 0.948042, 7
+5, Decent wine list, 0.878954, 7
+5, Hanover Street, 0.701316, 8
+5, bartender, 0.546826, 8
+5, yummy food, 0.742851, 9
+5, super cool, 0.718407, 9

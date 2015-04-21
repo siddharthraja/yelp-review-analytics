@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, male customer, 0.850583, 0
+1, usual customers, 0.731612, 0
+1, late night pizza, 0.881294, 1
+1, lady bartender, 0.869695, 1
+1, Everytime mark, 0.735841, 2
+1, complete a**hole, 0.733885, 2
+1, bartender, 0.985173, 3
+1, right body parts, 0.873148, 3
+1, beers, 0.624775, 4
+1, drink, 0.72009, 5
+1, bud light response, 0.884781, 6
+1, better bartender, 0.884617, 6
+1, good time, 0.706662, 7
+1, big group, 0.697595, 7
+1, chicken bbq pizza, 0.877611, 8
+1, quick dinner, 0.745102, 8
+1, Saturday night, 0.732341, 9
+1, place, 0.570871, 9
+3, nachos, 0.703147, 3
+3, drink, 0.670326, 3
+3, local news, 0.901493, 6
+3, couch, 0.664861, 6
+4, extra perk, 0.629094, 0
+4, cheap drinks, 0.602827, 0
+4, new go-to hide, 0.820765, 1
+4, things, 0.265713, 1
+4, low prices, 0.573766, 2
+4, particular location, 0.561626, 2
+4, good service, 0.862133, 6
+4, bartender Mark, 0.619693, 6
+4, ice-cold beers, 0.643256, 7
+4, Comfy seating, 0.555466, 7
+4, attractive lady bartenders, 0.932794, 8
+4, new drinks, 0.611598, 8
+5, bartender, 0.58379, 0
+5, Mark, 0.428934, 0
+5, chicken wings, 0.903798, 2
+5, fires, 0.505947, 2
+5, WingStop, 0.590682, 6
+5, customers, 0.427328, 6
+5, great atmosphere, 0.731896, 8
+5, place, 0.44521, 8
+5, great guy, 0.779037, 9

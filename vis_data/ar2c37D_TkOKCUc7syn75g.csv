@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+2, dance moves, 0.743216, 0
+2, good songs, 0.736706, 0
+2, washroom phobia, 0.79969, 1
+2, bar tender, 0.746555, 1
+2, deep fried food, 0.997118, 2
+2, drag kings, 0.787039, 2
+2, super kitschy, 0.816297, 3
+2, drag queen, 0.811675, 3
+2, Chicago bar scene, 0.957627, 6
+2, pool tables, 0.766115, 6
+2, multilevel space, 0.818743, 7
+2, place look, 0.768438, 7
+2, Proud Mary, 0.752262, 8
+2, Tina Turner, 0.749426, 8
+4, main DJ booth, 0.908567, 0
+4, Rue St Catherine, 0.903887, 0
+4, lesbian night, 0.62624, 1
+4, Friday, 0.359883, 1
+4, bit, 0.356355, 2
+4, Saturday, 0.355034, 2
+4, levels, 0.357032, 3
+4, bars, 0.35623, 3
+4, bar, 0.395985, 5
+4, New York, 0.589706, 6
+4, cabaret, 0.358126, 6
+4, decent beer list, 0.856306, 7
+4, well-designed separate spaces, 0.846278, 7
+4, ridiculously fun, 0.646746, 8
+4, Le Drugstore, 0.629373, 8
+4, server, 0.358062, 9

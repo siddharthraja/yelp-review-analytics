@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+4, hefty portion size, 0.932958, 0
+4, house red wine, 0.882136, 0
+4, hummus, 0.578826, 2
+4, edges, 0.484553, 2
+4, alcohol, 0.453815, 3
+4, great spot, 0.719389, 6
+4, juice, 0.462384, 6
+4, grilled cheese, 0.729859, 7
+4, non-beer lovers, 0.688169, 7
+4, Good beer selection, 0.902413, 9
+4, good reviews, 0.634403, 9
+5, selections, 0.436042, 0
+5, Ontario, 0.405504, 0
+5, complaint, 0.438781, 1
+5, Bent Elbow, 0.83668, 2
+5, beer lovers, 0.705167, 6
+5, door, 0.420631, 6
+5, beer, 0.970186, 7
+5, craft beer, 0.703886, 7
+5, Chances, 0.441585, 8
+5, heaven, 0.434756, 8
+5, melt, 0.443649, 9
+5, mouth, 0.433306, 9

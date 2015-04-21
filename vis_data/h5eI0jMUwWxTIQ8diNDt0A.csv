@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, PEPPERCORN CRUSTED AHI, 0.735754, 0
+1, extremely shrimpy taste, 0.715764, 0
+1, FOOD POISONING, 0.655702, 1
+1, picky eater, 0.614721, 1
+1, trader vic, 0.881245, 2
+1, wait staff, 0.738769, 2
+1, crispy rice roll, 0.901544, 3
+1, correct food items, 0.763496, 3
+1, food, 0.851741, 5
+1, drinks, 0.642871, 5
+1, better fried rice, 0.71805, 6
+1, Tiki Bowl, 0.626786, 6
+1, surprisingly Southern Wine, 0.706544, 7
+1, great food, 0.639567, 7
+1, chicken tender appetizer, 0.704658, 8
+1, Planet Hollywood Hotel, 0.698662, 8
+2, drinks half star, 0.794972, 0
+2, Mai Tai syrup, 0.792276, 0
+2, Asian inspired menus, 0.7645, 1
+2, coconut sludge, 0.698498, 1
+2, poor food, 0.706838, 2
+2, Trader Vic, 0.899119, 3
+2, Ahi poke, 0.70283, 3
+2, food, 0.795443, 4
+2, place, 0.728303, 4
+2, lobster potstickers, 0.922888, 6
+2, pork sliders, 0.816756, 6
+2, mai tai, 0.998436, 7
+2, sea bass, 0.878059, 7
+2, Lobster Potstickers YUM, 0.849306, 8
+2, nice view, 0.794287, 8
+2, waffles yum, 0.740494, 9
+3, traditional Tiki Bowl, 0.706571, 0
+3, Tiki Bowl half, 0.687516, 0
+3, long time, 0.60125, 1
+3, new Tiki Bowl, 0.694004, 2
+3, gimmicky island-beach theme, 0.647907, 2
+3, mediocre drinks, 0.626042, 3
+3, GREAT food, 0.622226, 3
+3, Tiki Bowl, 0.904661, 4
+3, food, 0.669007, 4
+3, drinks, 0.677174, 5
+3, steak sandwich, 0.649053, 5
+3, fried rice, 0.780208, 6
+3, smaller menehune bowl, 0.686939, 6
+3, Trader Vic, 0.820078, 7
+3, pork sliders, 0.773705, 7
+3, non-alcoholic mixed drinks, 0.669099, 8
+3, char siu bao, 0.647122, 8
+3, Jimmy Buffett music, 0.639773, 9
+4, fruity rum drinks, 0.507038, 0
+4, typical fried cream, 0.491265, 0
+4, all-in fried rice, 0.46743, 2
+4, stupid web site, 0.430715, 2
+4, alcoholic coffee drinks, 0.50543, 3
+4, fried rice, 0.490615, 3
+4, trader vic, 0.781534, 4
+4, Trader Vics, 0.612858, 4
+4, mai tai, 0.976586, 5
+4, food, 0.497182, 5
+4, drinks, 0.601543, 6
+4, coconut chicken, 0.47078, 6
+4, Trader Vics Mai, 0.531767, 7
+4, mai tais, 0.48754, 7
+4, bbq chicken salad, 0.61925, 8
+4, great view, 0.502698, 8
+4, caesar salad, 0.472093, 9
+4, great little band, 0.462734, 9
+5, known quantity, 0.618333, 0
+5, pommagranite juice, 0.602991, 0
+5, Planet Hollywood, 0.607336, 2
+5, roof deck, 0.598971, 2
+5, late night munchies, 0.793941, 3
+5, place, 0.476648, 3
+5, old pair Wellingtons, 0.796916, 6
+5, sheep ranch, 0.615337, 6
+5, Mai Tai, 0.947916, 7
+5, Trader Vic, 0.942585, 7
+5, Wasabi Bloody Mary, 0.803406, 8
+5, Bellagio fountains, 0.667858, 8
+5, bowl drinks, 0.708228, 9
+5, Great drinks, 0.690473, 9

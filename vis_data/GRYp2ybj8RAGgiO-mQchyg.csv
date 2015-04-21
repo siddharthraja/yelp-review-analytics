@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, service, 0.264547, 0
+1, mtl, 0.40937, 1
+1, experience, 0.276351, 1
+1, disgusting quich, 0.817756, 2
+1, carpaccio, 0.391127, 2
+1, wet dog food, 0.924147, 3
+1, tartare, 0.265461, 3
+1, decor, 0.319334, 7
+4, vegetable platter tapas, 0.931586, 0
+4, Eggplant Pizza, 0.621218, 0
+4, Mile End, 0.793844, 2
+4, particular tapas, 0.741292, 2
+4, skepticism, 0.446071, 3
+4, night, 0.433778, 3
+4, cod fritters, 0.866146, 4
+4, creamy tartar sauce, 0.791166, 7
+4, Grilled Chorizo, 0.646083, 7
+5, tilapia ceviche, 0.705223, 0
+5, tajine d'agneau, 0.694595, 0
+5, little bit pricy, 0.932415, 2
+5, downside, 0.555339, 2
+5, single miss, 0.713235, 3
+5, eggplant pizza, 0.953277, 6
+5, mango salad, 0.932816, 6
+5, tapas, 0.92324, 7
+5, delectable taste discovery, 0.907657, 7
+5, favorite tapas, 0.831493, 8
+5, great place, 0.749907, 8
+5, Du Parc street, 0.85545, 9
+5, hidden gem, 0.740426, 9

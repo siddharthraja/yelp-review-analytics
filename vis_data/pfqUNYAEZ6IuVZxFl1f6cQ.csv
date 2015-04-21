@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, absolute rudest cocktail, 0.934563, 0
+1, Saturday night, 0.847647, 0
+1, cocktail waitresses, 0.851084, 1
+1, drink prices, 0.626728, 1
+1, shania twain showroom, 0.783282, 2
+1, break Caesars Palace, 0.772913, 2
+1, shift change, 0.792765, 3
+1, time, 0.448439, 3
+1, drinks, 0.426511, 4
+1, excellent cocktail, 0.637244, 6
+1, work, 0.353198, 6
+1, Yes-only thing, 0.572991, 8
+1, girls, 0.350175, 8
+2, Shadow Lounge, 0.769155, 0
+2, creepy idea, 0.752902, 0
+2, Sorry Shadow Bar, 0.981388, 1
+2, shadow dancer screens, 0.959363, 1
+2, Pure, 0.461945, 2
+2, bartenders, 0.403119, 3
+2, midnight, 0.376984, 3
+2, mixed drinks, 0.682931, 6
+2, Tuesday night, 0.661533, 6
+2, white screens, 0.673584, 7
+2, quick drink, 0.660845, 7
+2, Sunday night, 0.634519, 8
+3, pretty small bar, 0.673116, 0
+3, NBA Playoff game, 0.646688, 0
+3, abnormally large nipples, 0.71164, 1
+3, lightly lined bra, 0.701726, 1
+3, Shadow Bar, 0.787761, 2
+3, waitress didnt, 0.560185, 2
+3, slow Sunday night, 0.660864, 3
+3, annual team dinner, 0.643836, 3
+3, nice place, 0.811277, 4
+3, drinks, 0.957319, 5
+3, place, 0.843635, 5
+3, completely silent men, 0.641955, 6
+3, unusual experience, 0.557142, 6
+3, good place, 0.768652, 7
+3, real girls, 0.67233, 7
+3, Good drinks, 0.626419, 8
+3, interesting scene, 0.55616, 8
+4, Vegas Strip prices, 0.45177, 0
+4, best bar, 0.443268, 0
+4, douche bag bar, 0.46991, 1
+4, little low key, 0.424072, 1
+4, cool bar tricks, 0.471336, 2
+4, sexy ass place, 0.446307, 2
+4, Shadow Bar, 0.865757, 3
+4, bartenders, 0.594109, 3
+4, shadow dancers, 0.691457, 4
+4, night, 0.647451, 4
+4, bar, 0.939963, 5
+4, place, 0.73058, 5
+4, drinks, 0.758157, 6
+4, Carnival Court Bartender, 0.434005, 6
+4, flexible shadow girls, 0.462187, 7
+4, little bit, 0.457615, 7
+4, Great place, 0.514489, 8
+4, super strong drinks, 0.50079, 8
+4, nice classy bar, 0.497334, 9
+4, pretty cool place, 0.464512, 9
+5, hot naked women, 0.773931, 0
+5, back-lit silk screens, 0.770569, 0
+5, strip club, 0.745167, 1
+5, girlies. great stop, 0.796002, 2
+5, Shadow Bar classes, 0.792769, 2
+5, shadow bar, 0.994963, 3
+5, Best bar tender, 0.772591, 3
+5, drinks, 0.848143, 5
+5, night, 0.775765, 5
+5, great dj, 0.717899, 6
+5, shadow dancers, 0.710749, 6
+5, strong drinks, 0.789703, 7
+5, Las Vegas Blvd, 0.767648, 7
+5, great place, 0.830887, 8
+5, good size glass, 0.773212, 8
+5, Great lounge-y vibe, 0.7637, 9
+5, great conversation starter, 0.760394, 9

@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, George Street, 0.853599, 0
+1, Lulu, 0.708141, 0
+1, Opal Lounge, 0.95807, 1
+1, awful design, 0.903139, 1
+1, establishment, 0.31875, 2
+1, time, 0.261431, 2
+2, black Amex card, 0.64325, 0
+2, mid-price drinks, 0.514938, 0
+2, Edinburgh society, 0.502742, 1
+2, pervy guys, 0.477322, 1
+2, Lulu, 0.572504, 3
+2, New Town, 0.493129, 3
+2, bit, 0.370015, 4
+2, Cheesy, 0.340724, 4
+2, George Street, 0.948051, 5
+2, atmosphere, 0.370316, 5
+2, George Street clubs, 0.615891, 6
+2, great bars, 0.491687, 6
+2, Edinburghs finest selection, 0.641443, 7
+2, packed dance floor, 0.640024, 7
+2, cocktail menu, 0.493048, 8
+2, lovely decor, 0.488038, 8
+3, night post-midnight dance-off, 0.744054, 0
+3, Tigerlily upstairs, 0.601531, 0
+3, low ceilings, 0.748742, 1
+3, particular post-work crowd, 0.710072, 1
+3, dance floor, 0.742489, 2
+3, post-work drink mid-week, 0.717065, 2
+3, saturday night, 0.729126, 3
+3, Saturday Night Fever-esque, 0.717457, 3
+3, networking event, 0.911561, 4
+3, bar, 0.605004, 4
+3, business networking event, 0.73773, 6
+3, Good tunes, 0.563113, 6
+3, mid-week evening venue, 0.768492, 7
+3, good drinks deals, 0.76713, 7
+3, reasonable entrancw price, 0.704805, 8
+3, funny place, 0.684731, 8
+4, competetive student price, 0.63927, 0
+4, bigger dance floor, 0.621311, 0
+4, Po Na Na, 0.614869, 1
+4, dance floor, 0.759614, 2
+4, George Street/New Town, 0.632884, 2
+4, George Street clubs, 0.661358, 3
+4, normal student bars, 0.649325, 3
+4, George Street, 0.923186, 5
+4, drinks, 0.604185, 5
+4, Lulu, 0.772756, 6
+4, good standing space, 0.633424, 6
+4, Saturday Night Fever, 0.625488, 7
+4, free drinks, 0.551218, 7
+4, professional George Street, 0.679309, 8
+4, good cocktail range, 0.660986, 8
+4, cool young people, 0.657223, 9
+4, pretty tight dancefloor, 0.638415, 9

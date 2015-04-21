@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, carne asada tacos, 0.532078, 0
+1, required access, 0.518593, 0
+1, disabled parking spaces, 0.595041, 1
+1, place negative stars, 0.545352, 1
+1, loud  annoying place, 0.556911, 2
+1, Salty Señorita, 0.545456, 2
+1, boycott Salty Senorita, 0.654376, 3
+1, service, 0.639596, 3
+1, place, 0.897954, 4
+1, drinks, 0.638542, 4
+1, beer, 0.566067, 5
+1, Salty Senorita, 0.91002, 6
+1, food, 0.865883, 6
+1, decent mexican food, 0.539863, 7
+1, titanium rod, 0.513121, 7
+1, staff members, 0.611122, 8
+1, special event, 0.519492, 8
+2, food colored taco, 0.589176, 0
+2, Peoria Sports Complex, 0.576738, 0
+2, salty senorita, 0.590353, 1
+2, salty senorita peoria, 0.557171, 1
+2, ........., 0.614148, 2
+2, food runner, 0.555754, 2
+2, food, 0.944047, 3
+2, tacos, 0.530142, 3
+2, place, 0.826242, 4
+2, service, 0.801416, 4
+2, menu, 0.503393, 5
+2, server, 0.497516, 5
+2, bar, 0.588139, 6
+2, calamari taco, 0.526174, 6
+2, ok place, 0.499737, 7
+2, Steak avocado salad, 0.49868, 7
+2, good drinks, 0.520679, 8
+2, good time, 0.503636, 8
+2, great place, 0.528238, 9
+3, good customer service, 0.71234, 0
+3, happy hour person, 0.710404, 0
+3, beef tacos, 0.729217, 1
+3, high school, 0.773784, 2
+3, Salty Senorita, 0.760798, 2
+3, good cheap margaritas, 0.771443, 3
+3, typical bar food, 0.718761, 3
+3, place, 0.854353, 4
+3, tacos, 0.814361, 4
+3, food, 0.928247, 5
+3, margaritas, 0.812425, 5
+3, happy hour price, 0.727809, 6
+3, Great place, 0.704436, 6
+3, sand volleyball, 0.874161, 7
+3, volleyball court, 0.781489, 7
+3, fun place, 0.743336, 8
+3, Peoria Sports Complex, 0.742605, 8
+3, good food, 0.69836, 9
+4, Spring Training game, 0.861536, 0
+4, fun outdoor environment, 0.847225, 0
+4, different time zone, 0.842533, 1
+4, Salty Señorita locations, 0.903401, 3
+4, ........., 0.885115, 3
+4, good service, 0.864992, 4
+4, place, 0.954779, 5
+4, salty, 0.991582, 6
+4, Scottsdale type place, 0.862179, 6
+4, spring training, 0.917955, 7
+4, good looking women, 0.895986, 7
+4, great outdoor place, 0.880189, 8
+4, chicken tacos, 0.86413, 8
+4, solidly tasty choice, 0.84737, 9
+4, big backyard party, 0.835919, 9
+5, best summertime place, 0.885064, 0
+5, volley ball court, 0.8694, 0
+5, spring training games, 0.899001, 1
+5, outdoor bar, 0.751391, 1
+5, snobby east siders, 0.899559, 2
+5, west siders, 0.775452, 2
+5, dive club meeting, 0.859206, 3
+5, Salty Senorita, 0.754821, 3
+5, amazing margarita Ashley, 0.904899, 6
+5, cab ride home, 0.88616, 6
+5, huge outdoor venue, 0.940196, 7
+5, post game shenanigans, 0.903027, 7
+5, Great outdoor atmosphere, 0.900423, 8
+5, great meeting, 0.768859, 8
+5, Mike Love, 0.737574, 9

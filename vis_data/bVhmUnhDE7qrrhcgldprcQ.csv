@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, burnt cold food, 0.585999, 0
+1, management. worst experience, 0.573666, 0
+1, short blonde waitress, 0.812931, 1
+1, mild food poisoning, 0.601312, 1
+1, food, 0.934636, 2
+1, tiny styrofoam box, 0.568385, 2
+1, place, 0.748324, 3
+1, Native New Yorker, 0.726099, 3
+1, wings, 0.753531, 4
+1, leftover wings, 0.587837, 4
+1, San Tan Valley, 0.746053, 6
+1, sauteed mushroom hamburger, 0.590017, 6
+1, lunch special salad, 0.545422, 7
+2, San Tan Valley, 0.704086, 0
+2, ranch flat bread, 0.674235, 0
+2, food kinda sux, 0.687864, 1
+2, Typical bar food, 0.685662, 1
+2, great service, 0.620493, 2
+2, patty melt, 0.606896, 2
+2, good service, 0.785875, 3
+2, flat bread, 0.682294, 3
+2, food, 0.919207, 4
+2, steak fries, 0.832833, 4
+2, bar area, 0.839395, 5
+2, place, 0.7555, 5
+2, load steak fries, 0.724372, 6
+2, waitress, 0.722818, 6
+2, good burger, 0.63706, 7
+2, calzone order, 0.618481, 7
+2, Chandler Heights location, 0.681266, 8
+2, Native New Yorker, 0.678692, 8
+3, average  food, 0.7249, 0
+3, main course, 0.708156, 0
+3, Don Pedros, 0.9968, 1
+3, nasty salsa bar, 0.974054, 1
+3, service, 0.773203, 2
+3, napkins, 0.473893, 2
+3, bad wrap, 0.680142, 3
+3, time, 0.58254, 3
+3, food, 0.77519, 5
+3, place, 0.662988, 5
+3, Good service, 0.72522, 6
+3, chicken wings, 0.710561, 6
+3, service. wings, 0.768203, 7
+3, good job, 0.686247, 7
+3, meal, 0.459497, 8
+4, mean Long Island, 0.843419, 0
+4, personal problems, 0.493022, 0
+4, kitchen table, 0.492232, 2
+4, wing night, 0.467143, 3
+4, best bar food, 0.795681, 6
+4, waiter, 0.225779, 6
+4, different wing sauces, 0.931173, 7
+4, good time, 0.474113, 7
+4, sweet tea, 0.609005, 8
+4, great servers, 0.493664, 8
+4, busy night, 0.500061, 9
+4, great experience, 0.487276, 9
+5, bad experience, 0.355636, 1
+5, reviews, 0.228362, 1
+5, SAN TAN VALLEY, 0.467454, 2
+5, negative comments, 0.35983, 2
+5, family, 0.228369, 3
+5, items, 0.228343, 3
+5, Native New Yorker, 0.936806, 4
+5, things, 0.259207, 4
+5, saturday night, 0.362216, 6
+5, staff, 0.316365, 6
+5, actual upstate Native, 0.496587, 7
+5, great wing specials, 0.466104, 7
+5, great Thursday specials, 0.523263, 8
+5, great service, 0.371601, 8
+5, great wings, 0.514818, 9
+5, good service, 0.473353, 9

@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, final meat course, 0.722329, 0
+1, dining experience, 0.706959, 0
+1, senior prom date, 0.710444, 1
+1, Extremely slow service, 0.707961, 1
+1, baked chicken dish, 0.720701, 2
+1, entire ride home, 0.704075, 2
+1, service, 0.798126, 3
+1, server, 0.755547, 3
+1, food, 0.950153, 4
+1, course, 0.812489, 4
+1, wine, 0.8606, 5
+1, quiessence, 0.783077, 5
+1, tasting menu, 0.760074, 6
+1, wine list, 0.754472, 6
+1, wine pairing, 0.782563, 7
+1, normal food service, 0.743495, 7
+1, higher end place, 0.717444, 8
+2, Oven tasting menu, 0.818268, 0
+2, French press coffee, 0.801775, 0
+2, painfully slow service, 0.806568, 1
+2, high end, 0.804086, 1
+2, course, 0.811567, 2
+2, chef tasting menu, 0.809326, 2
+2, Pre Fix menu, 0.801301, 3
+2, vanilla ice cream, 0.788193, 3
+2, wait staff, 0.958743, 4
+2, food, 0.867284, 4
+2, ice cream, 0.842798, 5
+2, menu, 0.825606, 5
+2, wine, 0.827066, 6
+2, service, 0.823227, 6
+2, apple crisp, 0.962221, 7
+2, bread, 0.80888, 7
+2, creative tasting menu, 0.819644, 8
+2, lobster mushroom pasta, 0.795494, 8
+2, beautiful outdoor setting, 0.804384, 9
+2, delightful surprise, 0.800472, 9
+3, NY/NYC restaurant wine, 0.737565, 0
+3, actual food item, 0.725945, 0
+3, mediocre wine list, 0.755759, 2
+3, food. lazy service., 0.718342, 2
+3, restaurant, 0.760124, 3
+3, best homemade pasta, 0.708457, 3
+3, service, 0.753804, 4
+3, recent visit, 0.711835, 4
+3, wine list, 0.951282, 5
+3, food, 0.790243, 5
+3, complimentary cheese dip, 0.715326, 6
+3, light creamy cheese, 0.707793, 6
+3, 5-Star amazing experience, 0.713448, 7
+3, additional small desserts, 0.698597, 7
+3, Great wine list, 0.753992, 8
+3, great wine suggestions, 0.735985, 8
+3, optional wine pairing, 0.715099, 9
+4, fast food chains, 0.790319, 0
+4, local food, 0.769324, 0
+4, urban farm window, 0.769452, 1
+4, low rise restaurant, 0.766183, 1
+4, Italian food, 0.767254, 2
+4, Yelp star rating, 0.764618, 2
+4, Brick Oven Table, 0.792609, 3
+4, slow food, 0.786031, 3
+4, salad, 0.780689, 4
+4, food, 0.983821, 5
+4, place, 0.880454, 5
+4, tasting menu, 0.90118, 6
+4, wine, 0.823991, 6
+4, sous chef, 0.792483, 7
+4, great place, 0.788754, 7
+4, wine pairings, 0.805807, 8
+4, dining experience, 0.777234, 8
+4, chef anthony andiario, 0.807105, 9
+4, pretty solid place, 0.771237, 9
+5, course tasty menu, 0.690618, 0
+5, food course, 0.681555, 1
+5, food allergies, 0.672132, 2
+5, slow food restaurant, 0.70525, 3
+5, organic food porn, 0.676691, 3
+5, brick oven table, 0.865043, 4
+5, wine, 0.830473, 4
+5, food, 0.902223, 5
+5, course, 0.843208, 5
+5, Quiessence, 0.803882, 6
+5, meal, 0.751826, 6
+5, Phoenix, 0.741845, 7
+5, local ingredients, 0.713965, 7
+5, wine pairings, 0.779419, 8
+5, tasting menu, 0.740231, 8
+5, fish course, 0.695667, 9
+5, Fresh local food, 0.69335, 9

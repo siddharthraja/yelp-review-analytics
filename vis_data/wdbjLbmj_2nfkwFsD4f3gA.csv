@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, St. Catherine street, 0.721472, 0
+1, Eaton Centre, 0.623072, 0
+1, breakfast ever lol, 0.622613, 1
+1, infinitely more rude, 0.612906, 1
+1, Rude waitress, 0.630129, 2
+1, cardboard pancakes, 0.627147, 2
+1, water syrup, 0.624514, 3
+1, bite, 0.550217, 3
+1, burger, 0.918925, 4
+1, problem, 0.616295, 4
+1, waiter, 0.58949, 5
+1, Ranger burger, 0.717346, 6
+1, monterey jack cheese, 0.706955, 6
+1, regulars, 0.524319, 7
+1, delicious breakfast, 0.627423, 8
+1, excellent service, 0.612501, 8
+4, huge sandwich/wrap portions, 0.905885, 0
+4, Decent calamari, 0.805057, 0
+4, tipsy, 0.50572, 2
+4, movie, 0.367139, 2
+4, royal treatment, 0.655925, 3
+4, good value, 0.609792, 8
+4, Fun, 0.373094, 8

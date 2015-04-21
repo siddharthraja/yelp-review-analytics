@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, Centennial Hills Pkwy, 0.645758, 0
+1, food service Industry, 0.620663, 0
+1, service, 0.800908, 1
+1, N. Durango, 0.74114, 1
+1, ......, 0.868169, 2
+1, table, 0.490669, 2
+1, bar, 0.959808, 3
+1, husband Andrew, 0.633333, 3
+1, Alexandra, 0.751535, 4
+1, Andrew, 0.679943, 4
+1, timbers, 0.61162, 5
+1, change, 0.382318, 5
+1, Andrew works, 0.488178, 6
+1, favorite hangout, 0.485892, 6
+1, grand total, 0.493829, 7
+1, friends, 0.467611, 7
+1, Wednesday crew, 0.48077, 8
+2, new waitress, 0.734898, 0
+2, large screen TV, 0.627174, 0
+2, Barbecue Chicken salad, 0.764834, 1
+2, smokers, 0.247618, 1
+2, big neg, 0.451669, 2
+2, good vibe, 0.443102, 2
+2, waitress, 0.912631, 3
+2, long meal, 0.444369, 3
+2, garlic bread, 0.710658, 5
+2, SUPER WAITRESS, 0.821661, 6
+2, pool tables, 0.438931, 6
+2, freakin meal, 0.484003, 7
+2, good tip, 0.448559, 7
+2, toasted sandwich bread, 0.732415, 8
+2, casual dress, 0.442089, 8
+3, closest Timbers, 0.731343, 0
+3, lunch, 0.323056, 0
+3, new drinks, 0.632642, 2
+3, chargers bar, 0.581812, 2
+3, staff, 0.263494, 8
+3, great comfortable seating, 0.906089, 9
+3, spacious tables, 0.618632, 9
+4, grave bartender, 0.792952, 0
+4, Fat Tire, 0.575047, 0
+4, Little hole, 0.537789, 1
+4, fresh food, 0.527691, 6
+4, absolute pleasure, 0.64187, 7
+4, Bartender George, 0.687985, 8
+4, Friendly servers, 0.51406, 8
+4, Highly recommended Great, 0.904038, 9
+4, 4pm-7pm Monday-Friday, 0.617971, 9
+5, late night, 0.503067, 0
+5, average neighborhood bar, 0.772712, 2
+5, kids atmosphere, 0.550226, 6
+5, lunch, 0.346943, 6
+5, single time, 0.511036, 7
+5, excellent service, 0.499714, 7
+5, Great food, 0.927511, 8
+5, yelp tip, 0.582434, 8
+5, happy hour deals, 0.522818, 9
+5, perfect spot, 0.508067, 9

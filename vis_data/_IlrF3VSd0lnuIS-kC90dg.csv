@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+3, good dive bar, 0.955251, 0
+3, Bullet, 0.581932, 0
+3, Great prices, 0.742382, 9
+3, good selection, 0.672236, 9
+4, favorite dive bar, 0.926235, 0
+4, signature drink, 0.702695, 0
+4, locals bar, 0.687894, 2
+4, Saturday nights, 0.668445, 2
+4, Bloody Mary, 0.676188, 3
+4, Strip, 0.571925, 3
+4, Lefty, 0.792564, 5
+4, margarita, 0.457239, 6
+4, drinks, 0.445227, 6
+4, Strong Island Ice, 0.885221, 7
+4, fun factor scale, 0.84679, 7
+4, awesome dives, 0.760957, 8
+4, awesome buffet, 0.736412, 8
+5, strong cheap drinks, 0.870487, 0
+5, Greatest dive bar, 0.713406, 0
+5, cheap drinks, 0.98629, 2
+5, bad time, 0.38844, 2
+5, End DIVE BAR, 0.623632, 3
+5, paper-view fights, 0.44339, 3
+5, service industry folks, 0.63365, 6
+5, good pool players, 0.58842, 6
+5, Best drink prices, 0.729727, 7
+5, bottled beer, 0.416144, 7
+5, Awesome atmosphere, 0.440393, 8
+5, strip, 0.43599, 8
+5, Good drink, 0.489615, 9
+5, Fair Price, 0.403137, 9

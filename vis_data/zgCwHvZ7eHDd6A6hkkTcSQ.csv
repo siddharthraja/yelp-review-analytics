@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, watering hole Steiner, 0.6793, 0
+1, Totally bad mistake, 0.673149, 0
+1, disrespectful male bartender, 0.682161, 1
+1, poor customer service, 0.680436, 1
+1, customer service, 0.681134, 2
+1, cajun style buffalo, 0.680701, 2
+1, bar, 0.928599, 3
+1, manager, 0.818821, 3
+1, service, 0.881013, 4
+1, time, 0.734074, 4
+1, food, 0.888551, 5
+1, order, 0.674195, 5
+1, buffalo wild wings, 0.847974, 6
+1, Wild Wings chain, 0.674327, 6
+1, spicy garlic sauce, 0.645889, 7
+1, pre cooked wings, 0.770322, 8
+1, couple good thing, 0.643694, 8
+2, Eastern Avenue market, 0.726556, 0
+2, new orthopedic shoe, 0.694682, 0
+2, lower end location, 0.692299, 1
+2, NTN trivia, 0.625096, 1
+2, time, 0.816395, 2
+2, Naked tenders, 0.61918, 2
+2, Buffalo Wild Wings, 0.881118, 3
+2, different server, 0.730286, 3
+2, wings, 0.906783, 4
+2, onion rings, 0.686805, 4
+2, order, 0.704544, 5
+2, beer, 0.644614, 5
+2, Doc Holiday, 0.622103, 6
+2, Stadium Grille, 0.620206, 6
+2, Vegas Blvd. location, 0.7121, 7
+2, grilled chicken sandwiches, 0.691298, 7
+2, simple solution Wow, 0.709677, 8
+3, hot wings, 0.654318, 0
+3, *Chicken wings, 0.638845, 0
+3, chicken wings, 0.622783, 1
+3, bigger wings, 0.637344, 2
+3, sports bar atmosphere, 0.570607, 2
+3, Cent Wings, 0.639379, 3
+3, Cent Boneless Wings., 0.58414, 3
+3, boneless wings, 0.79354, 4
+3, service, 0.606323, 4
+3, wings, 0.909555, 5
+3, game, 0.606867, 5
+3, place, 0.636971, 6
+3, grab wings, 0.633074, 6
+3, Asia Zing wings, 0.669052, 7
+3, good wings, 0.661141, 7
+3, buffalo wild wings, 0.798044, 8
+3, Traditional Wings, 0.688989, 8
+3, Wings- Mini drumsticks, 0.661708, 9
+4, 60cent boneless wings, 0.359845, 0
+4, spicy garlic, 0.329258, 0
+4, barbecue sauce, 0.203528, 1
+4, fish sandwich, 0.213971, 2
+4, favorite little place, 0.212274, 2
+4, new jalapeño wings, 0.341262, 3
+4, wing ticket time, 0.204354, 3
+4, sauce, 0.309075, 4
+4, bar area, 0.238278, 4
+4, boneless wings, 0.621076, 5
+4, place, 0.327001, 5
+4, buffalo wild wings, 0.921182, 6
+4, pepper bone-in wings, 0.330565, 6
+4, Asian wings, 0.304562, 7
+4, good food, 0.271807, 7
+4, great service, 0.277313, 8
+4, great place, 0.24013, 8
+4, great friendly service, 0.244306, 9
+4, sports bar look, 0.201736, 9
+5, major sporting event, 0.487147, 0
+5, cent wings, 0.444471, 0
+5, good vibe, 0.344101, 1
+5, high expectations, 0.340174, 1
+5, Vegas service, 0.353632, 2
+5, different flavors, 0.329511, 2
+5, hockey game, 0.360796, 3
+5, Caribbean jerk, 0.325559, 3
+5, service, 0.500562, 5
+5, Captain Morgan sauce, 0.460239, 6
+5, buffalo chicken wrap, 0.448561, 6
+5, Mango Habanero wings, 0.583993, 7
+5, Great Bloody Mary, 0.483428, 7
+5, buffalo wild wings, 0.913644, 8
+5, great service, 0.482625, 8
+5, vinegar traditional wings, 0.58576, 9
+5, Bartender Joe, 0.372435, 9

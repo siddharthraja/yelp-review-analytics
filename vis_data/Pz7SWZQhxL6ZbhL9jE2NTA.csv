@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, indelibly memorable food, 0.609937, 0
+1, Poor quality food, 0.602155, 0
+1, sea bass, 0.602286, 1
+1, bad wedding food, 0.588357, 1
+1, tasting menu, 0.613681, 2
+1, food order, 0.599395, 2
+1, Alain Ducasse, 0.604482, 3
+1, dress code, 0.580287, 3
+1, food, 0.953448, 4
+1, mix, 0.825368, 4
+1, mandalay bay, 0.796001, 5
+1, time, 0.683845, 5
+1, F'n waiter sure, 0.608143, 6
+1, good food, 0.604531, 6
+1, good looking girl, 0.580465, 7
+1, food critic, 0.579398, 7
+2, duck foie gras, 0.701762, 0
+2, Alaine Ducasse restaurant, 0.690818, 0
+2, main courses, 0.709695, 1
+2, mix Candy Bar, 0.682354, 1
+2, peanut butter butter, 0.704378, 2
+2, Vegas BS food, 0.702297, 2
+2, peanut butter, 0.769465, 3
+2, main dining room, 0.69772, 3
+2, place, 0.855402, 4
+2, Las Vegas, 0.844977, 4
+2, food, 0.963477, 5
+2, view, 0.918952, 5
+2, Alain Ducasse, 0.756968, 6
+2, dining room, 0.728633, 6
+2, Vegas night view, 0.718113, 7
+2, great view, 0.703878, 7
+2, amazing view, 0.68485, 8
+2, adjacent Mix lounge, 0.676873, 8
+2, DAMN GOOD FOOD, 0.704079, 9
+2, pretty nice view, 0.702714, 9
+3, tuna tartar, 0.577797, 0
+3, old people night, 0.575931, 0
+3, expensive drinks, 0.582479, 2
+3, food experience, 0.581981, 2
+3, great food, 0.578068, 3
+3, mix, 0.731026, 4
+3, vegas, 0.725032, 4
+3, view, 0.997349, 5
+3, food, 0.842262, 5
+3, foie gras, 0.799169, 6
+3, mandalay bay, 0.756639, 6
+3, beef tenderloin, 0.653393, 7
+3, spectacular view, 0.64194, 7
+3, great view, 0.718291, 8
+3, 64th floor, 0.680496, 8
+3, elevator ride, 0.637818, 9
+3, pretty good mid-tempo, 0.599496, 9
+4, good tuna tartare, 0.686945, 0
+4, dance floor, 0.679984, 0
+4, little bit, 0.679604, 1
+4, tasting menu, 0.745983, 2
+4, candy bar, 0.67419, 2
+4, wide open view, 0.697973, 3
+4, foie gras, 0.774662, 4
+4, food, 0.762633, 4
+4, view, 0.971585, 5
+4, place, 0.86568, 5
+4, lounge, 0.759589, 6
+4, restaurant, 0.739722, 6
+4, 64th floor, 0.822066, 7
+4, Las Vegas, 0.817755, 7
+4, mandalay bay, 0.835357, 8
+4, best view, 0.72795, 8
+4, amazing view, 0.707675, 9
+4, nice looking club, 0.676317, 9
+5, ........., 0.598869, 0
+5, Mix Ive, 0.593246, 0
+5, Mix Candy bar, 0.607156, 2
+5, entire Vegas Strip, 0.586456, 2
+5, fine dining establishment, 0.58585, 3
+5, food, 0.710063, 4
+5, mix, 0.943168, 5
+5, view, 0.873705, 5
+5, Mix Lounge, 0.81333, 6
+5, black truffle, 0.639515, 6
+5, foie gras, 0.79857, 7
+5, Mandalay Bay, 0.775576, 7
+5, service, 0.702362, 8
+5, best view, 0.658829, 8
+5, miX bar, 0.587509, 9
+5, perfect view, 0.580538, 9

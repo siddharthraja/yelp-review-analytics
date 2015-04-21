@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, mediocre food, 0.910976, 0
+1, cold mediocre food, 0.894574, 0
+1, negative star rating, 0.852072, 1
+1, worst dining experience, 0.815342, 1
+1, worse bar food, 0.84693, 2
+1, brisket burger, 0.667482, 2
+1, baked wings, 0.640943, 3
+1, time, 0.539385, 3
+1, Sunday Afternoon, 0.697453, 6
+1, birthday party, 0.643846, 7
+1, Thursday night, 0.643699, 7
+1, favorite place uptown, 0.876299, 8
+1, bag lunch, 0.688647, 8
+2, favorite beer selection, 0.539922, 0
+2, os os, 0.512722, 0
+2, chain food, 0.515854, 1
+2, customer service environment, 0.513707, 1
+2, open tables, 0.56107, 2
+2, ok bar food, 0.551721, 2
+2, good food, 0.531132, 3
+2, long time, 0.514637, 3
+2, drinks, 0.551349, 4
+2, food, 0.935363, 5
+2, beer, 0.774524, 5
+2, southwest egg rolls, 0.604822, 6
+2, better-than-average bar food, 0.563936, 6
+2, great food, 0.596258, 7
+2, caramel food coloring, 0.563404, 7
+2, German food, 0.516272, 8
+2, food more times, 0.510094, 8
+2, award-winning Oktoberfest-style beer, 0.544964, 9
+2, inexpensive beer sampler, 0.535063, 9
+3, bar food menu, 0.766484, 0
+3, food rock, 0.740082, 0
+3, little tough uptown, 0.717839, 1
+3, bar food, 0.798982, 2
+3, Average bar food, 0.740065, 2
+3, bar food fare, 0.748781, 3
+3, little better place, 0.744537, 3
+3, food, 0.988965, 4
+3, lunch, 0.788582, 4
+3, place, 0.828904, 5
+3, chicken pot pie, 0.784966, 5
+3, rock, 0.900531, 6
+3, service, 0.765519, 6
+3, fish tacos, 0.948932, 7
+3, pretty good deal, 0.78911, 7
+3, good fish, 0.722982, 8
+3, good reubens, 0.712491, 8
+3, pretty awesome quesadilla, 0.739248, 9
+3, Tryon St.  Rock, 0.729153, 9
+4, pepper jack cheese, 0.789638, 0
+4, Great bar food, 0.762385, 0
+4, Hazelnut Crusted Chicken, 0.696981, 1
+4, egg rolls, 0.726511, 3
+4, menu, 0.788742, 4
+4, rock, 0.837141, 5
+4, place, 0.791114, 5
+4, food, 0.909243, 6
+4, beer, 0.848057, 6
+4, outdoor seating, 0.772046, 7
+4, Good food, 0.741741, 7
+4, great food, 0.776389, 8
+4, good service, 0.7695, 8
+4, good beer, 0.766211, 9
+4, good American menu, 0.758807, 9
+5, Sports bar atmosphere, 0.648624, 0
+5, experience multiple foodgasms, 0.637794, 0
+5, limited menu options, 0.615715, 3
+5, freshly cut slivers, 0.614442, 3
+5, charlotte, 0.607424, 4
+5, place, 0.651554, 5
+5, childhood photo albums, 0.605895, 6
+5, fish tacos, 0.719382, 7
+5, wedding rehearsal dinner, 0.715825, 7
+5, great food, 0.95562, 8
+5, great service, 0.722025, 8
+5, Great location downtown, 0.68733, 9
+5, Hand Crafted Beer, 0.659526, 9

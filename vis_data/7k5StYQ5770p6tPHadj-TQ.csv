@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, daughters graduation party, 0.997023, 0
+1, horrible experience, 0.741766, 0
+1, refills, 0.413676, 1
+1, waitress, 0.409781, 1
+1, food, 0.513509, 2
+1, husband, 0.480702, 2
+1, cover charge, 0.739572, 3
+1, people, 0.510572, 3
+1, Hooters, 0.775163, 5
+1, manager, 0.559314, 5
+1, apps, 0.650719, 6
+1, appetizers, 0.427889, 6
+1, big party, 0.73532, 7
+1, salad, 0.413246, 7
+1, Oregon, 0.386237, 8
+1, LOVE, 0.386188, 8
+2, app, 0.414771, 0
+2, reasons, 0.399602, 0
+2, poor service, 0.91882, 1
+2, deathly ill, 0.73009, 1
+2, food, 0.48608, 2
+2, Wednesday, 0.398759, 2
+2, entire meal, 0.727429, 7
+2, gift card, 0.710688, 7
+2, WARM OYSTERS, 0.731052, 8
+3, long night, 0.731173, 3
+3, fight, 0.23101, 3
+3, Good food, 0.768739, 7
+3, favorite place, 0.924907, 8
+3, hooters,metro location, 0.835482, 8
+4, bad experiences, 0.421416, 0
+4, UFC fights, 0.458012, 3
+4, good balance, 0.416488, 7
+4, good Hooters location, 0.929377, 9
+4, Phoenix area, 0.379113, 9
+5, beer lines, 0.524835, 0
+5, ice crystals, 0.518304, 0
+5, decent hooters quality, 0.965244, 2
+5, UFC PPV, 0.582289, 2
+5, InnPlace Hotel, 0.571857, 3
+5, half my time, 0.553623, 3
+5, beers, 0.396397, 5
+5, excellent hi-speed connection, 0.765585, 6
+5, new wing flavors, 0.714317, 6
+5, newly vamped menu, 0.72143, 7
+5, good bar food, 0.692849, 7
+5, perfect getaway oasis, 0.721131, 8
+5, place, 0.574452, 8
+5, new hooters, 0.720503, 9
+5, nice cold ranch, 0.704199, 9

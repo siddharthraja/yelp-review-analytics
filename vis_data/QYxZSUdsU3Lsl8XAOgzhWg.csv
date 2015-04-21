@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+3, Bell Rd, 0.952206, 0
+3, wings, 0.334873, 0
+3, pizza, 0.629231, 2
+3, quality, 0.275009, 2
+3, new location, 0.764071, 6
+3, seeing, 0.335961, 6
+4, patio, 0.497535, 0
+4, TVs, 0.521564, 6
+4, seat, 0.478499, 6
+4, pizza, 0.477813, 7
+4, Wings, 0.47334, 7
+4, tap beers, 0.903093, 8
+4, nice selection, 0.823316, 8
+4, great atmosphere, 0.852561, 9
+4, Friendly staff, 0.807105, 9
+5, Super chill, 0.909414, 6
+5, husband, 0.576273, 6
+5, great service, 0.79968, 8
+5, atmosphere, 0.626732, 8

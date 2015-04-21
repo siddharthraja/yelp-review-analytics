@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, BCS National Championship, 0.799184, 0
+2, Concord Mill-ish, 0.6241, 0
+2, disappointing thing, 0.596618, 1
+2, shuffleboard table, 0.564807, 1
+2, bigger crowds, 0.586576, 2
+2, best game, 0.567857, 2
+2, cheap w/ alcohol, 0.92859, 3
+2, expensive video games, 0.875706, 3
+2, place, 0.447774, 4
+2, booze, 0.463241, 6
+2, fun, 0.354693, 6
+2, special sporting event, 0.782287, 7
+2, appetizers, 0.43865, 7
+2, group, 0.444323, 8
+2, company, 0.346737, 8
+2, server, 0.345511, 9
+3, hibachi grills, 0.984214, 0
+3, unofficial Charlotte Yelp, 0.952757, 0
+3, older projection type, 0.904455, 2
+3, potentially shuttering areas, 0.901816, 2
+3, bar countertop, 0.76301, 3
+3, Jillian, 0.755277, 4
+3, public, 0.67806, 4
+3, people, 0.65833, 5
+3, Plasma screens, 0.75962, 6
+3, pool tables, 0.754175, 6
+3, nice upscale bar, 0.89502, 7
+3, private banquet room, 0.881203, 7
+3, good place, 0.779754, 9
+3, large events, 0.774638, 9
+4, quiet fancy restaurants, 0.811109, 0
+4, big group, 0.594882, 0
+4, college bar, 0.629089, 1
+4, standard bar fare, 0.867886, 2
+4, co-workers, 0.382535, 2
+4, downside, 0.384232, 3
+4, wallet, 0.375547, 3
+4, burgers, 0.380061, 6
+4, fries, 0.377871, 6
+4, inevitable Charlottean pingpong, 0.911563, 7
+4, air hockey game, 0.877833, 7
+4, person shooter arcade, 0.832807, 8
+4, quality appetizers, 0.619227, 8
+4, fun, 0.358803, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, usual cornbread density, 0.876324, 0
+1, differences BBQ, 0.748293, 0
+1, pork, 0.362579, 1
+1, state, 0.351798, 1
+1, vinegary slaw, 0.658823, 2
+1, food, 0.417124, 2
+1, visable BBQ sauce, 0.982043, 3
+1, odd way, 0.571159, 3
+1, teeny cup, 0.625721, 4
+1, ranchy dsg, 0.609412, 4
+1, BBQ sandwich, 0.804075, 6
+1, LARGE brick style, 0.795122, 6
+1, Unique slaw, 0.640122, 7
+1, unique form, 0.58931, 7
+1, young man, 0.570498, 8
+2, chain BBQ place, 0.685772, 0
+2, diligent young lady, 0.576727, 0
+2, dark sauce, 0.571236, 1
+2, plastic squirt bottles, 0.562448, 1
+2, BBQ place, 0.725018, 2
+2, Willie Nelson music, 0.569447, 2
+2, BBQ joint, 0.726888, 3
+2, Alive foot traffic, 0.574129, 3
+2, BBQ sauce, 0.974448, 4
+2, ribs, 0.62898, 4
+2, food, 0.77171, 5
+2, cornbread, 0.581793, 5
+2, banana pudding, 0.747624, 6
+2, BBQ pork sandwich, 0.713045, 6
+2, chain BBQ, 0.689955, 7
+2, skillet corn, 0.679065, 7
+2, better BBQ, 0.608363, 8
+2, sweeter western style, 0.567361, 8
+3, traditional NC vinegar, 0.771973, 0
+3, Pure Taco, 0.587661, 0
+3, joint large tray, 0.759949, 2
+3, typical BBQ, 0.555854, 2
+3, picky eater, 0.555826, 3
+3, turkey, 0.387788, 3
+3, franchise, 0.346423, 4
+3, good sandwich, 0.614199, 6
+3, good flavor, 0.612442, 6
+3, sweet potato casserole, 0.977039, 7
+3, pork sandwich, 0.587055, 7
+3, service friendly atmosphere, 0.709994, 8
+3, banana pudding, 0.548207, 8
+3, good deal, 0.563908, 9
+3, family meal, 0.540174, 9
+4, Fried Shrimp Moe, 0.60911, 0
+4, Shrimp Moe Boy, 0.591049, 0
+4, flavorful smoked turkey, 0.469905, 1
+4, Smokey Turkey sandwich, 0.465838, 2
+4, fried green tomatoes, 0.454596, 2
+4, joints uptown Charlotte, 0.436607, 3
+4, NC Mountain towns, 0.431367, 3
+4, banana pudding, 0.935954, 5
+4, bbq, 0.784155, 5
+4, baked beans, 0.758332, 6
+4, MacDonalds-cheeseburger-size BBQ sandwich, 0.566897, 6
+4, sides, 0.610812, 7
+4, good pork barbeque, 0.50448, 7
+4, pork BBQ, 0.508668, 8
+4, good value, 0.426344, 8
+4, best bbq places, 0.531083, 9
+4, beer selection, 0.451453, 9
+5, sandwich  Alabama style, 0.83085, 0
+5, Mahi Mahi sandwich, 0.798064, 0
+5, limited menu, 0.707952, 1
+5, sit-down restaurant, 0.703952, 1
+5, banana pudding, 0.85342, 3
+5, little whip cream, 0.757452, 3
+5, BBQ, 0.857514, 4
+5, sides, 0.738358, 4
+5, turkey sandwich, 0.816097, 6
+5, sweat potato casserole, 0.815328, 6
+5, sweet potato casserole, 0.946646, 7
+5, jalapeno cheese grits, 0.940409, 7
+5, food, 0.810571, 8
+5, delicious food, 0.804347, 8
+5, Unbelievable craft beer, 0.768539, 9
+5, Carolina Beer Temple, 0.765251, 9

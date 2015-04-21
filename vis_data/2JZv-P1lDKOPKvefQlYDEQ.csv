@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, iceberg lettuce salad, 0.763245, 0
+1, biggest freakin rat, 0.729363, 0
+1, dun dun dun, 0.914191, 1
+1, worst filet, 0.651729, 1
+1, shit bar restaurant, 0.74886, 2
+1, place, 0.689606, 2
+1, Village Tavern, 0.909676, 3
+1, chicken Thai salad, 0.761035, 3
+1, good service, 0.69206, 5
+1, food, 0.665778, 5
+1, chicken club sandwich, 0.770327, 6
+1, better vetting process, 0.711267, 6
+1, Caesar salad, 0.671618, 7
+1, perfectly rectangular pieces, 0.714351, 8
+1, new dressing, 0.625366, 8
+2, French Onion soup, 0.620923, 0
+2, frozen microwave meal, 0.612117, 0
+2, wrong menu items, 0.614408, 1
+2, dirty dishes, 0.610372, 1
+2, time, 0.598903, 2
+2, water glasses, 0.590182, 2
+2, service, 0.696294, 3
+2, Au gratin, 0.621774, 3
+2, Village Tavern, 0.997146, 5
+2, food, 0.714358, 6
+2, table, 0.541891, 6
+2, Marinated Flank Steak, 0.840416, 7
+2, nice looking place, 0.632773, 7
+2, crab cake sandwich, 0.594918, 8
+2, pretty appealing menu, 0.594713, 8
+2, free appetizer, 0.517133, 9
+3, nice light lunch, 0.760985, 0
+3, fried potato slices, 0.738193, 0
+3, minimum required effort, 0.722936, 1
+3, shopping center, 0.715975, 1
+3, place multiple chances, 0.740499, 2
+3, overly friendly service, 0.72461, 2
+3, gainey suites hotel, 0.746209, 3
+3, older classier types, 0.704435, 3
+3, place, 0.847884, 5
+3, baked potato, 0.706659, 5
+3, Gainey Village Shopping, 0.74856, 6
+3, Steak Au Poivre, 0.72906, 6
+3, Village Tavern, 0.979339, 7
+3, Great lunch spot, 0.739494, 7
+3, sweet potato fries, 0.814832, 8
+3, nice place, 0.80855, 8
+3, Crispy Thai Shrimp, 0.716177, 9
+3, true neighborhood bar, 0.713558, 9
+4, vanilla ice cream, 0.455132, 0
+4, bar food menu, 0.424297, 0
+4, good old Village, 0.453132, 2
+4, prime rib, 0.776465, 3
+4, time, 0.418086, 4
+4, Mustard Pepper Cheeseburger, 0.415886, 4
+4, food, 0.585849, 5
+4, menu, 0.474365, 5
+4, village tavern, 0.947244, 6
+4, place, 0.602426, 6
+4, potato chips, 0.518327, 7
+4, crab cake, 0.497441, 7
+4, great place, 0.485967, 8
+4, dining room, 0.473382, 8
+4, crab dip, 0.475093, 9
+4, nice restaurant, 0.41528, 9
+5, al Village Tavern, 0.53875, 0
+5, good menu items, 0.526245, 0
+5, nice little bar, 0.549029, 1
+5, French onion soup, 0.558575, 3
+5, great little experience, 0.554118, 3
+5, prime rib sliders, 0.606653, 4
+5, Spinach salad, 0.493268, 4
+5, prime rib, 0.800225, 5
+5, food, 0.570542, 5
+5, service, 0.590783, 6
+5, place, 0.54809, 6
+5, Village Tavern, 0.98792, 7
+5, sweet potato fries, 0.61786, 7
+5, prime rib sandwich, 0.590963, 8
+5, nice big salad, 0.548972, 8
+5, great food, 0.537393, 9
+5, excellent service, 0.518416, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, Sunday night, 0.672983, 0
+1, horrible service, 0.647606, 0
+1, Buffalo sauce, 0.681245, 1
+1, fault, 0.381821, 1
+1, decent neighborhood bar, 0.887256, 2
+1, rubbery wings, 0.697761, 2
+1, goodness sakes, 0.672112, 3
+1, life vomit, 0.643, 3
+1, order, 0.47453, 4
+1, waitress, 0.682984, 5
+1, Philly cheesesteak sandwich, 0.924751, 6
+1, wings crispy, 0.747752, 6
+1, place, 0.520969, 7
+1, big fan, 0.624662, 9
+2, Philly steak, 0.818813, 0
+2, open machine, 0.788568, 0
+2, shiftless hobos, 0.873626, 1
+2, hard times, 0.840539, 1
+2, machines, 0.939022, 2
+2, bar, 0.810178, 2
+2, Stake, 0.785163, 3
+2, Freakin, 0.522092, 3
+2, place, 0.825105, 4
+2, food, 0.591528, 5
+2, better experience, 0.818096, 7
+2, staff, 0.500442, 7
+2, beers, 0.490654, 8
+3, Sabres fan, 0.732435, 0
+3, video poker, 0.731964, 0
+3, bar food, 0.952284, 1
+3, good bar food, 0.887967, 1
+3, typical bar food, 0.861335, 2
+3, good late night, 0.857699, 2
+3, Buffalo sports bar, 0.856755, 3
+3, fast food, 0.838008, 3
+3, late night, 0.968927, 4
+3, Late night snack, 0.825857, 6
+3, diner type way, 0.812133, 6
+3, decent place, 0.777857, 7
+3, nice compliment, 0.762807, 7
+3, good sports place, 0.899231, 8
+3, early amazing deals, 0.86495, 8
+3, solid joint, 0.74234, 9
+4, delicious Philly cheese, 0.777087, 0
+4, Philly Cheese steak+mushroom+bell, 0.76805, 0
+4, typical bar food, 0.781549, 1
+4, older neighborhood bar, 0.740174, 1
+4, better local bars, 0.787192, 2
+4, Buffalo Bills bar, 0.733113, 2
+4, mall bar motif., 0.74885, 3
+4, Las Vegas, 0.717101, 3
+4, bar food, 0.859831, 4
+4, place, 0.994102, 5
+4, bar, 0.917246, 5
+4, philly cheesesteak, 0.768787, 6
+4, classic sandwich, 0.724331, 6
+4, philly cheese steak, 0.946698, 7
+4, best bar food, 0.806066, 7
+4, pretty good place, 0.839427, 8
+4, AMAZING PHILLY CHEESE, 0.765363, 8
+4, good food, 0.733089, 9
+4, simple neighborhood bar, 0.730556, 9
+5, cheese stake, 0.719893, 0
+5, best bar story, 0.679942, 0
+5, Bomb bar food, 0.697656, 1
+5, college bar, 0.623187, 1
+5, fashion bar brawl, 0.668987, 2
+5, head Miami fan, 0.632511, 2
+5, bar food, 0.750836, 3
+5, chicken caesar salad, 0.645657, 3
+5, bar, 0.791162, 4
+5, neighborhood bar, 0.742142, 4
+5, stake, 0.929429, 5
+5, Las Vegas, 0.636944, 5
+5, best bar food, 0.716087, 6
+5, fish fry, 0.766028, 7
+5, Marilyn Monroe, 0.656573, 7
+5, real good guy, 0.723246, 8
+5, great food, 0.668938, 8
+5, food great prices, 0.68407, 9
+5, better late night, 0.654117, 9

@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+1, salmon, 0.606938, 0
+1, chef, 0.602368, 0
+1, food, 0.719621, 1
+1, waitress, 0.678129, 1
+1, spoiled fish, 0.904518, 2
+1, dish, 0.62621, 2
+2, average smoke salmon, 0.999567, 0
+2, Awful experience, 0.691039, 0
+2, small overcooked lobster, 0.98027, 2
+2, good value, 0.562958, 2
+2, filo ala, 0.704847, 3
+2, freezer bag, 0.633956, 3
+2, seafood paltter, 0.676198, 6
+2, oysters, 0.245865, 6
+2, things seafood, 0.795203, 7
+2, regular customer, 0.686515, 7
+4, old fashioned bar, 0.678888, 0
+4, island bar, 0.642906, 0
+4, bar area, 0.650432, 2
+4, gorgeous bar, 0.617673, 3
+4, beautiful period decor, 0.610265, 3
+4, bar, 0.877307, 4
+4, time, 0.620781, 5
+4, place, 0.747739, 6
+4, oysters, 0.708139, 6
+4, Cafe Royal, 0.9612, 7
+4, good cheese board, 0.641002, 7
+4, hearty pub food, 0.648452, 8
+4, Good beer selection, 0.635563, 8
+4, Nom nom yum, 0.615781, 9
+4, lovely fresh bread, 0.606556, 9
+5, Altstadt von Edinburgh, 0.736514, 0
+5, Cafe Royal Oysters, 0.716143, 0
+5, Café Royal, 0.662143, 2
+5, Traditional Victorian pub, 0.679206, 3
+5, oyster bar, 0.615146, 3
+5, Cafe Royal, 0.973339, 5
+5, Edinburgh, 0.825453, 6
+5, bar, 0.729388, 6
+5, Scottish famous people, 0.659617, 7
+5, great bar, 0.638634, 7
+5, Scottish pub life, 0.686138, 8
+5, typical Scottish pub, 0.67549, 8
+5, great place, 0.619288, 9
+5, elegant pub, 0.615269, 9

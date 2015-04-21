@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, waitress, 0.455971, 0
+1, mess, 0.432885, 0
+1, ketchup cause, 0.766796, 1
+1, food, 0.494484, 1
+1, hot wings, 0.788065, 2
+1, time, 0.396138, 2
+1, hurry, 0.435838, 3
+1, beers, 0.413897, 3
+1, juice, 0.400652, 6
+1, eating, 0.395683, 6
+1, breakfast platter, 0.977361, 7
+1, tap, 0.405969, 7
+3, Huge wine glass, 0.732756, 0
+3, decent TV, 0.493244, 0
+3, pre-flight adult beverage, 0.909286, 2
+3, annoying dance music, 0.720036, 2
+3, half way, 0.404455, 3
+3, different choices, 0.454232, 7
+3, wine list, 0.41407, 7
+3, bright spot lights, 0.693427, 8
+3, generous portion, 0.483676, 8
+4, lighted bar, 0.774389, 0
+4, rock, 0.36602, 0
+4, airport prices, 0.644692, 3
+4, Friday night music, 0.939006, 6
+4, airport bar, 0.648239, 6
+4, Good times, 0.650036, 7
+4, good beer, 0.647364, 7
+5, Joseph James Rye, 0.921178, 0
+5, average airport bar, 0.866212, 0
+5, local brew, 0.604552, 6
+5, Stella, 0.301037, 6
+5, joint playing rock, 0.965961, 7
+5, larger beverage sizes, 0.889555, 7
+5, staff, 0.25801, 8
+5, healthy selection, 0.562916, 9
+5, liquor, 0.298657, 9

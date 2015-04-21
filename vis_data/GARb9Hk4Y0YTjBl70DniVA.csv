@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, manager dont care, 0.799376, 0
+1, miller lites, 0.782138, 0
+1, Terrible service, 0.834941, 1
+1, low fat ranch, 0.782648, 1
+1, food, 0.79659, 2
+1, huge pub, 0.689927, 2
+1, little dixie cup, 0.801698, 3
+1, lunch service, 0.684607, 3
+1, veggies, 0.569788, 4
+1, customers, 0.564486, 4
+1, drink, 0.637135, 5
+1, sprite, 0.592504, 5
+1, decent size, 0.685849, 6
+1, victory garden, 0.680713, 6
+1, Irish Pub, 0.969147, 7
+1, true Irish Pub, 0.818404, 7
+1, wait staff, 0.677636, 8
+1, margarita mix, 0.655761, 8
+2, crab dip, 0.808282, 0
+2, slightly larger group, 0.795549, 0
+2, overly expensive alcohol, 0.816531, 2
+2, big dance floor, 0.815015, 2
+2, dance club, 0.823334, 3
+2, fried fish sandwich, 0.777724, 3
+2, drinks, 0.920989, 4
+2, food, 0.866265, 4
+2, miller light girls, 0.766946, 6
+2, drinking establishment, 0.670394, 6
+2, favorite menu item, 0.751514, 7
+2, basic burger, 0.681167, 7
+2, North Shore, 0.987767, 8
+2, nice patio area, 0.751898, 8
+2, great first experience, 0.661332, 9
+3, Steelers game, 0.993442, 0
+3, crazy Steelers fans, 0.976395, 0
+3, Fremont CA, 0.770102, 1
+3, kinda divey bar, 0.932673, 2
+3, park. loud music, 0.914433, 2
+3, bachellorette party fall, 0.918257, 3
+3, college kids, 0.811101, 3
+3, food, 0.660099, 4
+3, place, 0.82148, 5
+3, Morgantown West Virginia, 0.982544, 6
+3, home game, 0.887589, 6
+3, large outside area, 0.770068, 7
+3, fun, 0.658051, 7
+3, acoustic guitar player, 0.909824, 8
+3, decent scene, 0.876471, 8
+4, overall good experience, 0.962693, 0
+4, Saturday afternoon, 0.791573, 0
+4, crowd, 0.473447, 3
+4, Good-sized spot, 0.770952, 6
+4, perfect choice, 0.762781, 6
+4, good portion sizes, 0.967774, 7
+4, cool place, 0.730646, 7
+4, actual event, 0.739787, 8
+4, food, 0.515305, 8
+5, bachelorette parties, 0.681569, 0
+5, buddy, 0.375061, 0
+5, mouths, 0.397194, 1
+5, Winter, 0.382386, 1
+5, bar, 0.421235, 2
+5, cover, 0.369109, 2
+5, dance floor, 0.662951, 3
+5, 9pm, 0.410763, 3
+5, Dude man, 0.714649, 6
+5, people, 0.474689, 6
+5, bachelor party, 0.990041, 7
+5, Heins field, 0.770432, 7
+5, Pittsburgh sporting events, 0.993355, 8
+5, pretty good DJ, 0.962078, 8
+5, nice surprise, 0.707388, 9
+5, great gesture, 0.669438, 9

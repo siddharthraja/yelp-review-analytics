@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, crowd, 0.468224, 0
+1, reason, 0.249217, 0
+1, drink service, 0.853597, 3
+1, candy bars, 0.851148, 3
+1, comedy, 0.985048, 5
+1, Saturday night, 0.816769, 6
+1, stand-up comedy, 0.809687, 6
+1, comedy troupe, 0.740576, 8
+1, word comedy, 0.706735, 8
+3, sort, 0.336762, 1
+3, hit, 0.321832, 1
+3, Philly, 0.373952, 2
+3, jester'z, 0.504545, 5
+3, remember, 0.362426, 6
+3, skits, 0.340254, 7
+3, great thing, 0.773462, 8
+3, good time.Thanks, 0.760388, 8
+3, good ole time, 0.978774, 9
+3, Friendly friendly staff, 0.963368, 9
+4, decent Improv, 0.738923, 0
+4, awkward silences, 0.708781, 0
+4, long time, 0.676428, 1
+4, relatively little variation, 0.821042, 2
+4, bigger blond guy, 0.759451, 2
+4, comedy clubs, 0.667715, 3
+4, different props, 0.664971, 3
+4, times, 0.648754, 4
+4, time, 0.812942, 5
+4, tiny lobby area, 0.776393, 6
+4, Fun place, 0.664043, 6
+4, improv, 0.931599, 7
+4, place, 0.875799, 7
+4, Great date night, 0.756706, 8
+4, great job, 0.756031, 8
+4, Funny improv comedy, 0.913149, 9
+4, good wholesome fun, 0.829177, 9
+5, smaller crowd, 0.635848, 0
+5, good reviews, 0.621585, 0
+5, short comedic scenes, 0.707576, 2
+5, particular night, 0.621351, 3
+5, times, 0.625458, 4
+5, time, 0.904134, 5
+5, crowd, 0.66202, 5
+5, improv, 0.786476, 6
+5, Jester'Z improv troupe, 0.748786, 6
+5, night, 0.852725, 7
+5, Saturday night, 0.714243, 7
+5, fun, 0.872018, 8
+5, great time, 0.785612, 8
+5, date night, 0.729653, 9
+5, fun date night, 0.727431, 9

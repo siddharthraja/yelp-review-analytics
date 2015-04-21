@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+3, particular night, 0.717939, 0
+3, sub par, 0.685207, 0
+3, people, 0.562768, 1
+3, parking, 0.486821, 1
+3, gripes, 0.418764, 2
+3, annoyance, 0.414858, 2
+3, bar servers, 0.705178, 3
+3, drinking water, 0.662444, 3
+3, clients, 0.442217, 4
+3, middle, 0.454953, 5
+3, car lot/rental service, 0.895464, 6
+3, jalapeno burger, 0.763453, 6
+3, bartender, 0.407684, 8
+3, regulars, 0.404319, 8
+3, nice spot kind, 0.945978, 9
+3, party, 0.387724, 9
+5, Limited graveyard menu, 0.964966, 3
+5, Tina Mateo, 0.836882, 6
+5, Gaming Specials, 0.644985, 8
+5, place fun, 0.559536, 9

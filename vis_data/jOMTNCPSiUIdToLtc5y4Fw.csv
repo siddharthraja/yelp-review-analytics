@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, credit card purchases, 0.629196, 0
+1, small sip, 0.49118, 0
+1, flimsy negligee, 0.496534, 1
+1, kiddie tub, 0.482174, 1
+1, bloody mary, 0.938584, 2
+1, future swingers candidates, 0.762252, 2
+1, obnoxious drunk people, 0.673336, 3
+1, bartender, 0.335688, 3
+1, buddy, 0.30413, 6
+1, music, 0.249485, 6
+1, friends/swingers couples, 0.496787, 7
+1, Cowboy fan, 0.452487, 7
+3, regular crowd, 0.640403, 0
+3, nice hoodie, 0.606138, 0
+3, tasty clam strips, 0.926969, 1
+3, Bud Light, 0.575487, 1
+3, Biker Bar, 0.665882, 2
+3, ass, 0.229622, 2
+3, nice personal touch, 0.833404, 6
+3, collared shirt, 0.660256, 6
+3, bartender, 0.232549, 8
+4, Hot Rod Tues, 0.901793, 0
+4, rockin juke box, 0.866792, 0
+4, hard core Raider, 0.857799, 1
+4, cowboy bar, 0.75727, 1
+4, road weary traveler, 0.850774, 2
+4, old school cars, 0.838229, 2
+4, big platter, 0.742481, 3
+4, high price, 0.74038, 3
+4, good time, 0.863874, 6
+4, Fun locals bar, 0.854973, 6
+4, bike nite, 0.855941, 7
+4, big Cowboys fans, 0.84216, 7
+4, club sandwich, 0.738337, 8
+4, good drinks, 0.736899, 8
+4, fun place, 0.792369, 9
+4, fun crowd, 0.739148, 9
+5, Bike night wed., 0.739284, 0
+5, stupidly hot bartenders, 0.718984, 0
+5, wet t-shirt contests, 0.702242, 1
+5, yuppie types, 0.613163, 1
+5, dark wood walls, 0.700789, 2
+5, Live Music, 0.628597, 2
+5, car night tues, 0.744409, 3
+5, wet t-shirt, 0.718483, 3
+5, Excellent sports bar, 0.726148, 6
+5, small pool table, 0.700259, 6
+5, bike night, 0.903364, 7
+5, great locals bar, 0.735417, 7
+5, good time, 0.910609, 8
+5, great place, 0.90195, 8
+5, Dallas Cowboys bar, 0.766797, 9
+5, football season, 0.730254, 9

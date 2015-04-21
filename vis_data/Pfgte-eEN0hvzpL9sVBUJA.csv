@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, Unfriendly staff, 0.931703, 1
+3, pretty normal pub, 0.699239, 0
+3, pub quiz, 0.586129, 0
+3, golf course, 0.596708, 1
+3, Cold pesto chicken, 0.565605, 1
+3, old man pub, 0.634243, 2
+3, table service, 0.555094, 2
+3, pub grub, 0.612035, 3
+3, best bit, 0.50057, 3
+3, stars, 0.527538, 4
+3, golf tavern, 0.947445, 5
+3, pub, 0.796497, 5
+3, bar, 0.58302, 6
+3, comfy seats, 0.509264, 6
+3, standard chain pub, 0.636157, 7
+3, Edinburgh Napier University, 0.57455, 7
+3, bruntsfield links, 0.622113, 8
+3, pub goers, 0.562608, 8
+3, pretty good review, 0.626171, 9
+3, Friday pm drink, 0.582179, 9
+4, Golf Tavern Members, 0.699304, 0
+4, style neighbourhood pub, 0.693287, 0
+4, tavern many times, 0.665583, 1
+4, painfully mediocre establishment, 0.653109, 1
+4, newly refurbished pub, 0.68536, 2
+4, standard Bruntsfield prices, 0.665963, 3
+4, main road, 0.656523, 3
+4, place, 0.700007, 4
+4, pub, 0.74777, 5
+4, golf tavern, 0.931486, 6
+4, pub fare, 0.695942, 6
+4, local pub, 0.71696, 7
+4, Golf Tavern Haggis, 0.709435, 7
+4, pretty good food, 0.688711, 8
+4, Great pub, 0.671874, 8
+4, chill local pub, 0.682802, 9
+4, genuinely enjoyable place, 0.665974, 9

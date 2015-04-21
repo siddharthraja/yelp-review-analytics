@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, food wait, 0.811273, 0
+1, bartender, 0.511339, 0
+1, dance floor, 0.691364, 1
+1, owner, 0.522918, 2
+1, checks, 0.485454, 3
+1, 45 minutes, 0.472051, 3
+1, SUPER long wait, 0.981587, 6
+1, server, 0.543509, 6
+2, face, 0.352535, 0
+2, server, 0.309321, 0
+2, Sigh, 0.432734, 1
+2, huge food allergy, 0.972686, 2
+2, brussel, 0.425117, 2
+2, 45 minutes, 0.318022, 3
+2, Wellll first time, 0.822035, 6
+2, atmosphere, 0.362095, 7
+3, Parker station Pinot, 0.815813, 0
+3, truffle fries, 0.619606, 0
+3, filet bites, 0.630174, 3
+3, friend, 0.541606, 5
+3, dinner, 0.400375, 5
+3, tasty dipping sauce, 0.91075, 8
+3, pretty small restaurant, 0.764774, 8
+4, smaller food menu, 0.937112, 0
+4, Happy Hour/Dinner, 0.818271, 0
+4, Mad Men, 0.757806, 2
+4, punch, 0.664086, 2
+4, similar menu items, 0.926553, 3
+4, regular menu, 0.777218, 3
+4, drinks, 0.770282, 4
+4, ginger beer, 0.91422, 6
+4, magic hat beer, 0.914197, 6
+4, fave spirit, 0.818582, 7
+4, hh, 0.810248, 7
+4, half-priced specialty cocktails, 0.978662, 8
+4, awesome food/drink specials, 0.955219, 8
+4, Excellent food portions, 0.897527, 9
+4, sweet spot, 0.790199, 9
+5, early evening experiences, 0.865398, 0
+5, Hotel Valley Ho, 0.840502, 0
+5, dark awnings, 0.765447, 1
+5, various sports bars, 0.846437, 2
+5, bar seating, 0.761585, 2
+5, cheap drinks, 0.780942, 3
+5, French dip sliders, 0.859093, 6
+5, night drink spot, 0.898433, 7
+5, Brussels sprout salad, 0.895663, 7
+5, great drinks, 0.914903, 8
+5, dimly lit decor, 0.863089, 8
+5, Friday night date, 0.906464, 9
+5, friends birthday party, 0.898186, 9

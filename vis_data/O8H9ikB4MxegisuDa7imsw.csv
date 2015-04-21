@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, street festival, 0.67486, 0
+1, Jersey Shore, 0.58093, 0
+1, sub par attempt, 0.582705, 1
+1, dunk tank guy, 0.568064, 1
+1, carnival type environment, 0.576699, 2
+1, nauseating club music, 0.572597, 2
+1, downtown Las Vegas, 0.96181, 3
+1, Vegas StrEATs, 0.581204, 3
+1, Rat Pack, 0.578338, 4
+1, carnival feel, 0.444735, 4
+1, old sons friend, 0.581653, 6
+1, Freemont Street, 0.47578, 6
+1, revitalization efforts, 0.592837, 7
+1, revitalization efforts downtown, 0.568652, 7
+1, suburban Summerlin home, 0.559187, 9
+1, friendly confines, 0.444994, 9
+2, food offerings, 0.560913, 0
+2, Buttermilk Truck, 0.549142, 0
+2, musician, 0.263927, 1
+2, food truck selection, 0.900342, 2
+2, ice cream, 0.897922, 3
+2, ice cream truck, 0.781885, 3
+2, philly cheesesteak, 0.641983, 6
+2, explicit music, 0.633907, 6
+2, weather appropriate food, 0.802103, 7
+2, admission, 0.272731, 7
+2, food trucking experience, 0.944496, 8
+2, food truck event, 0.900333, 8
+3, multiple food trucks, 0.447068, 0
+3, Food Truck experiences, 0.422994, 0
+3, unhealthy fried dough, 0.337753, 1
+3, el cortez garage, 0.33279, 1
+3, Food Truck fiasco, 0.420569, 2
+3, uncomfortable claustrophobic huddle, 0.345567, 2
+3, fried pickles, 0.343891, 3
+3, little bit, 0.342449, 3
+3, el cortez, 0.399008, 4
+3, food trucks, 0.921338, 5
+3, food truck, 0.782837, 5
+3, Truffle Fried Egg, 0.349101, 6
+3, new trucks, 0.328215, 6
+3, truck food snack, 0.426709, 7
+3, Streats food truck, 0.421837, 7
+3, favorite food truck, 0.402922, 8
+3, Fuku Burger, 0.339327, 8
+3, cool bouncy ball, 0.325039, 9
+4, Vegas StrEATts food, 0.710889, 0
+4, new food trucks, 0.703065, 0
+4, Yelp Elite tent, 0.643915, 1
+4, parking downtown BLOWS., 0.624536, 1
+4, Grille food truck, 0.654128, 2
+4, gourmet food trucks, 0.783966, 3
+4, Sin City Wings, 0.724353, 3
+4, food truck, 0.882735, 4
+4, vegas streats, 0.808927, 6
+4, El Cortez, 0.759503, 6
+4, food trucks, 0.997986, 7
+4, street festival, 0.682583, 7
+4, funnel cake, 0.765313, 8
+4, good food trucks, 0.700089, 8
+4, awesome yelp balls, 0.650916, 9
+4, funnel cake craving, 0.640909, 9
+5, Vegas StrEATs festival, 0.714024, 0
+5, truck friendly cities, 0.671355, 0
+5, leave-free parking peeps, 0.643269, 1
+5, downtown parking prices, 0.641473, 1
+5, tiny little omission, 0.658618, 2
+5, best darn taco, 0.645011, 2
+5, SnOw ONO, 0.727589, 4
+5, vegas streats, 0.939015, 6
+5, food trucks, 0.836006, 6
+5, food truck, 0.935555, 7
+5, food truck entrepeneurs, 0.7145, 7
+5, Food Truck heaven., 0.731556, 8
+5, East Las Vegas, 0.68233, 8
+5, totally cute accent, 0.634364, 9

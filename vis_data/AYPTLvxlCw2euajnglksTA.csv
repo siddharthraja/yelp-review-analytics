@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+2, incredibly mediocre experience, 0.849819, 0
+2, biscuit dry chicken, 0.846644, 0
+2, stale green carpet, 0.86003, 1
+2, dark wood paneling, 0.844723, 1
+2, decor, 0.235595, 2
+2, sessions, 0.213998, 3
+2, conference, 0.209171, 3
+2, wait staff, 0.499962, 7
+2, food, 0.300383, 7
+2, stars, 0.267782, 8
+2, free popcorn, 0.982897, 9
+2, great place, 0.392071, 9
+3, numerous big flatscreens, 0.925265, 0
+3, following menu items, 0.852961, 0
+3, Potato Skins, 0.906708, 2
+3, bar food, 0.640084, 2
+3, bar type lounge, 0.870922, 3
+3, small bar, 0.647055, 3
+3, sports, 0.530277, 5
+3, late plus, 0.697695, 6
+3, coupon, 0.460738, 6
+3, Scottsdale Plaza Hotel, 0.878048, 7
+3, Good pub faire, 0.868754, 7
+3, Great deal, 0.668364, 8
+3, efficient service, 0.639075, 8
+3, Sunset Wheat, 0.68744, 9
+3, hefeweizen, 0.468771, 9
+4, French onion soup, 0.902624, 0
+4, club sandwich, 0.505009, 0
+4, good little spot, 0.772726, 1
+4, plaza resort, 0.498679, 1
+4, suggestion, 0.22373, 3
+4, Notre Dame game, 0.851008, 6
+4, watch party, 0.493354, 6
+4, Chicken Tacos, 0.715282, 7
+4, cozy place, 0.590353, 7
+4, wonderful time, 0.497813, 8
+4, great service, 0.464056, 8

@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, tally marks, 0.720548, 0
+1, yellow legal pad, 0.682472, 0
+1, food code violation, 0.751024, 1
+1, deep fryer grease, 0.724596, 1
+1, food, 0.942044, 2
+1, things, 0.684845, 2
+1, manager, 0.725221, 3
+1, cold food, 0.684922, 3
+1, place, 0.544087, 4
+1, drinks, 0.715546, 5
+1, table, 0.606068, 5
+1, entire conversation, 0.537608, 6
+1, Chicken Wings appetizer, 0.68144, 7
+1, Kitchen Manager, 0.569291, 7
+1, Chicken Wrap dinner, 0.672373, 8
+1, Chicken Tender Dinner, 0.671444, 8
+2, SCF, 0.332337, 0
+2, friends, 0.27043, 0
+2, little kids, 0.793274, 1
+2, place post-dinnertime, 0.790982, 1
+2, sewer stench, 0.911159, 2
+2, entire time, 0.713972, 2
+2, band, 0.251458, 6
+2, 1/2 hours, 0.250879, 6
+2, Friday night, 0.839731, 7
+2, bottle, 0.472601, 7
+3, legal risk, 0.736125, 0
+3, old review, 0.717786, 0
+3, good service, 0.719678, 1
+3, outdoor bars, 0.719605, 1
+3, adult drinking behaviors, 0.918734, 2
+3, massive size, 0.712104, 2
+3, small corkage fee, 0.916814, 3
+3, redeeming factor, 0.734126, 3
+3, summer camp movie, 0.879381, 4
+3, kids, 0.703055, 4
+3, wine, 0.574738, 5
+3, little adult fun, 0.945035, 6
+3, mixed drink place, 0.928554, 6
+3, good basic menu, 0.920555, 7
+3, enjoyable place, 0.733688, 7
+3, Sat. night, 0.748187, 8
+3, great playground, 0.741308, 8
+4, Skunk Creek, 0.579385, 0
+4, buzz kill, 0.578182, 0
+4, desert bar, 0.832002, 2
+4, one-way frontage road, 0.822088, 2
+4, HUGE outdoor desert, 0.78705, 3
+4, outdoor bar, 0.580083, 3
+4, food, 0.901866, 4
+4, Corn nuggets, 0.571316, 6
+4, kids, 0.467125, 6
+4, Monastery/Greasewood Flats vibe, 0.857444, 7
+4, good food, 0.745047, 7
+4, big group, 0.910373, 8
+4, place, 0.699132, 8
+4, chill kind, 0.619717, 9
+4, great place, 0.562571, 9
+5, Skunk Creek Flats, 0.905408, 0
+5, bar type food, 0.887027, 0
+5, Rocky Point, 0.756458, 2
+5, management staff, 0.751254, 2
+5, ) food., 0.739039, 3
+5, dance floor, 0.967119, 6
+5, dance floor lit, 0.86238, 6
+5, new fav places, 0.849575, 7
+5, work drinks, 0.833432, 7
+5, great place, 0.940093, 8
+5, N. Phoenix neighborhoods, 0.900812, 8
+5, cool Saturday night, 0.846682, 9
+5, great service, 0.772999, 9

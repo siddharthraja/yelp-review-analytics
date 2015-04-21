@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, Terrible service, 0.978637, 1
+1, Waitress, 0.794013, 1
+1, Todd, 0.653697, 2
+1, manager, 0.509257, 2
+2, customer service skills, 0.834274, 0
+2, 2-Star rating, 0.586174, 0
+2, hot sauce, 0.793, 1
+2, tips, 0.33274, 1
+2, server, 0.977838, 2
+2, manager, 0.713192, 2
+2, drink, 0.642899, 3
+2, drink order, 0.57894, 3
+2, boys, 0.448844, 4
+2, boyfriend, 0.409545, 4
+2, patio table, 0.533562, 6
+2, Vegas, 0.287851, 6
+2, classic margarita, 0.582394, 7
+2, time, 0.281843, 7
+4, O'Hare airport Chili, 0.907616, 0
+4, calorie salad goodness, 0.795992, 0
+4, little things, 0.593502, 1
+4, blinding daylight, 0.593444, 1
+4, SUPER salty, 0.578383, 2
+4, grapefruit flavors, 0.571243, 2
+4, big deal, 0.570696, 3
+4, table, 0.459285, 3
+4, bar, 0.493752, 4
+4, street, 0.502304, 5
+4, Palomar, 0.468512, 5
+4, red chili pepper, 0.905003, 6
+4, great restaurants, 0.597773, 6
+4, favorite homecoming, 0.600846, 7
+4, fun night, 0.598267, 7
+4, buffalo chicken salad, 0.789383, 8
+4, new location, 0.721627, 8
+4, shiny new Chili, 0.915748, 9
+4, pretty cool place, 0.748235, 9
+5, tall faux wall, 0.770428, 0
+5, pricey strip, 0.715414, 0
+5, icetop bar, 0.66195, 1
+5, negative reviews, 0.644779, 1
+5, Sam Boyd Stadium, 0.784118, 2
+5, bar area, 0.680357, 2
+5, quesadilla explosion salad, 0.842383, 3
+5, typical strip prices, 0.814247, 3
+5, bar, 0.685332, 4
+5, restaurant, 0.674043, 5
+5, drinks, 0.624713, 5
+5, strip, 0.929523, 6
+5, chicken fajitas, 0.670903, 6
+5, food, 0.797831, 7
+5, usual Chilies, 0.700208, 7
+5, boneless buffalo wings, 0.808936, 8
+5, amazing customer service, 0.793804, 8
+5, great location, 0.81055, 9
+5, pretty good view, 0.785065, 9

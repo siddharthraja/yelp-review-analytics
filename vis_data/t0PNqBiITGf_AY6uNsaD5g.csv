@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, live band playing, 0.883409, 0
+1, bitter bartender, 0.667872, 0
+1, bad news, 0.685836, 1
+1, pretty empty beer, 0.633438, 1
+1, Las Vegas Burlesque, 0.998971, 2
+1, lame chick, 0.777007, 2
+1, f'n job, 0.705638, 3
+1, specific event, 0.609684, 3
+1, thanks, 0.462595, 5
+1, biz, 0.381403, 6
+1, Frankie, 0.372821, 6
+1, Cha Cha, 0.679135, 7
+1, Yay, 0.387536, 7
+1, owner, 0.369129, 8
+3, DAT DUDE DONNIE, 0.95163, 0
+3, comedy shows, 0.764366, 0
+3, cheaper laughs, 0.73573, 1
+3, Cheap drinks, 0.727025, 1
+3, old school bar, 0.903996, 2
+3, bar huh, 0.744321, 2
+3, bathroom stall door, 0.89509, 3
+3, bar stools, 0.721412, 3
+3, Sunday, 0.622938, 4
+3, food, 0.615733, 5
+3, experience BOOMER, 0.721126, 6
+3, tip Lisa, 0.710401, 6
+3, Friday Comedy  Hour., 0.911021, 7
+3, Friday night hosting, 0.899142, 7
+3, nice chill bar, 0.941931, 8
+3, drink prices, 0.761202, 8
+3, good size room, 0.957018, 9
+3, funny comedy, 0.736784, 9
+4, neon beer signs, 0.659528, 0
+4, Good size bar, 0.648756, 0
+4, sketchy looking place, 0.694563, 1
+4, earth bar, 0.541639, 1
+4, bars divey, 0.525271, 2
+4, total dive bar, 0.667726, 3
+4, bar girls, 0.570733, 3
+4, pool tables, 0.784691, 6
+4, metal band, 0.643334, 6
+4, Boom Boom Room, 0.935071, 7
+4, huge music fests, 0.629345, 7
+4, random business area, 0.636101, 8
+4, great time, 0.543744, 8
+4, good seats, 0.543406, 9
+5, new school Juke, 0.937014, 0
+5, bar-type activities, 0.66765, 0
+5, person, 0.455087, 1
+5, strip, 0.45212, 1
+5, enterance fee, 0.695205, 2
+5, boobies, 0.505402, 2
+5, Boomers, 0.485373, 3
+5, drinker, 0.471495, 3
+5, Pack member whilst, 0.980466, 6
+5, big shot Rat, 0.970908, 6
+5, amazing burlesque shows, 0.969919, 7
+5, ample room, 0.690202, 7
+5, Live Burlesque, 0.792198, 8
+5, metal steps, 0.664586, 8
+5, stellar cast, 0.728029, 9
+5, comey, 0.491378, 9

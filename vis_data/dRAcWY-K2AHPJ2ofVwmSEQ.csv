@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, dozen customers, 0.630477, 0
+1, crazy thing, 0.628764, 0
+1, special treatment, 0.623848, 1
+1, somebody, 0.30149, 1
+1, good. dining room, 0.993211, 2
+1, tab, 0.736875, 2
+1, typical,frozen,fried bar food, 0.905933, 3
+1, main manager, 0.650892, 3
+1, Drink Options, 0.618314, 6
+1, Pool Tables, 0.598699, 6
+1, pool team, 0.591089, 7
+1, business, 0.41694, 7
+1, ashtray, 0.356445, 8
+2, late night parties, 0.792056, 0
+2, Guess, 0.457603, 0
+2, Grill, 0.453711, 1
+2, server, 0.448173, 1
+2, video poker, 0.627759, 2
+2, good time, 0.612969, 2
+2, stromboli, 0.473464, 3
+2, world, 0.445217, 3
+2, hand tobacco, 0.638811, 6
+2, best party, 0.617994, 6
+2, legendary Junkyard parties, 0.821964, 7
+2, great place, 0.611029, 7
+2, spinach cheese dip, 0.941074, 8
+2, good place, 0.637917, 8
+3, ice cold beers, 0.838543, 0
+3, bar tables, 0.680553, 0
+3, normal bar food, 0.879749, 2
+3, little video poker, 0.816031, 2
+3, drink check-ups, 0.688202, 3
+3, special events, 0.674051, 3
+3, time, 0.568126, 5
+3, Putters, 0.534944, 5
+3, good drink specials, 0.867887, 6
+3, heat warmers, 0.696158, 6
+3, nice patio area, 0.92162, 7
+3, restaurant. com coupons, 0.84175, 7
+3, quick glance, 0.655716, 8
+3, quick bite, 0.648335, 8
+3, deals, 0.440415, 9
+4, average bar food, 0.976508, 0
+4, typical bar food, 0.772706, 0
+4, sour cream, 0.628437, 1
+4, Plain ol, 0.644952, 3
+4, star rating, 0.634952, 3
+4, Chicken Caesar Salad, 0.819948, 6
+4, T.V. Dinner Stroganoffs, 0.758022, 6
+4, philly cheesesteak, 0.787007, 7
+4, Philly cheesesteak sliders, 0.771704, 7
+4, great locals bar, 0.900295, 8
+4, fast food burgers, 0.801876, 8
+4, bar food, 0.988599, 9
+4, Excellent bar food, 0.771027, 9
+5, great bar food, 0.683058, 0
+5, bartender name SEAN, 0.567862, 0
+5, chicken wings, 0.766549, 2
+5, little neighborhood bar, 0.683832, 2
+5, little video poker, 0.65396, 3
+5, taste buds, 0.547311, 3
+5, video poker, 0.917, 5
+5, fiance, 0.422578, 5
+5, hottest wings, 0.590246, 6
+5, great experience, 0.568161, 6
+5, las vegas blvd, 0.984901, 7
+5, chicken pot pie, 0.737203, 7
+5, chilango style chicken, 0.726694, 8
+5, Great bar atmosphere, 0.683352, 8
+5, great time, 0.530759, 9
+5, Friendly staff, 0.50799, 9

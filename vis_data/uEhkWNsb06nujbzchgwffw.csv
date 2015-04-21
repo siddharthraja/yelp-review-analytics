@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+2, bright pink walls, 0.753419, 0
+2, flourecent furniture, 0.588921, 0
+2, drivers licence, 0.580965, 1
+2, passport, 0.442186, 1
+2, Chanter, 0.536216, 2
+2, shame, 0.445981, 2
+2, bit, 0.446053, 3
+2, area, 0.440564, 3
+2, staff, 0.489122, 4
+2, bars speciality rums, 0.757246, 6
+2, swift pint, 0.607314, 6
+2, Blue Blazer, 0.961709, 7
+2, traditionally styled pub, 0.767915, 7
+2, Grandfather chilling, 0.607646, 8
+4, nice afternoon pit, 0.533317, 0
+4, Nice wooden interior, 0.504033, 0
+4, live folk music, 0.489784, 1
+4, bit shabby, 0.419243, 1
+4, nonsense drinking business, 0.466132, 2
+4, public schoolboys, 0.418731, 2
+4, old man pub, 0.571164, 3
+4, good toilet graffiti, 0.487364, 3
+4, Blue Blazer, 0.995534, 5
+4, leather bound seats, 0.506129, 6
+4, usual booze options, 0.487143, 6
+4, fairly nice place, 0.544013, 7
+4, excellent traditional pub, 0.533552, 7
+4, real ales, 0.505838, 8
+4, lovely little bar, 0.501016, 8
+4, amazingly comfortable pub, 0.525019, 9
+4, pleasant bar staff, 0.505732, 9

@@ -1,0 +1,93 @@
+rating, keyword, relevance, bucket
+1, new Fox restaurant, 0.565266, 0
+1, old single malt, 0.540065, 0
+1, arrogant butcher, 0.902806, 1
+1, place Arrogant, 0.555852, 1
+1, worst alcoholic beverage, 0.544312, 2
+1, dead fly, 0.535486, 2
+1, food SERVICE industry, 0.62084, 3
+1, restaurant, 0.567779, 3
+1, food, 0.856648, 4
+1, place, 0.739691, 4
+1, service, 0.740411, 5
+1, wait staff, 0.5656, 5
+1, consistent great food, 0.578473, 6
+1, short rib dish, 0.536656, 6
+1, Tilted Kilt pub, 0.541768, 7
+1, Resturant couple times, 0.529119, 7
+1, pretzel fondue, 0.712726, 8
+1, Great customer service, 0.556529, 8
+1, honest honest opinion, 0.519183, 9
+1, Great location, 0.489273, 9
+2, Polish Fix drink, 0.486768, 0
+2, food order, 0.48201, 0
+2, arrogant butcher, 0.779913, 1
+2, sam fox, 0.504389, 1
+2, bar manager, 0.546689, 2
+2, short rib stew, 0.532086, 2
+2, time, 0.641423, 3
+2, service, 0.597289, 3
+2, food, 0.913675, 4
+2, restaurant, 0.587555, 4
+2, place, 0.602658, 5
+2, cheese, 0.558308, 5
+2, Fox restaurant, 0.582757, 6
+2, onion dip, 0.494714, 6
+2, rasp berried cherries, 0.523525, 7
+2, pretzel bites, 0.510339, 7
+2, similar quality food, 0.513666, 8
+2, good Fox restaurant, 0.519422, 9
+2, great music playing, 0.488907, 9
+3, peanut butter cup, 0.693212, 0
+3, Fox Restaurant foods, 0.681858, 0
+3, turkey sloppy joe, 0.788931, 2
+3, bar food staple, 0.694044, 2
+3, sea salt chips, 0.692258, 3
+3, Arrogant Butcher, 0.941587, 4
+3, food, 0.850765, 4
+3, place, 0.917574, 5
+3, menu, 0.821317, 5
+3, peanut butter, 0.76186, 6
+3, chinese chicken salad, 0.713631, 6
+3, short rib stew, 0.78295, 7
+3, good food, 0.74428, 7
+3, pretzel fondue, 0.709568, 8
+3, Good place, 0.703965, 8
+3, good quality food, 0.7202, 9
+3, lunch/dinner place downtown, 0.694736, 9
+4, salted caramel pudding, 0.582183, 0
+4, good cured meats, 0.57577, 1
+4, turkey sloppy joe, 0.622222, 2
+4, raw bar, 0.600265, 2
+4, short rib stew, 0.652645, 3
+4, cheese, 0.639724, 4
+4, Sam Fox, 0.623302, 4
+4, arrogant butcher, 0.926268, 5
+4, peanut butter cup, 0.80981, 5
+4, place, 0.683596, 6
+4, lunch, 0.605599, 6
+4, french toast, 0.69319, 7
+4, warm peanut butter, 0.630716, 7
+4, blueberry cheesecake, 0.625496, 8
+4, sweet potato, 0.62249, 8
+4, large group, 0.613521, 9
+5, ar-uh-guhnt] adjective, 0.550265, 0
+5, skinny raspberry mojito, 0.549334, 0
+5, turkey sloppy joe, 0.6069, 1
+5, warm peanut butter, 0.573961, 1
+5, pretzel fondue appetizer, 0.588244, 2
+5, salted caramel pudding, 0.55067, 2
+5, arrogant butcher, 0.916196, 3
+5, Arrogant Butcher employee, 0.579507, 3
+5, peanut butter cup, 0.781282, 4
+5, beef short rib, 0.591469, 4
+5, short rib stew, 0.753669, 5
+5, food, 0.682614, 5
+5, place, 0.654868, 6
+5, restaurant, 0.612074, 6
+5, soft pretzels, 0.593563, 7
+5, provolone fondue, 0.567072, 7
+5, great food, 0.605005, 8
+5, downtown phoenix, 0.602574, 8
+5, great place, 0.56673, 9
+5, Overall great food, 0.557186, 9

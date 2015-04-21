@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, fish bones, 0.821485, 0
+1, bright green color, 0.7307, 0
+1, actual good meat, 0.690551, 1
+1, food poisoning, 0.625161, 1
+1, Big Grove Tavern, 0.715894, 2
+1, El Toro manage, 0.702252, 2
+1, El Toro, 0.969114, 3
+1, waitress checks, 0.635188, 3
+1, food, 0.76464, 4
+1, Wedge, 0.699924, 4
+1, menu, 0.639706, 5
+1, carne asada, 0.739202, 6
+1, shrimp taco dinner, 0.700835, 6
+1, bona fide cluster, 0.700917, 7
+1, amazing drinks, 0.637044, 7
+1, nice date night, 0.710102, 8
+2, strange.  red pepper, 0.910017, 0
+2, fish tacos, 0.806026, 0
+2, high bar stools, 0.868247, 1
+2, real Mexican food, 0.852194, 1
+2, up.  not spicy, 0.777206, 2
+2, table standard, 0.769589, 2
+2, tequila bar, 0.748195, 3
+2, absolutely disgusting, 0.744843, 3
+2, dinner companion, 0.73575, 4
+2, time, 0.655521, 4
+2, steak tacos, 0.991543, 6
+2, fancy N/A juice, 0.87321, 6
+2, date night, 0.892485, 7
+2, good beans, 0.75797, 7
+2, Iced drink, 0.753267, 8
+2, potato wedge appetizer, 0.862613, 9
+3, standard lime margarita, 0.793135, 0
+3, best Mexican/Latin food, 0.783087, 0
+3, orange juice, 0.638511, 1
+3, persistent smell, 0.624582, 1
+3, tequila bar, 0.874621, 2
+3, Mexican restaurants, 0.753322, 3
+3, eclectic menu options, 0.727273, 3
+3, drink menu, 0.742689, 4
+3, drinks, 0.793517, 6
+3, Mas Amigos food, 0.783887, 6
+3, pretty good addition, 0.757011, 7
+3, tequila flights, 0.69355, 7
+3, tacos, 0.951233, 8
+3, Great tequila list, 0.844412, 8
+3, regular Mexican place, 0.725544, 9
+3, solid daily specials, 0.705509, 9
+4, chicken tacos, 0.622166, 0
+4, fajita tacos, 0.618122, 0
+4, plain old margarita, 0.580677, 1
+4, Spicy Mango margarita, 0.574493, 1
+4, infant restaurant problems, 0.540278, 2
+4, margarita, 0.652894, 4
+4, menu, 0.532971, 5
+4, food, 0.761819, 6
+4, ) tacos., 0.645432, 6
+4, tacos, 0.931082, 7
+4, Chorizo tacos, 0.638882, 7
+4, Tacos Pastor, 0.638322, 8
+4, drinks, 0.615448, 8
+4, freshly fried chips, 0.557006, 9
+4, free tequila shot, 0.551261, 9
+5, green beans, 0.634391, 0
+5, tamale, 0.573611, 0
+5, everyday Mexican restaurant, 0.765806, 3
+5, blood orange marg, 0.780975, 6
+5, chicken mesquite fajitas, 0.775364, 6
+5, mexican food, 0.929864, 7
+5, BEST MEXICAN FOOD, 0.827965, 7
+5, authentic mexican food, 0.802804, 8
+5, pickled cactus, 0.789625, 8
+5, steak torta, 0.648817, 9
+5, good food, 0.63182, 9

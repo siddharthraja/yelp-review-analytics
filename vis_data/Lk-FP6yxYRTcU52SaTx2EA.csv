@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, live band venue, 0.969814, 0
+1, AARP  card, 0.746825, 0
+1, little steep, 0.675387, 1
+1, dive bar, 0.582967, 2
+1, dont worry, 0.798045, 3
+1, regular patrons, 0.61933, 3
+1, Chances, 0.307478, 6
+1, overall feedback, 0.629848, 8
+2, Decent food, 0.962156, 0
+2, valley bands, 0.717489, 0
+2, live music, 0.719378, 1
+2, good place, 0.670786, 1
+2, entertainment, 0.333302, 2
+2, cover charge, 0.802985, 3
+2, music  fix, 0.768394, 3
+2, new venues, 0.773154, 6
+2, regulars, 0.453054, 6
+2, bands, 0.780404, 7
+2, decent place, 0.850835, 8
+2, good fit, 0.802315, 8
+2, great night, 0.780903, 9
+2, good bands, 0.691828, 9
+3, Marmalade Skies play, 0.98651, 0
+3, cover charge, 0.651435, 0
+3, Philly Rib Eye, 0.912039, 1
+3, tables, 0.457531, 1
+3, Cactus jacks, 0.676455, 2
+3, bar food, 0.651774, 2
+3, sides, 0.451129, 3
+3, ranch, 0.450224, 3
+3, small plates, 0.68055, 4
+3, fries, 0.54416, 4
+3, Fans, 0.455026, 6
+3, full-force, 0.454937, 6
+3, dive bar, 0.862397, 7
+3, solid dive bar, 0.833964, 7
+3, Honey Hot  wings, 0.894686, 8
+3, true classic dive, 0.865588, 8
+4, spicy shrimp, 0.741331, 0
+4, cactus jacks, 0.737939, 0
+4, dive bar, 0.989967, 1
+4, hurry, 0.418028, 2
+4, Tukee, 0.38626, 4
+4, WAY, 0.386067, 4
+4, tvs, 0.409492, 6
+4, pizza, 0.381844, 6
+4, decent eats, 0.823684, 7
+4, Super Bowl, 0.732353, 7
+4, good drink prices, 0.927635, 8
+4, Fun environment, 0.740443, 8
+4, wonderful time, 0.705466, 9
+4, mom, 0.390648, 9
+5, older crowd vibe, 0.882118, 0
+5, stellar knowledge, 0.732397, 0
+5, old fashion hole, 0.879817, 1
+5, wall dive bar, 0.871095, 1
+5, die-hard serious players, 0.746871, 3
+5, Jacks, 0.587471, 3
+5, dive type, 0.754525, 6
+5, free play, 0.732576, 6
+5, Sat. nights, 0.751838, 7
+5, great spot, 0.712746, 7
+5, NEWEST design lay-out, 0.886375, 8
+5, Great place, 0.766326, 8
+5, life -great pool, 0.927177, 9
+5, locals -casual atmosphere, 0.908848, 9

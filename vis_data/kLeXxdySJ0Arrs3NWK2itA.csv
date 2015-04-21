@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+3, random karaoke night, 0.959507, 0
+3, multiple doorways, 0.825641, 0
+3, odd shot requests, 0.953475, 2
+3, bar space, 0.817288, 2
+3, Asian American player, 0.944366, 3
+3, Jeremy Lin play, 0.937274, 3
+3, server, 0.674216, 5
+3, completely different feeling, 0.94692, 6
+3, Philly Cheese Steak, 0.944544, 6
+3, great specials,cheap drinks,a, 0.928051, 7
+3, eagles fans, 0.770466, 7
+3, place, 0.754158, 8
+4, die hard fan, 0.487811, 0
+4, horsie sauce, 0.384215, 0
+4, Cheap drink specials, 0.565613, 1
+4, bar food, 0.352562, 2
+4, local sports bars, 0.511423, 6
+4, pool tables, 0.353951, 6
+4, good dive bar, 0.915533, 7
+4, little local spot, 0.584209, 7
+4, veggie quesadilla, 0.380962, 8
+4, Friendly staff, 0.357284, 8
+4, amazingly helpful staff, 0.517231, 9
+4, favorite team, 0.324297, 9
+5, big game night, 0.819579, 0
+5, bar food selection, 0.80718, 0
+5, decent bar food, 0.835339, 1
+5, dive bar girl, 0.823539, 1
+5, sports bar, 0.98919, 2
+5, sports bar options, 0.803444, 2
+5, obscure TV reference, 0.760403, 3
+5, little Eagles history, 0.750264, 3
+5, dive bar, 0.863801, 4
+5, place, 0.954714, 5
+5, game, 0.949696, 5
+5, drink specials, 0.841859, 6
+5, old son, 0.773371, 6
+5, good food, 0.842748, 7
+5, pretty good food, 0.801922, 7
+5, family friendly atmosphere, 0.757403, 8
+5, good vibe, 0.72967, 8

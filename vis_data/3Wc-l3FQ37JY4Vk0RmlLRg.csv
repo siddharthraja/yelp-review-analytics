@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, Horrible horrible service, 0.927022, 0
+1, phone calls, 0.549074, 0
+1, numerous messages, 0.534675, 1
+1, short notice, 0.528567, 1
+1, Monday night, 0.553198, 2
+1, reply, 0.365827, 2
+1, fault, 0.358096, 3
+1, party, 0.384894, 5
+1, bud light, 0.578362, 6
+1, hotel operator, 0.546058, 6
+1, hot dogs, 0.554291, 7
+1, wings, 0.355041, 7
+1, fantasy football draft, 0.813088, 8
+4, Thursday Pub Crawl..and, 0.676878, 0
+4, Shady Grove Lounge, 0.626605, 0
+4, long drive, 0.378676, 2
+4, Friday night, 0.370511, 2
+4, Shady Grove, 0.956011, 5
+4, Sunday afternoon, 0.390552, 6
+4, welcoming sight, 0.37171, 6
+4, Silverton, 0.816328, 7
+4, good looking people, 0.624165, 7
+4, new favorite locals, 0.647326, 8
+4, great spot snag, 0.580599, 8
+4, pool table, 0.906696, 9
+4, tiny bowling, 0.383741, 9
+5, senior crowd, 0.755621, 0
+5, great service, 0.695471, 0
+5, real Airstream travel, 0.986393, 1
+5, Road Runner bars, 0.961122, 1
+5, sort, 0.459616, 2
+5, drinks, 0.45633, 2
+5, beaten path, 0.774568, 3
+5, Las Vegas, 0.736481, 3
+5, free drink wrist, 0.955498, 6
+5, Shady Grove Lounge, 0.950232, 6
+5, local radio stations, 0.906817, 7
+5, affordable appetizers, 0.747599, 7
+5, free stuff, 0.862782, 8
+5, Polish waitress, 0.750239, 8
+5, favorite places, 0.747881, 9

@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, uncaring bartenders, 0.967768, 0
+1, Irish whiskey, 0.931148, 0
+1, business, 0.443017, 1
+1, respect, 0.366627, 1
+1, Windy, 0.378265, 2
+1, real bar, 0.815605, 3
+1, Small selection, 0.909785, 6
+1, brands, 0.358591, 6
+2, PATRICKS DAY PEOPLE, 0.779187, 0
+2, Guinness, 0.55106, 0
+2, national Irish Holiday, 0.814338, 1
+2, utter shock, 0.712422, 1
+2, people, 0.799414, 2
+2, bar, 0.69222, 2
+2, SAINT PATRICKS, 0.952028, 3
+2, photos, 0.541937, 3
+2, Irish band, 0.670245, 6
+2, thats, 0.622345, 6
+2, holiest, 0.570631, 7
+3, Irish pub, 0.761325, 0
+3, Smokey Smitty, 0.58456, 0
+3, noise level, 0.785103, 1
+3, Table service, 0.543914, 1
+3, L-shaped bar, 0.584699, 2
+3, band, 0.556152, 2
+3, Blue Hawaiin, 0.768589, 3
+3, Thursday evening, 0.586194, 3
+3, Brendan, 0.810867, 5
+3, stage, 0.469553, 5
+3, Gloria Gaynor style, 0.74604, 6
+3, Orleans staycation, 0.580574, 6
+3, adult beverage, 0.967492, 7
+3, quiet place, 0.529503, 7
+3, favorite adult beverage, 0.773826, 8
+3, dim lighting, 0.580883, 8
+5, open mic night, 0.914973, 0
+5, Thursday  night, 0.572949, 0
+5, yelp shout, 0.677305, 2
+5, Drinks, 0.273776, 2
+5, bud Black Crown, 0.869237, 3
+5, Orleans Hotel, 0.634655, 3
+5, televisions, 0.305623, 6
+5, tons, 0.298864, 6
+5, sports book room, 0.828797, 7
+5, waitress, 0.325157, 7
+5, great place, 0.59325, 8
+5, game, 0.268627, 8
+5, free drink, 0.650232, 9
+5, talent singing, 0.589827, 9

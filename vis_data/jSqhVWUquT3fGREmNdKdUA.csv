@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, main seating area, 0.940782, 0
+1, American dim sum, 0.929529, 0
+1, bar style restaurants, 0.937158, 1
+1, main ingredients, 0.82596, 1
+1, end result, 0.761154, 2
+1, money, 0.653428, 2
+1, half gallon bottles, 0.923818, 3
+1, user reviews, 0.765966, 3
+1, salt shaker, 0.98975, 6
+1, good beer selection, 0.936637, 6
+1, superb customer service, 0.911676, 7
+1, shortrib appetizer, 0.816523, 7
+1, amazing tapas restaurants, 0.945476, 8
+1, high end ingredients, 0.931361, 8
+1, amazing meal, 0.780466, 9
+1, stars, 0.656455, 9
+2, tofu dim sum, 0.770836, 0
+2, PORK BELLY BITES, 0.704411, 0
+2, dim sum portions, 0.786583, 1
+2, Pork dim sum, 0.76926, 1
+2, REAL dim sum, 0.784145, 2
+2, CRISPY PIG FACE, 0.698525, 2
+2, small dim sum, 0.774036, 3
+2, small plate restaurant, 0.767946, 3
+2, dim sum, 0.912995, 4
+2, dish, 0.713123, 4
+2, BABY BOK CHOI, 0.693791, 6
+2, Asian food lover, 0.687051, 6
+2, brussels sprouts, 0.694239, 7
+2, padded bench seats, 0.682104, 7
+2, pretty expensive restaurants, 0.678519, 8
+2, good music, 0.660282, 8
+3, dim sum dishes, 0.43719, 0
+3, dim sum portions, 0.429743, 0
+3, dim sum experience, 0.417241, 2
+3, roasted pork ramen, 0.413101, 2
+3, dim sum options, 0.484329, 3
+3, dim sum guy, 0.444238, 3
+3, pork belly, 0.620803, 4
+3, pork belly bites, 0.61558, 4
+3, dim sum, 0.991419, 5
+3, restaurant, 0.408066, 5
+3, american dim sum, 0.578305, 6
+3, place, 0.403053, 6
+3, crispy tofu dish, 0.401634, 7
+3, short ribs, 0.391146, 7
+3, large group, 0.367411, 8
+3, sum choices, 0.355793, 8
+3, heirloom tomato dish, 0.350062, 9
+4, dim sum dishes, 0.476113, 0
+4, belly dim sum, 0.475866, 0
+4, dim sum restaurants, 0.442052, 1
+4, special dim sum, 0.417618, 1
+4, dim sum menu, 0.458506, 2
+4, vegetarian dim sum, 0.44365, 2
+4, dim sum options, 0.531387, 3
+4, dim sum, 0.97855, 4
+4, salad, 0.375548, 4
+4, pork belly, 0.820607, 5
+4, short ribs, 0.554309, 5
+4, pork belly bites, 0.707722, 6
+4, dim sum tray, 0.485554, 6
+4, cream cheese biscuits, 0.375836, 7
+4, flank steak, 0.373959, 7
+4, roast pork ramen, 0.401978, 8
+4, unctious pork cheek, 0.355883, 8
+5, belly dim sum, 0.578149, 0
+5, pork belly dim, 0.561557, 0
+5, best dim sum, 0.509615, 1
+5, pig face, 0.448396, 2
+5, good food, 0.447187, 2
+5, pork belly bites, 0.598099, 3
+5, dim sum dishes, 0.506406, 3
+5, dim sum, 0.904975, 5
+5, pork belly, 0.700856, 5
+5, dim sum option, 0.521572, 6
+5, restaurant, 0.491172, 6
+5, dim sum options, 0.512736, 7
+5, dim sum server, 0.505863, 7
+5, dim sum tray, 0.5625, 8
+5, dim sum waitress, 0.5121, 8
+5, creative food options, 0.453805, 9

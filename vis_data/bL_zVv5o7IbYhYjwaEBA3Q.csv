@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+1, good club music, 0.939731, 0
+1, cold brew tea, 0.892937, 0
+1, Caesar salad, 0.714007, 1
+1, appeal, 0.537762, 1
+1, new menu options, 0.883885, 2
+1, little loud, 0.76159, 2
+1, property management company, 0.904625, 3
+1, actual bread parts, 0.893877, 3
+1, fry bread, 0.964622, 6
+1, tad bit salty, 0.894083, 6
+1, Navajo fry bread, 0.942153, 7
+1, restaurant, 0.615323, 7
+1, facebook site, 0.729097, 8
+1, place, 0.582012, 8
+4, patio, 0.548647, 3
+4, place, 0.576033, 6
+4, decent size, 0.954314, 7
+4, dance floor, 0.877531, 7
+4, Saturday night, 0.975988, 9
+4, good time, 0.921719, 9
+5, mayo Tuna Melt, 0.78835, 0
+5, best cappuccino, 0.635066, 0
+5, bar / club, 0.652911, 3
+5, nightlife spots, 0.634176, 3
+5, small snack, 0.61181, 6
+5, old town, 0.872924, 7
+5, new hot spot, 0.818703, 7
+5, coffee shop, 0.814373, 8
+5, Great customer service, 0.797645, 8
+5, Town Scottsdale area, 0.905921, 9
+5, young partying professionals, 0.825243, 9

@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+1, sleazy dive bar, 0.995972, 0
+1, Cheap beer, 0.820045, 0
+1, False advertising, 0.772946, 1
+1, drinks, 0.387368, 1
+1, stretch marks, 0.709273, 2
+1, amazing bars, 0.708364, 2
+1, specific band play, 0.941604, 3
+1, friends, 0.450882, 3
+1, job, 0.558801, 4
+1, better dives, 0.787233, 6
+1, gangsta, 0.436297, 6
+1, great time, 0.689832, 7
+3, open mic night, 0.902629, 0
+3, live music, 0.680558, 0
+3, draft beer selection, 0.964215, 2
+3, bikini, 0.595035, 3
+3, ones, 0.458332, 3
+3, glass, 0.450785, 6
+3, Staff, 0.450218, 6
+3, free drinks, 0.693658, 7
+3, ladies night, 0.661124, 7
+3, great time, 0.688165, 8
+3, busy night, 0.664216, 8
+4, foosball table, 0.770195, 0
+4, 25 cent, 0.737226, 0
+4, Typical dive bar, 0.962558, 1
+4, Hell Yeah, 0.817535, 1
+4, metal shows, 0.661122, 3
+4, Food trucks, 0.62585, 3
+4, motorcycles+ tattoo ARTISTs, 0.9309, 6
+4, Eye candy everywherez, 0.925233, 6
+4, Live Art galleries, 0.880426, 7
+4, Great Live MUSIC, 0.873622, 7
+4, Thee GOOD, 0.69949, 8
+4, friday, 0.469538, 8
+5, typical Vegas club, 0.90886, 0
+5, new hang, 0.65835, 0
+5, curious tourists, 0.602022, 2
+5, local person, 0.52004, 2
+5, BIG Vegas clubs, 0.936424, 3
+5, typical Vegas crowd, 0.924101, 3
+5, bar, 0.666555, 4
+5, music, 0.245252, 6
+5, super cool, 0.53682, 7
+5, door security, 0.618951, 8
+5, great atmosphere, 0.615812, 8

@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, Limited beer selection, 0.995231, 0
+2, Mrs Paul, 0.734882, 0
+2, hipster smell, 0.845909, 2
+2, scratch, 0.340958, 2
+2, fish meal, 0.695221, 3
+2, food, 0.380819, 3
+2, Friday fish fry, 0.995587, 6
+2, fuss, 0.40862, 6
+2, restaurant, 0.290064, 7
+3, bad venue, 0.851311, 0
+3, fund raisers, 0.838771, 0
+3, bathrooms, 0.532053, 6
+3, Plenty, 0.510246, 7
+3, parking, 0.497921, 7
+3, offer great views, 0.990484, 8
+3, lake, 0.451029, 8
+4, friday nights, 0.616953, 0
+4, skipping. cold, 0.605604, 0
+4, bland food, 0.640441, 1
+4, elderly people, 0.609044, 1
+4, possible friday, 0.618208, 2
+4, saturday night, 0.599787, 2
+4, fish frys, 0.589042, 3
+4, buffet, 0.449469, 3
+4, tiki bar, 0.922596, 6
+4, fish fry, 0.79203, 6
+4, Epic folks, 0.608253, 7
+4, new venue, 0.585526, 7
+4, gorgeous views, 0.604478, 8
+4, friendly staff, 0.591271, 8
+4, Lake Monona, 0.595, 9
+4, drinks, 0.438273, 9
+5, lawn, 0.637646, 0
+5, access, 0.546009, 0
+5, location, 0.563504, 3
+5, Beautiful views, 0.934724, 7
+5, management, 0.579047, 8
+5, staff, 0.578182, 8
+5, special night, 0.860791, 9
+5, Thanks, 0.689016, 9

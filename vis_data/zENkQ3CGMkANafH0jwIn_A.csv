@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+2, drinks, 0.812171, 0
+2, waitress, 0.661547, 0
+2, redeeming quality, 0.933573, 1
+2, food, 0.740006, 1
+3, average sports fan, 0.918466, 0
+3, adjacent Chinese place, 0.916407, 0
+3, various softball teams, 0.929472, 1
+3, bar snack, 0.797878, 1
+3, sports bar, 0.932254, 2
+3, pool tables, 0.91887, 2
+3, dive bar feel, 0.956234, 3
+3, Mixed crowd, 0.77875, 3
+3, bar, 0.987978, 6
+3, Chinese food, 0.768361, 6
+3, cheap drinks, 0.893374, 7
+3, Mill/College/Baseline community, 0.795665, 7
+3, Cheers atmosphere, 0.779622, 8
+3, playoff game, 0.770648, 8
+3, legit nice locals, 0.902233, 9
+3, tvs, 0.634018, 9
+4, darts, 0.500725, 0
+4, peanuts, 0.447469, 0
+4, kinda bar goer, 0.911383, 2
+4, cringe-worthy bar tabs, 0.854328, 2
+4, Great sports bar, 0.910058, 6
+4, ping pong table, 0.806023, 6
+4, Baseline Pub, 0.929048, 7
+4, time travel, 0.805491, 7
+4, inexpensive drink selection, 0.848898, 8
+4, Bartender Beth, 0.705692, 8
+4, fairly lively crowd, 0.839077, 9
+4, great drink prices, 0.8302, 9
+5, Golden Tee Live, 0.682583, 0
+5, Big Game Hunter, 0.662813, 0
+5, hi-def flat screens, 0.706098, 1
+5, total dive bar, 0.709225, 3
+5, little Dive Bar, 0.672094, 3
+5, dive bar, 0.964653, 6
+5, golden tee, 0.690795, 6
+5, Jerimiah Sweet Tea, 0.686261, 7
+5, Awesome bar, 0.680307, 7
+5, Awesome Great dive, 0.825313, 8
+5, awesome bartender, 0.721528, 8
+5, awesome time. love, 0.924802, 9
+5, happy hour., 0.567387, 9

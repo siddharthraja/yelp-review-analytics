@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, wife, 0.531682, 0
+2, waiter, 0.446727, 0
+2, tab, 0.553715, 2
+2, comment, 0.394229, 2
+2, blueberry lemonade deal, 0.865343, 7
+2, kind, 0.386573, 7
+2, pretty fun place, 0.91785, 8
+3, half delicious tomatoes, 0.942733, 0
+3, dimly light place, 0.932014, 0
+3, alcohol content, 0.75047, 1
+3, Slow working, 0.799578, 2
+3, domestic draft, 0.759293, 2
+3, acoustic sets, 0.772802, 3
+3, hanger steak, 0.766924, 3
+3, backstage bar, 0.906884, 4
+3, strong opinion, 0.750404, 4
+3, outdoor seating, 0.93325, 7
+3, different variates, 0.78655, 7
+3, nice place, 0.813831, 8
+3, Culture District, 0.772099, 8
+3, seasonal pumpkin beer, 0.90519, 9
+3, pleasant surprise, 0.769112, 9
+4, East End Brewing, 0.898967, 0
+4, great memories, 0.821869, 0
+4, drink specials, 0.975991, 2
+4, late night drink, 0.951154, 2
+4, small tables, 0.75601, 3
+4, food, 0.664504, 5
+4, CLO Cabaret shows, 0.96264, 6
+4, backstage bar, 0.946584, 6
+4, favorite drink, 0.860658, 7
+4, bar tenders, 0.821703, 7
+4, neat drink list, 0.968091, 8
+4, banana bread beers, 0.906333, 8
+4, great beer-this past, 0.924842, 9
+4, craft beer case, 0.896273, 9
+5, Judge Jackie Justice, 0.872519, 0
+5, extra large pieces, 0.865404, 0
+5, favorite bar, 0.71655, 1
+5, city, 0.538684, 1
+5, Backstage Bar, 0.931695, 2
+5, yuck, 0.628879, 2
+5, jazz performance, 0.734721, 3
+5, Abita Grapefruit IPA, 0.940411, 6
+5, specialty cocktails, 0.937135, 6
+5, different draft selections, 0.889709, 7
+5, Pittsburgh Playwrights Theatre, 0.884692, 7
+5, homemade simple syrups, 0.900185, 8
+5, french onion dip, 0.878689, 8
+5, right drink, 0.731649, 9
+5, great thing, 0.707923, 9

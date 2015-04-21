@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+2, hefe weizen average, 0.902372, 0
+2, entire meal, 0.631269, 0
+2, beers, 0.323439, 1
+2, chips, 0.312419, 1
+2, fellow yelpers, 0.720158, 2
+2, time, 0.388581, 2
+2, reviews, 0.298461, 6
+2, good places, 0.609675, 7
+2, area, 0.284856, 7
+3, overly charred burger, 0.917644, 0
+3, nous l'a gentiment, 0.902946, 0
+3, good job, 0.776223, 1
+3, salsa combination, 0.741286, 1
+3, duck wings, 0.729229, 2
+3, bit, 0.647807, 2
+3, pub food offerings, 0.86134, 3
+3, empanadas, 0.644748, 4
+3, peut être pas, 0.918534, 6
+3, pas forcément chaleureuse, 0.896264, 6
+3, decent beer selection, 0.929942, 7
+3, Good beer, 0.785839, 7
+3, good local beers, 0.888282, 8
+3, brew pub, 0.764309, 8
+3, pleasant multi-level place, 0.868274, 9
+3, traditional offerings, 0.740587, 9
+4, different beers, 0.843392, 0
+4, pub type food, 0.809984, 0
+4, nice airy openess, 0.803969, 1
+4, Montreal Hell, 0.815823, 2
+4, la rue très, 0.793685, 3
+4, beer, 0.958399, 4
+4, Montreal, 0.926856, 5
+4, rabbit burger, 0.966857, 6
+4, Dieu du Ciel, 0.878909, 6
+4, avid beer geek, 0.837721, 7
+4, L'amere A Boire, 0.825955, 7
+4, beers, 0.936566, 8
+4, good place, 0.859772, 8
+4, nice beer selection, 0.842076, 9
+4, local Quebec beers, 0.835742, 9
+5, la bière, 0.915007, 0
+5, vous rappellera sans, 0.896022, 0
+5, ce n'est que, 0.863802, 3
+5, incarne le meilleur, 0.851912, 3
+5, Montreal, 0.799986, 5
+5, bien que le, 0.884711, 6
+5, menu gourmet ait, 0.848242, 6
+5, great beers, 0.925489, 7
+5, C'est le dessert, 0.845298, 7
+5, puppy-like dill-infused fish, 0.846371, 8
+5, blonde beers, 0.822298, 8
+5, beer connoisseur friend, 0.856151, 9
+5, atmospherically high-ceilinged dining, 0.841857, 9

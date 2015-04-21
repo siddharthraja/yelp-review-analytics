@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, different times, 0.902053, 0
+1, maple syrup, 0.611259, 0
+1, management staff, 0.554283, 2
+1, total people, 0.512519, 2
+1, small joint, 0.544681, 3
+1, large groups, 0.543799, 3
+1, restaurant, 0.748012, 4
+1, service, 0.598874, 4
+1, drinks, 0.685133, 5
+1, Saturday night, 0.938203, 6
+1, amazing drinks, 0.64171, 6
+1, Moscow Mule, 0.607321, 7
+1, spin, 0.208105, 7
+2, Yelp check, 0.716079, 0
+2, upsell price, 0.703549, 0
+2, portion sizes, 0.725515, 1
+2, pepper, 0.557983, 1
+2, course ingredients, 0.652771, 2
+2, waitress, 0.479651, 2
+2, runner, 0.504749, 3
+2, delivery, 0.495835, 3
+2, cocktails, 0.617997, 4
+2, table, 0.585828, 4
+2, Phoenix multiple times, 0.916067, 6
+2, lime wedges, 0.733258, 6
+2, Story Liquor Bar, 0.92855, 7
+2, return visit, 0.676161, 7
+2, star restaurant, 0.687551, 8
+2, attention, 0.514783, 8
+2, Great ambiance, 0.749694, 9
+3, medium-well kinda guy, 0.775288, 0
+3, Friday night fun, 0.74759, 0
+3, little creepy, 0.642838, 1
+3, lobster rolls, 0.642775, 1
+3, liquor bar, 0.748929, 2
+3, little bit, 0.727659, 2
+3, lobster roll, 0.905357, 3
+3, cocktail kinda people, 0.776559, 3
+3, restaurant, 0.648479, 5
+3, English /british manager, 0.757705, 6
+3, foie gras, 0.746991, 6
+3, great food/drink specials, 0.749404, 7
+3, pretty great reviews, 0.72885, 7
+3, candle lights, 0.736692, 8
+3, place, 0.691344, 8
+3, neat different kinda, 0.837765, 9
+3, nice inviting atmosphere, 0.715748, 9
+4, late night daily, 0.753435, 0
+4, menu changes, 0.739661, 0
+4, liquor bar/cocktail bar, 0.743843, 2
+4, foie gras, 0.79331, 3
+4, dinner, 0.753772, 3
+4, sea bass, 0.739388, 4
+4, Braised Beef Short, 0.734655, 4
+4, food, 0.919571, 5
+4, menu, 0.89335, 5
+4, place, 0.94729, 6
+4, Old Town, 0.796856, 6
+4, Gelato Spot, 0.995165, 7
+4, Story Liquor Bar, 0.84739, 7
+4, Asian Chopped Salad, 0.732907, 8
+4, great upscale addition, 0.729546, 8
+4, probably good food, 0.77739, 9
+4, light type thing, 0.724504, 9
+5, best drink menu, 0.522403, 0
+5, duck breast roulade, 0.503415, 0
+5, Story Liquor Bar, 0.709547, 4
+5, date night, 0.526367, 4
+5, place, 0.932886, 5
+5, menu, 0.854038, 5
+5, drinks, 0.651539, 6
+5, new england mule, 0.605284, 6
+5, old town, 0.714421, 7
+5, sea bass, 0.654104, 7
+5, great little place, 0.56271, 8
+5, great experience, 0.529666, 8
+5, great place, 0.614733, 9
+5, great food, 0.527015, 9

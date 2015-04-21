@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, Monte Carlo, 0.587865, 0
+1, rude waiter, 0.51664, 0
+1, food poisoning, 0.602921, 1
+1, mediocre food, 0.602274, 1
+1, steak knife, 0.592138, 2
+1, manager, 0.574026, 2
+1, wine glasses, 0.576117, 3
+1, Blue Man Group, 0.559364, 3
+1, food, 0.929603, 4
+1, time, 0.781876, 4
+1, bread, 0.604506, 5
+1, waiter, 0.590204, 5
+1, table, 0.622638, 6
+1, Asian noodle place, 0.591696, 6
+1, Italian food, 0.516369, 7
+1, COMPLIMENTARY BREAD, 0.504626, 7
+1, better tasting ravioli, 0.561829, 8
+1, luke warm attitude, 0.54954, 8
+1, Las Vegas, 0.576813, 9
+2, red checked background, 0.762687, 0
+2, warm fried custard, 0.760824, 0
+2, Monte Carlo, 0.930708, 2
+2, chicken, 0.769427, 2
+2, modern trendy restaurant, 0.758637, 3
+2, formal Italian restaurant, 0.756667, 3
+2, Las Vegas, 0.808091, 4
+2, wine, 0.804819, 4
+2, fried custard, 0.810693, 5
+2, waiter, 0.704882, 5
+2, ice cream, 0.796954, 6
+2, soup del giorno, 0.757042, 6
+2, clear wine bottles, 0.770745, 7
+2, ok place, 0.695742, 7
+2, better menu selection, 0.736692, 8
+2, modern classic decor, 0.732009, 8
+3, Blue Man Group, 0.728277, 0
+3, Market City Cafe, 0.629577, 0
+3, extremely slow service, 0.627259, 1
+3, olive oil/balsamic vinegar, 0.616216, 1
+3, oyster shooters, 0.65393, 3
+3, Las Vegas, 0.636647, 3
+3, food, 0.75092, 4
+3, service, 0.697892, 4
+3, Monte Carlo, 0.908565, 6
+3, seafood risotto, 0.706506, 6
+3, private room, 0.719801, 7
+3, Monte Carlo Las, 0.65856, 7
+3, monte carlo hotel, 0.756646, 8
+3, great private room, 0.658825, 8
+3, risotto friend appetizer, 0.662373, 9
+3, Good bread, 0.628181, 9
+4, good table bread, 0.537035, 0
+4, Cute little restaurant, 0.518242, 0
+4, Cesar salad, 0.519038, 2
+4, salad, 0.585841, 4
+4, food, 0.714317, 5
+4, service, 0.665267, 5
+4, wine, 0.671354, 6
+4, blue man group, 0.568824, 6
+4, penne pesto pasta, 0.603414, 7
+4, tuscan bean soup, 0.580724, 7
+4, Monte Carlo, 0.905096, 8
+4, great place, 0.567293, 8
+4, Great service, 0.525825, 9
+4, pretty good meal, 0.520044, 9
+5, good Italian cuisine, 0.637906, 0
+5, raspberry rum sauce, 0.6331, 0
+5, multiple food allergies, 0.642569, 2
+5, beautiful little hideaway, 0.616141, 2
+5, meatballs al forno, 0.630324, 3
+5, service, 0.722965, 4
+5, time, 0.634093, 5
+5, food, 0.766884, 6
+5, meal, 0.738038, 6
+5, good dining experience, 0.626725, 7
+5, Italian restaurant, 0.625022, 7
+5, Monte Carlo, 0.908458, 8
+5, superb customer service, 0.668054, 8
+5, great meal, 0.700536, 9
+5, awesome tasting food, 0.636265, 9

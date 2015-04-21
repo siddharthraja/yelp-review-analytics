@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+1, Mandalay Bay, 0.930611, 0
+1, past weekend, 0.842934, 0
+1, single bottle, 0.839336, 2
+1, web site, 0.756797, 2
+1, place, 0.477676, 3
+3, bit, 0.456096, 0
+3, future, 0.439304, 0
+3, Euro Trash uber, 0.940529, 2
+3, type folks, 0.619756, 2
+3, spendy bottles, 0.632015, 3
+3, limits, 0.452906, 3
+3, Delta Epsilon Goes, 0.787238, 4
+3, Gamma, 0.432069, 4
+3, wines, 0.468048, 6
+3, wares, 0.46324, 6
+3, Austin Powers reference, 0.858417, 7
+3, Suzanne, 0.46268, 7
+4, Austin Powers, 0.637435, 0
+4, wine store, 0.616345, 0
+4, wine bar, 0.809446, 1
+4, Las Vegas, 0.574237, 1
+4, stemless O Riedel, 0.663572, 2
+4, Cabernet Sauvignon, 0.598738, 2
+4, charcuterie servings, 0.616618, 3
+4, degrees, 0.429, 3
+4, wineglasses, 0.351912, 6
+4, oddly plastic-looking interior, 0.904641, 7
+4, beautiful zebrawood ceiling, 0.876977, 7
+4, nice little bar, 0.933123, 8
+4, nice selection, 0.658192, 8
+4, Awesome wine displays, 0.819637, 9
+4, pretty fantastic collection, 0.815114, 9
+5, Willi Schaefer, 0.557882, 0
+5, staying, 0.356245, 0
+5, little cool, 0.541757, 3
+5, Vegas, 0.341596, 3
+5, cute little wine, 0.817384, 6
+5, degrees Fahrenheit, 0.639885, 6
+5, mandalay bay, 0.902435, 7
+5, great half bottle, 0.769729, 7
+5, futuristic retro, 0.534099, 8
+5, Great selection, 0.526292, 8
+5, great wine list, 0.759386, 9
+5, free air conditioning, 0.75318, 9

@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+1, meatballs, 0.96895, 2
+1, meatball sandwich, 0.957914, 2
+1, Service, 0.42029, 6
+3, great little place, 0.978516, 0
+3, cigarette smoke, 0.742545, 0
+3, Standard bar food, 0.826879, 3
+3, friends, 0.315982, 6
+3, complex, 0.265583, 6
+3, drink specials, 0.684945, 7
+5, previous reviewer, 0.643227, 0
+5, dining area, 0.559957, 0
+5, Gray place, 0.547769, 2
+5, dang, 0.300271, 2
+5, town bar feel, 0.869355, 3
+5, large dining room, 0.935348, 6
+5, law rants, 0.566166, 6
+5, best fried pickles, 0.964665, 7
+5, decent guy, 0.649875, 7
+5, new hd tvs, 0.944155, 8
+5, multiple games, 0.580823, 8
+5, go-to place, 0.674589, 9
+5, good food, 0.623954, 9

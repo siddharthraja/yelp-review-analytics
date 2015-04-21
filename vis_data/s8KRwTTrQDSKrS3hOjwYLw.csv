@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+2, best dive bars, 0.854498, 0
+2, Swizzle Inn, 0.722428, 0
+2, things, 0.267122, 2
+2, dive bar, 0.960864, 3
+2, dive bar customers, 0.828083, 6
+2, decor, 0.318097, 6
+2, real estate, 0.592814, 8
+2, pool table, 0.589422, 8
+3, smallest table, 0.639513, 0
+3, official menu, 0.614037, 0
+3, stiff drink, 0.644874, 1
+3, stopover point, 0.629663, 1
+3, paper take-away menu, 0.922149, 2
+3, pub food, 0.715367, 2
+3, small dive bar, 0.945638, 3
+3, quick bar food, 0.836096, 3
+3, Friday Fish Fry, 0.88189, 6
+3, New York Steak, 0.886835, 7
+3, pool table, 0.619809, 7
+3, service, 0.355849, 9
+4, small dive-ish bar, 0.891539, 0
+4, average bar food, 0.881201, 0
+4, touch screen game, 0.820281, 2
+4, Vig Uptown, 0.751891, 2
+4, fave dive bar, 0.863446, 3
+4, favorite little microwinery, 0.82861, 3
+4, CJ, 0.930984, 6
+4, Jim Beam Manhattan, 0.865016, 6
+4, good hangover protection, 0.848907, 7
+4, good bartender, 0.787703, 7
+4, CJ Talley, 0.872728, 8
+4, chili dogs, 0.863703, 8
+4, decent food, 0.88236, 9
+4, pretty basic bar, 0.846614, 9
+5, Chili Cook Offs, 0.72932, 0
+5, Phoenix Fire Departments, 0.566469, 0
+5, Little Rich Girl, 0.746726, 1
+5, Cheap drinks, 0.633885, 1
+5, medium ones, 0.570989, 2
+5, good grilled wings, 0.729571, 3
+5, Old Dirty Drummer, 0.712788, 3
+5, cj, 0.956272, 5
+5, th St intersection, 0.71392, 6
+5, watering hole, 0.569454, 6
+5, commercial real estate, 0.724531, 7
+5, Great local bar, 0.723125, 7
+5, Good job CJ, 0.905364, 8
+5, Tuesday afternoon Jack, 0.726995, 8
+5, Great neighborhood Pub, 0.76361, 9
+5, favorite lunch spot, 0.761072, 9

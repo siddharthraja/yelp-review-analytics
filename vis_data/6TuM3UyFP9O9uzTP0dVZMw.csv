@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, regular Wally, 0.648867, 0
+1, prime rib, 0.597978, 0
+1, bad customer service, 0.53128, 1
+1, raw chicken, 0.529206, 1
+1, sour cream, 0.570762, 2
+1, diamond wedding band, 0.563674, 2
+1, raw hot wings, 0.538443, 3
+1, ethnic food, 0.471083, 3
+1, Wally, 0.98859, 4
+1, Cinco, 0.448356, 4
+1, food, 0.496205, 5
+1, cheese, 0.474089, 5
+1, Wally burger, 0.866248, 6
+1, burger medium, 0.544854, 7
+1, tiny tacos, 0.484007, 7
+2, uncomfortable chairs., 0.694064, 0
+2, chicken pieces, 0.664392, 0
+2, grilled chicken, 0.711716, 1
+2, Caesar salad, 0.69232, 1
+2, hardwood chairs, 0.670349, 2
+2, deep frier, 0.667752, 2
+2, hand-dipped fresh cod, 0.870901, 3
+2, french fries, 0.694809, 3
+2, place, 0.484421, 6
+2, Ditto, 0.461845, 6
+2, quick lunch, 0.71134, 7
+2, courteous service, 0.670038, 7
+2, Bacon cheddar Burger, 0.929922, 8
+2, nice inside. seat, 0.902808, 8
+2, mac, 0.452536, 9
+2, cheese, 0.44952, 9
+3, blue cheese, 0.418885, 0
+3, California Cobb salad, 0.397619, 0
+3, high priced items, 0.414355, 1
+3, complimentary beers, 0.26996, 1
+3, wings, 0.36521, 2
+3, actual knowledge, 0.26613, 2
+3, bloody mary, 0.48596, 3
+3, retail bottle price, 0.385979, 3
+3, fresh ones, 0.38781, 4
+3, service, 0.315331, 4
+3, regular fries, 0.506013, 5
+3, waiter, 0.236241, 5
+3, sweet potato fries, 0.917766, 6
+3, burgers, 0.371809, 6
+3, bleu cheese, 0.540876, 7
+3, good burger, 0.362551, 7
+3, wine burger, 0.490778, 8
+3, timely manner, 0.285871, 8
+3, burger special, 0.317226, 9
+3, great flavor, 0.264242, 9
+4, Braised Short Ribs, 0.813757, 0
+4, greasy bar food, 0.772342, 0
+4, shredded BBQ burger, 0.803885, 2
+4, Doubletree Wally, 0.717353, 2
+4, food, 0.9692, 3
+4, mixed fries, 0.736612, 3
+4, dark wood, 0.782935, 4
+4, place, 0.838809, 5
+4, pot roast, 0.758598, 5
+4, prime rib, 0.904465, 6
+4, restaurant burger, 0.744007, 6
+4, wine burger, 0.991486, 7
+4, Bourbon Street Pasta, 0.940522, 7
+4, good food, 0.817439, 8
+4, sweet potato fries, 0.810531, 8
+4, food good service, 0.833855, 9
+4, consistently good food, 0.791121, 9
+5, visitors poor reviews, 0.641536, 0
+5, rib French dip, 0.636714, 0
+5, bad meal, 0.695429, 1
+5, little tight seating, 0.623951, 1
+5, french dip, 0.690243, 2
+5, best french dip, 0.64659, 2
+5, mixed fries, 0.658047, 3
+5, bad menu choice, 0.640134, 3
+5, prime rib, 0.763108, 5
+5, place, 0.737437, 5
+5, wally, 0.97645, 6
+5, food, 0.906038, 6
+5, sweet potato, 0.780622, 7
+5, blue cheese, 0.710372, 7
+5, pot roast, 0.798271, 8
+5, Great food, 0.75934, 8
+5, great place, 0.721377, 9
+5, upscale pub food, 0.662424, 9

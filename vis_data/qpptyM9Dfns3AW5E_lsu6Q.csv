@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, worst indian food, 0.579065, 0
+1, better Indian food, 0.512227, 0
+1, decent Indian food, 0.605469, 1
+1, service, 0.547878, 1
+1, quality Indian food, 0.511005, 2
+1, good thing, 0.397314, 2
+1, blandest Indian food, 0.534029, 3
+1, Ras Malai pieces, 0.437522, 3
+1, indian food, 0.995005, 4
+1, place, 0.659788, 4
+1, Indian lunch buffets, 0.486053, 6
+1, restaurant quality food, 0.475772, 6
+1, lunch buffet, 0.76241, 7
+1, grated Parmesan cheese, 0.431284, 7
+1, indian lunch buffet, 0.543131, 8
+1, healthful Indian food, 0.526957, 8
+2, better Indian food, 0.519461, 0
+2, Indian food restaurant, 0.45056, 0
+2, dark chicken curry, 0.453662, 1
+2, 5-course tasting menu, 0.448309, 1
+2, chicken curry, 0.52489, 2
+2, tikka masala, 0.491261, 2
+2, spicy, 0.501749, 3
+2, place, 0.475741, 3
+2, food, 0.999042, 4
+2, Indian food, 0.91069, 4
+2, origin india, 0.581545, 5
+2, naan, 0.578264, 5
+2, chicken tikka salad, 0.505442, 6
+2, Indian food place, 0.45729, 6
+2, mango lassi, 0.471078, 7
+2, lamb shank, 0.444933, 7
+2, credit card, 0.435555, 8
+3, normal Indian restaurant, 0.46852, 0
+3, Indian food eaters, 0.464838, 0
+3, good Indian places, 0.454448, 1
+3, pop Indian formulaic, 0.415748, 1
+3, Indian restaurants, 0.468513, 2
+3, prices, 0.467637, 3
+3, food esp vegeterian, 0.424222, 3
+3, food, 0.921005, 4
+3, indian food, 0.776697, 4
+3, good indian food, 0.622671, 5
+3, chili mint chicken, 0.527445, 5
+3, chicken tikka, 0.561018, 6
+3, southern indian style, 0.49775, 6
+3, Indian restaurant, 0.569017, 7
+3, garlic naan, 0.513824, 7
+3, origin india, 0.601632, 8
+3, Pakistani/ Indian restaurant, 0.461293, 8
+3, great garlic naan, 0.416095, 9
+4, delicious Indian food, 0.486355, 0
+4, good Indian place, 0.48137, 0
+4, little bit, 0.463367, 1
+4, good Indian restaurant, 0.476437, 2
+4, go-to Indian place, 0.417536, 2
+4, Indian food names, 0.468273, 3
+4, indian restaurants, 0.553798, 4
+4, Las Vegas, 0.504232, 4
+4, Origin India, 0.979039, 5
+4, indian food, 0.829092, 5
+4, naan, 0.548125, 6
+4, chicken, 0.490604, 6
+4, good indian food, 0.531417, 7
+4, chicken curry, 0.471738, 7
+4, chicken tikka, 0.477652, 8
+4, upscale indian restaurant, 0.468313, 8
+5, las vegas, 0.687964, 4
+5, indian restaurant, 0.427326, 4
+5, indian food, 0.950253, 5
+5, chicken, 0.347164, 5
+5, origin india, 0.810035, 6
+5, place, 0.220472, 6
+5, best indian food, 0.381412, 7
+5, best indian restaurant, 0.317352, 7
+5, quality Indian food, 0.232763, 8

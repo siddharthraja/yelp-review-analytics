@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+1, appaullingly mannered barmaid, 0.955096, 0
+1, untidy toilets, 0.796147, 0
+1, Bad decor, 0.741179, 1
+1, service, 0.520983, 1
+1, professional misconduct, 0.787046, 2
+1, glass bottle, 0.775021, 2
+1, TIP, 0.52051, 3
+1, opinion, 0.466549, 3
+1, hourly wage, 0.741775, 7
+1, bottles, 0.471669, 7
+2, decades music, 0.750829, 0
+2, better tip, 0.718335, 0
+2, absolutely shitty service, 0.925785, 1
+2, extremely drunk girls, 0.920162, 1
+2, SUPER cheap drinks, 0.876587, 2
+2, dollars, 0.506068, 3
+2, friend, 0.486731, 3
+2, certain places, 0.733135, 6
+2, big group, 0.662649, 6
+2, Tuesday night, 0.71903, 7
+2, STAY, 0.379131, 7
+4, tu n'as pas, 0.929426, 0
+4, le café campus, 0.923591, 0
+4, pretty crowded event, 0.763957, 1
+4, amuse vraiment bien, 0.801404, 2
+4, high expectations, 0.703765, 2
+4, Impro Musicale event, 0.77845, 3
+4, odd shaped venue, 0.765659, 3
+4, aggressive way, 0.70138, 4
+4, une bonne ambiance, 0.783092, 6
+4, pouvoir s'y rendre, 0.774318, 6
+4, c'est plutôt cool, 0.809715, 7
+4, decidedly community-oriented vibe, 0.801871, 7
+4, great seating arrangements, 0.770133, 9
+4, Great place, 0.717209, 9

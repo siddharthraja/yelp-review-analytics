@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, Brocach Irish Pub, 0.80187, 0
+1, Mahi Mahi, 0.678773, 0
+1, short no-go list, 0.87905, 1
+1, inappropriate behavior, 0.629307, 1
+1, previous visits, 0.637488, 2
+1, initial impression, 0.625029, 2
+1, et cetera, 0.667493, 3
+1, waitress, 0.374352, 3
+1, Monroe Street Bistro, 0.814848, 6
+1, steak frites, 0.667616, 6
+1, Monroe St. Bistro, 0.951306, 7
+1, better food, 0.564551, 7
+1, different things, 0.646304, 8
+1, dining experience, 0.642268, 8
+2, right intent, 0.837574, 0
+2, mussels, 0.596162, 0
+2, dip, 0.583038, 1
+2, shell bowl, 0.83039, 2
+2, odd issue, 0.828553, 2
+2, tasting rosemary rub, 0.958667, 3
+2, options, 0.579497, 3
+2, entrees, 0.689665, 6
+2, drinks, 0.651722, 6
+2, rack, 0.570929, 7
+2, lamb, 0.569385, 7
+4, Tomato Bisque, 0.418638, 0
+4, 4-7pm half, 0.373781, 0
+4, Mahi Mahi, 0.66524, 3
+4, smell weird, 0.467478, 3
+4, fava beans, 0.476334, 6
+4, cheaper food menu, 0.652233, 7
+4, best thing, 0.382852, 7
+4, superb latke underneath, 0.906693, 8
+4, Good overall, 0.375467, 8
+4, Cordon Bleu sandwich, 0.785621, 9
+4, great flavor, 0.373693, 9
+5, live acoustic entertainment, 0.784533, 0
+5, ......, 0.59329, 0
+5, ignorant bliss, 0.603196, 1
+5, fat-filled filler, 0.582415, 1
+5, exceedingly busy schedule, 0.833952, 2
+5, generally fuzzy memory, 0.754428, 2
+5, extremely minor inconvenience, 0.784443, 3
+5, David Bacco, 0.623913, 3
+5, MSB, 0.928235, 4
+5, review, 0.486043, 5
+5, excruciatingly special dessert, 0.756211, 6
+5, reasonably-priced fabulous array, 0.752374, 6
+5, Monroe Street, 0.773163, 7
+5, best burger, 0.744415, 7
+5, season quiche, 0.61385, 8
+5, crab cake, 0.605772, 8

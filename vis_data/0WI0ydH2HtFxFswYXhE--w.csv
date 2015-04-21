@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, sushi bar, 0.564869, 0
+1, hot saki, 0.456533, 0
+1, Terrible service, 0.465083, 1
+1, False advertising, 0.448197, 1
+1, customer service, 0.624331, 2
+1, deep fried balls, 0.569838, 2
+1, waitress, 0.675385, 3
+1, manager, 0.506463, 3
+1, service, 0.830526, 4
+1, nearby sushi competitor, 0.638145, 4
+1, food, 0.831388, 5
+1, place, 0.79571, 5
+1, sushi, 0.994325, 6
+1, simple 2-piece Sushi, 0.683249, 6
+1, sushi review, 0.553167, 7
+1, better service, 0.532978, 7
+1, menu items, 0.446765, 8
+1, course mush, 0.439163, 8
+1, yelp profile, 0.451604, 9
+2, Tomo  Sushi, 0.647924, 0
+2, sushi bar, 0.567956, 0
+2, good customer service, 0.498691, 1
+2, table multiple times, 0.450686, 1
+2, service gal, 0.443152, 2
+2, small favor, 0.349403, 2
+2, soft shell crab, 0.817299, 3
+2, star rating, 0.644945, 3
+2, sushi, 0.970204, 4
+2, service, 0.642861, 4
+2, time, 0.677207, 5
+2, nakama, 0.438219, 5
+2, sushi places, 0.561548, 6
+2, yellow tail, 0.480563, 6
+2, traditional Asian flavors, 0.449986, 7
+2, tempura appetizer, 0.375028, 7
+2, mexican restaurant, 0.473372, 8
+2, fun Asian-fusion place, 0.458851, 8
+3, Sushi Restaurant, 0.73439, 0
+3, sushi places, 0.698524, 0
+3, sushi bar, 0.710623, 1
+3, obnoxious low bass, 0.659974, 1
+3, sushi menu, 0.746506, 2
+3, spicy hand rolls, 0.803095, 3
+3, food. limited rolls, 0.716439, 3
+3, Las Vegas roll, 0.789241, 4
+3, service, 0.677067, 4
+3, sushi, 0.929327, 5
+3, spicy tuna, 0.86672, 6
+3, rolls, 0.841878, 6
+3, zen sushi, 0.799982, 7
+3, love spicy food, 0.743162, 7
+3, good sushi, 0.895194, 8
+3, Rainbow Roll, 0.820482, 8
+3, Overall decent place, 0.687568, 9
+3, deep fried banana, 0.660009, 9
+4, sushi rolls, 0.694464, 0
+4, cheap sushi rolls, 0.692528, 0
+4, spicy tuna, 0.702629, 1
+4, sushi bars, 0.598861, 2
+4, sushi bar, 0.59688, 2
+4, poison ivy, 0.440901, 3
+4, plain rolls, 0.426941, 3
+4, sushi, 0.962274, 5
+4, service, 0.443131, 5
+4, eel sauce, 0.611289, 6
+4, spicy tuna rolls, 0.562467, 6
+4, good sushi, 0.78669, 7
+4, best sushi places, 0.664245, 7
+4, sushi place, 0.745699, 8
+4, nice sushi place, 0.737492, 8
+4, favorite sushi place, 0.723455, 9
+4, high quality sushi, 0.654701, 9
+5, akai hana sushi, 0.502542, 0
+5, decent sushi, 0.407774, 0
+5, inclusive Sushi Bar, 0.538992, 1
+5, Nakama SEVERAL times, 0.256584, 1
+5, sushi places, 0.497576, 2
+5, size/portion sushi, 0.43241, 2
+5, favorite sushi roll, 0.560479, 3
+5, sushi snob, 0.407319, 3
+5, sushi restaurant, 0.829635, 5
+5, sushi, 0.992959, 6
+5, Sushi Lovers Group, 0.511386, 6
+5, Sushi Expert,but Nakama, 0.645669, 7
+5, Hot Night Roll, 0.318746, 7
+5, best sushi, 0.892461, 8
+5, great sushi, 0.598184, 8
+5, Best sushi place, 0.620397, 9
+5, great sushi place, 0.561198, 9

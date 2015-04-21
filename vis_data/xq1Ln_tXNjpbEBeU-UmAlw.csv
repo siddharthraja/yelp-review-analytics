@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, VIP ticket holders, 0.81766, 0
+1, nationally known headliner, 0.722467, 0
+1, comedy clubs, 0.731109, 1
+1, make shift line, 0.695726, 1
+1, la comedy club, 0.951508, 2
+1, box office sales, 0.680447, 2
+1, drinks, 0.677607, 3
+1, row, 0.669769, 3
+1, VIP seating, 0.719456, 6
+1, groupon, 0.58676, 6
+1, Bellagio fountains, 0.585348, 7
+1, excellent headliners, 0.550526, 7
+1, genuine comedy act, 0.713237, 8
+1, Saturday night, 0.59113, 8
+1, locals ticket, 0.572124, 9
+1, good thing, 0.568172, 9
+2, pretty decent restaurant, 0.945975, 0
+2, Cabo Wabo Cantina, 0.930783, 0
+2, venue, 0.57125, 2
+2, stairs, 0.534832, 2
+2, constant background noise, 0.82248, 3
+2, review, 0.509084, 3
+2, minor thing, 0.634378, 4
+2, major issue, 0.627857, 4
+2, mics, 0.463786, 6
+2, PROS, 0.456054, 6
+2, Bellagio fountains, 0.680134, 9
+2, clear view, 0.628611, 9
+3, 19-year old hipster, 0.707836, 0
+3, great little venue, 0.703946, 0
+3, drunk douchers, 0.619024, 1
+3, perfect comedy club, 0.754803, 2
+3, seats, 0.633264, 2
+3, slacker dealer friends, 0.702732, 3
+3, enormous Planet Hollywood, 0.698492, 3
+3, comedy club, 0.883785, 4
+3, bar, 0.683114, 4
+3, Planet Hollywood, 0.719212, 5
+3, drinks, 0.614983, 5
+3, Venue Seating/Line process, 0.708011, 6
+3, Planet Hollywood casino, 0.68127, 6
+3, Todd Paul, 0.836931, 7
+3, big overwhelming city, 0.684705, 7
+3, nice view, 0.705354, 8
+3, pretty small venue, 0.694725, 8
+3, Cabo Wabo Cantina, 0.923056, 9
+3, fun night, 0.621841, 9
+4, Comedy Central specials, 0.46471, 0
+4, big named comics, 0.461252, 0
+4, bad crowd night, 0.459408, 1
+4, yada yada yada, 0.453567, 1
+4, regular price tickets, 0.432796, 2
+4, L.A. Comedy Club, 0.63109, 3
+4, Queens Comedy Club, 0.500484, 3
+4, Comedy Club downtown, 0.489588, 4
+4, stand-up comedy, 0.400331, 4
+4, Trader Vic, 0.507179, 5
+4, comedy club, 0.915203, 6
+4, comedians, 0.729555, 6
+4, favorite comedy clubs, 0.452526, 7
+4, Bret Ernst, 0.450463, 7
+4, la comedy club, 0.717164, 8
+4, Cabo Wabo, 0.599436, 8
+4, hilarious comedians, 0.460907, 9
+4, headliner Lisa Landry, 0.439047, 9
+5, friends birthday, 0.525527, 0
+5, all-u-can-drink special, 0.520935, 0
+5, L.A. Comedy Club, 0.727277, 2
+5, normal padded chairs, 0.703109, 3
+5, Cabo Wabo, 0.555965, 3
+5, audience, 0.384731, 4
+5, time, 0.366084, 4
+5, comedy club, 0.986654, 6
+5, Strip comedy club, 0.789574, 6
+5, la comedy club, 0.943549, 7
+5, outdated Riviera, 0.563674, 7
+5, real great view, 0.705053, 8
+5, default date night/night, 0.682711, 8
+5, Canyon Club, 0.533805, 9
+5, Harrah, 0.35727, 9

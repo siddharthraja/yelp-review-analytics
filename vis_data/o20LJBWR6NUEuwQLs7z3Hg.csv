@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, new waitress, 0.754127, 0
+1, worst enemy, 0.725847, 0
+1, ice teas, 0.857284, 1
+1, service, 0.748617, 1
+1, food order, 0.754604, 2
+1, bar, 0.732611, 2
+1, food, 0.758081, 3
+1, drinks, 0.737399, 3
+1, place, 0.955069, 4
+1, waitress, 0.828726, 4
+1, Rock House, 0.723934, 5
+1, blue sport coat, 0.686448, 6
+1, weak-ass drink, 0.612162, 6
+1, Super Bowl, 0.98175, 7
+1, Paradise Fish Tacos, 0.691072, 7
+1, nicer comfortable lounge, 0.718125, 9
+2, street taco size, 0.840859, 0
+2, good dive bar, 0.8325, 0
+2, chicken taco, 0.752794, 1
+2, new location, 0.725787, 1
+2, bar, 0.94189, 2
+2, time, 0.82653, 2
+2, Vegas Ultra-Dive Bar, 0.827899, 3
+2, mechanical bull, 0.822062, 3
+2, large double doors, 0.787368, 4
+2, ladies night, 0.77103, 4
+2, place, 0.864639, 5
+2, customer service, 0.835106, 6
+2, buy-one/get-one-free drink cards, 0.823208, 6
+2, Pinnacle vodka cocktails, 0.788989, 7
+2, better service, 0.73649, 7
+2, taco specials, 0.751356, 8
+2, unlimited cocktails, 0.725016, 8
+2, good atmosphere, 0.715097, 9
+2, nice view, 0.714905, 9
+3, beer pong tables, 0.544288, 0
+3, Good college football, 0.538276, 0
+3, real dive bar, 0.538165, 1
+3, pool table, 0.510821, 1
+3, dive bar, 0.695544, 2
+3, bloody mary, 0.560339, 2
+3, mechanical bull, 0.864234, 3
+3, unpretentious bar environment, 0.543677, 3
+3, food, 0.57924, 4
+3, beer pong, 0.912935, 5
+3, place, 0.649991, 5
+3, drink promo ticket, 0.542793, 6
+3, Nice little spot, 0.528443, 6
+3, tacos, 0.541261, 7
+3, White Russian drink, 0.535054, 7
+3, free draft beer, 0.520664, 8
+3, better quality food, 0.520559, 8
+4, Beer pong tables, 0.763293, 0
+4, corn dog thingys, 0.611488, 0
+4, Food aint, 0.5175, 1
+4, cheap drinks, 0.765156, 2
+4, nice tame kick, 0.610156, 2
+4, Mahi Mahi tacos, 0.830154, 3
+4, Imperial Palace, 0.606224, 3
+4, beer pong, 0.992522, 4
+4, criss cut fries, 0.613289, 6
+4, chipotle chicken sliders, 0.612087, 6
+4, unlimited draft beers, 0.617132, 7
+4, pretty good deal, 0.612096, 7
+4, excellent waffle fries, 0.605778, 8
+4, ridiculous pool table, 0.583043, 8
+4, beer pong tourney, 0.657525, 9
+4, great fun, 0.515374, 9
+5, plastic plate, 0.672567, 0
+5, chipotle chicken sliders, 0.658783, 0
+5, Awesome pool tables, 0.694982, 2
+5, beer pong tables, 0.678493, 2
+5, couple drinks, 0.630694, 3
+5, ultra-dive bar, 0.619085, 3
+5, mechanical bull, 0.956729, 4
+5, beer pong, 0.812537, 4
+5, rockhouse, 0.69931, 5
+5, food, 0.622833, 5
+5, time, 0.699347, 6
+5, drinks, 0.687594, 6
+5, good time, 0.695257, 7
+5, hot dogs, 0.679175, 7
+5, virgin pina colada, 0.656063, 8
+5, great drinks, 0.640265, 8
+5, Chicken Avocado sliders, 0.690842, 9
+5, Totally fun atmosphere, 0.660919, 9

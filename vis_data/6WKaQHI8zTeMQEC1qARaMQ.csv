@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, worst club experience, 0.67991, 0
+1, little effen raspberry, 0.669387, 0
+1, dance floor, 0.928162, 1
+1, high school, 0.662847, 1
+1, Las Vegas, 0.658413, 2
+1, generally indignant attitude, 0.654596, 2
+1, club, 0.936009, 3
+1, slow elevator entrance, 0.683136, 3
+1, elevator, 0.731004, 4
+1, music, 0.665983, 4
+1, place, 0.752969, 5
+1, night, 0.666152, 5
+1, people, 0.740863, 6
+1, uses sky vodka, 0.676637, 6
+1, better stuff, 0.600132, 7
+1, cheaper vodka, 0.597422, 7
+1, nice rooftop view, 0.671113, 8
+1, free drink tickets, 0.652149, 8
+1, great place, 0.592045, 9
+2, upstairs vip area, 0.600898, 0
+2, seedy GHHHHHHETTO vegas, 0.599463, 0
+2, Vegas clubs, 0.659075, 1
+2, Las Vegas clubs, 0.624554, 1
+2, friday night, 0.706456, 2
+2, Sunday night, 0.691247, 2
+2, dance floor, 0.987409, 3
+2, playboy club, 0.97088, 3
+2, club, 0.985173, 4
+2, moon, 0.881641, 4
+2, palms, 0.70015, 5
+2, strip, 0.632218, 5
+2, Playboy Club/Moon, 0.656866, 6
+2, upstairs dance floor, 0.622673, 6
+2, view, 0.694792, 7
+2, nice view, 0.625496, 7
+2, excellent Vegas view, 0.612448, 8
+2, night Oh Moon, 0.648915, 9
+2, special DJ night, 0.605836, 9
+3, standard Vegas club, 0.342532, 0
+3, pretty good time., 0.329841, 0
+3, Vegas night air, 0.31296, 1
+3, ghost bar, 0.426485, 2
+3, vegas club, 0.407944, 2
+3, GREAT Vegas club, 0.359764, 3
+3, pretty generic club, 0.338677, 3
+3, playboy club, 0.888929, 4
+3, moon, 0.829224, 4
+3, club, 0.99586, 5
+3, dance floor, 0.966991, 5
+3, beautiful Playboy club, 0.381607, 6
+3, line, 0.37662, 6
+3, Pretty nice club, 0.360569, 7
+3, Pretty bumpin club, 0.331776, 7
+3, retractable roof, 0.491688, 8
+3, outdoor patio, 0.386156, 8
+3, pretty sweet table, 0.316436, 9
+4, open air club, 0.309008, 0
+4, drink prices, 0.329634, 2
+4, Ghost Bar, 0.319734, 2
+4, line, 0.422362, 4
+4, girls, 0.372131, 4
+4, club, 0.942328, 5
+4, playboy club, 0.908803, 5
+4, outdoor patio, 0.352473, 6
+4, Vegas club experience, 0.346616, 6
+4, retractable roof, 0.39211, 7
+4, pretty exclusive club, 0.348194, 7
+4, great time, 0.399535, 8
+4, fun, 0.389908, 8
+4, Late Slick club, 0.323642, 9
+5, bonifide Vegas club, 0.271611, 0
+5, night club spot, 0.235063, 0
+5, big club guy, 0.217705, 2
+5, main dance floor, 0.235182, 3
+5, Playboy bunnies level, 0.217893, 3
+5, playboy club, 0.7661, 4
+5, line, 0.308549, 4
+5, dance floor, 0.943767, 5
+5, club, 0.827446, 5
+5, moon, 0.852951, 6
+5, time, 0.343927, 6
+5, retractable roof, 0.379825, 7
+5, great time, 0.317281, 7
+5, fantasy tower, 0.251382, 8
+5, fresh air, 0.23629, 8
+5, great dance floor, 0.251979, 9
+5, story night club, 0.241629, 9

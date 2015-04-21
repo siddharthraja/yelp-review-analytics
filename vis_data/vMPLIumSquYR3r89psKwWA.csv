@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, rest, 0.318315, 0
+1, matter, 0.308024, 0
+1, pretend pyramid, 0.717717, 1
+1, mixology-savvy bar, 0.511595, 1
+1, warning, 0.323503, 2
+1, Humscalade wearing sunglasses, 0.956122, 6
+1, Downtown Cocktail Room, 0.879603, 6
+3, cake drink, 0.709046, 0
+3, birthday cake drink, 0.669033, 0
+3, Mister Douche, 0.428412, 1
+3, good tip, 0.426499, 1
+3, blah blah blah, 0.838598, 2
+3, damn drink, 0.715722, 2
+3, high horse, 0.465208, 3
+3, group, 0.25496, 3
+3, noir bar, 0.918942, 4
+3, ambient environment, 0.469142, 6
+3, music, 0.307105, 6
+3, super boujie establishments, 0.684255, 7
+3, yea yea, 0.526771, 7
+3, chill night, 0.471695, 8
+3, intimate date, 0.461387, 8
+3, best ingredients, 0.457578, 9
+3, mixologists, 0.251594, 9
+4, mixed drink, 0.684269, 0
+4, rate serive, 0.677294, 0
+4, hella weak drinks, 0.843865, 1
+4, steep drinks, 0.71748, 1
+4, Noir Bar, 0.918603, 2
+4, good crowd, 0.675933, 2
+4, banana bread martini, 0.800604, 3
+4, Las Vegas Magazine, 0.790028, 3
+4, LAX, 0.891725, 4
+4, Las Vegas, 0.805391, 5
+4, drink prices, 0.831208, 6
+4, hard-won Vegas winnings, 0.797699, 6
+4, Las Vegas venue, 0.791116, 7
+4, free access, 0.790719, 7
+4, relaxing drink, 0.67741, 8
+4, nice change, 0.671943, 8
+4, vodka soda, 0.682527, 9
+4, vodka cranberry, 0.680687, 9
+5, DJ Jaquie Jack, 0.775917, 0
+5, Downtown Cocktail Room, 0.749345, 0
+5, Noir Bar, 0.84203, 1
+5, club goers, 0.681199, 1
+5, Vegas experience, 0.669692, 2
+5, mad money, 0.667412, 2
+5, typical Vegas venue, 0.780813, 3
+5, LAX, 0.716718, 4
+5, Bar Noir, 0.924949, 5
+5, way, 0.582321, 5
+5, place, 0.704312, 6
+5, vanilla beans, 0.635153, 6
+5, truely amazing touch, 0.767117, 7
+5, wonderful feature, 0.651925, 7
+5, Fort Knox door, 0.783522, 8
+5, coveted mixologists, 0.667587, 8
+5, superior service, 0.651133, 9
+5, excellent selection, 0.638842, 9

@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, fertig gegessen, 0.91434, 0
+1, gegessen ich verhungere, 0.914153, 0
+1, Beschwerde Ignoriert, 0.629316, 1
+1, mal wieder enttäuscht, 0.677267, 2
+1, total enttäuscht, 0.977344, 3
+1, enttäuscht vom miesen, 0.954712, 3
+1, beschweren, 0.464625, 4
+1, irgendetwas, 0.464011, 4
+1, anzubieten kamen, 0.649125, 5
+1, vermutlich, 0.461349, 5
+1, entsprechend gutes Essen, 0.968856, 6
+1, Preisen entsprechend, 0.953815, 6
+2, fill-out forms, 0.696336, 0
+2, person, 0.526328, 0
+2, service, 0.466484, 1
+2, sour cream, 0.7379, 2
+2, Alsatian-style pizza, 0.721517, 2
+2, big group, 0.767019, 3
+2, good thing, 0.75193, 3
+2, cocktails, 0.952044, 6
+2, order cocktails, 0.808846, 6
+2, pizzas, 0.661662, 7
+2, place, 0.467133, 8
+2, stars, 0.467085, 8
+4, part of the, 0.954928, 0
+4, the inner yard, 0.861582, 0
+4, weiß echt, 0.558655, 4
+4, günstig, 0.372428, 4
+4, Besonderes aber dennoch, 0.598267, 5
+4, schnell und freundlich, 0.495669, 5
+4, Lokalität ist nett, 0.675508, 6
+4, größere Gruppen, 0.530416, 6
+5, and when the, 0.90401, 0
+5, for the classic, 0.900118, 0
+5, open minded and, 0.717158, 3
+5, günstig essen, 0.619655, 3
+5, is not the, 0.933369, 4
+5, for the service, 0.915881, 4
+5, the schnitzels are, 0.822694, 5
+5, netten Laborant, 0.551932, 5
+5, netter Biergarten mitten, 0.684241, 6
+5, innen Cocktails gemixt, 0.660755, 6
+5, Tagesgerichte für 5EUR, 0.528373, 7

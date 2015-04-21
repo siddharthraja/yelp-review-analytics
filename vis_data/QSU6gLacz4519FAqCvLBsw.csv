@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, institutionalized ambiance, 0.646506, 0
+1, sound check, 0.569824, 0
+1, local sports star, 0.822159, 1
+1, bar tenders, 0.604405, 1
+1, Hard Rock, 0.954114, 2
+1, allergen menu, 0.574787, 2
+1, limited customer service, 0.816743, 3
+1, American hamburgers, 0.644511, 3
+1, attitude, 0.508585, 4
+1, waitress, 0.836699, 6
+1, vegie burger, 0.652564, 6
+1, fresh spring greens, 0.828835, 7
+1, red wine, 0.619699, 7
+1, dining experience, 0.596934, 8
+2, Hard Rock menu, 0.524415, 0
+2, french toast, 0.491503, 0
+2, specialty drinks, 0.398104, 1
+2, average food tourist, 0.526523, 2
+2, Hard Rocks, 0.495461, 2
+2, hard rock, 0.944581, 3
+2, standard bar food, 0.4969, 3
+2, Hard Rock Cafe, 0.809843, 4
+2, buffet, 0.462867, 4
+2, friendly staff, 0.467408, 6
+2, brunch buffet, 0.451066, 6
+2, HRC favorites, 0.410505, 7
+2, great favor, 0.399326, 7
+2, pretty universal opinion, 0.467071, 8
+2, small dining room, 0.453319, 8
+3, simple mixed greens, 0.72413, 0
+3, house salad, 0.678917, 0
+3, regional area people, 0.738543, 2
+3, main beef, 0.672033, 2
+3, Hard Rock, 0.919352, 3
+3, main selling point, 0.734729, 3
+3, music memorabilia, 0.717856, 4
+3, Grilled chicken Cobb, 0.750562, 6
+3, Hard Rock Cafe, 0.727943, 6
+3, Station Square, 0.78662, 7
+3, Hard Rock restaurant, 0.755232, 7
+3, fun place, 0.731609, 8
+3, huge cheese burger, 0.710711, 8
+4, Hard Rock Pittsburgh, 0.432529, 0
+4, Tradional american food, 0.400489, 0
+4, hard rock experience, 0.417794, 2
+4, hard rocks, 0.358814, 2
+4, little bit, 0.397198, 3
+4, food, 0.505141, 4
+4, hard rock, 0.924328, 5
+4, hard rock cafe, 0.730657, 5
+4, Station Square, 0.557349, 6
+4, smallest hard Rock, 0.429411, 6
+4, Aruba Hard Rock, 0.415405, 7
+4, healthy food choices, 0.414759, 7
+4, rock music vids, 0.411197, 8
+4, great Pittsburgh skyline, 0.403522, 8
+4, good food Great, 0.450185, 9
+4, fantastic berry margarita, 0.385268, 9
+5, Hard Rock, 0.919827, 0
+5, Hard Rock Cafe, 0.773103, 0
+5, little noisy, 0.537798, 2
+5, Burger w/fries, 0.685093, 6
+5, Cheese Burger w/fries, 0.662223, 6
+5, Mandatory tip, 0.549697, 7
+5, excellent service, 0.521604, 7
+5, Kid Macaroni, 0.549545, 8
+5, chain restaurant, 0.527935, 8
+5, awesome drink menu, 0.64549, 9
+5, great outdoor seating, 0.632509, 9

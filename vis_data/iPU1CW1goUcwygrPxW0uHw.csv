@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, better salad, 0.672675, 0
+1, quick lunch, 0.666296, 0
+1, triple chocolate meltdown, 0.842476, 1
+1, artificial chocolate syrup, 0.832747, 1
+1, old nasty broom, 0.898749, 2
+1, server, 0.612183, 2
+1, table, 0.705874, 3
+1, little ones, 0.637413, 3
+1, Saturday night, 0.933239, 6
+1, apps, 0.367056, 6
+1, wilted lettuce, 0.671798, 7
+1, y'all drinking, 0.65647, 7
+1, Crapplebee, 0.374005, 8
+1, Ummmm, 0.365803, 8
+1, cleanliness, 0.377734, 9
+1, doubt, 0.365109, 9
+2, green bean chrispers, 0.904018, 0
+2, chicken tenders, 0.766398, 0
+2, server Julia, 0.559025, 1
+2, Bad service, 0.555872, 1
+2, food, 0.465749, 2
+2, yuck, 0.453897, 2
+2, greasy dip, 0.609053, 3
+2, little pinker, 0.587885, 3
+2, different location, 0.571911, 6
+2, wait, 0.453872, 6
+2, okay dining, 0.605979, 7
+2, Friday night, 0.597165, 7
+2, GM, 0.434357, 9
+5, MOVIE, 0.564089, 0
+5, STREET, 0.562852, 0
+5, better care, 0.92016, 3
+5, bar, 0.590188, 3
+5, Stevie, 0.72792, 7
+5, Karl, 0.689374, 7
+5, smile, 0.705529, 9
+5, Quick, 0.565644, 9

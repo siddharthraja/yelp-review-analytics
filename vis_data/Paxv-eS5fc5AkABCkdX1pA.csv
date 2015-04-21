@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, gyro meat, 0.671625, 0
+1, night pizza Gus, 0.602789, 0
+1, cheap ingredient pizza, 0.582764, 1
+1, waitress, 0.57401, 1
+1, beef gyro, 0.640633, 2
+1, bar then pizza, 0.517117, 2
+1, onion rings, 0.780503, 3
+1, place, 0.687278, 3
+1, pizza, 0.903398, 4
+1, gyro, 0.685659, 4
+1, chicken gyro, 0.543976, 6
+1, Gus pizza, 0.520848, 6
+1, -One Fire Burger, 0.568693, 7
+1, nfl  team play, 0.469714, 7
+2, reg beer drinker, 0.900143, 0
+2, half amaretto, 0.644141, 0
+2, bartender, 0.848261, 1
+2, bad bandwagon team, 0.847185, 1
+2, amaretto sour, 0.759949, 2
+2, simple bartender, 0.683474, 2
+2, Rum Collins, 0.873672, 3
+2, free drink, 0.618714, 3
+2, common well drink, 0.605658, 6
+2, visit, 0.529077, 6
+2, Bronx Bomber, 0.625195, 7
+2, better cocktail, 0.580185, 7
+3, outdoor bar seating, 0.621047, 0
+3, meat sauce, 0.446073, 0
+3, newly pizza, 0.652656, 2
+3, muggy summer heat, 0.651556, 2
+3, special taste, 0.406589, 3
+3, food, 0.239733, 3
+3, pizza, 0.901739, 4
+3, great pizza places, 0.768767, 6
+3, pizza dough, 0.625384, 6
+3, Beer selection, 0.433025, 7
+3, unique way, 0.413705, 7
+3, good. pizza, 0.699819, 8
+3, longer cuz center, 0.693234, 8
+4, inch pepperoni pizza, 0.735767, 0
+4, thick-crust pizza, 0.621933, 0
+4, Gold Spicy sauce, 0.514465, 1
+4, young children, 0.413177, 1
+4, slight crisp, 0.421484, 2
+4, bottled beer, 0.418038, 2
+4, family ate, 0.419149, 3
+4, bad thing, 0.417315, 3
+4, pizza, 0.920853, 5
+4, confirmation email, 0.418289, 6
+4, Gus, 0.359924, 6
+4, native New Yorker, 0.553842, 7
+4, wings, 0.451657, 7
+4, pizza connoisseur, 0.651771, 8
+4, Great Pizza, 0.609564, 8
+4, fun unique spot, 0.523883, 9
+4, affordable drinks, 0.422504, 9
+5, inch pizza, 0.635654, 0
+5, pizza slices, 0.616379, 0
+5, cold pizza, 0.60464, 3
+5, buffet line, 0.322135, 3
+5, pizza, 0.987693, 6
+5, man party, 0.333982, 6
+5, New York Pizza, 0.808223, 7
+5, best pizza, 0.737821, 8
+5, great place, 0.639386, 8
+5, Pizza pie dough, 0.871963, 9
+5, great neighborhood/ community, 0.559851, 9

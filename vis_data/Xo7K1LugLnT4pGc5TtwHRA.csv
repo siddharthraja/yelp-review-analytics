@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, SCAM SCAM SCAM, 0.783784, 0
+1, bad stomach ache, 0.766974, 0
+1, weight  loss surgery, 0.948149, 1
+1, DONT GO DONT, 0.93227, 1
+1, child size portions, 0.792764, 2
+1, DONT WASTE, 0.782352, 2
+1, mozz sticks, 0.84171, 3
+1, manager, 0.799004, 3
+1, location, 0.812326, 4
+1, food, 0.857377, 5
+1, boneless wings, 0.96809, 6
+1, 30 min wait, 0.894351, 6
+1, time favorite places, 0.80524, 7
+1, spinach artichoke dip, 0.775955, 7
+1, figured hey, 0.702251, 8
+2, sweet potato fries.., 0.609684, 0
+2, american cheese. meh., 0.604304, 0
+2, Bad service, 0.506647, 1
+2, cheesy chicken skillet, 0.589072, 2
+2, good service, 0.542337, 2
+2, Iced Tea order, 0.585268, 3
+2, Las Vegas area, 0.579509, 3
+2, food, 0.921917, 4
+2, service, 0.735494, 5
+2, time, 0.591194, 5
+2, Sizzling Chicken, 0.605793, 6
+2, location, 0.532597, 6
+2, Jack Daniels Burger, 0.761634, 7
+2, crab cake appetizer, 0.610743, 7
+2, sweet potato, 0.662243, 8
+2, baked potato, 0.654305, 8
+2, email offering money, 0.566263, 9
+2, free food, 0.52046, 9
+3, typical TGI Fridays, 0.818278, 0
+3, Ultimate Margarita Platinum, 0.770775, 0
+3, bar section, 0.626228, 1
+3, Soccer Mom, 0.623798, 1
+3, brains reasoning, 0.633248, 2
+3, JD chicken, 0.621105, 2
+3, extra drink specials, 0.737716, 3
+3, Pyramid- Ice Cold, 0.725768, 3
+3, bar area, 0.731157, 4
+3, TGI Fridays, 0.998354, 6
+3, newer TGI Fridays, 0.818467, 6
+3, pretty good selection, 0.790512, 7
+3, pretty cool bar, 0.778789, 7
+3, generally clean establishment, 0.712903, 8
+3, good sport, 0.671435, 8
+3, customer service, 0.64893, 9
+4, Green Bean Fries, 0.747865, 0
+4, Daniels Chicken OMG, 0.747058, 0
+4, peanut butter chocolate, 0.703703, 3
+4, sauce, 0.816538, 5
+4, restaurant, 0.748275, 5
+4, food, 0.857373, 6
+4, korean tacos, 0.728228, 6
+4, jack daniels, 0.907301, 7
+4, free food, 0.744159, 7
+4, sweet potato fries, 0.864725, 8
+4, jack daniels chicken, 0.825378, 8
+4, great job, 0.732446, 9
+4, great service Larissa, 0.729807, 9
+5, head downtown, 0.761319, 0
+5, customer service, 0.74666, 0
+5, late review, 0.706217, 2
+5, bartender, 0.626713, 2
+5, new management, 0.733975, 3
+5, water flow, 0.722564, 3
+5, stars, 0.543667, 6
+5, jack Daniel burger, 0.951357, 7
+5, service, 0.78302, 7
+5, taste buds, 0.753387, 8
+5, great smile, 0.710732, 8
+5, personal favorite location, 0.970576, 9
+5, manager Chris, 0.739017, 9

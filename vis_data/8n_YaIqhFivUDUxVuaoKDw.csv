@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, Green Lantern, 0.596038, 0
+1, martini glasses, 0.56133, 0
+1, small snacks, 0.553626, 1
+1, DIP-ABLE food, 0.551886, 1
+1, normal restaurant ramekins, 0.762562, 2
+1, Robert Irvine, 0.591242, 2
+1, place, 0.742538, 3
+1, lamb cops, 0.57154, 3
+1, burger, 0.422426, 4
+1, dipping bar, 0.900715, 5
+1, dish, 0.423647, 6
+1, carrots, 0.361246, 6
+1, goat cheese fondue, 0.828582, 7
+1, different dips, 0.661936, 7
+2, Living Social Deal, 0.717124, 0
+2, pineapple skinny cosmo, 0.708835, 0
+2, hungry NY vegetarian, 0.712745, 1
+2, radio broadcast, 0.63622, 1
+2, Friday night, 0.736096, 2
+2, good creme brulee, 0.732281, 2
+2, creme brulee, 0.903395, 3
+2, new game plan, 0.714374, 3
+2, burger, 0.68872, 4
+2, creme brulee soup, 0.710513, 6
+2, different skewers, 0.632474, 6
+2, Portobello Burger, 0.660264, 7
+2, Pesterella Burger, 0.649919, 7
+2, sweet potato fries, 0.946957, 8
+2, Accurate Vegetarian Dipping, 0.749538, 8
+2, creamy goodness, 0.615996, 9
+2, crisp shell, 0.609064, 9
+3, turkey burger, 0.761396, 0
+3, various dipping sticks, 0.752722, 0
+3, high bar table, 0.752459, 1
+3, flavorless sour cream, 0.735595, 1
+3, little grainy, 0.627292, 2
+3, Lava Burger, 0.755895, 3
+3, french fries, 0.72494, 3
+3, fries, 0.857444, 5
+3, toasted pretzel bun, 0.810227, 6
+3, burgers, 0.683393, 6
+3, burger, 0.937273, 7
+3, fresh cut fries, 0.846373, 7
+3, pretzel bun, 0.81914, 8
+3, sweet potato fries, 0.805845, 8
+3, appetizer size skewers, 0.806988, 9
+3, sweet pot fries, 0.806723, 9
+4, Ghost Pepper Burger, 0.911912, 0
+4, sweet potato fires, 0.890695, 0
+4, things, 0.665135, 1
+4, Big Fat Greek, 0.957507, 2
+4, pushy kinda way, 0.913655, 2
+4, long time, 0.773383, 3
+4, Expensive fancy, 0.757748, 3
+4, new place, 0.783861, 6
+4, different appetizers, 0.772567, 6
+4, Ahi tuna appetizer, 0.946218, 7
+4, Living Social deal, 0.925566, 7
+4, curry appetizer dish, 0.985633, 8
+4, Old Town restaurants, 0.951268, 8
+4, cool little place, 0.950967, 9
+4, skinny martinis, 0.844593, 9
+5, Big Fat Greek, 0.879044, 0
+5, ahi tuna app, 0.763899, 0
+5, multiple tv, 0.530863, 1
+5, sashimi grade tuna, 0.724676, 3
+5, tuna melt., 0.594983, 3
+5, red velvet cheesecake, 0.850243, 6
+5, strawberry creme brulee, 0.902249, 7
+5, velvet cheese cake, 0.69038, 7
+5, lobster cake, 0.836643, 8
+5, ahi tuna, 0.836433, 8
+5, lovely beurre blanc, 0.629255, 9
+5, healthy food, 0.550779, 9

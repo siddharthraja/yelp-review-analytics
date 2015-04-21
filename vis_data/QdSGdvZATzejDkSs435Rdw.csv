@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, horrible service, 0.913383, 0
+1, taco special, 0.698298, 0
+1, style memory, 0.563308, 1
+1, lousy service, 0.543586, 1
+1, taco, 0.94642, 2
+1, bar, 0.640833, 2
+1, eagles crest, 0.843803, 3
+1, food, 0.627516, 3
+1, drinks, 0.603939, 4
+1, door, 0.330576, 4
+1, customer appreciation, 0.50987, 6
+1, pool table, 0.489814, 6
+1, price, 0.267981, 7
+1, Thanks, 0.278675, 8
+5, high-end french restaurant, 0.891155, 0
+5, plus long stripes, 0.824627, 0
+5, high end restaurants, 0.834071, 1
+5, bar people, 0.631575, 1
+5, dive bar, 0.879982, 2
+5, kettle chips, 0.878917, 2
+5, massive bar burger, 0.963733, 3
+5, proper waitress service, 0.810875, 3
+5, burger, 0.974666, 5
+5, burgers, 0.845245, 5
+5, new favorite bar, 0.812654, 6
+5, bacon burger, 0.790779, 6
+5, largest taco, 0.671928, 7
+5, taco salad, 0.660234, 7
+5, bun choice, 0.66644, 8
+5, yum, 0.554945, 8
+5, best burger, 0.811813, 9
+5, particular bar, 0.633203, 9

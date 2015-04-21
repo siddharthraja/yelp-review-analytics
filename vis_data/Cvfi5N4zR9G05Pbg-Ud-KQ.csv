@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, slow service, 0.921181, 0
+1, cool urban bar, 0.770595, 0
+1, street tacos, 0.803064, 1
+1, weird guava sauce, 0.746084, 1
+1, food, 0.805726, 2
+1, actual dining experience, 0.75662, 2
+1, time, 0.711254, 3
+1, Waiter staff, 0.660261, 3
+1, place, 0.916176, 4
+1, manager, 0.752607, 4
+1, drink, 0.692584, 5
+1, great atmosphere, 0.635468, 6
+1, local wish, 0.634729, 7
+1, great place, 0.803355, 8
+1, great ventilation, 0.671986, 8
+2, western BBQ slider, 0.967033, 0
+2, dry hockey puck, 0.944455, 0
+2, local bar, 0.95933, 1
+2, male bartenders, 0.958838, 1
+2, male bartender, 0.835539, 2
+2, Credit Card, 0.828706, 2
+2, wrong food items, 0.959603, 3
+2, wrong staff, 0.949956, 3
+2, Summerlin neighborhood Bar, 0.966088, 6
+2, building change hands, 0.952057, 6
+2, better places, 0.976406, 7
+2, large TV screens, 0.938901, 7
+2, cutest outdoor decor, 0.969557, 8
+2, Nice TV, 0.832603, 9
+3, american food menu, 0.732771, 0
+3, game room area, 0.728253, 0
+3, Las Vegas food, 0.805777, 2
+3, Vegas food scene, 0.805772, 2
+3, bloody mary, 0.778369, 3
+3, nice hostess, 0.712757, 3
+3, place, 0.933904, 5
+3, food, 0.896877, 5
+3, steak tacos, 0.779011, 6
+3, good bloody mary, 0.74399, 6
+3, good food, 0.758944, 7
+3, great place, 0.735076, 7
+3, pretty good burger, 0.757479, 8
+3, good vibe, 0.70603, 8
+3, outdoor patio, 0.812969, 9
+3, outdoor patio area, 0.80241, 9
+4, Great neighborhood bar, 0.804841, 0
+4, distill bar, 0.774466, 0
+4, fairly busy bar, 0.751101, 1
+4, Basic bar food, 0.759509, 2
+4, medium rare girl, 0.720962, 2
+4, good time, 0.753486, 3
+4, potato bites, 0.719906, 3
+4, service, 0.811549, 4
+4, bar, 0.976604, 5
+4, place, 0.908382, 5
+4, Philly cheese steak, 0.858279, 6
+4, food, 0.763426, 6
+4, Great local bar, 0.786818, 7
+4, nice large bar, 0.766787, 7
+4, great local hangout, 0.747973, 8
+4, great place, 0.746176, 8
+4, Great patio seating, 0.756683, 9
+4, people Cool place, 0.754412, 9
+5, large group meetings, 0.796911, 0
+5, large bar, 0.793773, 0
+5, local bar scene, 0.81845, 2
+5, cheap iceberg salad, 0.791492, 2
+5, local bar, 0.873334, 3
+5, fully stocked bar, 0.834078, 3
+5, place, 0.986408, 5
+5, bloody mary bar, 0.8807, 5
+5, food, 0.912627, 6
+5, bar, 0.904158, 6
+5, awesome Patio area, 0.849221, 7
+5, Red Rock, 0.837291, 7
+5, great place, 0.88399, 8
+5, great care, 0.88347, 8
+5, great atmosphere, 0.850239, 9
+5, delicious food, 0.835194, 9

@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+2, frozen breaded meat, 0.839653, 1
+2, bun, 0.303607, 1
+2, food, 0.264334, 2
+2, restaurant, 0.272588, 3
+2, time, 0.272422, 3
+2, fried steak sandwich, 0.918551, 6
+2, french fries, 0.557885, 6
+2, style American cuisine, 0.835101, 7
+2, Mexican entrees, 0.548656, 7
+2, humble decor, 0.609471, 9
+2, vintage establishment, 0.560786, 9
+4, Fun, 0.365177, 3
+4, Nice dive bar, 0.952392, 6
+4, drinks, 0.392984, 6
+4, bartender, 0.423303, 7
+4, nice location, 0.765174, 8
+4, friendly staff, 0.606063, 8
+4, hip hopish DJ, 0.951298, 9
+4, wonderful view, 0.659562, 9
+5, peak, 0.80617, 0
+5, Great food, 0.942189, 9
+5, great prices, 0.927369, 9

@@ -1,0 +1,28 @@
+rating, keyword, relevance, bucket
+3, interesting non-alcoholic options, 0.755217, 0
+3, coconut-water icecube, 0.625186, 0
+3, Saturday night, 0.78607, 1
+3, Morrison Street, 0.63561, 2
+3, brick work, 0.617465, 2
+3, old-man type bar, 0.829876, 3
+3, fresh-paint smell, 0.635793, 3
+3, meet quirky accents, 0.74908, 6
+3, purple upholstered booths, 0.745351, 6
+3, good cocktail menu, 0.803663, 7
+3, Schweppes ginger beer, 0.765546, 7
+3, cocktail menu, 0.937077, 8
+3, ha ha bar, 0.782713, 8
+3, tasty options, 0.60036, 9
+3, return visit, 0.584759, 9
+4, new venue, 0.799581, 0
+4, sea bass, 0.658678, 0
+4, chips, 0.302853, 2
+4, salt, 0.289582, 2
+4, minor gripe, 0.780106, 3
+4, beef burger, 0.726459, 6
+4, Yelp, 0.401038, 6
+4, extensive cocktail list, 0.951424, 7
+4, flavour, 0.351553, 8
+4, meal, 0.318012, 8
+4, fully stocked bar, 0.968008, 9
+4, nice wine selection, 0.953552, 9

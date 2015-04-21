@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, Aria Drink/Bar manager, 0.775968, 0
+1, different bartender, 0.72399, 0
+1, sneering waitstaff, 0.540406, 1
+1, patrons hands, 0.52359, 1
+1, RUDE bartenders, 0.571585, 2
+1, night cap, 0.547771, 2
+1, bartender, 0.97305, 3
+1, nite cap., 0.586456, 3
+1, mellow vibe, 0.556848, 6
+1, amazing concoctions, 0.552621, 6
+1, specialty drinks, 0.817661, 7
+1, courteous smoking, 0.555627, 7
+1, favorite hotel, 0.537928, 8
+1, fantastic voice, 0.544569, 9
+1, guitar, 0.345521, 9
+2, beautiful waitress hands, 0.954499, 0
+2, pineapple sidecars, 0.710959, 0
+2, eye contact, 0.712168, 1
+2, short night, 0.686104, 1
+2, strained peas, 0.703772, 2
+2, City Bar, 0.685236, 2
+2, nice bars, 0.681294, 3
+2, -3 stars, 0.673061, 3
+2, Card Keno, 0.686274, 4
+2, time, 0.664228, 4
+2, TV, 0.515324, 5
+2, Moderno, 0.511791, 5
+2, bar, 0.991331, 6
+2, drink, 0.535834, 6
+2, point, 0.456011, 7
+2, Luckily theres ESPN, 0.988296, 8
+2, friendly cocktail server, 0.901351, 8
+3, Cuore di Aria, 0.702711, 0
+3, Vegas high end, 0.673605, 0
+3, Bad sign, 0.533776, 1
+3, snooty service, 0.525962, 1
+3, drink orders, 0.647827, 2
+3, lackluster drinks, 0.57476, 2
+3, drinks, 0.67636, 3
+3, Mandarin Oriental, 0.671215, 3
+3, Bar Moderno, 0.903343, 5
+3, Aria, 0.723043, 5
+3, nice little bar, 0.671709, 6
+3, crunchy carby goodies, 0.62042, 6
+3, casino floor, 0.762524, 7
+3, good sized tray, 0.612092, 7
+3, visually pleasing Aria, 0.703416, 8
+3, upscale casino bar/piano, 0.654377, 8
+3, red wine, 0.536308, 9
+3, particular evening, 0.530307, 9
+4, nearby Chandelier bar, 0.751462, 0
+4, Natural Born Killers, 0.725439, 0
+4, drink menu, 0.626322, 2
+4, little more time, 0.624346, 2
+4, dark furniture, 0.618661, 3
+4, cigarette smell, 0.618518, 3
+4, Bar Moderno, 0.931976, 4
+4, drinks, 0.664673, 5
+4, reasonably priced wines, 0.727971, 6
+4, large grand piano, 0.712737, 6
+4, solid night, 0.741328, 7
+4, great random conversation, 0.72268, 7
+4, yummy Great bar, 0.74535, 8
+4, great time drinking, 0.731857, 8
+4, properly prepared cocktail, 0.690512, 9
+4, piano player, 0.617467, 9
+5, Good times, 0.681415, 0
+5, live music, 0.65111, 0
+5, Bloody Mary mix, 0.898414, 3
+5, service, 0.497411, 4
+5, Bloody Mary, 0.93075, 5
+5, people, 0.588379, 5
+5, bloody marry, 0.709276, 6
+5, inner sociologist, 0.686149, 6
+5, gentleman playing music, 0.90468, 7
+5, best Bloody Mary, 0.90087, 7
+5, Patrick Sieben duo, 0.988794, 8
+5, lively modern hits, 0.973601, 8
+5, complimentary snack mix, 0.917277, 9
+5, peas, 0.458726, 9

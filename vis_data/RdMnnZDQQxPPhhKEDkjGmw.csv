@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+2, cute little wine, 0.842556, 0
+2, bad taste, 0.622892, 0
+2, poor customer service, 0.774823, 1
+2, bad experience, 0.649648, 1
+2, happy hour prices, 0.996192, 3
+2, backwards, 0.462747, 3
+2, pm, 0.610518, 6
+2, new owner, 0.602881, 6
+2, owner, 0.714904, 7
+2, previous owner, 0.629929, 8
+2, place, 0.520036, 8
+3, north west valley, 0.940775, 0
+3, opposite direction, 0.583747, 0
+3, neck massage, 0.536187, 1
+3, bartender, 0.287961, 1
+3, brightly lit deli, 0.900689, 2
+3, hard wooden chair, 0.854251, 2
+3, landlord, 0.283477, 3
+3, Property, 0.263362, 3
+3, date-night destination, 0.566484, 4
+3, comfy place, 0.596992, 6
+3, things, 0.341911, 6
+3, big comfy chairs, 0.955524, 7
+3, ambiance, 0.29746, 7
+3, eats, 0.287122, 8
+3, husband, 0.281928, 8
+3, Great neighborhood place, 0.812333, 9
+3, cheese plates, 0.544633, 9
+4, Trillogy folk, 0.67232, 0
+4, hard-to-find stuff, 0.648461, 0
+4, average person, 0.626251, 2
+4, department, 0.485911, 2
+4, busiest place, 0.686554, 3
+4, wine lockers, 0.645012, 3
+4, selection, 0.898775, 5
+4, house, 0.475757, 6
+4, Rhones, 0.464591, 6
+4, decent wine selection, 0.878247, 7
+4, nice little place, 0.814483, 7
+4, awesome Oskar Blues, 0.941483, 8
+4, craft beer fan, 0.807753, 8
+5, noon, 0.321426, 0
+5, pan inis, 0.516003, 6
+5, cheese selection, 0.472271, 6
+5, micro brews, 0.491839, 7
+5, live entertainment, 0.472077, 7
+5, lovely cheese plates, 0.939177, 8
+5, classy little place, 0.829428, 8
+5, big delicious sandwiches, 0.948272, 9
+5, Tasting Room, 0.467079, 9

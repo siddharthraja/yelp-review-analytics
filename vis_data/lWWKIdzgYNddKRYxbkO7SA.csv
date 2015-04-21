@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, sarcastic answer, 0.69215, 0
+1, old beans, 0.651277, 0
+1, merely asking questions, 0.935257, 1
+1, rude girl, 0.711332, 1
+1, Death Valley, 0.735318, 2
+1, worst experience, 0.681211, 2
+1, sour espressos, 0.799033, 3
+1, brown crayon, 0.662171, 3
+1, cafe, 0.713185, 4
+1, barista, 0.63785, 4
+1, old coffee, 0.948379, 5
+1, Update **, 0.657041, 6
+1, bat, 0.378272, 6
+1, sourest espressos, 0.819227, 7
+1, customer service, 0.628126, 7
+1, great things, 0.650371, 8
+1, whiskey, 0.375683, 8
+3, Independent coffee shop, 0.872339, 0
+3, drink jump, 0.555861, 0
+3, vanilla latte, 0.668961, 2
+3, heart attack, 0.554865, 2
+3, flavour shot, 0.972722, 3
+3, shot next time, 0.549632, 3
+3, sickingly hipster, 0.604572, 4
+3, syrups, 0.408964, 4
+3, surprisingly high number, 0.97359, 6
+3, legit coffee shops, 0.881298, 6
+3, best lattes, 0.696013, 7
+3, hipsters, 0.330506, 7
+4, loose leaf tea, 0.909052, 0
+4, Detour Coffee Roaster, 0.869609, 0
+4, new cafes, 0.723262, 2
+4, old brick walls, 0.820327, 3
+4, Single Malt Whiskeys, 0.816026, 3
+4, place, 0.777726, 5
+4, cold beverage selection, 0.801414, 6
+4, Single-malt whisky, 0.751481, 6
+4, Good cup, 0.735556, 7
+4, loyal customers, 0.725152, 7
+4, modern British cafe, 0.839191, 8
+4, new loyal customer, 0.836071, 8
+4, basic spiced tea, 0.906905, 9
+4, good coffee, 0.838339, 9
+5, light roast coffee, 0.619855, 0
+5, delicious little treats, 0.598392, 0
+5, sweet place, 0.517432, 1
+5, Death Valley, 0.801855, 3
+5, Little Brother, 0.682947, 3
+5, coffee shop, 0.777576, 5
+5, place, 0.704338, 5
+5, coffee, 0.947531, 6
+5, little coffee shop, 0.63634, 6
+5, excellent coffee shops, 0.627431, 7
+5, cold press coffee, 0.620496, 7
+5, great coffee, 0.697097, 8
+5, quality coffee, 0.623575, 8
+5, Great coffee taste, 0.648295, 9
+5, nice cozy atmosphere, 0.565962, 9

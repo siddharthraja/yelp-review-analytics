@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, local hang, 0.816567, 0
+1, food, 0.381545, 0
+1, bar, 0.975518, 1
+1, games, 0.346365, 1
+1, patrons, 0.397621, 2
+1, bartender, 0.389247, 2
+1, old trailer, 0.888771, 3
+1, husband, 0.396664, 3
+1, place, 0.769931, 4
+2, packed house, 0.664421, 0
+2, Sadly half, 0.638799, 0
+2, strip mall bar/restaurant, 0.829241, 1
+2, heavy evening traffic, 0.796324, 1
+2, Packer bar, 0.948156, 2
+2, bar area, 0.589242, 2
+2, separate restaurant  area, 0.860992, 3
+2, Pack play, 0.578847, 3
+2, waitress, 0.458438, 4
+2, husband, 0.533039, 5
+2, Green Bay Packer, 0.978638, 6
+2, Wisconsin, 0.35873, 6
+2, yum, 0.374088, 7
+2, salads, 0.364015, 7
+3, food deletables buffett, 0.638188, 0
+3, video poker, 0.529223, 0
+3, poor Cleveland fan, 0.637245, 1
+3, plain cheeseburger b/c, 0.901148, 2
+3, update b/c, 0.816105, 2
+3, chicks, 0.426157, 3
+3, drinks, 0.423995, 3
+3, sports, 0.422874, 4
+3, restaurant, 0.451099, 5
+3, blue cheese burger, 0.666113, 6
+3, lil yellow card, 0.661776, 6
+3, incentive b/c, 0.789269, 7
+3, free beverage, 0.545686, 7
+3, right side., 0.554277, 8
+3, bartender Chris, 0.54057, 8
+4, unprofessional Love, 0.657539, 0
+4, huge mistake, 0.635597, 0
+4, football fan, 0.625299, 1
+4, packer bar, 0.616393, 1
+4, poker machines, 0.62722, 2
+4, high road, 0.610137, 2
+4, dive bar, 0.630174, 3
+4, time, 0.367936, 3
+4, bartender, 0.588661, 4
+4, typical bar neccesities, 0.895054, 6
+4, local bar thumbs, 0.891285, 6
+4, good burger, 0.698054, 7
+4, fries, 0.493008, 7
+4, burgers, 0.92097, 8
+4, draft beer, 0.630675, 8
+4, better atmosphere, 0.623778, 9
+4, Better food, 0.604335, 9
+5, Chris, 0.47649, 0
+5, Victoria, 0.47625, 0
+5, rum runner, 0.909308, 2
+5, foosball table, 0.86871, 2
+5, little slots, 0.899838, 3
+5, bartenders, 0.571077, 6
+5, Ric, 0.560015, 6
+5, friends, 0.479066, 7
+5, Totally chill, 0.984433, 8
+5, place, 0.493413, 8
+5, good food, 0.773367, 9

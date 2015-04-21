@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+1, credit card, 0.808118, 0
+1, cash, 0.207935, 0
+1, limited american songs., 0.999177, 1
+1, rolling stones., 0.619821, 1
+1, valuables, 0.249969, 4
+1, great dane, 0.595297, 8
+1, fingers, 0.421125, 8
+4, bottled vodka-based drinks, 0.939114, 0
+4, Bar La Bouche, 0.934172, 0
+4, go-to karaoke spot, 0.876293, 2
+4, bottles, 0.35095, 2
+4, karaoke bar thanks, 0.969883, 3
+4, Yelp app, 0.713986, 3
+4, newer stuff, 0.598206, 6
+4, service, 0.392527, 6
+4, purple velvet cushions, 0.870514, 7
+4, mini dance floor, 0.8396, 7
+4, great place, 0.558827, 8
+4, lobby, 0.367254, 8

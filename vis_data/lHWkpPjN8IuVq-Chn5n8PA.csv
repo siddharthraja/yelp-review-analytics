@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, instant hummus, 0.871386, 0
+1, Millerl Lites, 0.833332, 0
+1, unlimited flavors, 0.934784, 1
+1, full-on ignorant moron, 0.93113, 1
+1, generic wal-mart brand, 0.94652, 2
+1, Shan't return., 0.94028, 2
+1, Philly cheese-steak shop, 0.941691, 3
+1, lime slice, 0.845834, 3
+1, hookah, 0.817076, 4
+1, food, 0.773665, 5
+1, pretty long list, 0.915562, 6
+1, county health department, 0.913933, 6
+1, health department, 0.933679, 7
+1, official definition, 0.824157, 7
+1, Great hummus, 0.858477, 8
+1, bartender guides, 0.836412, 8
+1, good way, 0.851474, 9
+2, cheap ass prices, 0.947998, 0
+2, Big Fat Greek, 0.914208, 0
+2, yer stop cuzz, 0.966741, 1
+2, drunk frat guys, 0.936905, 1
+2, little hockey pucks, 0.968358, 2
+2, long ride home, 0.927929, 2
+2, gyro, 0.980149, 3
+2, good time, 0.949974, 3
+2, feta, 0.936168, 4
+2, place, 0.920367, 5
+2, pineapple juice, 0.94727, 6
+2, powered-looking feta, 0.908107, 6
+2, white sangri, 0.823835, 7
+2, Good place, 0.845441, 8
+2, sirens song, 0.829327, 8
+2, good average, 0.843771, 9
+2, befitting summary, 0.839416, 9
+3, flat screen televisions, 0.810087, 0
+3, dance floor/lounge area, 0.79469, 0
+3, Mediterranean chicken sandwich, 0.837501, 1
+3, lavish bread, 0.713796, 1
+3, cramped tables, 0.716329, 2
+3, chicken sandwich, 0.947559, 3
+3, hash browns, 0.778623, 3
+3, fried pita, 0.854585, 4
+3, Crave, 0.931713, 5
+3, food, 0.904811, 5
+3, hummus plate w/, 0.907519, 6
+3, roasted chicken sandwich, 0.837987, 6
+3, better hummus, 0.806212, 7
+3, somewhat loud music, 0.791066, 7
+3, Crave Cafe, 0.909609, 8
+3, pretty good mix, 0.825933, 8
+3, ASU-Mill Avenue area, 0.790597, 9
+3, healthy portion, 0.713838, 9
+4, good food specials, 0.792732, 0
+4, bar type food, 0.778816, 0
+4, baba ghanoush, 0.743145, 1
+4, little unassuming hookah/gangsta, 0.736972, 1
+4, cheap drinks, 0.850283, 2
+4, score cheap food, 0.823484, 2
+4, good food, 0.794129, 3
+4, great spot, 0.735567, 3
+4, place, 0.860948, 4
+4, Crave, 0.82678, 4
+4, food, 0.983633, 5
+4, tasty looking menu, 0.773089, 6
+4, chicken Shawarma plate, 0.725395, 6
+4, entire menu, 0.750225, 7
+4, Sunday date guy, 0.744569, 7
+4, gyro meat, 0.818792, 8
+4, amazingly good price, 0.784282, 8
+4, great food specials-it, 0.778601, 9
+4, Mediterranean food junkie, 0.765352, 9
+5, food items, 0.753227, 0
+5, waitress, 0.454742, 0
+5, girl friends, 0.834578, 3
+5, weekend, 0.403721, 3
+5, roasted chicken panini, 0.986752, 6
+5, greek fries, 0.794861, 6
+5, Good times, 0.873419, 7
+5, best burger, 0.846455, 7
+5, awesome drinks, 0.82149, 8
+5, quick drink, 0.812213, 8
+5, entire stay, 0.774065, 9
+5, great care, 0.725529, 9

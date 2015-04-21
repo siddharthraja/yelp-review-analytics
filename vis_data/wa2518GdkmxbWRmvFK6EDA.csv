@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, obvious sarcasm, 0.900055, 0
+1, bucks, 0.502185, 0
+1, Monday night, 0.864405, 1
+1, Latin jazz, 0.857683, 1
+1, min, 0.667499, 2
+1, menu, 0.606775, 2
+1, Waitress, 0.5393, 3
+1, cover, 0.499621, 3
+1, cab ride, 0.794813, 6
+1, set, 0.4928, 6
+2, endless sound check, 0.907815, 0
+2, Maison du Jazz, 0.735856, 0
+2, terrace, 0.567953, 1
+2, weather, 0.529719, 1
+2, unusual request, 0.644259, 2
+2, not-all-that-large meal, 0.640993, 2
+2, place, 0.57885, 3
+2, musicians, 0.555215, 3
+2, David, 0.661772, 4
+2, patrons, 0.566281, 4
+2, live jazz, 0.649345, 6
+2, carmelized pears, 0.648989, 6
+2, veggie medley, 0.653963, 7
+2, salmon dish, 0.646394, 7
+3, standard martini, 0.73476, 0
+3, glass half, 0.613294, 0
+3, food, 0.368509, 2
+3, olives, 0.855661, 6
+3, proper martini, 0.751202, 6
+3, jazz club atmosphere, 0.967191, 7
+3, green olives, 0.794889, 7
+3, good place, 0.577214, 8
+3, wine, 0.357616, 8
+3, proper drink, 0.655596, 9
+4, cover charge, 0.775136, 0
+4, late dinner, 0.756289, 0
+4, Diese Onze, 0.932045, 2
+4, traditional House, 0.818741, 2
+4, bartenders attention, 0.826405, 3
+4, nearby restaurant, 0.737205, 3
+4, audience, 0.321739, 6
+4, band, 0.302876, 6
+4, cozy basement, 0.873232, 8
+4, close performance, 0.78224, 8
+5, intimate jazz bar, 0.946079, 0
+5, sizeable Jazz Festival, 0.939562, 0
+5, rude group, 0.818251, 1
+5, jazz bar, 0.980647, 2
+5, actually lack jazz, 0.933591, 2
+5, big group, 0.823862, 3
+5, hot first date, 0.813435, 3
+5, WORLD Poetry-Slam-Spoken Word, 0.883932, 6
+5, la salsa cubaine, 0.877231, 6
+5, old montreal, 0.950931, 7
+5, Fantastic jazz quartet, 0.92993, 7
+5, mellow jazz experience, 0.94771, 8
+5, nightcap post dinner, 0.903157, 8
+5, good place, 0.84308, 9
+5, pretty girl, 0.830781, 9

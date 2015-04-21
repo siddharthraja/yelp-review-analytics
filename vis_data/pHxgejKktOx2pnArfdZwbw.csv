@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+4, funny thing, 0.651339, 0
+4, light switch, 0.642778, 0
+4, bar tender, 0.621383, 1
+4, bathroom, 0.400221, 1
+4, bar counter, 0.609379, 2
+4, Wonder Bar, 0.575409, 3
+4, room, 0.363345, 3
+4, Bar Next Door, 0.936518, 6
+4, place, 0.514887, 6
+4, kinda funny, 0.683885, 7
+4, friendly bar, 0.600991, 7
+4, Hello world, 0.712968, 8
+4, great option, 0.592349, 8
+4, Thursday night, 0.684937, 9
+4, relaxing evening, 0.673381, 9
+5, neon sign, 0.783829, 0
+5, time constraints, 0.810746, 2
+5, Disclaimer, 0.562719, 2
+5, Wonder Bar, 0.785649, 3
+5, Luedtke, 0.580131, 3
+5, prior remarks, 0.867986, 7
+5, pleasant experience, 0.806026, 7
+5, Great professional martinis, 0.980702, 9
+5, vermouth, 0.576991, 9

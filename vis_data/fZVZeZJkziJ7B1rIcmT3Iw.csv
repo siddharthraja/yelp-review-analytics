@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, credit card information, 0.543498, 0
+1, Worst customer service, 0.526884, 0
+1, customer service, 0.552645, 1
+1, regular PTs player, 0.536507, 1
+1, Sierra Golds, 0.552006, 2
+1, Jones plain sucks, 0.520674, 2
+1, VIP lounge, 0.789113, 3
+1, service, 0.607746, 3
+1, arm pit, 0.441375, 4
+1, dining area, 0.554446, 6
+1, server, 0.455389, 6
+1, sierra gold, 0.917964, 7
+1, better service, 0.508513, 7
+1, 15 min, 0.444615, 8
+1, quick eats, 0.437778, 8
+2, poor customer service, 0.793794, 0
+2, fresh chopped basil, 0.760305, 0
+2, unintentional nano nap, 0.806346, 1
+2, crispy fried mozzerella, 0.803765, 1
+2, bar, 0.906365, 2
+2, sierra gold, 0.810133, 2
+2, Hot Cheeto onion, 0.80094, 3
+2, right anatomical parts, 0.779365, 3
+2, service, 0.932296, 4
+2, food, 0.752297, 4
+2, place, 0.80407, 6
+2, different flavor options, 0.783334, 6
+2, Garden Vegetable Pizza, 0.80627, 7
+2, TGIF brand mozzeralla, 0.803955, 8
+2, flamin hot awesomeness, 0.782697, 8
+2, Good food, 0.714277, 9
+2, generous heaping, 0.70607, 9
+3, pub style food, 0.742974, 0
+3, Standard quality food, 0.735036, 0
+3, cheap drinks, 0.743083, 1
+3, brownish mushy blobs, 0.732492, 1
+3, bar food, 0.748728, 2
+3, push mushy blobs, 0.728691, 2
+3, Greasy pub food, 0.732246, 3
+3, lunch crowd, 0.717682, 3
+3, pizza, 0.885327, 4
+3, time, 0.790429, 4
+3, Sierra Gold, 0.990221, 5
+3, food, 0.837154, 5
+3, place, 0.820016, 6
+3, crispy thin-crust pizza, 0.769804, 6
+3, BBQ Chicken Salad, 0.723017, 7
+3, pepperoni pizza, 0.720996, 7
+3, great time, 0.720024, 8
+3, nutshell Sierra Gold, 0.718235, 8
+3, gilroy pizza, 0.716631, 9
+3, ground beef nachos, 0.712029, 9
+4, Luckily Sierra Gold, 0.435406, 0
+4, pretty good grub, 0.427724, 0
+4, bar food, 0.4535, 2
+4, typical bar food, 0.435718, 2
+4, establishment Sierra gold, 0.434582, 3
+4, new local bar, 0.424776, 3
+4, Sierra Golds, 0.397751, 4
+4, sierra gold, 0.972992, 5
+4, food, 0.589502, 5
+4, pizza, 0.531214, 6
+4, bar, 0.516002, 6
+4, gilroy pizza, 0.460763, 7
+4, good breakfast menu, 0.432006, 7
+4, Coo Coo fries, 0.538599, 8
+4, good food, 0.497347, 8
+4, BBQ chicken pizza, 0.463235, 9
+4, chicken pizza mmmmm, 0.419815, 9
+5, State football game, 0.63675, 0
+5, niner saints game, 0.612631, 0
+5, Sunday Night Football, 0.648603, 1
+5, AL Playoff action, 0.614578, 1
+5, tator tots, 0.672577, 3
+5, greatest bar food, 0.672169, 3
+5, bar food, 0.729495, 4
+5, menu, 0.609281, 4
+5, sierra gold, 0.955412, 5
+5, place, 0.6753, 5
+5, monday night football, 0.814287, 6
+5, best bar food, 0.678824, 6
+5, great place, 0.662943, 7
+5, late night, 0.644697, 7
+5, great service, 0.702885, 8
+5, great time, 0.668082, 8
+5, overall cool place, 0.626062, 9
+5, classy watering hole, 0.614089, 9

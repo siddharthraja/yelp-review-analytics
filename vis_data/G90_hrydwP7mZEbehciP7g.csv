@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, fish sandwiches Ive, 0.944855, 0
+1, grouper sandwich, 0.817846, 0
+1, inch square piece, 0.876386, 1
+1, mushy catfish, 0.741552, 1
+1, white bread, 0.917752, 2
+1, little onion, 0.719273, 2
+1, cut un-buttered piece, 0.882737, 3
+1, grey catfish, 0.723858, 3
+1, Jack Beagles, 0.86888, 4
+1, texas toast, 0.949427, 5
+1, fish sandwich cost, 0.934253, 6
+1, time, 0.630611, 6
+1, crinkle cut fries, 0.903854, 7
+1, seasoned salt, 0.706167, 7
+1, place, 0.640619, 8
+1, appetizer, 0.55518, 8
+1, good fish sandwich, 0.969731, 9
+1, porch, 0.546521, 9
+2, Fried Fungus, 0.796029, 0
+2, chicken noodle, 0.776926, 0
+2, similarly pretentious lady, 0.969013, 1
+2, old greaseball artist-type, 0.946149, 1
+2, good things, 0.963691, 2
+2, pop rock radio, 0.948795, 2
+2, tavern smells, 0.823405, 3
+2, cigarette smoke, 0.804656, 3
+2, bartender, 0.693705, 4
+2, street, 0.664048, 4
+2, NoDa Brewing Company, 0.923103, 6
+2, solstice theme, 0.867344, 6
+2, appetizer names, 0.811263, 7
+2, hilarious entrée, 0.799666, 7
+2, young professionals, 0.785259, 8
+2, ages, 0.66853, 8
+2, afternoon bar crowd, 0.993292, 9
+2, fun people, 0.808882, 9
+3, late night, 0.70672, 0
+3, typical bar food, 0.684866, 0
+3, Generic beer selection, 0.638626, 1
+3, fail safe Newcastle, 0.613579, 1
+3, bar food, 0.740206, 2
+3, cheap bar food, 0.693865, 2
+3, couple tater tots, 0.714509, 3
+3, NoDa bar, 0.71412, 3
+3, food, 0.749514, 4
+3, bar, 0.830361, 5
+3, place, 0.785666, 5
+3, tater tots, 0.98126, 6
+3, sports bar, 0.734999, 6
+3, Solstice Tavern, 0.75227, 7
+3, good beer specials, 0.665865, 7
+3, Decent sports bar, 0.688799, 8
+3, pretty decent lunch, 0.671194, 8
+3, service bar, 0.612167, 9
+3, decent beer, 0.60685, 9
+4, traditional bar food, 0.69036, 0
+4, Solstice patio, 0.647663, 0
+4, average sports bar, 0.682647, 1
+4, standard bar fare, 0.644752, 1
+4, sports bar, 0.771306, 2
+4, sports bar type, 0.652754, 2
+4, standard NoDa crowd, 0.706932, 3
+4, area, 0.687511, 4
+4, patio area, 0.653965, 4
+4, bar, 0.931669, 5
+4, good bar food, 0.815846, 5
+4, place, 0.827623, 6
+4, great little bar, 0.71095, 6
+4, Consistently good bar, 0.700284, 7
+4, outdoor bar area, 0.669162, 7
+4, great place, 0.739894, 8
+4, good location, 0.674771, 8
+4, great juke box, 0.655818, 9
+4, Friday night spot, 0.627934, 9
+5, late night menu, 0.933019, 0
+5, best cheese fries, 0.786305, 0
+5, Bar specials, 0.597412, 1
+5, bad experience, 0.587741, 1
+5, cute little tavern, 0.69436, 2
+5, quant little area, 0.678629, 2
+5, Good bar food, 0.764954, 3
+5, Outdoor bar, 0.591804, 3
+5, cheap drinks, 0.569741, 4
+5, favorite spot, 0.898102, 7
+5, good bar grub, 0.762299, 7
+5, Solstice Tavern, 0.974057, 8
+5, best chicken tenders, 0.893525, 8
+5, intelligent people, 0.582548, 9
+5, Great area, 0.578303, 9

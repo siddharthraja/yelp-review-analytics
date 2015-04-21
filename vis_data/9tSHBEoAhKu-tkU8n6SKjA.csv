@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, good Mexican food, 0.602996, 0
+1, respectible New Mexican, 0.566173, 0
+1, mexican food, 0.694653, 1
+1, service, 0.647408, 1
+1, shredded beef, 0.583211, 2
+1, food spicy, 0.545443, 2
+1, Los Dos Molinos, 0.649571, 3
+1, carne asada, 0.545431, 3
+1, food, 0.960148, 4
+1, red chili beef, 0.644814, 4
+1, place, 0.783842, 5
+1, Mexican restaurant, 0.662355, 6
+1, New Mexican, 0.594626, 6
+1, real quality food, 0.581813, 7
+1, carne adovada, 0.538182, 7
+1, better quality food, 0.573067, 8
+1, good Mexican places, 0.55814, 9
+2, red chili plate, 0.371277, 0
+2, red beef tamale, 0.360385, 0
+2, cold mexican food, 0.321151, 1
+2, minuscule single chile, 0.275618, 1
+2, Los Dos, 0.933657, 2
+2, Los Dos Molinos, 0.552655, 2
+2, mexican food, 0.730926, 3
+2, chile relleno, 0.3377, 3
+2, food, 0.911627, 4
+2, place, 0.344476, 4
+2, enchilada style, 0.2811, 5
+2, margaritas, 0.225242, 5
+2, spicy Mexican food, 0.376981, 6
+2, americanized Mexican food, 0.34722, 6
+2, authentic mexican food, 0.348707, 7
+2, cheese crisp, 0.34734, 7
+2, Mexican style restaurant, 0.275178, 8
+2, house blended lime, 0.254935, 8
+3, Mexican restaurant wan, 0.298323, 0
+3, all-jacked-up-on-steroid-spice hot, 0.240937, 0
+3, Los Dos Molinos, 0.936109, 2
+3, real spicy food, 0.401568, 2
+3, SPICY indication, 0.262693, 3
+3, green chili, 0.338817, 4
+3, phoenix location, 0.311638, 4
+3, food, 0.761691, 5
+3, mexican food, 0.508055, 5
+3, New Mexican restaurant, 0.374275, 6
+3, spicy beef pizza, 0.360076, 6
+3, New Mexico, 0.363237, 7
+3, little Mexican restaurant, 0.28868, 7
+3, good food, 0.465265, 8
+3, Pretty good food, 0.436814, 8
+3, spicy red, 0.280589, 9
+4, big Mexican food, 0.487663, 0
+4, Awesomely hot food, 0.487121, 0
+4, good New Mexican, 0.488485, 1
+4, mexican food place, 0.520886, 2
+4, hot Good food, 0.498488, 2
+4, spicy salsa, 0.482938, 3
+4, mexican food, 0.828374, 4
+4, new mexican, 0.571386, 4
+4, Los Dos, 0.970673, 5
+4, Los Dos Molinos, 0.88426, 5
+4, New Mexican food, 0.531055, 6
+4, traditional Mexican food, 0.526927, 6
+4, spicy New Mexican, 0.519775, 7
+4, Molinos mexican food, 0.508241, 7
+4, spicy mexican food, 0.596139, 8
+4, good Mexican food, 0.510258, 8
+4, service delicious food, 0.476237, 9
+5, spicy New Mexican, 0.428918, 0
+5, Mexican style food, 0.405454, 0
+5, hot spicy food, 0.460637, 1
+5, little spicy kick, 0.390536, 1
+5, New Mexican variation, 0.383066, 2
+5, spicy Mexican food, 0.453377, 3
+5, service, 0.443889, 4
+5, New Mexican style, 0.423334, 4
+5, los dos, 0.915259, 5
+5, Los Dos Molinos, 0.884057, 5
+5, New Mexican, 0.564333, 6
+5, salsa, 0.474845, 6
+5, green chile, 0.523951, 7
+5, great food, 0.485808, 7
+5, new mexican food, 0.513805, 8
+5, best mexican food, 0.453262, 8
+5, Love spicy food, 0.440115, 9
+5, spicy salsa, 0.409775, 9

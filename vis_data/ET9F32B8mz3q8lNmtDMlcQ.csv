@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, Jalapeno dipping sauce, 0.762895, 0
+1, simple chicken skewers, 0.747335, 0
+1, worst place, 0.728818, 1
+1, food poisoning, 0.64972, 1
+1, carelessly prepared food, 0.740188, 2
+1, amazing food place.., 0.734044, 2
+1, server, 0.75346, 3
+1, Sweet potato chips, 0.728497, 3
+1, fries, 0.72802, 4
+1, zipps, 0.657696, 4
+1, food, 0.918381, 5
+1, customer service, 0.894934, 5
+1, pita bread quesadilla, 0.950759, 6
+1, bread quesadilla thing, 0.940179, 6
+1, Chicken Focaccia, 0.748904, 7
+1, young blonde server, 0.733001, 7
+1, customer service courses, 0.713382, 8
+1, Chicken Wrap, 0.678203, 8
+2, golden medium wings, 0.614285, 0
+2, Good pub food, 0.601707, 0
+2, food, 0.68508, 1
+2, Street Sports Bar, 0.590329, 1
+2, sports bar, 0.959222, 2
+2, service, 0.609031, 2
+2, Monday Night Football, 0.663383, 3
+2, Suns game, 0.648814, 3
+2, onion rings, 0.760893, 4
+2, time, 0.703503, 4
+2, zipps, 0.591496, 5
+2, garlic mayo, 0.566069, 5
+2, sweet potato chips, 0.689986, 6
+2, wings, 0.641467, 6
+2, pepper jack cheese, 0.550577, 7
+2, basic burger, 0.508063, 7
+2, latest zipps experience, 0.57164, 8
+2, better nearby spot, 0.557564, 8
+3, Scottsdale Zipps locations, 0.673848, 0
+3, standard Zipps format, 0.673068, 0
+3, Typical bar food, 0.716091, 1
+3, generic bar food, 0.714974, 1
+3, sports bar, 0.991348, 2
+3, bar food, 0.795021, 2
+3, sports bar food, 0.732381, 3
+3, round-about average bar, 0.669029, 3
+3, zipps, 0.817981, 4
+3, service, 0.707869, 4
+3, food, 0.991826, 5
+3, place, 0.847414, 5
+3, good margaritas, 0.636189, 6
+3, good specials, 0.63244, 6
+3, better food options, 0.68468, 7
+3, good spot, 0.670987, 7
+3, Good place, 0.687969, 8
+3, Ivory Coast game, 0.655484, 8
+3, hockey loving Canucks, 0.639527, 9
+4, Zipps countless times, 0.631459, 0
+4, Ivory Coast, 0.626545, 0
+4, typical bar food, 0.63867, 1
+4, sports bar experience, 0.625919, 1
+4, conventional bar food, 0.632733, 2
+4, Zipps Yelp review, 0.618076, 2
+4, good bar food, 0.678574, 3
+4, walking-distance sports bar, 0.650412, 3
+4, Indian School, 0.704718, 4
+4, wings, 0.839783, 5
+4, zipps, 0.815999, 5
+4, sports bar, 0.912572, 6
+4, place, 0.737059, 6
+4, hot wings, 0.699781, 7
+4, great chicken wings, 0.687841, 7
+4, good place, 0.723458, 8
+4, Golden Hot wings, 0.688891, 8
+4, good solid bar, 0.65342, 9
+4, consistent sports bar, 0.632754, 9
+5, typical bar food, 0.613716, 0
+5, Excellent bar food, 0.610719, 0
+5, service industry, 0.524884, 1
+5, lovely Miss Chelsea, 0.66627, 2
+5, meaty little wings, 0.620685, 2
+5, Phoenix sports fans, 0.601016, 3
+5, basketball city, 0.565681, 3
+5, sports bar, 0.931437, 4
+5, big tvs, 0.548554, 5
+5, Good place, 0.540481, 6
+5, golden wings, 0.80709, 7
+5, favorite sports bar, 0.711196, 7
+5, golden medium wings, 0.762541, 8
+5, great service, 0.672075, 8
+5, great place, 0.7419, 9
+5, staff great food, 0.619227, 9

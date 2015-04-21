@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, eye contact, 0.427669, 0
+1, different bottle, 0.426637, 0
+1, customer service skills, 0.655234, 1
+1, female friendly bar, 0.625786, 1
+1, rude rude rude, 0.951541, 2
+1, bar, 0.758188, 2
+1, food, 0.572574, 3
+1, Jack Daniels, 0.422834, 3
+1, buddy, 0.245043, 4
+1, quick bite, 0.493658, 6
+1, total ****, 0.433872, 7
+1, Heineken light, 0.488525, 8
+2, time, 0.42944, 0
+2, night, 0.428975, 0
+2, smoke, 0.721414, 2
+2, airflow, 0.504761, 2
+2, white cloud, 0.859952, 3
+2, smoker, 0.529515, 3
+2, cocktail service, 0.940632, 8
+4, bar food, 0.607136, 0
+4, burgers, 0.480091, 0
+4, neighborhood bar, 0.958865, 1
+4, burger, 0.38259, 1
+4, dark smoky bar, 0.985361, 2
+4, fast food places, 0.946765, 2
+4, local bar, 0.605609, 3
+4, big chain, 0.597817, 3
+4, sports games, 0.605412, 6
+4, video poker machines, 0.891075, 7
+4, pool tables, 0.623097, 7
+4, great bar, 0.633531, 8
+4, gyro salad, 0.632725, 8
+4, bartenders, 0.494786, 9
+4, service, 0.355764, 9
+5, pretentious hipster bars, 0.955919, 0
+5, neighborhood/low key bar, 0.871463, 0
+5, bad night, 0.63844, 1
+5, friendly neighborhood bar, 0.888635, 2
+5, chicken wings, 0.672533, 2
+5, double Jameson/Ginger Ales, 0.901193, 6
+5, pool tables, 0.637023, 6
+5, leftover food, 0.69381, 7
+5, place, 0.483505, 7
+5, good awesome sort, 0.940668, 8
+5, great dive bar, 0.927822, 8
+5, bartender, 0.544812, 9
+5, regulars, 0.459873, 9

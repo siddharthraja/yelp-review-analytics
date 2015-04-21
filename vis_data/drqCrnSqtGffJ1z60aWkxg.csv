@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, tilted kilt, 0.743663, 0
+1, ordinary bar food, 0.716469, 0
+1, food poisoning, 0.780518, 1
+1, Irish/English themed bar, 0.739758, 1
+1, sports bar food, 0.770552, 2
+1, waitresses, 0.695374, 2
+1, food, 0.986148, 3
+1, bar, 0.77898, 3
+1, service, 0.837254, 4
+1, place, 0.648383, 5
+1, original corporate locations, 0.704122, 6
+1, good selection, 0.640816, 7
+1, food quality, 0.636896, 7
+1, credit card, 0.61617, 8
+2, Sweet Potato Fries, 0.867395, 0
+2, fried onion rings, 0.859619, 0
+2, college aged girls, 0.865449, 1
+2, ......, 0.821807, 1
+2, food, 0.903842, 2
+2, average sports bar, 0.897638, 2
+2, good sports bar, 0.876717, 3
+2, slightly defensive tone, 0.870171, 3
+2, place, 0.919805, 4
+2, Tilted Kilt, 0.911936, 4
+2, Tilted Kilt Pub, 0.87412, 6
+2, good place, 0.837147, 6
+2, Bud Light, 0.974502, 7
+2, Teeny tiny shirts, 0.874667, 7
+2, best beer, 0.877502, 8
+2, seasoned service veteran, 0.861284, 8
+3, Tilted Kilt girls, 0.776548, 0
+3, good size bar, 0.762256, 0
+3, normal bar food, 0.734505, 1
+3, neighborhood type bar, 0.727532, 1
+3, totally cheesy bar, 0.727032, 2
+3, typical bar fare, 0.716142, 2
+3, Catholic School Girl, 0.712625, 3
+3, blue cheese, 0.7013, 3
+3, place, 0.865197, 4
+3, service, 0.701893, 4
+3, food, 0.862591, 5
+3, girls, 0.809345, 5
+3, Tilted Kilt, 0.989886, 6
+3, Scottish Hooters, 0.77126, 6
+3, Irish nachos, 0.773864, 7
+3, good beer selection, 0.745959, 7
+3, pretty decent place, 0.777373, 8
+3, good place, 0.758879, 8
+4, Germany WC game, 0.715848, 0
+4, spring training game, 0.68861, 0
+4, Super skimpy outfits, 0.678189, 1
+4, DRUNKEN CLAMS, 0.606793, 1
+4, trivia night, 0.742021, 2
+4, extreme sweet tooth, 0.658061, 2
+4, girls, 0.628338, 4
+4, tilted kilt, 0.961337, 5
+4, bar, 0.637195, 5
+4, little drink coasters, 0.680303, 6
+4, extra caramel sauces, 0.66456, 6
+4, food, 0.81753, 7
+4, pool tables, 0.691808, 7
+4, happy hour menu, 0.67951, 8
+4, bbq bacon burger, 0.672068, 8
+4, atmosphere. decent food, 0.710701, 9
+4, good beer selection, 0.697793, 9
+5, Good cold brews, 0.757723, 0
+5, favorites Boddingtons Ale, 0.752555, 0
+5, afternoon bar therapy, 0.774082, 1
+5, Half Moon, 0.644033, 1
+5, UFC fights, 0.806343, 2
+5, Large sports bar, 0.801812, 2
+5, good sports bar, 0.838248, 3
+5, short kilts, 0.638374, 3
+5, sports bar, 0.951747, 4
+5, good bar food, 0.816244, 6
+5, domestic beers, 0.632516, 6
+5, great sports bar, 0.840628, 7
+5, attractive eye candy, 0.765115, 7
+5, great experience, 0.755261, 8
+5, XX large TV, 0.747076, 8
+5, guests. hot chicks, 0.726392, 9
+5, giant screen TVs, 0.720028, 9

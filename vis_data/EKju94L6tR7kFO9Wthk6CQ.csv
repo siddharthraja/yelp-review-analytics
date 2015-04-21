@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, Screw, 0.399159, 0
+1, drink, 0.394521, 0
+1, place, 0.455862, 3
+1, Monday, 0.405511, 3
+1, Thats, 0.434454, 4
+1, notice, 0.395112, 4
+1, dollar lunch, 0.772964, 6
+1, salad, 0.56984, 6
+1, good lunch specials, 0.962388, 7
+2, tater skins, 0.735075, 0
+2, mins, 0.545575, 0
+2, service, 0.741219, 1
+2, burger, 0.595739, 1
+2, suburban sports bar, 0.938811, 2
+2, dollar cover charge, 0.924938, 2
+2, bar type restaurant, 0.89744, 3
+2, good thing, 0.719891, 3
+2, sweet potato fries, 0.889479, 6
+2, great place, 0.836231, 6
+2, better places, 0.685887, 7
+2, pretzels, 0.60211, 7
+2, spicy garlic wings, 0.864923, 8
+2, sweet chili wings, 0.849932, 8
+3, hot pretzels, 0.64289, 0
+3, typical groups, 0.618353, 0
+3, terrible refilling drinks, 0.970546, 1
+3, stressful plane ride, 0.886961, 1
+3, bar food, 0.904922, 2
+3, typical bar food, 0.834532, 2
+3, Saturday afternoon, 0.626232, 3
+3, Chili, 0.392822, 3
+3, waitress, 0.675745, 6
+3, girly concoction, 0.682873, 7
+3, strawberries, 0.373607, 7
+3, quick drink, 0.635548, 9
+3, Friday night, 0.625431, 9
+4, wide selection, 0.723698, 0
+4, Redskins game, 0.718607, 0
+4, phenomenal service, 0.710847, 1
+4, bad place, 0.706311, 1
+4, Black Forest sandwich, 0.8802, 2
+4, crazy/cool beer, 0.724107, 2
+4, standard bar selection, 0.901534, 3
+4, pretzel bread sandwich, 0.897991, 3
+4, food, 0.855112, 4
+4, game, 0.766411, 4
+4, bavarian sandwich, 0.760057, 6
+4, casual dining, 0.675382, 6
+4, standard beer selection, 0.90174, 7
+4, pretzel bites, 0.728816, 7
+4, good sized portion, 0.880197, 8
+4, good food, 0.713504, 8
+4, reasonable prices, 0.709385, 9
+4, nice variety, 0.704354, 9
+5, Service, 0.202733, 2
+5, sister, 0.256869, 6
+5, hound Ballantyne, 0.98331, 7
+5, Drink specials, 0.730406, 7
+5, ULTIMATE BURGER, 0.831549, 9

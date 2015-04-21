@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, tiny sample sizes, 0.371104, 0
+1, homeliest staff ive, 0.344075, 0
+1, food horrible service, 0.417545, 1
+1, BWW franchise, 0.33489, 1
+1, BWW, 0.339021, 2
+1, boneless wings, 0.317122, 2
+1, Buffalo Wild Wings, 0.918081, 3
+1, food, 0.73402, 3
+1, waitress, 0.259126, 5
+1, long time, 0.35831, 6
+1, BBQ wings, 0.315324, 6
+1, Absolutely LOVE Buffalo, 0.3465, 7
+1, warm bottles Coronas, 0.33628, 7
+1, better places, 0.233147, 8
+2, blue burger.  burger, 0.621097, 0
+2, sports fan crowd, 0.613956, 0
+2, wings extra crispy, 0.673599, 1
+2, sports bar, 0.628241, 1
+2, mass produced beer, 0.622536, 2
+2, table, 0.617402, 2
+2, wings, 0.941756, 3
+2, high chair, 0.811995, 3
+2, BWW, 0.651005, 4
+2, time, 0.613741, 4
+2, food, 0.879557, 5
+2, place, 0.629127, 6
+2, sporting event, 0.621539, 6
+2, Buffalo Wild Wings, 0.709197, 7
+2, football game, 0.538242, 7
+2, reasonably good place, 0.627108, 8
+2, better quality food, 0.669836, 9
+2, better deal, 0.523643, 9
+3, Pepper Steak Wrap, 0.606703, 0
+3, Mango Habanero, 0.523147, 0
+3, sprots bar kinda, 0.634972, 1
+3, little frustrating/, 0.53399, 1
+3, CHEAP WINGS, 0.96146, 2
+3, place, 0.6422, 2
+3, bony meat crisps, 0.608428, 3
+3, huge TVs, 0.538735, 3
+3, times, 0.528668, 4
+3, time, 0.650188, 5
+3, service, 0.634002, 5
+3, cent wing Tues, 0.61698, 6
+3, chili cheese fries, 0.616295, 6
+3, buffalo wild wings, 0.906154, 7
+3, wild wings food, 0.715916, 7
+3, better wings, 0.633389, 8
+3, Native New Yorker, 0.624178, 8
+3, good variety, 0.542718, 9
+4, medium boneless wings, 0.494494, 0
+4, traditional wings, 0.482231, 0
+4, perfectly good wings, 0.486267, 1
+4, cent wings, 0.458009, 1
+4, 50 cent, 0.374334, 2
+4, tasteless nacho chips, 0.362546, 2
+4, Curry wings, 0.447169, 3
+4, food, 0.409571, 3
+4, Buffalo Wild Wings, 0.90179, 4
+4, potato wedges, 0.373575, 5
+4, place, 0.366737, 5
+4, garlic chicken wings, 0.476915, 6
+4, hot wings, 0.461663, 6
+4, habanero flavor wings, 0.464894, 7
+4, half our wings, 0.446238, 7
+4, boneless wings, 0.59811, 8
+4, Parmesan garlic wings, 0.478266, 8
+4, good sports bar, 0.383663, 9
+5, football season, 0.850585, 0
+5, long long time, 0.847108, 0
+5, East Mesa, 0.747227, 1
+5, UFC fight, 0.732039, 1
+5, St. Louis blues, 0.823194, 2
+5, tv directly infront, 0.822669, 2
+5, new sauce, 0.722138, 3
+5, food, 0.882788, 6
+5, .good food, 0.739997, 6
+5, chipotle dry seasoning, 0.82549, 7
+5, family lunches, 0.751324, 7
+5, wing sauce choices, 0.843487, 8
+5, Wild Wings, 0.780577, 8
+5, cent boneless wings, 0.927989, 9
+5, Zing boneless wings, 0.90424, 9

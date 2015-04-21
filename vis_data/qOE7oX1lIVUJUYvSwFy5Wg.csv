@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, Little Woody, 0.860994, 1
+1, Great Escape, 0.971925, 3
+2, pool table, 0.557542, 0
+2, jukebox, 0.369073, 0
+2, dive bar, 0.90135, 1
+2, dive bar night, 0.790104, 1
+2, beer specials, 0.569888, 2
+2, yelp, 0.504077, 2
+2, previous reviews, 0.576223, 3
+2, opinion, 0.359213, 3
+2, good condition, 0.570225, 8
+2, lit, 0.380204, 8
+4, chain smoking grannie, 0.730392, 0
+4, triple distilled Erica, 0.695188, 0
+4, gullible pool players, 0.737656, 1
+4, crusty underbody, 0.612777, 1
+4, dive bar babies, 0.732171, 2
+4, little drunk writing, 0.698061, 2
+4, little dive square, 0.68398, 3
+4, drunk senior citizens, 0.682111, 3
+4, place, 0.489694, 4
+4, jukebox, 0.464881, 4
+4, beer, 0.496316, 5
+4, cocktail radar, 0.56578, 6
+4, fine tuning, 0.565441, 6
+4, Play pool, 0.572561, 7
+4, grandparents basement, 0.557856, 7
+4, Great Escape, 0.933642, 8
+4, Great Escape Lounge, 0.758923, 8

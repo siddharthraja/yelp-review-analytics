@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, extremely long wait, 0.967478, 0
+1, Monsieur Smith, 0.817537, 0
+1, sarcastic anecdote, 0.772401, 1
+1, negative opinion, 0.734629, 1
+1, copious water leakage, 0.992211, 2
+1, place, 0.712384, 2
+1, hefty price, 0.78035, 3
+1, cafes, 0.486621, 3
+1, friend, 0.758021, 4
+1, server, 0.587897, 4
+1, boyfriend, 0.56436, 5
+1, local beer, 0.731062, 6
+1, pints, 0.492612, 6
+1, healthy selection, 0.773305, 7
+1, beer selection, 0.723621, 7
+1, wallets, 0.47153, 8
+1, girl, 0.462609, 8
+4, go-to HH hangout, 0.822087, 0
+4, authentique et accueillante, 0.808287, 0
+4, massive flat panel, 0.765485, 2
+4, immense hipsterness, 0.695137, 2
+4, la sangria blanche, 0.889772, 6
+4, est une bonne, 0.810335, 6
+4, seating.  big wine, 0.795134, 7
+4, Belle ambiance, 0.682665, 7
+4, white wine sangria, 0.912404, 8
+4, beaten path, 0.663356, 8
+5, Long time, 0.792007, 0
+5, huge menu, 0.734832, 0
+5, particular reasons, 0.80074, 1
+5, Mister, 0.330468, 3
+5, main thing, 0.700918, 6
+5, good times, 0.64039, 6
+5, huge screen, 0.715182, 7
+5, hockey nights, 0.713525, 7
+5, pretty nice crowd, 0.956488, 8
+5, late nights, 0.698458, 8

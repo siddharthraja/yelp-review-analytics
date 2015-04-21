@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, fairly large skins, 0.968597, 0
+1, un-fine dining establishment, 0.965993, 0
+1, dive bar, 0.933899, 1
+1, sketchy dive bar, 0.930382, 1
+1, regular stop, 0.748054, 2
+1, tiny toilet, 0.744251, 2
+1, local drunks, 0.747753, 3
+1, person, 0.578576, 3
+1, food, 0.787372, 4
+1, husband order coffee, 0.948149, 6
+1, meal, 0.586482, 6
+1, Good food, 0.716495, 7
+1, service friendly atmosphere, 0.896192, 9
+2, standing breakfast joints, 0.834094, 0
+2, dry english muffins, 0.788058, 0
+2, cheap breakfast, 0.726556, 1
+2, hash browns, 0.604787, 1
+2, dipped toast, 0.716774, 2
+2, tbs, 0.447262, 2
+2, pancakes, 0.54498, 3
+2, time, 0.537425, 3
+2, slice, 0.596333, 5
+2, presentable delivery, 0.612383, 6
+2, bacon, 0.510435, 6
+2, dark drab bar, 0.799678, 7
+2, fair deal, 0.622784, 7
+2, french toast, 0.909374, 8
+2, favorite breakfast place, 0.794836, 8
+3, Kinda dingy atmosphere, 0.79453, 0
+3, 5/itty bitty shot, 0.760773, 0
+3, local dive bar, 0.778822, 1
+3, dance floor, 0.765235, 2
+3, overly young crowd, 0.755153, 2
+3, staple dive bar, 0.784883, 3
+3, totally packed sports, 0.756489, 3
+3, drinks, 0.709718, 4
+3, place, 0.955537, 5
+3, Friday night, 0.864331, 5
+3, basic breakfast options, 0.769446, 6
+3, spicy fries, 0.764663, 6
+3, dive bar, 0.9147, 7
+3, decent local band, 0.79734, 7
+3, classic rock, 0.78915, 8
+3, wonderful server Holly, 0.756203, 8
+3, great dive bar, 0.778099, 9
+3, classic rock hits, 0.765246, 9
+4, ye Old Brass, 0.483336, 0
+4, dive bar mimosa, 0.469295, 0
+4, blah blah blah, 0.468445, 1
+4, flat screen TV, 0.436805, 1
+4, heavy drinking habits, 0.565387, 2
+4, breakfast specials, 0.522894, 2
+4, Old Brass Rail, 0.728957, 3
+4, hash browns, 0.595882, 3
+4, breakfast, 0.910337, 5
+4, place, 0.622894, 5
+4, traditional breakfast, 0.50081, 6
+4, pork chop dinners, 0.439756, 6
+4, good cheap breakfast, 0.630742, 7
+4, delicious breakfast, 0.519586, 7
+4, Sunday morning breakfast, 0.565273, 8
+4, best breakfast food, 0.56501, 8
+4, Brass Railroad Tracks, 0.561372, 9
+4, Old Brass Railroad, 0.448963, 9
+5, cookie cutter places, 0.943274, 0
+5, picky eater, 0.777339, 0
+5, order chicken fingers, 0.929707, 1
+5, kinda spicy, 0.765282, 1
+5, Cheap drinks, 0.731333, 2
+5, big bar tab, 0.993659, 3
+5, low price, 0.74351, 3
+5, boyfriend, 0.559247, 6
+5, Sunday, 0.541247, 6
+5, Philly Cheese Steak, 0.923814, 7
+5, late night food, 0.908529, 7
+5, great service..yummy breakfast..and, 0.920703, 8
+5, BnB Breakfast, 0.809462, 8
+5, good blues band, 0.962954, 9
+5, Down-home live music, 0.920454, 9

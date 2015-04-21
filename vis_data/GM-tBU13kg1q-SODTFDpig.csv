@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, complimentary drink, 0.673254, 0
+1, emergency response, 0.671097, 0
+1, terrible customer service, 0.94805, 1
+1, Absolutely terrible customer, 0.787775, 1
+1, dining room visit, 0.795281, 2
+1, slow service., 0.663391, 2
+1, waiter, 0.686589, 3
+1, loudspeaker, 0.582301, 3
+1, burger, 0.581403, 4
+1, bus station, 0.682731, 6
+1, complimentary dessert, 0.674401, 6
+1, quieter table, 0.695601, 7
+1, Tuesday night, 0.690879, 7
+1, Arnold Palmer, 0.776471, 8
+1, dollar check, 0.643011, 8
+2, soft landing, 0.781614, 0
+2, dinner, 0.482901, 0
+2, food, 0.488178, 2
+2, Brownie dessert, 0.812056, 3
+2, short rib, 0.79285, 3
+2, Strip steak medium, 0.972706, 6
+2, Malbec, 0.513606, 6
+2, Great atmosphere, 0.835028, 8
+2, friendly service, 0.814744, 8
+3, fine dining experience, 0.575386, 0
+3, cheese sauce, 0.48994, 0
+3, margherita pizza, 0.493155, 1
+3, cheese plate, 0.477057, 1
+3, little subtle spicy, 0.547104, 2
+3, community table, 0.536422, 2
+3, main dining area, 0.717295, 3
+3, uneaten mushroom pasta, 0.637535, 3
+3, service, 0.461587, 4
+3, mushroom pasta, 0.908217, 5
+3, fresh baked, 0.539578, 5
+3, skinny type fries, 0.575686, 6
+3, extra star, 0.461253, 6
+3, nice compliment, 0.48884, 7
+3, french fries, 0.467638, 7
+3, roasted vegetable pizza, 0.602041, 8
+3, nice hearty portion, 0.601097, 8
+3, great sourdough taste, 0.595224, 9
+3, nice texture, 0.486666, 9
+4, mac n cheese, 0.971337, 0
+4, buttery apple crostada, 0.875382, 0
+4, bleu cheese, 0.917891, 1
+4, pasta dishes, 0.826844, 2
+4, little oxtail, 0.803766, 2
+4, cheese, 0.974889, 4
+4, potato chips, 0.910798, 4
+4, ox meat, 0.866698, 5
+4, blue cheese crumbles, 0.950712, 6
+4, warm truffle cheese, 0.948852, 6
+4, new Downtown Summerlin, 0.916309, 7
+4, Truffle potato chips, 0.908102, 7
+4, Summerlin Good tasting, 0.938083, 8
+4, creamy mac, 0.884337, 8
+4, great choice, 0.806434, 9
+4, great flavors, 0.804508, 9
+5, NY Pizza Snob, 0.532701, 0
+5, Mr Puck, 0.477398, 0
+5, Chinois Chicken Salad, 0.53814, 1
+5, Wolfgang Puck, 0.973966, 6
+5, rock shrimp pizza, 0.546608, 6
+5, wolfgang puck bar, 0.866442, 7
+5, tuna tartare, 0.526281, 7
+5, downtown summerlin, 0.714585, 8
+5, new Wolfgang Puck, 0.704176, 8
+5, Yummy yummy yummy, 0.635861, 9
+5, new Downtown Summerlin, 0.567162, 9

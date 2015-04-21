@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, leadership role, 0.551351, 0
+1, staff, 0.333926, 0
+1, sad sorry self, 0.882215, 1
+1, awesome blow, 0.599804, 1
+1, worse experience, 0.617673, 2
+1, better judgment, 0.602129, 2
+1, grilled chicken tastes, 0.98726, 3
+1, entire building, 0.636387, 3
+1, power trip, 0.859269, 4
+1, place, 0.73512, 4
+1, people, 0.346138, 5
+1, spinach dip, 0.641766, 7
+1, thing, 0.278855, 7
+2, Tyber Creek Pub, 0.758248, 0
+2, Irish pub, 0.554703, 0
+2, Tyber Creek, 0.923932, 1
+2, upstairs bathroom line, 0.673564, 2
+2, London pubs, 0.663254, 2
+2, English pubs, 0.559783, 3
+2, lung-healthy cohort, 0.532872, 3
+2, food, 0.592651, 5
+2, London pub, 0.548167, 6
+2, bartenders, 0.426823, 6
+2, ye olde Guinness, 0.640575, 7
+2, libations, 0.435553, 7
+2, delicious food, 0.533812, 8
+2, clean atmosphere, 0.531001, 8
+3, good conversation starter, 0.634733, 0
+3, Irish style pub, 0.62627, 0
+3, Light Rail Bar, 0.631166, 1
+3, bar food, 0.68384, 2
+3, decent bar food, 0.66001, 2
+3, good sized bar, 0.67632, 3
+3, neighborhood bar, 0.636645, 3
+3, beer selection, 0.723762, 5
+3, place, 0.822768, 6
+3, bar, 0.811622, 6
+3, Tyber Creek, 0.978462, 7
+3, draft beer selection, 0.715961, 7
+3, pub feel, 0.738139, 8
+3, Tyber Creek Pub, 0.698975, 8
+3, traditional pub feel, 0.632731, 9
+4, raucous upstairs space, 0.690403, 0
+4, bar game fixtures, 0.685891, 0
+4, bar type area, 0.680028, 1
+4, lousy overpriced beer, 0.662874, 2
+4, homey feeling bars, 0.661814, 2
+4, delicious bar menu, 0.684461, 3
+4, live music outside.2ND, 0.679041, 3
+4, Tyber Creek Pub, 0.858379, 5
+4, tyber creek, 0.993898, 6
+4, place, 0.802866, 6
+4, space Tyber, 0.693856, 7
+4, outdoor seating area, 0.673361, 7
+4, outdoor patio, 0.786136, 8
+4, outdoor patio area, 0.723899, 8
+4, great atmosphere, 0.709198, 9
+4, great daily drink, 0.684673, 9
+5, quick bar food, 0.746548, 0
+5, high arrest area, 0.697599, 0
+5, upstairs bar area, 0.909447, 2
+5, lounge area upstairs, 0.780386, 2
+5, neighborhood bar, 0.69107, 3
+5, rate neighborhood bar, 0.685269, 3
+5, upstairs area, 0.719839, 6
+5, Excellent wait staff, 0.660417, 6
+5, tyber creek, 0.94076, 7
+5, Great bar, 0.657409, 7
+5, Tyber Creek Pub, 0.752187, 8
+5, Pretty awesome place, 0.693762, 8
+5, great evening Tyber, 0.775256, 9
+5, great place, 0.623896, 9

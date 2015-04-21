@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+3, legal drinking age, 0.780216, 0
+3, Thursday nights, 0.667967, 0
+3, cheap drinks, 0.618493, 1
+3, busy nights, 0.623677, 2
+3, FYI, 0.210028, 2
+3, long break, 0.516706, 3
+3, Messy college nights, 0.946442, 4
+3, calm ones, 0.518595, 6
+3, fun, 0.239812, 7
+3, good option, 0.566053, 8
+3, age group, 0.498478, 8
+4, occasional stray, 0.649039, 0
+4, Concordia students, 0.613348, 0
+4, guilty pleasures, 0.768077, 2
+4, cheap beer, 0.549843, 2
+4, DJ playing music, 0.94995, 6
+4, projector screen, 0.625573, 6
+4, in-between class beer, 0.93835, 7
+4, sticky night, 0.607762, 7
+5, much-maligned Hall Building, 0.883929, 0
+5, Concordia students, 0.847452, 0
+5, Cheap drinks, 0.763957, 1
+5, weekends, 0.540624, 1
+5, random bar strangers, 0.901416, 2
+5, drunken university students, 0.885075, 2
+5, Cheap beer, 0.723682, 3
+5, Drop, 0.540822, 3
+5, Reggie, 0.730706, 4
+5, wide-eyed undergraduate student, 0.914344, 6
+5, LIZARD LOUNGES, 0.745031, 6
+5, Sticky floors, 0.764901, 7
+5, best place, 0.722987, 7
+5, f-in awesome time, 0.923066, 8
+5, Concordia institution, 0.798743, 8
+5, Super friendly staff, 0.922832, 9
+5, good-looking clientele, 0.772184, 9

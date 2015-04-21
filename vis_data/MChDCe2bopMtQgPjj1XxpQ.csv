@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+3, Michelin star standard, 0.95428, 0
+3, decent sized portion, 0.918627, 0
+3, Burger King, 0.837037, 1
+3, stale popcorn, 0.781338, 2
+3, beef burger.., 0.770106, 2
+3, video gambling machines, 0.889211, 3
+3, quick bit, 0.768803, 3
+3, chain restaurants, 0.861692, 5
+3, decent food, 0.94684, 6
+3, good starting location, 0.906941, 6
+3, decent chain pub, 0.979768, 7
+3, real ales, 0.93334, 7
+3, quick burger, 0.989043, 8
+3, honest pub, 0.838518, 8
+3, pint deal, 0.777758, 9
+3, quick drink, 0.768272, 9
+4, Big comfy chairs, 0.955144, 0
+4, gastro average Joe, 0.945492, 0
+4, food snobbery, 0.848823, 1
+4, fairness McCowans, 0.841592, 1
+4, cheap food, 0.862995, 2
+4, food tastes, 0.855649, 2
+4, typical pub food, 0.961847, 3
+4, McCowans, 0.882267, 5
+4, Yorkshire Pudding Rolls, 0.899965, 6
+4, Cineworld online, 0.830839, 6
+4, nice wee movie, 0.909593, 7
+4, good selection, 0.838246, 7
+4, Generous portion size, 0.925158, 8
+4, deep leather couch, 0.918038, 8
+4, half-decent gastro meal, 0.941043, 9

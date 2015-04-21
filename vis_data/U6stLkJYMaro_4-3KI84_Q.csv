@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, dollar steak, 0.753797, 0
+1, parker house rolls, 0.74294, 0
+1, non existent meal, 0.781249, 1
+1, greasy gooey mess, 0.764641, 1
+1, kobe short ribs, 0.871502, 2
+1, Brand Steakhouse ZERO, 0.761741, 2
+1, lobster tail, 0.787544, 3
+1, place, 0.778679, 3
+1, meal, 0.867064, 4
+1, experience, 0.705951, 4
+1, steak, 0.970899, 5
+1, Monte Carlo, 0.914882, 5
+1, Ribeye steak, 0.772638, 6
+1, Brand Steakhouse, 0.762663, 6
+1, steak house, 0.831097, 7
+1, high end steak, 0.822326, 7
+1, steak medium, 0.757447, 8
+1, extremely high hopes, 0.745169, 8
+1, absolute favorite cut, 0.736799, 9
+1, Techno music playing, 0.732196, 9
+2, water Steak, 0.635361, 0
+2, good complimentary bread, 0.614808, 0
+2, choclate cake, 0.596668, 2
+2, high end, 0.591709, 2
+2, pretty average, 0.636202, 3
+2, Las Vegas, 0.625958, 3
+2, steak, 0.935818, 4
+2, drinks, 0.635905, 4
+2, food, 0.931134, 5
+2, service, 0.762584, 5
+2, place, 0.707894, 6
+2, ultimate steak, 0.70666, 6
+2, best steak, 0.696634, 7
+2, good steak, 0.682242, 7
+2, rib eye, 0.725691, 8
+2, best steak houses, 0.646482, 8
+3, chilean sea bass, 0.775209, 0
+3, expensive filet/ steak, 0.741029, 0
+3, fancy steak house, 0.739962, 1
+3, medium-rare strip steak, 0.732296, 1
+3, expensive steak, 0.709775, 2
+3, filet mignon, 0.7701, 3
+3, great steak house, 0.764968, 3
+3, Monte Carlo, 0.925857, 4
+3, steak, 0.958569, 5
+3, service, 0.873115, 5
+3, hot rocks, 0.730322, 6
+3, steakhouse, 0.723351, 6
+3, Veal Porterhouse steak, 0.772441, 7
+3, light group restaurant, 0.755499, 7
+3, steak cut, 0.710415, 8
+3, good steak, 0.752985, 9
+3, nice steak dinner, 0.749448, 9
+4, good steak, 0.557705, 0
+4, chilean sea bass, 0.543125, 0
+4, steak eater, 0.533739, 2
+4, yelp spring break, 0.564657, 3
+4, average steak house, 0.564058, 3
+4, steak, 0.866735, 5
+4, food, 0.672422, 5
+4, monte carlo, 0.988952, 6
+4, casino floor, 0.660963, 6
+4, ultimate steak, 0.755939, 7
+4, sea bass, 0.645819, 7
+4, great steak dinner, 0.595585, 8
+4, Great steak house, 0.569933, 8
+5, steak place, 0.542454, 0
+5, bone-in filet mignon, 0.541223, 0
+5, prix fixe, 0.548383, 2
+5, steak sauce whore, 0.543844, 3
+5, prix fixe menu, 0.532561, 3
+5, sea bass, 0.742752, 4
+5, baked mac, 0.558504, 4
+5, monte carlo, 0.903135, 5
+5, cheese, 0.726119, 5
+5, steak, 0.872325, 6
+5, filet mignon, 0.695834, 6
+5, chilean sea bass, 0.703275, 7
+5, hot rocks, 0.648092, 7
+5, great service, 0.559271, 8
+5, BESt tomahawk steak, 0.553103, 8
+5, New York steak, 0.55936, 9

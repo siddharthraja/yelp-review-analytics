@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, entire life, 0.637304, 0
+1, waitress notices, 0.637007, 0
+1, rude comments, 0.909672, 1
+1, table, 0.431933, 2
+1, sigh, 0.377761, 2
+1, pixie sticks, 0.59756, 3
+1, manager, 0.520183, 3
+1, new people, 0.814786, 6
+1, satisfactory experience, 0.679846, 7
+1, Thanks, 0.385075, 7
+3, spicy barbecue sauce, 0.898706, 0
+3, medium sauce, 0.74264, 0
+3, Daytona Beach wings, 0.78144, 3
+3, little spice, 0.521043, 3
+3, girlfriend, 0.468778, 6
+3, Hooters wings, 0.90165, 7
+3, chipotle honey, 0.572632, 7
+3, tangy sticky sauce, 0.946989, 8
+3, sesame chicken dish, 0.721244, 8
+4, fun, 0.593731, 0
+4, experience, 0.592508, 0
+4, Good food, 0.921798, 7
+4, pregnant waitress, 0.989794, 8
+4, way, 0.502323, 8
+5, Alhena, 0.452185, 0
+5, manager., 0.451674, 0
+5, gourmet, 0.462096, 1
+5, place, 0.456827, 1
+5, bar food, 0.644613, 2
+5, restaurants, 0.456553, 2
+5, girls, 0.565312, 5
+5, Hooters, 0.766251, 6
+5, waitresses, 0.637639, 6
+5, manager, 0.449848, 7
+5, parmesan chicken wings, 0.934997, 8
+5, Excellent location, 0.689831, 8
+5, nice tips, 0.695073, 9
+5, experienced Hostess, 0.690048, 9

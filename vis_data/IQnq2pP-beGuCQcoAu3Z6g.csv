@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+1, fried cheese, 0.659689, 0
+1, slight garlic taste, 0.928317, 1
+1, kids drinks, 0.630947, 1
+1, good pizza look, 0.897553, 2
+1, great description, 0.675161, 2
+1, time, 0.361068, 3
+1, sauce, 0.496415, 4
+1, regular cheese sticks, 0.941406, 7
+1, better places, 0.652462, 7
+3, buffalo chicken pizza, 0.774104, 0
+3, somewhat negative review, 0.936457, 2
+3, prior visit, 0.497938, 2
+3, gift card, 0.866478, 3
+3, Friday evening, 0.464934, 3
+3, special sauce, 0.545396, 6
+3, chicken/chili nachos, 0.46315, 6
+3, good sign, 0.80421, 7
+3, previous visit, 0.408114, 7
+3, buffalo sauce, 0.506116, 8
+3, social media, 0.485423, 8
+4, Freeport Pizza Kitchen, 0.9063, 1

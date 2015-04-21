@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, green eggs, 0.992207, 0
+1, untouched green eggs, 0.977171, 0
+1, waste, 0.45533, 1
+1, old guy, 0.887401, 2
+1, fun, 0.450405, 2
+1, potential, 0.455501, 3
+1, street, 0.452455, 3
+1, waitress, 0.496472, 6
+1, Went, 0.487974, 6
+1, Cozy atmosphere, 0.748414, 7
+2, fish n chips, 0.708384, 0
+2, brunch, 0.346227, 0
+2, Indian dishes, 0.750129, 1
+2, disappointment, 0.3616, 1
+2, vegetables, 0.319076, 2
+2, waste, 0.295415, 2
+2, food, 0.399184, 3
+2, beers, 0.309902, 3
+2, place, 0.524482, 5
+2, butter chicken, 0.799231, 6
+2, chicken sandwich, 0.795606, 6
+2, okay options, 0.713542, 7
+2, better stuff, 0.672259, 7
+2, big basic breakfast, 0.973565, 8
+2, Nice servers, 0.685163, 8
+2, thing, 0.329523, 9
+2, service, 0.311842, 9
+3, nourriture est bonne, 0.734749, 0
+3, pub au, 0.716101, 0
+3, Cameron Diaz, 0.559146, 2
+3, Jude Law, 0.558728, 2
+3, cute English/LA Christmas, 0.694547, 3
+3, Kate Winslet, 0.566725, 3
+3, Irish pub menu, 0.852185, 6
+3, il est plaisant, 0.739245, 6
+3, est le pub, 0.978713, 7
+3, Irish pub, 0.880019, 7
+3, lovely pub, 0.777822, 8
+3, Whisky par contre, 0.660025, 8
+4, little neighbourhood pub, 0.786357, 0
+4, tout petit pub, 0.779105, 0
+4, pretty big group, 0.6876, 1
+4, terrace chugging pints, 0.679185, 2
+4, nous nous sommes, 0.774584, 6
+4, sur les tables, 0.757365, 6
+4, average pub food, 0.800131, 7
+4, regular pub menu, 0.764363, 7
+4, good pub food, 0.940849, 8
+4, good Irish pub, 0.800762, 8
+4, bustling Monkland Avenue, 0.718501, 9
+4, good selection, 0.634277, 9
+5, Friendly staff, 0.381968, 8
+5, great place, 0.370651, 8
+5, comfortable fun evening, 0.914051, 9
+5, Old Orchard Pub, 0.883162, 9

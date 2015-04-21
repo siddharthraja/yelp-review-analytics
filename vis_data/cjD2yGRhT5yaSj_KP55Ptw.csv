@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, jerk chicken salad, 0.945499, 0
+1, tuna salad, 0.626384, 0
+1, unseasoned fish tacos, 0.761198, 1
+1, bitter plaintain chips, 0.751153, 1
+1, food, 0.827117, 2
+1, spacey waitress, 0.627633, 2
+1, mango salad, 0.620177, 3
+1, best food, 0.542989, 3
+1, drinks, 0.40973, 4
+1, fried appetizer, 0.619605, 6
+1, better options, 0.551309, 6
+1, basic appetizer, 0.570096, 7
+1, sit-down restaurant, 0.599386, 8
+1, quick lunch, 0.596571, 8
+1, thanks, 0.34909, 9
+1, mention, 0.347814, 9
+2, great Caribbean food, 0.648246, 0
+2, Jamaican Curry bowl, 0.635281, 0
+2, tofu cracklins, 0.634604, 1
+2, original Mad Mex, 0.627552, 1
+2, blood orange mimosa, 0.622015, 2
+2, blood orange juice, 0.618649, 2
+2, mad mex, 0.95363, 3
+2, best menu items, 0.641938, 3
+2, Big Burrito, 0.890338, 4
+2, black bean dip, 0.821202, 4
+2, service, 0.614378, 5
+2, Big Burrito restaurant, 0.741704, 6
+2, sweet potato fries, 0.689093, 6
+2, neat little place, 0.621644, 7
+2, cool Jamaican atmosphere, 0.603711, 7
+2, saffron rice, 0.613829, 8
+2, Jamaican green curry, 0.627988, 9
+2, nice relaxed evening, 0.609722, 9
+3, Jamaican jerk wings, 0.537032, 0
+3, Kaya several times, 0.534419, 0
+3, Kaya chips, 0.56594, 2
+3, stars, 0.503003, 2
+3, bit, 0.504979, 3
+3, kaya, 0.9322, 4
+3, food, 0.744339, 4
+3, sweet potato fries, 0.730218, 5
+3, big burrito, 0.645325, 5
+3, Kaya next time, 0.551222, 6
+3, appetizers, 0.497785, 6
+3, kaya burger, 0.808063, 7
+3, green curry, 0.550193, 7
+3, jamaican jerk, 0.561163, 8
+3, jerk chicken wings, 0.559864, 8
+3, Kaya restaurant, 0.545303, 9
+3, big burrito chain, 0.485466, 9
+4, Green Curry Vegetables, 0.530569, 0
+4, Tacos Al Pastor, 0.497419, 0
+4, pork belly tacos, 0.538821, 1
+4, Big Burrito restaurants, 0.504933, 3
+4, Kaya chips, 0.527853, 4
+4, spicy, 0.522669, 4
+4, time, 0.557784, 5
+4, restaurant, 0.53286, 5
+4, fish tacos, 0.975885, 6
+4, kaya, 0.79129, 6
+4, jamaican jerk wings, 0.659436, 7
+4, black bean dip, 0.630909, 7
+4, jamaican green curry, 0.618207, 8
+4, crispy fish tacos, 0.603812, 8
+4, great food, 0.525946, 9
+4, experiences. great food, 0.51085, 9
+5, kaya burger. egg, 0.41171, 0
+5, Kaya Juice, 0.409392, 0
+5, normal Kaya standard, 0.406988, 2
+5, past Kaya, 0.404431, 3
+5, fish tacos, 0.91151, 4
+5, big burrito, 0.35421, 4
+5, kaya, 0.982677, 5
+5, bean dip, 0.534126, 5
+5, tofu tacos, 0.433924, 6
+5, pittsburgh, 0.355684, 6
+5, kaya special sauce, 0.475574, 7
+5, Kaya Burger-just, 0.425145, 7
+5, sweet potato fries, 0.713707, 8
+5, kaya burger, 0.688567, 8
+5, veggie Kaya burger, 0.474266, 9

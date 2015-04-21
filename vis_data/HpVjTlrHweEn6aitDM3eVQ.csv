@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, Grey Goose Orange, 0.868478, 0
+1, big monkey, 0.707959, 0
+1, Mr. Manager, 0.684054, 1
+1, pretentious attitude, 0.683167, 1
+1, credit card, 0.877319, 2
+1, snotty little voice, 0.85512, 2
+1, old girls, 0.692956, 3
+1, group, 0.618666, 3
+1, drinks, 0.906375, 4
+1, place, 0.629406, 4
+1, table, 0.805404, 5
+1, Melvin, 0.572628, 5
+1, cocktail waitress, 0.934201, 6
+1, contact information, 0.674763, 6
+1, great drinks, 0.749953, 7
+1, free drinks, 0.748674, 7
+1, great jazz, 0.673399, 8
+1, audacity, 0.54275, 9
+2, Scottsdale nightlife scene, 0.902189, 0
+2, club owners, 0.719939, 0
+2, bad start attitude, 0.912157, 1
+2, fake ripoff crap, 0.865196, 1
+2, Malibu Rum, 0.891623, 2
+2, douche bags shirts, 0.824266, 2
+2, people, 0.850695, 3
+2, social status, 0.701743, 3
+2, door guy, 0.888921, 4
+2, completely different drink, 0.817171, 6
+2, Bud Light, 0.695338, 6
+2, nicest spots, 0.690575, 7
+2, Old Town, 0.67674, 7
+2, eye candy, 0.678184, 8
+3, sad little shanties, 0.913391, 0
+3, true Scottsdale douches, 0.88252, 0
+3, minimum wage bouncer, 0.94141, 1
+3, Drink prices, 0.748634, 1
+3, waitress, 0.7683, 2
+3, mood water, 0.764957, 2
+3, nice little oasis, 0.909603, 3
+3, initial terrible experience, 0.88335, 3
+3, girls, 0.66535, 5
+3, nightclub hotel, 0.76851, 6
+3, LA mind, 0.752794, 6
+3, downtown LA, 0.947415, 7
+3, rooftop bar, 0.785148, 7
+3, better view, 0.771204, 8
+3, large parties, 0.760246, 8
+3, fancy bar/lounge, 0.755733, 9
+4, hotel bar area, 0.702496, 0
+4, rooftop bar, 0.57439, 0
+4, retarded scene, 0.588854, 1
+4, boob jobs, 0.586696, 1
+4, coolest hotel bars, 0.698462, 2
+4, mini pushing fight, 0.666124, 2
+4, single request, 0.541485, 3
+4, place, 0.736507, 4
+4, hotel, 0.77691, 5
+4, people, 0.592051, 5
+4, kobe beef sliders, 0.934811, 6
+4, mahi mahi tacos, 0.739659, 6
+4, lounge area, 0.702904, 7
+4, scented candles/air freshener, 0.671574, 7
+4, pretty good cocktail, 0.709033, 8
+4, pregame festivities, 0.575772, 8
+4, past weekend, 0.675755, 9
+4, great place, 0.574989, 9
+5, best beef id, 0.753641, 0
+5, different sections, 0.496451, 0
+5, hotel, 0.304612, 3
+5, Kobe Beef Sliders, 0.83265, 6
+5, birthday, 0.278342, 6
+5, nice lounge chairs, 0.914345, 7
+5, best lounge, 0.667357, 7
+5, Scottsdale area, 0.524567, 8
+5, great view, 0.475739, 8
+5, great spot, 0.474286, 9

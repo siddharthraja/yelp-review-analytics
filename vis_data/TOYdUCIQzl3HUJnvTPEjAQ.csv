@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, business, 0.549017, 0
+1, Detour bar, 0.949052, 2
+1, grill, 0.704263, 2
+2, old town midwest, 0.996252, 0
+2, big glass, 0.784213, 0
+2, sorta thing, 0.718686, 1
+2, breading, 0.422866, 1
+2, cook btw, 0.773757, 2
+2, eat, 0.399521, 2
+2, Friday FISH FRY, 0.96648, 3
+2, dive bar, 0.768327, 3
+2, sticky coke, 0.752994, 8
+2, ride home, 0.688836, 8
+3, certain nights, 0.727225, 0
+3, divey, 0.449028, 0
+3, Single long bar, 0.908163, 2
+3, horrible waiters, 0.808993, 2
+3, nachos, 0.527062, 6
+3, BOMB, 0.481456, 6
+3, work locals, 0.788494, 7
+3, great singers, 0.697917, 7
+3, wait staff, 0.758271, 8
+5, kick ass divey, 0.92151, 1
+5, divey bar, 0.788325, 1
+5, drinks, 0.384141, 3
+5, bucks, 0.380805, 3
+5, open mic session, 0.98777, 6
+5, Tuesday night, 0.634669, 6
+5, great.The service, 0.620751, 7
+5, food, 0.356015, 7
+5, place, 0.366762, 8
+5, people, 0.366529, 8

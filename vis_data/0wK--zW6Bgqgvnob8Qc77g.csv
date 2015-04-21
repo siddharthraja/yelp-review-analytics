@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, UFC, 0.61468, 0
+1, fights, 0.598607, 0
+1,  Food- taste, 0.7463, 1
+1, wifi, 0.909379, 2
+1, Waitress, 0.611267, 2
+1, home, 0.546984, 3
+2, bloody Marys, 0.828194, 0
+2, white piece, 0.77988, 0
+2, little vodka, 0.840304, 1
+2, bad business, 0.765359, 1
+2, bloody Mary bar, 0.977287, 2
+2, neighborhood bar, 0.77273, 2
+2, buzztime trivia, 0.828085, 3
+2, texas holdem, 0.804662, 3
+2, Beer prices, 0.796279, 6
+2, slice, 0.487507, 7
+2, toast, 0.483891, 7
+2, Famous Sams, 0.859579, 8
+2, cranberry, 0.493506, 8
+3, cover band circuit, 0.705143, 0
+3, decent bar food, 0.695182, 0
+3, particular cover band, 0.691507, 1
+3, painful death, 0.557079, 1
+3, rocker grandma brigade, 0.701302, 2
+3, regular basis, 0.698241, 2
+3, cover charge, 0.565983, 3
+3, dive bars, 0.541699, 3
+3, Famous Sam, 0.904907, 4
+3, sports bar, 0.879663, 5
+3, people, 0.484744, 5
+3, bucks UFC, 0.560079, 6
+3, stage location, 0.555736, 6
+3, pretty typical sports, 0.767619, 7
+3, bar type place, 0.743516, 7
+3, cover bands, 0.575671, 8
+3, awesome bartenders, 0.571633, 8
+3, Nice nice patio, 0.680447, 9
+4, booth restaurant seating, 0.84841, 0
+4, hard alcohol drinks, 0.83019, 0
+4, Check-in offer, 0.665749, 1
+4, wink, 0.549822, 1
+4, Food selection, 0.710041, 2
+4, fight nights, 0.657551, 3
+4, ons, 0.536815, 3
+4, bf, 0.600681, 4
+4, good time, 0.831403, 6
+4, neighborhood trivia rotation, 0.801244, 6
+4, huge drink selection, 0.831825, 7
+4, good food, 0.800398, 7
+4, beer selection, 0.981442, 8
+4, great pizza joint, 0.823259, 8
+4, french fries home, 0.846715, 9
+5, all-time favorite bar, 0.99539, 0
+5, dozen different beers, 0.94453, 0
+5, crispy chicken salad, 0.94025, 1
+5, usual pain, 0.765012, 2
+5, butt, 0.633304, 2
+5, trivia games, 0.799889, 3
+5, Monday night football, 0.928153, 6
+5, USA Baseball Champions, 0.911853, 6
+5, Beautiful Little Bartender, 0.921572, 7
+5, Great bar, 0.811584, 7
+5, Friendly dive bar, 0.988409, 8
+5, baby Famous Sams, 0.928745, 8
+5, Famous Sam, 0.934538, 9
+5, favorite place, 0.78059, 9

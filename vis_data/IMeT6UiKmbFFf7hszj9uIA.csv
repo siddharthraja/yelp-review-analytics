@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, classic 80s tunes, 0.924287, 0
+1, free drink, 0.720724, 0
+1, WTF, 0.476213, 1
+1, time, 0.464118, 1
+1, play air-guitar, 0.770099, 2
+1, bad actors, 0.763955, 2
+1, band, 0.733349, 3
+1, work night, 0.728437, 3
+1, Spazmatics, 0.552493, 4
+1, vocals, 0.483275, 6
+1, keyboards, 0.478395, 6
+1, line guard/ticket taker, 0.914146, 7
+1, light conversation, 0.738261, 7
+1, big deal, 0.743848, 8
+1, bothers, 0.491631, 8
+4, cover band, 0.700895, 0
+4, large dance floor, 0.657292, 0
+4, downside, 0.348645, 1
+4, way home, 0.490145, 2
+4, suggestion, 0.336235, 2
+4, south point showroom, 0.968825, 3
+4, higher pried drinks, 0.683544, 3
+4, good time, 0.715565, 6
+4, crazy mixed bag, 0.674238, 6
+4, great guitarist, 0.499996, 7
+4, hell act, 0.499082, 7
+4, nice crowd, 0.556013, 8
+4, goofy outfits, 0.539549, 8
+4, great live performance, 0.664385, 9
+4, plenty, 0.41819, 9
+5, Ice Ice Baby, 0.907004, 0
+5, gold tequila shots, 0.896645, 0
+5, entire crowd, 0.839039, 1
+5, complete ass, 0.807125, 1
+5, Vanilla Ice, 0.910979, 2
+5, long forgot, 0.806996, 2
+5, big hair band, 0.921182, 3
+5, good drink specials, 0.88381, 3
+5, night, 0.912115, 5
+5, crowd, 0.858897, 5
+5, drink specials, 0.903171, 6
+5, ok music, 0.83346, 6
+5, old music lovin, 0.898064, 7
+5, Club Madrid/Sunset Station, 0.897757, 7
+5, dance floor, 0.973352, 8
+5, great time, 0.922228, 8
+5, super cool way, 0.875211, 9
+5, great atmosphere, 0.835498, 9

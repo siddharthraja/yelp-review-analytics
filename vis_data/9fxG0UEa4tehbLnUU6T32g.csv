@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+1, wings, 0.780148, 0
+1, fries, 0.667944, 0
+1, long time, 0.894033, 2
+1, draft, 0.626325, 2
+1, carrot strip, 0.978064, 3
+1, flavor, 0.616407, 3
+1, taste, 0.620992, 7
+1, hand, 0.544391, 7
+2, food, 0.954062, 1
+2, Service, 0.820783, 1
+4, club sandwich, 0.606411, 0
+4, restaurant manager, 0.563532, 0
+4, dark smoky bar, 0.889413, 1
+4, problem, 0.345392, 2
+4, quart, 0.403846, 3
+4, throw, 0.383416, 3
+4, strip mall, 0.644926, 4
+4, honey mustard, 0.96268, 5
+4, min, 0.377902, 6
+4, matter, 0.35725, 6
+4, ribs, 0.387492, 7
+4, homemade, 0.373098, 7
+4, delicious food, 0.564854, 8
+4, Super friendly staff, 0.746639, 9

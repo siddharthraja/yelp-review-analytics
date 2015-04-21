@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, Hearts game, 0.678337, 0
+1, er culture, 0.622361, 0
+1, football, 0.481721, 1
+1, thing, 0.362812, 1
+1, life, 0.413983, 2
+1, costs, 0.363919, 2
+1, bar, 0.497227, 3
+1, Hearts fan, 0.965411, 4
+1, Home Support, 0.631468, 6
+1, wee day trip, 0.599636, 6
+1, review, 0.360295, 7
+1, sums, 0.385325, 8
+2, Hearts fans, 0.781645, 0
+2, great message, 0.774342, 0
+2, clientele, 0.490698, 1
+2, Scottish cities, 0.759643, 2
+2, Amy, 0.464775, 3
+2, home support, 0.951229, 6
+2, trouble, 0.470615, 6
+2, plenty other pubs, 0.752557, 7
+2, Hearts fan, 0.737913, 7
+2, street smart education, 0.893754, 8
+2, punters, 0.489091, 8
+3, Robertsons Bar, 0.812234, 0
+3, pubs, 0.460947, 0
+3, meal, 0.449131, 2
+3, tatty way, 0.663991, 3
+3, limited food, 0.611515, 3
+3, usual standard spirits, 0.842408, 6
+3, drink, 0.498532, 6
+3, pretty old-fashioned premise, 0.977086, 7
+3, wee cosy way, 0.897986, 7
+3, different beers, 0.639353, 8
+3, good selection, 0.63096, 8

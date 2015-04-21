@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, SLS Las Vegas, 0.71381, 0
+1, SLS brand, 0.68154, 0
+1, ........., 0.777253, 1
+1, parking garage elevators, 0.708488, 1
+1, casino floor, 0.839517, 2
+1, parking garage, 0.735218, 2
+1, old sahara, 0.721907, 3
+1, night, 0.719471, 3
+1, room, 0.900759, 4
+1, sls, 0.900262, 4
+1, grand opening, 0.790995, 5
+1, people, 0.783045, 5
+1, sahara hotel, 0.704901, 6
+1, room service offerings, 0.685782, 6
+1, 99 cents store, 0.697564, 7
+1, SLS stand, 0.692639, 7
+1, SLS Hotel, 0.710532, 9
+2, SLS Miami Beach, 0.702678, 0
+2, SLS Buffet, 0.693501, 0
+2, Las Vegas hotel, 0.691136, 1
+2, room service charges, 0.687418, 1
+2, SLS Beverly Hills, 0.703199, 2
+2, room service, 0.696808, 2
+2, Las Vegas casino, 0.712239, 3
+2, Parking garage elevators, 0.697325, 3
+2, room, 0.932159, 4
+2, sls, 0.919777, 4
+2, casino, 0.907516, 5
+2, hotel, 0.883464, 5
+2, grand opening, 0.752544, 6
+2, new SLS, 0.714004, 6
+2, casino floor, 0.755987, 7
+2, SLS website, 0.690005, 7
+2, SLS Las Vegas, 0.72156, 8
+2, SLS Casino, 0.707826, 8
+2, Casino great success, 0.700282, 9
+2, nice city hotel, 0.692899, 9
+3, Sahara casino floor, 0.810739, 0
+3, Miami/South Beach SLS, 0.786539, 0
+3, hotel guest, 0.779995, 2
+3, killer room rates, 0.778706, 2
+3, casino floor, 0.866644, 3
+3, casino, 0.971971, 4
+3, las vegas, 0.965748, 4
+3, hotel, 0.969774, 5
+3, sls, 0.95388, 5
+3, food, 0.816153, 6
+3, old Sahara casino, 0.814028, 6
+3, new hotel, 0.801423, 7
+3, packed casino floor, 0.797548, 7
+3, small casino, 0.81148, 8
+3, casino gaming area, 0.798065, 8
+3, nice intimate experience, 0.772823, 9
+4, Vegas hotel rooms, 0.639711, 0
+4, SLS Beverly Hills, 0.620337, 0
+4, bad reviews, 0.656769, 2
+4, parking garage, 0.594244, 2
+4, room service menu, 0.611373, 3
+4, world tower, 0.796856, 4
+4, stay, 0.615545, 4
+4, hotel, 0.99605, 5
+4, room, 0.874324, 5
+4, Las Vegas, 0.750015, 6
+4, griddle cafe, 0.700618, 6
+4, SLS Hotel, 0.675093, 7
+4, hotel rooms, 0.661806, 7
+4, SLS Las Vegas, 0.641769, 8
+4, SLS social media, 0.633383, 8
+4, new SLS, 0.622661, 9
+4, nice sized hotel, 0.620276, 9
+5, standard hotel room, 0.634162, 0
+5, SLS Beverly Hills, 0.63301, 0
+5, bad reviews, 0.636677, 1
+5, Monkey Bar, 0.642323, 2
+5, Las Vegas strip, 0.63763, 2
+5, Vegas hotel, 0.608187, 3
+5, reviews, 0.63833, 4
+5, star hotel, 0.607709, 4
+5, hotel, 0.939355, 5
+5, place, 0.765775, 5
+5, Las Vegas, 0.904666, 6
+5, sls, 0.886009, 6
+5, SLS Las Vegas, 0.762476, 7
+5, sayers club, 0.753992, 7
+5, great job sls, 0.724021, 8
+5, Good job SLS, 0.722914, 8
+5, great new hotel, 0.637451, 9
+5, Thanks SLS, 0.626779, 9

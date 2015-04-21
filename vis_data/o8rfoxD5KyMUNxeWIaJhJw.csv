@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+3, Cheap drinks, 0.790736, 0
+3, clean place, 0.660146, 0
+3, little neighborhood bar, 0.986052, 1
+3, way, 0.339637, 2
+3, good stop, 0.622827, 6
+3, area, 0.340835, 6
+4, Great neighborhood bar, 0.939882, 0
+4, non-smoking bar, 0.549838, 0
+4, pretty serious air, 0.542396, 6
+4, ceiling, 0.289721, 6
+4, Pope, 0.292579, 7
+4, grunge scene, 0.54538, 8
+4, sandwich options, 0.513011, 8
+5, diet coke, 0.885729, 0
+5, grenadine, 0.668325, 0
+5, Cheers, 0.607236, 7
+5, whiskey, 0.587515, 7
+5, mean drink, 0.90014, 8
+5, bartender, 0.61233, 8
+5, Polish Hill, 0.851929, 9
+5, gem, 0.590938, 9

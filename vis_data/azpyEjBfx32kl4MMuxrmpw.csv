@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, avail toilet, 0.975882, 1
+1, foul odor, 0.940848, 1
+1, pleasurable experience, 0.841835, 2
+1, mockery, 0.617049, 2
+1, time, 0.517837, 3
+2, pop rock bands, 0.738747, 0
+2, random local punk, 0.732641, 0
+2, self-absorbed hipster crowd, 0.804793, 1
+2, exorbitant cover charge, 0.734727, 1
+2, strict genre, 0.48982, 2
+2, wrong night, 0.474883, 2
+2, glasses crowd, 0.582792, 3
+2, different facets, 0.507047, 3
+2, decent bands, 0.534782, 6
+2, scarf wearing, 0.531483, 6
+2, trunk space, 0.90104, 7
+2, staff, 0.247366, 7
+2, cute little place, 0.721942, 8
+2, Great customer service, 0.716721, 8
+3, Trunk Space, 0.934058, 0
+3, completely different crowd, 0.803024, 0
+3, long way, 0.517492, 1
+3, couple, 0.409401, 1
+3, awkward space, 0.526658, 2
+3, portion, 0.349149, 2
+3, good bit, 0.523404, 3
+3, intermission, 0.367929, 3
+3, overall experience, 0.528426, 7
+3, Fans, 0.341176, 7
+4, totally sketchy van, 0.706882, 0
+4, music scene, 0.66386, 0
+4, completely empty parking, 0.655856, 1
+4, doors, 0.643325, 1
+4, Trunk Space shows, 0.762758, 2
+4, Good little space, 0.721098, 2
+4, Trunk Space cat, 0.766779, 3
+4, place, 0.688659, 4
+4, Trunk Space, 0.970939, 5
+4, Big Plus, 0.669407, 6
+4, quaint places, 0.666462, 6
+4, strangest musical act, 0.71788, 7
+4, unique soft drinks, 0.711326, 7
+4, good local artists, 0.726911, 8
+4, cool local bands, 0.725969, 8
+4, best place, 0.673198, 9
+4, indie artists, 0.669312, 9
+5, trunk space family, 0.645906, 0
+5, phoenix local scene., 0.619744, 0
+5, cute little bathroom, 0.614713, 1
+5, new home, 0.529999, 1
+5, little art gallery, 0.641369, 3
+5, straight edge night, 0.607546, 3
+5, place, 0.690639, 4
+5, friends band play, 0.59744, 4
+5, trunk space, 0.958843, 5
+5, Trunk space books, 0.651771, 6
+5, sweet Bikini Lounge, 0.629115, 6
+5, bikini lounge, 0.878576, 7
+5, place rocks, 0.544771, 7
+5, white photo booth, 0.637818, 8
+5, downtown phoenix, 0.63455, 8
+5, photo booth, 0.749584, 9
+5, vintage photo booth, 0.611807, 9

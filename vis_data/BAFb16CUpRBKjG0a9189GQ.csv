@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, big sports event, 0.488909, 0
+1, terrible service, 0.520349, 1
+1, bar food, 0.512165, 1
+1, credit card, 0.577946, 2
+1, World Series, 0.518797, 2
+1, sports bar, 0.659648, 3
+1, big screen, 0.611977, 3
+1, food, 0.900241, 4
+1, service, 0.779425, 4
+1, place, 0.966023, 5
+1, table, 0.66031, 5
+1, big screen tvs, 0.50635, 6
+1, cool sports bar, 0.501911, 6
+1, bbq chicken pizza, 0.545467, 8
+1, great job emeril, 0.530755, 8
+1, Emeril Lagasse Food, 0.527675, 9
+1, sweet potato fries, 0.5048, 9
+2, sports stadium theme, 0.52932, 0
+2, sports book type, 0.524469, 0
+2, bar junk food, 0.55201, 1
+2, blah bar food, 0.534936, 1
+2, bar food, 0.671623, 2
+2, sports bar food, 0.568701, 2
+2, tired old food, 0.530926, 3
+2, average food, 0.523622, 3
+2, food, 0.923628, 4
+2, sports bar, 0.805005, 4
+2, sports book, 0.771951, 5
+2, place, 0.750695, 5
+2, good food, 0.518992, 6
+2, sports bar/sports book, 0.504063, 6
+2, great sports bar, 0.526754, 7
+2, solid food menu, 0.511979, 7
+2, great place, 0.544348, 8
+2, best sports experience, 0.505843, 8
+3, ultimate sports bar, 0.691461, 0
+3, ughhhh Good food, 0.718503, 1
+3, true sports bar, 0.70376, 1
+3, average bar food, 0.740316, 2
+3, regular bar food, 0.723837, 2
+3, bar food, 0.786836, 3
+3, good food, 0.751534, 3
+3, sports bar, 0.959926, 4
+3, sports book, 0.743813, 4
+3, food, 0.9473, 5
+3, place, 0.88128, 5
+3, sports bar food, 0.736708, 6
+3, Typical bar food, 0.697311, 6
+3, big screen, 0.773609, 7
+3, stadium style, 0.744134, 7
+3, great place, 0.822981, 8
+3, banana cream pie, 0.743946, 8
+3, good quality food, 0.717712, 9
+4, traditional bar food, 0.734569, 0
+4, stadium seating section, 0.708101, 0
+4, great sports bar, 0.725612, 1
+4, bar food, 0.83095, 2
+4, sports bar food, 0.761204, 2
+4, french dip, 0.952001, 3
+4, onion rings, 0.772903, 3
+4, place, 0.898019, 4
+4, nachos, 0.730584, 4
+4, food, 0.92693, 5
+4, sports bar, 0.889094, 5
+4, stadium seating, 0.849179, 6
+4, vegas, 0.798889, 6
+4, sports book, 0.868022, 7
+4, good service, 0.731256, 7
+4, great place, 0.784907, 8
+4, sports fans, 0.709589, 8
+4, Vegas sports book/sports, 0.701853, 9
+5, sports book area, 0.580588, 0
+5, mini sports stadium, 0.550814, 0
+5, average sports bar, 0.531478, 1
+5, massive sports bar, 0.526564, 2
+5, Best sports bar, 0.606258, 3
+5, Sunday night game, 0.528134, 3
+5, tv, 0.556241, 4
+5, nachos, 0.550285, 4
+5, sports book, 0.913683, 5
+5, place, 0.894581, 5
+5, food, 0.769851, 6
+5, stadium seating, 0.748656, 6
+5, Great stadium seating, 0.570329, 7
+5, buffalo wings, 0.567916, 7
+5, great place, 0.710523, 8
+5, great food, 0.685192, 8
+5, penny Great place, 0.554646, 9
+5, amazing stadium seating, 0.535942, 9

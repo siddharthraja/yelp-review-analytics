@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, odd smelling, 0.475355, 0
+1, ned clientel, 0.474991, 0
+1, horrible place, 0.462375, 1
+1, drunk girl, 0.420449, 1
+1, Lava Ignite, 0.929509, 2
+1, friday night doesnt, 0.718827, 2
+1, student night, 0.426742, 3
+1, sticky floors, 0.525013, 6
+1, better clubbing experience, 0.786541, 9
+1, plenty, 0.252445, 9
+2, different style, 0.662398, 0
+2, mention, 0.47262, 0
+2, Cav, 0.830024, 1
+2, nicer clubs, 0.668912, 1
+2, plenty, 0.462013, 3
+2, reason, 0.454628, 3
+2, place, 0.521999, 6
+2, floors, 0.46069, 6
+2, Sunday nights, 0.907294, 7
+2, clientele, 0.460693, 7
+3, huge main room, 0.904788, 0
+3, mainstream generic chart/dance/indie/whatever, 0.897798, 0
+3, Whichever bloody idiot, 0.889848, 1
+3, drunk scummy punters, 0.87876, 1
+3, overly fake-tanned girls, 0.903519, 2
+3, club- club names, 0.889964, 2
+3, hip urban scene, 0.865719, 3
+3, Lava, 0.780825, 3
+3, people, 0.731778, 4
+3, music, 0.697156, 4
+3, different rooms, 0.919336, 5
+3, plus points, 0.779267, 6
+3, R&B room, 0.771252, 6
+3, cheesy pop place, 0.933589, 7
+3, cheese room, 0.896141, 7
+3, different kinds, 0.773884, 8
+3, best thing, 0.760756, 8
+4, massive space, 0.685726, 0
+4, streets, 0.456044, 0
+4, row, 0.4572, 1
+4, power, 0.453587, 1
+4, dance floor, 0.956204, 2
+4, Easter club night, 0.869969, 2
+4, cheese room upstairs, 0.961674, 3
+4, stylish club, 0.761182, 3
+4, bouncers, 0.566466, 4
+4, drinks, 0.739446, 5
+4, Calvin Harris, 0.673352, 6
+4, reasonable entry prices, 0.912302, 7
+4, Lava Ignite, 0.756367, 7
+4, inexpensive night, 0.703945, 8
+4, dance floors, 0.698832, 8

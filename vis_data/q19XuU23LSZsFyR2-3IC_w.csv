@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+2, red pepper soup, 0.779164, 0
+2, fine ground pepper, 0.749873, 0
+2, poorly cleaned plate, 0.750456, 1
+2, bland mozzarella, 0.694645, 1
+2, half roast duck, 0.996278, 2
+2, friends french onion, 0.783925, 2
+2, Spanish wine, 0.650716, 3
+2, house wine, 0.671335, 6
+2, mussels, 0.654885, 6
+2, wait staff, 0.804235, 7
+2, cute setting, 0.668385, 7
+2, warm hand shake, 0.786855, 8
+2, new places, 0.678026, 8
+2, cozy place, 0.657837, 9
+3, Monday evening, 0.772983, 0
+3, different ownership, 0.761808, 0
+3, Cramped seating, 0.802353, 2
+3, restaurant world, 0.712155, 2
+3, couple guys, 0.754202, 3
+3, exception, 0.478417, 3
+3, cheese platter, 0.778398, 6
+3, chicken entree, 0.774458, 6
+3, perfect size, 0.729626, 7
+3, positive note, 0.714341, 7
+3, Good wine selection, 0.968023, 8
+3, Open Bottle, 0.771449, 8
+4, Open Bottle, 0.639931, 3
+4, Roasted Amish Chicken, 0.927311, 6
+4, wonderful food, 0.659162, 8
+4, Great wines, 0.616819, 8
+4, cozy ambiance, 0.768178, 9
+5, gentleman, 0.464352, 0
+5, notch, 0.463681, 0
+5, lunch, 0.451104, 3
+5, lollipop lamb chops, 0.916243, 6
+5, specials, 0.453334, 6
+5, drinks, 0.450549, 7
+5, Open Bottle, 0.660225, 8
+5, Cuban sandwich, 0.647218, 8
+5, awesome atmosphere, 0.746449, 9
+5, delicious food, 0.670113, 9

@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, simple sorry ill, 0.717583, 0
+1, lunch ha ha, 0.715231, 0
+1, BBQ sauce, 0.52325, 1
+1, table, 0.520532, 1
+1, Jessica, 0.504656, 2
+1, main dish, 0.499457, 2
+1, time issue, 0.515424, 3
+1, baked potatoes, 0.486227, 3
+1, tip, 0.413477, 4
+1, drinks, 0.610167, 5
+1, attention, 0.551266, 5
+1, valentines night, 0.527809, 6
+1, great service, 0.490154, 6
+1, ranch sauce, 0.900693, 7
+1, prompt meal, 0.506144, 7
+2, quesadilla explosion salad.., 0.941823, 0
+2, indifferently grilled chicken, 0.934267, 0
+2, confused look, 0.805055, 1
+2, little piles, 0.780239, 1
+2, additional straw, 0.849122, 2
+2, good meal, 0.797784, 2
+2, water pitcher, 0.77839, 3
+2, happy camper, 0.77558, 3
+2, server, 0.810053, 4
+2, drinks, 0.680981, 5
+2, food, 0.913442, 6
+2, fresh ingredients, 0.766856, 6
+2, velvet stuff.. yum, 0.930668, 7
+2, Strawberry Quencher Lemonade, 0.927387, 7
+2, price range, 0.798562, 8
+2, great deals, 0.787654, 8
+3, main course, 0.456418, 0
+3, bar area, 0.444146, 0
+3, favorite chain restaurants, 0.558974, 1
+3, lettuce, 0.367058, 1
+3, particular Applebee, 0.739733, 2
+3, good sport, 0.476843, 2
+3, boneless chicken wings, 0.60326, 3
+3, California turkey club, 0.59356, 3
+3, Applebee, 0.90639, 4
+3, Margarita Queso Chicken, 0.599427, 6
+3, iced tea refills, 0.576514, 6
+3, decent tasting food, 0.628923, 7
+3, Sizzling Cajun Steak, 0.619783, 7
+3, small salad, 0.486512, 8
+3, good start, 0.46983, 8
+4, oriental chicken salad, 0.872948, 0
+4, good thing, 0.828721, 0
+4, free stuff, 0.8141, 2
+4, damage control, 0.806369, 2
+4, oz House Sirloin, 0.892116, 3
+4, Weight Watchers Meals, 0.86245, 3
+4, house sirloin, 0.913381, 6
+4, creamy parmesan chicken, 0.897503, 6
+4, artichoke dip, 0.906328, 7
+4, Chocolate Mousse Cake, 0.871312, 7
+4, sirloin steak dinners, 0.969852, 8
+4, pretty good meal, 0.922345, 8
+4, lively smokey flavor, 0.885812, 9
+4, Appleebee happy birthday, 0.877636, 9
+5, Justin Bieber song, 0.809117, 0
+5, waiters, 0.289998, 0
+5, Triple Chocolate Meltdown, 0.849207, 1
+5, vanilla ice cream, 0.800331, 1
+5, offense, 0.281591, 2
+5, Applebees, 0.26712, 2
+5, Grandma, 0.293327, 3
+5, corn cakes, 0.950679, 6
+5, bacon, 0.346025, 6
+5, Sizzling Smokehouse Chicken, 0.916007, 7
+5, popular menu items, 0.825019, 7
+5, amazing service, 0.5184, 8
+5, Lori, 0.3799, 8
+5, ta love servers, 0.832212, 9
+5, free wifi, 0.533575, 9

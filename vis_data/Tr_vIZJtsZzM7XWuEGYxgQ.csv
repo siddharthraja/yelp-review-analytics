@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, Film nights, 0.797014, 0
+1, Monday, 0.48803, 0
+1, vibe, 0.544143, 1
+1, lack, 0.516048, 1
+1, feeling, 0.530644, 2
+1, disorganisation, 0.458763, 2
+1, staff, 0.611188, 6
+1, different matter, 0.900551, 7
+1, Espy, 0.632074, 7
+1, rubbish, 0.559989, 8
+1, polite, 0.556754, 8
+2, key areas, 0.799883, 0
+2, American dad, 0.765848, 0
+2, table thing, 0.748044, 1
+2, Boo, 0.582409, 1
+2, entire time, 0.774515, 2
+2, hiss, 0.590678, 2
+2, multiple choices, 0.808946, 3
+2, chips, 0.627414, 3
+2, old adores, 0.836011, 6
+2, fish tanks, 0.761892, 6
+2, quiet Sunday lunch, 0.975033, 7
+2, reservation, 0.561178, 7
+3, Portobello Swim Centre, 0.98164, 0
+3, old traditional pubs, 0.970663, 0
+3, slightly unsanitary feel, 0.950382, 1
+3, long wait, 0.840289, 1
+3, bar area, 0.969875, 2
+3, particular Portobello visit, 0.960839, 2
+3, Portobello Bar, 0.885628, 3
+3, seaside promenades, 0.856429, 3
+3, Esplanade Bar, 0.853903, 4
+3, burger, 0.926835, 5
+3, veggie burger, 0.914461, 6
+3, gourmet burger, 0.899839, 6
+3, good quality food, 0.998472, 7
+3, good place, 0.969348, 7
+3, gasto-pub type affair, 0.937753, 8
+3, twin street-and-beach positioning, 0.929721, 8
+3, totally fine experience, 0.936221, 9
+4, nearly identical menu, 0.863347, 0
+4, good way, 0.807063, 0
+4, Cancer Research Dryathlon, 0.879763, 1
+4, decidedly normal Bonnington, 0.871342, 2
+4, huge birthday gatherings, 0.851477, 2
+4, hard wooden chairs, 0.867462, 3
+4, Porty burger, 0.819607, 3
+4, restaurant area, 0.87685, 4
+4, place, 0.986786, 5
+4, food, 0.891656, 6
+4, beach location, 0.809582, 6
+4, lovely cosy pub, 0.893785, 7
+4, pretty good time, 0.881765, 7
+4, nice place, 0.8893, 8
+4, yummy sounding stuff, 0.887287, 8
+4, delightful wee bar, 0.914566, 9
+4, wee cheeky glass, 0.904391, 9
+5, various themed nights, 0.860067, 0
+5, car fumes, 0.728071, 0
+5, wild car drivers, 0.924262, 1
+5, Scotish weather, 0.739, 1
+5, tight city center, 0.90287, 2
+5, chip shops, 0.714122, 2
+5, murder mystery night, 0.853888, 3
+5, halves, 0.552469, 3
+5, bit, 0.604457, 5
+5, inflatable kangaroos, 0.717628, 6
+5, big sofas, 0.712816, 6
+5, biggest gourmet burgers, 0.870958, 7
+5, bustling world, 0.721422, 7
+5, city centre street, 0.929646, 8
+5, fun little pub, 0.888491, 8

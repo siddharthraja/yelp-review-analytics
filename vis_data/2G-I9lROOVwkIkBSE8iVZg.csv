@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, deceptive pricing, 0.673345, 0
+1, liquor offerings, 0.666166, 0
+1, slow night. bbq, 0.962645, 1
+1, dentist slow service, 0.951841, 1
+1, bartender bro, 0.832886, 2
+1, chicken tender, 0.736622, 2
+1, nearest bartender, 0.759452, 3
+1, credit card, 0.668234, 3
+1, special ed class, 0.951373, 6
+1, saturday night, 0.672301, 6
+1, female bartenders, 0.748019, 7
+2, plastic silverware, 0.933088, 0
+2, fried mac-and-cheese bites, 0.91496, 0
+2, gluten-free menu, 0.997141, 1
+2, mac-and-cheese bites, 0.945988, 1
+2, wrap, 0.899508, 2
+2, burrito detour, 0.83206, 2
+2, okay bar food, 0.888199, 3
+2, cramped quarters, 0.782046, 3
+2, people, 0.70429, 4
+2, good local brews, 0.909344, 6
+2, shiny silverware, 0.810459, 6
+2, gluten-free menus, 0.852423, 7
+2, gluten-free modifications, 0.850561, 7
+2, high hopes, 0.77619, 8
+2, menu items, 0.751072, 8
+3, pretty unsuspecting place, 0.858838, 0
+3, low key lunch, 0.825506, 0
+3, good bar food, 0.855543, 2
+3, unchallenging menu items, 0.829135, 2
+3, nondescript bar food, 0.827566, 3
+3, epicenter, 0.822783, 3
+3, lunch, 0.837863, 4
+3, place, 0.917231, 6
+3, Mortimer, 0.887968, 6
+3, pretty good service, 0.851683, 7
+3, Great place, 0.829635, 7
+3, nice place, 0.82948, 8
+3, center loaded deli, 0.80548, 8
+3, pretty solid wrap, 0.836034, 9
+3, lunch time, 0.799236, 9
+4, good vegetarian food, 0.748815, 0
+4, Great little pub, 0.745822, 0
+4, sports bar type, 0.704624, 1
+4, good bar food, 0.765732, 2
+4, good real estate, 0.735875, 2
+4, Decent bar food, 0.728764, 3
+4, place, 0.914793, 5
+4, Mortimer, 0.842254, 5
+4, food, 0.860154, 6
+4, epicentre, 0.741541, 6
+4, Big Easy wrap, 0.768922, 7
+4, great place, 0.765191, 7
+4, good drink selection, 0.758547, 8
+4, good food, 0.756703, 8
+4, great service, 0.730096, 9
+4, good beer, 0.702591, 9
+5, Best non-epicenteresque bar, 0.851298, 0
+5, roast beef..swiss cheese..and, 0.842119, 0
+5, regular bar fare, 0.836339, 1
+5, great place, 0.841445, 2
+5, awkwardly skewed perception, 0.838921, 2
+5, place, 0.898901, 5
+5, roast beef sandwich, 0.910501, 6
+5, favorite sandwich joint, 0.87833, 6
+5, french dip, 0.929404, 7
+5, big diaw, 0.926468, 7
+5, au jus, 0.982584, 8
+5, roast beef, 0.962735, 8
+5, great food, 0.927558, 9
+5, great sandwich, 0.865871, 9

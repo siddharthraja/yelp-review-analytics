@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, additional 5-10mins, 0.823349, 0
+1, apple juice, 0.821547, 0
+1, hostess stand, 0.963822, 1
+1, terrible service, 0.808865, 1
+1, female waitress, 0.861566, 2
+1, numerous occasions, 0.856524, 2
+1, seat, 0.516911, 3
+1, Doubt, 0.494101, 3
+2, grilled cheese, 0.824541, 0
+2, premade grilled cheese, 0.813929, 0
+2, bar food, 0.865903, 1
+2, great bar food, 0.808102, 1
+2, blah food, 0.821489, 2
+2, sports bar, 0.809678, 2
+2, bar, 0.909489, 3
+2, dark divey bar, 0.7667, 3
+2, place, 0.65065, 4
+2, people, 0.708756, 5
+2, pineapple teriyaki burger, 0.814495, 6
+2, chicken sandwich, 0.79248, 6
+2, waffle fries, 0.906199, 7
+2, habanero burger, 0.691528, 7
+2, Friendly service, 0.809277, 8
+2, sweet potato, 0.638736, 8
+2, SPICY FOOD, 0.683156, 9
+3, corn tortilla chips, 0.568567, 0
+3, actual blue corn, 0.547826, 0
+3, Quiet little sports, 0.492015, 2
+3, little ones, 0.313719, 2
+3, food, 0.388333, 3
+3, big foodie, 0.2855, 3
+3, average sports bar, 0.995203, 4
+3, blue corn, 0.691108, 6
+3, blue corn nachos, 0.572239, 6
+3, decent place, 0.325456, 7
+3, grilled artichoke, 0.296309, 7
+3, pool table, 0.270043, 8
+3, guy try, 0.254863, 8
+3, different sauces, 0.261645, 9
+4, chicken salad yummy, 0.708817, 0
+4, eggs Mexican food, 0.697958, 0
+4, sports bar menu, 0.699081, 1
+4, huge projector, 0.667544, 2
+4, huge projector screen, 0.65497, 2
+4, ghost pepper, 0.656378, 3
+4, spice butt hole, 0.652731, 3
+4, sports bar, 0.947791, 4
+4, place, 0.733228, 4
+4, typical sports bar, 0.852708, 5
+4, Garden Grilled cheese, 0.668001, 6
+4, crispy blue corn, 0.664226, 6
+4, nice sports bar, 0.707871, 7
+4, sports bar fare, 0.701609, 7
+4, friendly bar tender, 0.700068, 8
+4, Buffalo Chicken Sandwich, 0.681328, 8
+4, beer good price, 0.695044, 9
+4, great atmosphere, 0.67946, 9
+5, typical pub food, 0.785615, 0
+5, complimentary dipping sauce, 0.77666, 0
+5, habanero pepper, 0.726179, 1
+5, sports bars, 0.849405, 2
+5, typical bar food, 0.778239, 3
+5, East Mesa, 0.786998, 4
+5, burger, 0.948485, 5
+5, Saturday afternoon, 0.774423, 5
+5, habanero burger, 0.894897, 6
+5, sports-themed bar/grill stand, 0.79223, 6
+5, buffalo chicken sandwich, 0.934701, 7
+5, sweet potato fries, 0.92384, 7
+5, great food, 0.973129, 8
+5, Green Chile Burger, 0.8604, 8
+5, fabulous burger adventure, 0.894897, 9
+5, grilled burger, 0.849928, 9

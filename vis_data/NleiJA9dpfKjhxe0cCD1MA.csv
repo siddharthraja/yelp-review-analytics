@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, patio table, 0.650525, 0
+1, poor timing, 0.638341, 0
+1, early bird, 0.66585, 1
+1, cliched line, 0.653391, 1
+1, flier menu, 0.671111, 2
+1, different wines, 0.641107, 2
+1, tables, 0.533668, 3
+1, instance, 0.530745, 3
+1, happy hour flier, 0.911873, 6
+1, nice new wines, 0.763948, 6
+1, specialty appetizer menu, 0.777914, 7
+1, good customer service, 0.737755, 7
+1, event, 0.778305, 8
+1, meal deals, 0.652858, 8
+1, app deals, 0.653803, 9
+2, stir fry veggies, 0.933786, 0
+2, merlot flight, 0.596522, 0
+2, way, 0.401933, 1
+2, skewer, 0.360292, 1
+2, little more quality, 0.583269, 2
+2, time, 0.355449, 2
+2, goat cheese, 0.897846, 3
+2, early evening, 0.651611, 3
+2, place, 0.592914, 4
+2, food, 0.522036, 4
+2, risotto, 0.464748, 5
+2, chicken satay, 0.898594, 6
+2, better chicken satay, 0.848526, 6
+2, pineapple salsa, 0.642412, 7
+2, balance issue, 0.636734, 7
+2, berries, 0.364128, 8
+2, grilled pineapple, 0.640057, 9
+2, happy hour specials, 0.623583, 9
+4, Bella Luna, 0.735945, 0
+4, venison sausage, 0.721258, 0
+4, rating, 0.447819, 2
+4, fact, 0.447626, 2
+4, Odd, 0.466673, 3
+4, bit, 0.461603, 3
+4, tasty flights, 0.76308, 6
+4, Friday night, 0.67435, 6
+4, pretty tasty appitizers, 0.916732, 7
+4, glasses, 0.464406, 7
+4, strip mall fun, 0.885729, 8
+4, Yay, 0.514209, 8
+4, west valley, 0.70967, 9
+4, nice place, 0.679259, 9

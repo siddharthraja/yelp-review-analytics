@@ -1,0 +1,13 @@
+rating, keyword, relevance, bucket
+1, reservations, 0.974515, 2
+1, messages, 0.798019, 2
+5, service, 0.464453, 0
+5, theme, 0.457614, 0
+5, multi-course menus, 0.797148, 6
+5, live music, 0.723837, 6
+5, blended seafood selections, 0.922098, 7
+5, seafood menu, 0.732299, 7
+5, ambiance, 0.517861, 8
+5, meal, 0.48256, 8
+5, wine pairings, 0.741761, 9
+5, experience, 0.520696, 9

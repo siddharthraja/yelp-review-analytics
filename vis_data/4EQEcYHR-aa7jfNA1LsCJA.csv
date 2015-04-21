@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+4, Ate, 0.54845, 0
+4, shame, 0.545913, 1
+4, Autumn, 0.539867, 1
+4, short block, 0.707249, 2
+4, Great neighborhood type, 0.903571, 3
+4, Cumberland Bar, 0.737551, 3
+4, Alexander McCall Smith, 0.939303, 6
+4, great place, 0.843487, 6
+4, Monday night pub, 0.969096, 7
+4, Black Isle, 0.937968, 7
+4, good solid range, 0.977662, 8
+4, beer garden, 0.930654, 8
+4, great beer garden, 0.927741, 9
+4, great range, 0.758999, 9
+5, typical pub vibe, 0.811413, 0
+5, New Town building, 0.809882, 0
+5, little haven, 0.718635, 1
+5, little Bandito mouse, 0.785883, 3
+5, regular meets, 0.709666, 4
+5, new town, 0.986291, 5
+5, great single malts, 0.812801, 6
+5, Speedy Gonzales-esque mouse, 0.780678, 6
+5, cosy wee snug, 0.84574, 7
+5, beer garden, 0.805795, 7
+5, lovely traditional pub, 0.869685, 8
+5, single malts, 0.831416, 8
+5, real ales, 0.833205, 9
+5, good selection, 0.728257, 9

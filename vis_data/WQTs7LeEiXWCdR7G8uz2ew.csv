@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, Saturday night, 0.916917, 1
+1, ceiling glass windows, 0.886348, 1
+1, place, 0.375653, 2
+1, entry, 0.305059, 2
+1, certain crowd, 0.769006, 3
+2, corn fritters, 0.928015, 0
+2, monkfish scampi, 0.909773, 0
+2, sort, 0.492687, 1
+2, permanent scowl, 0.917789, 2
+2, accompanying cauliflower, 0.865551, 2
+2, red dress/top, 0.86176, 3
+2, automatically., 0.485438, 3
+2, waiter, 0.525984, 4
+2, feet, 0.488363, 4
+2, lunch companion, 0.868254, 6
+2, water jugs, 0.842802, 6
+2, Royal Mile, 0.814198, 8
+2, helpful service, 0.798398, 8
+3, extra time, 0.701041, 0
+3, Big doors, 0.697065, 0
+3, event invite, 0.822762, 2
+3, steep steps, 0.759006, 2
+3, distant ceilings, 0.764823, 3
+3, geography-by-numbers, 0.290209, 3
+3, relatively small premises, 0.944029, 6
+3, TARDIS-like effect, 0.696287, 6
+3, adjacent madding crowds, 0.979189, 8
+3, central location, 0.650447, 8
+4, small cocktail menu, 0.73079, 0
+4, required time travel, 0.720835, 0
+4, food menu, 0.735156, 1
+4, caged display sections, 0.702423, 1
+4, new regular haunt, 0.698964, 2
+4, spicy Bloody Mary, 0.695744, 2
+4, good proper bar, 0.751269, 3
+4, modern-ish new bar, 0.74257, 3
+4, food, 0.794763, 4
+4, Advocate, 0.751685, 4
+4, place, 0.811895, 5
+4, time, 0.808547, 5
+4, bar, 0.907113, 6
+4, royal mile, 0.752982, 6
+4, haggis bonbons, 0.794249, 7
+4, black pudding, 0.771988, 7
+4, haggis bon bons, 0.830531, 8
+4, great place, 0.767545, 8
+4, wine list, 0.716972, 9
+4, cool bar, 0.714839, 9
+5, edinburgh restaurant.  starters, 0.816058, 0
+5, industrial looking lamps, 0.812342, 0
+5, little cocktail bar, 0.833683, 1
+5, slow table service, 0.804261, 1
+5, prohibition style bar, 0.810421, 2
+5, massive glass windows, 0.8054, 2
+5, Cool new bar, 0.842876, 3
+5, place, 0.961944, 5
+5, bar, 0.928766, 5
+5, Advocate, 0.888529, 6
+5, food, 0.885392, 6
+5, Bon Vivant, 0.87781, 7
+5, Edinburgh Bar scene, 0.857972, 7
+5, Royal Mile, 0.92842, 8
+5, amazing yelp party, 0.842676, 8
+5, Devils Advocate, 0.835297, 9
+5, great place, 0.809582, 9

@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, better restaurants downtown, 0.913251, 0
+2, crab tacos, 0.818595, 0
+2, long periods, 0.767441, 1
+2, times, 0.631406, 1
+2, nice chunks, 0.798388, 2
+2, raw tuna, 0.795561, 2
+2, shu mai shooters, 0.953709, 3
+2, hotel lobby bar, 0.939871, 3
+2, food service, 0.781399, 4
+2, outstanding Red Elephant, 0.926785, 6
+2, real live people, 0.901782, 6
+2, sweet potato fries, 0.941073, 7
+2, place more stars, 0.810618, 7
+2, Nice modern decor, 0.926913, 8
+2, tapas selections, 0.806691, 8
+2, Wyndham lobby, 0.834639, 9
+2, ambiance, 0.646281, 9
+3, lounge type place, 0.963682, 0
+3, specialty drinks, 0.852405, 0
+3, entire non-bar area, 0.95774, 1
+3, poor fella, 0.843839, 1
+3, dirty martini, 0.943694, 2
+3, tsk tsk, 0.850931, 2
+3, Urban Wine Tour, 0.938577, 3
+3, prime people, 0.827804, 3
+3, people, 0.855604, 5
+3, El Americano burger, 0.925933, 6
+3, late night grubbing, 0.923635, 6
+3, night downtown, 0.848861, 7
+3, Friday night, 0.840715, 7
+3, Flash Fried Spinach, 0.944928, 8
+3, Ahi Lettuce Wraps, 0.935876, 8
+3, nice place, 0.851946, 9
+3, great flavor, 0.839179, 9
+4, specialty drink menu, 0.937963, 0
+4, small plates list, 0.916743, 0
+4, recent abysmal experiences, 0.941262, 2
+4, classic lemon drop, 0.899829, 2
+4, avocado salsa tomatillo, 0.889781, 3
+4, ICON, 0.884783, 3
+4, Braised Lamb Tongue, 0.900843, 4
+4, sore need, 0.81436, 4
+4, food item, 0.816183, 6
+4, pork belly sliders, 0.901345, 7
+4, delicious greeting Brandon, 0.888581, 7
+4, unique crispy texture, 0.911701, 8
+4, Renaissance Hotel, 0.892569, 8
+4, Phoenix friends, 0.809838, 9
+5, George, 0.301654, 6
+5, GREAT cocktails, 0.941904, 8
+5, good mule, 0.894486, 8

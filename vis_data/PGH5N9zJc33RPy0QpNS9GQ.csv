@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, shitty guacamole Poor, 0.920947, 0
+1, real Tex-Mex food, 0.9122, 0
+1, shrimp fajitas, 0.788014, 1
+1, forgetful server, 0.733913, 1
+1, incredibly long time, 0.829375, 2
+1, crab quesadilla, 0.70391, 2
+1, Mixed Grill meats, 0.825886, 3
+1, extra plate, 0.711632, 3
+1, restaurant, 0.570602, 5
+1, home lunch, 0.732669, 6
+1, birthday dinner, 0.680458, 6
+1, different waiter, 0.696873, 8
+1, good customers, 0.683965, 8
+2, grilled pineapple salsa, 0.785053, 0
+2, Mesquite chicken tacos, 0.781522, 0
+2, badly seasoned ground, 0.742373, 1
+2, brown looking guacamole, 0.739092, 1
+2, sour cream, 0.769313, 2
+2, best dining experience, 0.737954, 2
+2, food, 0.900768, 3
+2, deep fried food, 0.783502, 3
+2, chips, 0.744458, 4
+2, menu, 0.71505, 4
+2, cheese dip, 0.816673, 5
+2, time, 0.802236, 5
+2, fish tacos, 0.847433, 6
+2, Original Salsa Chicken, 0.789796, 6
+2, chicken tacos, 0.783323, 7
+2, kickin chicken tacos, 0.782351, 7
+2, sherry chipotle sauce, 0.745052, 8
+2, Shrimp Tomatillo dish, 0.744674, 8
+2, absolute favorite places, 0.746368, 9
+2, great service, 0.69071, 9
+3, ice cream stuff, 0.671618, 0
+3, calorie count application, 0.6633, 0
+3, Galleria Mall, 0.670552, 1
+3, Machino tortilla station, 0.66705, 1
+3, fried ice cream, 0.753786, 2
+3, awesome little deal, 0.673236, 2
+3, ice cream, 0.869396, 4
+3, Chevy, 0.707937, 4
+3, salsa, 0.84296, 5
+3, food, 0.743771, 5
+3, Original Fajita Nachos, 0.919672, 6
+3, chips, 0.737166, 6
+3, better tasting meal, 0.669211, 7
+3, food quality, 0.663734, 7
+3, Fresh Mex Artichoke, 0.679211, 8
+3, Crispy Chicken taco, 0.678706, 8
+3, Individual nachos, 0.608133, 9
+3, tableside guacamole, 0.600435, 9
+4, chicken fajita dinner, 0.860989, 0
+4, Grill Plate-Beef Fajitas, 0.83808, 0
+4, chile relleno, 0.816623, 1
+4, Good salsa, 0.838888, 2
+4, sour cream, 0.817361, 2
+4, fried ice cream, 0.818787, 3
+4, good margarita, 0.809445, 3
+4, place, 0.898027, 4
+4, ice cream, 0.92359, 5
+4, chips, 0.936018, 6
+4, salsa, 0.916862, 6
+4, galleria mall, 0.974428, 7
+4, sweet corn, 0.934788, 7
+4, soft chicken taco, 0.993274, 8
+4, delicious mexican food, 0.970586, 8
+4, Good Food Good, 0.894885, 9
+4, fresh tableside guacamole, 0.858617, 9
+5, ........., 0.83392, 0
+5, sweet corn masa, 0.689083, 0
+5, busy Saturday lunch, 0.690373, 2
+5, Authentic Mexican, 0.62951, 2
+5, BEST SALSA, 0.687009, 3
+5, Chicken Fajitas, 0.634875, 3
+5, food, 0.75816, 5
+5, chevy, 0.96038, 6
+5, chips, 0.909143, 6
+5, great service, 0.779582, 7
+5, Thanks Chevy, 0.700932, 7
+5, great salsa, 0.736396, 8
+5, chicken tacos, 0.725924, 8
+5, Mexican food, 0.754805, 9
+5, best chips, 0.707682, 9

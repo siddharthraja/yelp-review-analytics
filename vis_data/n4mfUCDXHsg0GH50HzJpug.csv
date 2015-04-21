@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+2, lunch special sliders, 0.767387, 0
+2, lunch meeting, 0.522423, 0
+2, little applause, 0.453155, 1
+2, poor effort, 0.386822, 1
+2, overly greasy fries, 0.70772, 2
+2, beer drinker, 0.447089, 2
+2, price point, 0.38201, 3
+2, shrimp enchilada lunch, 0.902716, 6
+2, lunch companion, 0.505401, 6
+2, place, 0.201598, 7
+2, great audience, 0.467084, 8
+2, chains, 0.326321, 8
+3, AZ Good food, 0.892346, 0
+3, good place, 0.735949, 0
+3, dark beer, 0.699156, 1
+3, average  place, 0.704732, 2
+3, operative word, 0.693386, 2
+3, Brown Ale, 0.720576, 3
+3, blue punch, 0.706132, 3
+3, place, 0.803466, 5
+3, Sunday night, 0.732287, 6
+3, Rock Bottom Better, 0.694314, 6
+3, Decent beer selection, 0.907268, 7
+3, Roadrunner Brown, 0.889004, 7
+3, ball park pretzel, 0.877593, 8
+3, good ol, 0.730984, 8
+3, happy hour food, 0.769461, 9
+3, smashing deal, 0.705651, 9
+4, Catcher light lager, 0.860933, 0
+4, oz New York, 0.847896, 0
+4, patrons, 0.537053, 2
+4, late dinner, 0.719366, 3
+4, football playoffs, 0.700513, 3
+4, place, 0.606418, 4
+4, outdoor seating, 0.71176, 6
+4, Rock Bottom Restaurant, 0.686757, 6
+4, Good food, 0.7446, 7
+4, wife, 0.568851, 7
+4, skinny chicken burritos, 0.903185, 8
+4, Sonoma Chicken Wrap, 0.902111, 8
+4, mashed potatoes, 0.753462, 9
+4, pub tips, 0.716779, 9
+5, N. Tatum Blvd., 0.977172, 0
+5, Bar staff, 0.5233, 0
+5, Desert Ridge, 0.795645, 3
+5, Arrowhead, 0.234993, 3
+5, happy hour prices, 0.609573, 9

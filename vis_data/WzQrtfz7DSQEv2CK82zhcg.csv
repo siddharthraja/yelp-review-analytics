@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+2, Positives, 0.507402, 0
+2, drinks, 0.468424, 0
+2, smell, 0.484407, 1
+2, clothes, 0.468076, 1
+2, lemon drop martinis, 0.973796, 2
+2, little smoking area, 0.971148, 2
+2, martini bar, 0.690985, 3
+2, Negatives, 0.493888, 3
+2, Glad, 0.490997, 6
+2, pretty great job, 0.87561, 7
+2, good music, 0.693016, 7
+2, gay scene, 0.717262, 8
+2, great place, 0.695131, 8
+3, pretty decent Gay, 0.980549, 6
+3, great new interior, 0.686959, 9
+3, Friendly bartenders, 0.603248, 9
+5, scary bathrooms, 0.697286, 0
+5, tiny paragraphs, 0.652048, 0
+5, embarrassment, 0.381217, 1
+5, complaint, 0.378249, 1
+5, dim lit bar, 0.862752, 2
+5, pool cues, 0.589471, 2
+5, big props, 0.61881, 3
+5, blinds, 0.36255, 3
+5, cover, 0.428903, 4
+5, place, 0.552522, 5
+5, nights, 0.434531, 5
+5, odd little twist, 0.844544, 6
+5, month. great bartenders, 0.838596, 6
+5, pool table, 0.984206, 7
+5, CLEAN bathrooms, 0.680272, 7
+5, attractive tattooed men, 0.850039, 8
+5, great remodel, 0.710639, 8
+5, bright color, 0.617709, 9
+5, new flooring, 0.602009, 9

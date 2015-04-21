@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, Horrible excuse, 0.790545, 0
+1, Poor service, 0.774079, 0
+1, enchilada sauce, 0.771413, 1
+1, chicken wings, 0.762457, 1
+1, money, 0.53608, 2
+1, tacos, 0.526505, 2
+1, mexican grill, 0.822308, 3
+1, customers, 0.542393, 3
+1, drinks, 0.939575, 4
+1, dinner, 0.800233, 4
+1, Highly doubt, 0.774329, 6
+1, separate occasions, 0.74585, 6
+1, friends, 0.522445, 7
+2, lipton mexican rice, 0.738836, 0
+2, im guessing thats, 0.718782, 0
+2, Cabo Wabo Margaritas, 0.693014, 1
+2, table rail, 0.611147, 1
+2, real mexican food, 0.870065, 2
+2, nasty tequila idk, 0.697743, 2
+2, Americanized mexican restaurants, 0.722344, 3
+2, little bit, 0.698565, 3
+2, mixed drinks, 0.605443, 4
+2, mini chimis, 0.754737, 5
+2, chicken chimi, 0.909444, 6
+2, jalopeno cream cheese, 0.812586, 6
+2, ice tea, 0.607651, 7
+2, great beach bar, 0.68367, 8
+2, sandbar, 0.609094, 8
+2, good place, 0.615801, 9
+3, fish tacos, 0.798697, 0
+3, huge projection screen, 0.789765, 0
+3, cold hard bread, 0.766988, 1
+3, Probly wont come, 0.752823, 1
+3, indoor bar suck, 0.804175, 2
+3, food, 0.777463, 2
+3, Ok- hot bartender, 0.780452, 3
+3, Major buzz kill, 0.76543, 3
+3, drinks, 0.740381, 4
+3, service, 0.759165, 5
+3, place, 0.916158, 6
+3, carne tacos, 0.742296, 6
+3, expedient little operation, 0.793484, 7
+3, good size portion, 0.787713, 7
+3, fun place, 0.783377, 8
+3, bright AZ sun, 0.764238, 8
+3, happy hour place, 0.730468, 9
+3, good reviews, 0.724758, 9
+4, Carne Asada tacos, 0.881664, 0
+4, carne asado tacos, 0.735876, 0
+4, concrete counter, 0.627888, 1
+4, decent menu, 0.590398, 1
+4, veggie taco fan, 0.666261, 2
+4, Dos Equis, 0.652514, 3
+4, bragging little co-worker, 0.635375, 3
+4, sandbar, 0.725002, 4
+4, place, 0.760959, 5
+4, dance floor, 0.979405, 6
+4, veggie tacos, 0.715831, 6
+4, good place, 0.662133, 7
+4, Cinco De Mayo, 0.655503, 7
+4, good time, 0.637284, 8
+4, fish tacos, 0.635467, 8
+4, fairly inexpensive drinks, 0.677604, 9
+4, great roasted flavor, 0.666108, 9
+5, carne asada tacos., 0.789259, 0
+5, large glass wall, 0.781352, 0
+5, good cheap food, 0.81546, 3
+5, costume contest, 0.772129, 3
+5, sandbar, 0.862807, 5
+5, people, 0.728449, 5
+5, drinks, 0.908271, 6
+5, night, 0.869562, 6
+5, usual Mexican fair, 0.735197, 7
+5, crazy night, 0.711043, 7
+5, place, 0.794806, 8
+5, Nice night cocktails, 0.777084, 8
+5, good time, 0.841235, 9
+5, West shopping center, 0.753772, 9

@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, champagne sauce, 0.938736, 0
+1, goat cheese, 0.889866, 0
+1, drink refill, 0.631192, 2
+1, recommendation, 0.380291, 2
+1, service, 0.411641, 3
+1, fellow, 0.361458, 3
+1, things, 0.442278, 5
+1, veggie options, 0.667997, 6
+1, different worlds, 0.629349, 6
+1, shepards pie, 0.687703, 7
+1, different styles, 0.668808, 7
+2, dance floor, 0.989477, 0
+2, Menage Ultra Lounge, 0.881159, 0
+2, long sordid review, 0.906163, 1
+2, useless couches, 0.763571, 1
+2, house dj cause, 0.891143, 2
+2, trust fund babies, 0.839757, 2
+2, house dj, 0.892562, 3
+2, hom, 0.768703, 3
+2, guest dj, 0.770546, 6
+2, real stumper, 0.761981, 6
+2, DJ spinning, 0.762518, 7
+2, dance music, 0.756047, 7
+2, true dance club, 0.871691, 8
+2, best thing, 0.871125, 8
+2, cool downtempo music, 0.866766, 9

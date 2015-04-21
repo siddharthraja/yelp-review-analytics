@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, frozen Hillman oysters, 0.736081, 0
+1, scampi pasta dish, 0.70549, 0
+1, WORST CUSTOMER SERVICE, 0.678027, 1
+1, Shucks many times, 0.652572, 1
+1, wait person, 0.997243, 2
+1, late night, 0.574487, 2
+1, Aw Shucks restaurants, 0.768238, 3
+1, female wait person, 0.710975, 3
+1, cell phone, 0.877273, 4
+1, food, 0.673858, 4
+1, crab legs, 0.874797, 6
+1, good breakfast specials, 0.674572, 6
+1, Clam chowder, 0.574926, 7
+2, expensive food gimics, 0.626568, 0
+2, fried shrimp platter, 0.613701, 0
+2, dozen oysters, 0.773265, 1
+2, quality bar food, 0.615056, 1
+2, fresh oysters, 0.592463, 2
+2, go-to neighborhood bar, 0.586185, 2
+2, service, 0.882921, 3
+2, late night specials, 0.585568, 3
+2, food, 0.860295, 4
+2, oysters, 0.837049, 4
+2, place, 0.698744, 5
+2, Gus, 0.561628, 5
+2, late night, 0.903987, 6
+2, great oysters, 0.600461, 6
+2, great late night, 0.598706, 7
+2, respectably Gus, 0.528407, 7
+2, simple mignotte recipe, 0.595591, 8
+2, affordable crab buckets, 0.583102, 8
+2, lunch size pastas, 0.610181, 9
+2, best bet, 0.510982, 9
+3, New Orleans oysters, 0.829801, 0
+3, regular fried fish, 0.785288, 0
+3, late night bar, 0.7545, 1
+3, raw oysters, 0.851247, 2
+3, late night, 0.797214, 3
+3, freshest oysters, 0.785613, 3
+3, oysters, 0.969931, 4
+3, place, 0.750452, 4
+3, bar, 0.766845, 5
+3, free oysters, 0.797958, 6
+3, authentic 3-bite tacos, 0.794255, 6
+3, authentic fried seafood, 0.77293, 7
+3, good gulf shrimp, 0.769744, 7
+3, crab cake, 0.753735, 8
+3, crab cake sauce, 0.750229, 8
+3, quality bar-food breakfasts, 0.730311, 9
+4, half shell oysters, 0.702656, 0
+4, Mahi Mahi fish, 0.651468, 0
+4, oyster bar, 0.655744, 2
+4, uppity oyster bar, 0.641247, 2
+4, snow crab, 0.749427, 3
+4, Cowboys bar, 0.732188, 3
+4, shrimp tacos, 0.783229, 4
+4, service, 0.662293, 4
+4, oysters, 0.915025, 5
+4, food, 0.791369, 5
+4, dollah oysters, 0.673826, 6
+4, eating oysters, 0.666989, 6
+4, mahi mahi, 0.735926, 7
+4, Mahi Mahi tacos, 0.677773, 7
+4, crab legs, 0.803377, 8
+4, oyster shooters, 0.715506, 8
+4, delicious crab legs, 0.670808, 9
+4, great fresh seafood, 0.644849, 9
+5, seafood craving.., 0.620425, 0
+5, late night snackin, 0.620406, 0
+5, Shucks park, 0.653084, 2
+5, behold Shucks, 0.652908, 2
+5, night club promoters, 0.632943, 3
+5, late night, 0.805968, 4
+5, oysters, 0.690217, 4
+5, place, 0.950765, 5
+5, Shucks, 0.778685, 5
+5, seafood, 0.834001, 6
+5, food, 0.76134, 6
+5, crab, 0.752398, 7
+5, great seafood bisque, 0.731821, 7
+5, Crab Shack anyday, 0.680419, 8
+5, great place, 0.669869, 8
+5, staff good food, 0.660835, 9
+5, fresh shrimp appetizers, 0.65816, 9

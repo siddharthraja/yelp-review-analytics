@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, Liquor, 0.284411, 0
+1, Restrooms, 0.302403, 1
+1, red neck heaven, 0.915996, 3
+1, place, 0.264182, 6
+2, ok place, 0.999851, 0
+2, safe environment, 0.952246, 0
+2, weird guy, 0.982977, 2
+2, friend, 0.555673, 2
+2, different games, 0.963878, 3
+2, pool, 0.724475, 3
+2, yelp, 0.653491, 8
+2, friends, 0.572655, 8
+3, age group, 0.769164, 0
+3, tweakers, 0.601832, 0
+3, homeless dudes, 0.943485, 2
+3, different times, 0.778695, 2
+3, power drinkers, 0.887225, 3
+3, hookers, 0.580165, 3
+3, bar, 0.519387, 4
+3, door, 0.496244, 7
+3, staff, 0.467751, 9
+4, pool tables, 0.784508, 0
+4, decent dive bar, 0.702705, 0
+4, seedy homeless tweaker, 0.712238, 1
+4, bar tender, 0.584795, 1
+4, random people, 0.560539, 2
+4, nice parts, 0.559237, 2
+4, biggest dive bar, 0.753077, 3
+4, draft beer section, 0.664866, 3
+4, dive bar, 0.971251, 4
+4, cheap drinks, 0.892557, 4
+4, great dive bar, 0.720027, 6
+4, high average ranking, 0.658339, 6
+4, fairly cheap drinks, 0.747796, 7
+4, large pitcher, 0.55319, 7
+4, best bartender, 0.622871, 8
+4, friendly bartenders, 0.599481, 8
+4, good priced beer, 0.687306, 9
+4, perfect place, 0.554255, 9
+5, downtown Mesa, 0.797489, 0
+5, entire place, 0.538362, 0
+5, smoking, 0.565478, 1
+5, interesting bar, 0.54445, 1
+5, cheap drinks, 0.545088, 2
+5, good games, 0.537575, 2
+5, house cues, 0.744054, 3
+5, seedy, 0.413276, 3
+5, great bar, 0.733487, 6
+5, REGULAR STOP, 0.505292, 6
+5, nice house cues, 0.701994, 7
+5, good service, 0.567335, 7
+5, pleasant shooting experience, 0.694791, 8
+5, place, 0.691233, 8
+5, pool tables, 0.927978, 9
+5, Thanks Hambone, 0.562066, 9

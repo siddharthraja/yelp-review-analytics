@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, overpriced bottled beer, 0.935, 0
+1, snooty effeminate manager, 0.905172, 0
+1, place, 0.458964, 1
+1, hepatitis, 0.358925, 1
+1, Worst Jack-hole, 0.626478, 2
+1, bloody napkin, 0.585986, 2
+1, Whiskey River wan, 0.799274, 3
+1, drunken squall, 0.621547, 3
+2, peanut shells, 0.722759, 0
+2, deer heads, 0.708567, 0
+2, Uptown bars, 0.721686, 1
+2, Saturdays, 0.457472, 1
+2, drunk ass bro, 0.912206, 2
+2, point, 0.461241, 2
+2, boy frat house, 0.960421, 3
+2, quieter night, 0.708425, 3
+2, fun, 0.518139, 4
+2, Buckhead Lite, 0.76361, 6
+2, cornhole tournament, 0.720689, 6
+2, pretty decent place, 0.954867, 7
+2, good ol, 0.697193, 7
+3, Drink prices, 0.728767, 0
+3, value seeker, 0.719481, 0
+3, college bar, 0.934842, 2
+3, peanut shells, 0.715626, 2
+3, horny people, 0.695974, 3
+3, stranger home, 0.693528, 3
+3, cover charge, 0.993194, 5
+3, sticky floors, 0.68874, 6
+3, good time, 0.677544, 6
+3, right place, 0.722824, 7
+3, Buckhead, 0.718434, 7
+3, Perfectly fine bar, 0.91624, 9
+3, upscale places, 0.681202, 9
+4, dance floor, 0.812533, 0
+4, recent college grads/young, 0.804044, 0
+4, Cheap beer, 0.641597, 1
+4, high school garage, 0.770255, 2
+4, pretty much throw, 0.661204, 2
+4, Cheesy cover band, 0.749921, 3
+4, Buckhead Saloon, 0.736802, 3
+4, live band, 0.910773, 4
+4, night, 0.85307, 6
+4, usual popular classics, 0.751586, 6
+4, taylor esque music, 0.79561, 7
+4, college type atmosphere, 0.78318, 7
+4, Pretty big fan, 0.814903, 8
+4, better dressed patrons, 0.796584, 8
+4, Free parking uptown, 0.755339, 9
+4, music selection, 0.65282, 9

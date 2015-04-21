@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, atmosphere, 0.4574, 0
+1, place, 0.451666, 0
+1, tacky bling, 0.740277, 1
+1, major flaws, 0.667957, 1
+1, Grr.The student nights, 0.922818, 2
+1, bit crap, 0.696598, 2
+1, odd business men, 0.884177, 3
+1, younger girls, 0.673027, 3
+1, extortionate entry fee, 0.893469, 7
+1, drinking cocktails, 0.719806, 7
+2, Opal Lounge, 0.564131, 0
+2, single mixer, 0.512318, 0
+2, shitty handbag cost, 0.777594, 1
+2, pretentious rahs, 0.583518, 1
+2, pervy old man, 0.673246, 2
+2, No-one cares, 0.582254, 2
+2, brief jaunt, 0.570058, 3
+2, small club, 0.506898, 3
+2, student nights, 0.969467, 4
+2, people, 0.457658, 4
+2, George Street, 0.716357, 5
+2, friends birthdays, 0.522432, 6
+2, good range, 0.515019, 6
+2, tawdry sex lives, 0.742598, 7
+2, deluded punters, 0.544684, 7
+2, better places, 0.500262, 8
+3, St club scene, 0.693331, 0
+3, George Street clubs, 0.680081, 0
+3, Opal dancefloor, 0.667256, 1
+3, crammed bar, 0.612466, 1
+3, student nights, 0.809399, 2
+3, pompous business men, 0.706642, 2
+3, Opal Lounge, 0.953017, 3
+3, pretentious attention seekers, 0.673588, 3
+3, dance floor, 0.740372, 4
+3, bit, 0.65645, 5
+3, especially Opal Lounge, 0.756326, 6
+3, steps Opal, 0.663447, 6
+3, delicious bento boxes, 0.705584, 7
+3, good night, 0.671998, 7
+3, good music, 0.601723, 8
+3, pretty ladies, 0.601693, 8
+4, student night, 0.491856, 0
+4, fancy-dress wearing, 0.470933, 0
+4, boring people, 0.480616, 1
+4, total lack, 0.454635, 1
+4, George Street, 0.902825, 2
+4, overly trendy George, 0.656341, 2
+4, George Street night, 0.632276, 3
+4, normal price, 0.460852, 3
+4, Opal Lounge, 0.652886, 5
+4, mash-up tracks, 0.45746, 6
+4, young Edinburgh crowd, 0.637741, 7
+4, tall young chaps, 0.586335, 7
+4, Saturday night, 0.733162, 8
+4, small hen night, 0.595851, 8
+4, VIP package, 0.471699, 9
+4, huge mirrors, 0.468009, 9

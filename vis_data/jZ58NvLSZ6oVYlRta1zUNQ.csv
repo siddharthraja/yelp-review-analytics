@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, past security check-point, 0.633459, 0
+1, main terminal area, 0.623315, 0
+1, Star Sports Bar, 0.627776, 1
+1, rewarding bad service, 0.613363, 1
+1, sports bar, 0.921966, 2
+1, Stars Sports Bar, 0.640902, 2
+1, fast food, 0.915094, 3
+1, servers clear food, 0.604053, 3
+1, place, 0.525561, 4
+1, beer, 0.544209, 5
+1, standard breakfast menu, 0.638742, 6
+1, limited breakfast menu, 0.591979, 6
+1, fast food burger, 0.628819, 7
+1, table pizza, 0.624153, 7
+1, outstanding service, 0.525478, 8
+1, pleasant service, 0.524098, 8
+2, old school terminal, 0.902971, 0
+2, Sky Harbor, 0.587587, 0
+2, bar pounding beers, 0.924684, 1
+2, local sports teams, 0.850368, 1
+2, Typical airport bar, 0.878435, 2
+2, airport restaurant/bar, 0.603286, 2
+2, gaggy club, 0.507541, 3
+2, service, 0.408742, 3
+2, great tip, 0.584843, 6
+2, machine, 0.309797, 6
+2, better club, 0.516463, 8
+2, Haha, 0.306952, 8
+3, bagged generic chips, 0.866226, 0
+3, cold mild salsa, 0.827903, 0
+3, complaints, 0.283612, 1
+3, bars, 0.278309, 1
+3, united terminal, 0.991732, 2
+3, Star Sport Bar, 0.960054, 2
+3, Sky Harbor Airport, 0.825732, 3
+3, cold beers, 0.629544, 3
+3, spot, 0.372771, 5
+3, tad, 0.294165, 6
+3, couple, 0.271789, 6
+3, best place, 0.576676, 7
+3, service, 0.412951, 7
+3, good breakfast burrito, 0.98559, 8
+3, long flight, 0.557411, 8
+4, NFL playoffs, 0.55751, 0
+4, prompt service, 0.491392, 0
+4, red eye, 0.548534, 2
+4, delayed flight, 0.501628, 2
+4, water fountain, 0.475179, 3
+4, water bottle, 0.474347, 3
+4, free airport wifi, 0.856443, 6
+4, decent connection, 0.593909, 6
+4, french fries, 0.998625, 7
+4, delicious long island, 0.894446, 7
+4, choices past security, 0.91556, 8
+4, typical airport restaurant, 0.897048, 8

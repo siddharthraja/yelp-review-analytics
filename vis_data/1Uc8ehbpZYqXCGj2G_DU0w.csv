@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+3, traditional Scottish folk, 0.979309, 0
+3, evenings, 0.337587, 0
+3, cholesterol, 0.480134, 1
+3, bar, 0.422739, 2
+3, beef, 0.302595, 2
+3, matter, 0.299835, 3
+3, normal drinks, 0.7446, 7
+3, nice place, 0.733572, 7
+3, traditional pub, 0.800591, 8
+3, pub quiz, 0.791585, 8
+3, cold Edinburgh winter, 0.948987, 9
+3, unusual addition, 0.726307, 9
+4, pub grub, 0.477025, 0
+4, local student population, 0.453714, 0
+4, hardcore players, 0.328087, 2
+4, flat screen TV., 0.45774, 3
+4, old feel, 0.338854, 3
+4, night pub quiz, 0.582981, 6
+4, buzzing pub, 0.484712, 6
+4, green mantle, 0.919709, 7
+4, pub, 0.719738, 7
+4, pub quiz night, 0.575291, 8
+4, inviting pub, 0.500138, 8
+4, usual pub food, 0.604287, 9
+4, cosy pub, 0.504649, 9
+5, live music, 0.775984, 0
+5, favorite pub, 0.731008, 0
+5, negatives, 0.44016, 2
+5, big pub, 0.699414, 3
+5, place, 0.586143, 3
+5, nice atmosphere, 0.611047, 6
+5, little Salsa, 0.600639, 6
+5, Irn Bruisers pub, 0.969734, 7
+5, Green Mantle, 0.883538, 7
+5, pub quiz, 0.8724, 8
+5, Sticky Toffee Pudding, 0.833003, 8
+5, earth homey vibe, 0.842855, 9
+5, pub quiz night, 0.809319, 9

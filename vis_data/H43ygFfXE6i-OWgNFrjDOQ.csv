@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+1, swear words, 0.970364, 0
+1, psychic tricks, 0.846258, 0
+1, F-bombs, 0.458037, 1
+1, skip, 0.371221, 1
+1, dozen times, 0.921327, 2
+1, gutter, 0.379349, 2
+1, best effort, 0.869326, 3
+1, Caveman, 0.40234, 3
+1, teenagers, 0.386015, 6
+1, super funny, 0.980348, 7
+1, likable guy, 0.962123, 7
+2, minor chuckles, 0.996042, 0
+2, steak dinner, 0.862468, 0
+2, younger people, 0.899104, 1
+2, alot, 0.332043, 1
+2, jokers/minor hecklers, 0.958725, 3
+2, impressive versions, 0.842917, 3
+2, audience, 0.204826, 7
+4, different occasions, 0.977018, 0
+4, Kevin Burke, 0.892103, 0
+4, opening act, 0.877869, 4
+4, showroom, 0.228849, 7
+4, free tickets, 0.762435, 8
+4, guy, 0.580271, 8
+4, town guests, 0.921993, 9
+5, life experiences, 0.790277, 0
+5, crowd, 0.582719, 0
+5, real world, 0.851537, 1
+5, guy, 0.57874, 1
+5, olds, 0.576666, 2
+5, shows, 0.552761, 6
+5, step bacl, 0.791628, 8
+5, times, 0.554241, 8
+5, light hearted spin, 0.973836, 9
+5, male/female living relationships, 0.96218, 9

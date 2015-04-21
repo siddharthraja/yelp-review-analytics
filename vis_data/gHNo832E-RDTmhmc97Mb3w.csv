@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+3, decent wines, 0.731414, 0
+3, safety guy, 0.665582, 0
+3, recent neglect, 0.682016, 2
+3, extinguisher, 0.466395, 2
+3, vegetable/hummus/cold pasta salad, 0.926553, 6
+3, pre-made anyways, 0.718262, 6
+3, Star Alliance Elite, 0.956108, 7
+3, Maple Leaf Lounge, 0.951719, 7
+3, better lounges, 0.832378, 8
+3, airline lounges, 0.798157, 8
+3, free drink, 0.742974, 9
+3, disposal, 0.459926, 9
+4, Leaf Trans-border Lounge, 0.916569, 0
+4, Maple Leaf Trans-border, 0.729162, 0
+4, lounge access, 0.571569, 2
+4, Flight information boards, 0.390346, 2
+4, Star Alliance Lounge, 0.648085, 3
+4, trans-border area, 0.455454, 3
+4, class passengers, 0.415944, 5
+4, Canada Maple Leaf, 0.929021, 6
+4, Air Canada Maple, 0.915995, 6
+4, small lounge, 0.567874, 7
+4, Carrier domestic lounges, 0.446173, 7
+4, pretty decent offering, 0.400778, 8
+4, help yourself bar, 0.332747, 8
+4, beautiful open-ended fireplace, 0.398236, 9
+5, decent alcohol, 0.957467, 0
+5, decent food, 0.83366, 0
+5, fresh poutine, 0.802404, 6

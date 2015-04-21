@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, previous one-star review, 0.889637, 0
+1, Pittsburgh police sit, 0.864467, 0
+1, place, 0.903168, 1
+1, fake outdoor stuff, 0.899659, 1
+1, smarmy morons, 0.731164, 2
+1, trashy patrons, 0.718445, 2
+1, trashy places, 0.715454, 3
+1, complete jackass, 0.708139, 3
+1, people, 0.601298, 4
+1, ridiculous scene, 0.697401, 6
+1, Margarita Mama, 0.67927, 6
+1, fist pumping bros, 0.83618, 7
+1, bachelorette parties, 0.692957, 7
+1, free shots, 0.685212, 8
+1, good time, 0.680078, 8
+2, Miller Light Pitchers, 0.885149, 0
+2, Buca Di Beppo, 0.880802, 0
+2, fusion bar menu, 0.893935, 1
+2, non-dive bar, 0.829933, 1
+2, uninteresting people, 0.83001, 2
+2, cover band, 0.818154, 2
+2, Miller Light, 0.896022, 3
+2, Coors Light bottle, 0.889663, 3
+2, time, 0.827918, 4
+2, place, 0.937709, 5
+2, hot crispy fries, 0.882816, 6
+2, decent liquor selection, 0.879281, 6
+2, New Castle drafts, 0.893247, 7
+2, good parts, 0.826897, 7
+2, good customer service, 0.906466, 8
+2, soggy reject chips, 0.871469, 8
+2, good thing, 0.804288, 9
+3, particular football player, 0.784827, 0
+3, little Sir Mix, 0.762538, 0
+3, big scary dude, 0.78, 1
+3, buckhead hangover, 0.696605, 1
+3, Station Square, 0.944224, 2
+3, young girls mouths, 0.78293, 2
+3, peach schnapps concoction, 0.820773, 3
+3, Friday night, 0.80377, 3
+3, bar, 0.686096, 4
+3, large crowd, 0.657141, 6
+3, coldest night, 0.648998, 6
+3, Pittsburgheese Cheesteak Naan, 0.766261, 7
+3, New Castle pints, 0.760616, 7
+3, drink specials, 0.651063, 8
+3, personable guy, 0.64085, 8
+3, crazy fun aspect, 0.775331, 9
+3, drink selections, 0.659883, 9
+4, great time- girls, 0.887877, 0
+4, local Pitt beers, 0.844594, 0
+4, fried pierogis, 0.752214, 1
+4, dance floor, 0.731594, 2
+4, big drinkers, 0.72986, 2
+4, mozzarella sticks, 0.759365, 3
+4, onion rings, 0.739335, 3
+4, birthday party, 0.947278, 6
+4, drunk football fans, 0.867108, 6
+4, 30th birthday party, 0.863783, 7
+4, great booty-shaking music, 0.856529, 7
+4, comfy looking couches, 0.861155, 8
+4, cool presentation idea, 0.836608, 8
+4, Fun party atmosphere, 0.840532, 9
+4, great live band, 0.839181, 9
+5, bar, 0.491247, 0
+5, strawberries, 0.542721, 2
+5, arrival, 0.530808, 2
+5, night, 0.692789, 5
+5, weekend, 0.526981, 6
+5, sisters, 0.50537, 6
+5, Free cover, 0.823826, 7
+5, wait, 0.532687, 7
+5, VIP sections, 0.938035, 8
+5, décor, 0.570517, 8

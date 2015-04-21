@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, Awful experience, 0.733238, 0
+1, DEMANDED tips, 0.724018, 0
+1, little kids, 0.639386, 1
+1, Labatt, 0.345642, 1
+1, service-oriented establishment, 0.725977, 2
+1, atypical experience, 0.654931, 2
+1, better bars, 0.599965, 3
+1, loud dance music, 0.912753, 6
+1, St. Laurent, 0.624904, 6
+1, positive thing, 0.64591, 7
+1, cool open rooftop, 0.9716, 8
+1, rock music, 0.571043, 8
+3, decent drink list, 0.781759, 0
+3, normal bar, 0.569017, 0
+3, dive sports bar, 0.80309, 1
+3, soccer emphasis, 0.565148, 1
+3, Chile flag, 0.591085, 2
+3, sangria, 0.397359, 2
+3, boulevard Staint Laurent, 0.909699, 3
+3, Dive bar, 0.623026, 3
+3, separate nightclubesque bartender, 0.878729, 6
+3, Excellent street view, 0.822139, 6
+3, floor level bartender, 0.964116, 7
+3, good spot, 0.573632, 7
+3, valuable real estate, 0.821237, 8
+3, Pool tables, 0.577389, 8
+3, free bowl, 0.561281, 9
+3, peanuts, 0.36225, 9
+4, bartender, 0.613347, 0
+4, nights, 0.581186, 0
+4, Montreal beer, 0.829613, 2
+4, .I mean, 0.81782, 2
+4, little dance floor, 0.961283, 3
+4, stall, 0.588044, 3
+4, drink special, 0.84586, 6
+4, Labatt, 0.620336, 6
+4, outdoor patio, 0.838841, 7
+4, friends, 0.618897, 7
+4, fun, 0.613562, 8
+4, great time, 0.801896, 9

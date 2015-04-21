@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, best friends iPhone, 0.552944, 0
+1, rude bartenders, 0.431461, 0
+1, friends credit card, 0.521153, 1
+1, bar tender, 0.386517, 1
+1, people, 0.478039, 2
+1, bar, 0.467134, 2
+1, private bar, 0.405622, 3
+1, work functions, 0.387893, 3
+1, bartender, 0.912573, 4
+1, manager, 0.748414, 4
+1, employee, 0.365505, 5
+1, point, 0.299638, 5
+1, person ill pay, 0.513116, 6
+1, instagram ect, 0.401136, 6
+1, health department, 0.39983, 7
+1, video, 0.279182, 7
+2, Pool League game, 0.827819, 0
+2, mahi mahi, 0.72995, 0
+2, UFC pay-per-view events, 0.840689, 1
+2, poorly-designed atrocity, 0.639975, 1
+2, rice soup, 0.946739, 2
+2, chicken, 0.521055, 2
+2, Philly cheesesteak, 0.642101, 3
+2, GROUND BEEF, 0.598038, 3
+2, good specials, 0.567986, 6
+2, food, 0.536519, 6
+2, beer selection, 0.566443, 7
+2, service, 0.415467, 7
+2, great venue, 0.592819, 8
+2, Sunday games, 0.59151, 8
+3, huge tv screens, 0.698326, 0
+3, special sports event, 0.621302, 0
+3, little subpar, 0.498435, 1
+3, bar food, 0.912559, 2
+3, stars, 0.246093, 2
+3, typical bar food, 0.680631, 3
+3, typical sports bar, 0.662823, 3
+3, place, 0.71969, 5
+3, typical place, 0.532833, 6
+3, daily specials, 0.465158, 6
+3, pool tables, 0.893889, 7
+3, great hangout place.., 0.670439, 7
+3, fries, 0.329265, 8
+3, dmo, 0.278675, 8
+3, good service, 0.447875, 9
+3, recent trip, 0.447605, 9
+4, drunk bar guys, 0.854237, 0
+4, Punching Bag Machine, 0.844617, 0
+4, consistent thing, 0.683023, 1
+4, general public, 0.656214, 1
+4, bar food, 0.81539, 3
+4, place, 0.716747, 3
+4, food, 0.903631, 5
+4, food service, 0.76456, 5
+4, host regular events, 0.855563, 6
+4, Pool tournaments, 0.720254, 6
+4, pool, 0.744209, 7
+4, Star place, 0.674886, 7
+4, good experiences, 0.815179, 8
+4, completely new facilities, 0.793763, 8
+4, great pub food, 0.848037, 9
+4, great place, 0.695452, 9
+5, staff, 0.396604, 6
+5, Jillian/Melissa/Lindsay/ Colleen, 0.70748, 7
+5, great drink specials, 0.90977, 8
+5, Sunday Funday, 0.789005, 8
+5, great spot, 0.7019, 9
+5, Ballantyne/Pineville area, 0.680625, 9

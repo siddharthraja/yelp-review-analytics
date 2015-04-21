@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+2, beer offerings, 0.948359, 0
+2, big screen, 0.932026, 0
+2, food, 0.797311, 1
+2, reason, 0.540539, 2
+2, way, 0.519754, 2
+2, tab, 0.538189, 3
+2, loft, 0.770563, 5
+2, strange turn, 0.945494, 8
+2, Packs, 0.535173, 8
+4, hot dogs, 0.545693, 0
+4, dart board, 0.538671, 0
+4, regular review, 0.542927, 1
+4, 5-6 dollar range, 0.836605, 6
+4, white lightning, 0.551554, 6
+4, big 30th birthday, 0.778837, 7
+4, good tap selections, 0.73991, 7
+4, Yelp event, 0.922884, 8
+4, medium sized party, 0.767443, 8
+4, great place, 0.500443, 9
+4, Dino, 0.283534, 9
+5, perfect space, 0.665405, 0
+5, bar dweller, 0.643417, 0
+5, judgments, 0.304032, 2
+5, conversation, 0.284649, 2
+5, food, 0.285152, 4
+5, Drink specials, 0.699388, 6
+5, sayin, 0.343833, 6
+5, low key night, 0.825127, 7
+5, TV.  The bartender, 0.649321, 7
+5, great little place, 0.905336, 8
+5, extremely reasonable price, 0.852383, 8

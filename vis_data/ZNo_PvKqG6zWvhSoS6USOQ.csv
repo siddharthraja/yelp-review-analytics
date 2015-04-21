@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+2, sloppy service, 0.912972, 0
+2, university area, 0.838803, 0
+2, beer, 0.51385, 1
+2, Server, 0.423778, 1
+2, menu, 0.528186, 2
+2, bar, 0.52693, 2
+2, usual goodies, 0.868098, 3
+2, items, 0.499336, 3
+2, food, 0.694129, 6
+2, competition, 0.421643, 6
+2, grandchildren, 0.455316, 7
+2, lunch, 0.426324, 7
+2, interesting places, 0.855079, 8
+4, Big Island Salad, 0.913185, 0
+4, Carolina Bistro, 0.726392, 0
+4, obnoxious patrons, 0.714325, 1
+4, Carmel Commons, 0.697239, 1
+4, bar, 0.574172, 2
+4, huge fan, 0.717681, 3
+4, good acoustics, 0.712862, 3
+4, karaoke, 0.631632, 4
+4, Midtown Sundries, 0.976735, 5
+4, fan favorites, 0.720452, 6
+4, Live music, 0.710022, 6
+4, food, 0.808159, 7
+4, Good food, 0.72261, 7
+4, pretty loyal following, 0.894853, 8
+4, service, 0.74508, 8
+4, menu variety, 0.682332, 9

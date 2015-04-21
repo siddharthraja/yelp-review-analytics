@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+2, food, 0.705884, 1
+2, staff, 0.697192, 1
+2, Chilis, 0.975805, 2
+2, atmosphere, 0.842178, 2
+2, locations, 0.758724, 6
+3, Miller Light, 0.968573, 3
+3, margaritas, 0.816842, 3
+3, Service, 0.685598, 7
+3, food, 0.681331, 7
+4, previous visits, 0.779907, 0
+4, wait, 0.515577, 0
+4, times, 0.469617, 1
+4, big mouth bites, 0.998016, 3
+4, to-go box, 0.878129, 3
+4, artichoke dip, 0.838428, 6
+4, chicken strips, 0.792931, 6
+4, classic sirloin, 0.825696, 7
+4, promotional coupons, 0.761288, 7
+4, house margaritas, 0.897517, 8
+4, specialty margaritas, 0.896758, 8

@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, special events, 0.410364, 0
+1, inaccurate food advertising, 0.964232, 1
+1, BUYER BEWARE, 0.536453, 1
+1, burnt popcorn, 0.564984, 3
+1, way downtown, 0.431388, 3
+1, new niche place, 0.776282, 7
+1, Big Lebowski, 0.490521, 7
+1, perfect Christmas gift, 0.786561, 8
+1, LivingSocial deal, 0.57874, 8
+2, film buff friend, 0.951002, 0
+2, usual ROOT BEER, 0.875711, 0
+2, current AZ ID, 0.873633, 1
+2, lumpy seats, 0.775384, 1
+2, home theater style, 0.896908, 2
+2, FILM BAR movie, 0.894926, 2
+2, verrrrrry dim lighting, 0.881129, 3
+2, brief synopsis, 0.766775, 3
+2, time, 0.776607, 4
+2, special showing, 0.909588, 6
+2, wine, 0.664792, 6
+2, Living Social coupon, 0.979496, 7
+2, Az. natives, 0.77294, 8
+2, good atmosphere, 0.75586, 9
+2, Saturday nights, 0.753739, 9
+3, lousy digital projector, 0.673493, 0
+3, Decent local spot, 0.660751, 0
+3, Typical hipster shenanigans, 0.661624, 1
+3, comedy bar, 0.631015, 1
+3, music bar, 0.631049, 2
+3, bar esque, 0.628539, 2
+3, film bar, 0.931699, 3
+3, theater, 0.785571, 3
+3, place, 0.771022, 4
+3, movie, 0.784761, 5
+3, adult planned business, 0.66063, 6
+3, films, 0.656591, 6
+3, film selection, 0.62296, 7
+3, film projector, 0.622654, 7
+3, standard movie seating, 0.700792, 8
+3, fun little place, 0.700426, 8
+3, great grape choices, 0.695201, 9
+3, good flick, 0.615375, 9
+4, great little place, 0.641732, 0
+4, movie going experience, 0.609173, 0
+4, bar area, 0.613516, 1
+4, lit bar area, 0.598524, 2
+4, good film, 0.595268, 3
+4, bar, 0.89239, 5
+4, movie, 0.885223, 5
+4, place, 0.944185, 6
+4, filmbar, 0.825694, 6
+4, great movie experience, 0.63831, 7
+4, great beer list, 0.627928, 7
+4, independent film, 0.681682, 8
+4, big screen, 0.666355, 8
+4, movie date place, 0.644939, 9
+4, unique movie theater, 0.619246, 9
+5, indie movie theater, 0.61101, 0
+5, times offering bar, 0.608535, 0
+5, Film Bar experience, 0.639283, 2
+5, sexy bar staff, 0.611725, 2
+5, independent film circuit, 0.607202, 3
+5, bar level tables, 0.604801, 3
+5, beers, 0.617963, 4
+5, cold beer, 0.598715, 4
+5, theater, 0.813212, 5
+5, filmbar, 0.763746, 5
+5, place, 0.96868, 6
+5, film bar, 0.944609, 6
+5, good movie theater, 0.659734, 7
+5, independent films, 0.637248, 7
+5, great place, 0.729525, 8
+5, great beer, 0.696863, 8
+5, cool place, 0.674589, 9
+5, great atmosphere, 0.626113, 9

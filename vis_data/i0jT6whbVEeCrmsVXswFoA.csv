@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, Gave server drink, 0.749518, 0
+1, order dominos, 0.542905, 0
+1, horrible way, 0.586356, 1
+1, iceberg lettuce, 0.570059, 1
+1, Pizza dough, 0.734648, 2
+1, wrong pizza, 0.651886, 2
+1, kid menus, 0.499561, 3
+1, repeat ones, 0.497464, 3
+1, pizza, 0.900338, 4
+1, friday night, 0.794042, 5
+1, time, 0.421264, 5
+1, kid pizza, 0.661584, 6
+1, Long wait, 0.52328, 6
+1, moving-in mailer, 0.478148, 7
+1, better experience, 0.466681, 7
+2, Pizza, 0.70952, 0
+2, unfriendly service, 0.989192, 1
+2, attitude, 0.6998, 1
+2, Hostess, 0.730498, 2
+3, bar seating, 0.402976, 0
+3, restaurant seating, 0.402494, 0
+3, bad experiences, 0.42048, 1
+3, times, 0.20725, 1
+3, beer list, 0.387732, 2
+3, Lunch visit, 0.373881, 2
+3, wings, 0.301747, 3
+3, pizza, 0.995687, 4
+3, slice, 0.2496, 4
+3, Maui pizza, 0.673524, 6
+3, hope things, 0.400718, 6
+3, sublime pizza, 0.678991, 7
+3, good pizza, 0.644859, 7
+3, Solid pizza place, 0.936639, 8
+3, pepperoni rolls, 0.767522, 8
+4, cheese-only pizza, 0.639997, 0
+4, decent craft beers, 0.56034, 0
+4, pickup area, 0.493805, 1
+4, dining area, 0.491716, 1
+4, hungry adults, 0.480575, 2
+4, pizza place, 0.789542, 3
+4, additional pizza, 0.637686, 3
+4, pizza, 0.953087, 4
+4, good flavor, 0.495672, 4
+4, deep dish pizza, 0.690157, 6
+4, decent pizza, 0.668701, 6
+4, non-chain pizza place, 0.720161, 7
+4, better pizza, 0.634604, 7
+4, Good pizza, 0.652011, 8
+4, monster Pizza, 0.618065, 8
+4, Excellent pizza, 0.628315, 9
+4, tasty wings, 0.514607, 9
+5, new Empire Pizza, 0.806489, 0
+5, good pizza, 0.769566, 0
+5, zeppoli dessert, 0.53995, 1
+5, thing, 0.424473, 1
+5, good food, 0.551558, 2
+5, Big TV, 0.547863, 2
+5, times, 0.458573, 3
+5, sandwich, 0.426967, 3
+5, pizza, 0.95948, 6
+5, best pizza joint, 0.774386, 6
+5, fast food pizza, 0.769679, 7
+5, Good place, 0.560608, 7
+5, Great pizza, 0.727885, 8
+5, great place, 0.633404, 8
+5, slice good wings, 0.677906, 9
+5, Fantastic pizza, 0.673107, 9

@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, professional food management, 0.604453, 0
+1, roasted pineapple slice, 0.572673, 0
+1, drunken football debauchery.., 0.572396, 1
+1, bar area, 0.507301, 1
+1, waitress, 0.556595, 2
+1, tacky blue door, 0.549333, 2
+1, inconsistent food, 0.523238, 3
+1, food order, 0.507885, 3
+1, place, 0.96303, 4
+1, table, 0.611641, 4
+1, food, 0.796176, 5
+1, bar, 0.634084, 5
+1, old husband/wife swappers, 0.584299, 6
+1, great place, 0.524801, 6
+1, nicest dive bar, 0.575165, 7
+1, good sports bar, 0.570971, 7
+1, sizzling chicken fajitas, 0.555976, 8
+1, pretty good bar, 0.586487, 9
+1, Bahama Mama cocktail, 0.550517, 9
+2, Beloved white sauce, 0.863096, 0
+2, live band, 0.853331, 0
+2, mature female patrons, 0.833759, 1
+2, regular bar evening, 0.858104, 2
+2, jalapeno sauce, 0.809463, 2
+2, dance floor, 0.867632, 3
+2, grade school teacher, 0.851002, 3
+2, place, 0.929729, 4
+2, food, 0.896763, 5
+2, Saturday night, 0.901353, 6
+2, authentic fish tacos, 0.8825, 6
+2, offer better food, 0.858966, 7
+2, warm soft tortillia, 0.843693, 7
+2, wasabee dipping sauce, 0.870604, 8
+2, cool place, 0.849453, 8
+2, better rating, 0.784961, 9
+3, simple plates, 0.801852, 0
+3, Mexican food, 0.800301, 0
+3, place terrible draft, 0.974186, 1
+3, Slow service, 0.792813, 1
+3, 30-50yr olds, 0.798266, 2
+3, younger crowd, 0.782897, 2
+3, older crowd, 0.97786, 3
+3, long drive home, 0.905884, 3
+3, draft selection, 0.923534, 4
+3, Easton Ashe, 0.809342, 6
+3, Saturday night, 0.806473, 6
+3, street tacos, 0.963983, 7
+3, pool tables, 0.953256, 7
+3, excellent cover band, 0.965822, 8
+3, Joes beach burger, 0.955615, 8
+3, beer selection, 0.773369, 9
+4, sports bar atmosphere, 0.860572, 0
+4, holidays Desert Ridge, 0.800906, 0
+4, complaint, 0.53762, 1
+4, cougar theory, 0.697913, 2
+4, Desert Ridge, 0.955689, 3
+4, Cave Creek Road, 0.816983, 3
+4, neighborhood bar, 0.833178, 6
+4, big difference, 0.697707, 6
+4, saltwater fish acquarium, 0.829801, 7
+4, great neighborhood bar, 0.817183, 7
+4, guitar- great fun, 0.819894, 8
+4, little league kids, 0.808659, 8
+4, chicken ceaser wrap, 0.84067, 9
+4, fun place, 0.725901, 9
+5, Cave Creek, 0.882581, 0
+5, Old People Hangout, 0.813335, 0
+5, live music, 0.939742, 2
+5, slower service, 0.698887, 2
+5, contraire mon fraire, 0.798002, 3
+5, yr olds, 0.797938, 3
+5, bar, 0.827771, 4
+5, Fun local bar, 0.783841, 6
+5, nice dining area, 0.78136, 6
+5, Good drink prices, 0.776001, 7
+5, good friend Travis, 0.767726, 7
+5, Great place, 0.857074, 8
+5, great food, 0.856722, 8
+5, great service, 0.860619, 9
+5, family friendly atmosphere, 0.755143, 9

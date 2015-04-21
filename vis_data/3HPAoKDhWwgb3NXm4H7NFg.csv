@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+3, average cocktail bar, 0.789057, 0
+3, best cocktail bar, 0.775183, 0
+3, young looking group, 0.708879, 2
+3, ear-splitting music volume, 0.699856, 2
+3, dessert cocktail, 0.743766, 3
+3, little bit, 0.738274, 3
+3, cocktails, 0.986444, 6
+3, Tonic, 0.770824, 6
+3, fab cocktails, 0.785862, 7
+3, friendly bar staff, 0.728897, 7
+3, fantastic cocktails, 0.846314, 8
+3, bar staff, 0.800066, 8
+3, customer service, 0.722392, 9
+3, pristine environment, 0.630239, 9
+4, crazy fruit garnishes, 0.952079, 0
+4, Lemon Drops, 0.945612, 0
+4, cocktail emporia, 0.880545, 1
+4, George Street, 0.793517, 1
+4, dirty vodka martini, 0.989142, 2
+4, Lemon Drop, 0.970809, 2
+4, fairest way, 0.818069, 3
+4, bar staff, 0.813137, 3
+4, Tonic, 0.761796, 4
+4, pretty major flaws, 0.918539, 6
+4, effectivly fruit juice, 0.918315, 6
+4, cocktail art, 0.897276, 7
+4, single drink, 0.839288, 7
+4, tasty tipples, 0.832372, 8
+4, good-looking waiters, 0.811002, 8
+4, sheer quality, 0.800073, 9
+5, watering hole, 0.664575, 0
+5, important birthdays, 0.660162, 0
+5, actual jam jar, 0.808765, 1
+5, Bloody Mary, 0.653569, 1
+5, George street, 0.644829, 2
+5, concoction, 0.542285, 2
+5, stairs, 0.539744, 3
+5, swap, 0.532636, 4
+5, people, 0.559202, 6
+5, waiters, 0.541885, 6
+5, brilliant atmosphere, 0.697296, 7
+5, modest place, 0.689061, 7
+5, excellent cocktail bar, 0.948977, 8
+5, reasonably sized group, 0.789414, 8
+5, varied menu, 0.653897, 9
+5, friendly service, 0.643603, 9

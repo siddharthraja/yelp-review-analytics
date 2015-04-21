@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, Grilled Niman Ranch, 0.836047, 0
+1, Pork Rack Chop, 0.824525, 0
+1, compltely lackluster dinner, 0.864861, 1
+1, Mickey Mouse operation, 0.849929, 1
+1, overwhelming orange dish, 0.820175, 2
+1, service, 0.766135, 2
+1, dinky pork chop, 0.828351, 3
+1, lukewarm vegetable soup, 0.823249, 3
+1, broccoli rabe, 0.874616, 4
+1, blank stare, 0.935913, 6
+1, food, 0.926775, 6
+1, favorite restaurant, 0.822053, 7
+1, calamari appetizer, 0.729808, 7
+1, Sticky toffee pudding, 0.861283, 8
+1, Tuscan white gigante, 0.829672, 8
+1, good food, 0.749041, 9
+2, service ok.  ambiance, 0.724972, 0
+2, great food, 0.70647, 0
+2, food service, 0.718267, 1
+2, school jazz band, 0.695711, 1
+2, jazz band, 0.748343, 2
+2, Lobster cream sauce, 0.703648, 2
+2, risotto balls, 0.808296, 3
+2, lobster crab cakes, 0.703271, 3
+2, food, 0.942981, 4
+2, service, 0.827927, 4
+2, restaurant, 0.89124, 5
+2, time, 0.768334, 5
+2, gift certificate, 0.734263, 6
+2, good steak, 0.718925, 6
+2, risotto balls appetizer, 0.715036, 7
+2, pretty substantial price, 0.71339, 7
+2, tomato sauce, 0.739446, 8
+2, good looking guy, 0.725903, 8
+3, eclectic American restaurant, 0.806043, 0
+3, Catholic high school, 0.801091, 0
+3, service based industry, 0.808987, 1
+3, good ideas, 0.797959, 1
+3, special limited menu, 0.817744, 2
+3, wild boar, 0.803809, 2
+3, small room, 0.850994, 3
+3, dining room, 0.847024, 3
+3, dinner package, 0.964526, 4
+3, food, 0.913973, 4
+3, restaurant, 0.918311, 5
+3, service, 0.917116, 5
+3, customer service, 0.818512, 6
+3, good experience, 0.805287, 6
+3, favorite sports bar, 0.81788, 7
+3, bar area, 0.806951, 7
+3, tenderloin ala Blue, 0.82012, 8
+3, microbrew amber ale, 0.802752, 8
+3, sticky toffee pudding, 0.860733, 9
+3, great waiter, 0.806239, 9
+4, night dinner date, 0.5897, 0
+4, sticky toffee pudding, 0.728186, 3
+4, sea bass, 0.681008, 3
+4, bar, 0.639089, 4
+4, calamari, 0.635052, 4
+4, blue, 0.80497, 5
+4, food, 0.77601, 5
+4, wild boar, 0.957594, 6
+4, live music, 0.779871, 6
+4, Friday night, 0.644874, 7
+4, beef tenderloin, 0.629766, 7
+4, great wine selection, 0.651029, 8
+4, jazz band, 0.619816, 8
+4, great atmosphere, 0.589376, 9
+5, breadcrumb coated risotto, 0.709756, 0
+5, good foie gras, 0.709329, 0
+5, dark chocolate cheesecake, 0.696055, 2
+5, foie gras, 0.750647, 3
+5, lemon bar, 0.734408, 3
+5, restaurant, 0.740199, 4
+5, wild boar, 0.975749, 5
+5, blue, 0.894782, 5
+5, Wild Boar entree, 0.705524, 6
+5, Great Job BLUE., 0.703347, 6
+5, service, 0.811335, 7
+5, tenderloin ala blue, 0.726377, 7
+5, dinner, 0.733239, 8
+5, great service, 0.729487, 8
+5, Shaw Delicious dinner, 0.715499, 9
+5, extremely cordial waitstaff, 0.706522, 9

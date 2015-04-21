@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+2, Stoli vodka sodas, 0.9408, 0
+2, great venue, 0.742772, 0
+2, Terrible food, 0.67538, 1
+2, drinks, 0.529409, 1
+2, bar, 0.742581, 2
+2, drunken nights, 0.71535, 2
+2, smoking, 0.518461, 3
+2, PA, 0.455986, 3
+2, decent selection, 0.73127, 6
+2, draft beers, 0.716651, 6
+2, Consol Energy Center, 0.910241, 7
+2, small yipping dog, 0.868494, 7
+2, cute little venue, 0.908069, 8
+2, performance venue, 0.672134, 8
+3, open mic kind, 0.875144, 0
+3, old Thunderbird dive, 0.845902, 0
+3, burnt bean burgers, 0.848685, 1
+3, vomit inducing, 0.707668, 1
+3, fancy tex-mex tacos, 0.925921, 2
+3, old bar staples, 0.849895, 2
+3, serviceable pool table, 0.930536, 3
+3, bad venue, 0.703176, 3
+3, fancy tacos, 0.76608, 6
+3, cover, 0.569212, 6
+3, Wide selection, 0.709643, 7
+3, good shows, 0.699278, 7
+3, good night, 0.697914, 8
+3, fingers, 0.536539, 8
+3, good low-key place, 0.931642, 9
+3, friends, 0.538968, 9
+4, good bands, 0.770508, 0
+4, Sunday night regulars, 0.764125, 0
+4, Bon Ton Parade, 0.762222, 1
+4, unpopular bands, 0.723443, 1
+4, low key bar, 0.792695, 2
+4, dank/dirty ladies room, 0.76429, 2
+4, Cool local bar, 0.788055, 3
+4, stage, 0.779848, 3
+4, live music, 0.861833, 4
+4, bar, 0.841223, 4
+4, bands, 0.798119, 5
+4, Thunderbird, 0.793893, 5
+4, decent bar food, 0.808455, 6
+4, Super nice staff, 0.778564, 6
+4, harris grill bcs, 0.957643, 7
+4, chicken sandwich, 0.843165, 7
+4, sweet potato fries, 0.937164, 8
+4, place, 0.883577, 8
+4, good job, 0.723599, 9
+5, small dance floor, 0.734054, 0
+5, Great Bar Food, 0.715035, 0
+5, t-bird, 0.308342, 3
+5, karaoke, 0.276861, 3
+5, chicken fingers, 0.591233, 6
+5, good time, 0.529922, 6
+5, Thunderbird Cafe, 0.530156, 7
+5, club seating, 0.498081, 7
+5, grilled cheese sandwiches, 0.933957, 8
+5, patio type thing, 0.848434, 8
+5, deals, 0.252926, 9

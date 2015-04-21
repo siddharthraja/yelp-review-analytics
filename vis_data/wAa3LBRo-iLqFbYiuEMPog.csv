@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, cloudy pale ale, 0.782173, 0
+1, Saturday afternoon service, 0.752378, 0
+1, worst beer pour, 0.801336, 1
+1, wet rag, 0.632338, 1
+1, California burger, 0.71891, 2
+1, beer bar, 0.686197, 2
+1, dark beer lover, 0.802499, 3
+1, locally sourced beef, 0.763875, 3
+1, food, 0.701687, 4
+1, server, 0.634985, 4
+1, way, 0.582076, 5
+1, Goose Island, 0.824345, 6
+1, automatic meat cooker, 0.758917, 6
+1, Free House Pub, 0.771845, 7
+1, great burger, 0.730334, 7
+1, great bar burger, 0.920783, 8
+1, craft tap beer, 0.828348, 8
+2, burger joint, 0.639826, 0
+2, defunct Wonder Bread, 0.552028, 0
+2, entire burger, 0.660797, 1
+2, mealy mushy mouth, 0.567335, 1
+2, burgers, 0.427205, 2
+2, fryer oil, 0.738867, 3
+2, fries, 0.537181, 3
+2, burger, 0.901514, 5
+2, parmesan garlic, 0.455196, 6
+2, local meat, 0.440419, 6
+2, Pub Grub, 0.687235, 7
+2, great burger, 0.651101, 7
+2, basic cheese burger, 0.793129, 8
+2, quick burger, 0.72063, 8
+2, different seasonings, 0.449629, 9
+2, interesting twist, 0.434323, 9
+3, California burger, 0.563329, 0
+3, huge beer consumer, 0.551918, 0
+3, forthright language trickery, 0.486819, 1
+3, pressurization problem, 0.421561, 2
+3, dark wood, 0.421126, 2
+3, bar space, 0.419273, 3
+3, place, 0.670095, 4
+3, service, 0.44268, 4
+3, burger, 0.988458, 5
+3, beer, 0.974201, 5
+3, medium cooked burger, 0.663087, 6
+3, mediocre burger place, 0.657119, 6
+3, black bean burger, 0.632484, 7
+3, shoe string fries, 0.584642, 7
+3, fresh cut fries, 0.757762, 8
+3, tap beer selection, 0.665584, 8
+3, large beer selection, 0.550911, 9
+3, average tasting burgers, 0.548773, 9
+4, family size fries, 0.620772, 0
+4, Kentucky Bourbon burger, 0.614903, 0
+4, new burger joint, 0.60791, 3
+4, turkey burger, 0.550449, 3
+4, burgers, 0.761846, 4
+4, beer, 0.855546, 5
+4, fries, 0.832564, 5
+4, burger, 0.845769, 6
+4, burger coupon, 0.564791, 6
+4, brews brothers, 0.986254, 7
+4, sweet potato fries, 0.703679, 7
+4, beer selection, 0.673595, 8
+4, california burger, 0.623008, 8
+4, fries selection, 0.615219, 9
+4, Rajun Cajun Burger, 0.601845, 9
+5, turkey burger option, 0.631796, 0
+5, tap line pressure, 0.505371, 0
+5, previous reviewer, 0.502626, 1
+5, flat screen TV, 0.506001, 2
+5, GOOD bar food, 0.505279, 2
+5, place, 0.486455, 4
+5, burgers, 0.670635, 5
+5, food, 0.539501, 5
+5, black bean burger, 0.682504, 6
+5, best burger, 0.553623, 6
+5, burger, 0.98493, 7
+5, kentucky bourbon burger, 0.807472, 7
+5, beer selection, 0.754088, 8
+5, fresh cut fries, 0.694268, 8
+5, Sweet potato fries, 0.55066, 9
+5, Good beer selection, 0.5395, 9

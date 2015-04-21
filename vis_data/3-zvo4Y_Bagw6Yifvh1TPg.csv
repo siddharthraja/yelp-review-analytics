@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, customer service attitude, 0.403686, 0
+1, wine bar, 0.264995, 0
+1, Enotria groupon, 0.412051, 1
+1, horrible experience, 0.221161, 1
+1, South West flight, 0.438795, 2
+1, entire platter, 0.416497, 2
+1, restaurant, 0.279585, 3
+1, Enotria, 0.56875, 4
+1, food, 0.344768, 4
+1, wine, 0.371552, 5
+1, cheese platter, 0.918422, 6
+1, shopping plaza, 0.458236, 6
+1, White Chocolate Grill, 0.764118, 7
+1, amazing meal, 0.217048, 7
+1, good selection, 0.409695, 8
+1, reputable establishment, 0.212545, 8
+1, relatively good selection, 0.395702, 9
+1, positive thing, 0.214866, 9
+2, unscrupulous business practices, 0.959903, 0
+2, Ladies Night, 0.947668, 0
+2, quality deli delivery, 0.846873, 1
+2, owner, 0.661032, 1
+2, redeeming factor, 0.605722, 2
+2, star rating, 0.589031, 2
+2, customers, 0.480259, 4
+2, website, 0.365132, 6
+2, right, 0.35716, 6
+2, better wine bars, 0.821539, 7
+2, glass, 0.726256, 7
+4, smaller boutique producers, 0.946259, 0
+4, White Chocolate Grill, 0.944516, 0
+4, disappointment, 0.567901, 2
+4, stars, 0.548416, 2
+4, credit card, 0.775102, 3
+4, hidden bathroom, 0.754688, 3
+4, wine club, 0.779227, 6
+4, goodness sake, 0.763572, 6
+4, wine, 0.873058, 7
+4, monthly selections, 0.765236, 7
+4, room type seating, 0.966482, 8
+4, wine magazines, 0.752645, 8
+4, enjoyable evening, 0.743764, 9
+4, good conversation, 0.728614, 9
+5, new ownership, 0.981599, 0
+5, profits, 0.544241, 0
+5, Enotria, 0.629019, 6
+5, bordeaux blend, 0.951497, 7
+5, ONEHOPE Merlot, 0.897611, 7
+5, better selection, 0.919746, 8
+5, fun wines, 0.820733, 9
+5, TONS, 0.561924, 9

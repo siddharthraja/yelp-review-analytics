@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+3, large Wal-Mart shopping, 0.951816, 0
+3, nice little neighborhood, 0.892063, 0
+3, skinny bar, 0.581668, 2
+3, tiny space, 0.554052, 2
+3, comedy nights, 0.564826, 3
+3, Meatheads, 0.283376, 3
+3, huge supporter, 0.614031, 6
+3, local music, 0.538736, 6
+3, Jamba Juice, 0.638801, 7
+3, Panda Express, 0.568918, 7
+3, bartender, 0.233787, 8
+4, nice bar tenders, 0.97595, 0
+4, bad thing, 0.762253, 0
+4, pickle shots, 0.73651, 2
+4, slim girls, 0.72371, 2
+4, cheap drinks, 0.759884, 3
+4, best venue, 0.715407, 3
+4, small long place, 0.95238, 6
+4, older woman, 0.92956, 6
+4, good selection, 0.746488, 7
+4, local place, 0.731592, 7
+4, lively bunch, 0.717669, 8
+4, favorite teams, 0.705622, 8
+5, Michiganders, 0.367139, 0
+5, hi, 0.311728, 0
+5, beer, 0.260094, 6
+5, occasional touring bands, 0.96147, 7
+5, Red Wings fan, 0.89567, 7
+5, inexpensive drink, 0.702373, 9
+5, good conversation, 0.568708, 9

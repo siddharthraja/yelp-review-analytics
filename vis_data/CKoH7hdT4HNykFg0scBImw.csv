@@ -1,0 +1,11 @@
+rating, keyword, relevance, bucket
+4, good accoustics, 0.96542, 0
+4, small venue, 0.893212, 0
+4, local scene, 0.774695, 6
+5, caliber, 0.69722, 0
+5, location, 0.628242, 0
+5, regrets, 0.726095, 1
+5, bar, 0.625431, 2
+5, vanilla ice, 0.829766, 3
+5, hardcore, 0.672302, 3
+5, amazing shows, 0.920697, 7

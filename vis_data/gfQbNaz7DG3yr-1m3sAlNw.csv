@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, Cousin Vinny, 0.961826, 1
+1, sign, 0.531487, 1
+2, dive, 0.637077, 0
+2, dump, 0.937719, 3
+2, parking, 0.757261, 6
+2, cars, 0.573574, 6
+4, doorbell, 0.483447, 0
+4, admittance, 0.481041, 0
+4, plain ole weirdness, 0.946095, 1
+4, Great local dive, 0.887558, 1
+4, Odd groups, 0.646405, 2
+4, celebrity standee, 0.633244, 2
+4, turkey wrap, 0.635671, 3
+4, existentialism, 0.461836, 3
+4, mannequins, 0.470887, 6
+4, trip, 0.447701, 6
+4, Locals, 0.463941, 7
+4, authentic experience, 0.648524, 8
+4, sort, 0.458007, 8
+4, pleasant friendly vibe, 0.928195, 9
+4, drinks, 0.455672, 9
+5, shitty TV, 0.903841, 0
+5, thing, 0.616587, 0
+5, tourists, 0.637753, 2
+5, parking lot monitors, 0.850029, 7
+5, kinda, 0.673746, 7
+5, weekdays, 0.664203, 8
+5, donut, 0.658747, 8
+5, Vinny, 0.798365, 9

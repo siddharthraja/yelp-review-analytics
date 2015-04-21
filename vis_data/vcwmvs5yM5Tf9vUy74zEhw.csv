@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, place, 0.333445, 0
+2, thing, 0.269922, 0
+2, university bar, 0.554305, 1
+2, mistake, 0.303378, 1
+2, decent attempt, 0.586624, 2
+2, Disaster, 0.282533, 2
+2, Eek, 0.32049, 3
+2, Patty, 0.289993, 3
+2, complete trainwreck, 0.536129, 4
+2, bar/night scene, 0.494582, 4
+2, Veggie burger, 0.592385, 7
+2, quintessential lunch lady, 0.943238, 8
+2, mystery sludge, 0.531144, 8
+3, usual chicken tender, 0.918079, 0
+3, bacon cheeseburger, 0.702707, 0
+3, mess, 0.463191, 1
+3, cheap drinks, 0.689417, 2
+3, beef patty, 0.659821, 2
+3, chicken tenders, 0.737832, 3
+3, fat swaths, 0.623033, 3
+3, maximum crunch, 0.647966, 6
+3, surface area, 0.607829, 6
+3, regular fries, 0.67904, 8
+3, sweet potato fries, 0.883479, 9
+4, bar area, 0.701365, 0
+4, high top tables, 0.698548, 0
+4, massive screen tv, 0.846779, 1
+4, poutine variants, 0.722122, 1
+4, McGinnis front row, 0.710335, 2
+4, haute cuisine restaurant, 0.859786, 3
+4, buffets, 0.54357, 3
+4, kids, 0.606714, 5
+4, university sports bar, 0.889825, 6
+4, big screen television, 0.86565, 6
+4, favourite menu items, 0.872058, 7
+4, stir fry, 0.718053, 7
+4, pretty independent establishment, 0.947893, 8
+4, throwback Blue Jays, 0.869339, 8
+4, big sports game, 0.842613, 9
+4, Great pizza, 0.731584, 9

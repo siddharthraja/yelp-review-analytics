@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+2, Burger King, 0.930816, 0
+2, little bit, 0.832528, 0
+2, drinks order, 0.851652, 1
+2, food, 0.698271, 1
+2, burger, 0.962964, 2
+2, people, 0.836337, 2
+2, large group, 0.840077, 3
+2, great experience, 0.805756, 3
+2, Au Bar, 0.913075, 6
+2, green exterior, 0.867546, 6
+2, staff, 0.500029, 7
+2, lovely place, 0.78836, 8
+2, menu, 0.499173, 9
+3, preferred imbibing quarters, 0.835411, 0
+3, hot beef strips, 0.806254, 0
+3, proper alcoholic drink, 0.853127, 1
+3, cheeseburger, 0.638762, 1
+3, bars, 0.673922, 2
+3, purgatory, 0.628282, 2
+3, Au Bar, 0.998209, 3
+3, fuss, 0.627197, 3
+3, Au Bar., 0.779527, 6
+3, super plush, 0.724767, 6
+3, pub grub fare, 0.814924, 7
+3, soft drink, 0.74014, 7
+3, cutsey art-deco, 0.729929, 8
+3, ample room, 0.72655, 8
+3, guest ales, 0.716894, 9
+3, great turnover, 0.715414, 9
+4, typical pub food, 0.758324, 0
+4, stylish bar, 0.718328, 0
+4, works drinks, 0.683769, 1
+4, glossy bars, 0.672751, 1
+4, market Au Bar, 0.789293, 2
+4, city centre bars, 0.753173, 2
+4, real negative point, 0.729026, 3
+4, pleasant bar, 0.687912, 3
+4, Au Bar, 0.955034, 4
+4, city centre, 0.766854, 4
+4, Mexican type foods, 0.75602, 6
+4, cocktail bar wankery, 0.746351, 6
+4, nice enough pub, 0.700782, 7
+4, good bit, 0.691414, 7
+4, quality malt whiskeys, 0.743551, 8
+4, good quality, 0.678919, 8
+4, fairly lively crowd, 0.744015, 9
+4, good selection, 0.698762, 9
+5, food, 0.498947, 0
+5, cute cafe, 0.919016, 3
+5, hip bar, 0.791629, 3
+5, vibe, 0.67409, 6
+5, staff, 0.499546, 6
+5, favorite place, 0.929524, 7
+5, Edinburgh, 0.620012, 7
+5, atmosphere, 0.616248, 8

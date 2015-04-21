@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, Poor service, 0.74751, 0
+1, red flag, 0.678246, 0
+1, Bar staff, 0.758013, 1
+1, food, 0.592587, 1
+1, burger night cause, 0.923835, 2
+1, bucket, 0.404417, 2
+1, Redds ale, 0.768481, 7
+1, ShockTop, 0.386624, 7
+4, long wait, 0.589008, 0
+4, peak times, 0.563649, 0
+4, bad bar, 0.566177, 2
+4, bar experience, 0.564546, 3
+4, pretty solid pool, 0.704107, 6
+4, East Carson, 0.574598, 6
+4, nice selection, 0.577818, 7
+4, Copper Tops, 0.570335, 7
+4, craft beers, 0.942784, 8
+4, Monday evening, 0.599755, 8
+4, delicious Southside pizza, 0.754262, 9
+4, burger board offer, 0.745971, 9
+5, food menu, 0.942569, 0
+5, Wednesdays, 0.582204, 0
+5, burgers, 0.821638, 2
+5, bad service, 0.994102, 3
+5, place, 0.539202, 3
+5, best time, 0.912045, 6
+5, ha, 0.574366, 6
+5, peak time, 0.977565, 7
+5, evening, 0.584694, 7

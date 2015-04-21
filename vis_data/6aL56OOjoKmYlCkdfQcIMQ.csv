@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, main man orders, 0.68169, 0
+1, cheese garlic bread, 0.665888, 0
+1, service, 0.690869, 1
+1, slow service, 0.666853, 1
+1, turkey bacon melt, 0.863415, 2
+1, actual bar/restaurant area, 0.697299, 2
+1, food, 0.823218, 3
+1, time, 0.763254, 3
+1, waitress, 0.951066, 4
+1, place, 0.806398, 4
+1, greasiest potato skins, 0.663962, 6
+1, app menu, 0.602579, 6
+1, main man, 0.709541, 7
+1, Peter Pipers Pizza, 0.662821, 7
+2, biggest pet peeve, 0.893671, 0
+2, buffalo chicken salad, 0.789951, 0
+2, new job cuz, 0.912211, 1
+2, bartenders, 0.450164, 1
+2, excruciatingly slow service, 0.803516, 2
+2, food, 0.732024, 2
+2, physical separation, 0.633848, 3
+2, lunch time, 0.624653, 3
+2, time, 0.715685, 5
+2, place, 0.674061, 5
+2, dingy pub, 0.644447, 6
+2, fair shake, 0.621182, 6
+2, spinach dip, 0.657214, 7
+2, Pot skins, 0.637936, 7
+2, bbq burger, 0.66653, 8
+2, decent cheesesteak, 0.660576, 8
+2, cheeseburger sliders, 0.628531, 9
+2, good size, 0.612794, 9
+3, Wed. afternoon, 0.564184, 0
+3, nachos, 0.289119, 0
+3, hot sauce base, 0.778799, 1
+3, better people, 0.488398, 1
+3, stomach aches, 0.545077, 2
+3, half home, 0.515513, 2
+3, trivia night, 0.481665, 3
+3, waitress, 0.28355, 3
+3, hot sauce, 0.941938, 4
+3, food, 0.322723, 5
+3, kind, 0.336594, 6
+3, X-L pizza w/, 0.824114, 7
+3, Parmesan garlic wings, 0.765261, 7
+3, barbecue burger, 0.52378, 8
+3, hour/bar hour discounts, 0.520017, 8
+3, manager  Rick, 0.551246, 9
+3, customer service, 0.53903, 9
+4, TV action times, 0.760166, 0
+4, pepperoni pizza, 0.686507, 0
+4, new clientele, 0.592503, 1
+4, new business, 0.586641, 1
+4, sports bar, 0.737457, 3
+4, great beer drink, 0.715505, 3
+4, service, 0.777025, 5
+4, tailgaters, 0.670538, 6
+4, burger, 0.661183, 6
+4, descent bar food, 0.722603, 7
+4, BBQ burger, 0.641346, 7
+4, pizza, 0.945511, 8
+4, pizza special, 0.725997, 8
+4, decent beer selection, 0.726861, 9
+4, favorite entree, 0.610854, 9
+5, ta watch, 0.703112, 0
+5, Busy environment, 0.686684, 0
+5, Food isnt, 0.690675, 1
+5, smaller bar, 0.672376, 2
+5, huge fan, 0.648466, 2
+5, brand Tailgaters, 0.701879, 3
+5, Karaoke, 0.565764, 3
+5, food, 0.958146, 4
+5, great bar food, 0.941246, 6
+5, good work Tailgaters, 0.822385, 6
+5, great service, 0.821139, 7
+5, great place, 0.81775, 7
+5, Great tv set, 0.822165, 8
+5, steak cut fries, 0.806822, 8
+5, toasted bun, 0.717921, 9
+5, great pizza, 0.713897, 9

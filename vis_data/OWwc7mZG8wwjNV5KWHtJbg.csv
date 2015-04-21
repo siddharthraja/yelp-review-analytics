@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, oyster bar Kevin, 0.653841, 0
+1, crappy crab cocktail, 0.650808, 0
+1, sunset station, 0.871099, 1
+1, ass lazy cook, 0.615948, 1
+1, hot asphalt roads, 0.638818, 2
+1, little line, 0.490047, 2
+1, oyster bar, 0.931179, 3
+1, station oyster bar, 0.857852, 3
+1, time, 0.447502, 4
+1, mister, 0.390338, 4
+1, entire staff, 0.492684, 6
+1, Great food, 0.485491, 6
+1, Manhattan clam chowder, 0.702597, 7
+1, red beans, 0.517522, 7
+1, BEST flavor, 0.476633, 8
+2, live Maine Lobster, 0.797847, 0
+2, waitress Farah, 0.604322, 0
+2, fettuccine Alfredo, 0.928349, 1
+2, bread rolls, 0.856332, 1
+2, extremely spicy, 0.622848, 2
+2, person infront, 0.57737, 2
+2, England Clam Chowder, 0.813326, 3
+2, pepper mills, 0.586623, 3
+2, place, 0.531486, 4
+2, food, 0.47122, 4
+2, crab legs, 0.847185, 6
+2, Red Lobster, 0.580246, 6
+2, star eatery, 0.598324, 7
+2, Small things, 0.560545, 7
+3, crab pan roast, 0.683769, 0
+3, Palace Station, 0.651363, 0
+3, TERRIBLE service, 0.556037, 1
+3, Oyster Bar, 0.645897, 2
+3, small place, 0.554374, 2
+3, large soup container, 0.586321, 3
+3, cross contamination things, 0.584321, 3
+3, oysters, 0.629183, 4
+3, non food items, 0.584554, 6
+3, better sauce accompaniments, 0.583662, 6
+3, food, 0.585796, 7
+3, white fish, 0.550603, 7
+3, pan roast, 0.985271, 8
+3, House Pan Roast, 0.771119, 8
+3, Signature pan roast, 0.678381, 9
+4, house pan roast, 0.697205, 0
+4, crab pan roast, 0.655436, 0
+4, Sunset Station, 0.659435, 3
+4, ........, 0.566603, 3
+4, pan roast, 0.964206, 4
+4, oyster bar, 0.786233, 4
+4, seafood, 0.705462, 5
+4, shrimp, 0.640051, 5
+4, food, 0.63906, 6
+4, combo pan roast, 0.606505, 6
+4, great pan roast, 0.611943, 7
+4, good seafood, 0.600878, 7
+4, Signature Pan Roast, 0.602197, 8
+4, crab leg craving, 0.574167, 8
+4, seafood fix, 0.580419, 9
+4, Great undeniable flavor, 0.562272, 9
+5, oyster pan roast, 0.486284, 0
+5, Station Oyster Bar, 0.427607, 0
+5, numerous other oyster, 0.374412, 1
+5, sandy oyster, 0.368587, 1
+5, oyster bars, 0.418653, 2
+5, best oyster bars, 0.390875, 2
+5, Palace Station, 0.42486, 3
+5, pan roast, 0.940411, 4
+5, spice level, 0.43276, 4
+5, food, 0.40346, 5
+5, oyster bar, 0.836849, 6
+5, signature pan roast, 0.537414, 6
+5, clam chowder, 0.568648, 7
+5, pan roast place, 0.465532, 7
+5, crab pan roast, 0.641223, 8
+5, Delicious pan roast, 0.450799, 8
+5, Combo pan roast, 0.449095, 9
+5, decent priced seafood, 0.360213, 9

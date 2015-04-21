@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+1, negative stars, 0.716254, 0
+1, gang bangers, 0.694124, 0
+1, old geezers, 0.713111, 1
+1, bug spray, 0.672913, 1
+1, little gambling room, 0.867656, 2
+1, bar, 0.646594, 2
+1, bar manager, 0.615987, 3
+1, bartenders, 0.576457, 3
+1, perfectly good lunch, 0.933208, 6
+1, complete waste, 0.669897, 6
+1, in-house dealer, 0.641457, 7
+1, hangouts, 0.48085, 7
+2, couple drinks, 0.888717, 0
+2, Customer service, 0.762068, 0
+2, average bar food, 0.994957, 1
+2, Food isnt, 0.681829, 1
+4, thrift store turtleneck, 0.381229, 0
+4, hi-tech touchscreen jukebox, 0.379558, 0
+4, Las Vegas, 0.318415, 1
+4, late-night Spring Valley, 0.389147, 2
+4, non gambling distractions, 0.382567, 2
+4, normal sports bar, 0.433239, 3
+4, strip mall bar, 0.412759, 3
+4, place, 0.316999, 4
+4, Bar tender Jim, 0.41138, 6
+4, vintage video games, 0.389284, 6
+4, duh da duh, 0.945433, 7
+4, da duh da, 0.760976, 7
+4, decent sized bar, 0.415176, 8
+4, Chi Bears games, 0.393639, 8
+4, pretty cool vibe, 0.387552, 9
+4, Wednesday comedy night, 0.387206, 9
+5, Best locals bar, 0.736437, 0
+5, style basketball game, 0.725244, 0
+5, random crazy bars, 0.683494, 3
+5, spring valley, 0.682288, 3
+5, MMA showings, 0.609547, 4
+5, johnny vegas fries, 0.855202, 6
+5, big screen TVs, 0.727841, 6
+5, Philly cheese steak, 0.928253, 7
+5, Great size portions, 0.737258, 7
+5, great food, 0.800066, 8
+5, MVP ale, 0.776944, 8
+5, MVPs Sports Lounge, 0.695543, 9

@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, comfy couches, 0.798594, 0
+1, Dear kafein, 0.728648, 0
+1, shisha, 0.273224, 1
+1, dark ambiance, 0.689503, 2
+1, stars, 0.273729, 2
+1, old school jams, 0.983952, 3
+1, short visit, 0.60979, 3
+1, best times, 0.535839, 6
+1, basement, 0.3295, 6
+1, best vibes, 0.651804, 7
+2, vegan cookies, 0.581071, 0
+2, original chips, 0.564199, 0
+2, carrot salad, 0.756663, 1
+2, sandwich soggy, 0.632813, 1
+2, vegie paté sandwich, 0.920594, 2
+2, shisha, 0.377023, 2
+2, bad place, 0.547427, 3
+2, dirty tables, 0.529818, 3
+2, nice homeless fella, 0.75627, 4
+2, good djs, 0.544005, 4
+2, place, 0.559037, 6
+2, business card, 0.550808, 6
+2, White mayonaise pesto, 0.786473, 7
+2, sautéd mushrooms, 0.561191, 7
+2, chewy white bread, 0.801767, 8
+2, snack items, 0.528972, 8
+3, favourite place, 0.601361, 0
+3, small bites, 0.584294, 0
+3, charm, 0.361767, 1
+3, point, 0.350786, 1
+3, hot drinks, 0.599784, 2
+3, bad place, 0.569828, 2
+3, moderately clean hookahs, 0.894344, 3
+3, Eric Van Nguyen, 0.838578, 3
+3, Ok place, 0.635189, 6
+3, espresso-based drinks, 0.597713, 6
+3, shisha Decent vib, 0.930087, 7
+3, fried haloumi sandwich, 0.843647, 7
+3, nice touch, 0.576161, 8
+3, Great vibe, 0.573691, 8
+3, great sandwich, 0.666544, 9
+4, Sunday night groove, 0.964766, 0
+4, Monday jazz night, 0.96194, 0
+4, shabby chic, 0.827387, 2
+4, uptight option, 0.824809, 2
+4, preferred on-campus cafe, 0.936155, 6
+4, comfy couches, 0.847348, 6
+4, tasty sundried tomato, 0.980379, 7
+4, tasty sandiwches, 0.861022, 7
+4, pretty relaxed feel, 0.970066, 8
+4, best shisha spot, 0.953015, 8
+4, pretty nice DJ, 0.937104, 9
+4, cool place, 0.849211, 9
+5, drinking alcoholic beverages, 0.945461, 0
+5, favourite downtown spot, 0.936254, 0
+5, dimly lit bar, 0.887302, 3
+5, cozy atmosphere, 0.674602, 3
+5, coffee shop, 0.574212, 7
+5, great food, 0.572927, 7
+5, place, 0.352301, 8
+5, Kafein, 0.348243, 8

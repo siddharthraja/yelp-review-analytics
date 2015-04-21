@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, promoter Kim Paul, 0.867861, 0
+1, great club shitty, 0.786923, 0
+1, customer service, 0.925035, 1
+1, worst customer service, 0.816567, 1
+1, Sexiest Heroine Contest, 0.74839, 2
+1, pretty cool establishment, 0.744274, 2
+1, club, 0.925434, 3
+1, Drai, 0.836885, 3
+1, night, 0.808514, 4
+1, manager, 0.773821, 4
+1, guy, 0.797867, 5
+1, people, 0.791898, 5
+1, Superhero Themed contest, 0.870692, 6
+1, night life industry, 0.753678, 6
+1, spacious dance floor, 0.745451, 7
+1, complimentary drink ticket, 0.741948, 7
+1, REAL Superhero costume, 0.742576, 8
+2, credit card machine, 0.933709, 0
+2, prepaid admission line, 0.912912, 0
+2, bad night, 0.905996, 1
+2, EXPENSIVE ASS DRINKS, 0.883703, 1
+2, short asian guys, 0.961333, 2
+2, star rating, 0.935301, 2
+2, extra girls, 0.789218, 3
+2, MARQUEE instead., 0.784683, 3
+2, night, 0.964171, 4
+2, Sunday night, 0.926682, 4
+2, club, 0.914413, 5
+2, better night, 0.775105, 6
+2, main club area, 0.910917, 7
+2, night club, 0.79653, 7
+2, venue, 0.704325, 8
+3, table service line, 0.986888, 0
+3, general admission line.., 0.770576, 0
+3, good rooftop views, 0.742704, 1
+3, bartenders suck, 0.643828, 1
+3, huge open gaps, 0.740258, 2
+3, terrible music, 0.640318, 2
+3, group guys, 0.624609, 3
+3, hip hop, 0.621469, 3
+3, Saturday night, 0.883973, 5
+3, dance floor, 0.901857, 6
+3, disco ball, 0.777287, 6
+3, comp table, 0.670223, 7
+3, Fancy shmancy, 0.636994, 7
+3, bachelorette party scavenger, 0.738679, 8
+3, proper common curtesy, 0.727291, 8
+3, amazing DJ, 0.627905, 9
+4, party bus club, 0.56803, 0
+4, vegas strip view, 0.564758, 0
+4, friday night, 0.57801, 2
+4, nightclub dance floor, 0.570865, 3
+4, particular dance floor, 0.567282, 3
+4, music, 0.598259, 4
+4, Vegas club, 0.575766, 4
+4, dance floor, 0.937352, 5
+4, club, 0.78512, 5
+4, pool area, 0.622037, 6
+4, Las Vegas, 0.617349, 6
+4, Nice club, 0.584036, 7
+4, DJ, 0.581075, 7
+4, night club scene, 0.59392, 8
+4, view, 0.56856, 8
+4, disco ball, 0.573229, 9
+4, Las Vegas night, 0.570597, 9
+5, dance floor, 0.640406, 4
+5, people, 0.493988, 4
+5, club, 0.909216, 5
+5, vegas, 0.788296, 5
+5, view, 0.605619, 6
+5, music, 0.579169, 6
+5, new club, 0.522901, 7
+5, las vegas strip, 0.522692, 7
+5, night club, 0.596158, 8
+5, beautiful club, 0.543767, 8
+5, Vegas club scene, 0.48639, 9
+5, friendly club staff, 0.470162, 9

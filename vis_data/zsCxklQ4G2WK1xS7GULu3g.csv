@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+3, chicken fingers, 0.778914, 0
+3, fried zucchini, 0.770845, 0
+3, raw onions, 0.944313, 1
+3, good sports bar, 0.929956, 1
+3, swiss cheese, 0.90751, 2
+3, adajacent Manor Theatre, 0.939052, 3
+3, Solid bar food, 0.915429, 3
+3, movie, 0.690065, 5
+3, draft beer selection, 0.867398, 6
+3, good burger, 0.866576, 6
+3, Fandango Chicken Salad, 0.911915, 7
+3, Great draft list, 0.863794, 7
+3, happy hour time, 0.788951, 8
+3, broccoli salad, 0.778667, 8
+3, good food, 0.796148, 9
+3, Nice selection, 0.758081, 9
+4, fave local bar, 0.724522, 0
+4, ice cold beer, 0.678251, 0
+4, bar scene post-college, 0.694067, 1
+4, sports bar, 0.911718, 2
+4, Pittsburgh sports bar, 0.857383, 2
+4, good bar food, 0.805158, 3
+4, slimy chicken skin, 0.664364, 3
+4, Philly bar, 0.624008, 4
+4, Silky, 0.731488, 5
+4, game, 0.615513, 5
+4, bar food, 0.808608, 6
+4, waffle fries, 0.788553, 6
+4, great go-to bar, 0.717436, 7
+4, great bar, 0.694748, 7
+4, french onion soup, 0.822833, 8
+4, solid bar food, 0.717288, 8
+4, Silky Burger, 0.648015, 9
+5, Cabbage dinner special, 0.918622, 0
+5, BROCCOLI SALAD, 0.727648, 0
+5, work, 0.340537, 2
+5, friends, 0.375495, 3
+5, past, 0.342684, 3
+5, Stars Guy, 0.565642, 6
+5, small neighborhood places, 0.823168, 8
+5, Good burgers, 0.648193, 8

@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+2, steak pie, 0.845307, 0
+2, main dish, 0.690854, 0
+2, fish n chips, 0.793957, 1
+2, table menu, 0.610831, 1
+2, misses, 0.337463, 2
+2, gravy, 0.301188, 3
+2, burger, 0.262787, 3
+2, pub food type, 0.994259, 8
+2, good oysters, 0.759808, 8
+2, friendly service, 0.592972, 9
+2, ambience, 0.296036, 9
+3, rice noodles, 0.671897, 0
+3, food rule, 0.594129, 0
+3, shrimp chips, 0.698882, 3
+3, type, 0.209359, 3
+3, bitters, 0.253022, 6
+3, rocks, 0.204717, 6
+3, warm little spot, 0.867361, 7
+3, quebec politics, 0.599228, 7
+3, drink, 0.212869, 8
+3, charming little sipper, 0.935403, 9
+3, nice decor, 0.716275, 9
+4, chef Martin Juneau, 0.560235, 0
+4, nous faire presser, 0.555607, 0
+4, curry mayonnaise, 0.545266, 2
+4, sweet maple syrup, 0.535265, 2
+4, L'Eglise Saint-Enfant Jesus, 0.554987, 6
+4, pub experience, 0.543071, 6
+4, Pub Sir Joseph, 0.997017, 7
+4, classic pub items, 0.613827, 7
+4, nice selling point, 0.606303, 8
+4, nice starting plate, 0.600171, 8
+4, good pub, 0.586228, 9
+4, interesting lightbulb fixture, 0.539162, 9
+5, Pub Sir Joseph, 0.963387, 0
+5, chaque fois, 0.597885, 0
+5, sloppy joe, 0.599733, 1
+5, sloppy sandwich/burger/wrap/etc eater, 0.822524, 2
+5, disposable income, 0.570242, 2
+5, East Enders, 0.583463, 3
+5, faire presser, 0.566442, 3
+5, rouler par terre, 0.735662, 6
+5, le burger, 0.670043, 6
+5, Sir Burger, 0.701635, 7
+5, Une ambiance, 0.581357, 7
+5, amazing potato wedges, 0.765758, 8
+5, nice staff, 0.588411, 8

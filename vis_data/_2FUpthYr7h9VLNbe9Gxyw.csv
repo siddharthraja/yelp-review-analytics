@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, gorgonzola melted yellow, 0.681617, 0
+1, new cook thing, 0.672252, 0
+1, bar area, 0.57932, 1
+1, poor poor, 0.555817, 1
+1, cheap red wine, 0.709012, 2
+1, green chilies, 0.702097, 2
+1, bottle, 0.685899, 3
+1, bartender, 0.66864, 3
+1, place, 0.654655, 4
+1, bar entrance, 0.57623, 4
+1, dining room, 0.909273, 5
+1, bar, 0.820496, 5
+1, Kitchen staff employee, 0.96052, 6
+1, gorgonzola burger, 0.715793, 6
+1, food, 0.577245, 7
+1, wait staff, 0.561383, 7
+1, little local bar, 0.765345, 8
+1, good sign, 0.568969, 8
+2, intoxicated old man, 0.916758, 0
+2, Sunday night, 0.647538, 0
+2, bartender didnt, 0.69811, 1
+2, friends, 0.370686, 1
+2, KILLER sliders, 0.76134, 2
+2, waitress, 0.329243, 2
+2, times, 0.294206, 3
+2, ritual, 0.292229, 3
+2, place, 0.475071, 4
+2, good bartenders, 0.650936, 6
+2, overall quality, 0.624535, 6
+2, pool tables, 0.895301, 7
+2, way better bars, 0.862546, 7
+2, fantastic sliders, 0.746827, 8
+2, burger, 0.39688, 8
+3, additional trips, 0.698372, 0
+3, Steak sandwich, 0.694548, 0
+3, grill area, 0.673009, 1
+3, little smoky, 0.644242, 1
+3, bad option, 0.682755, 2
+3, food, 0.527575, 3
+3, service, 0.528878, 4
+3, time, 0.495616, 5
+3, bar/video poker den, 0.921721, 7
+3, Cider, 0.46202, 7
+3, nice omelette, 0.802107, 8
+3, Sausage, 0.46834, 8
+4, late night haunts, 0.585746, 0
+4, saturday night, 0.572389, 0
+4, flat screen TV, 0.543834, 1
+4, smokey gaming bars, 0.538727, 1
+4, typical bar fare, 0.547458, 2
+4, fast food, 0.546453, 2
+4, average bar food, 0.584804, 3
+4, gaucho chicken wings, 0.559436, 3
+4, place, 0.687935, 4
+4, food, 0.924008, 5
+4, late night, 0.783899, 5
+4, turkey melt, 0.572431, 6
+4, dining area, 0.567815, 6
+4, good place, 0.594217, 7
+4, Chef Natalie, 0.585199, 7
+4, Pretty good service, 0.62679, 8
+4, nice brie sauce, 0.585542, 8
+4, sweet potato fries, 0.695357, 9
+4, Consistently good food, 0.619466, 9
+5, price menu midnight, 0.919454, 0
+5, dollar Kobe burgers, 0.894163, 0
+5, good bar food, 0.962106, 1
+5, bar area, 0.828135, 1
+5, nice restaurants, 0.887559, 2
+5, Blew my freakin, 0.816167, 3
+5, food, 0.997223, 4
+5, bar, 0.967712, 5
+5, local bar, 0.93191, 6
+5, great local hangout, 0.923613, 6
+5, separate dining area, 0.891001, 7
+5, nice atmosphere, 0.88481, 7
+5, great service, 0.979184, 8
+5, Nice daily specials, 0.95857, 8
+5, great daily specials, 0.961326, 9
+5, AWESOME food selection, 0.95635, 9

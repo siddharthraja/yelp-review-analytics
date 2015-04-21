@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+1, slow sullen service, 0.980448, 0
+1, Liberton Inn, 0.783952, 0
+1, bit, 0.701774, 2
+1, Man, 0.612037, 2
+1, Nest Inn, 0.752483, 3
+1, sausages Cumberland, 0.74854, 3
+1, Wednesday night, 0.738187, 6
+1, Immediate, 0.468637, 6
+1, pub fare bet, 0.996727, 7
+1, chicken fajita, 0.744593, 7
+2, traditional pub fare, 0.981616, 0
+2, tuna baguette, 0.810633, 0
+2, chips, 0.648927, 2
+2, fish, 0.574774, 2
+2, environment, 0.475938, 6
+2, extensive menu, 0.811848, 7
+2, steak, 0.523899, 8
+2, funky, 0.511395, 8
+4, beer, 0.998042, 1
+4, Food, 0.954667, 3

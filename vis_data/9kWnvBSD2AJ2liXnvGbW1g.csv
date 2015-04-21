@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, crispy chicken sandwich, 0.838893, 0
+1, grilled chicken sandwich, 0.800862, 0
+1, free snack size, 0.693237, 1
+1, new manager Steve, 0.690578, 1
+1, friggin caesar salad, 0.716375, 2
+1, sports bar, 0.700056, 2
+1, Buffalo Wild Wings, 0.749329, 3
+1, full-tilt lunch rush, 0.71211, 3
+1, food, 0.83092, 4
+1, service, 0.720003, 4
+1, BWW, 0.720599, 5
+1, chicken ranch sandwich, 0.957075, 6
+1, buffalo chicken ranch, 0.944194, 6
+1, crispy chicken, 0.869774, 7
+1, home delivery options, 0.694752, 7
+1, free wings, 0.781104, 8
+2, Buffalo wild wings, 0.710016, 0
+2, Mediocre service, 0.521036, 0
+2, boneless wings, 0.726322, 1
+2, steelers playoff game, 0.529635, 1
+2, worst place, 0.452242, 2
+2, good restaurant, 0.445705, 2
+2, service, 0.786225, 3
+2, smaller size, 0.518567, 3
+2, food, 0.557736, 4
+2, table, 0.428231, 4
+2, wings, 0.985361, 5
+2, place, 0.690317, 5
+2, snack size wings, 0.698615, 6
+2, customer relations training, 0.559315, 6
+2, great service, 0.5667, 7
+2, major local competitors, 0.524883, 7
+2, cheaper wings, 0.586817, 8
+2, particular TVs, 0.448557, 8
+3, salad   Placed order, 0.684867, 0
+3, hot pants place, 0.670887, 0
+3, deep fried mushrooms, 0.936111, 1
+3, drunk kinda gal, 0.6628, 1
+3, cents charge, 0.568056, 2
+3, overpriced beer, 0.554268, 2
+3, sensory overload, 0.682875, 3
+3, constant staff changes, 0.668794, 3
+3, service, 0.600305, 4
+3, Cold Beer, 0.540818, 4
+3, food, 0.737752, 5
+3, place, 0.73571, 5
+3, new restaurant kinks, 0.705535, 6
+3, counter order area, 0.666597, 6
+3, Good wings, 0.629325, 7
+3, best chicken, 0.577589, 7
+3, good size, 0.66593, 8
+3, entire different staff, 0.66055, 8
+3, chicken salad, 0.584055, 9
+3, ample parking, 0.539649, 9
+4, small service goof, 0.745159, 0
+4, Inattentive wait staff, 0.706913, 0
+4, blazing wing challenge, 0.722193, 1
+4, Insane Clown Posse, 0.716585, 1
+4, good ole BWW, 0.96191, 2
+4, wait staff, 0.732971, 2
+4, TV dead center, 0.7518, 3
+4, good pair, 0.654508, 3
+4, Bud Light biggies, 0.751172, 6
+4, cool tour bus, 0.707518, 6
+4, weekday lunch, 0.723095, 7
+4, mango habanero, 0.629004, 7
+4, audio visual extravaganza, 0.736055, 8
+4, real food, 0.651012, 8
+4, best BWW experience, 0.840369, 9
+4, new BWW, 0.753516, 9
+5, medium buffalo wings, 0.660176, 0
+5, admirable chicken wing, 0.612265, 0
+5, pizza delivery joints, 0.587757, 1
+5, bad night manager, 0.575659, 1
+5, quality chicken wing, 0.612031, 2
+5, high-grade hot wing, 0.607051, 2
+5, fast food drive-thrus, 0.605279, 3
+5, Buffalo Wild Wings, 0.998026, 4
+5, parmesan garlic wings, 0.70791, 5
+5, half parmesan garlic, 0.592048, 6
+5, extra melty cheese, 0.574972, 6
+5, chicken wing mediocrity, 0.613442, 7
+5, Honey BBQ buffalitos, 0.593049, 7
+5, delicious chicken wings, 0.651873, 8
+5, ideal buffalo wing, 0.611498, 8
+5, best chicken wings, 0.660806, 9
+5, food great service, 0.635929, 9

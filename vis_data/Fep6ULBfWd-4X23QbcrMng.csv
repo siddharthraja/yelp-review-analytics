@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, great service, 0.511923, 0
+1, domestic beers, 0.461806, 0
+1, bartender, 0.902402, 1
+1, f'ing weak drinks, 0.813248, 1
+1, Truly awful place, 0.930925, 2
+1, clueless bartender, 0.638269, 2
+1, Monday night, 0.475981, 3
+1, nearly empty bar, 0.397081, 3
+1, Saturday night, 0.431467, 7
+1, good time, 0.442521, 8
+2, weak drinks, 0.652508, 1
+2, loud drunk girls, 0.994442, 3
+2, overpriced drinks, 0.866043, 3
+2, vodka cranberry, 0.726332, 6
+2, vodka soda, 0.718714, 6
+3, nice TVs, 0.545735, 0
+3, couple friends, 0.467044, 0
+3, LAX, 0.277703, 1
+3, casino floor bar, 0.742627, 2
+3, cheaper bars, 0.461413, 2
+3, drink orders, 0.429677, 3
+3, large place, 0.426999, 3
+3, Sam Adams, 0.904831, 4
+3, Miller Lite, 0.890634, 6
+3, bar staff, 0.434902, 6
+3, great time, 0.664539, 8
+3, Fremont Street, 0.441745, 8
+3, Bartender Steven, 0.436756, 9
+4, LAX night club, 0.837799, 0
+4, great pit stop, 0.772874, 0
+4, craps, 0.446508, 1
+4, hotel, 0.445224, 1
+4, dark romantic vibe, 0.775665, 2
+4, bad seat, 0.619482, 2
+4, LAX nightclub, 0.912231, 3
+4, Drink prices, 0.645308, 3
+4, red-eye flight home, 0.827557, 6
+4, Cosmopolitan Flights, 0.62775, 6
+4, individual cocktail services, 0.830383, 7
+4, video poker, 0.79376, 7
+4, super nice waitress, 0.856021, 8
+4, fresh sugar cane, 0.805637, 8
+4, tonic w/ lime, 0.799796, 9
+4, chill bar, 0.635976, 9
+5, Luxor, 0.392294, 0
+5, Im, 0.389086, 2
+5, bar, 0.388601, 2
+5, pina coladas ROCK, 0.906029, 3
+5, freaking butt, 0.715884, 3
+5, stuff, 0.348819, 6
+5, high class hooker, 0.821952, 7
+5, nice feel, 0.598039, 7
+5, pyramid rooms, 0.566556, 9
+5, great pictures, 0.541334, 9

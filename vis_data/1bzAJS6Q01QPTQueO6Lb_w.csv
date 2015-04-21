@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+2, John Leslie, 0.937224, 2
+2, drink, 0.658303, 2
+2, students, 0.572744, 6
+3, bog-standard pub food,but, 0.807533, 0
+3, cheapest drinks deals, 0.689128, 0
+3, cosy pub, 0.673459, 2
+3, massively inspiring bar, 0.669896, 2
+3, standard pub fare, 0.783416, 3
+3, particularly flash pub, 0.757718, 3
+3, bit, 0.591256, 4
+3, pub, 0.948026, 5
+3, Bierex, 0.672934, 5
+3, little bit, 0.590547, 6
+3, bar staff, 0.559933, 6
+3, nice atmosphere, 0.726554, 7
+3, Newington bar crawl, 0.714973, 7
+3, pretty good pub, 0.865879, 8
+3, traditional Newington pub, 0.81838, 8
+3, nice things, 0.581762, 9
+4, usual city bar, 0.952559, 0
+4, plus point, 0.626542, 0
+4, closest place, 0.618706, 1
+4, harshest critics, 0.633363, 3
+4, nearby student accommodation, 0.857037, 6
+4, pubs, 0.37087, 6
+4, Sunday afternoon, 0.629973, 7
+4, odd offer, 0.613085, 7
+4, traditional Scottish Breakfast, 0.833584, 8
+4, charming feel, 0.672619, 8
+4, affordable fun, 0.609036, 9
+4, view Bierex, 0.60535, 9

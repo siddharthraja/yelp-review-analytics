@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+3, stodgy shortcrust bowl, 0.885795, 0
+3, actual dining area, 0.867031, 0
+3, Joe A., 0.690896, 1
+3, main chalkboard, 0.660471, 1
+3, little puff pastry, 0.895295, 2
+3, type, 0.448634, 2
+3, staff, 0.542665, 3
+3, fan, 0.448747, 3
+3, bacon pie, 0.694024, 6
+3, baby sweetcorn, 0.668092, 6
+3, Caley Sample rooms, 0.971926, 7
+3, lamb flank, 0.709087, 7
+3, mulled pear, 0.692111, 8
+3, spicy Crombie, 0.683407, 8
+4, Friday night, 0.619073, 0
+4, regular live music, 0.609974, 0
+4, legendary Caley Sample, 0.651002, 1
+4, little uninviting, 0.523613, 1
+4, weak British beer, 0.609833, 2
+4, beer names, 0.525907, 2
+4, relatively cheap options, 0.584935, 3
+4, patient barman, 0.507156, 3
+4, Caley Sample Room, 0.995385, 6
+4, Bristol Beer Factory, 0.607516, 6
+4, heavy wooden tables, 0.616157, 7
+4, UK craft darlings, 0.594726, 7
+4, quiet midweek pint, 0.636822, 8
+4, best table water, 0.624926, 8
+4, loyal local following, 0.617471, 9
+4, Belgian Beer, 0.527813, 9
+5, barley  risotto, 0.749929, 0
+5, chorizo, 0.444766, 0
+5, fish, 0.355216, 6
+5, berry ice cream, 0.923495, 8
+5, true disciple, 0.708036, 8
+5, Lovely welcome, 0.678297, 9
+5, great beer, 0.629346, 9

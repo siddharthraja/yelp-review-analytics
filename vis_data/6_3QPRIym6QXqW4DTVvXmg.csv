@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, turkey bacon club, 0.771211, 0
+1, food order, 0.460051, 0
+1, Dolly Parton look-alike, 0.919663, 1
+1, Hooligans, 0.609233, 2
+1, bar, 0.577484, 2
+1, Dolly Parton, 0.961521, 3
+1, new food menus, 0.682786, 3
+1, note, 0.231102, 5
+1, friends order, 0.450604, 6
+1, drinks, 0.304202, 6
+1, avocado chicken sandwich, 0.806238, 7
+1, order, 0.550338, 7
+1, good stuff, 0.513291, 8
+2, basic bar food, 0.888191, 0
+2, regular bond paper, 0.86754, 0
+2, jalapeno fries, 0.738617, 1
+2, basic service, 0.737185, 1
+2, exotic meat product, 0.824156, 2
+2, stock paper/resume paper, 0.821989, 2
+2, bar line, 0.757779, 3
+2, single sample, 0.735048, 3
+2, min, 0.738739, 4
+2, positive reviews, 0.99535, 5
+2, place, 0.832982, 5
+2, Big Mass burger, 0.849407, 6
+2, potato skin style, 0.830147, 6
+2, extremely positive reviews, 0.823402, 7
+2, nice guy, 0.75159, 7
+2, Good luck, 0.733233, 8
+2, breakfast platters, 0.719281, 8
+3, amazing flavor, 0.644427, 0
+3, good service, 0.621525, 0
+3, hot mess burger, 0.874015, 1
+3, Jal, 0.526644, 1
+3, bbq sauces, 0.648841, 2
+3, new restaurant, 0.629935, 2
+3, College Football gameday, 0.731969, 3
+3, formal menus, 0.633435, 3
+3, negatives, 0.529899, 4
+3, location, 0.525356, 4
+3, burger, 0.975675, 5
+3, fried pickles, 0.635277, 6
+3, goodies, 0.559781, 6
+3, barbecue burger, 0.824476, 7
+3, flat steak fries, 0.771684, 7
+3, Popper burger, 0.777793, 8
+3, tangy bbq flavor, 0.77645, 8
+3, good burger, 0.780488, 9
+3, establishment, 0.524176, 9
+4, specialty burger menu, 0.847786, 0
+4, next-level bar food, 0.761939, 0
+4, Big Mess burger, 0.854552, 1
+4, owner good thing, 0.758269, 1
+4, bar food, 0.849281, 2
+4, medium burger, 0.721871, 2
+4, typical bar food, 0.79985, 3
+4, fried crispy, 0.703828, 3
+4, burger, 0.944134, 4
+4, burgers, 0.859461, 5
+4, traditional burger veggies, 0.863368, 6
+4, hangover burger, 0.721422, 6
+4, fried avocado, 0.960956, 7
+4, jalapeño popper burger, 0.844133, 7
+4, Big Mass burger, 0.820586, 8
+4, unassuming strip mall, 0.72518, 8
+4, burger places, 0.737441, 9
+4, Good selection, 0.638249, 9
+5, baked potato fries, 0.603067, 0
+5, Smoky BBQ burger, 0.5792, 0
+5, good burger spot, 0.59217, 2
+5, good local bar, 0.547762, 2
+5, old school vegas, 0.618071, 3
+5, best bar food, 0.596169, 3
+5, bar, 0.682642, 4
+5, hangover remedy burger, 0.636697, 4
+5, burger, 0.96387, 5
+5, place, 0.750104, 5
+5, food, 0.771124, 6
+5, baked potato burger, 0.725621, 6
+5, jalapeño fries, 0.754264, 7
+5, popper burger, 0.683205, 7
+5, best burger, 0.580022, 8
+5, fried Jalapeño fries, 0.578469, 8
+5, super good burger, 0.62371, 9
+5, place amazing food, 0.585595, 9

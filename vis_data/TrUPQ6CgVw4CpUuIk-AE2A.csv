@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, young bartender, 0.679117, 0
+1, business, 0.463832, 0
+1, trashy loud-mouthed bar, 0.855918, 1
+1, creepy old men, 0.816312, 1
+1, total dump, 0.658997, 2
+1, old guys, 0.63942, 2
+1, strip club, 0.653639, 3
+1, place, 0.667309, 5
+1, seat, 0.460375, 6
+1, video poker, 0.941479, 7
+1, pretty ghetto, 0.672108, 7
+1, Restaurant Stakeout, 0.728991, 8
+1, TV, 0.461637, 8
+2, completely different impression, 0.885807, 0
+2, dining area reeks, 0.884367, 0
+2, hot wings, 0.926103, 1
+2, dining area, 0.902026, 1
+2, foot high divider/bar, 0.868601, 2
+2, free drinks, 0.783728, 2
+2, skimpy meat, 0.752827, 3
+2, larger crowd, 0.747841, 3
+2, food, 0.773753, 5
+2, French fries, 0.751215, 6
+2, blue cheese, 0.744366, 6
+2, time championship wings, 0.935785, 7
+2, local business, 0.759367, 7
+2, red box movie, 0.862597, 8
+2, chicken sandwich, 0.748382, 8
+2, cool place, 0.768509, 9
+3, fried pickle fan, 0.905428, 0
+3, tempting fries, 0.760563, 0
+3, chain smokers, 0.723844, 1
+3, afternoon, 0.543534, 1
+3, salty fries, 0.752282, 2
+3, bland meat, 0.724221, 2
+3, stu grimson, 0.722049, 3
+3, major complaint, 0.71787, 3
+3, food, 0.815527, 4
+3, service, 0.631397, 5
+3, Hoover Dam, 0.759578, 6
+3, Las Vegas, 0.750937, 6
+3, prime rib sandwich, 0.971173, 7
+3, good cook, 0.738054, 7
+3, Awesome motzy sticks, 0.884944, 8
+3, meatball sandwich, 0.789438, 8
+3, mentioning, 0.549908, 9
+3, staff, 0.546399, 9
+4, fries German style, 0.590591, 0
+4, lunch time visit, 0.576801, 0
+4, Hard drinks, 0.502051, 1
+4, good bar food, 0.632293, 2
+4, local sports bar, 0.588474, 2
+4, small local bar, 0.588135, 3
+4, iced tea, 0.585865, 3
+4, video poker, 0.552742, 4
+4, bar, 0.904551, 5
+4, food, 0.744422, 5
+4, Friendly neighborhood bar, 0.596365, 6
+4, ........, 0.559318, 6
+4, great service, 0.654662, 7
+4, Great Chicago Coneys, 0.594043, 7
+4, great local bar, 0.850187, 8
+4, Great daily specials, 0.568445, 8
+4, Super friendly staff, 0.54898, 9
+4, tomato basil soup, 0.542084, 9
+5, Buffalo Wild Wings, 0.6881, 0
+5, Meatball sandwich, 0.659706, 0
+5, locally driven bar, 0.702917, 1
+5, lake mead loop, 0.682861, 1
+5, yelp price guidelines, 0.718018, 2
+5, draft beer selection, 0.704098, 2
+5, Bay Packers game, 0.707247, 3
+5, bar food, 0.663561, 3
+5, food, 0.869114, 5
+5, fried pork sandwich, 0.738235, 6
+5, best casual dinner, 0.715291, 6
+5, good food, 0.75025, 7
+5, awesome bar tender, 0.726625, 7
+5, prime rib sandwich, 0.920772, 8
+5, great food, 0.805758, 8
+5, atmosphere great food, 0.776976, 9
+5, best fresh fries, 0.744172, 9

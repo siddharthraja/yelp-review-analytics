@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, dollars, 0.202369, 0
+1, new bartender, 0.946933, 2
+1, repeat customer, 0.899028, 2
+1, Ciara, 0.244542, 3
+2, insane wait times, 0.990287, 0
+2, overly salty chips, 0.901507, 0
+2, plate, 0.363245, 1
+2, sour cream, 0.963309, 2
+2, little plastic cup, 0.805799, 2
+2, freezer section, 0.594233, 3
+2, California mix, 0.571023, 3
+2, toppings, 0.422067, 6
+2, pico, 0.400961, 6
+2, French fries, 0.644887, 7
+2, generous portions, 0.592552, 7
+2, extra star, 0.540067, 8
+2, good meal, 0.530318, 8
+3, fish tacos, 0.989115, 0
+3, fried fish, 0.868749, 0
+3, Food, 0.459862, 7
+3, Chips, 0.640845, 8
+3, salsa, 0.63861, 8
+4, Air Force Base, 0.869731, 6
+4, best bars, 0.666253, 6
+4, Good food drinks, 0.966765, 9
+4, mellow environment, 0.700956, 9
+5, tall bue moons, 0.99656, 0
+5, pork sliders, 0.785914, 0
+5, great night, 0.587457, 9
+5, Ciara, 0.522464, 9

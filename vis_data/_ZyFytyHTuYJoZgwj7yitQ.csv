@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, Pepper Jack Burger, 0.916679, 0
+1, Extremely disappointing beer, 0.86568, 0
+1, culinary hell hole, 0.860747, 1
+1, special need puppies, 0.858307, 1
+1, Strip mall bar, 0.891649, 2
+1, projector TV, 0.717629, 2
+1, refill, 0.579852, 3
+1, dusting, 0.54734, 3
+1, deliciously looking turd, 0.888219, 6
+1, appetizer Chips, 0.734134, 6
+1, guacamole, 0.625664, 7
+1, rude service, 0.700016, 8
+1, Good luck, 0.696166, 8
+2, small outdoor patio, 0.898637, 0
+2, senior citizen night, 0.881425, 0
+2, cheap furniture, 0.758538, 1
+2, drink specials, 0.948985, 2
+2, standard dive bar, 0.896965, 2
+2, shallow premium pitcher, 0.910767, 3
+2, chicken sandwich, 0.748965, 3
+2, place, 0.854783, 4
+2, burgers, 0.708921, 5
+2, good quality brews, 0.916518, 6
+2, drink purchase, 0.774687, 6
+2, better drink deals, 0.919874, 7
+2, big wonderbread buns, 0.884626, 7
+2, customer satisfaction, 0.740686, 8
+2, worker performance, 0.739498, 8
+3, Typical beer selection, 0.783686, 0
+3, plain Jane burger, 0.771694, 0
+3, wall local bar, 0.806635, 1
+3, recent Friday night, 0.77616, 1
+3, good bar food, 0.858585, 2
+3, total dive bar, 0.814571, 2
+3, decent bar food, 0.980298, 3
+3, pretty low brow, 0.797726, 3
+3, Saturday night, 0.775607, 4
+3, place, 0.968537, 5
+3, service, 0.729425, 5
+3, cheap drink prices, 0.795944, 6
+3, huge Nebraska Cornhusker, 0.788242, 6
+3, Nice relaxing place, 0.817638, 7
+3, Great local bar, 0.812908, 7
+3, Decent local pub, 0.782188, 8
+3, good time, 0.724129, 8
+3, food items, 0.717963, 9
+4, typical bar food, 0.855485, 0
+4, Old Town club, 0.791961, 0
+4, Canadian Hockey fans, 0.793892, 1
+4, Goodbye Earl, 0.708861, 1
+4, bad place, 0.728413, 2
+4, little biased, 0.709565, 2
+4, simple bar food, 0.84758, 3
+4, fairly awful version, 0.80508, 3
+4, drink, 0.73115, 4
+4, place, 0.839243, 5
+4, Clancy, 0.826412, 5
+4, irish pub, 0.918785, 6
+4, Nice little bar, 0.802752, 6
+4, Great dive bar, 0.813005, 7
+4, great bar tender, 0.811547, 7
+4, good Irish pub, 0.805183, 8
+4, huge Husker fan, 0.800136, 8
+4, Old Town, 0.79764, 9
+4, chill place, 0.720605, 9
+5, aforementioned Saturdays, 0.632932, 0
+5, Game Day atmosphere, 0.605746, 0
+5, real neighborhood pub, 0.776998, 1
+5, bar food, 0.64711, 1
+5, coveted 5-star rating, 0.769263, 2
+5, salty, 0.455126, 2
+5, displaced Nebraska fan, 0.79729, 3
+5, weekly lunch specials, 0.760001, 3
+5, food, 0.990806, 5
+5, dangerous Husker Punch, 0.813168, 6
+5, new ownership, 0.647056, 6
+5, great food, 0.776536, 7
+5, neighborhood Scottsdale bar, 0.767802, 7
+5, good food, 0.932653, 8
+5, wise safety precaution, 0.811724, 8
+5, surprisingly good food, 0.792716, 9
+5, Great job Tracey, 0.791246, 9

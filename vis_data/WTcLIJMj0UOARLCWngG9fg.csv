@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+2, real conundrum, 0.6297, 0
+2, cirque fan, 0.628137, 0
+2, giant ugly baby, 0.937527, 1
+2, unique acrobatic material, 0.858757, 1
+2, time, 0.431538, 2
+2, Ka, 0.388271, 2
+2, good seats, 0.650821, 3
+2, husband, 0.464757, 3
+2, Las Vegas, 0.910398, 4
+2, Mystere, 0.653018, 6
+2, value proposition, 0.60471, 6
+2, movie theater, 0.613609, 7
+2, casino industry, 0.60291, 7
+3, AA seats, 0.930596, 0
+3, theaters, 0.570565, 0
+3, seats, 0.959582, 2
+3, end seats, 0.91525, 2
+3, bad seat, 0.607089, 3
+3, Engvall, 0.250298, 3
+3, snack bar, 0.621921, 6
+3, adult beverages, 0.617914, 6
+3, great theater, 0.534229, 7
+3, goodies, 0.221644, 8
+3, premium, 0.203142, 8
+4, Cirque du Soleil, 0.924636, 0
+4, Nevada Ballet Theatre, 0.683853, 0
+4, complete fucking mess, 0.659303, 1
+4, U.S. American size, 0.639373, 1
+4, Nevada Ballet Theatre/Cirque, 0.641349, 2
+4, good jokes, 0.541388, 2
+4, Mystere, 0.595848, 3
+4, actual theatre, 0.559981, 3
+4, las vegas shows, 0.816504, 5
+4, Mike Jack Cirque, 0.67003, 6
+4, higher seats, 0.541921, 6
+4, box office, 0.664508, 7
+4, Criss Angel, 0.521079, 7
+4, good vantage point, 0.634074, 8
+4, bomb pizza slices, 0.616757, 8
+4, pretty cool casino, 0.646419, 9
+4, treasure island, 0.643792, 9
+5, mid-level seats, 0.463068, 0
+5, Radio City, 0.425999, 0
+5, lower half circle, 0.563866, 2
+5, lower sections, 0.403233, 2
+5, upper sections, 0.396763, 3
+5, girlfriend, 0.303357, 3
+5, Cirque movie, 0.586216, 4
+5, seats, 0.48078, 4
+5, opening act, 0.693505, 5
+5, people, 0.342285, 5
+5, cirque, 0.936445, 6
+5, original resident Cirque, 0.804744, 6
+5, Cirque du Soleil, 0.768902, 7
+5, Cirque Fan, 0.61767, 7
+5, discount..call treasure island, 0.643985, 8
+5, Bravo Cirque, 0.625938, 8

@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, hot/continental buffet, 0.652095, 0
+1, breakfast, 0.377952, 0
+1, la carte, 0.646054, 1
+1, LOUSY, 0.417377, 1
+1, mediterranean omelette, 0.750721, 2
+1, toast, 0.387312, 2
+1, people, 0.350899, 3
+1, hotel lounge, 0.635829, 6
+1, better service, 0.591374, 6
+1, Hilton Monona Terrace, 0.941834, 8
+1, excellent martinis, 0.704074, 8
+3, room service orders, 0.875839, 0
+3, Madison Hilton, 0.752735, 0
+3, mean dirty martini, 0.991506, 2
+3, destination bar, 0.670921, 2
+3, hotel- stop, 0.655176, 3
+3, linger, 0.492325, 3
+3, breakfast several times, 0.755247, 6
+3, namesake olives, 0.699362, 6
+3, nearby convention center, 0.924451, 7
+3, breakfast buffet, 0.860013, 7
+3, Monona Terrace convention, 0.951162, 8
+3, Frank Lloyd Wright, 0.898977, 8
+3, Pretty great view, 0.882053, 9
+5, deep fried wonton, 0.938238, 0
+5, meat platter- cubes, 0.907722, 0
+5, preferre saltine crackers, 0.981928, 3
+5, water crackers, 0.758967, 3
+5, tuna tartare, 0.695513, 7
+5, glass, 0.347533, 7
+5, amazing service, 0.696088, 8
+5, Beautiful view, 0.675154, 8

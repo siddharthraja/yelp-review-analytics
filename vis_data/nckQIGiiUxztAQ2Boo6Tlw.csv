@@ -1,0 +1,11 @@
+rating, keyword, relevance, bucket
+1, cream cheese, 0.960733, 1
+1, stale bagel, 0.854244, 1
+2, typical dine, 0.517729, 0
+2, regular entree, 0.477972, 0
+2, Relatively lazy service, 0.82205, 1
+2, kids breakfast menu, 0.772611, 2
+2, best idea, 0.467369, 2
+2, previous harsh reviews, 0.847712, 3
+2, Taco Salad, 0.531331, 3
+2, sit-down restaurant style, 0.953469, 8

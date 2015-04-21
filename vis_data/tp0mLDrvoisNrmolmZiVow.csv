@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+3, previously consumed drink, 0.909038, 0
+3, cocktail quest, 0.735169, 0
+3, fav ingredients, 0.742212, 3
+3, Nope, 0.49052, 3
+3, fairly boozy, 0.726985, 6
+3, point, 0.505531, 6
+3, cocktail, 0.777798, 7
+3, Lucky Liquor, 0.746987, 7
+3, cool thing, 0.662494, 8
+3, music, 0.488381, 8
+3, cocktail bar, 0.712706, 9
+3, enthusiastic staff, 0.66017, 9
+4, light bulb glass, 0.847109, 0
+4, good cocktails, 0.750297, 0
+4, wild card, 0.685441, 1
+4, overly busy night, 0.870092, 2
+4, weeny tumbler, 0.685206, 2
+4, wee glass, 0.699854, 3
+4, similar bars, 0.689781, 3
+4, people, 0.642098, 4
+4, drinks, 0.700783, 6
+4, clockwork monkey, 0.682215, 6
+4, pseudo pricey cocktails, 0.935212, 7
+4, table service, 0.877165, 7
+4, Lovely little place, 0.907232, 8
+4, Queen street, 0.8876, 8
+4, cocktail options, 0.716615, 9
+4, refreshing change, 0.711313, 9
+5, blue-eyed hipster creature, 0.906028, 0
+5, oh-so-perfect cocktail, 0.754703, 0
+5, cocktail bars, 0.752707, 1
+5, basement setting, 0.636649, 2
+5, multiple further visits, 0.62754, 2
+5, ground floor, 0.626683, 3
+5, narrow venue, 0.616069, 3
+5, seat, 0.493898, 4
+5, Brambles, 0.456404, 4
+5, surprise, 0.503816, 5
+5, personal wasted-time preference, 0.893891, 6
+5, surprising drink, 0.657763, 6
+5, dry vodka martini, 0.800529, 7
+5, greatest cocktails, 0.64338, 7
+5, low-key spot, 0.646537, 8
+5, obsessive desire, 0.639159, 8
+5, favourite cocktail place, 0.900278, 9
+5, boozy concoctions, 0.700866, 9

@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, decent food, 0.72861, 0
+1, sport bar, 0.571814, 0
+1, snotty workers, 0.727793, 1
+1, half-way, 0.339298, 1
+1, hassle, 0.32146, 2
+1, Saturday, 0.303208, 2
+1, Pitchers Pub, 0.710239, 3
+1, good reviews, 0.638722, 3
+1, game, 0.803998, 5
+1, nice big projector, 0.972176, 6
+1, TVs, 0.308632, 6
+1, good space, 0.670534, 7
+1, pool table, 0.656009, 7
+3, frontage road access, 0.943002, 0
+3, great/affordable drink specials, 0.932097, 0
+3, loud heavy metal, 0.926958, 1
+3, older persuasions, 0.778138, 1
+3, dart league, 0.818877, 2
+3, Jule box, 0.772106, 2
+3, pp, 0.54752, 3
+3, Fridays, 0.545914, 3
+3, location, 0.583767, 6
+3, Downsides, 0.574586, 6
+3, dart boards, 0.794493, 7
+3, pool tables, 0.750462, 7
+3, excellent competition, 0.785952, 8
+3, sports fan, 0.744857, 8
+3, huge projector screen, 0.960628, 9
+3, big game, 0.744433, 9
+4, recent renovations, 0.90766, 0
+4, space size, 0.867142, 0
+4, smell, 0.328024, 3
+4, escape, 0.276079, 3
+4, good pool, 0.961098, 8
+4, Madison, 0.252068, 8
+4, vibe, 0.316743, 9
+4, crowd, 0.290806, 9
+5, decent bar food, 0.95123, 0
+5, food daily specials, 0.831412, 0
+5, frosty pint, 0.606825, 2
+5, Miller Light, 0.556742, 2
+5, massive iPhone, 0.595147, 3
+5, cheap drinks, 0.57952, 3
+5, super high tech, 0.804145, 6
+5, decent TVs, 0.708481, 6
+5, Nice big place, 0.829549, 7
+5, Decent food, 0.658945, 7
+5, new favorite place, 0.871935, 8
+5, local dive bar, 0.795245, 8

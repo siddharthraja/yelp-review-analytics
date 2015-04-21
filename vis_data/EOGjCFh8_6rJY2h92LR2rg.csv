@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, Disappointing customer service, 0.930246, 0
+1, main courses, 0.624309, 1
+1, waitress, 0.579487, 1
+2, orders meat, 0.565387, 0
+2, max, 0.352982, 0
+2, vegetarian tempura, 0.78155, 1
+2, bar staff, 0.698374, 1
+2, spring onion tempura, 0.947482, 2
+2, visit, 0.358847, 2
+2, decent food, 0.604947, 3
+2, times, 0.34823, 3
+2, afterwork crowd, 0.629754, 6
+2, random mix, 0.599906, 6
+2, good cocktail menu, 0.857641, 8
+2, Treacle, 0.43145, 8
+3, funky little bar, 0.593483, 0
+3, drinks order, 0.492287, 0
+3, flatpack style bar, 0.5797, 1
+3, hideous little cartoon, 0.574154, 1
+3, little tangier cheese, 0.542408, 2
+3, Griddled Pear Salad, 0.526889, 2
+3, personal bar taste, 0.59042, 3
+3, naff looking café, 0.562933, 3
+3, bit, 0.498138, 4
+3, bar, 0.777747, 5
+3, George Street, 0.641108, 5
+3, Treacle, 0.915174, 6
+3, sexy new furniture, 0.559525, 6
+3, Broughton Street, 0.715738, 7
+3, generally nice bar, 0.584, 7
+3, nicely polished bar, 0.580264, 8
+3, mmm mmm mmm, 0.579799, 8
+3, wide ranging menu, 0.544657, 9
+3, Nice BBQ sauce, 0.53715, 9
+4, Treacle bandwagon, 0.708875, 0
+4, Om nom nom, 0.599784, 0
+4, Pad Thai Treacle, 0.705275, 3
+4, comprehensive cocktail menu, 0.609389, 3
+4, cocktail menu, 0.636022, 4
+4, Treacle, 0.965179, 5
+4, sweet potato, 0.834316, 5
+4, Friday night, 0.628628, 6
+4, bar meal pricing, 0.611307, 6
+4, good job Treacle, 0.748928, 7
+4, cocktail list, 0.63472, 7
+4, sweet potato fries, 0.720324, 8
+4, funky little place, 0.611186, 8
+4, yummy margarita, 0.612481, 9
+4, great wee treat, 0.610318, 9
+5, glance Treacle, 0.708398, 0
+5, cold ice cubes, 0.620877, 0
+5, good pub food, 0.667233, 2
+5, food menu, 0.613352, 2
+5, trendy bar food, 0.66076, 3
+5, Nom nom nom, 0.609719, 3
+5, cocktail menu, 0.792355, 4
+5, Treacle, 0.92205, 5
+5, food, 0.791597, 5
+5, sourdough bun burgers, 0.648702, 6
+5, service, 0.629576, 6
+5, great great food, 0.681442, 7
+5, epic man-destroying burgers, 0.646598, 7
+5, sweet potato, 0.784602, 8
+5, chicken burger, 0.691854, 8
+5, sweet potato wedges, 0.677273, 9
+5, great breakfast selection, 0.628586, 9

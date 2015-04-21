@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+2, customer service, 0.853219, 0
+2, bad customer service, 0.77204, 0
+2, usual rum, 0.540847, 1
+2, drink specials, 0.524585, 1
+2, mid-length brown/red hair, 0.872516, 2
+2, dark brown hair, 0.849753, 2
+2, people, 0.36075, 3
+2, reasons, 0.27158, 3
+2, check, 0.333808, 4
+2, Triple George, 0.910184, 5
+2, attitudes, 0.268509, 6
+2, skills, 0.267634, 6
+2, Sidebar, 0.29503, 7
+2, mojito, 0.273496, 7
+2, manger Jerry, 0.597402, 8
+2, sweet fellow, 0.590517, 8
+2, food, 0.277163, 9
+3, 5-card draw game, 0.903259, 0
+3, midnight, 0.345503, 0
+3, table-top, 0.359749, 6
+3, nice place, 0.601514, 8
+4, Fremont Street Experience, 0.812489, 0
+4, drink prices, 0.696296, 0
+4, bar area, 0.666679, 1
+4, couple, 0.596076, 1
+4, happy hour cutoff, 0.686455, 2
+4, rough neighborhood, 0.671042, 2
+4, alcoholic attorneys, 0.690986, 3
+4, following verdict, 0.683569, 3
+4, Sidebar, 0.836358, 4
+4, drinks, 0.667287, 5
+4, Triple George, 0.999404, 6
+4, Downtown Cocktail Lounge, 0.853057, 6
+4, completely different vibe, 0.850332, 7
+4, FSE parking garage, 0.819092, 7
+4, drink specials, 0.680818, 8
+4, Great place, 0.661736, 8
+4, Truly charming place, 0.804612, 9
+4, Pomegranate Martini, 0.716434, 9
+5, main bar, 0.594662, 0
+5, Heifers, 0.444723, 0
+5, black jack, 0.605769, 2
+5, favorite bars, 0.572193, 3
+5, friends, 0.512616, 4
+5, Triple George, 0.823792, 6
+5, Triple George Grill, 0.820337, 6
+5, outdoor seating, 0.80475, 7
+5, raucous neighbors, 0.652513, 7
+5, Sidebar, 0.999522, 8
+5, new amazing drink, 0.828601, 8
+5, great drinks, 0.806872, 9
+5, best places, 0.792765, 9

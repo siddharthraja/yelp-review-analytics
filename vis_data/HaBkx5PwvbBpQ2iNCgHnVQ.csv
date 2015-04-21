@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+2, recent customer service, 0.823421, 0
+2, public rant, 0.458866, 2
+2, mind clearing machine, 0.771903, 3
+2, master video machine, 0.772203, 6
+2, decent place, 0.430302, 6
+2, friendly service, 0.429027, 7
+2, equally tasty breakfasts, 0.945294, 8
+2, good fish frys, 0.828463, 8
+3, average food, 0.781112, 3
+3, fine dining restaurant, 0.719307, 3
+3, fish fry, 0.965133, 7
+3, fried burgers, 0.501767, 7
+3, Rowdy crowd, 0.480833, 8
+3, Friday night, 0.445595, 8
+4, fried cod, 0.555927, 0
+4, Great neighborhood bar, 0.50754, 0
+4, cheap drinks, 0.428906, 1
+4, cheap food, 0.424184, 1
+4, high chair, 0.401846, 2
+4, panicked rush, 0.399565, 2
+4, good fish fry, 0.561671, 3
+4, hash browns, 0.405353, 3
+4, fish fry, 0.919548, 6
+4, fish fry place, 0.567503, 6
+4, Friday night, 0.773967, 7
+4, baked cod, 0.655953, 7
+4, baked fish, 0.480727, 8
+4, buttery buns, 0.432012, 8
+4, Friday night fish, 0.682829, 9
+4, night fish fry, 0.582467, 9
+5, customers, 0.509313, 0
+5, family, 0.506298, 0
+5, ole timers, 0.937984, 3
+5, stranger, 0.576653, 3
+5, ta love, 0.870413, 6
+5, Good food, 0.801361, 7
+5, drinks, 0.590465, 8
+5, Bennett, 0.56916, 8

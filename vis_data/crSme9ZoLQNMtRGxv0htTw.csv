@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, bean bag game, 0.91681, 0
+1, ......, 0.689676, 0
+1, bean bag, 0.936257, 1
+1, bean bags, 0.936133, 1
+1, nachos, 0.854895, 2
+1, cold chips, 0.678222, 2
+1, Nachos cheese, 0.783258, 3
+1, flat screens, 0.685278, 3
+1, food, 0.575922, 4
+1, Majerle, 0.673834, 5
+1, Monday Night Football, 0.932584, 6
+1, friends, 0.454959, 6
+1, great service, 0.922227, 7
+1, drink prices, 0.689595, 8
+1, Nice place, 0.680127, 8
+2, Cordon Bleu sandwich, 0.956236, 0
+2, different female server, 0.921731, 0
+2, cole slaw, 0.992769, 1
+2, Turkey sandwich bland, 0.977414, 1
+2, mins, 0.869667, 2
+2, soooo many tvs, 0.836689, 2
+2, food, 0.948728, 3
+2, staff member, 0.911403, 3
+2, table, 0.880864, 4
+2, appetizers, 0.869015, 4
+2, female server, 0.932132, 6
+2, multiple times, 0.917228, 6
+2, enormous projection TVs, 0.976573, 7
+2, excellent American-style food, 0.923319, 7
+2, gorgeous staff, 0.847999, 8
+2, attractive spacious, 0.832612, 8
+3, nice sports bar, 0.657513, 0
+3, Asian Chicken salad, 0.622132, 0
+3, slow service, 0.625139, 1
+3, abrupt closing, 0.531459, 1
+3, annoying crowd control, 0.63204, 2
+3, mistake free dining, 0.631589, 2
+3, Good sports bar, 0.646556, 3
+3, maniac sauce, 0.646496, 3
+3, sports bar, 0.950593, 4
+3, food, 0.754419, 4
+3, food Fridays, 0.555263, 6
+3, Mama Majerle, 0.54437, 6
+3, hot buffalo sauce, 0.656193, 7
+3, fun sports bar, 0.645593, 7
+3, chicken Cesar wrap, 0.646755, 8
+3, Good burgers, 0.544676, 8
+3, good view point, 0.655777, 9
+3, spicy buffalo sandwich, 0.642521, 9
+4, traditional lunch rush, 0.772476, 0
+4, late night weekend, 0.752338, 0
+4, Majerles Sports Bar, 0.840763, 2
+4, typical bar fare, 0.795866, 2
+4, Southwest Chicken Pasta, 0.759998, 3
+4, sports bars, 0.748535, 3
+4, sports bar, 0.874514, 4
+4, Nice sports bar, 0.792909, 4
+4, food, 0.957384, 6
+4, good food, 0.843565, 6
+4, gorilla wings, 0.963372, 7
+4, good time, 0.809162, 7
+4, great place, 0.911837, 8
+4, Thunder Dan, 0.832675, 8
+4, ..really good fries, 0.840221, 9
+4, Super yummy food, 0.823, 9
+5, Best sports bar, 0.824796, 0
+5, Asian chicken salad, 0.813661, 0
+5, Great bar food, 0.839851, 1
+5, French dip, 0.718106, 1
+5, tacky sport team, 0.772993, 2
+5, overbearingly loud rowdiness, 0.770641, 2
+5, upscale sports bar, 0.823285, 3
+5, place, 0.85924, 5
+5, food, 0.941522, 6
+5, Bowl game night, 0.809974, 6
+5, original Downtown Majerles, 0.805688, 7
+5, AMAZING strawberry dressing, 0.775488, 7
+5, great food, 0.831078, 8
+5, great service, 0.815529, 8
+5, Spinach Queso Dip, 0.921147, 9
+5, PHX legend Dan, 0.786081, 9

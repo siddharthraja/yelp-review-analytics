@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+2, beer/wine selection, 0.6529, 0
+2, great food, 0.643366, 0
+2, downtown Champaign, 0.730684, 2
+2, nightspot, 0.542764, 2
+2, News-Gazette article, 0.628611, 3
+2, closure, 0.488667, 3
+2, great football viewing, 0.916612, 6
+2, Midwest.  good bar, 0.880688, 6
+4, Coke bottling plant, 0.984145, 0
+4, killer nachos, 0.735294, 3
+4, huge room, 0.656389, 6
+4, pool tables, 0.604549, 6
+4, Illini basketball team, 0.974127, 7
+4, tastefully redone, 0.678312, 7
+4, campus bar, 0.660753, 8
+5, grilled chicken sandwich, 0.976651, 0
+5, white chicken chili, 0.931633, 0
+5, overzealous high school, 0.916502, 1
+5, deep pot holes, 0.865943, 1
+5, odd times, 0.759778, 2
+5, Neil St, 0.740645, 2
+5, equally long bar, 0.923114, 3
+5, dim lights, 0.768459, 3
+5, beans, 0.656718, 4
+5, pretty expansive arcade, 0.939887, 6
+5, Chicago style hotdogs, 0.888291, 6
+5, good meal starter, 0.902305, 7
+5, fried fish sandwiches, 0.901252, 7
+5, perfectly roasted pecans, 0.890634, 8
+5, cream cheese icing, 0.8893, 8
+5, Low-key place, 0.803705, 9
+5, late-20s age, 0.764756, 9

@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, extremely long time, 0.876122, 0
+1, Bigham Tavern, 0.771041, 0
+1, worst culinary experiences, 0.953379, 1
+1, worst possible sense, 0.939757, 1
+1, middle school cafeteria, 0.964797, 2
+1, hideous decorative malfeasance, 0.936087, 2
+1, Vincent van Gogh, 0.905999, 3
+1, Starry Night, 0.771201, 3
+1, right, 0.648391, 5
+1, entire Grandview concept, 0.966971, 6
+1, Inn ballroom circa, 0.903488, 6
+1, public observation point, 0.891404, 7
+1, Yelp, 0.781966, 7
+1, chicken marsala recipe, 0.932443, 8
+1, traditional topping, 0.785469, 8
+2, jalapeno crab dip, 0.711069, 0
+2, lightly fried pita, 0.706581, 0
+2, food quality, 0.626198, 1
+2, recent visit, 0.604319, 1
+2, Grandview Saloon, 0.956285, 2
+2, additional plate fee, 0.699075, 2
+2, limited menu, 0.609629, 3
+2, food, 0.791813, 4
+2, window table, 0.664937, 4
+2, tables, 0.68914, 5
+2, menu, 0.680733, 5
+2, good view, 0.634879, 6
+2, famous-view tables, 0.628097, 6
+2, white linen tablecloths, 0.680657, 7
+2, tiny candle lamps, 0.676565, 7
+2, french fries, 0.703769, 8
+2, awesome view, 0.608978, 8
+2, crab cake dinner, 0.668039, 9
+2, steak fries, 0.624264, 9
+3, meets Bar Food, 0.780692, 0
+3, garlic mashed potatoes, 0.775615, 0
+3, Pittsburgh Food Hell, 0.767009, 1
+3, little styrofoam box, 0.76429, 1
+3, nice relaxing evening, 0.766333, 2
+3, bar rescue BAD, 0.766022, 2
+3, high school kids, 0.761438, 3
+3, good selection, 0.710997, 3
+3, food, 0.869245, 4
+3, Kayla, 0.726133, 4
+3, view, 0.972748, 5
+3, place, 0.853134, 5
+3, Crab Cake sandwich, 0.745745, 6
+3, Porterhouse Steak, 0.706319, 6
+3, french onion soup, 0.911947, 7
+3, Best view, 0.72997, 7
+3, camera Grand VIEW, 0.796307, 8
+3, good place, 0.790343, 8
+4, Duquesne Incline Station, 0.518342, 0
+4, Mount Washington area, 0.3968, 0
+4, crab meat, 0.312821, 2
+4, finer dining establishment, 0.363584, 3
+4, Saloon offers, 0.33171, 3
+4, place, 0.36578, 4
+4, duquesne incline, 0.915598, 6
+4, jalapeño crab dip, 0.707233, 6
+4, Grandview Saloon, 0.849433, 7
+4, downtown Pittsburgh, 0.465718, 7
+4, great food, 0.46631, 8
+4, ice cream, 0.431399, 8
+4, Mount Washington, 0.406196, 9
+4, fantastic jalapeño crab, 0.381292, 9
+5, crab cake snobs, 0.823287, 0
+5, lump crab meat, 0.79966, 0
+5, run-of-the-mill cole slaws, 0.70066, 3
+5, Grandview restaurant, 0.700464, 3
+5, crab cakes, 0.887313, 6
+5, best crab cakes, 0.833663, 6
+5, grandview saloon, 0.996335, 7
+5, crab cake, 0.936548, 7
+5, great place, 0.73431, 8
+5, tasty french fries, 0.733531, 8
+5, good balsamic vinaigrette, 0.728082, 9
+5, Great deck view, 0.727157, 9

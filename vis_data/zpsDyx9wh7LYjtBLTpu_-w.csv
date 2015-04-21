@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+3, bogstandard pub food, 0.795857, 0
+3, Guildford Arms, 0.567025, 0
+3, little hidden cove, 0.69245, 2
+3, main bar, 0.513743, 2
+3, slightly older crowd, 0.787142, 3
+3, Princes Street, 0.77647, 3
+3, Café Royal, 0.574233, 4
+3, better wine, 0.524672, 4
+3, great little drinking, 0.696864, 6
+3, older clientele, 0.538475, 6
+3, nice wee pub, 0.934508, 7
+3, decent pint, 0.83313, 7
+3, live music, 0.783384, 8
+3, offer, 0.383536, 8
+3, lovely traditional pub, 0.851627, 9
+3, pretty good range, 0.720139, 9
+4, attractive old pub, 0.667466, 0
+4, real ale bar, 0.617383, 0
+4, real ale specialists, 0.616224, 2
+4, mini bar setup, 0.604991, 2
+4, shoe style bar, 0.73589, 3
+4, horse shoe style, 0.722691, 3
+4, real ales, 0.924666, 5
+4, similar traditional drinks, 0.587606, 6
+4, traditional Scottish fair, 0.571344, 6
+4, Guildford Arms, 0.757206, 7
+4, Guilford Arms, 0.613862, 7
+4, pub, 0.694978, 8
+4, great old pub, 0.678311, 8
+4, great place, 0.521784, 9
+4, special ale, 0.518959, 9
+5, couple local Elites, 0.767249, 0
+5, savory little boat, 0.756324, 0
+5, tiny dining area, 0.753477, 1
+5, traditional fixtures, 0.673091, 1
+5, Princes Street, 0.824858, 2
+5, American section, 0.646791, 2
+5, Angus steak pie, 0.76782, 3
+5, good ales, 0.683968, 3
+5, pub, 0.970211, 4
+5, steak pie, 0.808597, 5
+5, gourmet pub grub, 0.877697, 6
+5, smaller place, 0.665227, 6
+5, Nice pub, 0.789688, 7
+5, usual bottled stuff, 0.788814, 7
+5, rainy Edinburgh afternoon, 0.8262, 8
+5, real ale, 0.810896, 8
+5, fantastic pub dinner, 0.903211, 9
+5, casual pub dinner, 0.885211, 9

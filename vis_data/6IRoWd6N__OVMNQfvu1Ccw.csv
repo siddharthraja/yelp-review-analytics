@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, Horrible horrible food, 0.616261, 0
+1, town square location, 0.598034, 0
+1, red rock location, 0.932215, 1
+1, town square yard, 0.573725, 1
+1, food, 0.963763, 2
+1, famous spinach artichoke, 0.564774, 2
+1, service, 0.859255, 3
+1, short Caucasian manager, 0.577851, 3
+1, yard house, 0.979359, 4
+1, table, 0.621377, 4
+1, town square, 0.753332, 5
+1, place, 0.581078, 5
+1, Las Vegas, 0.68688, 6
+1, manager, 0.619417, 6
+1, customer service, 0.615673, 7
+1, horrendous customer service, 0.599739, 7
+1, better experience, 0.57945, 8
+1, happy hr pricing, 0.557661, 8
+1, interpersonal skills Vanessa, 0.571899, 9
+2, space cadet waiter, 0.619431, 0
+2, Food Score, 0.60895, 0
+2, Expensive bar food, 0.625764, 1
+2, good service, 0.599576, 1
+2, caramel ice cream, 0.694967, 2
+2, Town Square location, 0.666638, 2
+2, various beer questions, 0.592384, 3
+2, ice cream, 0.785945, 4
+2, waiter, 0.639671, 4
+2, Yard House, 0.945919, 5
+2, food, 0.899732, 5
+2, bbq chicken pizza, 0.659655, 6
+2, Decent tasting food, 0.611909, 6
+2, korean bbq beef, 0.90766, 7
+2, pretty good lunch, 0.650241, 7
+2, Yard House location, 0.618752, 8
+2, Sweet Korean BBQ, 0.585351, 8
+2, red rock, 0.675185, 9
+2, good beer menu, 0.628907, 9
+3, regular bar food, 0.551427, 0
+3, good sports bar, 0.548165, 0
+3, mediocre Yard House, 0.552105, 1
+3, Sorry Yard House, 0.550382, 1
+3, bar food, 0.571018, 2
+3, Yard House experience, 0.552573, 2
+3, good quality poke, 0.552299, 3
+3, yard house, 0.91631, 4
+3, customer service, 0.559108, 4
+3, food, 0.743052, 5
+3, Red Rock, 0.695831, 5
+3, menu, 0.564843, 6
+3, garlic noodles, 0.562217, 6
+3, chicken nachos, 0.593984, 7
+3, bbq chicken salad, 0.554662, 7
+3, beer selection, 0.6675, 8
+3, great beer selection, 0.587689, 8
+3, pretty good price, 0.546941, 9
+4, hawaiian poke stack, 0.436534, 0
+4, better customer service, 0.38493, 0
+4, good place, 0.4036, 1
+4, turkey burger, 0.432258, 2
+4, southern fried chicken, 0.387457, 2
+4, good craft brew, 0.398049, 3
+4, sauce, 0.4106, 4
+4, table, 0.396665, 4
+4, yard house, 0.998175, 5
+4, Red Rock, 0.836373, 5
+4, town square, 0.512835, 6
+4, good food, 0.451577, 6
+4, garlic noodles, 0.55118, 7
+4, good beer, 0.431929, 7
+4, poke stack, 0.55647, 8
+4, Town Square location, 0.473747, 8
+4, Good service too.a-lot, 0.412485, 9
+4, great beer, 0.398668, 9
+5, House Hefeweizen beer, 0.412264, 0
+5, food menu, 0.393994, 0
+5, huge beer fan, 0.403877, 1
+5, scale bar food, 0.398797, 2
+5, town square, 0.424828, 3
+5, beer, 0.678992, 5
+5, food, 0.619514, 5
+5, yard house, 0.998457, 6
+5, red rock, 0.604556, 6
+5, red rock casino, 0.535245, 7
+5, good food, 0.520839, 7
+5, beer selection, 0.547471, 8
+5, great food, 0.506176, 8
+5, great service, 0.439544, 9
+5, feel good food, 0.42669, 9

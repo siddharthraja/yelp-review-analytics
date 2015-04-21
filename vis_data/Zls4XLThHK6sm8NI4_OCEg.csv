@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, student pub crawl, 0.95402, 1
+1, drink deals, 0.758218, 1
+1, free coke, 0.701887, 2
+1, Irish connections, 0.680226, 2
+1, place, 0.5136, 3
+1, bit, 0.384741, 3
+1, city, 0.44988, 5
+1, rugby matches, 0.705979, 6
+1, footie, 0.411178, 6
+1, ideal layout, 0.698491, 8
+1, delight, 0.389994, 8
+1, welcoming atmosphere, 0.709961, 9
+1, places, 0.373522, 9
+2, sport events, 0.713091, 0
+2, wee stickler, 0.706908, 0
+2, includes jaeger bombs, 0.868228, 1
+2, sort, 0.571351, 1
+2, cheap-and-cheerful student-deals bar, 0.904186, 2
+2, sports bar, 0.725365, 2
+2, party bar, 0.730091, 3
+2, big bar, 0.729757, 3
+2, old self, 0.685815, 4
+2, staff, 0.607784, 4
+2, lotta large groups, 0.831193, 6
+2, welcoming bar, 0.7289, 6
+2, burger, 0.752339, 7
+2, decent enough place, 0.724802, 7
+2, wee peek, 0.705152, 8
+2, good options, 0.695181, 8
+3, cab drivers recommendation, 0.773789, 0
+3, seperate stag party, 0.769698, 0
+3, incredibly drunk students, 0.756767, 1
+3, bad night, 0.750113, 1
+3, descript generic bar, 0.752463, 2
+3, alcohol long past, 0.744088, 2
+3, occasional good time, 0.789715, 3
+3, hot spot, 0.757339, 3
+3, Sisters, 0.858724, 4
+3, pub, 0.848845, 4
+3, night, 0.762833, 5
+3, drinks, 0.719087, 5
+3, pretty average place, 0.776339, 6
+3, large dance floors, 0.773752, 6
+3, huge outdoor seating, 0.896539, 7
+3, beer garden, 0.846188, 7
+3, big sporting events, 0.907913, 8
+3, outdoor seating area, 0.785987, 8
+3, immense viewing screen, 0.755619, 9
+4, reasonably priced drinks, 0.912881, 0
+4, Scotland vs England, 0.84702, 0
+4, generic Irish bar, 0.889743, 2
+4, dark alley way, 0.853397, 2
+4, Oz Bar, 0.772307, 3
+4, tank tops, 0.728053, 3
+4, place, 0.783999, 5
+4, East coast, 0.748355, 6
+4, beer garden, 0.745086, 6
+4, lovely hot chocolate, 0.845258, 7
+4, atmosphere, 0.774955, 7
+4, fringe festival, 0.878798, 8
+4, huge outdoors screen, 0.84237, 8
+4, dancing type music, 0.857224, 9
+4, Nice atmosphere, 0.757019, 9
+5, reverse chronology, 0.639439, 0
+5, current music, 0.583685, 0
+5, air sitting area, 0.814022, 6
+5, fresh air, 0.570666, 6
+5, moonlight beach party, 0.918419, 7
+5, free comedy shows, 0.88073, 7
+5, burgers, 0.400172, 8
+5, friends, 0.365877, 9
+5, place, 0.365533, 9

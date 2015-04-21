@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+3, major sporting events, 0.854054, 0
+3, old mans boozers, 0.823429, 0
+3, previous reviews, 0.59638, 1
+3, scores, 0.349917, 1
+3, Bar Bruiser, 0.64309, 2
+3, angry patrons, 0.606982, 2
+3, sawdust pub, 0.648405, 3
+3, old geezers, 0.617744, 3
+3, decent beers, 0.616147, 6
+3, Williams brothers, 0.577031, 6
+3, sawdust kind, 0.732214, 7
+3, quick pint, 0.678535, 7
+3, reasonably priced range, 0.924402, 8
+3, single malts, 0.652359, 8
+3, proper blokes, 0.669631, 9
+3, evening, 0.35715, 9
+4, plamsa TV screens, 0.954699, 0
+4, long time, 0.745403, 0
+4, traditional pub, 0.788444, 6
+4, Malt whiskey, 0.79026, 7
+4, good range, 0.623712, 7
+4, good bunch, 0.67651, 8
+4, real ales, 0.721483, 9
+4, standard Tennents, 0.666994, 9

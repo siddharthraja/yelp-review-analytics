@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, flatscreen tvs, 0.610687, 0
+2, Pink Lemonade, 0.520936, 0
+2, sliced lemons, 0.55523, 2
+2, Little Debbies, 0.535192, 2
+2, Deep Fried Twinkies, 0.837861, 3
+2, onion strings, 0.804625, 3
+2, Wild Burger, 0.905785, 7
+2, Wildfire Casino, 0.853591, 7
+2, Classic Cheeseburger, 0.853744, 8
+2, lb Angus Beef, 0.813623, 8
+3, thing, 0.589358, 0
+3, cook, 0.584681, 0
+3, Service, 0.527847, 2
+3, veggie burgers, 0.95351, 3
+3, reasons, 0.592179, 3
+3, Average wait, 0.848446, 6
+3, min, 0.622133, 6
+3, hamburgers, 0.686755, 7
+4, Bachi Burger, 0.724214, 0
+4, Good decision, 0.685125, 0
+4, long time, 0.633073, 1
+4, short lunch break, 0.734539, 2
+4, to-go order, 0.65811, 2
+4, deep fried Twinkies, 0.773638, 3
+4, Henderson UFC fight, 0.74689, 3
+4, service, 0.589542, 5
+4, onion strings, 0.939297, 6
+4, big deal, 0.680399, 6
+4, grilled chicken breast, 0.98611, 7
+4, fast food burger, 0.841815, 7
+4, burger chain, 0.834904, 8
+4, signature brioche bun, 0.781248, 8
+4, damn good deal, 0.785761, 9
+4, self-serve drink refill, 0.779848, 9
+5, deep fried twinkies, 0.756875, 0
+5, Crispy Onion Straws, 0.723677, 0
+5, Cheddar Cheese, 0.429098, 6
+5, better ones, 0.41402, 6
+5, BBQ Bacon Burger, 0.855084, 7
+5, BBQ Sauce, 0.449855, 7
+5, Awesome angus burgers, 0.900286, 8
+5, great burger, 0.808837, 8
+5, Wild Burger, 0.578358, 9
+5, solid burger, 0.564255, 9

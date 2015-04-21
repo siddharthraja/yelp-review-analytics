@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, fat wonder bread, 0.550131, 0
+1, long wait time, 0.537742, 0
+1, turkey sandwich, 0.532805, 1
+1, sour garbage, 0.529349, 1
+1, Bison Witches, 0.804282, 2
+1, Bloody Mary, 0.584335, 2
+1, Slowest place hands, 0.545861, 3
+1, typical college bar, 0.540461, 3
+1, clam chowder, 0.813625, 4
+1, place, 0.806708, 4
+1, food, 0.927127, 5
+1, sandwich, 0.707149, 5
+1, creamy clam chowder, 0.542167, 6
+1, Potato Bacon chowder, 0.523109, 6
+1, better beer selections, 0.535569, 7
+1, cheese broccoli soup, 0.529203, 7
+1, overrated place, 0.507168, 8
+1, new lunch spot, 0.517427, 9
+2, good cold sandwich, 0.562179, 0
+2, ........., 0.562074, 0
+2, standard sports bar, 0.452573, 1
+2, cum college drinking, 0.434753, 1
+2, sandwich joint, 0.472705, 2
+2, massive old lip-gloss, 0.423397, 2
+2, Bison Witches, 0.991533, 3
+2, sandwich shop, 0.51888, 3
+2, time, 0.576958, 4
+2, food, 0.543825, 4
+2, sandwich, 0.823502, 5
+2, bread, 0.62452, 5
+2, half sandwich, 0.581954, 6
+2, chicken caesar salad, 0.517972, 6
+2, easy sandwich, 0.458083, 7
+2, Marble rye bread, 0.449344, 7
+2, small bread bowl, 0.461554, 8
+2, pretty good selection, 0.459858, 8
+3, big bread eater, 0.61915, 0
+3, Sundevil sandwich, 0.588688, 0
+3, pretty good clip, 0.586791, 1
+3, chicken sandwiches, 0.549123, 1
+3, chili cheese nachos, 0.521758, 2
+3, veggie sandwich, 0.633458, 3
+3, huge bread, 0.582291, 3
+3, sandwich, 0.921156, 4
+3, bread, 0.854296, 4
+3, bar, 0.621928, 5
+3, Bison Witches, 0.932627, 6
+3, small bread bowls, 0.614166, 6
+3, big sandwich, 0.581598, 7
+3, fresh bread, 0.557774, 7
+3, large hearty sandwich, 0.625916, 8
+3, Good beer selection, 0.59988, 8
+3, pretty good deal, 0.608458, 9
+3, craft beers, 0.52784, 9
+4, tasty sandwich steez, 0.497298, 0
+4, particular Bison Witches, 0.493339, 0
+4, grilled peanut butter, 0.494657, 1
+4, lunchtime sandwich fix, 0.502865, 2
+4, cheddar sandwich, 0.478079, 2
+4, corned beef sandwich, 0.505649, 3
+4, typical sandwich, 0.477402, 3
+4, bison witches, 0.967713, 5
+4, sandwich, 0.706991, 5
+4, half sandwich, 0.588792, 6
+4, downtown tempe, 0.490637, 6
+4, bread bowl, 0.777133, 7
+4, potato bacon soup, 0.518607, 7
+4, beer selection, 0.551158, 8
+4, bread bowl soups, 0.513895, 8
+4, good sandwich, 0.491866, 9
+4, cold sandwich, 0.482113, 9
+5, Club Sandwich Member, 0.570862, 0
+5, Sandwich aficionado, 0.528784, 0
+5, great drink specials, 0.491008, 1
+5, strict liquid diet, 0.475388, 1
+5, soup half sandwich, 0.606483, 3
+5, Green Turkey sandwich, 0.548752, 3
+5, bison witches, 0.977459, 5
+5, half sandwich, 0.639404, 5
+5, bread bowl, 0.82132, 6
+5, sandwich, 0.678809, 6
+5, wisconsin cheese soup, 0.593873, 7
+5, best sandwich place, 0.589825, 7
+5, High quality bread, 0.517803, 8
+5, great little bar, 0.503292, 8
+5, delicious bread bowl, 0.614008, 9
+5, great place, 0.507211, 9

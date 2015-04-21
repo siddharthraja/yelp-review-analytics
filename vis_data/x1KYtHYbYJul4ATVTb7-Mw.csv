@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+1, dining dollar, 0.767881, 0
+1, private party, 0.674744, 0
+1, worst dining experiences, 0.993326, 1
+1, biggest inconvenience, 0.819965, 3
+1, dinner, 0.419139, 3
+1, area, 0.379616, 6
+1, competition, 0.379176, 6
+2, good pub, 0.704911, 0
+2, Old Montreal, 0.662235, 0
+2, flavor, 0.299493, 2
+2, break, 0.279398, 2
+2, Peel, 0.312637, 3
+2, Crescent, 0.302774, 3
+2, window, 0.347011, 4
+2, music joue, 0.565377, 6
+2, vide, 0.321326, 6
+2, tiny pepperoni pizza, 0.942045, 7
+2, Tu te crie, 0.832517, 7
+2, better places, 0.583466, 8
+4, main street, 0.612098, 0
+4, Great service, 0.595211, 0
+4, large group, 0.609379, 3
+4, spot, 0.446983, 3
+4, waterfront, 0.451091, 6
+4, soup, 0.449561, 6
+4, old montreal, 0.967215, 7
+4, saute mouton package, 0.817743, 7
+4, cool pub, 0.695391, 8
+4, winter time, 0.617744, 8
+4, wine selection, 0.602468, 9
+4, lasagna, 0.464567, 9

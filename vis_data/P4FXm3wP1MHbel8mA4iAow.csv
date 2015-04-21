@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, Best Western hotel, 0.951408, 0
+1, Friday dinner choice, 0.920798, 0
+1, ground beef, 0.954173, 1
+1, worst bar experience, 0.941942, 1
+1, Nile Theater, 0.792807, 2
+1, big rig, 0.790354, 2
+1, big screen TVs, 0.966137, 3
+1, flat screen, 0.801725, 3
+1, nacho soup, 0.791273, 6
+1, nachos, 0.751306, 6
+1, training ticket stub, 0.992763, 7
+1, chicken quesadilla, 0.827286, 7
+4, different levels, 0.859187, 0
+4, pool tables, 0.858269, 0
+4, bathrooms, 0.457122, 1
+4, bar, 0.421079, 1
+4, nearby restaurant, 0.952989, 2
+4, cowboy dancing, 0.859017, 2
+4, drink, 0.417933, 3
+4, Kirk, 0.630643, 5
+4, excellent burgers, 0.971599, 6
+4, fries, 0.467186, 6
+4, good time, 0.830846, 7
+4, fun time., 0.799481, 7
+4, attentive staff, 0.891343, 8
+4, nice atmosphere, 0.888918, 8
+5, karaoke host, 0.693382, 0
+5, obscure wines, 0.620255, 0
+5, Friday night, 0.655682, 2
+5, patron bathrooms, 0.650797, 2
+5, good time, 0.944371, 5
+5, Hot bartenders, 0.653467, 6
+5, super-fun place, 0.606151, 6
+5, birthday party, 0.619487, 7
+5, Kirk, 0.448806, 7
+5, great drink specials, 0.813148, 8
+5, Kirks, 0.485339, 8
+5, Trey, 0.459776, 9
+5, crowd, 0.451094, 9

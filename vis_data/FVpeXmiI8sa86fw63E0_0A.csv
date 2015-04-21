@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, ........., 0.766933, 0
+1, dismissive attitude, 0.622565, 0
+1, basketballl shorts, 0.545772, 1
+1, girls, 0.429736, 1
+1, customer service cause, 0.815527, 2
+1, awkward dancing, 0.616893, 2
+1, BCS Bowling Game, 0.853995, 3
+1, opposite experience, 0.659575, 3
+1, size, 0.279688, 6
+1, friend entire margarita, 0.935297, 7
+1, beautiful club, 0.526736, 7
+3, enought room, 0.656253, 0
+3, nice change, 0.642247, 0
+3, ghetto club, 0.64942, 2
+3, retirement plan, 0.642624, 2
+3, strip club, 0.910362, 3
+3, little work, 0.805743, 3
+3, decently busy night, 0.906757, 6
+3, bartender, 0.466369, 6
+3, thing, 0.541506, 7
+3, friend, 0.45761, 7
+3, classy flare, 0.688382, 8
+3, sized space, 0.670257, 8
+3, nice selection, 0.670488, 9
+4, long black curly, 0.77411, 0
+4, yo kids, 0.64815, 0
+4, shitty rushed lap, 0.848969, 1
+4, strip clubs, 0.604085, 1
+4, Door guys, 0.620896, 2
+4, Friday night, 0.601864, 2
+4, main stage, 0.618464, 3
+4, strip club, 0.613206, 3
+4, lap dances, 0.995954, 5
+4, hip hop, 0.602607, 6
+4, VIP section, 0.861134, 7
+4, THANK GOD, 0.634168, 7
+4, best professional dancer, 0.769738, 8
+4, belly button diamond, 0.764741, 8
+5, ladies night, 0.704375, 0
+5, eh, 0.484328, 0
+5, UFC stripper cage, 0.964458, 1
+5, fight, 0.458429, 1
+5, bucks, 0.651203, 2
+5, co-workers, 0.497912, 2
+5, good dancers, 0.687308, 3
+5, bouncer, 0.492899, 3
+5, good time, 0.661318, 6
+5, amature night, 0.656376, 6
+5, TIL MIDNIGHT, 0.770788, 7
+5, DOLLAR, 0.479639, 7
+5, setup, 0.470244, 8
+5, lights, 0.467178, 8
+5, place, 0.470225, 9
+5, staff, 0.463003, 9

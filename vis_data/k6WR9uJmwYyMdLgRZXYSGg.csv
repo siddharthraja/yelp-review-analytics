@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+3, table cloths, 0.757362, 0
+3, band playing, 0.736756, 0
+3, downside, 0.599933, 1
+3, husband, 0.559654, 2
+3, Parking, 0.554426, 2
+3, Fighting Bob Fest, 0.967048, 3
+3, Cement floors, 0.780238, 6
+3, different lighting, 0.722254, 6
+3, fluorescent lighting, 0.754462, 7
+3, Expo, 0.561105, 7
+3, Solid sports stadium, 0.935706, 8
+3, vendors, 0.632117, 8
+4, pretty big parking, 0.91079, 0
+4, coat check, 0.540891, 1
+4, lines, 0.264137, 1
+4, cheese, 0.392336, 3
+4, crowds, 0.300579, 3
+4, place, 0.314773, 6
+4, festival, 0.265518, 6
+4, roller derby, 0.866455, 7
+4, Istmas beer, 0.513352, 7
+4, clean facilities, 0.58088, 8
+4, big conventions, 0.544669, 8
+4, fantastic roller derby, 0.797503, 9

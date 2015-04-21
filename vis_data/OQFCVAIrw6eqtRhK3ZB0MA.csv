@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, bar cellar restaurant, 0.916111, 0
+1, drinks menu, 0.756236, 0
+1, doubt, 0.404585, 1
+1, tip, 0.397857, 1
+1, tables, 0.37921, 2
+1, Free bottle, 0.6837, 3
+1, little compensation, 0.65807, 3
+2, upmarket student-ey bar, 0.99912, 0
+2, small outside coffee, 0.704395, 0
+2, over-priced beers, 0.721084, 1
+2, poor selection, 0.706237, 1
+2, Edinburgh establishment, 0.711368, 2
+2, little frustrating, 0.703601, 2
+2, good-size main restaurant, 0.940529, 3
+2, Ryan, 0.732161, 3
+2, incredibly talented photographer, 0.995893, 6
+2, real life experience, 0.965385, 6
+2, quiet pint, 0.736742, 7
+2, quesadilla, 0.483073, 7
+2, high ceilings, 0.732929, 9
+2, light tans, 0.727141, 9
+3, spacious main bar, 0.905069, 0
+3, main railway stations, 0.87415, 0
+3, big bar, 0.777145, 2
+3, Trades bar, 0.768713, 2
+3, Stop-Over bar, 0.780881, 3
+3, Ryans, 0.766069, 3
+3, bit, 0.776028, 5
+3, bar, 0.951262, 6
+3, night booze session, 0.857799, 6
+3, quiet cosy drink, 0.893311, 7
+3, pretty prominent location, 0.892556, 7
+3, pretty extensive range, 0.894129, 8
+3, parsnip mash, 0.85862, 8
+3, stark contrast, 0.731933, 9
+4, Sunday night, 0.80777, 0
+4, traditional timber, 0.764733, 0
+4, ridiculous price, 0.793546, 1
+4, chicken fajitas, 0.866599, 2
+4, little fairy, 0.784028, 2
+4, high class dining, 0.919618, 3
+4, lead singers, 0.775872, 3
+4, Ryan, 0.708092, 4
+4, local band, 0.792423, 6
+4, bacon roll, 0.788292, 6
+4, good place, 0.918457, 7
+4, comfy pub, 0.794327, 7
+4, traditional Scottish dishes, 0.93399, 8
+4, beautifully decorated ceilings, 0.91222, 8
+4, nice conservatory extension, 0.914409, 9
+4, Great selection, 0.819469, 9

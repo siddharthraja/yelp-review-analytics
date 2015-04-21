@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, horrible horrible customer, 0.959793, 0
+1, local Las Vegan, 0.924954, 0
+1, Unfriendly unknowledgeable bartenders, 0.961133, 1
+1, bar tenders, 0.932264, 1
+1, place, 0.873907, 2
+1, srraight terrible, 0.845391, 2
+1, food, 0.992597, 3
+1, yard house, 0.936844, 3
+1, husband, 0.823444, 4
+1, drink, 0.875377, 5
+1, server, 0.864558, 5
+1, low-maintenance dietary needs, 0.906322, 6
+1, beer drinker, 0.828293, 6
+1, Great beer selection, 0.907694, 7
+1, couple drinks, 0.824639, 7
+1, turf burger, 0.836553, 8
+1, classic sliders, 0.835487, 8
+2, turkey burger sliders, 0.748691, 0
+2, main dishes, 0.625386, 0
+2, cool sports pub, 0.616563, 1
+2, bad customer service, 0.596919, 1
+2, good work, 0.530554, 2
+2, basketball games, 0.516115, 2
+2, football game, 0.599234, 3
+2, food orders, 0.527723, 3
+2, service, 0.677089, 4
+2, place, 0.564944, 4
+2, food, 0.74975, 5
+2, grilled artichoke, 0.65146, 5
+2, Town Square location, 0.909505, 6
+2, Grilled Korean Pork, 0.815201, 6
+2, Asada Street Tacos, 0.685439, 7
+2, Belly Street Tacos, 0.671648, 7
+2, great beer selection, 0.638945, 8
+2, super fast service, 0.610972, 8
+3, typical good food, 0.541644, 0
+3, lukewarm mushroom cream, 0.462525, 0
+3, pork belly taco, 0.445015, 1
+3, FOOD menu, 0.432557, 1
+3, Las Vegas Blvd, 0.441882, 2
+3, chef quality meal, 0.43839, 2
+3, simple food requests, 0.533023, 3
+3, time, 0.482196, 3
+3, yard house, 0.788802, 4
+3, service, 0.55037, 4
+3, food, 0.951823, 5
+3, beers, 0.417445, 5
+3, orange peel chicken, 0.597704, 6
+3, pub type food, 0.485718, 6
+3, beer, 0.577594, 7
+3, sweet potato fries, 0.551153, 7
+3, incredibly large selection, 0.46673, 8
+3, High Roller, 0.465727, 8
+3, outdoor patio area, 0.465803, 9
+3, Impressive beer selection, 0.455607, 9
+4, Yard House chain, 0.661526, 0
+4, new LINQ area, 0.657942, 0
+4, biggest Yard House, 0.659873, 2
+4, menu, 0.712533, 3
+4, Las Vegas, 0.662931, 3
+4, yard house, 0.976466, 4
+4, time, 0.689287, 4
+4, food, 0.87638, 5
+4, french onion soup, 0.745433, 5
+4, hawaiian poke stack, 0.69298, 6
+4, customer service, 0.668186, 6
+4, beer selection, 0.770026, 7
+4, truffle fries, 0.693756, 7
+4, great place, 0.781807, 8
+4, good food, 0.717583, 8
+4, great service, 0.688504, 9
+4, Great beer selection, 0.677021, 9
+5, huge yard house, 0.411601, 0
+5, standard yard house, 0.408626, 0
+5, new york steak, 0.408095, 2
+5, outrageously delicious food, 0.449564, 3
+5, yard house, 0.949335, 5
+5, food, 0.777344, 5
+5, place, 0.603558, 6
+5, time, 0.504488, 6
+5, onion ring tower, 0.454778, 7
+5, clam chowder, 0.45099, 7
+5, beer selection, 0.579445, 8
+5, high roller, 0.54199, 8
+5, great lunch choices, 0.415158, 9
+5, excellent food, 0.406404, 9

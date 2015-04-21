@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+3, Nice neighborhood gaming, 0.881857, 0
+3, local bar choices, 0.843516, 0
+3, typical Vegas bar, 0.862971, 1
+3, typical bar food, 0.850275, 1
+3, chicken fingers, 0.729648, 2
+3, graveyard shift, 0.699705, 3
+3, hangover mornings, 0.692687, 3
+3, hot sauce, 0.933901, 5
+3, gravy, 0.610808, 5
+3, large menu, 0.67979, 6
+3, restaurant, 0.597477, 6
+3, chicken wings, 0.921856, 7
+3, players club, 0.876047, 7
+3, favorite local hangouts, 0.84833, 8
+3, fried potatoes, 0.688617, 8
+3, good food, 0.714127, 9
+3, Friday night, 0.70548, 9
+4, game playing, 0.644222, 0
+4, game day specials, 0.643256, 0
+4, cheap steak, 0.77664, 1
+4, main place, 0.575024, 1
+4, IPA, 0.287116, 3
+4, eggs, 0.497782, 5
+4, late night specials, 0.972815, 6
+4, NFL specials, 0.666194, 6
+4, Pretty good food, 0.873136, 7
+4, personal favorite, 0.605496, 7
+4, quick bite Solid, 0.901282, 8
+4, Friendly faces, 0.631645, 8
+4, mugs, 0.282577, 9
+4, chicken, 0.274946, 9
+5, late night munchies, 0.93746, 0
+5, Vanilla Diet w/Lime, 0.933899, 0
+5, separate bar, 0.852542, 1
+5, bar food, 0.888845, 2
+5, bar area, 0.862665, 2
+5, go-to items, 0.839973, 3
+5, ) fact., 0.826981, 3
+5, bar, 0.931234, 4
+5, food, 0.911538, 5
+5, great breakfast items, 0.963846, 6
+5, grilled chicken caesar, 0.952012, 6
+5, great air flow, 0.955512, 7
+5, free play, 0.94528, 7
+5, Great customer service, 0.948985, 8
+5, wing foursome thanks, 0.916927, 8
+5, great Bloody Mary, 0.959314, 9
+5, solid bar, 0.864477, 9

@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, lemonade, 0.521808, 0
+1, blue, 0.4823, 0
+1, long time, 0.710287, 1
+1, waiter, 0.642336, 1
+1, service, 0.493195, 2
+1, food, 0.574383, 4
+1, drinks, 0.494845, 6
+1, favorite place, 0.806351, 8
+1, appetizer, 0.528468, 8
+1, greasy garlic bread, 0.962617, 9
+1, fully loaded bake, 0.952354, 9
+2, classic dish, 0.709549, 0
+2, Service manager, 0.670654, 0
+2, crappy guacamole, 0.828436, 1
+2, pork poutine, 0.757317, 1
+2, bar area, 0.677124, 2
+2, plate, 0.469086, 2
+2, surcharge, 0.509312, 3
+2, norm, 0.472628, 3
+2, previous Yelp reviews, 0.935657, 6
+3, Cage Aux Sports, 0.904985, 0
+3, Jack Astors portions, 0.825979, 0
+3, chicken Alfredo, 0.703459, 2
+3, penne, 0.4916, 2
+3, jalepeno hamburger, 0.738079, 6
+3, chicken fajitas, 0.725306, 7
+3, place, 0.478877, 7
+3, spinach dip, 0.72855, 8
+3, lobster dip, 0.716006, 8
+4, Iced tea, 0.464031, 0
+4, Jack Astors, 0.435972, 0
+4, blah blah blah, 0.953985, 2
+4, great bar area, 0.679456, 7
+4, Nice place, 0.433066, 7
+4, great place, 0.786879, 8
+4, tofu fajitas, 0.567893, 8
+4, fun ambiance, 0.478671, 9
+4, Good food, 0.447037, 9

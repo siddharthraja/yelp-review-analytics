@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+3, typical cafe/bar food, 0.519409, 0
+3, dishes standout, 0.381358, 0
+3, EIB Hefe draft, 0.584065, 2
+3, convenience fee, 0.344029, 6
+3, beer guy, 0.322976, 6
+3, Village Pub, 0.53308, 7
+3, great choices, 0.332156, 7
+3, sweet potato tots, 0.927108, 8
+3, Ellis Island, 0.800699, 8
+3, sweet potato perfection, 0.520257, 9
+3, delicious draft pints, 0.511806, 9
+4, restaurant/gaming bar pub, 0.744935, 1
+4, sunset/grand canyon, 0.449369, 1
+4, shrimp dinner, 0.486494, 6
+4, chicken, 0.248228, 6
+4, Angus Cheese Burger, 0.904752, 7
+4, Lemonade, 0.219645, 7
+4, great ranch dressing, 0.720939, 8
+4, mmmm yummy, 0.6278, 8
+4, good lunch specials, 0.860772, 9
+4, din din, 0.604401, 9
+5, smoke, 0.368882, 2
+5, Perfect place, 0.667584, 7
+5, home, 0.270474, 7
+5, play video poker, 0.908387, 8
+5, beer, 0.283808, 8

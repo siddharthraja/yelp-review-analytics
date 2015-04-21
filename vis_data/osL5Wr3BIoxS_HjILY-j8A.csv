@@ -1,0 +1,10 @@
+rating, keyword, relevance, bucket
+4, hungry, 0.544352, 0
+4, portions, 0.529498, 0
+4, Martini, 0.52973, 2
+4, drinks, 0.500948, 2
+4, bit, 0.789824, 3
+4, regular night, 0.986327, 6
+4, entree, 0.5646, 6
+4, ribs, 0.615686, 9
+4, place, 0.46946, 9

@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+2, dish, 0.253118, 0
+2, piping, 0.215121, 0
+2, Mixed feelings, 0.989092, 3
+2, steak pie, 0.924824, 3
+2, complex order, 0.735607, 6
+2, wait, 0.342981, 6
+2, pre-town pint, 0.811958, 9
+2, decent labels, 0.799668, 9
+3, half pints, 0.811544, 0
+3, work colleague, 0.749385, 0
+3, mood, 0.386567, 2
+3, service, 0.379469, 2
+3, pies, 0.400978, 3
+3, great location, 0.698703, 6
+3, fair number, 0.679071, 6
+3, decent-size neighborhood pub, 0.977463, 7
+3, good pie, 0.715524, 7
+3, comfortable atmosphere, 0.801949, 8
+4, scrabble, 0.287205, 0
+4, wee game, 0.943472, 7
+4, board games, 0.780232, 7
+4, great atmosphere, 0.897772, 8
+4, Great idea, 0.829812, 8
+4, Haggis, 0.472034, 9

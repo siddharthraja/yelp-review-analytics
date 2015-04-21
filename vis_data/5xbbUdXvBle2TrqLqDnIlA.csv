@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, Trans Siberian Orchestra, 0.904822, 0
+1, expensive little outing, 0.890041, 0
+1, big mistake, 0.966469, 1
+1, acoustically correct venue, 0.878311, 1
+1, great singers, 0.693152, 2
+1, long hair, 0.667221, 2
+1, dozen times, 0.677567, 3
+1, Allstate Arena, 0.874679, 6
+1, past Saturday evening, 0.84978, 6
+1, original TSO concert, 0.892295, 8
+1, proud parent, 0.67627, 8
+2, Metal throwback-long hair, 0.905829, 0
+2, terribly boring Christmas, 0.888956, 0
+2, unimaginative Christmas story, 0.935021, 1
+2, key moments, 0.707795, 1
+2, buyer beware, 0.729503, 2
+2, hair thrashing, 0.712971, 2
+2, Christmas, 0.938756, 3
+2, giant toy box, 0.820864, 3
+2, Maria Carey knockoff, 0.848209, 4
+2, Czech singer, 0.68455, 4
+2, corny, 0.549357, 6
+2, family, 0.537532, 6
+2, David Lee Roth, 0.871337, 7
+2, Christmas spirit, 0.859927, 7
+2, Gen Y'er teens, 0.864118, 8
+2, REAL  Christmas, 0.721698, 8
+5, tight leather pants, 0.963349, 0
+5, Motley Crue, 0.709763, 0
+5, guitar solos, 0.668224, 2
+5, little lady, 0.611182, 2
+5, TSO, 0.507014, 5
+5, dancing light trees, 0.956144, 6
+5, pyro, 0.386853, 6
+5, incredible Prog Rock, 0.925874, 7
+5, electric violin player, 0.915493, 7
+5, money, 0.357299, 8

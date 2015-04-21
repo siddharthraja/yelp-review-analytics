@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, cook, 0.51982, 2
+1, bar, 0.266213, 2
+1, new ones, 0.761582, 3
+1, bartender, 0.618374, 3
+1, eggs, 0.89141, 4
+1, breakfast, 0.322668, 6
+1, friend, 0.318233, 6
+1, wheat toast, 0.901772, 7
+1, bacon, 0.315343, 7
+2, nice little cabin, 0.893997, 0
+2, late night munchies, 0.856437, 0
+2, bar food, 0.970966, 1
+2, taste, 0.415783, 1
+2, extra smoky, 0.616537, 2
+2, bartender, 0.460833, 2
+2, Belgian Waffle, 0.599447, 3
+2, crowd, 0.371794, 3
+2, fruit, 0.402631, 4
+2, Chicken fingers, 0.619255, 6
+2, ribeye, 0.393573, 6
+2, Nice portions, 0.621497, 7
+2, French fry, 0.581609, 7
+2, Clean bathroom, 0.598564, 8
+2, discovery, 0.351344, 8
+2, Attentive staff, 0.638417, 9
+4, Large servings, 0.577732, 0
+4, decent prices, 0.533777, 0
+4, standard dim, 0.561546, 2
+4, dark pub, 0.529433, 2
+4, bar food, 0.71804, 3
+4, clean dining area, 0.928985, 6
+4, neat fish tank, 0.902354, 6
+4, daily dinner specials, 0.733831, 7
+4, Great place, 0.505392, 8
+4, location, 0.255232, 8
+4, good experience, 0.451166, 9
+5, amazing bar food, 0.919998, 0
+5, Keno games, 0.675376, 0
+5, apps, 0.451905, 2
+5, great conversation, 0.600316, 6
+5, breakfast, 0.577823, 6
+5, Clean eating area, 0.878116, 7
+5, chicken strips, 0.672394, 7
+5, extra salad dressings, 0.97701, 8
+5, Chinese chicken salads, 0.945656, 8
+5, Good nice plays, 0.99075, 9
+5, Friendly atmosphere, 0.669439, 9

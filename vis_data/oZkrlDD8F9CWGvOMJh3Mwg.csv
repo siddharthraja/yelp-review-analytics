@@ -1,0 +1,28 @@
+rating, keyword, relevance, bucket
+2, Sugary mess, 0.823993, 1
+2, mixed bag, 0.791649, 1
+2, end Miss Villeray, 0.931974, 2
+2, Cocktails, 0.515466, 2
+2, place, 0.348981, 3
+2, vintage neon sign, 0.944441, 6
+4, high wooden tables, 0.988397, 0
+4, half cider, 0.737031, 0
+4, face, 0.451773, 2
+4, Low lighting, 0.723324, 3
+4, neighborhood, 0.469088, 3
+4, ruby kiss, 0.716112, 6
+4, arugula, 0.493258, 6
+4, free beer tickets, 0.902268, 7
+4, margherita pizza, 0.762964, 7
+4, warm summer night, 0.95574, 8
+4, non-local microbrews, 0.788071, 8
+4, great place, 0.718927, 9
+4, new ones, 0.718863, 9
+5, meats, 0.429144, 0
+5, cheese, 0.408801, 0
+5, neighbourhood, 0.47006, 2
+5, favourite little hangouts, 0.960947, 6
+5, place, 0.366737, 6
+5, tapas style, 0.780378, 7
+5, micro brews, 0.77882, 7
+5, definite repeat, 0.857263, 8

@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+1, hr, 0.913869, 3
+1, charge, 0.859601, 3
+4, Las Vegas, 0.500554, 3
+4, small snooker room, 0.949597, 7
+4, friend, 0.213483, 8
+4, Real snooker tables, 0.972249, 9
+4, wonderful meal, 0.581649, 9
+5, snooker tables, 0.919326, 0
+5, Bee Gees, 0.687754, 0
+5, broken ones, 0.672859, 1
+5, cues, 0.465921, 1
+5, extremely harder game, 0.88832, 2
+5, pool tables, 0.839779, 2
+5, times, 0.459682, 3
+5, o_o, 0.458278, 3
+5, prices, 0.455988, 4
+5, snooker, 0.975627, 5
+5, friend, 0.688518, 5
+5, place, 0.74054, 6
+5, good environment, 0.631472, 6
+5, beer, 0.522999, 7
+5, music, 0.521594, 7
+5, Fun place, 0.641379, 8
+5, friendly environment, 0.617436, 8

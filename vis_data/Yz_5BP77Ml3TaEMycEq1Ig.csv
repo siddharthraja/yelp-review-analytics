@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, French Onion Soup, 0.982252, 0
+1, très mal cuit, 0.841587, 0
+1, Monday Dec, 0.578879, 1
+1, staff, 0.432916, 1
+1, french fries, 0.622441, 2
+1, waiter, 0.502239, 2
+1, hard uncooked cabbage, 0.817871, 3
+1, nachos, 0.626936, 3
+1, menu, 0.478288, 5
+1, Je ne recommande, 0.85841, 6
+1, butter chicken sauce, 0.767972, 6
+1, giant bold letters, 0.70684, 7
+1, curry sauce, 0.608714, 7
+2, et le repas, 0.952184, 0
+2, gros que le, 0.929808, 0
+2, short trip, 0.747226, 1
+2, little pricy, 0.733613, 1
+2, Sa m'impressionne toujours, 0.862106, 2
+2, acceptable levels, 0.717882, 3
+2, disco atmosphere, 0.716113, 3
+2, repas sont arriver, 0.867318, 6
+2, Mais quand, 0.806944, 6
+2, great selections, 0.741999, 8
+3, assez raisonnable pour, 0.998511, 0
+3, sympathique et que, 0.982076, 0
+3, St. Hubert, 0.940069, 2
+3, French fries, 0.909385, 2
+3, mussels, 0.959542, 3
+3, souper en amoureux, 0.972266, 6
+3, Pour un souper, 0.95057, 6
+3, good service, 0.91712, 7
+3, Sweet potato fries, 0.983314, 8
+3, Good beer selection, 0.971443, 8
+3, good micro brew, 0.959235, 9
+3, nice table d'hôte, 0.936528, 9
+4, Le service est, 0.893778, 0
+4, et relativement rapide, 0.841103, 0
+4, small mussels, 0.856829, 2
+4, nasty rainy evening, 0.80621, 2
+4, ce qui est, 0.813692, 3
+4, l'incontournable bière qui, 0.812371, 3
+4, mussels, 0.954525, 5
+4, place, 0.848394, 5
+4, beer, 0.873232, 6
+4, locale et importations, 0.814519, 6
+4, great pub food, 0.829872, 7
+4, drinking fruity beers, 0.827201, 7
+4, European mussels, 0.837779, 8
+4, huge international list, 0.81977, 8
+4, amazing beer selection, 0.816363, 9
+4, South Street Philadelphia, 0.80981, 9
+5, new fave beer, 0.764082, 0
+5, St. Ambroise Apricot, 0.737719, 0
+5, big beer fan, 0.752994, 3
+5, beer, 0.936833, 5
+5, beer list, 0.773489, 6
+5, extensive/impressive beer selection, 0.763178, 6
+5, new favorite beer, 0.779869, 7
+5, Bieres Et Compagnie, 0.779775, 7
+5, mussels selection, 0.744359, 8
+5, crispy cheese, 0.720604, 8
+5, good beer knowledge, 0.805639, 9
+5, week-long foodie tour, 0.725811, 9

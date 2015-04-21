@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, crunchy pizza, 0.521244, 0
+1, pizza lunch, 0.516206, 0
+1, pretty horrible idea, 0.569632, 2
+1, cracker pizza, 0.592948, 3
+1, little sauce, 0.444849, 3
+1, cracker crust pizza, 0.962785, 5
+1, kind, 0.331119, 7
+2, pizza bites, 0.775172, 0
+2, microwaveable pizza bites, 0.771264, 0
+2, stars, 0.243162, 1
+2, favorite pizza, 0.6207, 3
+2, hostile waitresses, 0.416049, 3
+2, pizza, 0.957155, 5
+2, plus note, 0.401751, 6
+2, second-worst service, 0.389305, 6
+2, atmosphere, 0.245408, 7
+3, California Pizza Kitchen-style, 0.73814, 0
+3, personal pizzas, 0.294467, 0
+3, cardboard crust pizza, 0.743654, 1
+3, Amandos Pizza, 0.578357, 1
+3, quality pizza places, 0.707046, 2
+3, drunk pizza, 0.518276, 2
+3, late night bite, 0.402615, 3
+3, random pizzeria, 0.269735, 3
+3, pizza, 0.910137, 4
+3, late night, 0.418522, 5
+3, Jupiter, 0.294601, 5
+3, Pizza Margherita, 0.56267, 6
+3, popular time, 0.299692, 6
+3, BIG arcade room, 0.455799, 7
+3, fun place, 0.302546, 7
+3, Tasty Pizza, 0.672738, 8
+3, nice beer selection, 0.460505, 8
+4, pizza kinda mood, 0.55083, 0
+4, pizza places, 0.496713, 0
+4, Blind Pig, 0.377149, 2
+4, Super cheap pizza, 0.53294, 3
+4, sports bar, 0.379221, 3
+4, beer selection, 0.593322, 4
+4, pool tables, 0.673485, 5
+4, bar, 0.399691, 5
+4, pizza, 0.91926, 6
+4, crust pizza, 0.764833, 6
+4, salmon pizza, 0.531356, 7
+4, sit-down pizza place, 0.526003, 7
+4, thin-crust pizza, 0.633957, 8
+4, Good pizza, 0.571604, 8
+4, Great pizza, 0.504417, 9
+4, BBQ chicken pizza, 0.503988, 9
+5, price large pizzas, 0.711067, 0
+5, onion pizza, 0.690556, 0
+5, green street bars, 0.604931, 1
+5, normal bar patrion, 0.627532, 2
+5, best thin crust, 0.593609, 2
+5, Nice segueway bar, 0.629234, 3
+5, pizza, 0.95946, 5
+5, crust pizza, 0.813852, 5
+5, pool tables, 0.805095, 6
+5, pizzas toppings, 0.672005, 6
+5, dill pizza, 0.689158, 7
+5, light crackery crust, 0.681738, 7
+5, favorite pizza toppings, 0.843159, 8
+5, base sauce pizza, 0.774189, 8
+5, best pizza places, 0.826838, 9
+5, Great F-ing pizza, 0.800649, 9

@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, Mr. Robert Rogers, 0.928705, 0
+1, wifes birthday, 0.704788, 0
+1, corn bread, 0.75749, 1
+1, water glasses, 0.690573, 1
+1, french pressed coffee, 0.930488, 2
+1, Unger, 0.534567, 2
+1, Robert Rogers, 0.960758, 3
+1, plain bread, 0.750309, 3
+1, wine fridge, 0.70451, 6
+1, room acoustics, 0.680721, 6
+1, choice..The wine list, 0.997402, 8
+1, reasonable prices, 0.743884, 8
+2, North Scottsdale thing, 0.790796, 0
+2, sewage lines, 0.787207, 0
+2, odd hand-made confusion, 0.778694, 1
+2, fancy-pants place, 0.687184, 1
+2, bobble-headed plastic robots, 0.75943, 2
+2, Cowboy Ciao, 0.752524, 2
+2, occasional social anxieties, 0.816734, 3
+2, proper bathroom hygiene, 0.735736, 3
+2, strange time, 0.645999, 4
+2, place, 0.973906, 5
+2, Smith oatmeal stout, 0.751841, 6
+2, better flash, 0.642888, 6
+2, cheese finger sandwich, 0.773464, 7
+2, huge lemon slice, 0.772799, 7
+2, kinda neat, 0.672022, 8
+2, bustling community, 0.643016, 8
+2, nice place, 0.707454, 9
+2, Scottsdale people, 0.654464, 9
+3, also-new Estate House, 0.90479, 0
+3, disco dance clubs, 0.890592, 0
+3, dining room, 0.923606, 1
+3, dive bar, 0.791811, 1
+3, Unofficial Yelp Event, 0.962224, 2
+3, sub-par alcoholic beverage, 0.910453, 2
+3, Friday/Saturday madhouse, 0.771066, 3
+3, drinks, 0.72951, 3
+3, place, 0.924611, 4
+3, patio, 0.705173, 4
+3, chi chi sort, 0.885754, 6
+3, great time, 0.791215, 6
+3, goofy photo montage, 0.895678, 7
+3, big projection screen, 0.889653, 7
+3, fun place, 0.772852, 8
+3, mach firepit, 0.769774, 8
+3, quiet questions, 0.776544, 9
+4, damn good Grey, 0.803776, 0
+4, trendy place, 0.79544, 0
+4, cheap terrible food, 0.793943, 1
+4, little turn, 0.78233, 1
+4, specialty drinks, 0.845414, 2
+4, pretentious downtown scottsdale, 0.780887, 2
+4, grilled cheese sandwich, 0.838972, 3
+4, strawberry smash martini, 0.837635, 3
+4, menu, 0.834645, 4
+4, catwalk, 0.833821, 4
+4, place, 0.951172, 5
+4, food, 0.856831, 5
+4, canal, 0.895583, 6
+4, Old Town, 0.87578, 6
+4, parmesan fries, 0.859454, 7
+4, corn cakes, 0.818888, 7
+4, good experience, 0.812745, 8
+4, great lounge resto-bar, 0.810032, 8
+4, Good wine list, 0.822868, 9
+4, GREAT beer selection, 0.803378, 9
+5, organic lemonade cocktails, 0.913668, 0
+5, cheese filet mignon, 0.894034, 0
+5, effen cherry vodka, 0.834233, 1
+5, indulgent twist, 0.7307, 3
+5, white mango sangria, 0.88745, 6
+5, goat cheese enchiladas, 0.880506, 6
+5, divine grilled cheese, 0.932852, 7
+5, Organic Adult Lemonade, 0.876245, 7
+5, elderflower liqueur, 0.879663, 8
+5, comfort foods, 0.856109, 8
+5, creative new way, 0.813501, 9
+5, favorite time, 0.728861, 9

@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, poor experience, 0.940642, 0
+1, controls Rivertowne, 0.759292, 0
+1, poor cut, 0.715789, 1
+1, quality issues, 0.714809, 1
+1, Jerome Bettis, 0.711144, 2
+1, staff cooking, 0.70844, 2
+1, hot/cold food cold, 0.941981, 3
+1, multiple cigarette breaks, 0.853145, 3
+1, enthusiastic employee, 0.703279, 6
+1, appetizers, 0.549755, 6
+1, WOW. My BFF, 0.716616, 7
+1, blue crab, 0.712689, 7
+1, lake fish, 0.724437, 8
+2, asian shrimp wrap, 0.99014, 0
+2, w/ cole slaw, 0.838976, 0
+2, gross soapy stain, 0.793658, 1
+2, waitress Kristen, 0.734756, 1
+2, big heaping pile, 0.810759, 2
+2, alcohol content beers, 0.764546, 2
+2, Stage AE beers, 0.786725, 3
+2, North Shore, 0.779399, 3
+2, Stage AE, 0.887207, 4
+2, food, 0.879817, 4
+2, Heinz Field, 0.809067, 5
+2, cole slaw, 0.92608, 6
+2, potato wedge fries, 0.785118, 6
+2, PNC Park, 0.813692, 7
+2, tiny plastic cup, 0.779497, 7
+2, Super delish, 0.72018, 8
+2, loud patrons, 0.710883, 8
+2, Rivertowne Pumpkin Ale, 0.868768, 9
+2, great tasting beer, 0.820342, 9
+3, average sports bar, 0.67736, 0
+3, average bar fare, 0.671809, 0
+3, various disappointing restaurants, 0.666752, 1
+3, clear plastic cup, 0.646979, 1
+3, north shore, 0.994551, 3
+3, Pirates game, 0.736484, 3
+3, food, 0.71785, 4
+3, pricey beers, 0.590543, 4
+3, scotch eggs, 0.78605, 5
+3, Rivertowne, 0.78116, 5
+3, Rivertowne beer, 0.724997, 6
+3, drinks, 0.679441, 6
+3, good beer selection, 0.750539, 7
+3, salmon blt, 0.655929, 7
+3, good beefy taste, 0.682839, 8
+3, heavier craft beers, 0.668932, 8
+3, grilled chicken salad, 0.798909, 9
+3, good chicken wings, 0.670127, 9
+4, French frie sandwiches, 0.76812, 0
+4, Bucco playoff game, 0.735688, 0
+4, bacon cheese fries, 0.749162, 2
+4, Stage AE, 0.848204, 3
+4, bar food style, 0.751797, 3
+4, place, 0.822774, 5
+4, Rivertowne, 0.785837, 5
+4, north shore, 0.997165, 6
+4, true Pittsburgh food, 0.775537, 6
+4, buffalo chicken, 0.952249, 7
+4, bar food, 0.940202, 7
+4, great place, 0.760463, 8
+4, potato patch fries, 0.751199, 8
+4, reasonably priced bar, 0.734705, 9
+4, chicken florentine sub, 0.733355, 9
+5, garlic parmesean wings, 0.911511, 0
+5, Rivertowne thinking, 0.88479, 0
+5, little mess ups, 0.878341, 2
+5, main course, 0.764272, 2
+5, bar food genre, 0.877943, 3
+5, Steelers game, 0.786273, 3
+5, dad, 0.714164, 4
+5, garlic parm connoisseur, 0.920498, 6
+5, good food, 0.788429, 6
+5, wait staff, 0.766291, 7
+5, Good atmosphere, 0.76357, 7
+5, great place, 0.998984, 8
+5, Delicious chicken salad, 0.891253, 8

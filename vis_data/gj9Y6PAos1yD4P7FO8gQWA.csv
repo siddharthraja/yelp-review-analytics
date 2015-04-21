@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, Bar tending services, 0.886517, 0
+1, local dive bar, 0.867127, 0
+1, bad karaoke, 0.722307, 1
+1, way, 0.568858, 1
+1, patio, 0.537455, 2
+1, dogs, 0.530833, 2
+1, food service industry, 0.799248, 3
+1, late evenings, 0.697797, 3
+1, Joe, 0.568882, 5
+1, Saturday night, 0.714113, 6
+1, Uncle Bears, 0.688897, 6
+1, dog friendly place, 0.990185, 7
+1, health code violation, 0.847361, 7
+2, Uncle Bear, 0.949907, 0
+2, Power Rd, 0.880348, 0
+3, wrong breakfast, 0.71748, 0
+3, Adams family, 0.680608, 0
+3, standard bar fare, 0.852645, 2
+3, ambiance, 0.397379, 2
+3, Sports bar, 0.623375, 3
+3, beer, 0.433788, 3
+3, food, 0.426429, 4
+3, particular Uncle Bears, 0.95915, 6
+3, Super Strange experience, 0.932266, 6
+3, Good Stuff, 0.654171, 7
+3, lunch, 0.37699, 7
+3, right next door, 0.664514, 8
+3, difference, 0.372585, 8
+4, tai peanut pasta, 0.940661, 0
+4, regular spots, 0.768287, 0
+4, mess, 0.564942, 1
+4, eye, 0.556215, 1
+4, bar food, 0.935034, 2
+4, server, 0.637663, 2
+4, HD flat screen, 0.973508, 3
+4, bad seat, 0.745059, 3
+4, kids, 0.662387, 5
+4, time, 0.60111, 5
+4, wings, 0.673178, 6
+4, martinis, 0.569299, 6
+4, place, 0.796257, 7
+4, Good food, 0.760723, 7
+4, decent looking waitress, 0.954558, 8
+4, chicken sliders, 0.770947, 8
+4, doggie wall, 0.790195, 9
+4, wait staff, 0.753799, 9
+5, late Friday, 0.909878, 0
+5, Saturday, 0.531192, 0
+5, food, 0.496975, 4
+5, Rittenhouse, 0.614582, 6
+5, outdoor patio, 0.942533, 8
+5, friendly staff, 0.901262, 8

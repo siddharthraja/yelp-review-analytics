@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, BBQ burger, 0.626001, 0
+1, Delux Burger, 0.621021, 0
+1, service, 0.530828, 1
+1, grilled asparagus, 0.529872, 1
+1, gourmet burger, 0.625616, 2
+1, small cheap buns, 0.528136, 2
+1, bar, 0.69553, 3
+1, grind, 0.643777, 3
+1, experience, 0.530078, 4
+1, table, 0.493099, 4
+1, burger, 0.963157, 5
+1, kobe beef burger, 0.783604, 6
+1, burger medium, 0.683276, 6
+1, great burger joints, 0.700785, 7
+1, better burger, 0.635837, 7
+1, cast iron skillet, 0.531582, 8
+1, Happy hr charges, 0.519347, 8
+1, turkey burger, 0.647733, 9
+2, Peppercorn Crust Burger, 0.318301, 0
+2, remade burger, 0.310012, 0
+2, friends burger, 0.304709, 1
+2, burger look, 0.289202, 1
+2, sweet potato, 0.381956, 2
+2, sweet potato fries, 0.360146, 2
+2, fries, 0.42504, 3
+2, duck fat fries, 0.368137, 3
+2, burger, 0.944759, 4
+2, food, 0.599988, 4
+2, burgers, 0.764759, 5
+2, time, 0.364107, 5
+2, gourment burger lover, 0.335203, 6
+2, bar, 0.323296, 6
+2, sweet potato fritters, 0.332525, 7
+2, good burger restaurants, 0.323698, 7
+2, good burger, 0.43856, 8
+2, truly good burger, 0.339656, 8
+2, burger place, 0.297778, 9
+3, Smokehouse BLT burger, 0.557183, 0
+3, average burger, 0.550821, 0
+3, massive burger, 0.532499, 1
+3, overcooked burger, 0.526441, 2
+3, duck fat fries, 0.481124, 2
+3, pepper crust burger, 0.581283, 3
+3, storefront burger joint, 0.546733, 3
+3, fries, 0.595816, 4
+3, burger, 0.952985, 5
+3, sweet potato fritters, 0.779498, 5
+3, peppercorn crust burger, 0.594154, 6
+3, burger places, 0.552411, 6
+3, BLT burger, 0.685246, 7
+3, mushroom burger, 0.570576, 7
+3, spicy burger, 0.714562, 8
+3, good burger, 0.56906, 8
+3, spicy burger medium, 0.568768, 9
+3, BLT burger medium, 0.561437, 9
+4, frequently ordered burger, 0.529468, 0
+4, die-hard burger fan, 0.528826, 0
+4, Corridor Burger Wars, 0.545348, 2
+4, typical burger, 0.526859, 3
+4, burger, 0.9527, 5
+4, grind, 0.642141, 5
+4, portello mushroom burger, 0.545036, 6
+4, burger joint, 0.540516, 6
+4, blt burger, 0.628039, 7
+4, peppercorn burger, 0.60187, 7
+4, spicy burger, 0.779609, 8
+4, sweet potato, 0.648982, 8
+4, good burger place, 0.569525, 9
+4, medium rare burger, 0.537099, 9
+5, burger place twist, 0.481476, 0
+5, Small great burger, 0.469101, 0
+5, burger restaurant, 0.436304, 2
+5, S&S Burger, 0.445289, 3
+5, burger girl, 0.47381, 4
+5, fries, 0.462055, 4
+5, peppercorn burger, 0.680208, 5
+5, grind, 0.435744, 5
+5, burger, 0.940507, 6
+5, burgers, 0.58399, 6
+5, best gourmet burger, 0.462376, 7
+5, best tasting burger, 0.461823, 7
+5, spicy burger, 0.797412, 8
+5, best burger, 0.740735, 8
+5, little upscale burger, 0.456742, 9
+5, grilled backyard burger, 0.448454, 9

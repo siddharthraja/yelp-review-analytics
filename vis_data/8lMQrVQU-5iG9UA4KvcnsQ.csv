@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, HOG members, 0.957582, 0
+1, motorcycle clubs, 0.869935, 0
+1, door, 0.319333, 1
+1, stage, 0.26776, 1
+1, crowd, 0.364551, 2
+1, place, 0.298019, 2
+1, dive bar, 0.885434, 3
+1, conversation, 0.370452, 3
+1, close eye, 0.964756, 7
+1, girlfriend, 0.384956, 7
+2, cover band, 0.969382, 0
+2, visible sign, 0.944146, 0
+2, good points, 0.892186, 1
+2, layout, 0.5127, 1
+2, live music, 0.889241, 2
+2, poor service, 0.866181, 2
+2, free refills, 0.908985, 3
+2, decent prices, 0.906831, 3
+2, Everybody, 0.523861, 6
+2, Cheers, 0.523082, 6
+2, regular customers, 0.891158, 7
+2, good group, 0.860694, 7
+4, ........., 0.829452, 0
+4, star dive bar, 0.809109, 0
+4, speaker post, 0.612269, 1
+4, dive bar, 0.968005, 2
+4, lame dive bar, 0.828722, 2
+4, normal prices, 0.646964, 3
+4, biker bar, 0.641893, 3
+4, dance floor, 0.981928, 4
+4, drinks, 0.743809, 4
+4, live music nights, 0.860822, 6
+4, blond hair chick, 0.854781, 6
+4, live music, 0.989672, 7
+4, pool tables, 0.839149, 7
+4, Cool bartender, 0.700508, 8
+4, Manger guy, 0.655536, 8
+4, hard rock, 0.65368, 9
+4, classic rock, 0.653541, 9
+5, Large tv, 0.646198, 0
+5, Sport games, 0.645696, 0
+5, bit, 0.375422, 1
+5, cancer, 0.355911, 1
+5, place, 0.454093, 2
+5, Ant, 0.377181, 2
+5, cave creek road, 0.87394, 3
+5, dive bar, 0.607192, 3
+5, crowd pleasers, 0.669919, 6
+5, Live Music, 0.649714, 6
+5, event, 0.410918, 7
+5, good ole rock, 0.924638, 8
+5, best rock  bands, 0.910803, 8
+5, great help, 0.628598, 9
+5, new friends, 0.608463, 9

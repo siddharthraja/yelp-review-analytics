@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, golf cart, 0.676583, 0
+1, Mbar, 0.37905, 0
+1, Poor service, 0.701088, 2
+1, bar service, 0.63209, 2
+1, hostess station, 0.719338, 3
+1, business card, 0.651141, 3
+1, person jazz band, 0.909354, 6
+1, good thing, 0.675675, 6
+1, great music, 0.666911, 7
+1, drink, 0.292628, 8
+1, guys, 0.29235, 8
+3, non-valet parking spots, 0.866229, 1
+3, parking situation, 0.510578, 1
+3, hotel bar, 0.492741, 3
+3, typical hotel pricing, 0.940952, 6
+3, grilled version, 0.574376, 6
+3, drinks, 0.684756, 7
+3, food selection, 0.449066, 7
+3, rich tourists, 0.476984, 8
+3, Pretty good prices, 0.848701, 9
+4, different type, 0.776692, 0
+4, ta date, 0.764569, 0
+4, wink wink, 0.813974, 1
+4, star resort, 0.75021, 3
+4, burrata salad, 0.968738, 5
+4, White Bean Hummus, 0.883784, 6
+4, Fig/Proscuitto Flatbread, 0.786566, 6
+4, ginger ale, 0.951582, 7
+4, menu items, 0.856823, 7
+4, chic Montelucia resort, 0.876924, 8
+4, various seating options, 0.873652, 8
+4, Great drink selection, 0.917023, 9
+4, excellent drink selections, 0.911101, 9
+5, large sitting area, 0.832963, 0
+5, Tommy Vs, 0.680171, 0
+5, live music, 0.701131, 2
+5, dinner reservations, 0.793993, 3
+5, weekday/weekend wind, 0.666527, 3
+5, drinks, 0.790464, 5
+5, grilled prawns, 0.707537, 6
+5, small chunks, 0.674399, 6
+5, blue cheese, 0.804901, 7
+5, nice resort, 0.685506, 7
+5, chocolate martinis, 0.920417, 8
+5, Mmmmmmmm chocolate martinis, 0.890867, 8
+5, Mmmmm good appetizers, 0.897057, 9
+5, A-MAZING chocolate martinis, 0.866712, 9

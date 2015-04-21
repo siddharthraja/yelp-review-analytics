@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+2, great acts, 0.623447, 0
+2, balcony, 0.270277, 0
+2, place, 0.366773, 1
+2, tickets, 0.301457, 1
+2, sound guy, 0.582904, 2
+2, usher, 0.259855, 2
+2, metal concert, 0.718377, 3
+2, snacks, 0.250679, 3
+2, Darren, 0.951457, 4
+2, Yngwie Malmsteen, 0.789732, 6
+2, good view, 0.581397, 6
+2, doubt, 0.229226, 7
+2, Cult, 0.224487, 7
+3, hard wooden seats, 0.827269, 0
+3, school auditorium style, 0.803057, 0
+3, worse seat, 0.761353, 2
+3, boyfriend, 0.353422, 2
+3, huge black pole, 0.90072, 3
+3, terrible his seat, 0.753315, 3
+3, face lift, 0.563163, 6
+4, John Hiatt, 0.842458, 0
+4, Carnegie Library, 0.74886, 0
+4, like-a Charlie Watts, 0.689384, 1
+4, lower level, 0.620813, 1
+4, temporary bar, 0.612135, 2
+4, Slow Turning, 0.704098, 3
+4, certain seats, 0.636193, 3
+4, 19th century charm, 0.678701, 6
+4, independent library, 0.645251, 6
+4, music hall, 0.90893, 7
+4, middle aged/boomer crowd, 0.690996, 7
+4, beautiful buildings, 0.621256, 8
+4, well-kept secret, 0.619458, 8
+4, rollicking good set, 0.704578, 9
+4, Great acoustics, 0.631937, 9
+5, original seats, 0.539086, 0
+5, Procol Harum, 0.511115, 0
+5, mosh pits, 0.555926, 1
+5, sweaty peeps, 0.553636, 1
+5, eye level, 0.46344, 2
+5, 35-40 feet, 0.457178, 2
+5, floor center, 0.465046, 3
+5, eyes, 0.251199, 3
+5, friend, 0.313216, 4
+5, stage, 0.307239, 4
+5, view, 0.314911, 5
+5, seats, 0.599085, 6
+5, favorite seats, 0.561839, 6
+5, Carnegie Library, 0.949475, 7
+5, processing fees, 0.485428, 7
+5, Carnegie Library Music, 0.788129, 8
+5, favorite music venue, 0.754787, 8
+5, best acoustics, 0.500006, 9
+5, overall ambience, 0.492707, 9

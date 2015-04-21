@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, Minimal ice cubes, 0.977146, 0
+1, UW Plaza, 0.77717, 0
+1, Atrocious service quality, 0.954299, 1
+1, Sketchy interior, 0.734671, 1
+1, Bubble tea, 0.713529, 2
+1, Subpar food, 0.709758, 2
+1, watery, 0.540152, 3
+1, wrongdoing, 0.480517, 3
+1, unfrozen ingredients, 0.693808, 6
+1, money, 0.449992, 6
+1, reasons, 0.533485, 7
+2, sour soup, 0.792844, 0
+2, Disappointing meal, 0.739441, 0
+2, Xin Jiang chicken, 0.976759, 3
+2, Waterloo Star, 0.60323, 3
+2, better alternatives, 0.6161, 7
+2, plaza, 0.40196, 7
+4, Sweat Dreams, 0.464983, 0
+4, better food, 0.435864, 0
+4, bubble tea, 0.907224, 2
+4, good portions, 0.514372, 2
+4, great vegetable dishes, 0.845902, 7
+4, vegetables soup dish, 0.822081, 7
+4, quick service, 0.489412, 8
+4, homey, 0.219884, 8
+4, best Chinese sit, 0.770596, 9

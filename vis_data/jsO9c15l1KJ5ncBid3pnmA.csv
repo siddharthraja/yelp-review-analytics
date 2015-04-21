@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, turkey club sandwich, 0.753402, 0
+1, chicken club sandwich, 0.750143, 0
+1, late night, 0.75211, 1
+1, big zero rating, 0.745552, 1
+1, credit card, 0.754099, 2
+1, unauthorized credit card, 0.752915, 2
+1, Denver Broncos football, 0.759845, 3
+1, manager, 0.688127, 3
+1, place, 0.659471, 4
+1, food, 0.88004, 5
+1, road runner, 0.959488, 6
+1, ok beer, 0.654434, 6
+1, pretty good chance, 0.76106, 7
+1, Great food, 0.660753, 7
+2, food portions, 0.681304, 0
+2, cheaper food, 0.662452, 0
+2, Mediocre food, 0.637982, 1
+2, quality service, 0.61659, 1
+2, typical bar items, 0.788454, 2
+2, long island ice, 0.775767, 2
+2, good waitresses, 0.704753, 3
+2, friendly waitresses, 0.682678, 3
+2, food, 0.946938, 5
+2, basic french dip, 0.809129, 6
+2, Texas Dip, 0.636005, 6
+2, good waitress, 0.654083, 7
+2, adult beverages, 0.651852, 7
+2, best waitresses, 0.719198, 8
+2, pool table, 0.61138, 8
+3, bar food type, 0.841209, 0
+3, pre night drink, 0.798873, 0
+3, broncos bar, 0.734679, 1
+3, bar chili, 0.729338, 1
+3, bar food, 0.881687, 2
+3, Las Vegas Bar, 0.818626, 2
+3, low key night, 0.807307, 3
+3, Roadrunner Saloon, 0.798415, 3
+3, food, 0.933912, 4
+3, Vegas boy, 0.794731, 4
+3, place, 0.88206, 5
+3, chicken wings, 0.841874, 6
+3, fairly large place, 0.810914, 6
+3, big beer batter, 0.782413, 7
+3, Denver Broncos fan, 0.780289, 7
+3, big screen tv, 0.768251, 8
+3, beer bottles, 0.71749, 8
+3, nice clean place, 0.790432, 9
+3, pretty decent breakfast, 0.782137, 9
+4, practically Indian food, 0.7332, 0
+4, fast food joint, 0.698041, 0
+4, super cheap breakfasts, 0.658829, 1
+4, All-American bar food, 0.734219, 2
+4, artichoke dip, 0.65868, 2
+4, Dr. Pepper, 0.735, 3
+4, bar food joints, 0.70641, 3
+4, bar food, 0.952626, 4
+4, steak salad, 0.814847, 5
+4, easy all-american food, 0.735788, 6
+4, typical bar food, 0.718037, 6
+4, great service, 0.729316, 7
+4, good price point, 0.676393, 7
+4, cozy outdoor space, 0.678693, 8
+4, place, 0.64035, 8
+4, love Roadrunner Saloon, 0.719682, 9
+4, Tasty food, 0.650901, 9
+5, baked spinach dip, 0.948965, 0
+5, good work, 0.725993, 0
+5, single drink, 0.737731, 3
+5, human roladex, 0.735901, 3
+5, rib tips, 0.922067, 6
+5, chipotle ranch, 0.738229, 6
+5, favorite bartender, 0.753968, 7
+5, Best waitress, 0.736452, 7
+5, best oatmeal, 0.685991, 8
+5, decor, 0.53052, 8
+5, great place, 0.699278, 9
+5, tender medium, 0.684525, 9

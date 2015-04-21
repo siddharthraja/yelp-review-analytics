@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, mandatory coat check, 0.980204, 0
+1, coat check fees, 0.771331, 0
+1, sole justification, 0.597385, 1
+1, different seat, 0.588183, 1
+1, floor speaker, 0.601861, 2
+1, cover charges, 0.598354, 2
+1, party crashers, 0.62718, 3
+1, odd side room, 0.615821, 3
+1, chicken rice soup, 0.760765, 6
+1, potato skin combo, 0.742494, 6
+1, big TV screen, 0.798699, 7
+1, low quality video, 0.794873, 7
+1, beautiful assortment, 0.586988, 8
+1, peppery, 0.45367, 8
+1, Thank goodness, 0.609213, 9
+1, deal site, 0.594228, 9
+2, Montreal standards, 0.925096, 0
+2, dinner service, 0.842094, 0
+2, poor service, 0.873369, 1
+2, reason, 0.543314, 1
+2, prices, 0.49634, 2
+2, food service, 0.778644, 3
+2, decent music, 0.988657, 7
+2, nice place, 0.913694, 7
+3, panda bear jazz, 0.900487, 0
+3, maison du jazz, 0.894522, 0
+3, Slow service, 0.800287, 1
+3, noisy spot, 0.79388, 1
+3, old jazz clips, 0.926913, 2
+3, BBQ/New Orleans slant, 0.863609, 2
+3, pricey food, 0.827575, 3
+3, Ma Rainy, 0.810332, 3
+3, place, 0.87605, 4
+3, jazz club, 0.944339, 6
+3, cole slaw, 0.912553, 6
+3, la maison, 0.884683, 7
+3, La cuisine est, 0.875625, 7
+3, iconic Montreal experience, 0.867288, 8
+3, fun place, 0.822324, 8
+3, traditional sauce, 0.80319, 9
+4, live jazz music, 0.84041, 0
+4, aimer le jazz, 0.797126, 0
+4, food, 0.756516, 2
+4, caramel explosion dessert, 0.746196, 2
+4, Orleans jazz bar, 0.807937, 3
+4, potato skins, 0.737451, 3
+4, jazz, 0.945215, 5
+4, du Jazz est, 0.795115, 6
+4, good stage views, 0.790611, 6
+4, pork ribs, 0.828694, 7
+4, pork ribs combo, 0.791308, 7
+4, jazz music, 0.870704, 8
+4, jazz music fan, 0.814221, 8
+4, good music, 0.726497, 9
+4, great atmosphere, 0.711524, 9
+5, technical notes, 0.800645, 0
+5, strip steak, 0.799724, 0
+5, Maison du Jazz, 0.944201, 2
+5, imitation bacon, 0.768485, 2
+5, miserable night, 0.787219, 3
+5, cold street, 0.77572, 3
+5, table, 0.655834, 5
+5, Dinner options, 0.790447, 6
+5, good night, 0.789915, 6
+5, fantastic seats, 0.802105, 7
+5, better option, 0.793226, 7
+5, creme brulee, 0.946626, 8
+5, creme brulee trio, 0.911721, 8
+5, classic movie, 0.803475, 9
+5, sophisticated atmosphere, 0.800074, 9

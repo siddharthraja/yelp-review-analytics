@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, husbands buger, 0.840737, 0
+1, cocktails conception, 0.820104, 0
+1, early evening couch, 0.94696, 1
+1, single guy, 0.830255, 1
+1, Mexican food, 0.833126, 2
+1, sticky glass, 0.805159, 2
+1, bartender complain, 0.833104, 3
+1, service bar, 0.802832, 3
+1, bar, 0.846864, 5
+1, guests, 0.739326, 5
+1, different servers, 0.78867, 6
+1, time, 0.732889, 6
+1, good experience, 0.814667, 7
+1, Margarita, 0.685883, 7
+1, great way, 0.822742, 8
+1, simple enough right, 0.806335, 8
+1, Golden Nugget, 0.838139, 9
+1, awesome quesadilla, 0.833448, 9
+2, Ahi Tacos, 0.849185, 0
+2, original margarita, 0.741089, 0
+2, diabetic seizure, 0.704791, 1
+2, Service, 0.575156, 1
+2, quick bite, 0.745912, 2
+2, Mexican restaurants, 0.733609, 2
+2, Mexican restaurant, 0.750719, 3
+2, sports bar, 0.705394, 3
+2, burritos, 0.670268, 5
+2, night club, 0.913421, 6
+2, night club tables, 0.874734, 6
+2, strawberry margarita, 0.726269, 7
+2, scores ticker, 0.698985, 7
+2, sports book, 0.69668, 8
+2, sports scores, 0.69117, 8
+2, pretty large glass, 0.877666, 9
+2, long island, 0.845477, 9
+3, upscale/hipster Mexican food, 0.974487, 0
+3, late dinner, 0.7866, 0
+3, Terrible service, 0.756939, 1
+3, super rude, 0.711917, 1
+3, lounge couches, 0.793573, 2
+3, waitress, 0.742802, 2
+3, sangria, 0.502193, 3
+3, cousin, 0.479297, 3
+3, glass, 0.534489, 5
+3, drink, 0.473555, 6
+3, partner, 0.468217, 6
+4, americanized mexican food, 0.8957, 0
+4, chicken quesadillas, 0.787633, 0
+4, main restaurant, 0.758223, 1
+4, bar, 0.655307, 1
+4, little high, 0.755378, 2
+4, late night, 0.734921, 2
+4, regular tables, 0.75369, 3
+4, Fremont Street., 0.739742, 3
+4, restaurant, 0.770845, 5
+4, chicken quesadilla, 0.79159, 6
+4, different options, 0.771634, 6
+4, Chicken tortilla soup, 0.944553, 7
+4, coffee table height, 0.862556, 7
+4, pretty good job, 0.940325, 8
+4, Golden Nugget, 0.900832, 8
+4, Nugget pool area, 0.89834, 9
+4, loungey type feel, 0.889186, 9
+5, extra pillows, 0.643223, 0
+5, night, 0.44978, 0
+5, pool is'nt, 0.627355, 1
+5, pretty waitresses, 0.768588, 2
+5, different Tequilas, 0.707287, 2
+5, sports, 0.438793, 6
+5, drinks,delicious beef nachos, 0.891824, 7
+5, hahaha, 0.48963, 7
+5, Ahi Tuna Tacos, 0.946993, 8
+5, pretty girl servers, 0.91971, 8
+5, nugget-very friendly people, 0.824045, 9
+5, Great masa, 0.663959, 9

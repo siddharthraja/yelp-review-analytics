@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, Prime Steakhouse prices, 0.794058, 0
+1, red velvet cake, 0.790152, 0
+1, comped steak, 0.781883, 1
+1, worst cuts, 0.635191, 1
+1, CHEAP cuts, 0.623471, 2
+1, gristly kind, 0.616387, 2
+1, time dining, 0.648025, 3
+1, rib bone, 0.626347, 3
+1, steak, 0.937343, 4
+1, bacon, 0.53421, 4
+1, sides, 0.699772, 5
+1, high quality ribeyes, 0.8043, 6
+1, filet mignon, 0.702707, 6
+1, new steak, 0.813285, 7
+1, chipotle mac, 0.67698, 7
+2, better ahi tuna, 0.795761, 0
+2, account multiple reviews, 0.760226, 0
+2, bloody steak, 0.752706, 1
+2, minutes. desert, 0.6182, 1
+2, expensive steak joints, 0.961011, 2
+2, wine prices, 0.814395, 2
+2, big chains, 0.648825, 3
+2, Longest meal, 0.613128, 3
+2, mignon, 0.513216, 4
+2, best steak, 0.763778, 6
+2, propane camping stove, 0.761733, 6
+2, Wine menu choices, 0.768405, 7
+2, couple shrimp, 0.617809, 7
+2, garlic mashed potatoes, 0.839155, 8
+2, best shrimp, 0.635879, 8
+3, dainty eaters, 0.790261, 0
+3, red meat, 0.785114, 0
+3, little traffic noise, 0.832009, 1
+3, osso bucco, 0.784709, 1
+3, old sales pitch, 0.839612, 2
+3, satisfying food options, 0.839229, 2
+3, reservation time, 0.788417, 3
+3, bar staff, 0.784823, 3
+3, baked brie, 0.838111, 4
+3, Vinedos Terranoble Sauvignon, 0.826322, 6
+3, Steak House, 0.797351, 6
+3, French onion soup, 0.952606, 7
+3, great wine selection, 0.86599, 7
+3, premium chain steakhouse, 0.859145, 8
+3, perfectly descriptive word, 0.851685, 8
+3, good service, 0.802815, 9
+3, business luncheons/dinners, 0.784855, 9
+4, slightly overcooked steak, 0.662505, 0
+4, regular filet mignon, 0.648059, 0
+4, good steak joint, 0.715194, 2
+4, food safety practice, 0.616271, 2
+4, sell-a-kidney-to-eat-there good, 0.610188, 3
+4, chocolate lava cake, 0.824455, 4
+4, potato leek soup, 0.704211, 4
+4, service, 0.789597, 5
+4, steak, 0.763098, 5
+4, good steak, 0.715556, 6
+4, shrimp cocktail, 0.672782, 6
+4, filet mignon, 0.902236, 7
+4, french onion soup, 0.866689, 7
+4, great service, 0.677718, 8
+4, gift card, 0.654817, 8
+4, medium rare steak, 0.65185, 9
+4, good blue cheese, 0.648672, 9
+5, HUGE ribeye steak, 0.821172, 0
+5, steak houses, 0.757485, 0
+5, vanilla ice cream, 0.715947, 1
+5, short bread cookie, 0.714093, 1
+5, flavor otherwise..I guess, 0.730742, 2
+5, ny strip, 0.730279, 3
+5, heavy duty knife, 0.723571, 3
+5, filet mignon, 0.948936, 5
+5, steak, 0.946504, 5
+5, prime rib, 0.784498, 6
+5, Thai Chili Calamari, 0.716207, 6
+5, best steak restaurant, 0.869723, 7
+5, tasty steak fans, 0.828506, 7
+5, high end steak, 0.862948, 8
+5, special occasion, 0.800263, 8
+5, filet mignon steak, 0.865425, 9
+5, high grade service, 0.756322, 9

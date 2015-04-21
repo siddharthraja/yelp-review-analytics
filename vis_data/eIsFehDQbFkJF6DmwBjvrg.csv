@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, jello shot cups, 0.91611, 0
+1, bar area, 0.896217, 0
+1, soapy towel, 0.725181, 1
+1, Mango Margarita, 0.697463, 1
+1, half yard, 0.894066, 2
+1, abrasive East Coaster, 0.85024, 2
+1, Fat Tuesdays, 0.956135, 3
+1, little English, 0.708616, 3
+1, Degrees, 0.636971, 5
+1, Good location, 0.734331, 6
+1, place, 0.625052, 6
+1, jello shots, 0.955482, 7
+1, Strawberry Daiquiri, 0.744768, 7
+1, convenient location, 0.695704, 8
+1, trust, 0.579449, 8
+1, medium sized mojito, 0.864927, 9
+2, shaved ice, 0.657256, 0
+2, bargain size, 0.471294, 0
+2, faint taste, 0.482825, 1
+2, Buyer beware, 0.471629, 1
+2, ambiance, 0.375355, 2
+2, lack, 0.359521, 2
+2, drinks, 0.480299, 3
+2, ......, 0.968839, 5
+2, place, 0.509194, 5
+2, snow cone, 0.480596, 6
+2, degrees, 0.363679, 6
+2, pool, 0.518133, 7
+2, Pina Colada, 0.4958, 7
+2, MGM Grand, 0.487407, 8
+2, Small lounge, 0.484802, 8
+2, Happy Hour prices, 0.465513, 9
+3, size bucket, 0.54355, 0
+3, initial full price, 0.517697, 0
+3, gigantor MGM Grand, 0.904882, 2
+3, Fat, 0.351052, 2
+3, alcohol drinker, 0.549224, 3
+3, refill, 0.35512, 6
+3, free Jell-O shots, 0.735577, 7
+3, typical girlie, 0.573893, 7
+3, mango margarita, 0.913273, 8
+3, drinks, 0.411226, 8
+3, fruity selections, 0.538817, 9
+4, premixed dispenser thingies, 0.781022, 0
+4, kinda test tube, 0.761018, 0
+4, UFC card, 0.64291, 1
+4, huge pina coladas, 0.797428, 2
+4, non-alcoholic smoothies, 0.664341, 2
+4, Cable Cars, 0.656334, 3
+4, biggest cup/jar/whatever, 0.643999, 3
+4, jello shots, 0.96509, 4
+4, extra shot, 0.799892, 4
+4, pink vodka lemonades, 0.834072, 6
+4, shure ist hott, 0.830663, 6
+4, MGM Grand, 0.992992, 7
+4, MGM Grand Signature, 0.802847, 7
+4, delicious piña coladas, 0.785124, 8
+4, good smoothie, 0.658801, 8
+4, proper refill strategy, 0.753089, 9
+4, different flavors, 0.636871, 9
+5, Cool little place, 0.792655, 0
+5, jello shots, 0.754643, 0
+5, world, 0.450648, 1
+5, frozen slushy drinks, 0.894757, 2
+5, sluts, 0.484667, 2
+5, jello shot, 0.987626, 5
+5, Happy, 0.452189, 6
+5, free Jell-O, 0.659556, 7
+5, Las Vegas, 0.645992, 7
+5, free jello shot, 0.959061, 8
+5, Birthday Girl, 0.668952, 8
+5, Jell-O shots, 0.666739, 9
+5, different bartender, 0.654553, 9

@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, meal, 0.700328, 0
+1, couple, 0.694358, 0
+1, forgot, 0.7699, 1
+1, drink, 0.729563, 1
+1, Roast beef, 0.923607, 2
+1, Curry Chicken, 0.883619, 6
+2, English pub, 0.951236, 0
+2, English beer, 0.806005, 0
+2, miss, 0.674057, 1
+2, food, 0.527339, 1
+2, times, 0.537997, 3
+2, location, 0.537, 3
+3, deep fryer, 0.919442, 0
+3, deep fryer oil, 0.784591, 0
+3, different experiences, 0.583181, 2
+3, service, 0.299396, 6
+3, try, 0.219017, 8
+3, atmosphere, 0.218955, 8
+4, deep fried pickle, 0.791424, 0
+4, authentic english pub, 0.786163, 0
+4, short nap, 0.5701, 1
+4, pint, 0.438332, 1
+4, bar, 0.579812, 2
+4, policy, 0.435549, 2
+4, deep fried bun, 0.976458, 3
+4, soft bun, 0.585292, 3
+4, place, 0.466998, 5
+4, service, 0.453082, 5
+4, best Indian restaurants, 0.740689, 6
+4, Street Organic beer, 0.738247, 6
+4, deep fried bacon, 0.786444, 7
+4, favourite menu item, 0.723574, 7
+4, great beer selection, 0.730295, 8
+4, nice dinner selection, 0.714128, 8

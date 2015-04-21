@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, cocktail server/whatever, 0.997626, 0
+1, waitress, 0.888027, 0
+1, hair, 0.746572, 1
+1, food, 0.745306, 1
+1, questions, 0.753883, 3
+1, bartenders, 0.868354, 7
+3, older crowd, 0.783517, 0
+3, Decent food, 0.698784, 0
+3, update, 0.391566, 3
+3, server, 0.44034, 6
+3, good drinks, 0.655099, 7
+3, better service, 0.645162, 7
+3, late night snack, 0.979681, 8
+3, Nice atmosphere, 0.717144, 8
+4, pina colada mix, 0.953445, 0
+4, good excuse, 0.815001, 0
+4, gambling promos, 0.819493, 1
+4, poker machines, 0.804101, 1
+4, unlucky Friendly staff, 0.945603, 2
+4, drinks, 0.817205, 2
+4, max bet button, 0.941221, 3
+4, wings, 0.666398, 4
+4, bar, 0.887663, 5
+4, Lol, 0.687105, 5
+4, place, 0.959525, 6
+4, pina colada, 0.954358, 6
+4, food, 0.999243, 7
+4, awesome food, 0.81251, 7
+4, Best Chicken Nachos, 0.977408, 8
+4, best spinach dip, 0.960693, 8
+4, American classics, 0.819139, 9
+4, lunch menu, 0.80415, 9
+5, good time, 0.542459, 0
+5, pitchers, 0.326002, 0
+5, stiff drinks, 0.64783, 2
+5, loose machines, 0.579477, 6
+5, napkins, 0.297096, 6
+5, Great locals bar, 0.930058, 7
+5, great service, 0.550446, 7
+5, Nice quiet gaming, 0.950052, 8
+5, excellent food, 0.552916, 8
+5, fav bar tender, 0.936354, 9
+5, hoo great time, 0.873968, 9

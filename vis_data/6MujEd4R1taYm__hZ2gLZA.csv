@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, local streets, 0.624494, 0
+1, bit, 0.450123, 0
+1, truly nasty place, 0.936069, 1
+1, ignorant dross, 0.716091, 1
+1, Bad food, 0.694619, 2
+1, trendy surroundings, 0.671795, 2
+1, equally rip-off outlets, 0.914656, 3
+1, social event, 0.647683, 3
+1, True story, 0.650286, 6
+1, Mediterranean town, 0.635814, 7
+1, pickpockets, 0.476819, 7
+1, riche middle agers, 0.879559, 9
+1, sad thing, 0.654944, 9
+2, stylish local bar, 0.997326, 0
+2, high seating area, 0.930117, 0
+2, bland tartar sauce, 0.930608, 1
+2, soggy batter, 0.789954, 1
+2, fish, 0.809671, 2
+2, substance trap, 0.763648, 2
+2, soggy chips, 0.775817, 3
+2, seating areas, 0.743406, 3
+2, people, 0.669041, 5
+2, right time, 0.726444, 6
+2, open door, 0.719728, 6
+2, enjoyable evenings, 0.774838, 7
+2, new look, 0.734397, 7
+2, stylish venue, 0.776297, 8
+2, good place, 0.749381, 8
+3, Nice local bar, 0.923697, 0
+3, gluten free version, 0.871084, 0
+3, pretty shoddy lunch, 0.913765, 1
+3, walk. pfft, 0.808249, 1
+3, bad place, 0.813573, 2
+3, cheap lunch, 0.811482, 2
+3, Bruntsfield area, 0.936959, 3
+3, slightly pricey drinks, 0.898361, 3
+3, drinks list, 0.867544, 5
+3, food, 0.955779, 6
+3, fine French food, 0.905966, 6
+3, table service, 0.903514, 7
+3, great wee spot, 0.886481, 7
+3, nice place, 0.979791, 8
+3, bar staff, 0.88601, 8
+3, pretty sweet spot, 0.867059, 9
+3, Bruntsfield surroundings, 0.834346, 9
+4, main course, 0.872164, 0
+4, citys best burger, 0.861871, 0
+4, academic terms, 0.796677, 1
+4, Thursday night, 0.859304, 2
+4, student kids, 0.796596, 2
+4, extra orange juice, 0.839094, 3
+4, place, 0.905111, 4
+4, montpeliers, 0.929463, 5
+4, Bruntsfield Place, 0.87019, 6
+4, montpeliers offering breakfast, 0.867438, 6
+4, bruntsfield, 0.88863, 7
+4, Great comfort food, 0.884692, 7
+4, late night drinks, 0.932967, 8
+4, soup-and-sandwich style lunch, 0.880453, 8
+4, extensive drinks menu, 0.901414, 9
+4, luxurious leather sofas, 0.872612, 9
+5, tuna steak, 0.780623, 0
+5, cheap wine, 0.748947, 0
+5, Greed, 0.549136, 2
+5, Tuesday evening, 0.713978, 3
+5, rounds, 0.550438, 6
+5, pounds, 0.545426, 6
+5, buttery tartar sauce, 0.961991, 7
+5, watering goats cheese, 0.921575, 7
+5, truffle wild mushroom, 0.935269, 8
+5, delicious dinner, 0.789367, 8
+5, cool mint sauce, 0.920704, 9
+5, Summer lamb burger, 0.917228, 9

@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, drink minimum policy, 0.448239, 0
+1, drink order, 0.44765, 0
+1, food, 0.585786, 1
+1, mediocre lemon drink, 0.427315, 1
+1, overpriced drinks, 0.430584, 2
+1, waitress, 0.407672, 2
+1, drink minimum, 0.965767, 3
+1, drinks, 0.718548, 3
+1, people, 0.701596, 4
+1, comedy club, 0.585411, 4
+1, comedy, 0.620565, 5
+1, tickets, 0.565247, 5
+1, item minimum, 0.434356, 6
+1, credit card, 0.412278, 6
+1, Copper Blues, 0.461851, 7
+1, free tickets, 0.436282, 7
+1, Scottsdale comedy club, 0.396248, 8
+1, decent drink, 0.404263, 9
+1, totally different experience, 0.388347, 9
+2, initial drink service, 0.422547, 0
+2, Mediocre drinks, 0.396156, 0
+2, drink prices, 0.517429, 1
+2, outrageous drink prices, 0.41274, 1
+2, tables, 0.425398, 2
+2, drink order, 0.401252, 2
+2, people, 0.717593, 3
+2, wait staff, 0.40997, 3
+2, drink minimum, 0.918007, 4
+2, drinks, 0.851662, 4
+2, food, 0.560535, 5
+2, table, 0.554714, 5
+2, Bob Saget, 0.426367, 6
+2, ticket booth, 0.403606, 6
+2, Blue Moon, 0.396008, 7
+2, real comedy club, 0.393658, 7
+2, great place, 0.454988, 8
+2, Chris Titus, 0.410029, 8
+2, great experience service, 0.404085, 9
+3, sports bar-like food, 0.395882, 0
+3, item minimum, 0.446653, 1
+3, wicked overpriced drinks, 0.401361, 1
+3, Sklar Brothers, 0.479443, 2
+3, mixed drinks, 0.478923, 2
+3, drink minimum, 0.907224, 3
+3, beer, 0.412415, 3
+3, drinks, 0.723481, 4
+3, people, 0.600423, 4
+3, food, 0.638131, 5
+3, time, 0.62523, 5
+3, Copper Blues, 0.465224, 6
+3, prices, 0.422214, 6
+3, Stand Up Live, 0.515487, 7
+3, good seats, 0.447888, 7
+3, good seat, 0.418179, 8
+3, pretty good money, 0.411292, 8
+3, good view, 0.421305, 9
+4, drink minimum rules, 0.415353, 0
+4, bar/comedy club food, 0.41047, 0
+4, box office, 0.424539, 3
+4, comedy club experience, 0.419296, 3
+4, drink minimum, 0.921321, 4
+4, comedy clubs, 0.556541, 4
+4, comedy club, 0.741496, 5
+4, time, 0.720827, 5
+4, venue, 0.44657, 6
+4, bad seat, 0.427845, 6
+4, Copper Blues, 0.477928, 7
+4, free tickets, 0.469765, 7
+4, great time, 0.550575, 8
+4, GREAT comedy venue, 0.432294, 8
+4, roomy comedy club, 0.410126, 9
+4, drink selection, 0.403305, 9
+5, heavy bar food, 0.54637, 0
+5, Live souvenir glass, 0.541237, 0
+5, comedy clubs, 0.611434, 2
+5, good seats, 0.543977, 4
+5, time, 0.751319, 5
+5, place, 0.717549, 5
+5, service, 0.591831, 6
+5, Dana Carvey, 0.547662, 6
+5, copper blues, 0.943611, 7
+5, Stand Up Live, 0.700752, 7
+5, comedy club, 0.755359, 8
+5, great place, 0.645871, 8
+5, Live Comedy Theater, 0.580584, 9
+5, beautiful comedy club, 0.542126, 9

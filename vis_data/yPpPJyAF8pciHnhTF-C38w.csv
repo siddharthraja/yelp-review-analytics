@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+3, pool table room, 0.671996, 0
+3, normal night, 0.623607, 0
+3, Homme Lounge, 0.838642, 1
+3, gay bar, 0.789652, 1
+3, French Kiss Fridays, 0.711093, 2
+3, pretty weak party, 0.686022, 2
+3, event nights, 0.741747, 3
+3, old gay bar, 0.685851, 3
+3, Homme, 0.942595, 4
+3, French Kiss, 0.813117, 5
+3, place, 0.676761, 5
+3, regular special night, 0.698613, 6
+3, ambient house/breaks music, 0.687258, 6
+3, pool table, 0.785372, 7
+3, real people, 0.600637, 7
+3, past favorite hangouts, 0.698845, 8
+3, friday night, 0.682285, 8
+3, great dance spot, 0.674885, 9
+3, great place, 0.604768, 9
+4, tootsie roll shots., 0.827876, 0
+4, combination lounge/dance club, 0.649739, 0
+4, dance floor, 0.622061, 1
+4, new door guy, 0.602157, 1
+4, Party Foul, 0.930871, 2
+4, blah blah blah, 0.678945, 2
+4, new Saturday night, 0.669024, 3
+4, new wave night, 0.652621, 3
+4, typical club music, 0.824463, 4
+4, homme, 0.515481, 4
+4, place, 0.678499, 6
+4, French Kiss, 0.635635, 6
+4, nice stiff drink, 0.64307, 7
+4, people, 0.537271, 7
+4, queer girls comfort, 0.613068, 8
+4, unique Halloween party, 0.603893, 8
+4, favorite place, 0.57214, 9
+4, drink prices, 0.535796, 9
+5, club circuit regulars, 0.927252, 0
+5, converted two-story house, 0.926084, 0
+5, bloghouse/ bmore/ remixes/, 0.85474, 1
+5, hop/ retro/ hyphy/, 0.854526, 1
+5, music scenesters trannies, 0.883031, 2
+5, addicts drunk people, 0.846671, 2
+5, fogey gay bar, 0.896785, 3
+5, narrow spiral staircase, 0.884435, 3
+5, music scene upstairs, 0.922871, 6
+5, favorite bar, 0.750026, 6
+5, newwave/indie/punk/electro dance party, 0.9321, 7
+5, cosmopolitan LA/SF dance, 0.89379, 7
+5, upstairs DJ/dancefloor area, 0.920665, 8
+5, music selection, 0.771775, 8
+5, great place, 0.751831, 9

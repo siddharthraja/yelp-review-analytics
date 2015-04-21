@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+2, hip hop club, 0.933013, 0
+2, different dance floors, 0.811035, 0
+2, general admission, 0.855137, 1
+2, general admission line, 0.852433, 1
+2, cheesy things, 0.656245, 2
+2, people, 0.489933, 2
+2, little smoking section, 0.87644, 3
+2, cup size, 0.802238, 3
+2, huge dance floor, 0.878837, 6
+2, latest rap tunes, 0.829444, 7
+2, young adults, 0.786209, 7
+2, money, 0.442574, 9
+3, VIP parking space, 0.939739, 0
+3, VIP bands, 0.614621, 0
+3, parking passes, 0.56218, 1
+3, VIP parking, 0.956961, 2
+3, VIP area, 0.610675, 2
+3, people, 0.419314, 4
+3, table, 0.580301, 6
+3, free drinks, 0.499692, 6
+3, center booth, 0.513919, 7
+3, good price, 0.492095, 7
+3, good shelf selections, 0.793903, 8
+3, good time, 0.475836, 8
+4, small dance floor, 0.773583, 0
+4, waka flocka, 0.65852, 0
+4, college night, 0.606262, 2
+4, fights, 0.450188, 2
+4, college life, 0.625149, 3
+4, rap, 0.525284, 3
+4, DJ stand, 0.632245, 6
+4, seating, 0.455128, 6
+4, music, 0.484314, 7
+4, end, 0.492996, 8
+4, dance floor, 0.981945, 9
+4, large dance floor, 0.889827, 9

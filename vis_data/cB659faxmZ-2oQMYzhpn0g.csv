@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+4, overpriced wine selection, 0.416004, 0
+4, laid back style, 0.249883, 0
+4, rainy Thursday evening, 0.353865, 2
+4, slight undertow, 0.262095, 2
+4, wine, 0.901535, 5
+4, glass, 0.271853, 5
+4, great wine, 0.378613, 6
+4, Nathan flatbread dish, 0.365562, 6
+4, wine shop, 0.553146, 7
+4, different wine regions, 0.430306, 7
+4, live music, 0.751496, 8
+4, fun live music, 0.360126, 8
+4, good live music, 0.39678, 9
+4, nice casual evening, 0.36822, 9
+5, little wine shop, 0.494524, 0
+5, live band play, 0.441934, 0
+5, huge wine fan, 0.491422, 2
+5, muy expensive products, 0.435342, 2
+5, wine bar fan, 0.502281, 3
+5, Thursday night, 0.442928, 3
+5, wine shop, 0.853305, 5
+5, Cru Wine Shop, 0.698155, 5
+5, live music, 0.994146, 6
+5, wine, 0.925417, 6
+5, pimento cheese, 0.559991, 7
+5, quality wine bottles, 0.513179, 7
+5, great live music, 0.580309, 8
+5, great wine, 0.555571, 8
+5, great neighborhood wine, 0.502869, 9
+5, unexpected fun night, 0.451426, 9

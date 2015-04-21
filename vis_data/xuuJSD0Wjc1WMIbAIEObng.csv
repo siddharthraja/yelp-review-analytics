@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, bacon burger, 0.914199, 0
+1, pub meal, 0.883932, 0
+1, Potatoes, 0.473321, 2
+1, heat lamp, 0.84563, 3
+1, carrots, 0.503854, 3
+2, cold reception, 0.617391, 0
+2, dogs, 0.444083, 0
+2, cheap brands, 0.663186, 1
+2, draught beers, 0.658459, 1
+2, chain pub, 0.663595, 2
+2, old character, 0.639157, 2
+2, Cramond Inn sign, 0.927295, 3
+2, old style bar, 0.834137, 3
+2, happy staff, 0.60217, 6
+2, place, 0.480737, 6
+4, Sweet port wine, 0.789236, 0
+4, cheap beers, 0.627365, 0
+4, previous review, 0.60008, 6
+4, good way, 0.594459, 6
+4, olde world pub, 0.969708, 8
+4, delicious house sharer, 0.915929, 8
+4, Friendly clientele, 0.613001, 9
+4, caring service, 0.609969, 9

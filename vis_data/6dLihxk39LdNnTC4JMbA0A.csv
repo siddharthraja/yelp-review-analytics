@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, poor food quality, 0.866741, 0
+1, drink, 0.440351, 0
+1, cold boxed foods, 0.914123, 6
+1, Veal, 0.487295, 6
+1, place, 0.368434, 7
+1, Good STAFF, 0.646038, 9
+1, great view, 0.602117, 9
+2, rich blue hairs, 0.811023, 0
+2, posh fountain hills, 0.80728, 0
+2, top. yuck, 0.716668, 1
+2, blue hairs, 0.93694, 2
+2, caesar salad. meh., 0.80111, 2
+2, opposite counter. stoopy, 0.80719, 3
+2, actual restaurant manager, 0.774408, 3
+2, restaurant manager, 0.866605, 4
+2, food, 0.837004, 4
+2, cheese plate, 0.768004, 5
+2, filet mignon, 0.801109, 6
+2, window table, 0.79968, 6
+2, fountain hills, 0.912525, 7
+2, safe customers. meh, 0.807528, 7
+2, view, 0.911433, 8
+2, safe wine list, 0.803523, 8
+2, fine dining establishment, 0.75602, 9
+3, specified time, 0.700337, 0
+3, table side heater, 0.697297, 0
+3, waitress, 0.7354, 1
+3, clean-up mess, 0.700762, 1
+3, service, 0.722153, 2
+3, fullest extent, 0.690452, 2
+3, previous Thanksgiving, 0.699759, 3
+3, great start, 0.682909, 3
+3, table, 0.747726, 4
+3, fine dining restaurant, 0.749949, 7
+3, food, 0.744897, 7
+3, Thanksgiving brunch buffet, 0.798449, 8
+3, Copperwynd many times, 0.702542, 8
+3, best table, 0.684986, 9
+4, starch floating ariund, 0.946347, 0
+4, head chef, 0.84025, 0
+4, cobbler portion, 0.866032, 1
+4, glass joint, 0.833817, 1
+4, food, 0.875259, 2
+4, upscale food, 0.848671, 2
+4, meal, 0.898209, 3
+4, dinner, 0.909198, 4
+4, dinner selection, 0.868455, 6
+4, average meal, 0.851173, 6
+4, tender lamb chops, 0.951101, 7
+4, non meat eater, 0.926025, 7
+4, successful project launch, 0.973495, 8
+4, business casuaal thing, 0.953486, 8
+4, excellent dining experience, 0.931954, 9
+4, wonderful dinner, 0.857805, 9
+5, flourless chocolate cake, 0.740514, 0
+5, white chocolate cake, 0.740417, 0
+5, Alchemy, 0.920349, 5
+5, food, 0.845616, 5
+5, city lights/mountain views, 0.834957, 6
+5, place, 0.830945, 6
+5, wine list, 0.913187, 7
+5, amazing dining experience, 0.760508, 7
+5, goat cheese, 0.965831, 8
+5, Fountain Hills, 0.817726, 8
+5, great Christmas Eve, 0.779711, 9
+5, great food, 0.774625, 9

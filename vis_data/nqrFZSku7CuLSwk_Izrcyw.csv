@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+2, Blah food, 0.803367, 1
+2, chicken dish, 0.904732, 2
+2, calamari, 0.495416, 2
+2, escargot, 0.511371, 3
+2, cheese, 0.430679, 3
+2, concierge, 0.477481, 6
+2, restaurant, 0.38508, 6
+2, Great waitress, 0.802407, 8
+3, World Cup finals, 0.976174, 0
+3, game, 0.491852, 0
+3, seats, 0.470749, 2
+3, start, 0.460354, 2
+3, waitresses, 0.479607, 3
+3, lunch, 0.462837, 3
+3, good crowd, 0.694604, 6
+3, locals, 0.475386, 6
+3, fresh tomatoes, 0.666126, 7
+3, topping, 0.478162, 7
+3, wonderful dipping sauce, 0.913133, 8
+3, beer selection, 0.672573, 8
+5, salmon table d'hote, 0.886647, 0
+5, excessive cheesiness problem, 0.857275, 0
+5, long agony, 0.586839, 2
+5, flood, 0.34847, 2
+5, typical fare, 0.640463, 3
+5, Boreale Rousse, 0.63898, 3
+5, remnant, 0.379123, 4
+5, beard, 0.367896, 4
+5, PEI mussels table, 0.970158, 6
+5, kind Leffe, 0.653591, 6
+5, best banana splits, 0.833417, 7
+5, Cafe Republique, 0.755941, 7
+5, breakfasts, 0.37592, 8
+5, value, 0.349343, 8
+5, pasta portions, 0.646972, 9
+5, ones, 0.349861, 9

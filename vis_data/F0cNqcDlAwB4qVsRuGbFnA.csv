@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, traider joes food, 0.838565, 0
+1, view wine bar, 0.838062, 0
+1, customer service, 0.914947, 1
+1, jazz major kid, 0.859629, 1
+1, poor customer service, 0.826431, 2
+1, immature voice, 0.735513, 2
+1, glamourous figure, 0.726202, 3
+1, busier night, 0.724878, 3
+1, las vegas, 0.897164, 4
+1, wine bar, 0.979207, 5
+1, food, 0.934724, 5
+1, Tivoli Village, 0.719366, 6
+1, hh price, 0.815215, 7
+1, Rig better option, 0.803828, 7
+1, great food, 0.759471, 8
+1, little bit, 0.738594, 8
+1, local Las Vegas, 0.822693, 9
+1, business owners, 0.719357, 9
+2, dining area, 0.700762, 0
+2, popular restaurant manager, 0.671836, 0
+2, worst wrapped dates, 0.67552, 1
+2, bar time, 0.633769, 1
+2, crispy pork belly, 0.686103, 2
+2, service, 0.677215, 2
+2, wine bar, 0.786969, 3
+2, time, 0.740186, 3
+2, food, 0.902949, 4
+2, Saturday afternoon, 0.690297, 4
+2, place, 0.781901, 5
+2, table, 0.688494, 5
+2, onion soup, 0.682707, 6
+2, Wine Tasting, 0.67217, 6
+2, great time, 0.608235, 7
+2, great concept, 0.686812, 8
+2, better food, 0.646026, 8
+2, pretty awesome spot, 0.696825, 9
+3, butternut squash soup, 0.55459, 0
+3, Tuna Tartare Tacos, 0.511355, 0
+3, fried chicken, 0.604458, 3
+3, new wine bar, 0.532774, 3
+3, food, 0.734839, 4
+3, pork belly, 0.600669, 4
+3, wine bar, 0.666571, 5
+3, Tivoli Village, 0.657859, 5
+3, tuna tartare nachos, 0.913421, 6
+3, wine, 0.736842, 6
+3, pot pie nuggets, 0.603972, 7
+3, lobster mac, 0.572846, 7
+3, live music, 0.647272, 8
+3, wine selection, 0.629109, 8
+3, good wine selection, 0.554619, 9
+3, Enjoyable live music, 0.495516, 9
+4, cheese bar, 0.230602, 0
+4, charming little cheese, 0.227641, 0
+4, trendy wine bar, 0.270825, 1
+4, little cheese shoppe, 0.258229, 2
+4, expensive little bar, 0.213895, 2
+4, pot pie bites, 0.288767, 3
+4, Tivoli Wrapped Dates, 0.229723, 3
+4, main bar, 0.258641, 4
+4, chicken pot pie, 0.906122, 5
+4, view wine bar, 0.719756, 5
+4, small plates, 0.283858, 6
+4, cheese plate, 0.277322, 6
+4, pot pie nuggets, 0.589708, 7
+4, wine list, 0.273435, 7
+4, live music, 0.244856, 8
+4, great wine selection, 0.24154, 8
+4, varied wine menu, 0.219341, 9
+4, happy hour wine, 0.217728, 9
+5, Great little wine, 0.3406, 0
+5, butternut squash soup, 0.314941, 0
+5, View Cheese Bar, 0.366334, 3
+5, neighborhood wine bar, 0.339604, 3
+5, View Wine Bar, 0.843569, 4
+5, chicken pot pie, 0.939475, 5
+5, tivoli village, 0.553667, 5
+5, pot pie nuggets, 0.74755, 6
+5, cheese, 0.502826, 6
+5, grilled cheese, 0.394546, 7
+5, wine list, 0.379979, 7
+5, great wine selection, 0.342732, 8
+5, adorable wine bar, 0.340947, 8
+5, great place, 0.347665, 9
+5, great service, 0.312738, 9

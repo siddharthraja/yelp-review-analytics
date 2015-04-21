@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, Guinness pint, 0.605315, 0
+1, good things, 0.598432, 0
+1, barely mild thumping, 0.770709, 1
+1, English pub, 0.562171, 1
+1, dead slow time, 0.736683, 2
+1, English food fan, 0.687479, 2
+1, bangers, 0.587111, 3
+1, halves, 0.514431, 3
+1, fish, 0.456753, 4
+1, homemade sausages, 0.627724, 6
+1, lunch portion, 0.621002, 6
+1, dinner portion, 0.948514, 7
+1, tasty homemade potatoes, 0.764528, 7
+1, birthday dinner, 0.658475, 8
+1, family, 0.43853, 8
+2, pool shooting hooligans, 0.811556, 0
+2, Long John Silvers, 0.785453, 0
+2, portabello crab cake, 0.847075, 1
+2, different menu items, 0.841294, 1
+2, great supporting cast, 0.782303, 2
+2, different beer, 0.687327, 2
+2, MLS stations, 0.663567, 3
+2, favorite team, 0.651411, 3
+2, place, 0.555143, 5
+2, slash waitress slash, 0.99787, 6
+2, cook slash dishwasher, 0.912536, 6
+2, draft beer selection, 0.819627, 7
+2, fries, 0.568399, 7
+2, beer selection, 0.966414, 8
+2, great tap selection, 0.825107, 8
+2, tap beer selection, 0.876163, 9
+3, multiple flat screens, 0.838617, 0
+3, non-seafood focused restaurant, 0.81627, 0
+3, blown restaurant, 0.69234, 1
+3, mediocre quality food, 0.824344, 2
+3, sports bar vibe, 0.792377, 2
+3, imperial pint, 0.66139, 3
+3, drink orders, 0.659149, 3
+3, chips, 0.878685, 4
+3, fish, 0.855264, 4
+3, good average English, 0.834068, 6
+3, Scottish eggs, 0.685527, 6
+3, British Ale Pie, 0.990404, 7
+3, crazy British names, 0.812363, 7
+3, pretty solid group, 0.818726, 8
+3, British friends, 0.693105, 8
+3, mashed potatoes, 0.676345, 9
+4, Premier League footie, 0.90397, 0
+4, traditional bar food, 0.89017, 0
+4, British beer heaven, 0.88022, 1
+4, HUGE soccer, 0.769276, 2
+4, Scottish Expatriate, 0.780905, 3
+4, dark ale, 0.754063, 3
+4, good local bar, 0.902117, 6
+4, traditional custard sauce, 0.871207, 6
+4, Scotch Eggs Appetizer, 0.872317, 7
+4, Great selection, 0.783816, 7
+4, favorite hang outs, 0.879362, 8
+4, good time, 0.783148, 8
+4, good beer selection, 0.915165, 9
+4, plum pudding dessert, 0.90021, 9
+5, English pub grub, 0.84575, 0
+5, British Shop, 0.679755, 0
+5, strip mall, 0.639943, 2
+5, bad fish, 0.629956, 2
+5, Manchester United paraphanelia, 0.732266, 3
+5, bad thing, 0.611403, 3
+5, chips, 0.717149, 5
+5, fish, 0.634235, 5
+5, organic apple cider, 0.749593, 6
+5, entire meal, 0.647675, 6
+5, Yorkshire Roast Beef, 0.974283, 7
+5, British pub favorites, 0.826736, 7
+5, British style pub, 0.796136, 8
+5, great pub food, 0.788539, 8
+5, little malt vinegar, 0.74799, 9
+5, Fantastic beer selection, 0.72201, 9

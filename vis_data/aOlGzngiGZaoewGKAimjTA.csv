@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+2, caveat, 0.502857, 0
+2, review, 0.45747, 0
+2, servers, 0.611359, 1
+2, change, 0.456637, 1
+2, best way, 0.867085, 2
+2, bartender, 0.698842, 2
+2, excellent resort, 0.880074, 3
+2, excellent service, 0.839002, 3
+2, food, 0.589926, 4
+2, customers, 0.541812, 4
+2, luck, 0.480475, 6
+2, Centro, 0.476438, 6
+2, extra star, 0.906194, 7
+2, tacos, 0.790416, 7
+4, beautiful setting, 0.771361, 0
+4, Great resort bar, 0.990862, 7
+4, drink, 0.457002, 7
+4, stellar view, 0.834876, 8
+4, large TV, 0.701564, 8
+4, great experience, 0.65454, 9
+4, Thanks, 0.467284, 9
+5, Best Bloody Mary, 0.938643, 0
+5, crispy flat bread/cracker, 0.879476, 0
+5, large party, 0.69971, 1
+5, hostess stand, 0.709193, 2
+5, small table, 0.696972, 2
+5, cheese plate, 0.72722, 6
+5, generous servings, 0.719804, 6
+5, Christin, 0.765996, 7
+5, super fun, 0.743953, 7
+5, great convo, 0.739626, 8
+5, Centro Lounge, 0.734528, 8
+5, sea salt, 0.713978, 9
+5, little stay-cation, 0.686201, 9

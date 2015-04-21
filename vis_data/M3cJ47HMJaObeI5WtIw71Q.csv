@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, customer service, 0.722341, 0
+1, Horrible customer service, 0.698017, 0
+1, performer loni love, 0.725766, 1
+1, pathetic experience, 0.560285, 1
+1, comedy club, 0.943321, 2
+1, people, 0.754447, 2
+1, plastic bottled water, 0.726192, 3
+1, popcorn, 0.628284, 3
+1, comedians, 0.59689, 4
+1, audience, 0.386666, 4
+1, good time, 0.671977, 6
+1, guest comedians, 0.553263, 6
+1, private messages, 0.511323, 7
+2, comedy clubs, 0.697643, 0
+2, unusually long time, 0.691702, 0
+2, chicken Caesar salad, 0.661382, 1
+2, obnoxious heckler, 0.609182, 1
+2, bar rescue, 0.686011, 2
+2, entry room, 0.678171, 2
+2, bar, 0.689285, 3
+2, packed entry room, 0.669419, 3
+2, time, 0.736712, 4
+2, people, 0.683527, 4
+2, comedy club, 0.932024, 5
+2, place, 0.730592, 5
+2, Stand-Up Comedy Club, 0.729514, 6
+2, group, 0.617441, 6
+2, Howard Hughes, 0.796836, 7
+2, ice water, 0.672933, 7
+2, large lights, 0.599727, 8
+2, goodness decent comedians, 0.688601, 9
+2, easy date night, 0.671103, 9
+3, annoying crowd drunks, 0.89484, 0
+3, different comedy spot, 0.875223, 0
+3, little comedy club, 0.870938, 1
+3, ice tea, 0.860305, 1
+3, standard bar food, 0.864253, 2
+3, male genitalia/dildo jokes, 0.853591, 2
+3, current state, 0.841998, 3
+3, comedy, 0.943506, 4
+3, comedy club, 0.940909, 4
+3, night, 0.974809, 5
+3, good comedian, 0.866245, 5
+3, place, 0.920049, 6
+3, fellow Yelpers Jim, 0.854829, 6
+3, Yelp Elite event, 0.970118, 7
+3, Ben Roy, 0.894365, 7
+3, big fan, 0.873411, 8
+3, fresh fried fries, 0.843738, 8
+4, old time comedians, 0.455715, 0
+4, Comedy Club etiquette, 0.413691, 0
+4, bar, 0.441712, 2
+4, comedy spot, 0.422949, 3
+4, Scottsdale, 0.540274, 4
+4, food, 0.530144, 4
+4, comedy club, 0.965403, 5
+4, night, 0.712064, 5
+4, fun, 0.474616, 6
+4, good place, 0.44891, 6
+4, Tempe Improv, 0.45363, 7
+4, good aspiring comedians, 0.449021, 7
+4, great time, 0.916871, 8
+4, comedians, 0.667522, 8
+4, great place, 0.45476, 9
+4, great atmosphere, 0.407533, 9
+5, Stand-up Scottsdale Comedy, 0.270938, 0
+5, Howard Hughes headline, 0.241599, 0
+5, comedy clubs, 0.299067, 2
+5, Scottsdale venues time, 0.245557, 3
+5, time, 0.735451, 5
+5, Scottsdale, 0.519107, 5
+5, comedy club, 0.924793, 6
+5, place, 0.656207, 6
+5, Howard Hughes, 0.685789, 7
+5, stand-up scottsdale, 0.438987, 7
+5, great time, 0.678324, 8
+5, great comedians, 0.395843, 8
+5, Scottsdale Comedy Club, 0.380418, 9
+5, great Saturday night, 0.270211, 9

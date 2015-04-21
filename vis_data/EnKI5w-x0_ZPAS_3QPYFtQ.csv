@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, fine dining restaurant, 0.919342, 0
+1, Worst customer service, 0.908104, 0
+1, plain red sauce, 0.950577, 1
+1, expensive dishes, 0.792832, 1
+1, worst experience, 0.757444, 2
+1, Restrant lots states, 0.744913, 2
+1, Christmas Eve Dinner, 0.937651, 3
+1, family, 0.589654, 3
+1, food, 0.928136, 4
+1, waitstaff, 0.650393, 5
+1, eve dinner, 0.964911, 6
+1, vacation town, 0.73748, 6
+1, Xmas eve dinner, 0.959607, 7
+1, entire dinner, 0.7557, 7
+1, vegetarian menu, 0.746031, 8
+2, tasteless Italian food, 0.718032, 0
+2, Severely BLAND food, 0.705283, 0
+2, water refills, 0.641562, 1
+2, iced tea, 0.63843, 1
+2, wine list, 0.638376, 2
+2, fresh ground pepper, 0.633467, 2
+2, service, 0.794044, 3
+2, Las Vegas, 0.646147, 3
+2, food, 0.929712, 4
+2, place, 0.754671, 5
+2, waiter, 0.644596, 5
+2, scallop ravioli, 0.697017, 6
+2, dinner, 0.674802, 6
+2, better service, 0.653555, 7
+2, spontaneous dinner plan, 0.649045, 7
+2, olive garden, 0.740176, 8
+2, food costs tastes, 0.675539, 8
+2, views great ambiance, 0.682556, 9
+2, Absolutely gorgeous ambiance, 0.667624, 9
+3, regular Italian food, 0.684107, 0
+3, better tasting food, 0.683982, 0
+3, butter knife, 0.692502, 1
+3, sea bass, 0.642918, 1
+3, Italian food, 0.689348, 2
+3, huge fan, 0.64766, 2
+3, Good food, 0.640687, 3
+3, memorable restaurant experience, 0.638094, 3
+3, view, 0.670194, 4
+3, food, 0.922919, 5
+3, service, 0.733547, 5
+3, place, 0.709406, 6
+3, restaurant, 0.660066, 6
+3, crab cakes, 0.714706, 7
+3, Nice jazz musician, 0.666563, 7
+3, 30th wedding anniversary, 0.643461, 8
+3, great dining experience, 0.63845, 8
+3, trusty yelp friends, 0.649694, 9
+3, baked artisan bread, 0.646337, 9
+4, NY strip steak, 0.713298, 0
+4, wine reduction sauce, 0.689133, 0
+4, short rib risotto, 0.742001, 3
+4, food, 0.911654, 4
+4, short ribs, 0.748428, 4
+4, service, 0.896532, 5
+4, strip, 0.893436, 5
+4, place, 0.873526, 6
+4, view, 0.860401, 6
+4, pretty good food, 0.756668, 7
+4, great food, 0.751467, 7
+4, great view, 0.798317, 8
+4, good place, 0.796793, 8
+4, great place, 0.757152, 9
+4, delicious Italian food, 0.725184, 9
+5, McCarran International Airport, 0.682492, 2
+5, Italian food snob, 0.686599, 3
+5, Italian food fan, 0.68398, 3
+5, dinner, 0.713879, 4
+5, las vegas, 0.919533, 5
+5, panevino, 0.802076, 5
+5, food, 0.785696, 6
+5, place, 0.779671, 6
+5, creme brulee, 0.821721, 7
+5, best italian restaurant, 0.740133, 7
+5, chocolate mousse, 0.751755, 8
+5, great place, 0.735406, 8
+5, fancy Italian restaurant, 0.684497, 9
+5, tasty lunch time, 0.680087, 9

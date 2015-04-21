@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+3, George Street prices, 0.607735, 0
+3, town tenement house, 0.595132, 0
+3, decent time, 0.501833, 1
+3, little atmosphere, 0.498761, 1
+3, old town, 0.614927, 2
+3, rabbit-warren style layout, 0.61028, 2
+3, hard rock, 0.464849, 3
+3, student card, 0.460435, 3
+3, teenage boys bedroom, 0.650588, 6
+3, Bannerman, 0.534971, 6
+3, live music, 0.933777, 7
+3, pretty dingy, 0.50908, 7
+3, popular rock bands, 0.633852, 8
+3, underground stone room, 0.624016, 8
+3, decent live music, 0.703139, 9
+3, great atmosphere, 0.616257, 9
+4, american biker bar, 0.79719, 0
+4, random american dudes, 0.769145, 0
+4, ......., 0.777158, 1
+4, dark pubs, 0.714312, 1
+4, random toilet conversations, 0.764129, 2
+4, double Aftershock, 0.715692, 2
+4, bar area, 0.725939, 3
+4, Bannerman, 0.989428, 5
+4, live music, 0.850962, 5
+4, undergound music scene, 0.810646, 6
+4, people, 0.795364, 6
+4, decent Edinburgh bands, 0.831341, 7
+4, rock pub, 0.831149, 7
+4, underground music scene, 0.807697, 8
+4, live music venues, 0.795828, 8
+4, good range, 0.713642, 9
+4, great acoustics, 0.707124, 9
+5, South American Bar, 0.683045, 0
+5, Scottish pub, 0.485825, 0
+5, cheap dive bar, 0.678002, 1
+5, increasingly obscure places, 0.613031, 2
+5, pretty skinny girl, 0.600527, 2
+5, Bannerman, 0.721068, 3
+5, live music bar, 0.659202, 3
+5, live music, 0.912483, 5
+5, people, 0.498486, 5
+5, brickwork interior thing, 0.649427, 6
+5, Old Town buildings, 0.639014, 6
+5, helluva load cooler, 0.628454, 7
+5, cheeky Tactical Nuclear, 0.618319, 7
+5, badass looking dudes, 0.601422, 8
+5, great range, 0.47059, 8

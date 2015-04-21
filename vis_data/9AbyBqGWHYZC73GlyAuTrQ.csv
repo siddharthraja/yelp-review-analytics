@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, sour taste, 0.587955, 0
+1, scalloped potatoes, 0.587872, 0
+1, special anniversary dinner, 0.694145, 1
+1, wine list, 0.576141, 1
+1, time, 0.633825, 2
+1, service, 0.539309, 2
+1, steak dinners, 0.605025, 3
+1, BLT Steak, 0.596652, 3
+1, table, 0.647929, 4
+1, food, 0.590526, 4
+1, fancy suited men, 0.68887, 6
+1, petite filet, 0.604643, 6
+1, gift card, 0.936785, 7
+1, pre-paid gift card, 0.746498, 7
+1, west valley location, 0.728141, 8
+1, experience, 0.51636, 8
+1,  Ugh.  Went, 0.613363, 9
+1, celebration dinner, 0.581533, 9
+2, exciting dining selection, 0.717221, 0
+2, molten lava cake, 0.709312, 0
+2, accompanying jicama salad, 0.716858, 1
+2, good time, 0.701401, 1
+2, South Scottsdale location, 0.703255, 2
+2, Creme brulee dessert, 0.702793, 2
+2, food, 0.760008, 3
+2, time, 0.74734, 3
+2, dining room, 0.811264, 4
+2, steak, 0.795109, 4
+2, lava cake, 0.90662, 5
+2, meal, 0.738119, 5
+2, wine list, 0.757946, 6
+2, rib eye steak, 0.737626, 6
+2, DC ranch Flemings, 0.792829, 7
+2, chocolate lava cake, 0.791719, 7
+2, dining room service, 0.727841, 8
+2, DC Ranch location, 0.710998, 8
+2, great experience, 0.707124, 9
+2, girlfriends wine glass, 0.702306, 9
+3, good-tasting steak, 0.670325, 0
+3, well-done steak, 0.666654, 0
+3, small filet, 0.641507, 2
+3, lowest common denominator, 0.610339, 2
+3, steak medium, 0.643777, 3
+3, food orders, 0.610953, 3
+3, service, 0.762455, 4
+3, food, 0.757051, 4
+3, steak, 0.943716, 5
+3, server, 0.676452, 5
+3, caesar salad, 0.726635, 6
+3, cowboy steak places, 0.691136, 6
+3, steak place, 0.744085, 7
+3, prime steak dancing, 0.714484, 7
+3, Good steak, 0.662125, 8
+3, best steak, 0.636802, 8
+3, user-friendly wine experience, 0.622893, 9
+4, good family friend, 0.702524, 0
+4, prepared Filet Mignon, 0.702107, 0
+4, chocolate lava cake, 0.975254, 5
+4, steak, 0.80315, 5
+4, prime rib, 0.831153, 6
+4, wine list, 0.80095, 6
+4, filet mignon, 0.811426, 7
+4, fillet mignon, 0.738765, 7
+4, great service, 0.798576, 8
+4, great food, 0.768808, 8
+4, food great service, 0.763506, 9
+4, pretty good deal, 0.730952, 9
+5, Mike Head, 0.705455, 0
+5, certain steak, 0.691848, 0
+5, steak taste, 0.703712, 2
+5, potatoes, 0.739578, 3
+5, steak houses, 0.706298, 3
+5, chocolate lava cake, 0.932922, 4
+5, Flemings, 0.892206, 5
+5, service, 0.869424, 5
+5, steak, 0.977308, 6
+5, place, 0.781753, 6
+5, damn good steak, 0.759347, 7
+5, end steak house, 0.757187, 7
+5, steak house, 0.89587, 8
+5, best steak, 0.779035, 8
+5, great steak house, 0.779604, 9
+5, high quality steak, 0.722047, 9

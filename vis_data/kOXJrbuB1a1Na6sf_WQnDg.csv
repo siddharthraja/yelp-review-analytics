@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, disappearing waitress, 0.595308, 0
+1, Perch Fish Fry, 0.584029, 0
+1, girls birthday party, 0.585606, 1
+1, neighborhood grocery store, 0.572178, 1
+1, waitress, 0.808905, 2
+1, better word, 0.500988, 2
+1, baked cod, 0.566383, 3
+1, large spread, 0.488483, 3
+1, kitchen, 0.447406, 4
+1, salad bar, 0.937926, 5
+1, Monona, 0.438543, 5
+1, tiny french fries, 0.570989, 6
+1, greasy fish, 0.494271, 6
+1, fish fry, 0.770109, 7
+1, Pool Table area, 0.569493, 7
+2, watery rice pilaf, 0.927354, 0
+2, low-end liquors, 0.761403, 0
+2, Horrible service, 0.76223, 1
+2, grampa, 0.554318, 1
+2, inedible food, 0.750301, 2
+2, tad bit, 0.735692, 2
+2, shrimp special, 0.73684, 3
+2, good value, 0.725335, 3
+2, dinner, 0.57057, 4
+2, place, 0.604678, 5
+2, tremendous swivel factor, 0.982923, 6
+2, decent swivel factor, 0.9204, 6
+2, cordon bleu sandwich, 0.912766, 7
+2, Monona Dr/Attwood/Willy Str, 0.907939, 7
+2, mass market beers, 0.856216, 8
+2, rail drinks, 0.697617, 8
+4, Great place, 0.382908, 0
+4, slightly sub-par bar, 0.702842, 1
+4, neighborhood bar, 0.402214, 2
+4, Fast service, 0.386282, 6
+4, burgers, 0.225764, 7
+4, sandwiches, 0.21508, 7
+4, good specials, 0.431818, 8
+4, Pretty awesome Friday, 0.979698, 9
+4, fish fry, 0.503588, 9

@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+4, average pub fair, 0.823857, 0
+4, Firkin pub, 0.714064, 0
+4, seedy characters, 0.282883, 2
+4, sketchy area, 0.27332, 2
+4, pub type fare, 0.954991, 6
+4, small town pub, 0.838376, 6
+4, pub, 0.988279, 7
+4, typical pub food, 0.97893, 7
+4, additional special items, 0.43758, 8
+4, enjoyable couple, 0.254403, 8
+4, quaint pub, 0.658247, 9
+4, great little place, 0.463494, 9
+5, Wednesday, 0.229381, 0
+5, small pubs, 0.724542, 1
+5, spot, 0.23825, 1
+5, Nachos, 0.315917, 7
+5, Nacho, 0.299977, 7
+5, downtown Cambridge, 0.783567, 8
+5, scotch eggs, 0.752692, 8
+5, small casual restaurant, 0.952375, 9
+5, Steam Whistle, 0.699845, 9

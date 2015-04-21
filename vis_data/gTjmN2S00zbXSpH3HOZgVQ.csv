@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, Horrible customer service, 0.92928, 0
+1, crowd, 0.242984, 0
+1, COMPLETE bias, 0.577346, 1
+1, locals, 0.273611, 2
+1, respect, 0.239768, 2
+1, Possibly homeless non, 0.843439, 3
+1, willy street, 0.564925, 3
+2, main thing, 0.733485, 0
+2, inertia, 0.374599, 0
+2, real local band, 0.996044, 1
+2, bar band, 0.582569, 2
+2, idea, 0.337949, 2
+2, bands, 0.297762, 6
+2, steady clientele, 0.929004, 7
+2, Neighborhood bar, 0.766676, 7
+2, Drinks, 0.369769, 9
+2, point, 0.309687, 9
+3, Friendly bar tenders, 0.86782, 0
+3, sway crystal corner, 0.855422, 0
+3, Willy St. hood, 0.890939, 1
+3, beer glasses, 0.835248, 1
+3, large oval bar, 0.849787, 2
+3, dive bar, 0.764633, 2
+3, slightly older crowd, 0.873448, 3
+3, neighborhood hangout bar, 0.854794, 3
+3, block windows, 0.724329, 4
+3, Nightly drink specials, 0.837477, 6
+3, outdoor seating, 0.833935, 6
+3, crystal corner, 0.970399, 7
+3, pretty good acts, 0.868645, 7
+3, pretty solid place, 0.869916, 8
+3, multiple shots, 0.731791, 9
+4, zillion times, 0.639015, 0
+4, large bar, 0.58138, 0
+4, cheap drinks, 0.942911, 1
+4, townies, 0.390742, 1
+4, typical neighborhood bar, 0.865685, 2
+4, classic neighborhood bar, 0.825247, 3
+4, casual bars, 0.64955, 3
+4, crystal corner, 0.848426, 6
+4, live band, 0.605045, 6
+4, Kitschy holiday decor, 0.841671, 7
+4, place, 0.679002, 7
+4, cold Wisconsin night, 0.856524, 8
+4, good place, 0.630379, 8
+4, dart boards, 0.591608, 9
+4, fun place, 0.584457, 9
+5, Hometown Sweethearts play, 0.552335, 0
+5, new loungy area, 0.53247, 0
+5, typical neighborhood bar, 0.516095, 1
+5, imminent demise, 0.411846, 1
+5, bar, 0.64553, 2
+5, neighborhood bar, 0.621609, 2
+5, dive bar, 0.59698, 3
+5, pool tables, 0.509299, 3
+5, Crystal Corner, 0.915736, 5
+5, place, 0.477387, 5
+5, hometown sweethearts, 0.641457, 6
+5, typical weekend night, 0.483324, 6
+5, live music, 0.802017, 7
+5, great live music, 0.784139, 7
+5, good company, 0.429932, 8
+5, good tunes, 0.424894, 8
+5, best friend Tad, 0.526381, 9
+5, old bartenders, 0.44535, 9

@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, Different door guy, 0.553236, 0
+1, certain bartender, 0.446816, 0
+1, CREDIT/DEBIT CARD, 0.377734, 1
+1, long story, 0.374871, 1
+1, ride home, 0.37062, 2
+1, Bar Smith, 0.344949, 2
+1, basketball game, 0.394038, 3
+1, Chinese/Colombian guy, 0.385625, 3
+1, place, 0.649138, 4
+1, friend, 0.904894, 5
+1, sleazeball bartender, 0.39974, 6
+1, night, 0.368978, 6
+1, female best friend, 0.767931, 7
+1, nice place, 0.407102, 7
+1, awesome music, 0.359726, 8
+2, Latin pop/dance stuff, 0.928659, 0
+2, smoking hot cougar, 0.855443, 0
+2, girlfriends, 0.454197, 1
+2, section, 0.446645, 1
+2, bad Latin music, 0.818556, 2
+2, place w/c, 0.652871, 2
+2, super hard rap, 0.810824, 3
+2, ........., 0.749566, 3
+2, tight clothes, 0.677833, 6
+2, haaahaaa wow, 0.663956, 8
+3, airlines flight attendants, 0.990331, 0
+3, Latin dance floor, 0.968093, 0
+3, cover charge, 0.758189, 1
+3, Thats, 0.680971, 1
+3, homeless guy, 0.789354, 2
+3, hotter chicks, 0.78126, 2
+3, open dance floor, 0.933936, 3
+3, good music, 0.728979, 3
+3, typical VIP service, 0.944078, 6
+3, Hip Hop station, 0.913623, 6
+3, vip service, 0.983809, 7
+3, decent place, 0.779227, 7
+3, best friends, 0.735066, 9
+3, great time, 0.721532, 9
+4, Wednesday night, 0.574753, 0
+4, foam party, 0.561898, 0
+4, basement, 0.372923, 1
+4, floor, 0.585291, 2
+4, rude dude, 0.576768, 2
+4, majority, 0.360927, 3
+4, guys, 0.355583, 3
+4, suns game, 0.62255, 6
+4, fun anyways, 0.535213, 6
+4, great time, 0.739663, 7
+4, reggaton kind, 0.582495, 7
+4, good time, 0.926479, 8
+4, music, 0.677304, 8
+4, fun atmosphere, 0.534305, 9
+5, foam parties, 0.805239, 0
+5, white events, 0.769398, 0
+5, floor, 0.555448, 3
+5, alcohol, 0.510592, 3
+5, drunk females, 0.949006, 6
+5, stars, 0.484525, 6
+5, place, 0.560719, 7
+5, town PHX, 0.873545, 9
+5, amazing time, 0.811509, 9

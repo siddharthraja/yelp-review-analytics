@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, HUGE Mina fan, 0.635598, 0
+1, seasonal tasting menu, 0.582935, 0
+1, Michael Mina property, 0.626875, 1
+1, inept waiter, 0.553723, 1
+1, pathetic forgetful service, 0.5766, 2
+1, dirty plate, 0.564963, 2
+1, tasting menu, 0.64732, 3
+1, San Francisco, 0.581991, 3
+1, michael mina, 0.904736, 4
+1, fine dining restaurant, 0.628965, 4
+1, manager, 0.566243, 5
+1, pot pie split, 0.625844, 6
+1, michael mina fan, 0.620813, 6
+1, lobster pot pie, 0.70479, 7
+1, la carte, 0.580287, 7
+1, dietary restrictions, 0.568952, 8
+1, AMAZING meal, 0.551761, 8
+1, Great food lobster, 0.579813, 9
+1, multiple michelin star, 0.566226, 9
+2, Mina signature Lobster, 0.583562, 0
+2, foi gras rice, 0.569097, 0
+2, mediocre food quality, 0.556137, 1
+2, lobster tail, 0.565499, 2
+2, ......hmmmn., 0.555715, 2
+2, small lobster pot, 0.570367, 3
+2, Michael Mina location, 0.56395, 3
+2, lobster pot pie, 0.973789, 4
+2, tasting menu, 0.712325, 4
+2, Michael Mina, 0.873178, 5
+2, meal, 0.618683, 5
+2, root beer float, 0.605171, 6
+2, amuse bouche, 0.582867, 7
+2, michelin star restaurant, 0.578392, 7
+2, fine dining, 0.639393, 8
+2, sea bass, 0.608079, 8
+3, Micheal Mina restaurant, 0.375716, 0
+3, Maine lobster pot, 0.359684, 0
+3, pricey Michael Mina, 0.379692, 1
+3, Michael Mina restaurant, 0.383079, 2
+3, service, 0.392198, 3
+3, foie gras trio, 0.371702, 3
+3, lobster pot pie, 0.928555, 4
+3, michael mina, 0.871931, 4
+3, root beer float, 0.600832, 5
+3, tasting menu, 0.576294, 5
+3, micheal mina, 0.40515, 6
+3, Michael Mina bickering, 0.376436, 6
+3, wine list, 0.357423, 7
+3, new Mina concept, 0.366043, 8
+3, dining experience, 0.351133, 8
+4, Michael Mina San, 0.370994, 0
+4, Michael Mina Las, 0.36985, 0
+4, amazing lobster pot, 0.359499, 1
+4, pine nuts, 0.363215, 3
+4, sesame oil, 0.357419, 3
+4, lobster pot pie, 0.931782, 4
+4, service, 0.402298, 4
+4, michael mina, 0.76292, 5
+4, foie gras, 0.549874, 5
+4, cookbook tasting menu, 0.412219, 6
+4, San Francisco, 0.391291, 6
+4, tuna tartare, 0.458915, 7
+4, maine lobster pot, 0.438047, 7
+4, ahi tuna tartare, 0.369783, 8
+4, matter Michael Mina, 0.367664, 8
+4, signature Maine lobster, 0.347197, 9
+5, Michael Mina way, 0.287025, 0
+5, lobster pot pie..OMG, 0.28261, 0
+5, lobster pot pie., 0.278738, 1
+5, Vegas Michael Mina, 0.276574, 1
+5, Las Vegas, 0.292709, 3
+5, tuna tartare, 0.295403, 4
+5, lobster pot pie, 0.903953, 5
+5, tasting menu, 0.499311, 5
+5, michael mina, 0.767533, 6
+5, service, 0.311802, 6
+5, root beer float, 0.447688, 7
+5, SF lobster pot, 0.276854, 7
+5, la carte menu, 0.280188, 8
+5, favorite dish, 0.278648, 8
+5, dining experience, 0.295139, 9
+5, fine dining, 0.273289, 9

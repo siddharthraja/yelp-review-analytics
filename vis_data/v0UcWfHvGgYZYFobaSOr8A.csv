@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, Susan Bulos, 0.753859, 0
+1, bone shards, 0.568624, 0
+1, horrible experience, 0.737093, 1
+1, ube ice cream, 0.707265, 1
+1, expiration date, 0.928473, 2
+1, original expiration date, 0.731633, 2
+1, owner, 0.605632, 3
+1, hamburger, 0.568621, 3
+1, restaurant, 0.96786, 4
+1, things, 0.396229, 4
+1, customer, 0.655523, 5
+1, Halo Halo, 0.711713, 6
+1, Filipino friends, 0.546898, 6
+1, friendly gesture, 0.532904, 7
+1, underlying issues, 0.52268, 8
+2, skewered meat, 0.771151, 0
+2, chicken adobo, 0.764188, 0
+2, repeat customers, 0.697879, 1
+2, cash register, 0.685489, 1
+2, warmth, 0.485439, 2
+2, charisma, 0.476344, 2
+2, place, 0.512392, 3
+2, cuisine, 0.478325, 3
+2, fare, 0.475494, 6
+2, Good food, 0.637797, 7
+2, real Filipino cooking, 0.956317, 8
+2, home, 0.450719, 8
+3, Sizzling Bangus Fish, 0.871038, 0
+3, sizzling  beef bulalo, 0.847661, 0
+3, sizzle, 0.743181, 1
+3, rice eater, 0.638732, 1
+3, so-declared SIZZLING bulalo, 0.847578, 2
+3, actual sizzle, 0.711136, 2
+3, Good place, 0.654724, 3
+3, steak plate, 0.648309, 3
+3, food, 0.948313, 4
+3, halo halo, 0.768555, 4
+3, san miguel, 0.732202, 5
+3, red horse, 0.730969, 5
+3, sizzling fish belly, 0.846245, 6
+3, fast food place, 0.765559, 6
+3, song selection, 0.979525, 7
+3, best karaoke renditions, 0.788114, 7
+3, tasting Philippine food, 0.775265, 8
+3, unclogged healthy ears, 0.754853, 8
+4, Filipino American Food, 0.361905, 0
+4, typical Filipino restaurant, 0.296048, 0
+4, Filipino restaurants, 0.412686, 2
+4, homemade Filipino food, 0.351415, 2
+4, Filipino coworkers, 0.273017, 3
+4, ice cream, 0.271081, 3
+4, filipino food, 0.955211, 5
+4, halo halo, 0.854409, 5
+4, place, 0.345931, 6
+4, filipino joints, 0.248418, 6
+4, Filipino cuisine restaurant, 0.323184, 7
+4, good homecooked Filipino, 0.300413, 7
+4, filipino restaurant, 0.406243, 8
+4, halo halo special, 0.388194, 8
+4, various Filipino food., 0.271913, 9
+4, Great tasting food, 0.243777, 9
+5, halo halo fan, 0.515599, 0
+5, normal Filipino, 0.496468, 0
+5, filipino kiosk selling, 0.540317, 2
+5, good Filipino food, 0.586414, 3
+5, Filipino savory, 0.49022, 3
+5, filipino restaurant, 0.621031, 4
+5, friday nights, 0.43793, 4
+5, ice cream, 0.540687, 5
+5, boba, 0.504429, 5
+5, filipino food, 0.953315, 6
+5, chicken adobo, 0.645234, 6
+5, halo halo, 0.851359, 7
+5, style Filipino food, 0.582438, 7
+5, best Filipino food, 0.632033, 8
+5, favorite Filipino restaurant, 0.591115, 8
+5, authentic filipino option, 0.484885, 9

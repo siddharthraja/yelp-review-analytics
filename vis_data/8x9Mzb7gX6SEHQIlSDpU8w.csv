@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, room service card, 0.601891, 0
+1, MIRROR image room, 0.593075, 0
+1, terrible customer service, 0.592093, 1
+1, Wild Horse Pass, 0.561773, 1
+1, little aggravating Wow, 0.54809, 2
+1, braxton hicks contractions, 0.547025, 2
+1, customer service, 0.819486, 3
+1, customer service skills, 0.729144, 3
+1, room, 0.918842, 4
+1, money, 0.618479, 4
+1, room service, 0.763966, 5
+1, casino, 0.676069, 5
+1, beautiful KING room, 0.589561, 6
+1, hotel guest services, 0.575219, 6
+1, Room service staff, 0.603864, 7
+1, King non-smoking room, 0.595876, 7
+1, no-luggage policy, 0.489701, 8
+2, old casino, 0.654488, 0
+2, electronic roulette table, 0.632766, 0
+2, plastic mattress pads, 0.70053, 1
+2, minimum blackjack tables, 0.629943, 1
+2, minimum tables, 0.691793, 2
+2, room service, 0.632836, 2
+2, small stinky casino, 0.687883, 3
+2, Casino Arizona, 0.647033, 3
+2, security guard, 0.850529, 4
+2, Big black cowboy, 0.609775, 4
+2, room, 0.725413, 5
+2, video poker, 0.630871, 5
+2, casino, 0.959505, 6
+2, Wild Horse Pass, 0.872356, 6
+2, casino resort, 0.666619, 7
+2, Boar Head Deli, 0.624511, 7
+2, casino hotel, 0.64992, 8
+2, impromptu stay vacation, 0.620911, 8
+2, good looking place, 0.626581, 9
+3, Horse Pass Casino, 0.68891, 0
+3, Limited Casino Games, 0.685118, 0
+3, Vegas -style casino, 0.707348, 1
+3, southern Casino Arizona, 0.698259, 1
+3, actual casino, 0.638498, 2
+3, machines, 0.647033, 3
+3, black jack, 0.632439, 3
+3, Casino Arizona, 0.709599, 4
+3, night, 0.669546, 4
+3, casino, 0.929121, 5
+3, place, 0.729278, 5
+3, Typical Arizona casino, 0.672914, 6
+3, new casino, 0.670956, 6
+3, casino floor, 0.680475, 7
+3, old casino, 0.661799, 7
+3, wild horse casino, 0.744652, 8
+3, pretty casino, 0.670344, 8
+3, Nice Casino, 0.698238, 9
+3, nice cigar, 0.600175, 9
+4, room service, 0.548315, 0
+4, Lone Butte Casino, 0.538207, 0
+4, casino staff, 0.512826, 1
+4, pretty nice restaurants, 0.5275, 2
+4, reduced room rate, 0.505894, 2
+4, room, 0.85512, 4
+4, casino, 0.951684, 5
+4, hotel, 0.744793, 5
+4, night, 0.592154, 6
+4, rooms, 0.541169, 6
+4, slot machines, 0.585034, 7
+4, free slot play, 0.54809, 7
+4, poker room, 0.686335, 8
+4, Wild Horse Pass, 0.645886, 8
+4, new looking casino, 0.55871, 9
+4, nice time, 0.496456, 9
+5, Blackjack players rejoice, 0.356668, 0
+5, minimum tables, 0.346683, 0
+5, seemingly cursed cards, 0.331702, 1
+5, alarm clock radio, 0.321567, 2
+5, standard unsecured wifi, 0.326895, 3
+5, hotel, 0.390191, 5
+5, Vegas Strip-style hotel, 0.356305, 6
+5, Vegas style, 0.332405, 6
+5, video poker/slots room, 0.347881, 7
+5, good time saver, 0.345037, 7
+5, wild horse pass, 0.976012, 8
+5, casino, 0.465349, 8
+5, Great casion nice, 0.368895, 9
+5, nice lounge, 0.341749, 9

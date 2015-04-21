@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, Arrowhead Country Club, 0.599037, 0
+1, bowling leagues, 0.558111, 0
+1, activity wait times, 0.621903, 1
+1, laser tag, 0.591545, 1
+1, lazer tag room, 0.579978, 2
+1, County regulations, 0.509337, 2
+1, uptown alley, 0.982781, 3
+1, bowling alley, 0.853571, 3
+1, kids, 0.522316, 4
+1, place, 0.672036, 5
+1, food, 0.627732, 6
+1, custom birthday cake, 0.621059, 6
+1, nice alley, 0.530124, 7
+1, HAPPY BIRTHDAY, 0.516063, 7
+1, friends special event, 0.579883, 8
+1, Uptown Bowling, 0.561457, 8
+1, new place, 0.530749, 9
+1, good time, 0.514656, 9
+2, actual grand opening, 0.696076, 0
+2, breakfasty type items, 0.676306, 0
+2, pretty big place, 0.678618, 1
+2, Big mistake, 0.605386, 1
+2, good way, 0.701278, 2
+2, bar area, 0.673163, 3
+2, customer service, 0.61299, 3
+2, bowling, 0.758797, 4
+2, lanes, 0.698761, 4
+2, uptown alley, 0.957382, 5
+2, place, 0.726132, 5
+2, Sun City West, 0.686566, 6
+2, food related items, 0.685731, 6
+2, local business, 0.849666, 7
+2, traditional bowling center, 0.702327, 7
+2, Uptown alley website, 0.700772, 8
+2, great place, 0.676167, 8
+3, early Saturday afternoon, 0.710563, 0
+3, poor service, 0.461279, 0
+3, future business, 0.430932, 1
+3, little pricey, 0.480929, 2
+3, immature teenagers, 0.43303, 2
+3, open seating area, 0.626525, 3
+3, neighborhood bar, 0.435815, 3
+3, custom burger, 0.614636, 4
+3, order, 0.354389, 4
+3, food, 0.410692, 5
+3, people, 0.291358, 5
+3, different customer service, 0.646363, 6
+3, drinks, 0.462142, 6
+3, uptown alley, 0.922493, 7
+3, entertainment location, 0.438466, 7
+3, customer service, 0.818139, 8
+3, fun place, 0.657719, 8
+4, bowling alley food, 0.292075, 0
+4, place, 0.601809, 5
+4, kids, 0.390273, 5
+4, uptown alley, 0.96226, 6
+4, lazer tag, 0.333332, 6
+4, bowling alley, 0.780822, 7
+4, laser tag, 0.508874, 7
+4, fun, 0.223042, 8
+5, best bowling alley, 0.601578, 0
+5, video game area, 0.464332, 0
+5, huge TV screens, 0.429702, 2
+5, bowling alley, 0.908403, 3
+5, regular bowling area, 0.534623, 3
+5, food, 0.46344, 4
+5, place, 0.745682, 6
+5, laser tag, 0.710839, 6
+5, adult bowling lanes, 0.506771, 7
+5, video games, 0.493332, 7
+5, great place, 0.5235, 8
+5, pretty good restaurant, 0.462504, 8
+5, customer service, 0.51941, 9
+5, bacon cheese fries, 0.507439, 9

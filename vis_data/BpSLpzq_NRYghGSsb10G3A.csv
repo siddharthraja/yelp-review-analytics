@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, super small portions, 0.786967, 0
+1, regular serving sizes, 0.768575, 0
+1, greasy french fries, 0.818449, 1
+1, salty bit, 0.639298, 1
+1, slightly corned beef, 0.850352, 2
+1, beer drinking place, 0.759538, 2
+1, corned beef, 0.916014, 3
+1, good lunch specials, 0.868569, 3
+1, cole slaw, 0.866936, 5
+1, Rachel Reuben, 0.670082, 6
+1, mashed potatoes, 0.62779, 6
+1, good cole slaw, 0.83598, 7
+1, drinks, 0.502001, 7
+2, modern rock station, 0.848001, 0
+2, curry sauce, 0.731296, 0
+2, signature Lamb Shepherd, 0.851727, 1
+2, Tim Finnegans, 0.721181, 1
+2, corned beef, 0.956201, 2
+2, server, 0.658617, 2
+2, live music, 0.676315, 3
+2, ear drums, 0.673164, 3
+2, food, 0.794838, 4
+2, place, 0.709917, 5
+2, appetizer, 0.673037, 5
+2, better description, 0.701847, 6
+2, better experience., 0.684685, 6
+2, novel item, 0.698274, 7
+2, good ambiance, 0.690536, 7
+2, epic proportions, 0.722983, 9
+2, pure love, 0.715818, 9
+3, good size slab, 0.750661, 0
+3, Tim Finnegans, 0.726558, 0
+3, Irish Anthem Played, 0.718425, 1
+3, potato skins, 0.712494, 1
+3, typical pub-like atmosphere, 0.70363, 2
+3, bar food, 0.701198, 2
+3, ass irish music, 0.733744, 3
+3, Chips lunch special, 0.725905, 3
+3, place, 0.914007, 5
+3, bar, 0.786406, 5
+3, live music, 0.828045, 6
+3, sized curry fries, 0.706802, 6
+3, irish pub, 0.832166, 7
+3, Tim Finnegan, 0.777692, 7
+3, great place, 0.785129, 8
+3, Fairly good fish, 0.762312, 8
+3, Great Irish bar, 0.74727, 9
+3, fun place, 0.696302, 9
+4, Great Jets bar, 0.517306, 0
+4, pub quiz night, 0.503064, 0
+4, Irish place, 0.505962, 1
+4, great live music, 0.535454, 2
+4, bar food, 0.526077, 2
+4, irish bar, 0.534937, 3
+4, enjoy Irish food, 0.510648, 3
+4, drink, 0.497949, 4
+4, corned beef, 0.991955, 5
+4, place, 0.842921, 5
+4, live music, 0.913582, 6
+4, corned beef taquitos, 0.748694, 6
+4, irish pub, 0.72343, 7
+4, shepherds pie, 0.596217, 7
+4, Tim Finnegan, 0.610566, 8
+4, Irish Pub music, 0.530858, 8
+4, great place, 0.577386, 9
+4, good food, 0.544372, 9
+5, Irish antique shop, 0.63666, 0
+5, great little hole, 0.627204, 0
+5, good Irish Whiskey, 0.677809, 2
+5, authentic Irish smell, 0.634511, 2
+5, bar food, 0.628667, 3
+5, authentic Irish bars, 0.625734, 3
+5, bar, 0.736424, 4
+5, Tim Finnegan, 0.67014, 4
+5, corned beef, 0.816006, 5
+5, bread pudding, 0.687144, 5
+5, food, 0.850086, 6
+5, place, 0.796217, 6
+5, authentic irish pub, 0.730772, 7
+5, crab cakes, 0.710459, 7
+5, irish pub, 0.984158, 8
+5, live music, 0.879346, 8
+5, great irish pub, 0.772136, 9
+5, casual Irish pub, 0.649541, 9

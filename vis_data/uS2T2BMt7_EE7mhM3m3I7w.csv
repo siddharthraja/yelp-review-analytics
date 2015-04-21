@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, simple request, 0.747117, 0
+1, single drinker, 0.742198, 0
+1, Terrible time, 0.795788, 1
+1, Terrible food, 0.793328, 1
+1, food, 0.905604, 2
+1, Versus Sports Grill, 0.858707, 2
+1, wings, 0.895401, 3
+1, server, 0.846783, 3
+1, table, 0.842511, 4
+1, time, 0.915878, 5
+1, sand volleyball players, 0.869719, 6
+1, Scottsdale Ranch Park, 0.865027, 6
+1, basic communication skills, 0.858556, 7
+1, tap lines, 0.827613, 7
+1, best wings, 0.77021, 8
+2, cheap beer, 0.689886, 0
+2, sub par, 0.673912, 0
+2, better drinks, 0.661328, 1
+2, obvious reasons, 0.654394, 1
+2, bad mix drinks, 0.878077, 2
+2, menu, 0.863888, 2
+2, happy hour menu, 0.655005, 3
+2, HH food, 0.646902, 3
+2, wings, 0.934681, 5
+2, food, 0.661431, 5
+2, Zipps, 0.455711, 6
+2, arcade game room, 0.854866, 7
+2, Goldies, 0.483928, 7
+2, family friendly place, 0.849417, 8
+2, good spot, 0.639006, 8
+2, affordable focaccias, 0.666741, 9
+2, Goldie, 0.469698, 9
+3, local neighborhood bar, 0.797449, 0
+3, pool tables, 0.791774, 0
+3, different screens, 0.707446, 1
+3, watery booze, 0.706401, 1
+3, little high, 0.71363, 2
+3, dinner time, 0.710293, 2
+3, fellow Yelper Nydia, 0.777816, 3
+3, small bar, 0.721562, 3
+3, sports bar, 0.914096, 4
+3, place, 0.781982, 4
+3, neighborhood sports bar, 0.795946, 6
+3, Spicy Chicken Quesadilla, 0.781752, 6
+3, Loaded Nachos, 0.789405, 7
+3, sweet jalapeno dressing, 0.774865, 7
+3, Pepper Jack Focaccia, 0.771332, 8
+3, larger menu choices, 0.766405, 8
+3, Great great customer, 0.774285, 9
+3, cute waitress, 0.731055, 9
+4, Great bar food, 0.734677, 0
+4, bleu cheese chips, 0.689948, 0
+4, typical bar food, 0.672687, 1
+4, uppity Scottsdale bar, 0.625393, 1
+4, sports bars, 0.696316, 2
+4, unhealthy bar food, 0.673982, 2
+4, bar food, 0.781672, 3
+4, buffalo chicken foccacia, 0.707932, 3
+4, food, 0.84982, 4
+4, sports bar, 0.928056, 5
+4, Goldie, 0.821345, 5
+4, place, 0.741449, 6
+4, good food, 0.686687, 6
+4, great sports bar, 0.687954, 7
+4, Island Burger, 0.677962, 7
+4, sweet jalapeno sauce, 0.695851, 8
+4, great place, 0.663197, 8
+4, golden medium wings, 0.706283, 9
+4, fantastic sports bar, 0.643849, 9
+5, great weekday deals, 0.734174, 0
+5, Telluride Ranch salad, 0.713624, 0
+5, little league baseball, 0.681751, 1
+5, bar food, 0.789849, 2
+5, sports bar food, 0.77203, 2
+5, sports bar, 0.984685, 3
+5, neighborhood sports bar, 0.751318, 3
+5, homemade chips, 0.709557, 4
+5, cold draft beer, 0.684, 6
+5, buffalo chips, 0.625099, 6
+5, monaco focaccia, 0.822291, 7
+5, best wings, 0.75052, 7
+5, place, 0.825835, 8
+5, great food, 0.812304, 8
+5, Golden chicken wings, 0.742386, 9
+5, great game room, 0.736141, 9

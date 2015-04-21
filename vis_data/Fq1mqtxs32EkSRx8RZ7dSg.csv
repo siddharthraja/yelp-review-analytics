@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, track betting, 0.598319, 0
+1, Gross tap lines, 0.579107, 0
+1, okay bar food, 0.665599, 1
+1, rude bartender, 0.633272, 1
+1, bar food, 0.686082, 2
+1, worst bar food, 0.664974, 2
+1, bar, 0.973919, 3
+1, food, 0.805068, 3
+1, service, 0.542718, 4
+1, Nate, 0.529782, 4
+1, place, 0.663407, 5
+1, betting windows, 0.587765, 6
+1, happy hour menu, 0.511483, 6
+1, valle luna, 0.607458, 7
+1, beer, 0.552497, 7
+1, belmont stakes, 0.591552, 8
+1, best bartender, 0.531343, 8
+2, croissant, 0.488065, 0
+2, lettuce, 0.482002, 0
+2, tater tots, 0.743805, 1
+2, fries, 0.705649, 1
+2, husband, 0.690112, 2
+2, ketchup, 0.607112, 2
+2, peanut butter, 0.918671, 4
+2, burger, 0.724187, 4
+2, pretzel bun, 0.75903, 6
+2, Hmmm, 0.500058, 6
+2, Hopefully their food, 0.681237, 7
+2, avocado, 0.482898, 7
+2, hearty slather, 0.73928, 8
+3, Boston sports bar, 0.801231, 0
+3, casual sports bars, 0.793107, 0
+3, complaints, 0.208506, 2
+3, Typical bar food, 0.800589, 3
+3, huge Red Sox, 0.935354, 6
+3, World Series, 0.515176, 6
+3, pretzel buns, 0.613187, 7
+3, interesting twist, 0.520075, 7
+3, Bonus points, 0.520269, 8
+3, buffalo wings, 0.512695, 8
+4, chicken ranch dip, 0.909921, 0
+4, certain game, 0.78227, 0
+4, bad ass, 0.770719, 1
+4, time indoors, 0.761186, 1
+4, sorta makes, 0.771717, 2
+4, tough break, 0.768826, 2
+4, quaint little bar, 0.968468, 3
+4, Friday night, 0.907976, 3
+4, right Shiner Bock, 0.889298, 6
+4, Brutal yelpers, 0.776003, 6
+4, Great sports bar, 0.964155, 7
+4, vodka flavors, 0.784004, 7
+4, nice lakefront patio, 0.950509, 8
+4, great food, 0.78618, 8
+4, pretty good time, 0.889979, 9
+5, Boston Bruins game, 0.839495, 0
+5, owner Nate Myers, 0.834033, 0
+5, hunch half, 0.641112, 1
+5, bad service, 0.638509, 1
+5, New England, 0.839048, 2
+5, New England area, 0.800195, 2
+5, local sports bar, 0.81243, 3
+5, decent bar food, 0.797981, 3
+5, sports bar, 0.944316, 5
+5, real talk time, 0.788573, 6
+5, white-glove one-on-one service, 0.759231, 6
+5, Red Sox, 0.845707, 7
+5, Boston Red Sox, 0.814121, 7
+5, best burger, 0.684042, 8
+5, local businesses, 0.680573, 8

@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, main dining room, 0.969602, 0
+1, free dinner, 0.893797, 0
+1, Bloody Mary bar, 0.939887, 1
+1, customer service, 0.735475, 1
+1, bad mashed potatoes, 0.915075, 2
+1, ice cream scooper, 0.910763, 2
+1, wife, 0.754824, 3
+1, big night, 0.683528, 3
+1, owner, 0.657264, 4
+1, Eve dinner, 0.704705, 6
+1, heat lamp, 0.686069, 6
+1, future customers experience, 0.875216, 7
+1, owner stop, 0.656859, 7
+1, drinks, 0.461899, 8
+2, plain chicken wings, 0.753036, 0
+2, Avocado Scramble, 0.62131, 0
+2, slow service, 0.613367, 1
+2, inattentive service, 0.612746, 1
+2, McFarland Townie Bar, 0.784138, 2
+2, sports bar, 0.719305, 2
+2, marked decline, 0.605465, 3
+2, entire reason, 0.580617, 3
+2, food, 0.638055, 4
+2, friends, 0.473677, 4
+2, service, 0.907114, 5
+2, time, 0.732439, 5
+2, specific game, 0.58537, 6
+2, curds, 0.457095, 6
+2, previous reviewer, 0.603374, 7
+2, Madison area, 0.594633, 7
+2, clean casual dining, 0.773365, 8
+2, nice addition, 0.603246, 8
+2, efficient service, 0.620582, 9
+4, deep fried cod, 0.755207, 0
+4, Vande Kemps batter, 0.742499, 0
+4, weird curd taste, 0.679558, 1
+4, little chubby, 0.614641, 1
+4, worst curds, 0.705178, 2
+4, City Cocktail book..This, 0.716711, 3
+4, standard pub fare, 0.694575, 3
+4, cheese curds, 0.92149, 6
+4, bar area, 0.797825, 6
+4, fish fry, 0.996419, 7
+4, good food, 0.834005, 7
+4, favorite tavern grill, 0.702363, 8
+4, good game, 0.640576, 8
+4, nice spacious atmosphere, 0.716507, 9
+4, nicely sized portions, 0.710937, 9
+5, phone charging stations, 0.905537, 0
+5, McFarland area, 0.732333, 0
+5, vantage point, 0.668226, 6
+5, widescreen TV, 0.662369, 6
+5, bacon cheeseburger, 0.741654, 7
+5, lime vinaigrette, 0.714531, 7
+5, fun fellow customers, 0.881516, 8
+5, prizes.. fun workers, 0.867587, 8
+5, tvs, 0.385623, 9
+5, interior, 0.352911, 9

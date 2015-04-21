@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+2, poor college student, 0.833788, 0
+2, small bar/eating area, 0.805137, 0
+2, screeching halt, 0.672833, 1
+2, narrow aisles, 0.616709, 1
+2, convenience store, 0.856112, 2
+2, cooler places, 0.632212, 2
+2, little bell, 0.622806, 3
+2, music, 0.447236, 3
+2, people, 0.60687, 5
+2, deli, 0.560046, 5
+2, place, 0.97308, 6
+2, street parking, 0.61295, 6
+2, Common Market, 0.883232, 7
+2, great reviews, 0.640716, 7
+2, good beers, 0.830769, 8
+2, good bottled beer, 0.803492, 8
+3, South End, 0.759446, 0
+3, South End location, 0.723885, 0
+3, health food nuts, 0.59983, 1
+3, junk food nuts, 0.596169, 1
+3, Common Market, 0.944766, 2
+3, deli market, 0.585429, 2
+3, chicken salad sandwich, 0.567824, 3
+3, familiar old friend, 0.560384, 3
+3, place, 0.690138, 5
+3, deli meat, 0.628975, 5
+3, location. great selection, 0.592842, 6
+3, live music, 0.571721, 6
+3, awesome healthy-minded grocery, 0.584228, 7
+3, favorite markets, 0.573954, 7
+3, Beer. Deli sandwiches, 0.643112, 8
+3, Plaza Midwood area, 0.589561, 8
+3, fresh sandwiches, 0.534104, 9
+3, strong point, 0.503099, 9
+4, small farmers market, 0.660399, 0
+4, Plaza Midwood neighborhood, 0.64973, 0
+4, Common Market Plaza, 0.664483, 2
+4, food, 0.684832, 3
+4, Plaza Midwood, 0.730802, 4
+4, patio, 0.64933, 4
+4, common market, 0.920319, 5
+4, deli, 0.695468, 5
+4, cool little store, 0.651436, 6
+4, deli sandwich, 0.64957, 6
+4, craft beer selection, 0.678858, 7
+4, Awe-inspring beer selection, 0.677844, 7
+4, great place, 0.809796, 8
+4, beer selection, 0.774039, 8
+4, great beer selection, 0.712024, 9
+4, killer beer selection, 0.681643, 9
+5, common market orphans, 0.562783, 0
+5, original Common Market, 0.562145, 0
+5, plaza midwood, 0.565175, 3
+5, food, 0.563563, 4
+5, common market, 0.925827, 5
+5, deli, 0.628113, 5
+5, place, 0.733053, 6
+5, beer, 0.730418, 6
+5, favorite place, 0.586934, 7
+5, Great people Great, 0.582541, 7
+5, beer selection, 0.706243, 8
+5, great beer, 0.620088, 8
+5, great selection, 0.58121, 9
+5, good beer selection, 0.578872, 9

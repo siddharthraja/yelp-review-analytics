@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, nice young lady, 0.824308, 0
+1, bartender b/t, 0.678082, 0
+1, Horrible service, 0.781799, 1
+1, server checking table, 0.767926, 1
+1, shockingly bad gallery, 0.816227, 2
+1, money, 0.40275, 2
+1, art world, 0.60778, 3
+1, generation, 0.354937, 3
+1, ugliest mermaid paintings, 0.945696, 6
+1, E. Trop, 0.812094, 6
+1, good honest service, 0.789774, 7
+1, LV Blvd, 0.614281, 7
+1, god awful displays, 0.889758, 9
+1, casino bars/lounges, 0.837633, 9
+2, shoestring french fries, 0.860555, 0
+2, mermaid outfits, 0.795984, 0
+2, little vacation, 0.675602, 1
+2, off-strip bar, 0.639736, 1
+2, massive drink, 0.663482, 2
+2, blank screens, 0.633501, 2
+2, waitress, 0.465837, 3
+2, bartender, 0.459067, 3
+2, fish tank, 0.861516, 5
+2, different size crowds, 0.868675, 6
+2, bar area, 0.845115, 6
+2, nice chairs, 0.651384, 7
+2, great experience, 0.639938, 7
+2, friend Mike B., 0.928158, 8
+2, pure cranberry juice, 0.898704, 8
+3, Nice little bar, 0.830301, 0
+3, deep fried Twinkies, 0.800295, 0
+3, fast paced Las, 0.795671, 1
+3, belligerent tirade, 0.706882, 1
+3, initial approach, 0.672667, 2
+3, special trip, 0.660031, 2
+3, cold drink, 0.700433, 3
+3, bar snacks, 0.681632, 3
+3, night, 0.568107, 5
+3, bar, 0.994447, 6
+3, Good thing, 0.671934, 6
+3, simple mathematical equation, 0.8255, 7
+3, bar staff, 0.699401, 7
+3, Mermaid Lounge, 0.836159, 8
+3, divers/mermaids/underwater stalkers interact, 0.832258, 8
+3, fish tank, 0.938506, 9
+3, great view, 0.816943, 9
+4, sea-themed Mermaid Lounge, 0.788023, 0
+4, sexy mermaids, 0.668515, 0
+4, vegan hunting lodge, 0.629973, 1
+4, standard bar food, 0.676688, 2
+4, STRIP PARTY BAR, 0.65504, 2
+4, Mermaids don goggles, 0.714753, 3
+4, jellyfish tank, 0.677784, 3
+4, bar, 0.785982, 5
+4, food, 0.68202, 5
+4, mermaids, 0.833769, 6
+4, jelly fish tank, 0.812771, 6
+4, Mermaid Lounge, 0.936663, 7
+4, fish tank, 0.886878, 7
+4, ceiling fish tank, 0.745269, 8
+4, cool little lounge, 0.733423, 8
+4, Mermaid Magical Fantasy, 0.702958, 9
+4, cool little respite, 0.65015, 9
+5, coolest underwater things, 0.855943, 0
+5, reasonably priced drinks, 0.846932, 0
+5, mermaid tank, 0.847948, 1
+5, salt water tank, 0.847826, 1
+5, Mermaid Bar, 0.820099, 2
+5, Silverton stop, 0.73498, 2
+5, giant cylindrical tank, 0.873154, 3
+5, sting rays, 0.872638, 3
+5, scuba diver, 0.980019, 4
+5, pub crawl, 0.84744, 5
+5, Thursday night, 0.813413, 5
+5, Bass Pro shop, 0.843983, 6
+5, huge fish tank, 0.842315, 6
+5, live mermaid swimming, 0.892107, 7
+5, Silverton Lodge Casino, 0.849445, 7
+5, Silverton Lodge, 0.865687, 8
+5, giant aquarium, 0.860504, 8

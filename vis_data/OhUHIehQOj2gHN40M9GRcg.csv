@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+2, je reste poli, 0.951753, 0
+2, exemple repartis sans, 0.88921, 0
+2, server, 0.348929, 1
+2, bar, 0.394008, 2
+2, fries, 0.380354, 2
+2, bread, 0.361768, 3
+2, Meh, 0.347656, 3
+2, tartare, 0.394082, 5
+2, fun place, 0.577609, 7
+2, GF, 0.397098, 7
+2, tout point, 0.608487, 8
+2, Excellent endroit, 0.575495, 8
+3, aiment le gin, 0.875029, 0
+3, Le service est, 0.837628, 0
+3, Le bar aussi, 0.803322, 2
+3, big parties tables, 0.64852, 2
+3, gin bar, 0.70082, 3
+3, pour le déjeuner, 0.911699, 6
+3, Pour le souper, 0.867055, 6
+3, le fish, 0.759895, 7
+3, Le personnel, 0.752859, 7
+3, loud music playing, 0.694888, 8
+3, Fun little bar, 0.685848, 9
+4, sur le marché, 0.964523, 0
+4, le marché Jean-Talon, 0.957469, 0
+4, good beer list, 0.732518, 1
+4, vraiment bon et, 0.751731, 3
+4, Le Pourvoyeur, 0.928043, 5
+4, Gin est relativement, 0.810015, 6
+4, le lieu est, 0.800902, 6
+4, une bière c'est, 0.812152, 7
+4, Gin et ambiance, 0.797539, 7
+4, Nice gin bar, 0.783336, 8
+4, good covered patio, 0.718525, 8
+5, La Poutine Matin, 0.939379, 0
+5, onion ring poutine, 0.854421, 0
+5, stupid American phone, 0.73238, 1
+5, fruit salad, 0.593381, 1
+5, personal phone, 0.577349, 2
+5, baby, 0.502104, 2
+5, refills, 0.435339, 3
+5, coffee, 0.48909, 5
+5, breakfast poutine, 0.775727, 6
+5, NYE service, 0.61256, 6
+5, Le Pourvoyeur, 0.749119, 7
+5, Prompt lunch service, 0.720332, 7
+5, best Hollandaise sauce, 0.750274, 8
+5, cheese curds, 0.627905, 8
+5, regular poutine, 0.781056, 9
+5, Friendly hostess, 0.577276, 9

@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, standards, 0.542251, 0
+1, Horrible service, 0.989449, 1
+1, customer service, 0.827968, 1
+1, single time, 0.832466, 2
+1, times, 0.540412, 2
+1, place, 0.541429, 6
+4, fork-tender corned beef, 0.783779, 0
+4, grilled hot wings, 0.776599, 0
+4, dive bar, 0.562843, 1
+4, fried chicken, 0.543392, 1
+4, necessary bar ingredients, 0.672052, 2
+4, liquid lunch, 0.576839, 2
+4, friendly neighborhood bar, 0.702546, 3
+4, average bar food, 0.677678, 3
+4, grilled wings, 0.623894, 6
+4, bar tenders, 0.605769, 6
+4, corned beef, 0.913904, 7
+4, Fun local place., 0.709451, 7
+4, older female bartender, 0.660328, 8
+4, Awesome jukebox, 0.564358, 8
+4, great wings, 0.606396, 9
+4, Excellent soups, 0.565727, 9
+5, nonsense drink prices, 0.916771, 0
+5, Perfect neighborhood bar, 0.901008, 0
+5, seat, 0.277269, 1
+5, Cheap drinks, 0.645789, 2
+5, little hole, 0.581134, 2
+5, Bobby, 0.422646, 4
+5, grilled chicken, 0.662824, 6
+5, salad, 0.301481, 6
+5, HD TVs, 0.628859, 7
+5, amazing food, 0.628677, 7
+5, super relax, 0.602326, 8
+5, friendly bartenders, 0.590054, 8

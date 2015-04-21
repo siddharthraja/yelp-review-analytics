@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+3, dive bar, 0.525743, 0
+3, Britney tribute, 0.522572, 0
+3, patio entrance, 0.612883, 2
+3, bad place, 0.528439, 2
+3, Spice Girls drag, 0.92887, 3
+3, Blue Moon, 0.907254, 3
+3, drag shows, 0.539919, 6
+3, bar, 0.532537, 6
+3, smaller outdoor patio, 0.823015, 7
+3, fresh air, 0.545931, 7
+3, reasonably priced drinks, 0.936802, 8
+3, diverse crowd, 0.570198, 8
+3, 90s, 0.27728, 9
+3, music, 0.26636, 9
+4, gay crowd, 0.574234, 0
+4, smaller bar, 0.549385, 0
+4, Typical bar, 0.552306, 1
+4, good enough vibe, 0.537142, 1
+4, gay bar, 0.754038, 2
+4, drag queens, 0.651755, 2
+4, all-you-can-eat vegan pierogi, 0.65143, 3
+4, equal rights movement, 0.623958, 3
+4, bar, 0.774449, 4
+4, karaoke, 0.596464, 4
+4, drinks, 0.77005, 5
+4, night, 0.534043, 5
+4, Big age range, 0.616909, 6
+4, place, 0.576734, 6
+4, pretty accurate description, 0.655475, 7
+4, good time, 0.620737, 7
+4, blue moon, 0.962844, 8
+4, friendly crowd, 0.667829, 8
+4, extremely friendly crowd, 0.652584, 9
+5, Blue Moon, 0.679895, 0
+5, gay bar, 0.661621, 1
+5, drag, 0.47251, 2
+5, number, 0.444106, 2
+5, weird gay touches, 0.970764, 3
+5, classic Burgh dive, 0.963419, 7
+5, great bar, 0.68217, 7
+5, great neighborhood bar, 0.879714, 9
+5, attentive bartenders, 0.812007, 9

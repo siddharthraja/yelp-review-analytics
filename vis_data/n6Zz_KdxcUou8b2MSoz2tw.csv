@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, knowhere land, 0.644569, 0
+1, single table, 0.640697, 0
+1, sing mediocre runs, 0.712297, 1
+1, lead singer, 0.618984, 1
+1, kind older waitress, 0.755092, 2
+1, Freakin World Series, 0.754286, 2
+1, Chapparal High School, 0.757534, 3
+1, Super Bowl, 0.642025, 3
+1, Goldies Sports Bar, 0.998512, 4
+1, door, 0.655838, 4
+1, world series, 0.901173, 5
+1, special event, 0.892263, 5
+1, multiple big screens, 0.737323, 7
+1, World series blares, 0.733664, 7
+1, buxom blonde waitress, 0.788206, 9
+3, regular bar food, 0.846911, 0
+3, cheeseburger sliders, 0.819096, 0
+3, dance floor, 0.86619, 1
+3, bizarre bar experience, 0.835619, 1
+3, cover band, 0.872715, 2
+3, typical bar, 0.867967, 2
+3, younger women, 0.847157, 3
+3, edible bar food, 0.82843, 3
+3, sliders, 0.859878, 4
+3, service, 0.81963, 4
+3, place, 0.978342, 5
+3, Eli, 0.878401, 5
+3, good dance music, 0.853685, 6
+3, people, 0.843571, 6
+3, sweet potato fries, 0.97014, 7
+3, pretty good menu, 0.862192, 7
+3, pretty decent cocktail, 0.833725, 8
+3, stir fry dinner, 0.798819, 8
+3, pretty good place, 0.888872, 9
+4, live band, 0.787591, 0
+4, lunch time place, 0.778655, 0
+4, bar food menu, 0.763576, 1
+4, fake boobs, 0.718797, 1
+4, dance floor, 0.808964, 2
+4, bar food, 0.769376, 2
+4, night club formula, 0.742518, 3
+4, prime rib, 0.717392, 3
+4, food, 0.842662, 4
+4, Eli, 0.904798, 5
+4, place, 0.829307, 5
+4, live music, 0.86814, 6
+4, pool tables, 0.794632, 6
+4, chicken teriyaki sliders, 0.820426, 7
+4, waffle fries, 0.804527, 7
+4, spring training time, 0.750849, 8
+4, best blue cheese, 0.738141, 8
+4, goodness Eli, 0.722756, 9

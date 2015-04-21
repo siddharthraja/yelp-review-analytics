@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+3, old school pubs, 0.781006, 0
+3, bare brick walls, 0.776751, 0
+3, old watering hole, 0.784869, 1
+3, horribly unreasonable length, 0.801419, 2
+3, Elm bar, 0.782683, 2
+3, bar manager, 0.807527, 3
+3, veggie burger, 0.743231, 3
+3, Jeremiah, 0.724169, 4
+3, Taproom, 0.71571, 4
+3, bar, 0.900197, 5
+3, Blue beef burger, 0.832696, 6
+3, time, 0.818731, 6
+3, venison burger main, 0.823905, 7
+3, nice prawn starter, 0.801221, 7
+3, nice deep bar, 0.840751, 8
+3, venison burger, 0.829615, 8
+3, nice place, 0.729756, 9
+3, different feel, 0.714927, 9
+4, good skinny fries, 0.882562, 0
+4, wee bit quieter, 0.87267, 0
+4, noooo hooo, 0.730886, 2
+4, little more spice, 0.726052, 2
+4, bar food, 0.744426, 3
+4, opposite end, 0.739114, 3
+4, hot dog, 0.834636, 4
+4, busy night, 0.828472, 6
+4, loong time, 0.731916, 6
+4, blue cheese, 0.927616, 7
+4, Gunn Oak Matured, 0.84765, 7
+4, soda bread, 0.932266, 8
+4, tasty Banana split, 0.857792, 8
+4, venison burger, 0.889945, 9
+4, wonderful crafted nectar, 0.834507, 9
+5, place, 0.26737, 1
+5, time, 0.256834, 6
+5, beef burger, 0.645827, 7
+5, new people, 0.544778, 7
+5, fantastic new craft, 0.921171, 9
+5, craft beer, 0.817001, 9

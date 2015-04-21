@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+3, free shot, 0.585458, 0
+3, Sake, 0.44901, 0
+3, tortilla chips, 0.610001, 1
+3, sour cream, 0.608581, 1
+3, nice customer service, 0.86072, 2
+3, giant nachos, 0.682378, 2
+3, best looking pub, 0.923837, 3
+3, quick drink, 0.606074, 7
+3, student discount, 0.582556, 7
+3, staff member, 0.63583, 8
+4, vegan nachos, 0.623906, 0
+4, heavier rock music, 0.572277, 0
+4, good Sailor Jerry, 0.570295, 1
+4, different eating preferences, 0.555414, 1
+4, Real Ale pubs, 0.560732, 2
+4, pub portions, 0.560608, 2
+4, so-called regular nachos, 0.644529, 3
+4, sour cream, 0.598746, 3
+4, food, 0.577857, 4
+4, nachos, 0.824785, 5
+4, place, 0.594515, 5
+4, Auld Hoose, 0.999472, 6
+4, best nachos, 0.62639, 6
+4, pub grub, 0.652013, 7
+4, great pub, 0.593552, 7
+4, GREAT local pub, 0.585988, 8
+4, good place, 0.584257, 8
+4, friendly pub vibe, 0.58208, 9
+4, good ales, 0.55429, 9
+5, large nachos, 0.808968, 0
+5, super loud music, 0.715819, 0
+5, little bit messy, 0.711813, 1
+5, Yelper Nacho-crawl, 0.624769, 1
+5, big nachos, 0.786316, 2
+5, massive space, 0.63759, 2
+5, nachos, 0.96597, 5
+5, Mega Nachos, 0.794231, 6
+5, awesome things, 0.641577, 6
+5, Auld Hoose, 0.796668, 7
+5, Simple pub grub, 0.756717, 7
+5, old man pub, 0.775023, 8
+5, best possible way, 0.769544, 8
+5, great metal/punk/industrial/goth juke, 0.747726, 9
+5, cosy Edinburgh pub, 0.728457, 9

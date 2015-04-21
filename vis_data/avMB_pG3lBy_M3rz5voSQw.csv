@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+3, party lights, 0.826783, 0
+3, tambourines, 0.605902, 0
+3, regular overhead light, 0.973345, 1
+3, little boring, 0.827491, 1
+3, Monday, 0.588652, 2
+3, deal, 0.587353, 2
+3, sync, 0.580433, 3
+3, times, 0.564661, 3
+3, ton, 0.671752, 6
+3, Mondays, 0.576279, 6
+3, book, 0.57058, 9
+4, karaoke place, 0.986005, 0
+4, private rooms, 0.906982, 0
+4, snack options, 0.926588, 2
+4, time, 0.576763, 2
+4, thing, 0.598551, 3
+4, couches, 0.493121, 3
+4, person, 0.426584, 6
+4, cool idea, 0.978709, 7
+4, good size, 0.924556, 7
+4, regular house, 0.961472, 8
+4, songs, 0.558645, 9
+5, box style karaoke, 0.796895, 0
+5, Karaoke House, 0.734693, 0
+5, karaoke rooms, 0.665661, 1
+5, Japanese songs, 0.880565, 2
+5, private karaoke room, 0.829955, 2
+5, karaoke machine, 0.763025, 3
+5, karaoke box, 0.68626, 3
+5, karaoke, 0.95278, 4
+5, songs, 0.996387, 5
+5, fun, 0.568107, 5
+5, english songs, 0.682671, 6
+5, private room, 0.661718, 6
+5, time, 0.578218, 7
+5, friends fiance, 0.551606, 7
+5, black market deal, 0.67034, 8
+5, favorite songs, 0.648196, 8
+5, great customer service, 0.631038, 9
+5, song selection, 0.531812, 9

@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, major disappointment, 0.860348, 0
+1, disgrace, 0.584244, 0
+1, limp unimaginative salad, 0.998757, 1
+1, Whiski Bar, 0.754088, 1
+1, Shame, 0.575283, 2
+1, plate, 0.558746, 2
+1, km, 0.560585, 3
+1, menu, 0.550297, 3
+1, tourist market, 0.777131, 6
+1, return visit, 0.777106, 6
+2, somewhat bland salad, 0.951461, 0
+2, good pub, 0.666978, 0
+2, sausage dish, 0.831612, 2
+2, tiny table, 0.725814, 2
+2, american couples, 0.727654, 6
+2, visit, 0.391865, 6
+3, Standard traditional pub, 0.895054, 0
+3, private drinking room, 0.82761, 0
+3, basic toilets, 0.611998, 2
+3, large bar, 0.597475, 2
+3, Saturday night, 0.606382, 3
+3, bit touristy, 0.590509, 3
+3, lovely little seating, 0.840298, 6
+3, Nab, 0.385548, 6
+3, nice looking place, 0.952706, 7
+3, ye olde design, 0.879479, 7
+3, Haha, 0.389092, 8
+3, Overall great experience, 0.819595, 9
+3, waiter, 0.379037, 9
+4, Castle Arms, 0.958925, 0
+4, Aberdeen Angus burger, 0.825988, 0
+4, typical pub food, 0.840928, 2
+4, good value, 0.669398, 2
+4, meaty burger, 0.660996, 3
+4, Monday afternoon, 0.603752, 3
+4, meals, 0.488231, 5
+4, Royal Mile, 0.845602, 6
+4, Check, 0.502618, 6
+4, normal restaurant tables, 0.813846, 7
+4, good meal, 0.662015, 7
+4, traditional bar lunches, 0.853276, 8
+4, pretty good food, 0.813291, 8
+4, local beer selection, 0.764793, 9
+4, chili sauce, 0.631921, 9
+5, rugby game, 0.842321, 0
+5, taste, 0.377095, 0
+5, season, 0.370791, 2
+5, slow nights, 0.915293, 3
+5, eating, 0.348478, 3
+5, close medium, 0.854963, 6
+5, haggis, 0.427125, 6
+5, food, 0.483582, 7
+5, waitress, 0.453266, 7
+5, nice chat, 0.989092, 8
+5, reasonable time, 0.87994, 8

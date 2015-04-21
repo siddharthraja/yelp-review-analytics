@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+1, vip tix, 0.814839, 0
+1, vip seating, 0.758388, 0
+1, friend, 0.395834, 1
+1, person, 0.381508, 1
+1, management, 0.364912, 3
+1, work, 0.364813, 3
+1, madison comedy festival, 0.929277, 6
+1, Margaret Cho, 0.767625, 6
+1, ticket, 0.367224, 8
+4, typical comedy club, 0.60055, 0
+4, extra dollar online, 0.568038, 0
+4, drink multiple times, 0.639567, 2
+4, large groups, 0.593336, 2
+4, complex drink orders, 0.604091, 3
+4, slightly drunk dude, 0.574203, 3
+4, drink minimum, 0.90451, 4
+4, people, 0.616576, 4
+4, drinks, 0.683256, 5
+4, night, 0.620494, 5
+4, comedy club, 0.798689, 6
+4, time, 0.670775, 6
+4, two-drink minimum prices, 0.639746, 7
+4, open mic night, 0.607592, 7
+4, Great place, 0.621867, 8
+4, great eye contact, 0.607228, 8
+4, Great comedy, 0.522537, 9
+4, date night, 0.511498, 9
+5, drink minimum, 0.73231, 0
+5, stand-up comedy club, 0.714848, 0
+5, comic rebuked insulting, 0.695054, 1
+5, rude patron, 0.553075, 1
+5, good skit series, 0.698464, 2
+5, little pricy, 0.5441, 2
+5, main stage shows, 0.669611, 3
+5, status level, 0.554266, 3
+5, place, 0.64445, 4
+5, comedy club, 0.936145, 5
+5, Comedy Sportz, 0.602642, 6
+5, comedy awards, 0.589276, 6
+5, great time, 0.587191, 7
+5, good crowd, 0.573392, 7
+5, excellent drink menu, 0.670078, 8
+5, Great service, 0.643136, 8
+5, new location, 0.714591, 9
+5, huge seating area, 0.713429, 9

@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+1, worst idea, 0.919243, 0
+1, Bang head, 0.777312, 0
+1, credit card, 0.792001, 1
+1, OMG, 0.349955, 1
+1, bottle, 0.277282, 2
+1, bar, 0.25484, 2
+1, friend, 0.262244, 3
+1, water, 0.397491, 4
+1, Samantha, 0.287805, 6
+1, black coffee, 0.795225, 7
+1, drink, 0.296684, 7
+2, insane party weekend, 0.951372, 0
+2, Vegas standards, 0.709903, 0
+2, bartender, 0.505091, 3
+5, Absolutely fabulous bar, 0.905658, 0
+5, daily basis, 0.641932, 0
+5, Martini, 0.436328, 7
+5, Great location, 0.584604, 8
+5, center, 0.355409, 8

@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+2, chicken salad sandwich, 0.820224, 0
+2, blue cheese, 0.801903, 0
+2, crab cakes, 0.884415, 2
+2, hot dog, 0.788725, 2
+2, crab blt, 0.882791, 3
+2, mac n cheese, 0.859521, 3
+2, cheese, 0.861435, 4
+2, kale salad, 0.859943, 4
+2, food, 0.975569, 5
+2, service, 0.888024, 5
+2, place, 0.828937, 6
+2, cheese dip appetizer, 0.793912, 6
+2, lunch background music, 0.794229, 7
+2, cole slaw, 0.780424, 7
+2, pretty good deal, 0.805553, 8
+2, pizza place, 0.77779, 8
+2, good place, 0.797803, 9
+2, nice outdoor seating, 0.776938, 9
+3, good things, 0.599946, 0
+3, limited brunch menu, 0.592346, 0
+3, menu options, 0.597289, 2
+3, appetizer menu blows, 0.595042, 2
+3, chicken sandwich, 0.726777, 3
+3, crab cake sandwich, 0.627563, 3
+3, food, 0.903992, 4
+3, service, 0.759937, 4
+3, menu, 0.839141, 5
+3, place, 0.828422, 5
+3, burger, 0.641468, 6
+3, great food, 0.592539, 6
+3, kale salad, 0.644653, 7
+3, good lunch menu, 0.624282, 7
+3, great place, 0.623445, 8
+3, bag chicken sandwich, 0.617407, 8
+3, good craft beer, 0.603616, 9
+3, nice brunch menu, 0.600221, 9
+4, Pulled Chicken sandwich, 0.59193, 0
+4, largest kale chips, 0.59036, 0
+4, bar food, 0.601475, 2
+4, cold chicken sandwich, 0.592961, 2
+4, ice cream, 0.824501, 3
+4, ice cream sandwich, 0.667806, 3
+4, chicken sandwich, 0.744385, 4
+4, Churn, 0.644199, 4
+4, Windsor, 0.928109, 5
+4, salad, 0.765271, 5
+4, bag chicken sandwich, 0.721028, 6
+4, halibut sandwich, 0.720267, 6
+4, crab cake blt, 0.761783, 7
+4, kale chips, 0.722116, 7
+4, cassette tapes, 0.702445, 8
+4, kale salad, 0.675577, 8
+4, great restaurant, 0.613489, 9
+4, great place, 0.590997, 9
+5, corn dog poppers, 0.636581, 3
+5, ice cream, 0.98369, 5
+5, kale salad, 0.81832, 5
+5, food, 0.814295, 6
+5, grain salad, 0.685952, 6
+5, crab cake, 0.791578, 7
+5, crab cake sandwich, 0.762419, 7
+5, great food, 0.691992, 8
+5, great service, 0.647716, 8
+5, LOVE LOVE LOVE, 0.671891, 9
+5, great new restaurant, 0.623983, 9

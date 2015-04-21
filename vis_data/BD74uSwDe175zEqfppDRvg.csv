@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, service terrible food, 0.694974, 0
+1, time bad mealI, 0.670769, 0
+1, worst Mexican food, 0.739433, 1
+1, chicken crispy tortilla, 0.729737, 1
+1, lunch/ test drive, 0.67162, 2
+1, pollo fundido, 0.666611, 2
+1, Mexican food, 0.946083, 3
+1, place, 0.840967, 3
+1, Valle Luna, 0.676644, 5
+1, better Mexican food, 0.731568, 6
+1, great place, 0.617184, 6
+1, Mexican-style Mexican food, 0.759057, 7
+1, chicken taco platter, 0.723291, 7
+1, Chicken Fajitas, 0.642328, 8
+1, Colorado girl, 0.605349, 8
+1, good place, 0.650205, 9
+1, Nice waitress, 0.607729, 9
+2, prickly pear margarita, 0.921266, 0
+2, sour cream, 0.665924, 0
+2, bland food, 0.553668, 1
+2, cheese sauce, 0.54419, 1
+2, Mexican restaurant, 0.647101, 2
+2, correct order., 0.523578, 2
+2, shredded beef taco, 0.693922, 3
+2, green chili tamale, 0.67346, 3
+2, food, 0.741235, 4
+2, combo plate, 0.67314, 6
+2, pork tamal combo, 0.660265, 6
+2, Mexican food, 0.571424, 7
+2, good food, 0.570735, 7
+2, menu instruction, 0.528533, 8
+3, So-so Mexican food, 0.546928, 0
+3, valle luna mex., 0.539076, 0
+3, mediocre Mexican restaurant, 0.469417, 1
+3, customer service, 0.397477, 1
+3, Mexican restaurants, 0.447885, 2
+3, real thing, 0.41832, 2
+3, teenage blond boy, 0.433511, 3
+3, deserving hole-in-the-wall type, 0.422106, 3
+3, valle luna, 0.989023, 4
+3, mexican food, 0.86148, 4
+3, salsa, 0.532597, 5
+3, service, 0.494581, 5
+3, Sonoran Mexican food, 0.53238, 6
+3, Mexican restaurant menus, 0.463181, 6
+3, mexican food restaurant, 0.664961, 7
+3, little mexican food, 0.495592, 7
+3, best grilled pork, 0.434449, 8
+3, flavorful chicken, 0.403859, 8
+3, tasty mexi food, 0.463817, 9
+3, beef Mexican pizza, 0.451489, 9
+4, notch mexican food, 0.604332, 0
+4, closer Valle Luna, 0.587741, 0
+4, mexican place, 0.562781, 1
+4, quiet Mexican restaurant, 0.579856, 3
+4, Cave Creek, 0.56551, 3
+4, mexican food, 0.797089, 4
+4, Valle Luna, 0.923602, 5
+4, chips, 0.676005, 5
+4, mexican restaurant, 0.66035, 6
+4, good Mexican food, 0.655507, 6
+4, Great Mexican food, 0.606979, 7
+4, pollo fundido, 0.604361, 7
+4, best Mexican food, 0.634505, 8
+4, great service, 0.604395, 8
+4, authentic Mexican food, 0.592696, 9
+4, tacky Mexican restaurant, 0.577219, 9
+5, little Mexican place, 0.422903, 0
+5, FAV Mexican restaurant, 0.41542, 0
+5, Mexican mexican food, 0.516759, 2
+5, sour cream, 0.384783, 2
+5, bar, 0.395522, 5
+5, Valle Luna, 0.91151, 6
+5, mexican food, 0.75498, 6
+5, mexican restaurant, 0.459088, 7
+5, place Valle Luna, 0.438978, 7
+5, best mexican food, 0.573172, 8
+5, Mexican food place, 0.504239, 8
+5, good Mexican food, 0.55403, 9
+5, yummy mexican food, 0.4484, 9

@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, manage walk, 0.749995, 0
+1, tvs, 0.473487, 0
+1, Rough crowd, 0.717357, 1
+1, phone texting, 0.717976, 2
+1, Bouncer, 0.485296, 2
+1, awesomely cheap drinks, 0.910789, 3
+1, better service, 0.665929, 3
+1, bartender, 0.76716, 5
+1, food menu, 0.686338, 8
+1, eye roll, 0.685411, 8
+1, relaxing spot, 0.742489, 9
+1, town, 0.458153, 9
+2, drink specials, 0.664946, 0
+2, cocktail glass, 0.569297, 0
+2, tone, 0.287661, 1
+2, star rating, 0.548019, 2
+2, ribs, 0.302929, 2
+2, barbecue sauce, 0.647436, 3
+2, Chuckie Cheese, 0.644373, 3
+2, Wednesday afternoon, 0.622776, 4
+2, Happy, 0.273067, 4
+2, food special menu, 0.990997, 6
+2, Delaney, 0.291612, 6
+2, manhattan glass, 0.828888, 7
+2, rocks glass, 0.61639, 7
+3, Heinz ketchup, 0.902972, 0
+3, condiments Generic sports, 0.860551, 0
+3, Black Jack Burger, 0.874829, 2
+3, cents, 0.541937, 2
+3, time, 0.498333, 3
+3, bartenders, 0.469941, 3
+3, sports bar, 0.947378, 4
+3, wings, 0.743276, 4
+3, food, 0.705473, 5
+3, waiter, 0.63143, 5
+3, cent wings, 0.734123, 6
+3, Legends my friend, 0.663863, 6
+3, Great Taste, 0.892254, 7
+3, Absolutely great atmosphere, 0.834551, 7
+3, drink selections, 0.701618, 8
+3, super cool, 0.670117, 8
+3, great sports bar, 0.925852, 9
+3, televisions, 0.463013, 9
+4, jell-o shots, 0.764109, 0
+4, cheese curds, 0.74619, 0
+4, Best sports bar, 0.976508, 1
+4, wazoo, 0.562891, 1
+4, objection, 0.560528, 3
+4, food specials, 0.74704, 4
+4, Winter broom ball, 0.928007, 6
+4, winter team sport, 0.91952, 6
+4, reconstructed volleyball court, 0.94192, 7
+4, chicken wings, 0.716026, 7
+4, good deal, 0.75201, 8
+4, perfectly crispy, 0.742664, 8
+4, Tiki bar outback, 0.9311, 9
+4, good people, 0.757303, 9
+5, huge wrap-around bar, 0.971106, 0
+5, bean bag boards, 0.881432, 0
+5, full-size volley ball, 0.944147, 1
+5, mediocre beer, 0.728346, 1
+5, large UFC fights, 0.934291, 2
+5, real big names, 0.877353, 2
+5, Sports bar feel, 0.962549, 3
+5, huge screen, 0.738175, 3
+5, place, 0.797235, 5
+5, spectacular Sports bars, 0.983215, 6
+5, awesome new Tiki, 0.917844, 6
+5, West Towne mall, 0.97581, 7
+5, recognizable thing, 0.77743, 7
+5, outdoor patio, 0.723145, 8
+5, kind, 0.649331, 8
+5, man, 0.538544, 9

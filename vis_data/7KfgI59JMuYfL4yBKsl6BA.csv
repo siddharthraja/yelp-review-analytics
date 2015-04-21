@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, dollar price tag, 0.893102, 0
+2, disappointing experience, 0.785542, 0
+2, high expectations, 0.714065, 1
+2, little desire, 0.710035, 1
+2, appetizing plate, 0.768961, 2
+2, sundried tomatoes, 0.73798, 2
+2, exciting thing, 0.724873, 3
+2, goat cheese, 0.946346, 4
+2, menu, 0.616487, 5
+2, roasted chicken, 0.761428, 6
+2, sun-dried tomatoes, 0.743513, 6
+2, garlic mashed potatoes, 0.932219, 7
+2, warm colors, 0.7377, 7
+2, wine selection, 0.985735, 8
+2, great wine selection, 0.957112, 8
+2, casually dressed diners, 0.978747, 9
+2, Saturday night crowd, 0.939018, 9
+4, mango chunks, 0.752888, 0
+4, fresh strawberries, 0.736014, 0
+4, Boozy woozy, 0.766928, 1
+4, crashing, 0.554428, 1
+4, bad place, 0.7252, 2
+4, 7pm, 0.549624, 2
+4, darn Waterloo style, 0.895507, 3
+4, decent pizza, 0.730439, 3
+4, kalamata olives, 0.728342, 6
+4, roasted tomatoes, 0.727539, 6
+4, good wine list, 0.871899, 7
+4, small wedding reception, 0.849594, 7
+4, Sweet potato fries, 0.897758, 8
+4, great food, 0.850011, 8
+4, white wine sangria, 0.953246, 9
+4, nice looking restaurant, 0.895159, 9
+5, assorted mini muffins, 0.743214, 0
+5, pastry basket, 0.468913, 0
+5, mouth goodness, 0.477208, 2
+5, little steak, 0.856018, 6
+5, eggs, 0.268491, 6
+5, banana bread, 0.452372, 7
+5, vegeterian dishes, 0.435, 7
+5, perfectly cooked bacon, 0.910792, 8
+5, sweet potato lasagna, 0.720232, 8
+5, good brunch, 0.612643, 9
+5, lobster benny, 0.546889, 9

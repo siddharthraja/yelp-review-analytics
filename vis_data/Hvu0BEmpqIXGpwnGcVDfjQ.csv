@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+2, Maui burger, 0.355893, 0
+2, mixed drinks, 0.335352, 0
+2, miss, 0.227182, 1
+2, WTF, 0.226613, 1
+2, foul mood, 0.329381, 2
+2, order, 0.255682, 2
+2, short water glasses, 0.416148, 3
+2, patron shots, 0.409572, 3
+2, bottle, 0.309308, 4
+2, waitress, 0.276157, 4
+2, margaritas, 0.313487, 5
+2, pork belly bao, 0.956581, 6
+2, Charlevoix burger, 0.496406, 6
+2, ta admit, 0.342762, 7
+2, wines, 0.225432, 7
+2, previous review, 0.347771, 8
+2, advice, 0.227453, 8
+2, unknown gem, 0.34754, 9
+2, BFF, 0.239522, 9
+4, Crescent Street, 0.614311, 0
+4, papaya salad, 0.580938, 0
+4, simple dark chairs, 0.79955, 2
+4, low lighting, 0.52983, 2
+4, tired old spots, 0.791064, 3
+4, little casual bistro, 0.784262, 3
+4, place, 0.317053, 5
+4, duck tacos, 0.722537, 6
+4, great lengths, 0.548757, 6
+4, tapas style, 0.535702, 7
+4, little gem, 0.517868, 7
+4, totally unassuming spot, 0.912808, 8
+4, big sign, 0.565333, 8
+5, pork belly bun, 0.908568, 0
+5, Key lime pie, 0.830515, 0
+5, broke student, 0.633686, 1
+5, big hurry, 0.570143, 2
+5, double date, 0.57051, 3
+5, Cartel, 0.246004, 3
+5, papaya salad, 0.633919, 6
+5, steak taco, 0.632837, 6
+5, great belgian fries, 0.84435, 7
+5, livingsocial voucher, 0.610381, 7

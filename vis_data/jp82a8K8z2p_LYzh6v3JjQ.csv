@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, random patron, 0.779728, 0
+2, reflection, 0.496763, 0
+2, guys, 0.603351, 1
+2, fight, 0.572625, 1
+2, guy, 0.626981, 2
+2, bunch, 0.502033, 2
+2, dive bar feel, 0.971063, 3
+2, small place, 0.750915, 3
+2, Rowdy crowd, 0.828929, 7
+4, European style pub, 0.810361, 0
+4, low key night, 0.754849, 0
+4, flat screen TV, 0.772046, 1
+4, weak attention span, 0.748385, 1
+4, cobble stone pathway, 0.780145, 2
+4, small shops, 0.647062, 2
+4, girls night-out  type, 0.785789, 3
+4, little nook, 0.662628, 3
+4, bar, 0.683034, 5
+4, Hooligans, 0.677929, 5
+4, open-mic night style, 0.821243, 6
+4, super chill pub, 0.788893, 6
+4, beer selection, 0.940634, 7
+4, French Quarter, 0.809242, 7
+4, downtown.  friendly staff, 0.780778, 8
+4, Cheers kinda vibe, 0.777531, 8
+4, personable- check, 0.663957, 9
+4, Great place, 0.64553, 9
+5, Best soccer bar, 0.787873, 0
+5, QC Outlaws, 0.755371, 0
+5, Mexican national team, 0.738047, 1
+5, nearly naked women, 0.740299, 2
+5, air conditioned-less dive, 0.738982, 2
+5, American Outlaws, 0.753051, 3
+5, Hulk-sizedanger management issues, 0.734677, 3
+5, place, 0.906788, 5
+5, bar, 0.798635, 5
+5, favourite uptown bar, 0.782458, 6
+5, favorite bar, 0.776605, 6
+5, NC craft beer, 0.804008, 7
+5, favorite place downtown, 0.794341, 7
+5, local craft beers, 0.869606, 8
+5, place Friendly soccer, 0.795269, 8
+5, craft beer selection, 0.773302, 9
+5, great new people, 0.765781, 9

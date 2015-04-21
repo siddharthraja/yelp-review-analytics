@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, west coast, 0.958423, 0
+1, west coast thing, 0.957541, 0
+1, ongoing problem, 0.714455, 1
+1, bodyguard/ security, 0.672408, 1
+1, hip-hop/r&b, 0.465861, 2
+1, weekend, 0.465261, 2
+1, blow bubbles, 0.729932, 3
+1, place, 0.542304, 3
+1, time, 0.60419, 4
+1, bar, 0.722112, 5
+1, dancer, 0.601192, 5
+1, Live Music Lounge, 0.904318, 6
+1, tempo, 0.473637, 6
+1, bottle service, 0.716359, 7
+1, club, 0.534168, 7
+2, 30s married couples, 0.759356, 0
+2, SOUTH Chandler, 0.653, 0
+2, security guards, 0.640673, 1
+2, sour note, 0.630267, 1
+2, dance floor, 0.96368, 2
+2, bar, 0.797456, 2
+2, Kardashian Quick Trim, 0.800756, 3
+2, diet plan, 0.666782, 3
+2, people, 0.684559, 4
+2, club, 0.697444, 5
+2, night, 0.68665, 5
+2, bachelorette party, 0.789539, 7
+2, bachelorette party posse, 0.774554, 7
+3, share pics, 0.560961, 0
+3, resort nightclub, 0.556076, 0
+3, w/ drink, 0.623871, 2
+3, food requests, 0.545705, 2
+3, public site, 0.561385, 3
+3, drinks, 0.558676, 3
+3, crispy wonton strips, 0.924531, 5
+3, group, 0.48864, 5
+3, fresh air, 0.860392, 6
+3, dance floor, 0.719301, 6
+3, VIP table, 0.71882, 7
+3, small patio area, 0.699134, 7
+3, VIP pass, 0.578919, 8
+3, go-go dancers, 0.578141, 8
+4, night style lounge, 0.808363, 0
+4, ball rolling, 0.688992, 0
+4, pack club, 0.681359, 1
+4, poor fact, 0.677692, 2
+4, Thursday night, 0.668726, 2
+4, big name DJ, 0.910172, 3
+4, VIP douchebags, 0.700323, 3
+4, club, 0.85038, 4
+4, gogo dancers, 0.884954, 6
+4, guest DJ, 0.752246, 6
+4, diverse age group, 0.847834, 7
+4, young folk, 0.698884, 7
+4, nice breath, 0.686744, 8
+4, fresh air, 0.677487, 8
+4, good DJ, 0.766339, 9
+4, gorgeous view, 0.688156, 9
+5, typical club, 0.584889, 0
+5, business card, 0.572452, 0
+5, corny inside joke, 0.638189, 2
+5, LA, 0.392216, 3
+5, moment, 0.374497, 3
+5, frequent Vegas visitor, 0.788894, 6
+5, 40th Birthday Celebration, 0.947519, 7
+5, Wild Pass, 0.634799, 7
+5, Saturday night, 0.577292, 8
+5, DJ, 0.359428, 8

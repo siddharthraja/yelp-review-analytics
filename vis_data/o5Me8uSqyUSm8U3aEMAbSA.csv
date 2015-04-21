@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, Observer sandwich contest, 0.765701, 0
+1, utter disappointment, 0.713966, 0
+1, disappointment, 0.743139, 1
+1, colossal disappointment, 0.708886, 1
+1, blu cheese, 0.77704, 2
+1, random fashion, 0.662293, 2
+1, large group, 0.666218, 3
+1, initial plan, 0.66371, 3
+1, place, 0.712693, 5
+1, long time, 0.939586, 6
+1, CVB pumpkin ale, 0.802724, 6
+1, rare experiences, 0.64265, 7
+1, unusually long time, 0.756831, 8
+1, wonderful beer, 0.668217, 8
+1, classic English pub, 0.754173, 9
+2, huge beer nerd, 0.62524, 0
+2, food/drink service industry, 0.607594, 0
+2, current Growlers experience, 0.607852, 1
+2, direct eye contact, 0.598372, 1
+2, grocery store pretzels, 0.618611, 2
+2, bar, 0.542864, 2
+2, place, 0.661791, 3
+2, misrepresented beer types, 0.619309, 3
+2, high hopes, 0.700254, 4
+2, people, 0.598662, 4
+2, beer, 0.937544, 5
+2, beer tasted skunky, 0.637138, 6
+2, glossy review, 0.508556, 6
+2, beer selection, 0.866049, 7
+2, thier beer selection, 0.644219, 7
+2, broccoli salad, 0.61324, 8
+2, Italian sausage, 0.602269, 8
+3, Growlers Pourhouse, 0.821637, 0
+3, large picnic-style table, 0.764043, 0
+3, PBR pints, 0.780469, 2
+3, Yelp Summer Soiree, 0.763738, 2
+3, Jalapeño Pale Ale, 0.744983, 3
+3, service, 0.755693, 4
+3, complimentary popcorn, 0.765292, 5
+3, food, 0.848735, 6
+3, place, 0.8023, 6
+3, beer cheese, 0.917575, 7
+3, atmosphere, 0.817503, 7
+3, beer selection, 0.935626, 8
+3, Great beer selection, 0.813864, 8
+3, great atmosphere, 0.811808, 9
+3, excellent bar food, 0.79859, 9
+4, good craft beer, 0.549898, 0
+4, cheap beer, 0.544784, 2
+4, go-to cheap beer, 0.532106, 2
+4, beer cheese dip, 0.580216, 3
+4, big beer drinker, 0.543945, 3
+4, bar, 0.666043, 4
+4, beer brat, 0.573509, 4
+4, beer, 0.929035, 5
+4, growlers, 0.742322, 5
+4, beer cheese, 0.76735, 6
+4, beer float shot, 0.556191, 6
+4, root beer float, 0.605183, 7
+4, good beer list, 0.589081, 7
+4, great beer selection, 0.751758, 8
+4, great place, 0.616364, 8
+4, great tap list, 0.514247, 9
+4, free beer tasting, 0.512509, 9
+5, monthly Beer Education, 0.648634, 0
+5, good beer, 0.648545, 0
+5, beer snob, 0.635432, 2
+5, root beer product, 0.656749, 3
+5, NoDa pub crawl, 0.621647, 3
+5, root beer, 0.713674, 4
+5, beer, 0.951557, 5
+5, place, 0.834477, 5
+5, cask root beer, 0.663874, 6
+5, GREAT bar food, 0.663872, 6
+5, great beer selection, 0.765834, 7
+5, great beer food, 0.721582, 7
+5, beer selection, 0.886562, 8
+5, great beer, 0.796286, 8
+5, Beer Education Night, 0.736857, 9
+5, favorite Friday/Saturday Night, 0.612617, 9

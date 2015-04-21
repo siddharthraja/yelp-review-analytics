@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, nice cold breeze, 0.903832, 0
+1, large parties outdoors, 0.894049, 0
+1, big disappointment, 0.680892, 1
+1, mediocre steaks, 0.675031, 1
+1, Red Rocks, 0.900133, 2
+1, chilly breeze, 0.692299, 2
+1, Saturday night, 0.690469, 3
+1, Crab soup, 0.647972, 3
+1, table, 0.501313, 4
+1, people, 0.498343, 4
+1, nice touch, 0.67801, 6
+1, outdoor seating, 0.6751, 6
+1, wait, 0.727877, 7
+1, better price, 0.661759, 7
+2, Red Rocks Cafe, 0.776914, 0
+2, Chicken Saltimbocca, 0.689268, 0
+2, angel hair pasta, 0.785951, 1
+2, old child, 0.534714, 1
+2, Red Rocks, 0.986679, 2
+2, downward trend, 0.546803, 2
+2, late cold chicken, 0.794769, 3
+2, Saturday night, 0.523004, 3
+2, time, 0.38946, 4
+2, waiter, 0.415346, 5
+2, Chicken Salad plate, 0.872072, 6
+2, chicken broth, 0.63593, 6
+2, simply melon, 0.552586, 7
+2, nice assortment, 0.544593, 7
+2, great service, 0.525323, 8
+2, great experience, 0.522812, 8
+3, Feast Charlotte Restaurant, 0.697766, 0
+3, Queens Feast Charlotte, 0.69208, 0
+3, yelp star, 0.652341, 1
+3, little shredded crab, 0.625235, 1
+3, good food eat, 0.671962, 2
+3, good business people, 0.640076, 2
+3, crab cake, 0.671684, 3
+3, Eaten South African, 0.610489, 3
+3, Cajun dish, 0.599349, 4
+3, Red Rocks, 0.96201, 5
+3, food, 0.760732, 5
+3, yelp stars, 0.836906, 6
+3, chicken salad sandwich, 0.709109, 6
+3, key lime pie, 0.687965, 7
+3, Yelp check-in deal, 0.63439, 7
+3, crab cakes, 0.686557, 8
+3, low lit restaurant, 0.624979, 8
+3, pretty fantastic fancy-urger, 0.615308, 9
+3, Kobe beef, 0.610263, 9
+4, better beer selection, 0.671381, 0
+4, copper river salmon, 0.670217, 0
+4, Common bar fare, 0.672544, 1
+4, Providence Road, 0.661521, 1
+4, Red Rocks, 0.914971, 3
+4, garlic smashed potatoes, 0.704378, 3
+4, service, 0.685206, 5
+4, menu, 0.672888, 5
+4, Red Rocks Cafe, 0.730562, 6
+4, chocolate layer cake, 0.702819, 6
+4, Red Rocks staff, 0.700197, 7
+4, food, 0.698938, 7
+4, lemon dill sauce, 0.700271, 8
+4, great service, 0.68335, 8
+4, great meal, 0.677732, 9
+4, great food, 0.675409, 9
+5, crab artichoke dip, 0.658465, 0
+5, real main street, 0.652557, 0
+5, usual go-to choices, 0.645029, 1
+5, red rocks, 0.956296, 5
+5, bar area, 0.652517, 5
+5, Red Rocks Cafe, 0.732912, 6
+5, good sized portions, 0.651708, 6
+5, crab cake sliders, 0.696721, 7
+5, South Park, 0.667291, 7
+5, upscale American cuisine, 0.687627, 8
+5, great food, 0.679087, 8
+5, dining experience, 0.673922, 9
+5, layerd chocolate cake, 0.658594, 9

@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+2, Service, 0.900576, 1
+2, Staff, 0.790274, 8
+3, chicken liver pate, 0.725815, 0
+3, propper sized meals, 0.714432, 0
+3, usual Rose Street, 0.744191, 1
+3, overpriced drinks, 0.708353, 1
+3, George Street, 0.768372, 2
+3, overpriced George Street, 0.745863, 2
+3, bit expensive drinks, 0.74695, 3
+3, new fad, 0.672459, 3
+3, Element, 0.726309, 4
+3, Rose Street, 0.904816, 5
+3, bar, 0.679329, 5
+3, good meeting point, 0.717357, 6
+3, decent board game, 0.705789, 6
+3, mini beef burgers, 0.724277, 7
+3, Scottish tapas style, 0.722444, 7
+3, good range, 0.662992, 8
+3, attentive service, 0.72524, 9
+3, Usual beers, 0.663256, 9
+4, Chilli nachos, 0.768254, 0
+4, light bite, 0.700561, 0
+4, grumble, 0.48048, 2
+4, little more style, 0.675989, 3
+4, City shenanagins, 0.668887, 3
+4, Prosecco, 0.478973, 6
+4, Nom, 0.472595, 6
+4, drambuie sauce, 0.736589, 7
+4, cool place, 0.722012, 7
+4, Aberdeen Angus burgers, 0.952531, 8
+4, Element, 0.521761, 8
+4, pretty reasonable prices, 0.933015, 9
+4, nicer pubs, 0.802556, 9
+5, typical Rose Street, 0.979702, 0
+5, bit classier, 0.824654, 0
+5, price, 0.555721, 2
+5, criticism, 0.563041, 3
+5, outdoor seats, 0.813821, 4
+5, wine, 0.588296, 6
+5, time, 0.562574, 6
+5, nice cool glass, 0.987572, 7
+5, sucker, 0.58326, 7
+5, YUM, 0.599318, 8
+5, cinnamon, 0.58759, 8
+5, decor, 0.574949, 9
+5, furniature, 0.55794, 9

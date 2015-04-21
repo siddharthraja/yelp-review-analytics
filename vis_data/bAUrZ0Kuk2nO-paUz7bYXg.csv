@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, triple OT thriller, 0.92634, 0
+1, non football events, 0.841623, 0
+1, Arizona Cardinals NFL, 0.85093, 1
+1, degrees dry heat, 0.833742, 1
+1, Commonwealth Stadium, 0.80097, 2
+1, SEC standards, 0.739144, 2
+1, SEC stadiums, 0.752209, 3
+1, tourism capital, 0.64722, 6
+1, beer, 0.446814, 6
+1, large bad pixels, 0.872468, 7
+1, LCD screen, 0.655718, 7
+1, UNLV football fans, 0.902673, 8
+1, newer state, 0.655671, 8
+2, school football stadium, 0.520405, 0
+2, high school stadium, 0.512282, 0
+2, stadiums food selection, 0.382014, 1
+2, kid friendly event, 0.37913, 1
+2, new stadium, 0.508902, 2
+2, size stadium, 0.477427, 2
+2, School esque stadium, 0.520108, 3
+2, killer stadium, 0.459666, 3
+2, stadium, 0.90536, 4
+2, high school, 0.551191, 4
+2, Sam Boyd Stadium, 0.820872, 5
+2, stadium staff, 0.491764, 6
+2, better stadium, 0.476465, 6
+2, modern stadium, 0.471851, 7
+2, newer stadium, 0.470415, 7
+2, concessions lines moves, 0.380333, 8
+2, Good facilities, 0.350101, 8
+3, UNLV football game, 0.844046, 0
+3, State vs UNLV, 0.754477, 0
+3, Sam Boyd Stadium, 0.993993, 1
+3, huge UNLV football, 0.762384, 1
+3, high school, 0.778345, 2
+3, actual stadium, 0.713525, 2
+3, gravel parking area, 0.723392, 3
+3, UNLV fan, 0.692641, 3
+3, parking, 0.757976, 4
+3, UNLV, 0.885807, 5
+3, Monster Jam, 0.695892, 6
+3, big stadium, 0.670721, 6
+3, nice stadium, 0.692046, 7
+3, Rugby tournament festivities, 0.654284, 7
+3, UNLV fans, 0.775092, 8
+3, upper seating sections, 0.648402, 8
+4, big arenas/stadiums charge, 0.892998, 0
+4, stadium seats, 0.87891, 0
+4, free shuttle buses, 0.894599, 1
+4, sure saps, 0.820925, 1
+4, Friday night game, 0.919639, 2
+4, big electronic screen, 0.910902, 2
+4, RV parking area, 0.891, 3
+4, similar traffic issues, 0.879369, 3
+4, monster jam, 0.96167, 4
+4, stadium, 0.970981, 5
+4, football stadium costs, 0.957506, 6
+4, best college football, 0.930632, 6
+4, hot dogs, 0.89983, 7
+4, song w/ ppl, 0.890592, 7
+4, ticket collection queue, 0.903776, 8
+4, favorite football player, 0.869804, 8
+4, fairly wide range, 0.896903, 9
+4, great stadium, 0.855441, 9
+5, mph monster trucks, 0.571458, 0
+5, Monster jam XV, 0.57067, 0
+5, madness, 0.20894, 1
+5, Las Vegas Baby, 0.500945, 2
+5, bottled water, 0.351667, 2
+5, crappy thing, 0.350486, 3
+5, LA Coliseum, 0.342094, 3
+5, Monster Jam World, 0.622964, 7
+5, world finals, 0.5835, 7
+5, Sam Boyd Stadium, 0.91228, 8
+5, UNLV/Sam Boyd Stadium, 0.658419, 8
+5, great facilities, 0.340462, 9

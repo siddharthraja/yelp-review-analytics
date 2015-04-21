@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, Saturday night, 0.583927, 0
+1, coffees, 0.294059, 0
+1, bad instant, 0.580714, 1
+1, bad job, 0.565934, 1
+1, good hookah smoke, 0.900897, 2
+1, good reviews, 0.568881, 2
+1, real turkish coffee, 0.799638, 3
+1, sludge, 0.298557, 3
+4, great experience, 0.566362, 0
+4, waitresses, 0.320958, 0
+4, anti-American cinema, 0.591821, 1
+4, Astoria Queens, 0.572589, 1
+4, waitress, 0.316812, 2
+4, iPhone, 0.28446, 2
+4, hookah joint, 0.699094, 3
+4, Steinway, 0.309654, 3
+4, politically neutral banghra, 0.853915, 6
+4, cordial staff, 0.569371, 6
+4, hookah bar, 0.965216, 7
+4, Fremont street, 0.559431, 7
+4, custom tobacco cocktail, 0.833779, 8
+4, Cool spot, 0.57684, 8
+4, wonderful lounge, 0.634938, 9
+5, Hookah lounge, 0.77803, 0
+5, hookah lounges, 0.701704, 0
+5, good bye, 0.47076, 1
+5, Ali doesnt act, 0.563066, 2
+5, business owner, 0.473817, 2
+5, residence Hookah bar, 0.738413, 3
+5, belly dancers, 0.482287, 3
+5, Ali, 0.563893, 5
+5, hookah, 0.958629, 6
+5, hookah bar, 0.785553, 6
+5, Hookah Cafe, 0.776335, 7
+5, Maharaja Hookah Cafe, 0.774179, 7
+5, little hookah bar, 0.746422, 8
+5, hookah places, 0.725281, 8
+5, best Hookah lounge/cafe, 0.772478, 9
+5, hookah taste, 0.684629, 9

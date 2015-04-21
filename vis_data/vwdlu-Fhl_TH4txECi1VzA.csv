@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, hard-core sushi experts, 0.927713, 0
+1, delicious sushi, 0.780584, 0
+1, total douche factory, 0.59941, 1
+1, bad fish, 0.433594, 1
+1, sushi restaurants, 0.754585, 2
+1, sushi chefs, 0.709208, 2
+1, self-respecting Japanese restaurant, 0.662105, 3
+1, busy evening, 0.434783, 3
+1, sushi, 0.992393, 4
+1, sushi items, 0.715263, 6
+1, sushi dinner, 0.706201, 6
+1, ridiculous prices, 0.447935, 7
+1, menu home, 0.418561, 7
+1, fresh sushi, 0.67884, 8
+1, fancy roll, 0.415004, 8
+1, perfect example, 0.442472, 9
+2, spicy tuna roll, 0.767589, 0
+2, california roll, 0.563617, 0
+2, thx, 0.464795, 1
+2, Bleh, 0.43245, 1
+2, ass cucumber salad, 0.906185, 2
+2, rice bowl, 0.582672, 2
+2, wait, 0.446759, 3
+2, price, 0.433802, 3
+2, cucumber salad, 0.912545, 4
+2, piece tuna sushi, 0.980203, 6
+2, pice shrimp sushi, 0.954818, 6
+2, piece salmon sushi, 0.943038, 7
+2, decent sushi, 0.926264, 7
+2, bento box lunch, 0.831513, 8
+2, special, 0.430251, 8
+3, Shark Reef Aquarium, 0.80661, 0
+3, scallop cut roll, 0.790553, 0
+3, explosive diarrhea, 0.606187, 1
+3, service, 0.544496, 2
+3, Saw J-pop, 0.675685, 3
+3, raw fishies, 0.645227, 3
+3, cut roll, 0.852565, 6
+3, yellowtail cut roll, 0.793818, 6
+3, Nice open feel, 0.824531, 7
+3, spicy sauce mayonnaise, 0.813453, 7
+3, better sushi options, 0.928488, 8
+3, cucumber salad, 0.850009, 8
+4, Don Julio, 0.949565, 0
+4, Don Julio Anejo, 0.920278, 0
+4, sushi bar, 0.643701, 2
+4, LV, 0.460078, 2
+4, Mandalay Bay, 0.971789, 3
+4, little more health, 0.655726, 3
+4, bit, 0.506672, 4
+4, overrated Vegas club, 0.947142, 6
+4, cranberry Goose, 0.671699, 6
+4, great vibe, 0.690472, 7
+4, free entertainment, 0.636793, 7
+4, great live entertainment, 0.866902, 8
+4, attentive service, 0.652215, 8

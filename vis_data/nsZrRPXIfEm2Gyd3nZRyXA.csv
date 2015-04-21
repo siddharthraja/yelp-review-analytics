@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, plaid short pants, 0.930382, 0
+1, wire rim glasses., 0.924865, 0
+1, Brillo Box, 0.956344, 1
+1, awful staff members, 0.953667, 1
+1, smell funk armpit, 0.99638, 2
+1, place, 0.869587, 2
+1, Bartender Dude, 0.843352, 3
+1, expensive drinks, 0.831207, 3
+1, bartenders, 0.695691, 6
+1, memory, 0.634786, 6
+1, new bouncer, 0.79645, 7
+1, good dancing, 0.783933, 7
+1, awesome food, 0.785205, 9
+1, better crowd, 0.779743, 9
+2, Brooklyn hipster bar, 0.651843, 0
+2, stone-cold sober accountant, 0.63121, 0
+2, overpriced menu, 0.493702, 1
+2, slow service, 0.473169, 1
+2, lowbrow hipsters, 0.507309, 2
+2, PBR thing, 0.505495, 2
+2, huge disco ball, 0.60294, 3
+2, place, 0.491679, 3
+2, bartenders, 0.381823, 4
+2, slightly correct communication, 0.66894, 6
+2, American Apparel models, 0.636926, 6
+2, dance parties, 0.666065, 7
+2, great beer selection, 0.914736, 8
+2, great local acts, 0.630708, 8
+3, hipster music venue, 0.81653, 0
+3, Pittsburgh arty elite, 0.81184, 0
+3, Lawrenceville sweatpants hookers, 0.785396, 1
+3, korean bbq sauce, 0.785214, 1
+3, Nice-looking mellow bar, 0.812061, 2
+3, hipster bar, 0.78503, 2
+3, cool dance parties, 0.812764, 3
+3, magic hat brewery, 0.796643, 3
+3, night, 0.846701, 4
+3, bar, 0.828305, 4
+3, place, 0.862662, 5
+3, dance parties, 0.841684, 5
+3, crazy dance parties, 0.811133, 6
+3, latest art piece, 0.794291, 6
+3, sunday night, 0.8134, 7
+3, DJ Dance Parties, 0.8129, 7
+3, beer selection, 0.909441, 8
+3, pretty decent experience, 0.829575, 8
+3, vast beer selection, 0.798105, 9
+4, great little bar, 0.727371, 0
+4, good brawling time, 0.719195, 0
+4, hipster bar, 0.712289, 1
+4, main bar area, 0.699209, 1
+4, dive bar, 0.759773, 2
+4, bar food, 0.69451, 3
+4, music, 0.720344, 4
+4, long time, 0.701676, 4
+4, bar, 0.936512, 5
+4, place, 0.912306, 5
+4, brillobox, 0.818872, 6
+4, dance parties, 0.771407, 6
+4, good beer selection, 0.753395, 7
+4, draft beer selection, 0.734258, 7
+4, beer selection, 0.928124, 8
+4, Great beer selection, 0.757633, 8
+4, great place, 0.780954, 9
+4, pretty cool place, 0.74069, 9
+5, Pittsburgh bar scene, 0.814635, 0
+5, upstairs dance floor, 0.811843, 0
+5, quiz night, 0.80533, 1
+5, Pub Quiz night, 0.787809, 1
+5, good live music., 0.821013, 2
+5, ditch attempt saloon, 0.810813, 3
+5, pretty good Dropped, 0.797677, 3
+5, Brillo Box, 0.934283, 4
+5, night, 0.824108, 4
+5, place, 0.918705, 5
+5, bar, 0.873782, 5
+5, music.  great place, 0.848082, 6
+5, place.  great place, 0.848025, 6
+5, dance floor, 0.901929, 7
+5, great place, 0.85047, 7
+5, beer selection, 0.905806, 8
+5, great staff, 0.817356, 8
+5, good beer selection, 0.815986, 9
+5, distinctly Pittsburgh interpretation, 0.793033, 9

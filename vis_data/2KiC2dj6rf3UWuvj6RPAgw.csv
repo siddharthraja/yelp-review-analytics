@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, beer menu, 0.710331, 0
+1, crappy cocktail, 0.698985, 0
+1, Tempest, 0.992865, 1
+1, food, 0.738752, 1
+1, entirely regrettable experience, 0.882537, 2
+1, giant wooden boat, 0.800479, 2
+1, Oysters Rockefeller, 0.687221, 3
+1, blue marlin, 0.68592, 3
+1, scallops, 0.756803, 4
+1, friend, 0.728729, 4
+1, restaurant, 0.807648, 5
+1, Madison, 0.729455, 5
+1, ambiance, 0.661027, 6
+1, brown sugar sauce, 0.844838, 7
+1, cloyingly sweet sauce, 0.840658, 7
+1, relish tray, 0.671714, 8
+1, nice touch, 0.661688, 8
+1, cute sense, 0.671578, 9
+1, proper wine, 0.664752, 9
+2, yellowfin tuna steak, 0.797879, 0
+2, ambivalent wait staff, 0.762894, 0
+2, terrible food poisoning, 0.749058, 1
+2, Tempest, 0.718827, 1
+2, bar area, 0.644711, 2
+2, Blue Marlin, 0.641084, 2
+2, time, 0.647149, 3
+2, food, 0.999587, 4
+2, dishes, 0.630152, 4
+2, bar, 0.765686, 5
+2, place, 0.688241, 5
+2, tuna steak, 0.933173, 6
+2, bloody mary, 0.628338, 6
+2, new dish, 0.777992, 7
+2, spacious seating area, 0.769522, 7
+2, ultra positive reviews, 0.751584, 8
+2, bar staff, 0.654038, 8
+2, good first experience, 0.65594, 9
+2, better service, 0.62851, 9
+3, hoagie bun w/lettuce, 0.646181, 0
+3, matchstick french fries, 0.637093, 0
+3, hip mixed couple, 0.611435, 1
+3, great bar scene, 0.683247, 2
+3, huge wooden boat, 0.627298, 2
+3, deep fried sea, 0.646759, 3
+3, Tuesday night, 0.635209, 3
+3, oysters, 0.709696, 4
+3, food, 0.667226, 4
+3, bar, 0.718438, 5
+3, lobster roll, 0.923619, 6
+3, dining room, 0.800668, 6
+3, smoke stack, 0.741538, 7
+3, shrimp cocktail, 0.714527, 7
+3, light wood bar, 0.640736, 8
+3, pretty cool people, 0.632159, 8
+3, good mood, 0.606756, 9
+4, New England area, 0.746243, 0
+4, good seafood restaurant, 0.736657, 0
+4, dining room, 0.755496, 2
+4, raw oysters, 0.864064, 3
+4, shrimp cocktail, 0.754833, 3
+4, Tempest, 0.832489, 4
+4, night, 0.699947, 4
+4, oysters, 0.981972, 5
+4, food, 0.830621, 5
+4, seafood, 0.795012, 6
+4, fresh oysters, 0.789569, 6
+4, scallops, 0.802117, 7
+4, great food, 0.739889, 7
+4, Great oysters, 0.77297, 8
+4, Amazing oysters, 0.768752, 8
+4, great little menu, 0.723585, 9
+4, innovative seafood restaurant, 0.717939, 9
+5, Tempest Oyster Bar, 0.749041, 0
+5, fresh oysters, 0.69241, 0
+5, huge oysters, 0.67363, 2
+5, west coast oysters, 0.70274, 3
+5, fried oysters, 0.650333, 3
+5, seafood, 0.659557, 4
+5, oysters, 0.917478, 5
+5, raw oysters, 0.7127, 5
+5, beautifully cooked oysters, 0.717697, 6
+5, HUGE oyster fan, 0.643821, 6
+5, Coast Oysters- Great, 0.737581, 7
+5, key lime pie, 0.734292, 7
+5, terrific oysters, 0.671032, 8
+5, great cocktail shrimp, 0.641937, 8
+5, delicious delicious food, 0.668049, 9
+5, delicious beer sauce, 0.651593, 9

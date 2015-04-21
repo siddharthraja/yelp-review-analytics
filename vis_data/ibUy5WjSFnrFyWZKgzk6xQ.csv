@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+1, restaurant area, 0.612555, 0
+1, replacement order, 0.548932, 0
+1, crappy music,uncaring waitress, 0.903925, 1
+1, UFC viewing party, 0.886499, 1
+1, gripe, 0.297798, 2
+1, doubt, 0.279045, 2
+1, ........., 0.854796, 3
+1, steak tacos, 0.666913, 3
+1, server, 0.355995, 4
+1, Partners order eggs, 0.89042, 6
+1, booth, 0.289115, 6
+1, beverages, 0.285545, 7
+1, Prior experience, 0.664645, 8
+1, considering, 0.29343, 8
+2, rock chicken sandwich, 0.596319, 0
+2, real positive thing, 0.576896, 0
+2, mediocre service, 0.495454, 1
+2, bad service, 0.49485, 1
+2, big deal, 0.618915, 2
+2, additional price adjustment, 0.577224, 2
+2, hawaiian burger, 0.922593, 3
+2, restaurant area, 0.518551, 3
+2, Mark, 0.48404, 4
+2, fries, 0.47331, 4
+2, chicken fried steak, 0.616843, 6
+2, unusually long time, 0.598552, 6
+2, Great waitress, 0.517222, 7
+2, crispy sides, 0.497677, 7
+2, cool place, 0.517421, 8
+2, wing split, 0.493584, 8
+3, Lemon Drop..Yeah, 0.914991, 2
+3, watery, 0.664702, 2
+3, kinda, 0.707238, 6
+3, Yup, 0.705984, 6
+3, burger, 0.822716, 7
+3, Went, 0.637246, 7
+4, Typical bar place, 0.844875, 0
+4, solid bar food, 0.821391, 0
+4, flat screens, 0.703818, 1
+4, bar food, 0.982212, 2
+4, cooks working line, 0.791037, 2
+4, normal bar food, 0.862281, 3
+4, spicy fries, 0.797364, 3
+4, place, 0.851746, 5
+4, ........., 0.803531, 6
+4, Red Rock chicken, 0.778675, 6
+4, Grabbed ice teas, 0.80305, 7
+4, potato salad, 0.795138, 7
+4, good crispy char, 0.840311, 8
+4, quality turkey slices, 0.779351, 8
+4, 49'er fan, 0.720546, 9
+5, locals, 0.288193, 0
+5, atmosphere, 0.276505, 0
+5, great deal, 0.568259, 6
+5, fact, 0.268647, 6
+5, chicken fried steak, 0.988554, 7
+5, rest, 0.277375, 7
+5, classic grilled burgers, 0.803797, 8
+5, beer pitchers, 0.528896, 8
+5, reasonably priced menu, 0.862521, 9
+5, wait staff, 0.534422, 9

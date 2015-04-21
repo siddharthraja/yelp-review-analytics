@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, super awkward tree, 0.972588, 0
+1, church mice, 0.781124, 0
+1, Bad wine selection, 0.958321, 1
+1, duck wings, 0.943729, 1
+1, smaller portion, 0.761529, 2
+1, plate, 0.655882, 2
+1, normal yellow rice, 0.896503, 3
+1, order several times, 0.795118, 3
+1, restaurant, 0.731618, 4
+1, grease, 0.667734, 5
+1, crispy potato wedges, 0.93877, 6
+1, different colored velour, 0.91064, 6
+1, lamb meatballs, 0.790348, 7
+1, honey figs, 0.786168, 7
+1, nice texture, 0.757739, 8
+2, Romaine wedge salad, 0.806625, 0
+2, plz chef change, 0.768535, 0
+2, Cali wines, 0.682838, 1
+2, naan bread, 0.670114, 1
+2, little California heavy, 0.836266, 2
+2, slightly obscure cabernet, 0.809903, 2
+2, Wooden Vine, 0.845043, 3
+2, recent weekend evening, 0.827529, 3
+2, pork belly, 0.938066, 5
+2, decently constructed wine, 0.841651, 6
+2, Wednesday night, 0.643532, 6
+2, pork belly appetizer, 0.809416, 7
+2, Center City banker-types, 0.805145, 7
+3, better wine bars, 0.517675, 0
+3, plastic food storage, 0.382379, 0
+3, menu by-the-glass, 0.323639, 2
+3, customer service, 0.304598, 2
+3, enter Wooden Vine, 0.413832, 3
+3, uptown weekend madness, 0.375758, 3
+3, cheese plate, 0.812111, 4
+3, cheese plates, 0.366272, 4
+3, Wooden Vine, 0.929986, 5
+3, menu, 0.391675, 5
+3, wine, 0.685497, 6
+3, beautifully gnarled wood, 0.372556, 6
+3, grilled romaine Caesar, 0.542689, 7
+3, pork belly, 0.448456, 7
+3, wine selection, 0.567238, 8
+3, Good cheese, 0.39742, 8
+3, pretty nice selection, 0.386716, 9
+3, sweet boxed lunch, 0.370154, 9
+4, unique little spot, 0.518559, 0
+4, small plates menu, 0.517509, 0
+4, usual wine offerings, 0.53691, 2
+4, wine choices, 0.518566, 2
+4, wine, 0.948791, 5
+4, place, 0.773321, 5
+4, Wooden Vine, 0.682535, 6
+4, simple wine bar, 0.566323, 6
+4, wine bar, 0.676275, 7
+4, wine selection, 0.644368, 7
+4, uptown charlotte, 0.640742, 8
+4, wine list, 0.600977, 8
+4, great place, 0.616638, 9
+4, nice wine selection, 0.590464, 9
+5, marrow roasted ribeye, 0.53263, 0
+5, honey orange mousse, 0.530953, 0
+5, past Saturday night, 0.536594, 1
+5, largest bar crawl, 0.552618, 2
+5, good chocolate care, 0.544093, 2
+5, ordinary wine bar, 0.574107, 3
+5, custom app plates, 0.527169, 3
+5, wooden vine, 0.937607, 4
+5, venison short ribs, 0.536563, 4
+5, food, 0.608049, 5
+5, Saturday night, 0.604957, 5
+5, wine, 0.755963, 6
+5, place, 0.618114, 6
+5, Best Wine List, 0.577398, 7
+5, wooden scuplted tables, 0.54245, 7
+5, wine list, 0.644099, 8
+5, Great wine list, 0.622356, 8
+5, great place, 0.571776, 9
+5, wine flight, 0.517233, 9

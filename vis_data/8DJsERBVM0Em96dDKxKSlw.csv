@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+2, predictable Irish theme, 0.915653, 0
+2, student haunt, 0.588494, 0
+2, bit boring, 0.647691, 1
+2, Bouncer, 0.341504, 1
+2, international student-heavy crowd, 0.995943, 2
+2, monday night, 0.636233, 2
+2, good natured atmosphere, 0.940091, 8
+3, alright music venue, 0.666916, 0
+3, drunken haze, 0.571341, 0
+3, cheap little bar, 0.74051, 1
+3, poor friend, 0.521522, 1
+3, cheap drinks, 0.757229, 2
+3, drunken punter, 0.548791, 2
+3, Saturday night venture, 0.670364, 3
+3, dime, 0.344709, 3
+3, Saturday night, 0.853883, 6
+3, quirky little barrels, 0.73065, 6
+3, live music, 0.914572, 7
+3, fun live music, 0.691423, 7
+3, reasonable rates, 0.504511, 8
+3, friendly staff, 0.491101, 8
+3, friendly bar staff, 0.702177, 9
+3, good atmosphere, 0.516138, 9
+4, authentic Irish Pub/Bar, 0.754754, 0
+4, Celtic rock band, 0.741782, 0
+4, Irish themed bar, 0.73744, 1
+4, Drop Kick Murphy, 0.710365, 1
+4, Dropkick Murphy, 0.918204, 2
+4, Irish public house, 0.758631, 2
+4, furious dance, 0.620848, 3
+4, dance floor, 0.847532, 6
+4, best Irish pubs, 0.731882, 6
+4, good craic, 0.650709, 7
+4, awesome place, 0.648996, 7
+4, large dance floor, 0.719679, 8
+4, cool underground feel, 0.691496, 8
+4, Irish patrons, 0.642874, 9
+5, Bloody Mary shot, 0.773352, 0
+5, TVs, 0.213231, 0
+5, NFL playoff games, 0.921367, 2
+5, bartenders, 0.21379, 2
+5, late night, 0.536689, 3
+5, bar, 0.522918, 4
+5, booths, 0.207117, 6
+5, guys Brian, 0.572289, 7
+5, beaten path, 0.565598, 7
+5, cool guys, 0.636748, 8
+5, Cian, 0.24657, 8

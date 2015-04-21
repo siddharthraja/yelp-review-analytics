@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, single visit, 0.774923, 0
+1, love affair, 0.743751, 0
+1, false alarm, 0.76063, 1
+1, damaging my hearing, 0.755973, 1
+1, basic mixed drinks, 0.91914, 2
+1, meager sprigs, 0.785678, 2
+1, Scale, 0.386654, 3
+1, cover, 0.370257, 3
+1, place, 0.379709, 6
+1, outdoor patio area, 0.912344, 7
+1, ambiance, 0.411212, 7
+1, drink specials, 0.703903, 8
+1, Friday night, 0.684413, 8
+1, Captain&Coke, 0.373374, 9
+2, Owls Nest, 0.895302, 0
+2, perfect canvas, 0.889584, 0
+2, heels, 0.573432, 1
+2, buzz, 0.565077, 1
+2, crappy bar, 0.899728, 2
+2, OKAY, 0.588394, 2
+2, big club, 0.849574, 3
+2, pregnant lady, 0.81185, 3
+2, beefy chicks, 0.915293, 6
+2, brass poles, 0.874463, 6
+2, super dope, 0.904116, 7
+2, good music, 0.846454, 7
+2, Thanks, 0.585955, 8
+2, rooftop lounge, 0.85636, 9
+2, deserted city, 0.854998, 9
+3, pretentious scene, 0.771377, 0
+3, redeeming qualities, 0.767866, 0
+3, high end bar, 0.873101, 1
+3, ........., 0.81994, 1
+3, red bull vodka, 0.862043, 2
+3, Coors Light, 0.750101, 2
+3, bar, 0.919073, 4
+3, place, 0.790668, 4
+3, leather chaise lounges, 0.90568, 6
+3, IKEA furniture, 0.773077, 6
+3, outdoor patio, 0.786474, 7
+3, best place, 0.775954, 7
+3, downtown Tempe, 0.920074, 8
+3, stores Grand Opening, 0.880919, 8
+3, big patio area, 0.891525, 9
+3, warm Arizona night, 0.875403, 9
+4, excessive black lights, 0.7679, 0
+4, VIP tent area, 0.751539, 0
+4, Bang basement bar, 0.810222, 1
+4, hotel room floor, 0.761116, 1
+4, cover charge, 0.828789, 2
+4, sad old fuck, 0.780296, 2
+4, rooftop college bar, 0.839811, 3
+4, college bar cake, 0.817762, 3
+4, night, 0.722353, 4
+4, place, 0.91761, 5
+4, college bar, 0.850445, 5
+4, bar, 0.912378, 6
+4, drinks, 0.841975, 6
+4, dance floor, 0.852755, 7
+4, good drinks, 0.78616, 7
+4, great place, 0.737029, 8
+4, rooftop patio, 0.729797, 8
+4, great outdoor patio, 0.800083, 9
+4, white comfy seating, 0.769416, 9

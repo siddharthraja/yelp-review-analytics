@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, terrible service, 0.736255, 0
+1, terrible food, 0.735502, 0
+1, service, 0.796268, 1
+1, worst service, 0.631017, 1
+1, food order, 0.681812, 2
+1, wings, 0.651007, 2
+1, food, 0.956825, 3
+1, little dressing cup, 0.689979, 3
+1, original server, 0.743762, 4
+1, experience, 0.599495, 4
+1, different server, 0.669587, 5
+1, time, 0.654226, 5
+1, drink order, 0.806031, 6
+1, lunch special, 0.620827, 6
+1, manager enough time, 0.602349, 7
+1, friendly server, 0.600512, 9
+2, apple walnut salad, 0.855391, 0
+2, Buffalo fish sliders, 0.646317, 0
+2, bad night, 0.438803, 1
+2, Weird combination, 0.424588, 1
+2, Native New Yorker, 0.928642, 2
+2, New Yorker restaurants, 0.576076, 2
+2, flat bread, 0.562348, 3
+2, final straw, 0.410475, 3
+2, Bronx Calzone, 0.605364, 6
+2, wait staff, 0.460486, 6
+2, Buffalo Wild Wings, 0.576839, 7
+2, pizza, 0.237004, 7
+2, pretzel bun, 0.719316, 8
+3, Cold fries, 0.916475, 0
+3, bar area, 0.897577, 0
+3, best food, 0.941234, 2
+3, date night, 0.869755, 2
+3, sports fans, 0.863657, 3
+3, good view, 0.890014, 7
+3, game, 0.25537, 7
+3, Servers, 0.251005, 8
+3, great deal, 0.818954, 9
+3, wings, 0.28918, 9
+4, New York attitude, 0.590108, 0
+4, friend John V., 0.555314, 0
+4, average experience, 0.415629, 1
+4, chains, 0.233308, 1
+4, large lettuce leafs, 0.560711, 2
+4, chunks, 0.245652, 2
+4, Typical sports bar, 0.838756, 3
+4, East Coat attitude, 0.573656, 3
+4, sports bar atmosphere, 0.529992, 4
+4, restaurant, 0.291139, 4
+4, Chicken Wrap, 0.406796, 6
+4, huge place, 0.394071, 6
+4, Native New Yorker, 0.970672, 7
+4, New Yorker location, 0.669565, 7
+4, Yummy WINGS.. waitress, 0.584906, 8
+4, luv buffalo chips, 0.531851, 8
+4, meal, 0.232836, 9
+5, Long Wongs, 0.576901, 0
+5, Hooters, 0.370855, 0
+5, bad service, 0.598431, 2
+5, horrible experience, 0.577619, 2
+5, stars, 0.351375, 3
+5, situation, 0.351212, 3
+5, place, 0.464224, 5
+5, great wings, 0.766983, 6
+5, roast beef, 0.6424, 6
+5, wings, 0.855353, 7
+5, steak sandwich, 0.650412, 7
+5, parmesan wings, 0.794542, 8
+5, Derrick Garza, 0.645949, 8
+5, Great chicken salads, 0.951829, 9
+5, chicken sandwiches. justin, 0.923658, 9

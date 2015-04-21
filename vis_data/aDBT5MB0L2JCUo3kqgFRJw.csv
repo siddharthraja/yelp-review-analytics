@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+3, long untidy corrider, 0.774794, 0
+3, world beer joint, 0.771153, 0
+3, local blond woman, 0.763189, 1
+3, French fries, 0.692611, 1
+3, bar stool, 0.666108, 2
+3, baseball package, 0.64172, 2
+3, Green Mary Lou, 0.758763, 3
+3, cold fish, 0.664685, 3
+3, food, 0.856925, 4
+3, Mary Lou, 0.907282, 5
+3, bartender, 0.800951, 6
+3, super small place, 0.778039, 6
+3, frequent out-of-town customer, 0.812688, 7
+3, main places people, 0.765963, 7
+3, great  little spot, 0.807234, 8
+3, famous phoenix baker, 0.733342, 8
+3, reasonably tasting food, 0.809704, 9
+3, good Bloody Mary, 0.748312, 9
+4, decent bar food, 0.56874, 0
+4, Great little lunch, 0.558336, 0
+4, bar stools, 0.534099, 2
+4, small bar, 0.530317, 2
+4, Old Town Scottsdale, 0.847853, 3
+4, low key place, 0.553171, 3
+4, bar, 0.659847, 4
+4, old town, 0.913346, 6
+4, place, 0.772831, 6
+4, Green Mary Lou, 0.786698, 7
+4, potato salad, 0.639165, 7
+4, great food, 0.73426, 8
+4, great place, 0.652315, 8
+4, Great little place, 0.628472, 9
+4, wi great food, 0.595333, 9
+5, old time bar, 0.663821, 0
+5, Mary Lou appetizer, 0.644988, 0
+5, Affliction body spray, 0.636432, 2
+5, Old-town Scottsdale, 0.633033, 2
+5, Karsen, 0.714235, 3
+5, spring training, 0.642446, 4
+5, great things, 0.628601, 4
+5, food, 0.742989, 5
+5, place, 0.756317, 6
+5, Attention Scottsdale DBs, 0.698605, 6
+5, Old Town Scottsdale, 0.935337, 7
+5, Green Mary Lou, 0.76573, 7
+5, good bar food, 0.723976, 8
+5, great place, 0.711594, 8
+5, surprisingly good salads, 0.692693, 9
+5, absolutely delicious lunch, 0.658916, 9

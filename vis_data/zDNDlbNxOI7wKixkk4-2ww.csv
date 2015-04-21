@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, pool league, 0.93387, 0
+1, trailer park, 0.926985, 0
+1, place, 0.82362, 1
+1, bartenders, 0.742148, 7
+1, owners, 0.608215, 7
+3, Nice bar, 0.847357, 2
+3, wifey, 0.276586, 2
+3, ice cold beer, 0.981687, 7
+3, pool tables, 0.682096, 7
+4, husband, 0.491409, 0
+4, Sherry, 0.489847, 0
+4, dirt, 0.48021, 1
+4, tables, 0.471153, 1
+4, cents, 0.499792, 2
+4, Coke, 0.492097, 2
+4, time, 0.523154, 3
+4, shame, 0.50119, 3
+4, previous review, 0.945421, 4
+4, female bartender, 0.772926, 4
+4, business, 0.473957, 6
+4, leagues, 0.46989, 6
+4, great memories, 0.732239, 8
+4, place, 0.547373, 8
+4, out-of-towners, 0.512969, 9
+4, Thanks, 0.493155, 9
+5, Excellant house cues, 0.621477, 0
+5, ICE COLD BEER, 0.620647, 0
+5, little dimmer, 0.501546, 1
+5, drunken pool player, 0.626587, 2
+5, Low key music, 0.618171, 2
+5, cue stick, 0.504478, 3
+5, bar table, 0.493559, 3
+5, Club Charleston, 0.993024, 6
+5, pool hall, 0.660359, 6
+5, great times guys, 0.619747, 7
+5, Great equipment, 0.530312, 7
+5, great place, 0.87925, 8
+5, friendly pool hall, 0.649914, 8
+5, great feel, 0.516231, 9
+5, cool place, 0.507344, 9

@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+3, couple drinks, 0.975262, 0
+3, coworkers, 0.374014, 0
+3, food, 0.232946, 2
+3, great hang, 0.747525, 7
+3, taps, 0.315299, 7
+3, ample assortment, 0.978785, 8
+3, decent selection, 0.903569, 8
+3, great job, 0.6757, 9
+3, staff, 0.217047, 9
+4, Blah blah blah, 0.989077, 0
+4, local Noda area, 0.92733, 0
+4, pages, 0.341777, 1
+4, review, 0.341747, 1
+4, little space, 0.488303, 2
+4, crowd, 0.342492, 2
+4, total available space, 0.713208, 3
+4, high top tables, 0.503137, 3
+4, hole-in-the-wall type bar, 0.76657, 6
+4, pretty small place, 0.762718, 7
+4, good food, 0.708894, 7
+4, pretty solid hangout, 0.833495, 8
+4, pretty standard prices, 0.775079, 8
+4, Nice cozy bar, 0.712831, 9
+4, multiple large screens, 0.675887, 9
+5, rapper Roscoe Dash, 0.897058, 0
+5, fellow NoDa, 0.859391, 0
+5, bar stool, 0.777799, 1
+5, music variety, 0.758423, 1
+5, NoDa, 0.903347, 2
+5, Midori Sour, 0.758492, 2
+5, huge bangles/buckeye fan, 0.861899, 3
+5, bar goer, 0.771286, 3
+5, good food, 0.900554, 5
+5, bar, 0.84528, 5
+5, Good Freakin Night, 0.908927, 6
+5, great future date, 0.873741, 6
+5, great vibes,sweet beats, 0.883525, 7
+5, date night, 0.870855, 7
+5, friendliest nicest people, 0.929239, 8
+5, gorgeous rye bread, 0.90086, 8
+5, Mexican Mondays, 0.742158, 9

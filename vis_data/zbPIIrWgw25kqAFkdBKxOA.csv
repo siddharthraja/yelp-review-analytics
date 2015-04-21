@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+1, hot dog buns, 0.739468, 0
+1, short hot dogs, 0.726905, 0
+1, bad food, 0.493077, 1
+1, service, 0.385353, 1
+1, bread, 0.468546, 2
+1, check, 0.350704, 2
+1, night, 0.407471, 3
+1, results, 0.35137, 3
+1, fries, 0.451536, 5
+1, yep, 0.373929, 6
+1, bit, 0.350174, 7
+1, quality, 0.348732, 7
+1, sourdough burger, 0.900641, 8
+1, pleasant memories, 0.53981, 8
+1, Grill aka Sluggo, 0.828471, 9
+1, Sports Grill, 0.791992, 9
+4, announcer Harry Caray, 0.726639, 0
+4, pitcher/current Cubs announcer, 0.713189, 0
+4, recent negative review, 0.614608, 1
+4, fabulous grilled onions, 0.673936, 2
+4, usual bar food, 0.627374, 2
+4, Mesa sports bar, 0.67596, 3
+4, iced tea glasses, 0.582818, 3
+4, Sourdough burger, 0.930259, 6
+4, Sports memorabilia, 0.458779, 6
+4, best sourdough bread, 0.779655, 7
+4, great local sports, 0.59775, 7
+4, burger extra juicy, 0.745555, 8
+4, awesome burger, 0.597376, 8
+5, serendipitous cuisine experience, 0.877871, 0
+5, couple onion rings, 0.840799, 0
+5, Bleu cheese, 0.74386, 1
+5, far-fetched Simpson, 0.718027, 1
+5, bouncers, 0.543668, 2
+5, blue cheese crumbles, 0.974776, 3
+5, personal watering hole, 0.90604, 3
+5, place, 0.667498, 5
+5, great little spot, 0.857084, 6
+5, free shuttle, 0.721954, 6
+5, center,and Mesa Marriott, 0.924313, 7
+5, Steak salad, 0.747903, 7
+5, Cubs spring training, 0.949197, 8
+5, natured Cubs fans, 0.930332, 8
+5, Pretty chill, 0.711225, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, noodle soup dishes, 0.806119, 0
+1, greasiest Chinese take-out, 0.770022, 0
+1, GF soy sauce, 0.932009, 1
+1, overly fishy taste, 0.777563, 1
+1, GF noodle option, 0.969892, 2
+1, good reviews, 0.577754, 2
+1, creamy chicken, 0.652233, 3
+1, sliced lunchmeat, 0.642944, 3
+1, YI, 0.504984, 6
+1, GF guests, 0.710796, 7
+1, owner, 0.386425, 7
+1, easy option, 0.558186, 8
+1, Rice noodles, 0.549491, 8
+1, better option, 0.555879, 9
+1, Soul gastrolounge, 0.539595, 9
+2, fried octopus ball, 0.734736, 0
+2, fried squid tenticles, 0.733496, 0
+2, flavor, 0.473133, 1
+2, waitress, 0.436531, 1
+2, Tuna Salad, 0.586692, 2
+2, wrong food, 0.563349, 2
+2, staff head chef, 0.758775, 3
+2, small bites, 0.720344, 3
+2, Family style dishes, 0.75871, 6
+2, waiter, 0.60556, 6
+2, ramen, 0.928635, 7
+2, new ramen, 0.719241, 7
+2, great intimate place, 0.728245, 8
+2, informative rundown, 0.566594, 8
+2, to-go soup containers, 0.695358, 9
+2, delicious broth, 0.568727, 9
+3, miso ramen, 0.738766, 0
+3, shio ramen, 0.738678, 0
+3, ramen house, 0.744459, 2
+3, Yama Asian Fusion, 0.569716, 2
+3, real Japanese ramen, 0.745985, 3
+3, ramen bowl, 0.717302, 3
+3, ramen, 0.920936, 4
+3, Yama Izakaya, 0.623747, 5
+3, broth, 0.554601, 5
+3, good ramen, 0.75639, 6
+3, ramen offerings, 0.67918, 6
+3, ramen soup, 0.686061, 7
+3, great hot sake, 0.537442, 7
+3, Yama Asian Fusian, 0.5683, 8
+3, yummy broth, 0.550354, 8
+3, fun new place, 0.549074, 9
+4, actual grand opening, 0.471166, 0
+4, Hana Awaka Sake, 0.436249, 0
+4, hi-tech Japanese toilet, 0.441331, 1
+4, new go-to spot, 0.431673, 1
+4, ramen bar, 0.687097, 2
+4, ramen snob, 0.643414, 3
+4, ebi shumai, 0.509852, 3
+4, pork belly, 0.526358, 4
+4, small plates, 0.510866, 5
+4, ramen, 0.917277, 6
+4, pork ramen, 0.694804, 6
+4, chicken broth ramen, 0.806828, 7
+4, tonkotsu ramen, 0.715238, 7
+4, good ramen, 0.718856, 8
+4, pork broth, 0.621956, 8
+4, al-dente ramen, 0.694152, 9
+4, Ramen soup, 0.626966, 9
+5, pork ramen, 0.641317, 0
+5, chicken ramen, 0.616815, 0
+5, Japanese tapas bar, 0.489928, 1
+5, Japanese tapas, 0.499962, 2
+5, ramen soup broth, 0.678379, 3
+5, Ramen house, 0.587604, 3
+5, Japanese food, 0.627941, 4
+5, ramen, 0.922743, 5
+5, Yama Izakaya, 0.572147, 5
+5, Home-made Ramen soups, 0.657821, 6
+5, tasty Ramen, 0.617505, 6
+5, sake list, 0.650219, 7
+5, place, 0.575361, 7
+5, miso ramen, 0.708362, 8
+5, Plaza Midwood, 0.58799, 8
+5, real Japanese food, 0.503199, 9
+5, real Japanese experience, 0.482306, 9

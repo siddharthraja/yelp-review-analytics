@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, tainted food, 0.947088, 0
+1, nausea, 0.593592, 0
+1, later last night, 0.953303, 1
+1, quesadilla, 0.619464, 1
+1, food preparation, 0.860411, 6
+1, Thanks, 0.574661, 6
+1, drinks, 0.588002, 7
+1, dinner, 0.575039, 7
+2, Badger Burger, 0.949798, 0
+2, decent lunch bar, 0.865721, 0
+2, Mediocre fish fry, 0.867808, 1
+2, plastic half pitchers, 0.788901, 1
+2, halfway decent beer, 0.791032, 2
+2, college sports bar, 0.787814, 2
+2, garden vegetable soup, 0.866532, 3
+2, Lake Perch, 0.862813, 3
+2, spectacular culinary offering, 0.779213, 6
+2, blue cheese, 0.649959, 6
+2, Quick review, 0.685875, 7
+2, Cajun seasoning, 0.657943, 7
+2, drink orders, 0.667713, 8
+2, waitress, 0.539615, 8
+3, service, 0.467178, 2
+3, Moon Man, 0.80108, 6
+3, tap, 0.530879, 6
+3, NHL Network, 0.820768, 7
+3, satellite package, 0.757203, 7
+3, definite rarity, 0.971795, 8
+3, Madison, 0.503259, 8
+4, prices, 0.379705, 0
+4, potatoe chips., 0.819893, 2
+4, tuna melt, 0.808798, 2
+4, place, 0.534181, 4
+4, Badger games, 0.802825, 6
+4, Packer, 0.420103, 6
+4, atmosphere, 0.396501, 7
+4, person, 0.384841, 7
+4, Nice drink selection, 0.985515, 8
+4, music videos, 0.788951, 8
+5, football, 0.477447, 0
+5, mix, 0.466164, 0
+5, massive outside beer, 0.70973, 2
+5, general madness, 0.704302, 2
+5, ranch chicken wrap, 0.90793, 6
+5, Fantastic atmosphere, 0.7747, 6
+5, lunch food, 0.669828, 7
+5, bar, 0.43985, 7

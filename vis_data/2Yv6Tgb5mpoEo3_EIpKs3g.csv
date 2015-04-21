@@ -1,0 +1,70 @@
+rating, keyword, relevance, bucket
+1, food order, 0.635697, 0
+1, cities, 0.396642, 0
+1, Station Square chain, 0.970549, 2
+1, skip, 0.42098, 2
+1, cold food, 0.654385, 3
+1, appetizers, 0.444082, 3
+1, Houlihan, 0.723799, 6
+1, place settings, 0.699573, 7
+1, hostess, 0.440083, 7
+1, drink order, 0.748487, 8
+2, vastly reduced menu, 0.728701, 0
+2, average grocery store, 0.682141, 0
+2, Terrible customer service, 0.686398, 1
+2, food matures, 0.575944, 1
+2, casual dining spots, 0.669576, 2
+2, entire liter, 0.591873, 2
+2, odd gray color, 0.728517, 3
+2, fast food restaurants, 0.711152, 3
+2, Houlihan, 0.920316, 5
+2, cheese, 0.495888, 5
+2, Big Fancy Spaghetti, 0.705378, 6
+2, Long Island Iced, 0.692815, 6
+2, pot roast, 0.770927, 7
+2, better training, 0.558932, 7
+2, reliable place, 0.564403, 8
+3, Truck Stop Fries, 0.750188, 0
+3, chicken alfredo fettuccine, 0.684029, 0
+3, Long Island Iced, 0.663916, 1
+3, food grater, 0.611547, 1
+3, duck meat department, 0.649252, 2
+3, chipotle flavor, 0.625303, 2
+3, regular fries, 0.689804, 3
+3, X-Rated Flirtini, 0.60184, 3
+3, Houlihan, 0.62742, 4
+3, Station Square, 0.969489, 5
+3, food, 0.816237, 5
+3, brentwood chicken sandwich, 0.847661, 6
+3, fish tacos, 0.77985, 6
+3, free fries, 0.820434, 7
+3, Chipotle Cheddar fries, 0.781499, 7
+3, Truckstop Fries, 0.698989, 8
+3, wholesale food supplier, 0.697761, 8
+3, Excellent service, 0.613367, 9
+4, fried onion straws, 0.754643, 0
+4, fried food, 0.717531, 0
+4, half price apps, 0.73838, 1
+4, San Francisco, 0.698083, 1
+4, chain restaurant, 0.765869, 2
+4, chain restaurant person, 0.757628, 2
+4, good French Onion, 0.797616, 3
+4, chain American restaurant, 0.796913, 3
+4, wait staff, 0.77555, 4
+4, goat cheese, 0.76362, 4
+4, Houlihan, 0.76591, 5
+4, Station Square, 0.933803, 6
+4, ahi tuna salad, 0.796823, 6
+4, white bean salad, 0.807719, 7
+4, good customer service, 0.805813, 7
+4, good upper-mid range, 0.788589, 8
+4, food, 0.764634, 8
+4, excellent lunch menu, 0.775905, 9
+4, good cocktail menu, 0.770483, 9
+5, great service, 0.622865, 0
+5, bit, 0.420736, 0
+5, chicken breast meal, 0.889163, 6
+5, great energy, 0.625937, 6
+5, iced tea, 0.717603, 7
+5, appetizers, 0.439103, 7
+5, Grilled Salmon salad, 0.99659, 8

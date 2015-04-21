@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, class dive bar, 0.905166, 0
+1, horrible dive bar, 0.894263, 0
+1, dive gross bar, 0.878733, 1
+1, drunk Humen interactions, 0.841547, 1
+1, Crappy DJ running, 0.9031, 2
+1, Over-priced drinks, 0.834579, 2
+1, time Terrible service, 0.879577, 3
+1, bar food, 0.802859, 3
+1, place, 0.774617, 4
+1, appetizer, 0.672007, 4
+1, San Tan, 0.893186, 6
+1, San Tan Flats, 0.879795, 6
+1, better places, 0.760724, 7
+1, better choice, 0.753316, 7
+1, satisfactory rating, 0.739964, 8
+1, health dept, 0.729715, 8
+2, fish fry, 0.729914, 0
+2, crappy service, 0.704095, 0
+2, cheese curds, 0.989947, 1
+2, horrible drinks, 0.720336, 1
+2, San Tan Flat, 0.876388, 2
+2, alcoholic beverages, 0.670606, 2
+2, drinks, 0.933757, 3
+2, football game, 0.687153, 3
+2, time, 0.592246, 5
+2, sampler platter, 0.765025, 6
+2, FRIDAY night, 0.676945, 6
+2, huge list, 0.677592, 7
+2, ok place, 0.669703, 7
+2, toddlers, 0.455561, 8
+3, Nice sports bar, 0.98942, 0
+3, hand milk stout, 0.901108, 0
+3, Need, 0.451822, 2
+3, employees, 0.44894, 2
+3, slow service, 0.734199, 3
+3, Agave wheat, 0.727499, 3
+3, staff, 0.497014, 4
+3, honey bourbon bacon, 0.913821, 6
+3, Good food, 0.718345, 6
+3, native new Yorker, 0.934772, 7
+3, plenty, 0.531229, 7
+3, turkey Ellie sandwich, 0.940442, 8
+3, Great football fans, 0.885435, 8
+3, nice dining place, 0.964728, 9
+3, sauces, 0.457038, 9
+4, decent service, 0.786479, 0
+4, cheese curds, 0.744716, 0
+4, nasty burgers, 0.733556, 1
+4, bun soggy, 0.728155, 1
+4, decent bar food, 0.982595, 2
+4, times, 0.592767, 2
+4, waitress, 0.551552, 3
+4, hurry, 0.550779, 3
+4, greasy mess, 0.720502, 4
+4, sign, 0.563936, 4
+4, SAN TAN VALLEY, 0.908813, 6
+4, high quality meat, 0.842148, 6
+4, spicy wing sauce, 0.906033, 7
+4, drinks, 0.586161, 7
+4, nice rum-filled daquari, 0.912131, 8
+4, fresh green beans, 0.89695, 8
+4, seasoned fries, 0.748526, 9
+4, best thing, 0.725107, 9
+5, garlic parmesan wings, 0.900931, 0
+5, Tan Valley/ Queen, 0.84148, 0
+5, weekend night, 0.642814, 1
+5, evening, 0.441545, 1
+5, Jeremy, 0.441427, 2
+5, Chef, 0.438258, 2
+5, San Taners, 0.625711, 3
+5, annual Kentucky, 0.678539, 6
+5, Saturday, 0.445102, 6
+5, gym burger, 0.774243, 7
+5, BLACKHAWKS FANS, 0.649134, 7
+5, best breakfast burritos, 0.968081, 8
+5, Tuesday night Tacos, 0.881088, 8
+5, Best wings, 0.688054, 9
+5, awesome place, 0.668564, 9

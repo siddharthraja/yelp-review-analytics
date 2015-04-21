@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, fish tacos, 0.912742, 0
+1, Uncle Sam, 0.884125, 0
+1, beer, 0.752451, 1
+1, coworkers, 0.520726, 1
+1, bar tender, 0.806624, 2
+1, Bartender, 0.546719, 2
+1, 15 min, 0.87722, 3
+1, frozen drink, 0.814687, 3
+1, menu, 0.971862, 4
+1, bar, 0.831233, 4
+1, friend, 0.723522, 5
+1, time, 0.6886, 5
+1, favorite drinks, 0.849806, 6
+1, drink menu, 0.793369, 6
+1, wonderful service, 0.849915, 7
+1, future guest, 0.84853, 8
+1, new place, 0.836171, 8
+4, Sharen, 0.424318, 0
+4, owner, 0.360018, 0
+4, non-descript strip mall, 0.857654, 1
+4, tiki/beach themed dive, 0.845574, 1
+4, beers, 0.375286, 4
+4, people, 0.367015, 6
+4, cheap drinks, 0.665036, 7
+4, locals, 0.391187, 7
+4, Great place, 0.825706, 8
+4, Playa family, 0.649306, 8
+4, pretty cool place, 0.975124, 9
+5, nice neighborhood bar, 0.869318, 0
+5, neighborhood bars, 0.61356, 0
+5, good bar food, 0.796997, 1
+5, loser comments, 0.540639, 1
+5, chicken fideo soup, 0.959773, 7
+5, cerviche tostada, 0.51314, 7
+5, great fried chicken, 0.913022, 8
+5, Free breakfast, 0.596862, 8
+5, football season, 0.556992, 9
+5, bartenders, 0.236571, 9

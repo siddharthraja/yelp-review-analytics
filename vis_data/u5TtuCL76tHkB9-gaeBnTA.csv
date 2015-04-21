@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+3, drinks, 0.442493, 1
+3, funky little bar, 0.978698, 3
+3, Blackfriars street, 0.7929, 3
+3, great atmosphere, 0.748792, 6
+3, odd layout, 0.727401, 6
+3, decent beer selection, 0.953344, 7
+3, Schiehallion, 0.504978, 8
+3, tap, 0.408321, 8
+4, baked Jerusalem artichokes, 0.910305, 0
+4, obligatory Christmas sprouts, 0.90628, 0
+4, wee bit, 0.86737, 1
+4, wrong place, 0.825515, 1
+4, slight food envy, 0.922334, 3
+4, crunchy nutty flakes, 0.903749, 3
+4, home smoked trout, 0.910427, 6
+4, treacle scone, 0.826983, 6
+4, light butter sauce, 0.931873, 7
+4, rib eye steak, 0.911693, 7
+4, festive lunch menu, 0.921432, 8
+4, mulled wine sorbet, 0.912686, 8
+4, Terrific wee place, 0.892535, 9
+4, good wine, 0.829206, 9
+5, adjoining restaurant, 0.537288, 0
+5, low price, 0.491964, 0
+5, cozy wee bar, 0.853128, 1
+5, times, 0.260655, 1
+5, standing place, 0.495862, 2
+5, drinks, 0.349112, 2
+5, nice gin cocktails, 0.914366, 3
+5, hesitation, 0.297544, 3
+5, people, 0.307324, 4
+5, summer, 0.315272, 5
+5, large table, 0.503449, 6
+5, wait, 0.27017, 6
+5, nice wooden tables, 0.803361, 7
+5, lovely place, 0.518532, 7
+5, rhubarb sorbet, 0.556233, 8
+5, rhubarb tart, 0.550711, 8
+5, drink selection, 0.535384, 9
+5, staff, 0.260096, 9

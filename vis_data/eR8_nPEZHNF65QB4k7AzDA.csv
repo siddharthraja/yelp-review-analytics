@@ -1,0 +1,36 @@
+rating, keyword, relevance, bucket
+2, old man pub, 0.841069, 0
+2, pub dog, 0.565088, 0
+2, watering hole, 0.513649, 2
+2, usual style, 0.501217, 2
+2, typical old-man establishment, 0.849742, 3
+2, particular feature, 0.426854, 3
+2, diet coke, 0.46127, 4
+2, drinks, 0.254249, 4
+2, highest IPA, 0.475026, 6
+2, pub quiz, 0.971487, 7
+2, free sandwiches, 0.853206, 7
+3, rugby, 0.31896, 0
+3, bars, 0.338964, 3
+3, Edinburgh, 0.334875, 3
+3, similar look, 0.693339, 6
+3, friends, 0.434944, 6
+3, Sunday, 0.437974, 7
+3, bank holiday weekend, 0.995363, 8
+3, nice enough bar, 0.824576, 8
+4, Melville bar burger, 0.812792, 0
+4, house wine, 0.630039, 0
+4, bothersome, 0.266483, 1
+4, melville bar, 0.935469, 2
+4, recent trip, 0.446155, 2
+4, Melville bar thrice, 0.6934, 3
+4, burger places, 0.560566, 3
+4, couple, 0.337154, 4
+4, lovely conversations, 0.462546, 6
+4, best burgers, 0.4226, 6
+4, burger fun, 0.553765, 7
+4, beef versions, 0.413571, 7
+4, delicious food, 0.476244, 8
+4, pleasant service, 0.45986, 8
+4, West End, 0.463692, 9
+4, flavour, 0.254996, 9

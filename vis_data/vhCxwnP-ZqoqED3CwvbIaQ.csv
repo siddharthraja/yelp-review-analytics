@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, worst airport bar, 0.946325, 0
+1, turkey sandwiches, 0.44664, 0
+1, luke warm Corona, 0.694003, 1
+1, rude waitress, 0.554119, 1
+1, HD flat screens, 0.687814, 2
+1, waitress, 0.684807, 2
+1, bartender, 0.765175, 3
+1, eye contact, 0.661167, 3
+1, time warp, 0.460987, 6
+1, blue moon, 0.426123, 6
+1, iced tea, 0.426964, 7
+1, Pizza Hut, 0.425257, 7
+2, yah, 0.26605, 0
+2, star, 0.200575, 0
+2, big screen. channels, 0.934044, 1
+2, Red Zone channel, 0.911845, 1
+2, service, 0.270581, 2
+2, handful, 0.224213, 2
+2, pre-packaged salads, 0.649626, 3
+2, real food, 0.554104, 3
+2, drinks, 0.367293, 5
+2, fantastic Bloody Mary, 0.970584, 7
+2, bartender, 0.244871, 7
+3, cold sandwiches, 0.811042, 0
+3, food options, 0.673013, 0
+3, consumable nutrition, 0.915714, 2
+3, booze, 0.529216, 3
+3, entrance, 0.215684, 3
+3, food choices, 0.678627, 6
+3, stars, 0.203169, 6
+3, Cinnabon, 0.314213, 7
+4, star review, 0.802471, 0
+4, rude bartender, 0.956213, 1
+4, closest bar, 0.74038, 1
+4, quick drink, 0.79779, 7
+4, Johnny Walker, 0.724218, 7
+5, Works, 0.548504, 6
+5, Sandwich, 0.996252, 7
+5, beer, 0.551213, 7

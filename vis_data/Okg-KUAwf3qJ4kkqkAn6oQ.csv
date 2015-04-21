@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+2, smoky sports bar, 0.84155, 0
+2, extra-inning baseball game, 0.765156, 0
+2, Typical bar food, 0.75423, 1
+2, little stores, 0.59084, 1
+2, sports bar, 0.966113, 2
+2, Big Fat Tow, 0.76203, 2
+2, fool, 0.446167, 3
+2, wall, 0.442543, 3
+2, favorite sports team, 0.748457, 6
+2, single malt, 0.624458, 6
+2, upscale joint, 0.634762, 7
+2, saving grace, 0.615987, 7
+2, best thing, 0.616605, 8
+2, fellow females, 0.611972, 8
+3, bar food, 0.748604, 0
+3, pretty lengthy bar, 0.692142, 0
+3, bit creepy, 0.553668, 1
+3, dark interior, 0.552704, 1
+3, Typical sports bar, 0.711082, 2
+3, ridiculous teen-slasher movies, 0.684805, 2
+3, Picasso, 0.574049, 3
+3, blinding sun, 0.54284, 3
+3, sports bar, 0.95161, 4
+3, place, 0.770928, 4
+3, pretty bare-bones type, 0.662295, 6
+3, good place, 0.563412, 6
+3, great drink specials, 0.635846, 7
+3, chicken wings, 0.594613, 7
+3, football watch party, 0.638603, 8
+3, football season, 0.633822, 8
+3, great place, 0.668228, 9
+3, out-of-market NFL team, 0.63095, 9
+4, good spicy chicken, 0.882635, 0
+4, good neighborhood bar, 0.851341, 0
+4, Harris Teeter, 0.640971, 1
+4, downside, 0.466553, 1
+4, college, 0.4917, 2
+4, feeling, 0.449869, 2
+4, fun sports bar, 0.860065, 3
+4, East Blvd, 0.675093, 3
+4, deep fried mushrooms, 0.865826, 6
+4, Picasso, 0.518997, 6
+4, Phila Eagles game, 0.932378, 7
+4, good bar food, 0.826232, 7
+4, horseradish dip, 0.670303, 8
+4, proper attire, 0.636294, 8
+4, cheese bread, 0.630588, 9
+5, best fried mushrooms, 0.939716, 0
+5, playing Texas Hold'em, 0.749991, 0
+5, thing, 0.251029, 2
+5, bar food, 0.489444, 3
+5, horseradish sauce, 0.568313, 6
+5, good experience, 0.521637, 6
+5, garlic buffalo sauce, 0.816755, 7
+5, little button shrooms, 0.815508, 7
+5, Great sports bar, 0.792948, 8
+5, new widescreen touch, 0.700916, 8

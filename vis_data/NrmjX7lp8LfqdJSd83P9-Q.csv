@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, better club, 0.20624, 0
+1, good looking people, 0.223013, 1
+1, sunken dance floor, 0.206547, 1
+1, =( WHATEVER?, 0.311351, 2
+1, credit card, 0.220288, 2
+1, music, 0.202158, 3
+1, dance floor, 0.909269, 4
+1, club, 0.770671, 4
+1, bank, 0.382699, 5
+1, bouncer, 0.343015, 5
+1, free table service, 0.204158, 6
+1, free passes, 0.209814, 7
+1, PEOPLE IN. haha, 0.200385, 7
+1, free drink tickets, 0.224022, 8
+1, golden ticket, 0.221798, 8
+2, club game changes, 0.527521, 0
+2, hip hop, 0.523309, 0
+2, real line, 0.500727, 1
+2, ........, 0.495339, 1
+2, sunken dance floor, 0.548879, 2
+2, Red Bull, 0.516948, 2
+2, Las Vegas, 0.660624, 3
+2, line, 0.64804, 3
+2, dance floor, 0.927735, 4
+2, club, 0.858294, 4
+2, people, 0.755096, 5
+2, place, 0.74564, 5
+2, Sunday night, 0.54247, 6
+2, good thing, 0.529365, 6
+2, new club, 0.525363, 7
+2, best night club, 0.557354, 8
+2, club GM, 0.495075, 8
+3, small dance floor, 0.674715, 0
+3, big dance floor, 0.657897, 0
+3, packed dance floor, 0.662528, 1
+3, little dance floor, 0.656818, 1
+3, hip hop, 0.662787, 2
+3, Vegas club fun, 0.661547, 2
+3, music, 0.794951, 3
+3, clubs, 0.670424, 3
+3, dance floor, 0.941317, 4
+3, club, 0.823988, 4
+3, night, 0.810811, 5
+3, place, 0.754736, 5
+3, good music, 0.706404, 6
+3, cozy night club, 0.669404, 6
+3, good time, 0.709278, 7
+3, nice dance floor, 0.656504, 7
+3, dance floor space, 0.662384, 8
+3, pretty good time, 0.658502, 8
+3, good looking guys, 0.651556, 9
+4, small dance floor, 0.556631, 0
+4, main dance floor, 0.55603, 0
+4, crowded dance floor, 0.561169, 1
+4, somewhat seedy club, 0.55579, 1
+4, clubs, 0.568205, 2
+4, expensive drinks, 0.559865, 2
+4, end strip club, 0.554237, 3
+4, drinks, 0.715316, 4
+4, line, 0.630936, 4
+4, dance floor, 0.948235, 5
+4, club, 0.782744, 5
+4, fun, 0.603334, 6
+4, free passes, 0.568301, 6
+4, Bellagio, 0.617145, 7
+4, average Vegas club, 0.558958, 7
+4, hip hop, 0.624626, 8
+4, great time, 0.623346, 8
+4, nice looking club, 0.554576, 9
+5, table free drinks, 0.561318, 0
+5, seriously good club, 0.557737, 0
+5, Lower dance floor, 0.552499, 1
+5, Las Vegas clubs, 0.571006, 2
+5, SERVICE SERVICE SERVICE, 0.574364, 3
+5, larger dance floor, 0.557134, 3
+5, dance floor, 0.904326, 4
+5, vegas, 0.795218, 4
+5, club, 0.785434, 5
+5, service, 0.707523, 5
+5, night, 0.773434, 6
+5, table, 0.646992, 6
+5, free drinks, 0.657111, 7
+5, free drink, 0.572475, 7
+5, VIP table service, 0.587225, 8
+5, better Vegas club, 0.584178, 8
+5, central dance floor, 0.55387, 9

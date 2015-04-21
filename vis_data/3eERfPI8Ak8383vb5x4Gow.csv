@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, Monday night service, 0.902242, 0
+1, crusty stuff, 0.774052, 0
+1, manager, 0.781367, 1
+1, service empty drinks, 0.728748, 1
+1, food, 0.953752, 2
+1, applebees, 0.761316, 2
+1, butt, 0.690331, 3
+1, bread, 0.582991, 3
+1, restaurant, 0.820156, 4
+1, uniform, 0.602863, 4
+1, lunch entrees, 0.723868, 6
+1, order, 0.577921, 6
+1, grilled cheese, 0.720801, 7
+1, customer service, 0.709539, 7
+1, waitress Toni, 0.734471, 8
+1, Chili, 0.587091, 8
+2, thursday night, 0.691488, 0
+2, dip, 0.481153, 0
+2, foolish jokes, 0.740639, 1
+2, drinks, 0.564581, 1
+2, bar area, 0.697585, 2
+2, manager, 0.643596, 2
+2, food, 0.600332, 3
+2, waitress, 0.565854, 3
+2, better things, 0.690851, 6
+2, customer service, 0.656972, 6
+2, long term server/bartenders, 0.907175, 7
+2, hostess, 0.475415, 7
+3, baked new potatoes, 0.428881, 0
+3, large mushroom cap, 0.42658, 0
+3, nearby Applebee, 0.51867, 1
+3, free meals, 0.323489, 1
+3, Weight Watchers menu, 0.658384, 2
+3, average sit-down Applebee, 0.599891, 2
+3, Applebee, 0.784032, 3
+3, new food items, 0.444207, 4
+3, customer service, 0.323644, 4
+3, garlic steak, 0.343752, 6
+3, OK experience, 0.331593, 6
+3, Fiesta Lime chicken, 0.50607, 7
+3, crispy chicken, 0.459901, 7
+3, cheese chicken penne, 0.928804, 8
+3, Oriental Chicken Salad, 0.760023, 8
+3, Middle America, 0.347321, 9
+3, good deal, 0.34311, 9
+4, little old waiter, 0.911174, 0
+4, Cheese Nachos asap, 0.877615, 0
+4, pom perfect margarita, 0.881424, 1
+4, good idea, 0.77884, 1
+4, bf cack, 0.768551, 2
+4, beluga whale, 0.750265, 2
+4, perfect margarita, 0.915456, 3
+4, sour mix, 0.761775, 3
+4, fun, 0.673111, 4
+4, old man, 0.900475, 6
+4, good weight watchers, 0.859561, 6
+4, steak medium, 0.909, 7
+4, Pepper Steak medium, 0.862213, 7
+4, artichoke dip, 0.914601, 8
+4, old man waiter, 0.899648, 8
+4, quick service, 0.745318, 9
+4, Friendly staff, 0.73821, 9
+5, Park shopping center, 0.968958, 0
+5, tiny tender hands, 0.913516, 0
+5, dirty plate, 0.768298, 1
+5, complains, 0.639815, 3
+5, Bacon dressing, 0.770517, 6
+5, BEST BONELESS WINGS, 0.915676, 7
+5, good customer service, 0.889858, 7
+5, midnight. good drinks, 0.967916, 8
+5, Applebee, 0.811252, 8
+5, dining experience, 0.92782, 9
+5, quality dining experience, 0.901447, 9

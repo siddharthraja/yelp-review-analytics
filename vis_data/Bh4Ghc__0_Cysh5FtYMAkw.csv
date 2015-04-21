@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+2, DJ spinning Rap, 0.913984, 0
+2, younger crowd, 0.679257, 0
+2, dudes VS, 0.743839, 1
+2, pool party.., 0.637005, 1
+2, Sunday afternoon, 0.657577, 2
+2, time, 0.423271, 2
+2, strip club, 0.899746, 3
+2, bouncers, 0.477737, 3
+2, place, 0.644957, 4
+2, Groupon deal, 0.679062, 6
+2, valet service, 0.657803, 6
+2, sausage fest, 0.716936, 7
+2, way, 0.42835, 7
+2, staff, 0.36859, 8
+2, people, 0.365208, 8
+2, pole dancers, 0.714619, 9
+2, fun, 0.372061, 9
+3, discounted VIP table, 0.927748, 0
+3, dancer Toy, 0.75615, 0
+3, bunch, 0.459976, 1
+3, money, 0.455912, 1
+3, club policy, 0.684648, 2
+3, girlfriend, 0.561391, 2
+3, Toy, 0.791606, 3
+3, Sapphires event, 0.733424, 3
+3, customer service, 0.974433, 4
+3, management, 0.721295, 4
+3, dancer complaints, 0.693184, 6
+3, time, 0.526764, 6
+3, driver courteous, 0.764925, 7
+3, hotel, 0.52467, 7
+3, fantastic place, 0.76014, 8
+3, fantastic drinks, 0.697695, 8
+3, entire incident, 0.698572, 9
+3, limo, 0.466686, 9
+4, little hidden gem, 0.636528, 0
+4, Ping pong tables, 0.629974, 0
+4, waitress, 0.339612, 1
+4, major nightclub, 0.478401, 2
+4, scorching summer sun, 0.626084, 3
+4, Vegas pool, 0.469249, 3
+4, drinks, 0.523738, 4
+4, locals, 0.385988, 4
+4, girls, 0.411347, 5
+4, bus boys tips, 0.614445, 6
+4, beautiful people, 0.494526, 6
+4, good time, 0.797567, 7
+4, fairly cool DJs, 0.623705, 7
+4, free limo service, 0.964785, 8
+4, great time, 0.645974, 8
+4, Saturday Pool party, 0.67361, 9
+4, Interesting place, 0.502746, 9
+5, open bar wristband, 0.815386, 0
+5, plasma screen tv, 0.794406, 0
+5, Aria pool, 0.745095, 3
+5, attractive girls, 0.721117, 3
+5, pool, 0.92197, 6
+5, free house fee, 0.810725, 6
+5, new red velvet, 0.817525, 7
+5, sapphire, 0.810391, 7
+5, good time, 0.875836, 8
+5, nice photo opp, 0.825785, 8
+5, good time DJ, 0.858352, 9
+5, comped cabana courtesy, 0.834114, 9

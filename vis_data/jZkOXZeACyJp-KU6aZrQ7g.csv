@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, smoke-filled entry hall, 0.795292, 0
+1, .Nasty food check, 0.795042, 0
+1, wrong food order, 0.788883, 1
+1, nasty smoke smell, 0.784732, 1
+1, bikinis, 0.812115, 2
+1, cheap frozen patty, 0.760324, 2
+1, crappy bar food, 0.799579, 3
+1, mushroom swiss burger, 0.769648, 3
+1, place, 0.938132, 4
+1, food, 0.880563, 4
+1, Taco Mac, 0.755431, 5
+1, scantily clad bartender, 0.785302, 6
+1, vegetable-less steak salad, 0.758183, 6
+1, advertised steelers bar, 0.791855, 7
+1, high quality food, 0.783092, 7
+1, friends birthday party, 0.751612, 8
+2, black bikini, 0.730845, 0
+2, BBQ Cheddar Burger, 0.67186, 0
+2, bikini tops, 0.890669, 1
+2, staff wear bikini, 0.851309, 1
+2, dark colored seats, 0.663668, 2
+2, Hooters version, 0.654963, 2
+2, crispy onion strings, 0.638193, 3
+2, fish taco meal, 0.633126, 3
+2, place, 0.369468, 4
+2, person, 0.360767, 4
+2, bikini, 0.937231, 5
+2, Hooters, 0.715294, 5
+2, Hooters restaurant, 0.679873, 6
+2, clearly larger chicken, 0.655356, 6
+2, multiple hi def, 0.705186, 7
+2, Sports fans, 0.514522, 7
+2, Applebee, 0.346543, 8
+2, gals, 0.342428, 8
+2, fun atmosphere, 0.487231, 9
+3, daisy dukes, 0.923202, 0
+3, bikini-top/ daisy dukes, 0.880737, 0
+3, Typical bar food, 0.83966, 1
+3, older dudes, 0.73965, 1
+3, chick wearing clothes, 0.847758, 2
+3, sports bar, 0.733302, 2
+3, weird enclosed room, 0.909152, 3
+3, mug draft beer, 0.86576, 3
+3, bikinis, 0.76585, 5
+3, frequent Groupon specials, 0.855875, 6
+3, sauteed mushrooms, 0.692361, 6
+3, au jus, 0.702452, 7
+3, fries costs, 0.696949, 7
+3, gigantic burger, 0.753613, 9
+3, sports bar., 0.719711, 9
+4, fried egg, 0.668086, 0
+4, large Hi-Def screens, 0.666806, 0
+4, Steelers game, 0.664, 2
+4, bikini contests., 0.649925, 2
+4, heart attack, 0.836244, 3
+4, Heart Attack Burger, 0.675949, 3
+4, food, 0.622822, 4
+4, place, 0.691978, 5
+4, bikini tops, 0.910571, 6
+4, sourdough bun w/, 0.65881, 6
+4, Pittsburgh Steelers fans, 0.715033, 7
+4, nice private room, 0.668953, 7
+4, ice cream, 0.644578, 8
+4, Sweet Tea Report, 0.640058, 8
+4, new Gorillaz song, 0.639038, 9
+5, negative reviews, 0.817421, 1
+5, new spot, 0.805763, 1
+5, big sporting Events, 0.967137, 3
+5, numerous TV, 0.786343, 3
+5, nice place, 0.864216, 6
+5, Sports Bar, 0.791691, 6

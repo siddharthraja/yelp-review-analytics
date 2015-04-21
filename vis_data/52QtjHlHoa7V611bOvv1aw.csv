@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, worst sushi experience, 0.673204, 0
+1, great Japanese food, 0.667526, 0
+1, food, 0.697546, 1
+1, overpriced hotel food, 0.656617, 1
+1, place, 0.647392, 2
+1, bad service, 0.639135, 2
+1, yellowtail sashimi, 0.664504, 3
+1, service, 0.653469, 3
+1, diced chiles, 0.654543, 4
+1, table, 0.819044, 5
+1, Sushi Roku, 0.903202, 6
+1, old watching Dora, 0.621105, 6
+1, favorite sushi restaurant, 0.693106, 7
+1, birthday party, 0.677473, 7
+1, large table, 0.606512, 8
+2, great Sushi Roku, 0.647363, 0
+2, sushi spots, 0.592138, 0
+2, Sushi Roku experience, 0.622616, 1
+2, bachelorette party, 0.492828, 2
+2, table, 0.482548, 2
+2, good sushi, 0.616381, 3
+2, good sushi quality, 0.57691, 3
+2, sushi, 0.952783, 4
+2, sushi roku, 0.91252, 4
+2, sushi bar, 0.728259, 5
+2, roll, 0.50232, 5
+2, sushi restaurant, 0.594993, 6
+2, Sushi Brokers, 0.569714, 6
+2, large party, 0.45879, 7
+2, sushi chefs, 0.55501, 8
+2, once-in-a-lifetime dining experience, 0.505351, 8
+2, new Pure Sushi, 0.608424, 9
+2, sushi places, 0.55444, 9
+3, cookie cutter sushi, 0.564128, 0
+3, vegetable sushi rolls, 0.560247, 0
+3, sushi bar, 0.52716, 1
+3, Roku sushi, 0.582931, 2
+3, better sushi, 0.544518, 2
+3, quality sushi restaurants, 0.574137, 3
+3, huge Sushi person, 0.547889, 3
+3, service, 0.450781, 4
+3, sushi, 0.913943, 5
+3, Sushi Roku, 0.765629, 5
+3, Sushi Roku host, 0.665543, 6
+3, good sushi, 0.648515, 6
+3, best Standard sushi, 0.59033, 7
+3, sushi chef, 0.580953, 7
+3, sushi restaurant, 0.594985, 8
+3, sushi rice, 0.584391, 8
+4, sushi man, 0.50816, 0
+4, better sushi, 0.506187, 0
+4, decent sushi, 0.503709, 2
+4, sushi eater, 0.499503, 3
+4, place, 0.545832, 4
+4, hotel, 0.477477, 4
+4, Sushi Roku, 0.909696, 5
+4, restaurant, 0.483007, 5
+4, sushi bar, 0.618834, 6
+4, Sushi Roku Fusion, 0.541811, 6
+4, spicy tuna, 0.61273, 7
+4, Sushi Roku vodka, 0.54713, 7
+4, good sushi, 0.546082, 8
+4, Great sushi place, 0.535031, 8
+4, Great sushi, 0.549028, 9
+4, Great sushi dishes, 0.525992, 9
+5, better sushi experience, 0.537409, 0
+5, Signature Style Sushi, 0.530567, 0
+5, spicy tuna rolls, 0.475562, 2
+5, eye tuna sashimi, 0.461913, 2
+5, sushi bars, 0.514409, 3
+5, regular tuna sashimi, 0.458263, 3
+5, sushi restaurants, 0.54373, 4
+5, spicy tuna, 0.56241, 5
+5, food, 0.507465, 5
+5, sushi roku, 0.914107, 6
+5, sushi bar, 0.768402, 6
+5, sushi places, 0.601714, 7
+5, good sushi place, 0.575467, 7
+5, favorite sushi, 0.567608, 8
+5, sushi rolls, 0.566914, 8
+5, good sushi restaurant, 0.543139, 9
+5, favorite upscale sushi, 0.534562, 9

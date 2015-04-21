@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, African American man, 0.781293, 0
+1, Fremont country club, 0.748569, 0
+1, nooooo idea, 0.595093, 1
+1, boyfriend, 0.360072, 1
+1, security guard, 0.93382, 2
+1, belligerent drunk man, 0.826433, 2
+1, small cups, 0.588893, 3
+1, clear liquid, 0.579211, 3
+1, VIP tables, 0.572338, 6
+1, huge fit, 0.566419, 6
+1, Alkaline Trio, 0.601024, 7
+1, dude bartenders, 0.582127, 7
+3, little couch, 0.617751, 0
+3, poor things, 0.608485, 0
+3, guy, 0.481338, 1
+3, bucks, 0.442347, 1
+3, Tex-Mex brothel kitsch, 0.928525, 2
+3, different bartenders, 0.604633, 2
+3, merry-go-round ponies, 0.682496, 3
+3, 8-foot-high illuminated steel, 0.840229, 6
+3, horseshoes, 0.467754, 6
+3, covered-wagon entry way, 0.871423, 7
+3, antler chandeliers, 0.678632, 7
+3, bass speakers, 0.60587, 9
+3, attendant, 0.461378, 9
+5, Fremont Country Club, 0.764987, 0
+5, regular live-music guy, 0.753924, 0
+5, poor reviews, 0.611108, 1
+5, bad reviews, 0.579617, 2
+5, high event, 0.576399, 2
+5, favorite band, 0.787443, 3
+5, negative reviews, 0.604002, 3
+5, parking, 0.466477, 4
+5, sound, 0.483037, 5
+5, Salt Lake City, 0.751243, 6
+5, artistic space, 0.613861, 6
+5, awesome acoustics, 0.627095, 7
+5, great time, 0.591117, 7
+5, Reel Big Fish, 0.916573, 8
+5, super-nice staff on-hand, 0.745292, 8
+5, cool venue, 0.648701, 9

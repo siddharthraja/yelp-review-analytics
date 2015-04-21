@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+2, hotel downtown, 0.659259, 0
+2, white males, 0.657328, 0
+2, Nicks Fat City, 0.887423, 1
+2, techno club lights, 0.871851, 1
+2, drinks, 0.496364, 2
+2, space, 0.490161, 2
+2, coat room ladies, 0.872597, 3
+2, actual service, 0.673387, 3
+2, Fat City, 0.953375, 4
+2, beer, 0.446845, 4
+2, human sweat tastes, 0.937036, 6
+2, bartenders kind, 0.685638, 6
+2, color, 0.44564, 7
+2, dress, 0.443606, 7
+2, Fat City building, 0.948298, 8
+2, swanky deal, 0.724467, 8
+2, VIP table rooms, 0.856858, 9
+2, good music, 0.639729, 9
+3, upstairs DJ booth, 0.956537, 0
+3, dance floor, 0.895682, 0
+3, stupid shit, 0.792918, 1
+3, clubber status, 0.766869, 2
+3, little humor, 0.74901, 2
+3, im home Okay, 0.953901, 3
+3, South Beach-esque club, 0.900958, 3
+3, doubt, 0.664118, 5
+3, decent dance club, 0.958037, 6
+3, local dj, 0.809546, 6
+3, nearby VIP table, 0.895806, 7
+3, margarita moma, 0.795136, 7
+3, Good atmosphere, 0.786641, 8
+3, Thank god, 0.759715, 8
+3, drinks, 0.658628, 9
+4, little hidden lounge, 0.897774, 0
+4, big city bar, 0.876279, 0
+4, band cause, 0.760524, 1
+4, wtf pittsburgh, 0.739965, 1
+4, creepy business men, 0.889047, 2
+4, drink doesnt count., 0.856947, 2
+4, ice water, 0.750852, 3
+4, different club, 0.747924, 3
+4, club environment, 0.761926, 4
+4, favorite dance club, 0.90112, 6
+4, coat check, 0.888588, 6
+4, GREAT music, 0.747199, 7
+4, sticky shoes, 0.739181, 7
+4, Good drink specials, 0.861806, 8
+4, dance music, 0.767273, 8
+4, Great decor, 0.759353, 9
+4, safe place, 0.748797, 9
+5, current hip-hop track, 0.599447, 0
+5, Miller Lite bottles, 0.596959, 0
+5, little bit, 0.623869, 2
+5, Fat City, 0.620401, 2
+5, large dance floor, 0.627684, 3
+5, NYC aloofishness, 0.514141, 3
+5, drinks, 0.540692, 4
+5, best friend, 0.532774, 4
+5, dance floor, 0.990111, 5
+5, Diesel, 0.598433, 5
+5, place, 0.712576, 6
+5, ~real~ dance club, 0.689486, 6
+5, Pretty good music, 0.634467, 7
+5, C'est la vie, 0.626335, 7
+5, good time, 0.814425, 8
+5, Great dance floor, 0.664231, 8
+5, good place, 0.684682, 9
+5, dance music, 0.546874, 9

@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, GRILLED CHHESE PEOPLE, 0.830158, 0
+1, restaurant multiple times, 0.782987, 0
+1, young girl, 0.723798, 1
+1, crappy food, 0.723166, 1
+1, grilled cheese, 0.963065, 2
+1, cheesy alfredo sauce, 0.780269, 2
+1, staff member, 0.71025, 3
+1, additional bonus, 0.710058, 3
+1, place, 0.796742, 4
+1, table, 0.789439, 4
+1, food, 0.834591, 6
+1, big open space, 0.813669, 6
+1, open space, 0.832679, 7
+1, big fan, 0.719356, 7
+1, culinary perfection cities, 0.787933, 8
+1, late Saturday night, 0.784097, 8
+1, large leather chairs, 0.792883, 9
+1, highly sensitive owner, 0.780346, 9
+2, half dozen tables, 0.780536, 0
+2, reddish brown hair, 0.773332, 0
+2, horrible service, 0.784806, 1
+2, time, 0.733909, 1
+2, place indoors, 0.718212, 2
+2, poor waiter, 0.711344, 2
+2, adequate service, 0.714494, 3
+2, restaurant, 0.808806, 4
+2, food, 0.981849, 5
+2, new restaurant, 0.793019, 5
+2, service, 0.808716, 6
+2, lobster claw, 0.799862, 6
+2, genuinely busy night, 0.803953, 7
+2, menu item, 0.785603, 7
+2, Beautiful patio seating, 0.794654, 8
+2, Water view, 0.72342, 8
+3, different food items, 0.814389, 0
+3, plastic glass, 0.778206, 0
+3, little grill cheese, 0.812116, 1
+3, bad diner style, 0.77853, 1
+3, bad bar food, 0.810669, 2
+3, coconut milk mixture, 0.789082, 2
+3, food, 0.960533, 4
+3, fish tacos, 0.822595, 4
+3, place, 0.923725, 5
+3, service, 0.874558, 5
+3, nice neighborhood destination, 0.854296, 6
+3, BIG place, 0.731726, 6
+3, pretty average place, 0.820377, 7
+3, customer service, 0.814438, 7
+3, nice place, 0.840312, 8
+3, great craft beers, 0.800892, 8
+3, nice looking place, 0.863012, 9
+3, nice atmosphere, 0.752598, 9
+4, friends Great location, 0.797246, 0
+4, grilled shrimp pasta, 0.770557, 0
+4, good night, 0.7154, 1
+4, little corn hole, 0.755051, 2
+4, main course dishes, 0.753285, 2
+4, place, 0.932045, 5
+4, Lakes area, 0.776819, 6
+4, chicken skewers, 0.773431, 6
+4, live music, 0.764304, 7
+4, shrimp penne pasta, 0.763609, 7
+4, new place, 0.806951, 8
+4, fish tacos, 0.796555, 8
+4, green chill meatloaf, 0.775462, 9
+4, garlic mashed potatoes, 0.77457, 9
+5, tortilla coconut shrimp, 0.733907, 0
+5, red chile salad, 0.718879, 0
+5, lemon drop martini, 0.70718, 2
+5, place, 0.877124, 6
+5, grilled cheese, 0.795946, 6
+5, queso fundido, 0.753341, 7
+5, grilled pineapple mojito, 0.748563, 7
+5, food, 0.91202, 8
+5, service, 0.76874, 8
+5, beautiful view, 0.871438, 9
+5, beautiful lake atmosphere, 0.749502, 9

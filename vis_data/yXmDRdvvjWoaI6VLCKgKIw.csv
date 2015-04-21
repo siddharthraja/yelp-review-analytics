@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, ridiculously small portion, 0.960756, 0
+1, worst meals, 0.698132, 0
+1, train wreck, 0.680034, 1
+1, price tag, 0.669762, 1
+1, mediocre food, 0.674388, 2
+1, better things, 0.660567, 2
+1, random water pitchers, 0.884951, 3
+1, bread baskets, 0.674184, 3
+1, beef tartare, 0.986217, 6
+1, pork chop, 0.696734, 6
+1, total foodie, 0.682877, 8
+1, great restaurants, 0.656431, 8
+2, regular restaurant, 0.529029, 0
+2, bar menu, 0.512693, 0
+2, thunderstorm, 0.293695, 1
+2, taste, 0.278604, 1
+2, upstairs bar, 0.561341, 2
+2, prime example, 0.521104, 2
+2, cod entree, 0.615689, 3
+2, par preparation, 0.520781, 3
+2, place, 0.397763, 4
+2, hamburger, 0.27849, 4
+2, grilled cheese, 0.846243, 5
+2, organizational issues, 0.518282, 6
+2, coworkers, 0.287873, 6
+2, nightlife location, 0.551552, 7
+2, Crescent St, 0.544173, 7
+2, nice open windows, 0.822504, 8
+2, decor, 0.264341, 8
+2, goat cheese appetizer, 0.961781, 9
+2, meal, 0.2754, 9
+3, prendre quelques drinks, 0.936523, 0
+3, fait une visite, 0.898623, 0
+3, small Mason jar, 0.866194, 2
+3, fruit salad, 0.979528, 5
+3, Old Fashioned, 0.906711, 6
+3, super pricey, 0.82488, 6
+3, pretty friendly barkeep, 0.92787, 7
+3, good tasting food, 0.902987, 7
+3, pretty good cocktails, 0.959326, 8
+3, tiny fruit salad, 0.901943, 8
+3, Nice drink menu, 0.898241, 9
+3, great balcony, 0.806948, 9
+4, et clientèle sympa, 0.936802, 0
+4, delicious glass, 0.657184, 0
+4, patience, 0.45173, 2
+4, service, 0.843554, 3
+4, dance club, 0.682729, 3
+4, times, 0.489457, 4
+4, notch job, 0.690585, 6
+4, better places, 0.654091, 6
+4, upstairs restaurant, 0.662419, 7
+4, lunch menu, 0.657248, 7
+4, good food too., 0.853683, 8
+4, Great service, 0.651694, 8
+4, tasty New Zealand, 0.863328, 9
+4, wine, 0.446007, 9
+5, Business causal crowd, 0.905461, 0
+5, Australian bartender, 0.79618, 0
+5, Gluttony, 0.557858, 1
+5, punishment, 0.541116, 1
+5, ***Montreal Burger Week***, 0.97814, 2
+5, quick-fried onions, 0.794124, 2
+5, best old fashion, 0.897487, 3
+5, scallop tartar, 0.775295, 3
+5, lounge menu, 0.753911, 6
+5, different menus, 0.743814, 6
+5, rooftop patio, 0.765071, 7
+5, surprisingly upbeat, 0.744271, 7
+5, nice big patty, 0.928792, 8
+5, tangy salad dressing, 0.916839, 8
+5, Great quality food, 0.922128, 9
+5, upscale atmosphere, 0.739692, 9

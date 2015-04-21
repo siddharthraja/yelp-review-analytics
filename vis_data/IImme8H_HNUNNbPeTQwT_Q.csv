@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+2, melt-in-your mouth goodness, 0.829143, 0
+2, disappointing Christmas Eve, 0.794053, 0
+2, bit, 0.409202, 1
+2, walnut tart, 0.90319, 2
+2, coffee ice cream, 0.79762, 2
+2, important stuff, 0.599217, 3
+2, -slow cooked pork, 0.914949, 6
+2, alright restaurant, 0.620267, 6
+2, Lovely venue, 0.5601, 7
+2, meh, 0.396778, 7
+2, ideal treat, 0.588227, 8
+2, hype, 0.446205, 8
+2, appealing lunch deals, 0.937512, 9
+2, new favourite place, 0.85262, 9
+4, onions, 0.367961, 0
+4, visit, 0.354019, 0
+4, coffee, 0.352718, 2
+4, bit, 0.353809, 3
+4, appearances, 0.35161, 3
+4, Nice French restaurant, 0.848534, 6
+4, Royal Mile, 0.58689, 6
+4, casserole w/ peas, 0.9273, 7
+4, nice lunch, 0.709839, 7
+4, best restaurant quest, 0.941921, 8
+4, Good Food restaurant, 0.93824, 8
+4, great restaurant, 0.602008, 9
+4, menu choices, 0.601381, 9
+5, red wine sauce, 0.775702, 0
+5, main course, 0.755783, 0
+5, comedy festival, 0.581362, 1
+5, rainy summers, 0.603723, 2
+5, crusty bread, 0.576584, 2
+5, small blip, 0.599659, 3
+5, waitress, 0.442867, 3
+5, beetroot dressing, 0.634321, 6
+5, goats cheese, 0.618469, 6
+5, fish broth soup, 0.761944, 7
+5, better quality coffee, 0.741479, 7
+5, La Garrigue, 0.960514, 8
+5, outrageous afternoon fortune, 0.749573, 8
+5, fantastic blend, 0.611246, 9
+5, Great service, 0.584083, 9

@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+1, past weekend, 0.911274, 0
+1, bank statement, 0.886821, 0
+1, legal action, 0.875682, 1
+1, robbery, 0.550626, 1
+1, principal, 0.524675, 2
+1, matter, 0.524196, 2
+1, dollars, 0.691831, 3
+3, good service, 0.619594, 0
+3, good poor, 0.665606, 3
+3, good drink prices, 0.983908, 6
+3, frozen drinks, 0.853797, 7
+3, great seats, 0.806177, 7
+4, football games, 0.622863, 0
+4, baseball, 0.369218, 0
+4, bar stools, 0.642998, 2
+4, bartender, 0.451881, 2
+4, non-customers, 0.478149, 6
+4, outdoors, 0.418676, 6
+4, pretty cool bar, 0.929374, 9

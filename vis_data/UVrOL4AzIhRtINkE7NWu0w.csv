@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+2, coat check, 0.905431, 0
+2, different drink specials, 0.744469, 0
+2, bad final impression, 0.786986, 1
+2, star review, 0.600663, 1
+2, Montreal, 0.523912, 2
+2, bar, 0.507192, 2
+2, door/coat check guy, 0.754567, 3
+2, earth guys, 0.587536, 3
+2, snowy, 0.481281, 5
+2, patio, 0.43804, 6
+2, good set, 0.582268, 7
+2, kind, 0.434387, 7
+2, beers, 0.436326, 8
+2, shots, 0.43454, 8
+3, video room upstairs, 0.813653, 0
+3, video gaming machines, 0.706256, 0
+3, clubs, 0.351787, 1
+3, total pick-up joint, 0.728505, 2
+3, bar drinking, 0.53793, 2
+3, various little dens, 0.708421, 3
+3, hottest guys, 0.55564, 3
+3, long time, 0.564245, 4
+3, Disco night, 0.918809, 6
+3, fantastic locals bar, 0.752681, 6
+3, dance floor, 0.747434, 7
+3, fun dance floor, 0.736504, 7
+3, BLAST, 0.343386, 8
+3, new friends, 0.538014, 9
+4, alcool pas cher, 0.922935, 0
+4, French-speaking host, 0.746287, 0
+4, Le Stud, 0.983966, 3
+4, clientèle masculine, 0.689882, 3
+4, beaucoup de monde, 0.770889, 6
+4, little version, 0.654012, 6
+4, ads, 0.370718, 7
+4, trip, 0.368571, 7
+4, fun dance floor, 0.913222, 8
+4, Pure fun, 0.739103, 8

@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, drunk quacks, 0.65181, 0
+1, smell, 0.313204, 0
+1, worse scummy bars, 0.906901, 1
+1, scary bar, 0.570626, 1
+1, Madison, 0.408116, 2
+1, seedier elements, 0.619861, 3
+1, college students, 0.537091, 3
+1, place, 0.523556, 5
+1, gin, 0.30973, 8
+1, moment, 0.306963, 8
+3, Dutch potato chips, 0.769692, 0
+3, PBR tallboy, 0.59298, 0
+3, small-town Wisconsin bar, 0.905147, 3
+3, smoking ban, 0.487777, 3
+3, wood paneling, 0.504353, 6
+3, Brewers game, 0.433035, 6
+4, nice neighborhood bar, 0.868768, 0
+4, dart league, 0.665401, 2
+4, nights, 0.316425, 2
+4, Perfect place, 0.63506, 6
+4, weekday, 0.319955, 6
+4, reasonable drink prices, 0.984222, 8
+4, Good sized, 0.673498, 8
+5, old school Tavern, 0.942512, 0
+5, Badgers game, 0.465513, 0
+5, possible under-age college, 0.909725, 1
+5, cheap beer, 0.597883, 1
+5, good TVs, 0.446414, 7
+5, Good prices, 0.436849, 7
+5, Great place, 0.430136, 8
+5, great bartenders, 0.62127, 9
+5, good deals, 0.46047, 9

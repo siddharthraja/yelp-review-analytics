@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, chicken parm sandwich, 0.685764, 0
+1, min, 0.402872, 0
+1, waitress lastnight, 0.654022, 1
+1, managerial decision, 0.511367, 1
+1, place, 0.607727, 2
+1, Bartender Tammy, 0.583472, 2
+1, water, 0.565208, 3
+1, table, 0.524143, 3
+1, waitress, 0.910661, 4
+1, bartender, 0.782281, 4
+1, fries, 0.53709, 5
+1, friends order, 0.678694, 6
+1, til midnight, 0.654821, 6
+1, service printer, 0.717375, 7
+1, drinks, 0.495619, 7
+1, loyal patrons, 0.535756, 8
+1, hockey games, 0.490387, 8
+2, multiple television screens, 0.964139, 0
+2, projector screen, 0.763497, 0
+2, open floor plan, 0.917408, 2
+2, restaurant portion, 0.727885, 2
+2, wait staff shots, 0.937979, 3
+2, hockey rink, 0.754978, 3
+2, Brooksy, 0.62249, 5
+2, piping hot spaghetti, 0.896306, 6
+2, sandwich style option, 0.888666, 6
+2, west Flamingo, 0.769685, 7
+2, local bars, 0.75392, 7
+2, freshly grilled chicken, 0.959882, 8
+2, Buffalo Chicken, 0.948128, 8
+2, Great White, 0.92238, 9
+2, pizza choose, 0.716822, 9
+3, super healthy stuff, 0.931547, 0
+3, comped drinks, 0.692691, 0
+3, spicy bloody mary, 0.931552, 1
+3, Actual menu prices, 0.872692, 1
+3, freezing hockey rink, 0.996057, 2
+3, bad place, 0.656504, 2
+3, frier, 0.481899, 3
+3, jacket, 0.462558, 3
+3, grilled cheese, 0.942953, 6
+3, bar tender, 0.65608, 6
+3, breakfast burrito, 0.682633, 7
+3, hockey practice, 0.666133, 7
+3, ice rink, 0.685338, 8
+3, free drinks, 0.680842, 8
+3, nice cozy environment, 0.99763, 9
+3, entire glass wall, 0.958272, 9
+4, hockey game, 0.803873, 0
+4, night hockey game, 0.755142, 0
+4, bar type foods, 0.675704, 1
+4, live hockey, 0.742835, 2
+4, actual ice rink, 0.668661, 2
+4, basic bar food, 0.801733, 3
+4, Typical bar food, 0.725961, 3
+4, turkey burger, 0.728865, 4
+4, bar, 0.905347, 5
+4, ice rink, 0.819134, 5
+4, hockey rink     Hockey, 0.752213, 6
+4, Friday night, 0.72692, 6
+4, Ice Center rink, 0.690651, 7
+4, chicken parm, 0.664257, 7
+4, cold beer, 0.66963, 8
+4, chicken parm sandwich, 0.663306, 8
+4, good ole fun, 0.66655, 9
+4, Las Vegas Ice, 0.644469, 9
+5, live ice hockey, 0.935872, 0
+5, Buffalo Wild Wings, 0.934008, 0
+5, best time, 0.861807, 1
+5, Buzztime trivia, 0.83898, 1
+5, Service varies, 0.829836, 4
+5, place, 0.849657, 5
+5, ladies night, 0.964672, 6
+5, current sports games, 0.922005, 6
+5, food, 0.998371, 7
+5, live hockey games, 0.941376, 7
+5, hockey games Hey, 0.956675, 8
+5, Ice Skating Rink, 0.956309, 8
+5, LV Ice Skating, 0.956275, 9
+5, Ice center, 0.831325, 9

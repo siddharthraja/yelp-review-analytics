@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, African American partner, 0.878491, 0
+1, raffle tickets, 0.721697, 0
+1, negative yelp, 0.896131, 1
+1, unpleasant YELP review, 0.863313, 1
+1, bar, 0.758746, 2
+1, Friday night, 0.71749, 2
+1, Tenaya Creek, 0.72933, 3
+1, complete A-hole, 0.712278, 3
+1, place, 0.90938, 4
+1, money, 0.75014, 4
+1, drinks, 0.584212, 5
+1, bartender Alex, 0.726084, 6
+1, great selection, 0.697442, 6
+1, nice comfortable environment, 0.910212, 7
+1, craft brews, 0.887935, 7
+1, jukebox good luck, 0.876653, 8
+1, large group, 0.689533, 8
+1, lucky chance, 0.698171, 9
+1, great service, 0.682229, 9
+2, negative yelp review, 0.841976, 0
+2, ignorant owner, 0.537656, 0
+2, liquor license, 0.934517, 1
+2, WORST management, 0.560129, 1
+2, video poker machine, 0.861681, 2
+2, shuffle board, 0.644699, 2
+2, multiple occasions, 0.541404, 3
+2, area, 0.331226, 3
+2, place, 0.467465, 4
+2, music, 0.348203, 4
+2, bartenders, 0.397738, 5
+2, bucks, 0.380349, 6
+2, Groupon, 0.287505, 6
+2, beer selection, 0.548426, 7
+2, great beers, 0.522291, 7
+2, friends birthday, 0.522821, 8
+2, great time, 0.496007, 8
+2, jukebox, 0.38695, 9
+2, sh*t, 0.270189, 9
+3, good beer culture, 0.918668, 0
+3, Las Vegas, 0.918252, 0
+3, ghetto ass place, 0.940608, 1
+3, real hood fools, 0.907045, 1
+3, little dive bar, 0.910444, 2
+3, best beer selections, 0.903772, 2
+3, froo froo drinks, 0.906453, 3
+3, cheap video gambling, 0.893082, 3
+3, people, 0.698167, 4
+3, stars, 0.733288, 5
+3, craft beer bar, 0.948802, 7
+3, Money Plays, 0.763395, 7
+3, chill locals bar, 0.960193, 8
+3, beer selection, 0.906026, 8
+3, Open mike night, 0.88765, 9
+3, welcoming place, 0.786621, 9
+4, little dive bar, 0.498664, 0
+4, best beer selection, 0.402022, 0
+4, dive bar kinda, 0.393587, 1
+4, dive bar rocks, 0.431246, 2
+4, dive bars, 0.368722, 2
+4, food, 0.379173, 3
+4, draft selection, 0.358016, 3
+4, shuffle board, 0.488667, 4
+4, bartender, 0.40249, 4
+4, money plays, 0.968795, 5
+4, dive bar, 0.899667, 5
+4, large beer selection, 0.386612, 6
+4, place, 0.360401, 6
+4, beer selection, 0.732458, 7
+4, great beer selection, 0.534852, 7
+4, El Taco Fresco, 0.482329, 8
+4, good beer selection, 0.402619, 8
+4, Great friendly atmosphere, 0.376509, 9
+4, true beer snobs, 0.376041, 9
+5, Yardhouse beer servers, 0.437378, 0
+5, Voodoo Donut beer, 0.433429, 0
+5, great bar, 0.438206, 2
+5, Mexican restaurant, 0.43333, 2
+5, incredible beer selection, 0.460457, 3
+5, great selection, 0.4406, 3
+5, beer list, 0.484821, 4
+5, money plays, 0.975569, 5
+5, beer, 0.869203, 5
+5, beer selection, 0.705096, 6
+5, live music, 0.55429, 6
+5, craft beers, 0.475158, 7
+5, friendly dive bar, 0.46125, 7
+5, craft beer, 0.658552, 8
+5, El Taco Feliz, 0.592113, 8
+5, craft beer selection, 0.544492, 9
+5, beer great music, 0.487707, 9

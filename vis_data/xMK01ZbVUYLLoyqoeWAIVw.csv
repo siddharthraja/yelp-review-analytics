@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, steak tartar, 0.856532, 0
+1, rib steak, 0.815688, 0
+1, huge mistake, 0.941104, 1
+1, horrible customer service, 0.90461, 1
+1, manager, 0.963048, 2
+1, steak sashimi, 0.846082, 2
+1, steak, 0.898599, 3
+1, boyfriends birthday, 0.79817, 3
+1, restaurant, 0.707707, 4
+1, millimeter-thick quick sear, 0.925231, 6
+1, gift card, 0.770131, 6
+1, best option, 0.774443, 7
+1, prime rib, 0.772185, 7
+2, special little dessert, 0.52348, 0
+2, 10oz prime rib, 0.508063, 0
+2, money discrepancy issue, 0.52876, 1
+2, 36th wedding anniversary, 0.525385, 1
+2, prime rib, 0.540529, 2
+2, time, 0.46891, 3
+2, dinner partner, 0.442416, 3
+2, Keg, 0.90606, 4
+2, San Tan, 0.712942, 4
+2, Keg Size glass, 0.681598, 6
+2, Chandler Mall, 0.570614, 6
+2, signature  menu item.Wife, 0.518437, 7
+2, Outback Steakhouse, 0.452166, 7
+2, wonderful corner table, 0.525468, 8
+2, big gripe, 0.458363, 8
+2, San Tan location, 0.535992, 9
+3, rib steak, 0.613909, 0
+3, bleu cheese crust, 0.570004, 0
+3, steak knife, 0.584777, 1
+3, Service mediocre, 0.506214, 1
+3, beer selection, 0.505987, 2
+3, mid 50s, 0.50078, 2
+3, wedge salad, 0.585806, 3
+3, dining room, 0.540591, 3
+3, steak, 0.970954, 4
+3, flavorful prime rib, 0.691112, 4
+3, prime rib, 0.883404, 5
+3, food, 0.878237, 5
+3, baked potato, 0.829988, 6
+3, twice baked potato, 0.71208, 6
+3, steak medium, 0.635157, 7
+3, prime rib dinners, 0.578039, 7
+3, great steak, 0.603363, 8
+3, high end prices, 0.555385, 8
+3, Pretty good prices, 0.606394, 9
+3, star service way, 0.576556, 9
+4, good Yelp reviews, 0.437904, 0
+4, Keg Steakhouse, 0.42329, 0
+4, mid-range steak house, 0.458845, 2
+4, steak houses, 0.418587, 3
+4, typical snack food, 0.411544, 3
+4, salad, 0.526598, 4
+4, place, 0.524477, 4
+4, steak, 0.772812, 5
+4, food, 0.726982, 5
+4, prime rib, 0.910563, 6
+4, steak house, 0.580493, 6
+4, twice baked potato, 0.554072, 7
+4, mighty good steak, 0.504004, 7
+4, baked potato, 0.575663, 8
+4, Great steak house, 0.514891, 8
+4, good steak house, 0.501327, 9
+4, best steak places, 0.448617, 9
+5, Keg Steak House, 0.590189, 0
+5, prime rib dinner, 0.584689, 0
+5, keg, 0.830082, 5
+5, steak, 0.624747, 5
+5, service, 0.735278, 6
+5, twice baked potato, 0.676639, 6
+5, prime rib, 0.98987, 7
+5, filet mignon, 0.717042, 7
+5, dinner, 0.648729, 8
+5, food, 0.646788, 8
+5, great place, 0.548465, 9
+5, Keg Classic dinners, 0.538292, 9

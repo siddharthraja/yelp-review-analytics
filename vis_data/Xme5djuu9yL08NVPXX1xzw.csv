@@ -1,0 +1,18 @@
+rating, keyword, relevance, bucket
+1, worst service, 0.99371, 0
+1, locals, 0.832388, 0
+1, prefect, 0.8492, 3
+1, likelihood, 0.81043, 3
+2, Wickenburg, 0.501775, 0
+2, Cheap beer, 0.791568, 1
+2, weird aftertaste, 0.919943, 2
+2, cockroach, 0.490303, 2
+2, Monday night football, 0.964883, 6
+2, Free wings, 0.769898, 6
+2, local teens, 0.723648, 7
+2, need, 0.363627, 7
+4, high school reunion, 0.998538, 0
+4, time, 0.347384, 0
+4, place, 0.356109, 8
+4, perfect atmosphere, 0.820919, 9
+4, wonderful people, 0.735345, 9

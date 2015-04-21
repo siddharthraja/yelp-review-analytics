@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, little wobbly cafe, 0.713865, 0
+1, Candi bar, 0.508641, 0
+1, St. Laurent street, 0.788667, 1
+1, rude prick, 0.514022, 1
+1, coat check, 0.930665, 2
+1, coat check girl, 0.691684, 2
+1, bad pop music, 0.740998, 3
+1, table service bottles, 0.723845, 3
+1, manager, 0.428677, 5
+1, reservation, 0.485558, 6
+1, nice employees, 0.479372, 6
+1, birthday, 0.445693, 7
+1, booth, 0.324134, 7
+1, hand, 0.251558, 9
+2, right gender balance, 0.932078, 0
+2, sugary pop drink, 0.931385, 0
+2, gummy bear drink, 0.951968, 1
+2, massive brain freeze, 0.928741, 1
+2, crummy drinks, 0.83457, 2
+2, slushie drinks, 0.828532, 2
+2, Gatorade blue color, 0.938223, 3
+2, slightly more alcohol, 0.778354, 3
+2, whiskey, 0.665825, 5
+2, high heeled legs, 0.919759, 6
+2, intimate feeling, 0.788488, 6
+2, real cocktail, 0.769558, 7
+2, good time, 0.767114, 7
+2, sweet drinks, 0.859298, 8
+2, old girl, 0.812099, 8
+3, sweet slushy drinks, 0.803763, 0
+3, candi bar c'est, 0.799808, 0
+3, adult candy bar, 0.82043, 2
+3, slushy sweet drinks, 0.803438, 2
+3, au Candi Bar, 0.798282, 3
+3, mega blocks, 0.735003, 3
+3, drinks, 0.867604, 4
+3, crazy funky decor, 0.75631, 6
+3, different drinks, 0.756086, 6
+3, different candy item, 0.767764, 7
+3, funky decor, 0.764574, 7
+3, candi bar, 0.989413, 8
+3, girls night, 0.806866, 8
+3, fun decor, 0.717592, 9
+3, fun vibe, 0.702172, 9
+4, regular alcoholic drinks, 0.790643, 0
+4, special drinks, 0.686071, 0
+4, slushy drinks, 0.667291, 1
+4, massive brain freeze, 0.636985, 1
+4, syrupy drinks, 0.698353, 2
+4, Candi Bar, 0.676118, 2
+4, Theres little candy, 0.679285, 3
+4, drinks, 0.911401, 5
+4, night, 0.606697, 5
+4, sexy -lady legs, 0.693211, 6
+4, shiny red leather, 0.676378, 6
+4, extra candy, 0.598192, 7
+4, fun barstools, 0.563018, 7
+4, fun, 0.709993, 8
+4, Hilariously creative decor, 0.676464, 8
+4, -A fun place, 0.693529, 9
+4, delicious drinks, 0.692584, 9
+5, famed Mont Royale, 0.844008, 0
+5, solid one-on-one conversation, 0.812625, 0
+5, pastel-colored Lego blocks, 0.797186, 2
+5, sticky goodness, 0.560606, 2
+5, night, 0.303089, 5
+5, Candi Bar, 0.96329, 6
+5, lychee slushie, 0.655879, 6
+5, schizophrenic rave party, 0.855421, 7
+5, strobe lights, 0.562214, 7
+5, single time, 0.597811, 8
+5, waitresses, 0.304268, 8

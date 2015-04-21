@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+2, old grandpa*, 0.706109, 0
+2, Crazy talk, 0.702393, 0
+2, food, 0.515904, 3
+2, **Kitchen, 0.468817, 3
+2, small bag, 0.695401, 6
+2, toooooo much money, 0.682154, 6
+2, friendly service person, 0.914836, 7
+2, tiny coke, 0.743739, 7
+2, bit, 0.466902, 8
+4, best turkey dinners, 0.963336, 0
+4, work xmas dinner, 0.944654, 0
+4, christmas menu, 0.768545, 3
+4, bar menu, 0.76559, 3
+4, final christmas dinner, 0.928311, 6
+4, fairly good luck, 0.9248, 6
+4, fantastic meal, 0.800799, 7
+4, unusual beers, 0.773129, 7
+4, not-crowded conditions, 0.779443, 8
+4, Saturday night, 0.777396, 8
+4, delicious meal, 0.808557, 9
+4, course meal, 0.779677, 9
+5, good ol ribeye, 0.866364, 0
+5, weekend, 0.440805, 0
+5, bad venison, 0.747355, 2
+5, husband, 0.455688, 6
+5, town, 0.447735, 6
+5, perfect accompaniments, 0.659738, 7
+5, blood pudding, 0.649963, 7
+5, lovely roasted potatoes, 0.847731, 8
+5, meat, 0.506098, 8
+5, tangy chili sauce, 0.909006, 9
+5, salmon cake starter, 0.872218, 9

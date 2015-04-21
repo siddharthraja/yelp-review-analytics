@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, Prix fixe menu, 0.891942, 0
+1, wine list, 0.824344, 0
+1, food, 0.849624, 1
+1, 6ish beer selection, 0.923759, 2
+1, fried onion garnish, 0.907019, 2
+1, chicken pesto flatbread, 0.920481, 3
+1, coffee ice cream, 0.88858, 3
+1, restaurant, 0.905608, 4
+1, grocery store croutons, 0.889564, 4
+1, server, 0.863076, 5
+1, place, 0.830909, 5
+1, large double bottles, 0.899867, 6
+1, bread pudding option, 0.888495, 6
+1, Pesto chicken flatbread, 0.941108, 7
+1, great chill spot, 0.888829, 7
+1, sweet potato fries, 0.899086, 8
+1, celebratory dinner, 0.813772, 8
+2, Capital Grille prices, 0.408448, 0
+2, tight black dresses, 0.395721, 0
+2, area Del Frisco, 0.483106, 1
+2, shaved prime rib, 0.463062, 1
+2, ......, 0.438921, 2
+2, noise level, 0.43379, 2
+2, del friscos, 0.525712, 3
+2, food expert, 0.387815, 3
+2, Del Frisco, 0.962214, 4
+2, time, 0.42049, 4
+2, food, 0.630679, 5
+2, place, 0.527, 5
+2, green chile, 0.402243, 6
+2, age professional male, 0.398255, 6
+2, cute girl, 0.437177, 7
+2, middle age, 0.399007, 7
+2, steak salad, 0.514169, 8
+2, street food, 0.398611, 8
+2, new steak house, 0.42268, 9
+2, best steak salads, 0.412455, 9
+3, precocious little girl, 0.615413, 0
+3, Chicken Pesto Flat, 0.600355, 0
+3, guilty eating steak, 0.620941, 2
+3, steak sandwich, 0.598684, 2
+3, Del Frisco, 0.93392, 3
+3, flat bread, 0.633022, 3
+3, upstairs patio, 0.664603, 4
+3, food, 0.677112, 5
+3, service, 0.652789, 5
+3, place, 0.635613, 6
+3, Chili Cheese Burger, 0.603001, 6
+3, cheese steak egg, 0.761462, 7
+3, steak egg rolls, 0.760244, 7
+3, cheese steak eggrolls, 0.632448, 8
+3, premium outdoor furniture, 0.604081, 8
+3, solid customer service, 0.60746, 9
+3, attractive young women, 0.604664, 9
+4, deviled egg appetizer, 0.378258, 0
+4, bread pudding, 0.517701, 4
+4, ice cream, 0.404187, 4
+4, coconut cream pie, 0.437493, 5
+4, service, 0.427334, 5
+4, del frisco, 0.935842, 6
+4, food, 0.497562, 6
+4, egg rolls, 0.511273, 7
+4, cheesesteak egg rolls, 0.507098, 7
+4, great place, 0.487627, 8
+4, great job, 0.414776, 8
+4, Biltmore Del Frisco, 0.429391, 9
+4, Center. great place, 0.407489, 9
+5, Grille Prime Cheeseburger, 0.679537, 0
+5, juicy Grille Prime, 0.646231, 0
+5, coconut cream pie, 0.701519, 2
+5, Del Friscos, 0.654533, 2
+5, Crab Cake Benedict, 0.644554, 3
+5, service, 0.731872, 4
+5, crab cake, 0.663902, 5
+5, experience Del Frisco, 0.691629, 6
+5, restaurant, 0.689653, 6
+5, Del Frisco, 0.980046, 7
+5, food, 0.744063, 7
+5, great food, 0.697993, 8
+5, regular Del Frisco, 0.690982, 8
+5, exciting savory menu, 0.646814, 9
+5, delicious food, 0.646554, 9

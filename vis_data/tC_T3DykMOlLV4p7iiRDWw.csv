@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, Bartenders, 0.689278, 6
+1, drink, 0.608289, 6
+1, great dive, 0.986414, 7
+1, Starbucks, 0.746672, 7
+2, great dive, 0.999091, 7
+2, Starbucks, 0.817803, 7
+3, darts, 0.56206, 0
+3, fights, 0.346735, 3
+3, pool tables, 0.975891, 6
+3, dive bars, 0.60531, 7
+3, great dive bar, 0.960545, 8
+3, affordable drinking, 0.800199, 8
+3, drink prices, 0.694702, 9
+3, people, 0.274209, 9
+4, Decent drink prices, 0.607211, 0
+4, town play, 0.388564, 0
+4, good tunes, 0.414078, 1
+4, Coke products.. ewwwww, 0.553804, 2
+4, hole-in-the-wall bar, 0.43391, 2
+4, decent average-joe dive, 0.623434, 3
+4, small bar, 0.40827, 3
+4, Dizzy, 0.923154, 5
+4, place, 0.514541, 5
+4, good time, 0.481828, 6
+4, pool table, 0.418325, 6
+4, dive bar, 0.746345, 7
+4, good Dive Bar, 0.601442, 7
+4, good place, 0.453983, 8
+4, classic rock, 0.422211, 8
+4, damn country music, 0.57237, 9
+4, fantastic dive bar, 0.545534, 9
+5, home, 0.334735, 0
+5, cold dark place, 0.866355, 7
+5, friday night, 0.684173, 7
+5, great little bar, 0.908539, 8
+5, great prices, 0.607891, 8
+5, bartenders, 0.413009, 9

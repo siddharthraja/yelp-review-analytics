@@ -1,0 +1,11 @@
+rating, keyword, relevance, bucket
+2, Min, 0.558635, 0
+2, time, 0.471754, 0
+2, veggie burger, 0.9061, 1
+2, dryer, 0.547898, 1
+2, table, 0.560662, 2
+2, receipt, 0.54207, 2
+3, convenient location, 0.987543, 0
+3, Food, 0.589987, 0
+3, habit, 0.67098, 2
+3, Service, 0.562975, 6

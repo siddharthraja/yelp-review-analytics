@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, good drink specials., 0.989101, 0
+1, rt osullivans, 0.820517, 0
+3, pre-WWII box fans, 0.938118, 0
+3, playing darts, 0.591221, 0
+3, critical aspects, 0.60982, 2
+3, smelly cat, 0.592384, 2
+3, ambiance, 0.289404, 3
+3, time, 0.311439, 4
+3, decent music selection, 0.843854, 6
+3, location, 0.273439, 6
+3, Cheers, 0.73404, 7
+3, good drink, 0.542517, 7
+3, cold beer, 0.904635, 8
+3, fact, 0.261116, 8
+3, Great weekday place, 0.842159, 9
+3, de-stress, 0.312106, 9
+4, hot guys, 0.669949, 0
+4, metal, 0.434982, 0
+4, bartender, 0.402634, 2
+4, review, 0.377131, 2
+4, dive bars, 0.702529, 3
+4, great food, 0.657203, 3
+4, place, 0.526146, 5
+4, shuffle board, 0.761937, 6
+4, pool table, 0.727824, 6
+4, drink specials, 0.742463, 7
+4, favorite thing, 0.733235, 7
+4, old mix crowd, 0.910054, 8
+4, alright beer selection, 0.887515, 8
+5, dive, 0.357656, 0
+5, complaints, 0.419894, 3
+5, bar, 0.357539, 3
+5, great drink specials, 0.964084, 7
+5, right touch, 0.710526, 7
+5, Great place, 0.693074, 8
+5, Cheers, 0.630348, 8
+5, excellent places, 0.775582, 9
+5, good atmosphere, 0.689063, 9

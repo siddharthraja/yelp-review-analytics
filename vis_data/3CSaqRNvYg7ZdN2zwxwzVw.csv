@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, canned tomatoes, 0.582962, 0
+1, Greek side salad, 0.581136, 0
+1, caesar salad, 0.620448, 1
+1, anchovy paste, 0.619014, 1
+1, bartender Stephanie, 0.921143, 2
+1, specially bartender Stephanie, 0.85601, 2
+1, good item, 0.549707, 3
+1, minestroni soup, 0.581654, 6
+1, waiter, 0.367379, 6
+1, senior citizen clientele, 0.792827, 7
+1, marinara sauce, 0.601093, 8
+1, Italian sausage, 0.570912, 8
+2, stuffed mushroom appetizer, 0.799008, 0
+2, complimentary birthday dessert, 0.754633, 0
+2, Small tables, 0.683137, 1
+2, long list, 0.647845, 1
+2, great service, 0.796072, 2
+2, lemon rice soup, 0.795792, 2
+2, veal chop, 0.69708, 3
+2, waiter, 0.756236, 4
+2, specials, 0.659521, 4
+2, fresh ground pepper, 0.968601, 5
+2, Christo, 0.859053, 5
+2, Funky house salad, 0.830439, 6
+2, OK salad, 0.705932, 6
+2, Caesar Salad, 0.685859, 7
+2, pasta dish, 0.672575, 7
+2, White French baguette, 0.791716, 8
+2, lemon white wine, 0.779055, 8
+2, classic Italian Foods, 0.779984, 9
+2, lemon cake, 0.657015, 9
+3, old school restaurant, 0.830543, 0
+3, standard house salad, 0.824674, 0
+3, Little old bitties, 0.82944, 2
+3, upscale Italian variety, 0.807532, 2
+3, regular menu item, 0.815489, 3
+3, self-imposed expectations, 0.714402, 3
+3, old school, 0.997018, 4
+3, chicken, 0.835406, 4
+3, neighborhoody Italian cafe, 0.804246, 6
+3, long time staff, 0.782085, 6
+3, Consistently good food, 0.838747, 7
+3, old Italian flare, 0.817897, 7
+3, large group, 0.827764, 8
+3, nice treat, 0.773579, 8
+3, creme brulee dessert, 0.783309, 9
+3, chicken soup, 0.755355, 9
+4, good Italian dinner, 0.817371, 0
+4, finest Italian food, 0.779125, 0
+4, mental health condition, 0.734379, 2
+4, place, 0.887957, 4
+4, service, 0.81734, 5
+4, Christos, 0.738107, 5
+4, Osso Bucco, 0.933106, 6
+4, lemon butter sauce, 0.78594, 6
+4, baked marinara sauce, 0.781978, 7
+4, large group, 0.760156, 7
+4, good food, 0.799643, 8
+4, good wine list, 0.799475, 8
+4, date night restaurant, 0.745256, 9
+5, traditional Italian restaurants, 0.730823, 0
+5, shrimp scampi, 0.71014, 0
+5, Ohh NYC Christo, 0.74042, 1
+5, Sniff Sniff tears, 0.706712, 1
+5, trendy Italian place, 0.713813, 2
+5, east coast Italians, 0.715613, 3
+5, sea bass special, 0.713555, 3
+5, food, 0.942907, 5
+5, salad, 0.793674, 5
+5, sea bass, 0.857799, 6
+5, good Italian food, 0.77976, 6
+5, soup, 0.843316, 7
+5, Italian food, 0.829351, 7
+5, great food, 0.80334, 8
+5, consistently GREAT food, 0.774336, 8
+5, Great food   Great, 0.7997, 9
+5, great service, 0.792333, 9

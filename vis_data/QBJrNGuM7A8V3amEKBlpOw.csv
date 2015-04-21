@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, typical burger grease, 0.706908, 0
+1, tasteless bloody Mary, 0.706905, 0
+1, typical bar food, 0.733158, 1
+1, service, 0.704079, 1
+1, irish onion soup, 0.762855, 2
+1, waitress, 0.711144, 2
+1, Rio, 0.731714, 3
+1, pretty crappy food, 0.71827, 3
+1, time, 0.724864, 4
+1, chain Irish bar, 0.713269, 4
+1, food, 0.909786, 5
+1, place, 0.861098, 5
+1, night wings/greasy food, 0.713574, 6
+1, Las Vegas, 0.698256, 6
+1, Star Trek, 0.796258, 7
+1, authentic Irish fare, 0.790198, 7
+1, yummy comfort food, 0.722988, 8
+1, Drink Special menu, 0.707581, 8
+1, Mardi Gras beads, 0.691662, 9
+3, nice little spot, 0.843764, 0
+3, social media channels, 0.824699, 0
+3, Irish bar, 0.844195, 1
+3, booze was. sorry., 0.838279, 1
+3, movie theater cheese, 0.856129, 2
+3, corned beef, 0.839393, 2
+3, corned beef sandwich, 0.837251, 3
+3, good pub, 0.772333, 3
+3, food, 0.916792, 5
+3, place, 0.893337, 6
+3, boneless buffalo strips, 0.85525, 6
+3, good selection, 0.871122, 7
+3, Mardi Gras area, 0.861324, 7
+3, Irish pub food, 0.906244, 8
+3, pretty cool place, 0.872613, 8

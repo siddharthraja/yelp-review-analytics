@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, gross chicken fingers, 0.80426, 0
+1, basic diner-The meat, 0.790291, 0
+1, worst dining option, 0.747837, 1
+1, disgusting salad, 0.668415, 1
+1, food, 0.742588, 2
+1, prime beef dip, 0.739813, 2
+1, asian vegetables, 0.750125, 3
+1, french fries, 0.677192, 3
+1, chicken fingers, 0.991941, 4
+1, service, 0.66182, 4
+1, gravy, 0.640444, 5
+1, moms French toast, 0.762973, 6
+1, okay hashbrowns, 0.658043, 6
+1, blueberry almond pancakes, 0.760418, 7
+1, better option, 0.639906, 7
+1, bacon cheese burger, 0.823618, 8
+1, good sport, 0.65731, 8
+2, french dip, 0.766388, 0
+2, large food place, 0.711141, 0
+2, slow service, 0.658303, 1
+2, short ribs, 0.675973, 2
+2, hash browns, 0.653122, 2
+2, baby unicorn tears, 0.669872, 3
+2, short ribs fries, 0.655784, 3
+2, food, 0.981712, 4
+2, place, 0.751131, 4
+2, service, 0.69245, 5
+2, time, 0.678017, 5
+2, roasted vegetables, 0.676642, 6
+2, Californian- Seasonal Roasted, 0.671126, 6
+2, cheapest egg dish, 0.680029, 7
+2, iced tea bc, 0.671698, 7
+2, MGM Grand, 0.781822, 8
+2, newly remodeled cafe, 0.637674, 8
+3, late night eats, 0.790585, 0
+3, grilled chicken egg, 0.789366, 0
+3, theses little Ice, 0.761379, 1
+3, Denver Omelet, 0.746764, 1
+3, tired looking decor, 0.755642, 2
+3, little bit, 0.720998, 2
+3, chicken wings, 0.776959, 3
+3, birthday couple wan, 0.773338, 3
+3, eggs, 0.797525, 4
+3, food, 0.813645, 5
+3, steak, 0.786581, 5
+3, breakfast, 0.989923, 6
+3, grilled cheese, 0.845449, 6
+3, Vegas breakfast diners, 0.829984, 7
+3, -El hubby Cakes, 0.766614, 7
+3, MGM Grand, 0.789377, 8
+3, hubby cakes, 0.786868, 8
+3, El Hubby Cakes, 0.76812, 9
+4, room service menu, 0.667629, 0
+4, large Cornish game, 0.550396, 0
+4, chive sour cream, 0.65582, 2
+4, food court area, 0.573602, 2
+4, room service, 0.697733, 3
+4, awesome breakfast burrito, 0.646421, 3
+4, food, 0.621898, 4
+4, bar area, 0.613022, 4
+4, sour cream, 0.700648, 5
+4, grilled cheese, 0.664426, 5
+4, MGM Grand, 0.927644, 6
+4, breakfast, 0.748416, 6
+4, grilled cheese sandwich, 0.64465, 7
+4, Great breakfast, 0.573582, 7
+4, Good menu selection, 0.577973, 8
+4, breakfast options, 0.535006, 8
+4, great place, 0.730607, 9
+4, surprisingly decent good, 0.584341, 9
+5, turkey wrap, 0.544871, 0
+5, exact words, 0.542522, 0
+5, Wicked Spoon, 0.55534, 2
+5, big deal, 0.553991, 2
+5, steak salad, 0.761068, 3
+5, entire tourist population, 0.671105, 3
+5, great food, 0.592015, 6
+5, Thanksgiving Pre-Fixe, 0.562296, 6
+5, marvelous spinach dip, 0.686932, 7
+5, Nice little place, 0.653459, 7
+5, MGM Grand, 0.928584, 8
+5, sweet potato casserole, 0.680272, 8
+5, nice breakfast menu, 0.691609, 9
+5, Vegas hotel restaurant, 0.65506, 9

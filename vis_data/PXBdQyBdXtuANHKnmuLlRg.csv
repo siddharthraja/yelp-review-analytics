@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, usual burrito, 0.75782, 0
+1, green peppers, 0.55465, 0
+1, domestic abuse, 0.508667, 1
+1, bar management, 0.496906, 1
+1, Nacho Libre, 0.912857, 2
+1, Jack Black movie, 0.79418, 2
+1, burrito-deficient city, 0.547716, 3
+1, M4, 0.292535, 3
+1, good place, 0.490317, 7
+1, cool decor, 0.520685, 8
+1, interesting swing-seats, 0.513976, 8
+2, chocolate chip cookies, 0.908748, 0
+2, Je ne pense, 0.888457, 0
+2, misogyny, 0.389195, 1
+2, employer, 0.355805, 1
+2, video game references, 0.891581, 3
+2, aerobics videos, 0.649318, 3
+2, dégage ce restaurant/bar, 0.836838, 6
+2, Le problème venait, 0.809141, 6
+2, fun, 0.35044, 7
+2, atmosphere, 0.361959, 8
+3, pretend hipster wan, 0.933374, 0
+3, Nacho Libre est, 0.901954, 0
+3, unfortunate twist, 0.81717, 1
+3, style atmosphere.. food, 0.900398, 2
+3, fake mexican vrais, 0.882759, 2
+3, tasty vegetarian burrito, 0.947747, 3
+3, que dire outre, 0.907006, 3
+3, C'est strictement interdit, 0.902286, 6
+3, des margaritas glacées, 0.890577, 6
+3, Nacho Libre, 0.920445, 7
+3, Nacho Libre meal, 0.910469, 7
+3, salsa verde nachos, 0.947478, 8
+3, different stile, 0.801718, 9
+4, drunk dude food, 0.750033, 0
+4, Mexican wrestling theme, 0.749774, 0
+4, coolest bar seats, 0.745211, 2
+4, trendy cool bar, 0.783271, 3
+4, ........., 0.821192, 6
+4, chorizo burrito, 0.797975, 6
+4, good drinking food, 0.788833, 7
+4, cool retro video, 0.7739, 7
+4, nacho libre, 0.991797, 8
+4, best Mexican food, 0.78706, 8
+4, FUN FUN FUN, 0.767889, 9
+4, great place, 0.759984, 9
+5, Nacho Libre, 0.872999, 0
+5, little Rosemont, 0.690563, 0
+5, take-out sushi place, 0.96328, 2
+5, animal shop, 0.684371, 2
+5, lucha libre wrestlers, 0.99344, 3
+5, typical bar stools, 0.912162, 3
+5, wide screen, 0.70744, 6
+5, booths, 0.456175, 6
+5, loungy sofas, 0.685341, 7
+5, funny characters, 0.667138, 7
+5, little casual place, 0.92673, 8
+5, Delicious nachos, 0.777659, 8

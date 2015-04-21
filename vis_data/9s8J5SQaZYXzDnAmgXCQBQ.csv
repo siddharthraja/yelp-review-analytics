@@ -1,0 +1,84 @@
+rating, keyword, relevance, bucket
+1, PEOPLE PLAY GAMES, 0.676146, 0
+1, dance floor, 0.661969, 0
+1, cover charge, 0.63988, 1
+1, little dive bar, 0.638684, 1
+1, video games, 0.682265, 2
+1, video game bar, 0.67311, 2
+1, bar, 0.879322, 3
+1, insert coins, 0.78177, 3
+1, games, 0.923616, 4
+1, people, 0.76756, 4
+1, place, 0.902953, 5
+1, night, 0.674922, 5
+1, nicer people, 0.61781, 6
+1, drinks half Price, 0.612129, 6
+1, great place, 0.629236, 7
+1, btw table service, 0.605941, 7
+1, adorable cocktail waitress, 0.601328, 8
+1, good place, 0.596008, 8
+2, table service, 0.444505, 0
+2, video game highlights, 0.438817, 0
+2, Insert Coins game, 0.403964, 1
+2, video game references, 0.389184, 1
+2, bottle service, 0.404316, 2
+2, loud sports bar, 0.392718, 2
+2, skool arcade games, 0.412353, 3
+2, pac man, 0.397785, 3
+2, games, 0.902502, 4
+2, insert coins, 0.864134, 4
+2, place, 0.804311, 5
+2, people, 0.489129, 5
+2, drink prices, 0.409518, 6
+2, shittiest alcoholic drink, 0.407864, 6
+2, classic arcade games, 0.438089, 7
+2, old school games, 0.412186, 7
+2, reasonable drink prices, 0.403663, 8
+2, Great games, 0.399503, 8
+2, drink order, 0.423875, 9
+3, cool arcade games, 0.494334, 0
+3, old arcade games, 0.489223, 0
+3, cabinet arcade games, 0.470768, 2
+3, classic cabinet games, 0.465337, 2
+3, school arcade games, 0.547038, 3
+3, old school arcade, 0.506697, 3
+3, insert coins, 0.819076, 4
+3, drinks, 0.574075, 4
+3, games, 0.907557, 5
+3, video games, 0.823843, 5
+3, old school, 0.610204, 6
+3, school video games, 0.523049, 6
+3, classic arcade games, 0.499017, 7
+3, vintage arcade games, 0.490029, 7
+3, play arcade games, 0.492184, 8
+4, New School games, 0.4462, 0
+4, old school video, 0.443389, 0
+4, video game bar, 0.447053, 1
+4, play games, 0.418893, 1
+4, drink prices, 0.42236, 2
+4, hipster bar downtown, 0.398798, 2
+4, new xbox games, 0.446736, 3
+4, school multi-colored bar, 0.41283, 3
+4, video game, 0.716595, 4
+4, music, 0.410249, 4
+4, insert coins, 0.921184, 5
+4, bar, 0.808243, 5
+4, video games, 0.974167, 6
+4, old school, 0.874485, 6
+4, school arcade games, 0.560756, 7
+4, fun, 0.489486, 7
+4, old favorite games, 0.433688, 8
+4, bar scene, 0.405217, 8
+5, old school games, 0.281811, 0
+5, school video games, 0.288763, 3
+5, old school video, 0.246276, 3
+5, night, 0.310431, 4
+5, video game systems, 0.257212, 4
+5, video games, 0.963476, 5
+5, video game, 0.798532, 5
+5, Play video games, 0.272744, 6
+5, cover charge, 0.266228, 6
+5, Las Vegas, 0.419026, 7
+5, console games, 0.319831, 7
+5, fun video games, 0.279368, 8
+5, great place, 0.261002, 8

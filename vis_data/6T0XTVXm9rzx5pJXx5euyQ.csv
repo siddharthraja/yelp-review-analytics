@@ -1,0 +1,14 @@
+rating, keyword, relevance, bucket
+4, normal Chinese dishes, 0.362934, 0
+4, shrimp dumplings, 0.274013, 0
+4, limited amounts, 0.24982, 1
+4, black pepper chicken, 0.383053, 2
+4, bean curd, 0.266633, 2
+4, thinly sliced ginger, 0.419887, 3
+4, green onions, 0.261469, 3
+4, congee, 0.832138, 5
+4, big congee fan, 0.730543, 6
+4, usual congee flavours, 0.732569, 7
+4, pork congee, 0.599577, 7
+4, dim sum, 0.903441, 8
+5, deals, 0.952974, 6

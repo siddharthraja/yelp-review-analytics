@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+2, scream lounge, 0.646419, 0
+2, clumsy friend, 0.625273, 0
+2, wet bar towel, 0.853694, 1
+2, bad laundry, 0.599514, 1
+2, waitress, 0.385348, 2
+2, absolutely dreadful lounge/Cafe, 0.963673, 3
+2, Del Mar style, 0.916377, 3
+2, table, 0.446444, 4
+2, beer, 0.405516, 4
+2, cheap plastic chairs, 0.909233, 6
+2, good time, 0.801065, 6
+2, Yup, 0.382065, 7
+2, napkins, 0.366759, 7
+4, Latin Quarter pub, 0.907239, 0
+4, squat old stone, 0.870407, 0
+4, interesting new jazz, 0.849875, 3
+4, nice port, 0.713654, 3
+4, Nachos, 0.46525, 6
+4, Jameson, 0.457713, 6
+4, drinks, 0.919026, 7
+4, outdoor terrasse, 0.639843, 7
+4, Lonely Planet book, 0.871971, 8
+4, pub quartier, 0.746483, 8
+5, late Friday afternoon, 0.690297, 0
+5, Monsieur Croque, 0.601896, 0
+5, Pub Quartier Latin, 0.932763, 1
+5, Rue Ontario Est, 0.769833, 1
+5, Quebecois, 0.450432, 2
+5, attempt, 0.433871, 2
+5, speaking, 0.462589, 6
+5, pronunciation, 0.434182, 6
+5, bartender, 0.660374, 7
+5, nice refresher, 0.59082, 7
+5, delicious poutine, 0.641649, 8
+5, best places, 0.559738, 8
+5, nice paintings, 0.580065, 9
+5, Quebec dish, 0.571043, 9

@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+2, waitress, 0.928159, 0
+2, smiles, 0.859722, 2
+2, decor, 0.804929, 2
+2, price, 0.689695, 3
+2, husband, 0.9146, 6
+2, breakfast, 0.895882, 6
+3, west coast road, 0.947649, 0
+3, US-England World Cup, 0.944355, 0
+3, duds, 0.641694, 1
+3, rental car, 0.943209, 2
+3, Rodehouse Restaurant, 0.910242, 2
+3, large televisions, 0.781497, 3
+3, sports bar, 0.770668, 3
+3, Coke, 0.667948, 4
+3, game, 0.811802, 5
+3, restaraunt post plane, 0.879944, 6
+3, chili cheeseburger, 0.785093, 6
+3, sweet potato chips, 0.896016, 7
+3, American-style grub, 0.77557, 7
+3, hearty chili, 0.780052, 8
+3, mmm delish, 0.776685, 8
+3, cozy little place, 0.887811, 9
+5, bartender, 0.623974, 0
+5, drink, 0.590461, 0
+5, husband, 0.618432, 1
+5, flight, 0.746152, 2
+5, job, 0.558449, 6
+5, attitude, 0.597133, 8
+5, airline, 0.59015, 8
+5, positive trip, 0.924358, 9
+5, Sierra, 0.800328, 9

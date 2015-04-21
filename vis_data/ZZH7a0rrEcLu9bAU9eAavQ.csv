@@ -1,0 +1,16 @@
+rating, keyword, relevance, bucket
+4, une soirée, 0.999865, 0
+4, place parfaite, 0.902649, 0
+4, grilled cheese, 0.892247, 1
+4, hungry make, 0.828775, 1
+4, Brooklyn Sour, 0.889005, 2
+4, drink, 0.518162, 2
+4, barber shop, 0.92731, 3
+4, prix, 0.523214, 6
+4, service, 0.50057, 6
+4, unique experience, 0.883075, 7
+4, drinks, 0.797267, 7
+4, fancy garnishes, 0.925066, 8
+4, tiki glasses, 0.888297, 8
+4, right place, 0.845215, 9
+4, haircut, 0.548462, 9

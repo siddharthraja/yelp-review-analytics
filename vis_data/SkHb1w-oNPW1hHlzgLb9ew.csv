@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, hate HATE hair, 0.931246, 0
+1, Wisconsin spicy, 0.838009, 0
+1, awful experience, 0.968813, 1
+1, obnoxiously long time, 0.943675, 1
+1, veggie patties, 0.97573, 2
+1, better food, 0.864729, 2
+1, cheese curds, 0.989397, 3
+1, cheese curd burrito, 0.956407, 3
+1, food, 0.957558, 4
+1, Nitty, 0.939078, 4
+1, Good veggie patties, 0.970698, 6
+1, long wait times, 0.939843, 6
+1, good food, 0.940249, 7
+1, free mug, 0.851078, 7
+1, decent craft beer, 0.950692, 8
+1, good beer, 0.865061, 8
+1, good service, 0.832039, 9
+1, burger restaurants, 0.823506, 9
+2, toughest fat man, 0.726323, 0
+2, Football National Championship, 0.723316, 0
+2, birthday dinner peer, 0.725664, 1
+2, average campus bar, 0.725171, 1
+2, Madison, 0.677638, 2
+2, fucked-up roomba, 0.67225, 2
+2, food, 0.742152, 3
+2, Prompt bar service, 0.735397, 3
+2, birthday, 0.745242, 4
+2, Nitty Gritty, 0.959654, 5
+2, people, 0.740958, 5
+2, town. great niche, 0.730595, 6
+2, UW hoop game, 0.728249, 6
+2, average pub food, 0.725299, 7
+2, good beer selection, 0.723457, 7
+2, awesome birthday deal, 0.73924, 8
+2, free beer, 0.726742, 8
+2, better burger, 0.682892, 9
+3, birthday bar, 0.559172, 0
+3, birthday restaurant, 0.550016, 0
+3, Kohl Center, 0.455253, 1
+3, favorite burger, 0.45822, 2
+3, medium-well cheddar burger, 0.468947, 3
+3, Dotty Dumplings Dowry, 0.454188, 3
+3, cheese curds, 0.647949, 4
+3, bit, 0.446479, 4
+3, birthday, 0.976906, 5
+3, food, 0.625799, 5
+3, birthday market, 0.56177, 6
+3, friends birthday, 0.553809, 6
+3, free drinks, 0.775135, 7
+3, happy birthday, 0.731638, 7
+3, Nitty Gritty, 0.86904, 8
+3, free beer, 0.674772, 8
+3, birthday celebration, 0.547047, 9
+3, birthday thing, 0.536732, 9
+4, ist auf jeden, 0.750235, 0
+4, auf jeden Fall, 0.729259, 0
+4, homemade french fries, 0.613196, 2
+4, bar food, 0.646726, 3
+4, predominately bar food, 0.616678, 3
+4, night, 0.557548, 4
+4, birthday, 0.694068, 5
+4, madison, 0.653372, 5
+4, Madison classic, 0.622328, 6
+4, regular fries, 0.532832, 6
+4, free beer, 0.755182, 7
+4, mini corn dogs, 0.724452, 7
+4, gritty sauce, 0.909986, 8
+4, pretty good deal, 0.620155, 8
+4, fun burger house, 0.635586, 9
+4, gritty burgers, 0.625045, 9
+5, Nitty Gritty, 0.834125, 0
+5, downtown Madison location, 0.780256, 0
+5, massive onion ring, 0.717514, 3
+5, fried food, 0.659576, 3
+5, fattier Thousand Island, 0.716389, 4
+5, birthday, 0.877517, 5
+5, Madison, 0.841466, 5
+5, cheese curds, 0.925873, 6
+5, fried cheese curds, 0.78743, 6
+5, best birthday bar, 0.834174, 7
+5, Nitty Sauce, 0.767864, 7
+5, Great burgers, 0.738659, 8
+5, birthday dinners, 0.721015, 8
+5, sized mini burgers, 0.824183, 9
+5, fun place, 0.803693, 9

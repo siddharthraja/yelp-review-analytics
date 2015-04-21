@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, tiny little glass, 0.996934, 0
+1, gray goose, 0.797624, 0
+1, pissy, 0.480046, 1
+1, bartender, 0.802065, 2
+1, shot, 0.879668, 3
+1, pretend shot, 0.81688, 3
+1, guy, 0.579268, 6
+1, tab, 0.481988, 6
+3, Historic Downtown Glendale, 0.91006, 0
+3, west valley relevancy, 0.895422, 0
+3, feeling Robert Emmet, 0.903761, 1
+3, Bad services, 0.750589, 1
+3, senior citizen mother, 0.891087, 2
+3, nearby watering hole, 0.88829, 2
+3, large bar, 0.761064, 3
+3, high volume, 0.75538, 3
+3, place, 0.831702, 5
+3, small print, 0.778646, 6
+3, bartenders, 0.672109, 6
+3, pool tables, 0.878698, 7
+3, greasy bar food, 0.874248, 7
+3, big smile, 0.776018, 8
+3, attractive patrons, 0.76379, 8
+3, Vintage Budweiser gear, 0.896821, 9
+3, nice charm, 0.751518, 9
+4, good measure, 0.581676, 0
+4, Wednesday night, 0.556688, 0
+4, Wed. night, 0.531971, 1
+4, little kitchen, 0.608016, 3
+4, bothers, 0.302469, 3
+4, best burgers, 0.651785, 6
+4, Lea, 0.277185, 6
+4, Robert Emmet, 0.888244, 7
+4, wonderful Danny, 0.619533, 7
+4, good neighborhood kinda, 0.910211, 8
+4, Nice place, 0.650919, 8
+4, awesome place, 0.592887, 9
+4, free pitcher, 0.586437, 9
+5, bomb dot com, 0.857105, 0
+5, Trivia hosts, 0.63055, 0
+5, dive bar, 0.779252, 6
+5, Best dive bar, 0.763041, 6
+5, bomb ass sauce, 0.924314, 7
+5, def item, 0.683005, 7
+5, Jungle Juice, 0.666772, 8
+5, return customers, 0.639573, 8
+5, amazing cocktail, 0.667689, 9
+5, cheese burgers, 0.642995, 9

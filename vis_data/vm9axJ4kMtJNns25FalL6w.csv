@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, half empty bar, 0.838296, 0
+1, way, 0.614215, 0
+1, bad night, 0.928856, 1
+1, customer service, 0.894973, 1
+1, drink order, 0.946246, 2
+1, waitress, 0.562347, 2
+1, service, 0.97121, 3
+1, place, 0.775553, 3
+1, beer, 0.611075, 4
+1, New owners, 0.88019, 6
+1, service employee, 0.847096, 6
+1, long time, 0.930105, 7
+1, water, 0.509043, 7
+2, nickelback chicken tenders, 0.847489, 0
+2, good mozzarella sticks, 0.80242, 0
+2, Bloody Mary, 0.779744, 1
+2, basting brush, 0.590887, 1
+2, time, 0.828525, 2
+2, long time, 0.607698, 2
+2, groupon, 0.787977, 3
+2, potatoe skins, 0.776755, 3
+2, ........, 0.9202, 4
+2, place, 0.668559, 4
+2, Saturday night, 0.610776, 6
+2, favorite place, 0.573892, 6
+2, medium buffalo sauce, 0.752177, 7
+2, sweet taste, 0.59811, 7
+3, spring training game, 0.878817, 0
+3, grilled chicken sliders, 0.870775, 0
+3, rabid dodgers fans, 0.8761, 1
+3, interior ala Cheech/Chong, 0.866983, 1
+3, good sight line, 0.872851, 2
+3, Harry Caray dancing, 0.868302, 2
+3, trivia game playing, 0.882761, 3
+3, good experience staff-wise, 0.882623, 3
+3, sports bar, 0.969468, 5
+3, little bit, 0.861717, 5
+3, good family time, 0.927336, 6
+3, westside sports bar, 0.904627, 6
+3, decidedly good chicken, 0.913954, 7
+3, chicken wings, 0.862833, 7
+3, quick jaunt, 0.796156, 8
+3, bloody mary buffet, 0.8886, 9
+3, good lord, 0.812819, 9
+4, chill sports bar, 0.708285, 0
+4, great sports bars, 0.706818, 0
+4, luck hearing whats, 0.67384, 1
+4, bloody mary bar, 0.91566, 2
+4, sports bar, 0.823343, 2
+4, Daytime drinker, 0.603395, 3
+4, food, 0.754655, 4
+4, Fat Boy, 0.657788, 4
+4, place, 0.810036, 5
+4, Homemade potato chips, 0.673107, 6
+4, Gilled Mahi Mahi, 0.671625, 6
+4, fresh food food, 0.723515, 7
+4, service, 0.677535, 7
+4, good food, 0.747517, 8
+4, food. great drink, 0.696563, 8
+4, great place, 0.644714, 9
+4, great ambiance, 0.619935, 9
+5, minimal enchilada sauce, 0.716296, 0
+5, Asian BBQ sauce, 0.708308, 0
+5, nachos, 0.673855, 1
+5, bloody mary bar, 0.816396, 2
+5, biggest wings, 0.660965, 2
+5, Nickelback Attack Chicken, 0.679803, 3
+5, extra sauce, 0.67606, 3
+5, ........., 0.947278, 4
+5, wings, 0.683123, 4
+5, green chile, 0.746635, 5
+5, food, 0.762402, 6
+5, sauce, 0.733885, 6
+5, awesome green chile, 0.700541, 7
+5, Brunch Burger, 0.70049, 7
+5, red chili sauce, 0.730422, 8
+5, siracha honey sauce, 0.704664, 8
+5, Boulder Gold sauce, 0.716491, 9
+5, thai chicken pita, 0.696856, 9

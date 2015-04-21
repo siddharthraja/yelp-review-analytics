@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, quality Chicken Wings, 0.648735, 0
+1, decent customer service, 0.610565, 0
+1, Buffalo Wild Wings, 0.755467, 1
+1, barbecue boneless wings, 0.633788, 1
+1, nickel-sized soggy things, 0.618342, 2
+1, pizza n wings, 0.605532, 2
+1, customer service, 0.697969, 3
+1, food, 0.651114, 3
+1, native new yorker, 0.936224, 5
+1, new yorker wings, 0.647428, 6
+1, simple bar food, 0.611328, 6
+1, Worst/no customer service, 0.613647, 7
+1, true story, 0.563063, 7
+1, hot wings, 0.592581, 8
+2, good wings, 0.780252, 0
+2, great service, 0.730879, 0
+2, stale beer, 0.735817, 1
+2, beer glass, 0.718595, 1
+2, chicken alfredo, 0.872893, 2
+2, worst draft beer, 0.851258, 2
+2, food, 0.922123, 3
+2, beer, 0.873375, 3
+2, wings, 0.874602, 4
+2, opinion, 0.571736, 4
+2, salads, 0.602779, 5
+2, patio, 0.588077, 5
+2, enjoyable experience, 0.693221, 6
+2, grandkids, 0.559682, 6
+2, good spot, 0.740804, 7
+2, quick beer, 0.707921, 7
+2, good family spot, 0.931584, 8
+2, nicer outdoors experience, 0.881083, 8
+3, honey garlic sauce, 0.686791, 0
+3, plant based diet, 0.681843, 0
+3, suicide wings, 0.585996, 2
+3, best native, 0.491959, 2
+3, times, 0.317069, 4
+3, food, 0.431934, 5
+3, location, 0.285613, 5
+3, wings, 0.945023, 6
+3, Chicken Wings, 0.778714, 6
+3, pleasant experience, 0.481506, 7
+3, flatbread pizza, 0.471409, 7
+3, beer selection, 0.719726, 8
+3, better go-to place, 0.631222, 8
+3, nice sized menu, 0.700399, 9
+3, decent beer selection, 0.700043, 9
+4, famous wings, 0.598403, 0
+4, tuesday night, 0.581654, 0
+4, Pepper dry rub, 0.45383, 1
+4, bar area, 0.495541, 2
+4, little Asian pizza, 0.50075, 3
+4, different New York, 0.488588, 3
+4, Native New Yorker, 0.863909, 4
+4, chicken wings, 0.565343, 4
+4, Medium sauce, 0.557518, 5
+4, wings, 0.914493, 6
+4, Buffalo Wild Wings, 0.637256, 6
+4, Pepper wings, 0.667543, 7
+4, great wings, 0.606791, 7
+4, good wings, 0.707821, 8
+4, Apple Walnut salad, 0.49386, 8
+4, sweet bbq taste, 0.463432, 9
+4, good switch, 0.427717, 9
+5, best bar food, 0.565206, 0
+5, cheese fries, 0.453876, 0
+5, single wing, 0.372159, 1
+5, curly fries, 0.672483, 3
+5, different kinds, 0.388879, 3
+5, wings, 0.968839, 4
+5, menu, 0.263014, 4
+5, honey mustard wings, 0.816707, 6
+5, Cheese Steak Sandwich, 0.601929, 6
+5, Buffalo wings, 0.656622, 7
+5, warm bacon salad, 0.502824, 7
+5, Great wings, 0.588597, 8
+5, excellent wings, 0.586608, 8
+5, cheese. great reubens, 0.547067, 9
+5, convenient location, 0.364794, 9

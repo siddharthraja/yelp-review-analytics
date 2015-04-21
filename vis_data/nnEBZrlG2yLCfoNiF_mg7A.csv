@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, great Portuguese restaurants, 0.841305, 0
+1, Horrible food, 0.670375, 0
+1, low quality black, 0.890284, 1
+1, white paper pages, 0.889751, 1
+1, freezing cold, 0.604051, 2
+1, long story, 0.590192, 2
+1, foot pole, 0.613764, 3
+1, McDonalds, 0.375081, 3
+1, chicken, 0.447962, 5
+1, fancy restaurants, 0.63676, 6
+1, wine, 0.471696, 6
+1, Chez le Portugais, 0.908224, 7
+1, dear girlfriend, 0.646811, 7
+1, traditional look, 0.623385, 8
+2, Hong Kong/ Macau, 0.69442, 0
+2, separate small compartments, 0.691995, 0
+2, hard time, 0.484423, 2
+2, bar area, 0.453714, 2
+2, dishwashing detergent, 0.489244, 3
+2, kinda, 0.361037, 3
+2, bites, 0.249117, 4
+2, tasting menu, 0.983329, 5
+2, seafood rice dish, 0.812879, 6
+2, tasting portion, 0.583949, 6
+2, hte tasting menu, 0.782574, 7
+2, la carte, 0.766098, 7
+2, worthy chef tasting, 0.810207, 8
+3, huge sit-down party, 0.989731, 3
+3, banquet room, 0.739272, 3
+3, olive pesto pasta, 0.959669, 7
+3, free wifi, 0.716285, 7
+3, great job, 0.648295, 8
+3, service, 0.442086, 8
+4, past reviews, 0.537109, 0
+4, rush, 0.209749, 6
+4, home cooking, 0.52798, 7
+4, Nona, 0.283726, 7
+4, Prix fixe menu, 0.944207, 8
+4, lively guitar player, 0.791865, 8
+5, Chez le Portugais, 0.919984, 0
+5, trilingual party, 0.630694, 0
+5, awful reviews, 0.61259, 1
+5, bad reviews, 0.589971, 2
+5, higher priced menu, 0.817842, 6
+5, chicken picante, 0.587664, 6
+5, fresh fish, 0.602354, 7
+5, appetizers, 0.372708, 7
+5, Portuguese sampler selection, 0.781375, 8
+5, tapas menu, 0.661879, 8
+5, Great food quality, 0.781958, 9
+5, delicious flavor, 0.613359, 9

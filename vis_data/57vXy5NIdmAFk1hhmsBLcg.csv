@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, food counter ladies, 0.953855, 0
+1, expensive virgin slushy, 0.934762, 0
+1, half yard, 0.633247, 1
+1, mix, 0.274395, 1
+1, Pac, 0.307447, 2
+1, stars, 0.274465, 2
+1, half Vegas tourists, 0.971074, 3
+1, Lasg time, 0.671481, 3
+1, bartending class, 0.656216, 7
+1, whiskey, 0.312343, 8
+2, horrible customer service, 0.978233, 0
+2, liquor license, 0.656512, 0
+2, skimpy outfits, 0.790373, 1
+2, souvenir cups, 0.780909, 1
+3, oz alcoholic slushies, 0.929159, 0
+3, Fat Fries, 0.595885, 0
+3, scantily-clad servers, 0.436653, 1
+3, female waitresses, 0.515198, 2
+3, short shorts, 0.500206, 3
+3, Good thing, 0.487045, 3
+3, vodka, 0.367386, 5
+3, Passion fruit, 0.512062, 6
+3, regular shorts, 0.497845, 6
+3, eye candy, 0.461655, 7
+3, Heart Attack Grill, 0.772888, 8
+3, skinny women, 0.521228, 8
+4, HUGE Miami Vice, 0.902885, 0
+4, fat fries, 0.69219, 0
+4, bad thing, 0.608236, 1
+4, bar, 0.348794, 1
+4, food, 0.272999, 2
+4, atmosphere, 0.27992, 3
+4, site tour, 0.66077, 4
+4, place, 0.344369, 4
+4, pretty high tolerance, 0.899465, 6
+4, nutshell, 0.329071, 6
+4, burger joints, 0.708919, 7
+4, sweet waitress, 0.64802, 7
+4, Yummy Fat Burgers, 0.955868, 8
+4, Booze, 0.31326, 8
+4, drinks, 0.289243, 9
+4, moneys, 0.272236, 9
+5, patio bar, 0.862454, 0
+5, favorite places, 0.912904, 7
+5, strip, 0.643669, 7
+5, Friendly staff, 0.724726, 9
+5, good service, 0.720305, 9

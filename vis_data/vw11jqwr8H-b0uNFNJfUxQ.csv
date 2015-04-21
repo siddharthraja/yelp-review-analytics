@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, waitresses, 0.585697, 0
+1, drinks, 0.561581, 0
+1, low noise tolerance, 0.952832, 1
+1, throat burning, 0.77215, 1
+1, acoustics, 0.564796, 2
+1, couple, 0.562111, 2
+1, wine bar, 0.750084, 3
+1, food, 0.69677, 4
+1, loud music, 0.74261, 6
+1, Sunday night, 0.740096, 6
+1, good place, 0.748585, 7
+1, good choice, 0.722069, 7
+2, old drink list, 0.92513, 0
+2, look, 0.460128, 0
+2, Cafe Momo, 0.751274, 1
+2, decent conversation, 0.704539, 1
+2, chocolate gooey dessert, 0.961891, 2
+2, local grocery store, 0.915213, 2
+2, bands, 0.496177, 3
+2, gourmet, 0.45839, 3
+2, food, 0.510801, 4
+2, quality, 0.509173, 4
+2, French Martinis, 0.719598, 6
+2, friend, 0.52029, 6
+2, decent places, 0.741956, 7
+2, mood lighting, 0.678962, 7
+2, lovely homemadey crust, 0.93283, 8
+2, good reason, 0.7001, 8
+2, great experience, 0.692095, 9
+3, gray goose martinis, 0.95107, 0
+3, blue cheese, 0.594435, 0
+3, waitress, 0.292396, 1
+3, shrugs, 0.260944, 2
+3, Meh, 0.270543, 3
+3, food, 0.260931, 3
+3, service, 0.333934, 4
+3, random music acts., 0.805443, 6
+3, Cafe MoMoney, 0.560789, 6
+3, Great appetizers, 0.594344, 7
+3, delish mustard, 0.580634, 7
+3, cafe montmartre, 0.587135, 8
+3, cool place, 0.568767, 8
+3, excellent dancing, 0.516161, 9
+3, space, 0.270116, 9
+4, Cahors red wine, 0.499942, 0
+4, blue collar taverns, 0.490874, 0
+4, sultry little lounge, 0.491397, 2
+4, Monday night routine, 0.488562, 2
+4, decent tap selection, 0.468911, 3
+4, long night, 0.405175, 3
+4, Monday night, 0.570812, 4
+4, wine bar, 0.635109, 5
+4, Cafe Montmartre, 0.906193, 6
+4, wine bar/jazz cafe, 0.544058, 6
+4, pretty good food, 0.517534, 7
+4, baked brie, 0.491001, 7
+4, good live music, 0.505315, 8
+4, great double date, 0.493425, 8
+4, nice place, 0.44402, 9
+4, wine list, 0.418464, 9
+5, live jazz music, 0.739414, 0
+5, decent jazz band, 0.705149, 0
+5, weekly thing, 0.578892, 2
+5, girlfriends, 0.493238, 2
+5, bum, 0.44016, 3
+5, decent wine list, 0.754599, 6
+5, big gold stars, 0.730709, 6
+5, Half-priced wine night, 0.970862, 7
+5, baked brie, 0.785113, 7
+5, Cafe Montmartre rocks, 0.777474, 8
+5, Tasty baked brie, 0.775296, 8
+5, love French food, 0.751183, 9
+5, Excellent appetizers, 0.60325, 9

@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+1, Great neighborhood spot, 0.915301, 6
+1, quality food, 0.466857, 7
+1, smaller menu, 0.606333, 8
+2, french fries, 0.462646, 0
+2, old wood, 0.45027, 0
+2, slow night, 0.458533, 2
+2, cheap beer, 0.455152, 2
+2, dollar homes, 0.617753, 3
+2, greasy food, 0.47818, 3
+2, PRS, 0.384913, 4
+2, rounded seats, 0.46425, 6
+2, try, 0.331271, 6
+2, Providence Road Sundries, 0.955948, 7
+2, touchstone memory, 0.448131, 7
+2, best bacon cheeseburgers, 0.572845, 8
+2, mom, 0.327336, 8
+3, solid bar food, 0.738897, 0
+3, arcade games, 0.558069, 0
+3, favorite place, 0.593204, 3
+3, good service, 0.526288, 6
+3, items, 0.347137, 6
+3, best chicken chili, 0.937005, 7
+3, great drink specials, 0.864325, 7
+3, sweet potato fries, 0.815092, 8
+3, reason, 0.372702, 8
+4, average bar food, 0.748192, 0
+4, old time video, 0.711693, 0
+4, bar food, 0.807513, 2
+4, typical bar food, 0.756273, 2
+4, Providence Road Sundries, 0.901408, 3
+4, old school environment, 0.699834, 3
+4, place, 0.65795, 5
+4, chicken parm sandwich, 0.710056, 6
+4, bean chicken chili, 0.704266, 6
+4, good time, 0.746729, 7
+4, good food, 0.728529, 7
+4, good beer selection, 0.730483, 8
+4, wall bar joints, 0.715957, 8
+4, good place, 0.654122, 9
+4, attentive service, 0.624368, 9

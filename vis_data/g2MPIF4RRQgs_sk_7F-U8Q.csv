@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, excellent bar options, 0.683103, 0
+1, crazy-ass customers, 0.651553, 0
+1, idiot security guard, 0.634439, 1
+1, bar manager, 0.632846, 1
+1, Shotgun Betty, 0.730369, 2
+1, dive bars, 0.652648, 2
+1, dive bar, 0.696763, 3
+1, diet coke, 0.65539, 3
+1, bar, 0.918087, 4
+1, drinks, 0.778023, 4
+1, card, 0.627487, 5
+1, busy weekend night, 0.649753, 6
+1, Black Label Society, 0.649038, 6
+1, decent drinks, 0.65602, 7
+1, quick drink, 0.593919, 7
+1, new pen honey, 0.643973, 8
+2, simple vodka soda, 0.553181, 0
+2, Old Town Scottsdale, 0.531851, 0
+2, good customer experience, 0.56692, 1
+2, mixed drinks, 0.460155, 1
+2, bar, 0.815526, 2
+2, dive bar, 0.55013, 2
+2, Uhm. Shotgun Betty, 0.573255, 3
+2, Shotgun Bettys, 0.45744, 3
+2, Shotgun Betty, 0.707197, 4
+2, drinks, 0.640119, 4
+2, place, 0.514836, 5
+2, girls, 0.486314, 5
+2, Old Town, 0.970042, 6
+2, rail vodka tonic, 0.528922, 6
+2, pretty good music, 0.549737, 7
+2, good pole dancers, 0.527488, 7
+3, old Scottsdale crowd, 0.817651, 0
+3, typical Scottsdale bar, 0.79752, 0
+3, standard cowgirls-dancing-on-the-bar bar, 0.796731, 2
+3, tarted-up bar chicks, 0.777947, 2
+3, shovel shit food, 0.751173, 3
+3, Thursday night, 0.748299, 3
+3, bar, 0.799695, 5
+3, Shotgun Betty, 0.998833, 6
+3, place, 0.940571, 6
+3, rock music.. girls, 0.757903, 7
+3, daisy dukes, 0.755959, 7
+3, loud rock music, 0.792764, 8
+3, Good place, 0.743014, 8
+3, pretty fun place, 0.782415, 9
+3, old fashioned fun, 0.764736, 9
+4, roll biker bar, 0.567917, 0
+4, modern rock playing, 0.522157, 0
+4, blonde bimbo bitch, 0.518112, 1
+4, Bar Crawl, 0.516086, 1
+4, old town bar, 0.567342, 2
+4, pretentious upscale bar, 0.562044, 2
+4, shotgun betty, 0.964513, 3
+4, coyote ugly-style bar, 0.564801, 3
+4, girls, 0.590031, 4
+4, poles, 0.552856, 4
+4, bar, 0.885995, 5
+4, night, 0.618246, 5
+4, place, 0.812149, 6
+4, old town, 0.701082, 6
+4, damn good time, 0.566968, 7
+4, dirty good time, 0.551932, 7
+4, good music, 0.596912, 8
+4, good drinks, 0.553292, 8
+4, Old Town Scottsdale, 0.613024, 9
+4, fun rock bar, 0.591397, 9
+5, Old Town Scottsdale, 0.94543, 0
+5, jalapeno cheese curds, 0.914699, 0
+5, Cheap drinks, 0.719424, 1
+5, short stop, 0.675604, 1
+5, cowboy boots, 0.710588, 2
+5, line dances, 0.702955, 2
+5, fun dive bar, 0.938134, 3
+5, Shotgun Betty, 0.981292, 6
+5, service kitchen, 0.655499, 6
+5, good time, 0.921141, 7
+5, movie setting, 0.679097, 7
+5, reasonable beverage prices, 0.915285, 8
+5, oldtown scottsdale, 0.708476, 8
+5, great drinks, 0.680258, 9
+5, new menu, 0.660934, 9

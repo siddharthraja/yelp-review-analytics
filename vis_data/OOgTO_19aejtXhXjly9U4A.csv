@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+3, cozy jazz bar, 0.83766, 0
+3, large party, 0.506813, 0
+3, food, 0.262388, 1
+3, tight leash, 0.597362, 2
+3, jazz clubs, 0.507542, 2
+3, drinks, 0.328659, 3
+3, session, 0.273794, 3
+3, best sound setup, 0.986478, 7
+3, avid jazz fan, 0.901046, 7
+3, consistently good music, 0.920386, 8
+3, unpredictible line-up, 0.55297, 8
+4, red wine sangria, 0.795082, 0
+4, international smartphone plan, 0.783769, 0
+4, Montreal trip, 0.726842, 1
+4, respective cover charges, 0.779181, 3
+4, ample bar seating, 0.769898, 3
+4, jazz, 0.952968, 4
+4, Montreal, 0.787312, 4
+4, night, 0.888061, 5
+4, food, 0.799027, 5
+4, place, 0.873145, 6
+4, great old jazz, 0.821573, 6
+4, festival jazz player, 0.82634, 7
+4, Good drinks.mgreat creme, 0.792009, 7
+4, live jazz entertainment, 0.827492, 8
+4, overall lovely experience, 0.756702, 8
+4, Nice chill bar, 0.794866, 9
+4, great night, 0.747222, 9
+5, New York jazz, 0.726485, 0
+5, local jazz bands, 0.71261, 0
+5, cover charge, 0.901252, 3
+5, neat little jazz, 0.727844, 3
+5, jazz band, 0.714079, 5
+5, jazz, 0.866202, 6
+5, place, 0.773494, 6
+5, Excellent Jazz club, 0.747051, 7
+5, drinks, 0.71819, 7
+5, traditional jazz club, 0.754016, 8
+5, best jazz scenes, 0.701899, 8
+5, finest jazz venue, 0.720681, 9
+5, intimate place, 0.655012, 9

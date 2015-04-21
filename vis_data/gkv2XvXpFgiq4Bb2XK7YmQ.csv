@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, Phoenix Hard Rock, 0.408602, 0
+1, big sloppy mess, 0.393403, 0
+1, terrible pop music, 0.400042, 1
+1, 30 min wait, 0.375619, 1
+1, terrible service, 0.460003, 2
+1, table, 0.355794, 2
+1, burger, 0.523413, 3
+1, Light Rail driver, 0.381025, 3
+1, Suns game, 0.41321, 4
+1, HRC, 0.372617, 4
+1, downtown phoenix, 0.391611, 5
+1, place, 0.374654, 5
+1, Hard Rock Cafe, 0.963102, 6
+1, potato skins, 0.419861, 6
+1, old Phoenix location, 0.380361, 7
+1, Friday night, 0.37986, 7
+1, basic burgers, 0.310521, 8
+1, coconut flavor, 0.305541, 9
+2, Hard Rock Scottsdale, 0.496684, 0
+2, Rock Cafe Phoenix, 0.483901, 0
+2, PHX HRC, 0.505432, 1
+2, beer selection, 0.473169, 1
+2, Honolulu Hard Rock, 0.486585, 2
+2, low quality food., 0.47568, 2
+2, hard rock, 0.933092, 3
+2, hard rock cafe, 0.816579, 3
+2, food, 0.643299, 4
+2, manager, 0.457143, 4
+2, service, 0.527963, 5
+2, root beer, 0.488918, 5
+2, Hard Rock Cafes, 0.494605, 6
+2, bus boy, 0.477912, 6
+2, amazing Mercury victory, 0.47628, 7
+2, downtown Phoenix, 0.469936, 7
+2, good place, 0.477242, 8
+2, downtown sporting events, 0.46737, 8
+2, timely service, 0.442829, 9
+3, Hard Rock franchise, 0.493058, 0
+3, standard bar food, 0.472551, 0
+3, great music scene, 0.470106, 1
+3, typical hard rock, 0.503528, 2
+3, Hard Rock dozens, 0.494099, 2
+3, Rock Cafe downtown, 0.488693, 3
+3, cheese, 0.485335, 3
+3, downtown phoenix, 0.53275, 4
+3, food, 0.569165, 5
+3, time, 0.485958, 5
+3, hard rock, 0.994069, 6
+3, Hard Rock Cafe, 0.861587, 6
+3, burger, 0.523337, 7
+3, general Hard Rock, 0.493388, 7
+3, mildly spiced cheese, 0.475628, 8
+3, nice place, 0.469131, 8
+3, Granny Smith burger, 0.480672, 9
+3, Arnold Palmer drink, 0.454835, 9
+4, Hard Rock Café, 0.593633, 0
+4, great chicken club, 0.586468, 0
+4, XXL classic city, 0.570796, 1
+4, Balsamic Tomato Bruschetta, 0.57078, 1
+4, crazy summer storm, 0.573613, 2
+4, particular Hard Rock, 0.611197, 3
+4, typical Hard Rock, 0.609016, 3
+4, cobbler deli..My friend, 0.593366, 4
+4, food, 0.603326, 6
+4, fabulous cobbler crunchies, 0.589228, 6
+4, hard rock cafe, 0.926202, 7
+4, chicken club sandwiches, 0.576151, 7
+4, Haystack chicken salad, 0.576027, 8
+4, Airways Center, 0.569647, 8
+4, cool drink selection, 0.568598, 9
+4, great food, 0.55784, 9
+5, hot fudge sundae, 0.757724, 0
+5, roasted red peppers, 0.755883, 0
+5, big hooters, 0.673626, 1
+5, neighborhood HRC bar, 0.902124, 2
+5, Hard Rock Cafe, 0.778175, 2
+5, DBack game night, 0.761568, 3
+5, HRC locations, 0.758628, 3
+5, hard rock, 0.911882, 4
+5, international chain, 0.667455, 4
+5, Phoenix HRC, 0.792024, 6
+5, downtown PHX, 0.680387, 6
+5, best Hard Rock, 0.758741, 7
+5, hard rock MK, 0.754235, 7
+5, Billy Joel, 0.778321, 8
+5, main dining area, 0.755266, 8
+5, good atmosphere, 0.657152, 9
+5, entire staff, 0.654619, 9

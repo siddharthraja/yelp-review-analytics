@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, Braised pork cheeks, 0.546849, 0
+1, red wine, 0.447193, 0
+1, lemon mayo, 0.479413, 1
+1, watery sauce, 0.317174, 1
+1, hot chicken wings, 0.731779, 2
+1, shallow bowl, 0.274977, 2
+1, satay sauce, 0.292631, 3
+1, peanut butter, 0.282242, 3
+1, Brie, 0.262947, 4
+1, crispy prawns, 0.357847, 6
+1, Gambas pil pil, 0.908837, 7
+1, cranberry sauce, 0.317578, 7
+1, Tapas dishes, 0.618923, 8
+1, itison voucher, 0.32054, 8
+1, extensive selection, 0.290866, 9
+2, shocking meal, 0.736405, 0
+2, shocking experience, 0.649963, 0
+2, poor quality, 0.933032, 1
+2, poor quality chips, 0.819181, 1
+2, friends, 0.419892, 2
+2, meals, 0.41864, 2
+2, eye contact, 0.607804, 3
+2, Negociants, 0.402924, 3
+2, tables, 0.475986, 4
+2, beloved nachos, 0.630829, 6
+2, new menu, 0.620803, 6
+2, decent place, 0.657067, 7
+2, burger, 0.46032, 7
+2, tasty nibbles, 0.684594, 8
+2, brilliant place, 0.623919, 8
+3, Edinburgh Uni students, 0.992931, 0
+3, Bristo Square, 0.742469, 0
+3, toilets, 0.453754, 1
+3, toilet cleaner smell, 0.902183, 2
+3, vague recollection, 0.726204, 2
+3, continental feel, 0.682303, 3
+3, wooden tables, 0.669024, 3
+3, tourists, 0.45902, 4
+3, festival, 0.451142, 4
+3, food, 0.555583, 5
+3, Negociants appeals, 0.809011, 6
+3, uni buildings, 0.741391, 6
+3, table service, 0.640232, 7
+3, purposes, 0.450623, 7
+3, large group, 0.892101, 8
+3, best nachos, 0.723134, 8
+3, amazing comodity, 0.68735, 9
+3, good place, 0.652705, 9
+4, cheeky afternoon glass, 0.694998, 0
+4, main menu deal, 0.673185, 0
+4, pretentious naff, 0.606637, 1
+4, rent-free flats, 0.602222, 1
+4, little bit classier, 0.688984, 2
+4, particularly busy night, 0.686649, 3
+4, Negociants, 0.995232, 6
+4, Edinburgh University students, 0.714216, 6
+4, best student bars/cafes, 0.712756, 7
+4, haggis-topped beef badboy, 0.684763, 7
+4, proper main meals, 0.696907, 8
+4, Hello gorgeous bar, 0.6881, 8
+4, George Square, 0.79728, 9
+4, wonderful different types, 0.690543, 9

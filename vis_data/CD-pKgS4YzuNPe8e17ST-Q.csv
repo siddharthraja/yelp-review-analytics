@@ -1,0 +1,18 @@
+rating, keyword, relevance, bucket
+1, costumer service, 0.958801, 1
+1, CAUTION food, 0.95314, 1
+1, P.S., 0.486512, 2
+1, people, 0.483308, 2
+3, neat little hole, 0.903088, 0
+3, wall/ restaurant/dance club/kareoke, 0.836931, 0
+3, SUPER SMALL, 0.520309, 2
+3, dance floor, 0.500678, 2
+3, plain creepy, 0.539029, 3
+3, mix, 0.38274, 5
+3, crowd, 0.293244, 6
+3, food, 0.253583, 7
+3, night, 0.253171, 7
+3, staff, 0.252143, 9
+3, service, 0.251603, 9
+5, margaritas, 0.767826, 6
+5, Honduras food, 0.925189, 7

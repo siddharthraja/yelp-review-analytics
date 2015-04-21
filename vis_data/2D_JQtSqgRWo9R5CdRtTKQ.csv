@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, chance, 0.346568, 0
+1, water, 0.306473, 1
+1, new place, 0.618743, 2
+1, Mile End grillade, 0.960199, 3
+1, packed night, 0.765573, 3
+2, Dieu Du Ciel, 0.715532, 0
+2, Italian café, 0.601887, 0
+2, generic import beer, 0.701334, 2
+2, high end, 0.550857, 2
+2, traditional pub fare, 0.707684, 3
+2, wayside, 0.441527, 3
+2, traditional British pub, 0.908106, 5
+2, homemade egg noodles, 0.695281, 6
+2, little bit, 0.634202, 6
+2, after-work Ubisoft crowd, 0.698844, 7
+2, good looking choices, 0.681428, 7
+2, laugh, 0.43883, 8
+3, pas tant le, 0.963647, 0
+3, C'est peut-être parce, 0.96082, 0
+3, c'est pas, 0.962323, 2
+3, Je veux dire, 0.80488, 2
+3, Bloody Ceasar, 0.708717, 3
+3, pompeux que le, 0.982936, 6
+3, c'est vraiment trop, 0.944891, 6
+3, cozy food, 0.7088, 7
+3, friendly trips, 0.701179, 7
+3, nouveau pub place, 0.837329, 9
+3, Burgundy Lion guys, 0.778702, 9
+4, traditional British way, 0.817575, 0
+4, small cocktail list, 0.806685, 0
+4, high end version, 0.815653, 2
+4, cornish hen, 0.829047, 3
+4, smallish menu, 0.725074, 3
+4, Mile End, 0.943744, 5
+4, food, 0.866404, 5
+4, Sympathique Pub anglais, 0.859242, 6
+4, Je vous recommande, 0.79877, 6
+4, pub, 0.939737, 7
+4, Great neighborhood pub, 0.921928, 7
+4, great looking bar, 0.841397, 8
+4, Nice new addition, 0.807572, 8
+4, Burgundy Lion, 0.829816, 9
+4, cool intimate vibe, 0.796542, 9
+5, dark burgundy colours, 0.653197, 0
+5, retrouve quelques classiques, 0.617088, 0
+5, possible date spot, 0.591144, 1
+5, little pricy, 0.506197, 2
+5, table tab, 0.505557, 2
+5, classic pub cuisine, 0.690489, 3
+5, warm weather rolls, 0.591374, 3
+5, British pub look, 0.708421, 6
+5, true pub experience, 0.705739, 6
+5, Burgundy Lion, 0.986125, 7
+5, Burgundy Lion guys, 0.758747, 7
+5, au Burgundy Lion, 0.787891, 8
+5, favourite pub, 0.636386, 8
+5, Nice snacking options, 0.626271, 9

@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+1, big puffy socks, 0.980348, 0
+1, Buffalo Wild Wings, 0.856053, 0
+1, grilled cheese sandwich, 0.963205, 1
+1, Texas Toast bread, 0.903071, 1
+1, extremely low quality, 0.945451, 2
+1, tip, 0.357577, 2
+1, service, 0.409884, 3
+1, fries, 0.377992, 3
+1, way, 0.411919, 6
+1, unflattering shorts, 0.687875, 7
+1, WAAAAAY, 0.352776, 7
+2, sports bars, 0.666319, 2
+2, Food, 0.260143, 2
+2, waitress, 0.489271, 3
+2, wings, 0.356641, 3
+2, skin color stockings, 0.950649, 7
+2, better outfit, 0.771387, 7
+3, large square room, 0.926753, 0
+3, jus finding, 0.671312, 0
+3, combination, 0.292241, 1
+3, morning, 0.288788, 1
+3, Hooters signs, 0.775402, 2
+3, wings, 0.417836, 2
+3, fellow yelper complain, 0.945842, 3
+3, good service, 0.67785, 3
+3, cute Hooter, 0.650531, 7
+3, location employees, 0.558049, 7
+3, Ur, 0.311653, 8
+3, eyes, 0.290578, 8
+4, Illinois football game, 0.764625, 0
+4, hostess booth, 0.461032, 0
+4, buffalo chicken dpi, 0.797706, 3
+4, dirty look, 0.424484, 3
+4, black dog, 0.47998, 8
+4, waitress, 0.329002, 8
+4, grilled chicken sandwich, 0.98614, 9
+4, curley fries, 0.563357, 9

@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, food truck caravan, 0.831634, 0
+1, grassy knoll, 0.666026, 0
+1, Ushers, 0.399023, 1
+1, RUDE, 0.379462, 1
+1, artist words, 0.544335, 2
+1, Scottsdale Performing Art, 0.921039, 3
+1, Scottsdale PA, 0.615339, 3
+1, amazing artist, 0.62277, 7
+1, promise, 0.373514, 8
+3, snarky remark, 0.634693, 0
+3, middle, 0.423777, 0
+3, student ticket, 0.827182, 1
+3, ushers, 0.68064, 1
+3, piece, 0.421655, 2
+3, patrons, 0.379272, 3
+3, end, 0.356994, 6
+3, movement, 0.356851, 6
+3, plenty, 0.381251, 7
+3, acoustics, 0.379499, 7
+3, classical type concerts, 0.911269, 9
+3, venue, 0.456544, 9
+4, long time, 0.506809, 0
+4, Def, 0.352852, 0
+4, Loss, 0.338904, 2
+4, wood acoustic panels, 0.724271, 3
+4, Yelp page, 0.581215, 3
+4, space, 0.386107, 5
+4, Old Town Scottsdale, 0.743797, 6
+4, Scottsdale Culinary Festival, 0.733861, 6
+4, Ignite Phoenix, 0.96017, 7
+4, Scottsdale Arts Festival, 0.730157, 7
+4, Scottsdale Center, 0.581586, 8
+4, FYI tickets, 0.563518, 8
+4, wonderful modern venue, 0.786916, 9
+4, cute little gift, 0.712218, 9
+5, ASU music school, 0.780183, 0
+5, Italian traveling group, 0.771474, 0
+5, Paul Ford, 0.758108, 2
+5, pianist Paul Ford, 0.737449, 2
+5, old old Broadway, 0.763075, 3
+5, Gettysburg Address, 0.746632, 3
+5, time, 0.707356, 4
+5, special Q&A night, 0.763829, 6
+5, gift shop, 0.750506, 6
+5, Scottsdale Center, 0.972707, 7
+5, Performing Arts, 0.972639, 7
+5, Talk Cinema series, 0.763948, 8
+5, box office staff, 0.744665, 8

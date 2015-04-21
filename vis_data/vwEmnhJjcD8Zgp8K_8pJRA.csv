@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, Ye Old Speckled, 0.854531, 0
+1, blacken fish tacos, 0.833169, 0
+1, Sir Edmond BLAND, 0.89948, 1
+1, low ceiling basement, 0.847221, 1
+1, Sir Edmond, 0.9875, 2
+1, cheddar cheese, 0.933893, 2
+1, food, 0.901, 3
+1, Fat Tire, 0.811661, 3
+1, tip time, 0.737212, 6
+1, descent selection, 0.737196, 6
+1, big cherry tree, 0.855752, 7
+1, outdoor patio seating, 0.850447, 7
+1, Guinness pint glass, 0.83202, 9
+2, WET white fish, 0.850895, 0
+2, canned beef stew, 0.838273, 0
+2, well-loved English pub, 0.857514, 1
+2, single time, 0.797854, 1
+2, original menu items, 0.863959, 2
+2, good food, 0.825204, 2
+2, food, 0.989422, 3
+2, Sir Edmond Halley, 0.979072, 3
+2, place, 0.851721, 4
+2, new menu, 0.840323, 4
+2, shopping center, 0.84734, 5
+2, Rd Shopping Center, 0.828189, 6
+2, Black Bean Nachos, 0.826492, 6
+2, night food menu, 0.885634, 7
+2, blue cheese crumbles, 0.854442, 7
+2, Ginger Salmon Burger, 0.822506, 8
+2, English pub style, 0.850807, 9
+2, great pub atmosphere, 0.84347, 9
+3, goat cheese fritters, 0.546611, 0
+3, secret garden bar, 0.537436, 0
+3, peanut butter tarte, 0.53454, 1
+3, poor beleaguered vegetarian, 0.519949, 1
+3, good vegetarian offerings, 0.551733, 2
+3, cuban pesto sandwich, 0.531651, 2
+3, fish, 0.575636, 3
+3, food, 0.647313, 4
+3, menu, 0.559149, 4
+3, park road shopping, 0.959127, 5
+3, road shopping center, 0.959104, 5
+3, Ostrich tacos, 0.569503, 6
+3, quality European beers, 0.550149, 6
+3, garlic chili paste, 0.662451, 7
+3, outdoor seating area, 0.651461, 7
+3, patio, 0.554139, 8
+3, Irish pub, 0.548587, 8
+3, english style pub, 0.54174, 9
+4, Park Rd. shopping, 0.49802, 0
+4, Road shopping plaza, 0.497454, 0
+4, irish pub feel, 0.575699, 1
+4, dark Irish pub, 0.509619, 1
+4, large wooden bar, 0.498945, 2
+4, Old Speckled Hen, 0.56028, 3
+4, food, 0.641389, 4
+4, menu, 0.550347, 4
+4, place, 0.606319, 5
+4, bar, 0.524507, 5
+4, shopping center, 0.724184, 6
+4, Nice Pub Food, 0.542612, 6
+4, park road shopping, 0.911297, 7
+4, Sir Ed, 0.844403, 7
+4, Sir Edmond Halley, 0.694372, 8
+4, beer selection, 0.557102, 8
+4, fantastic beer selection, 0.503944, 9
+4, delicious veggie sandwich, 0.501708, 9
+5, jamaican jerk chicken, 0.631483, 0
+5, average bar food, 0.544593, 0
+5, terrible bar food, 0.544229, 2
+5, large community table, 0.519029, 2
+5, Jamacian Jerk Chicken, 0.603199, 3
+5, small English pub, 0.553141, 3
+5, bacon cheeseburger, 0.649314, 5
+5, jerk chicken nachos, 0.872232, 6
+5, food, 0.676329, 6
+5, shopping center, 0.657959, 7
+5, bean veggie burger, 0.621679, 7
+5, Sir Ed, 0.940872, 8
+5, great place, 0.725993, 8
+5, great lunch menu, 0.566784, 9
+5, great staff, 0.547347, 9

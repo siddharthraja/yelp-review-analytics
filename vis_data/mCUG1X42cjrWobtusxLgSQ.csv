@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+1, waitress, 0.665366, 0
+1, awful bite, 0.66053, 0
+1, WORST dining experiences, 0.93398, 1
+1, orders multiple times, 0.873493, 1
+1, loud club music, 0.887939, 2
+1, long review, 0.693307, 2
+1, shredded orange cheddar, 0.891238, 3
+1, turn, 0.446604, 3
+1, beer, 0.524584, 4
+1, broccoli, 0.519662, 5
+1, highland tour, 0.683578, 6
+1, Friday evening, 0.676231, 6
+1, Broadsheet Bistro, 0.729008, 7
+1, discount coupon, 0.707558, 7
+3, decent haggis, 0.958981, 0
+3, eggplant slices, 0.938482, 0
+3, total disaster, 0.737764, 2
+3, reviewers, 0.405514, 2
+3, Parma ham, 0.807393, 3
+3, chicken, 0.400001, 3
+3, Sunday evening, 0.853137, 6
+3, thing, 0.403404, 6
+3, Innis, 0.459931, 7
+3, Salads, 0.431232, 7
+3, nice brew, 0.812437, 8
+3, good starter, 0.811388, 8

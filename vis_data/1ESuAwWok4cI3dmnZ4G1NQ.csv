@@ -1,0 +1,38 @@
+rating, keyword, relevance, bucket
+3, particular night, 0.884298, 0
+3, chance, 0.537373, 0
+3, general, 0.552062, 1
+3, nights, 0.563126, 2
+3, place, 0.992016, 3
+3, bartenders, 0.568528, 3
+3, crowd, 0.553634, 6
+3, age, 0.50229, 6
+4, contemporary place, 0.750512, 0
+4, private party, 0.71079, 0
+4, bars, 0.459143, 1
+4, group, 0.457498, 1
+4, random conversations, 0.715492, 2
+4, bartender, 0.592814, 2
+4, arrogant staff, 0.794777, 3
+4, Friday night, 0.720605, 3
+4, people, 0.699931, 4
+4, good weather, 0.755439, 6
+4, dope spot, 0.703015, 6
+4, star rating, 0.699685, 7
+4, friendly people, 0.678052, 7
+4, fun time, 0.979432, 8
+4, electric lemonade, 0.761244, 8
+4, fun place, 0.712388, 9
+4, Kazba thanks, 0.701788, 9
+5, world-class feel downtown, 0.887392, 0
+5, private booths, 0.668772, 0
+5, service bars, 0.653021, 2
+5, Drinks, 0.47355, 3
+5, Moroccan flare, 0.716404, 6
+5, dim lights, 0.702173, 6
+5, best clubs, 0.677287, 7
+5, Charlotte, 0.608558, 7
+5, great place, 0.785094, 8
+5, DJ, 0.454252, 8
+5, Saturday night Uptown, 0.914754, 9
+5, Mez, 0.646706, 9

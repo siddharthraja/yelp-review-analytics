@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, big event, 0.933584, 0
+1, good marketing idea, 0.916193, 0
+1, obnoxious bartender Tish, 0.98915, 1
+1, free drinks, 0.943048, 1
+1, high expectations, 0.717108, 2
+1, gaming machines, 0.71314, 2
+1, Super weird vibes, 0.935342, 3
+1, weird place, 0.765327, 4
+1, free throws, 0.726754, 6
+1, Good drink, 0.724546, 6
+1, sports radio stations, 0.970099, 7
+1, National championship, 0.759654, 7
+1, course, 0.546094, 9
+2, creepy old man, 0.951771, 1
+2, time, 0.533646, 1
+2, starts, 0.575716, 3
+2, reason, 0.563526, 3
+3, runnin rebels pizza, 0.684379, 0
+3, sour overload, 0.590732, 0
+3, neighborhood gaming bar, 0.729943, 1
+3, old lemon drop, 0.675256, 1
+3, dining room, 0.669812, 2
+3, beer drinker, 0.592534, 2
+3, typical bar food, 0.890364, 3
+3, bartender, 0.740104, 3
+3, bar, 0.931908, 4
+3, place, 0.539918, 4
+3, game, 0.463646, 5
+3, pretty good bar, 0.745147, 6
+3, hot dog bar, 0.734807, 6
+3, good substitution, 0.578148, 7
+3, friends, 0.495084, 7
+3, pretty timely fashion,I, 0.724415, 8
+3, garlic cheesy bread, 0.693826, 8
+4, separate bar area, 0.819759, 0
+4, sports bars, 0.754195, 0
+4, drunken breakfast cuz, 0.779528, 1
+4, smoke smell, 0.814968, 2
+4, gaming bar, 0.751801, 2
+4, UNLV/SF sports bar, 0.806058, 3
+4, ass food, 0.731107, 3
+4, food, 0.993877, 5
+4, bar, 0.958607, 5
+4, game, 0.865474, 6
+4, Great bar, 0.837123, 6
+4, Great drink deals, 0.78131, 7
+4, San Francisco 49ers, 0.774109, 7
+4, pizza great tv, 0.829629, 8
+4, good game area, 0.827159, 8
+4, Las Vegas, 0.769895, 9
+4, supports local schools, 0.76948, 9
+5, lost Niners fan, 0.954367, 0
+5, obvious pass interference, 0.835767, 0
+5, expensive sports bar, 0.855372, 1
+5, big ass sign, 0.830999, 1
+5, bar menu, 0.711234, 2
+5, best Niners bar, 0.913997, 3
+5, daytime female bartenders, 0.847848, 3
+5, Niners fan, 0.957616, 6
+5, best Graveyard Bartender, 0.844775, 6
+5, Fun place, 0.801477, 7
+5, luckys lounge, 0.701446, 7
+5, 49ers faithful, 0.716274, 8
+5, 49ers fans, 0.705946, 8
+5, free Jell-O shots, 0.834571, 9
+5, Fun fun fun, 0.827065, 9

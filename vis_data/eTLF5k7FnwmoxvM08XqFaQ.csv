@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+4, random Friday, 0.760028, 0
+4, Vegas-guy co-worker, 0.751609, 0
+4, disappointing mistake, 0.757831, 1
+4, ravenously hungry friend, 0.900701, 2
+4, chain restaurants, 0.708126, 2
+4, co-workers, 0.598557, 3
+4, staff, 0.45853, 3
+4, rum, 0.528979, 4
+4, freshly prepped beef, 0.904035, 6
+4, cheddar burger, 0.759695, 6
+4, special chicken sandwich, 0.904321, 7
+4, service, 0.500866, 7
+4, chill atmosphere, 0.753686, 8
+4, place, 0.526702, 8
+5, Fri night, 0.679349, 0
+5, Latin music, 0.660869, 0
+5, La Jolla, 0.669749, 2
+5, La Casona, 0.657125, 2
+5, night club, 0.570659, 3
+5, cover, 0.458919, 3
+5, night, 0.816523, 5
+5, salsa, 0.541412, 5
+5, Thursday night, 0.58102, 6
+5, Bachata, 0.319307, 6
+5, good suggestion, 0.598062, 7
+5, people, 0.287998, 7
+5, great time, 0.920914, 8
+5, free shot, 0.662907, 8
+5, awesome time, 0.595551, 9
+5, Danced, 0.315857, 9

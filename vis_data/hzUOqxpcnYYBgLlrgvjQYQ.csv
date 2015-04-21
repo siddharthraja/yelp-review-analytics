@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, late night food, 0.718493, 0
+1, simple spicy chicken, 0.691555, 0
+1, poor Togo boy, 0.682272, 1
+1, couple female friends, 0.680141, 1
+1, time, 0.768228, 2
+1, little greeter girls, 0.689536, 2
+1, food, 0.935065, 3
+1, Applebee, 0.725961, 3
+1, nachos, 0.671123, 4
+1, location, 0.654464, 4
+1, queso blanco sauce, 0.687727, 6
+1, entire meal, 0.651408, 6
+1, Dos Equis beer, 0.687429, 7
+1, chicken parmesan pasta, 0.686593, 8
+1, appetizer trio, 0.65087, 8
+1, business lunch meeting, 0.681013, 9
+2, fried red potatoes, 0.824912, 0
+2, root beer refill, 0.78294, 0
+2, Artichoke appetizer, 0.695003, 1
+2, chicken breast, 0.692748, 2
+2, bratty kids, 0.687696, 2
+2, Dr. Pepper, 0.915517, 3
+2, service, 0.889207, 3
+2, food, 0.855652, 5
+2, drinks, 0.657478, 5
+2, Applebee, 0.888076, 6
+2, Meal Grilled chicken, 0.841358, 6
+2, somewhat healthy choices, 0.849422, 7
+2, replacement meal, 0.789946, 7
+2, favorite restaurant, 0.686723, 8
+2, Good deal, 0.666976, 8
+2, great restaurant, 0.671327, 9
+3, certain menu items, 0.837038, 0
+3, average American grub, 0.825584, 0
+3, Predictable chain food, 0.84004, 1
+3, anti-chain people, 0.737449, 1
+3, bad default option, 0.843846, 2
+3, Butter Pecan Blondie, 0.814954, 2
+3, Applebee, 0.929149, 3
+3, local middle school, 0.816866, 3
+3, variety decent food, 0.864948, 6
+3, quesadillas,bbq chicken salad, 0.82832, 6
+3, pretty good service, 0.88417, 7
+3, Happy hour times, 0.778338, 7
+3, late night, 0.829948, 8
+3, work spot, 0.743789, 8
+3, new campaign, 0.723558, 9
+3, practical consideration, 0.721542, 9
+4, wonderful host Stew, 0.850447, 0
+4, Maple Butter Blondie, 0.839289, 0
+4, tired chick, 0.869768, 1
+4, hot food, 0.750209, 1
+4, chain restaurant, 0.758924, 2
+4, cold tho, 0.743267, 2
+4, vast Phoenix metropolis, 0.857296, 4
+4, food, 0.76403, 4
+4, Thanks Apple Bee, 0.876929, 6
+4, crazy karaoke nights, 0.844719, 6
+4, Apple Bee, 0.91097, 7
+4, fast service place, 0.891636, 7
+4, sirloin steak, 0.786606, 8
+4, nice evening, 0.755656, 8
+4, nice girls night, 0.861644, 9
+4, perfect portioned fruit, 0.851606, 9
+5, particular Applebees, 0.616314, 0
+5, GM, 0.215343, 0
+5, waitress, 0.232863, 1
+5, unhappiness, 0.230265, 2
+5, bad service, 0.530714, 3
+5, location, 0.300166, 3
+5, Applebee, 0.622617, 6
+5, stars, 0.20772, 6
+5, great lengths, 0.554695, 7
+5, single person, 0.553781, 7
+5, cheese chicken penne, 0.92498, 8
+5, favorite waiter, 0.671112, 8
+5, princess incredible service, 0.875843, 9
+5, great service, 0.563303, 9

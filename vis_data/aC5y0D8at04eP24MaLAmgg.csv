@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, dance floor, 0.804523, 0
+2, wedding party, 0.755086, 0
+2, escape, 0.334225, 1
+2, Attic, 0.905675, 2
+2, mellow night, 0.899644, 2
+2, weekend nights, 0.913078, 3
+2, bar cause, 0.8043, 3
+2, busy night, 0.81458, 6
+2, people, 0.434169, 7
+3, Civil War soldiers, 0.818245, 0
+3, Playboy bunnies, 0.642095, 0
+3, secret cigar room, 0.762165, 1
+3, sister bar, 0.61367, 1
+3, Uptown bar crowd, 0.849663, 2
+3, hidden cigar bar, 0.798279, 2
+3, weekends, 0.444093, 3
+3, drunk couples, 0.620481, 4
+3, Attic, 0.99689, 5
+3, Halloween weekend, 0.629979, 6
+3, stiff drinks, 0.623221, 6
+3, great balcony, 0.895168, 7
+3, Tryon Street, 0.647583, 7
+3, nice place, 0.842206, 8
+3, unique place, 0.667227, 8
+3, pretty cool bar, 0.812529, 9
+3, uptown evening, 0.670177, 9
+4, young crowd, 0.704152, 0
+4, outdoor area, 0.69816, 0
+4, lounge seating, 0.64471, 1
+4, bar space, 0.638576, 1
+4, Attic Bar, 0.711719, 2
+4, sports bar, 0.667779, 2
+4, Saturday nights, 0.663269, 3
+4, breather, 0.466687, 3
+4, little corner, 0.647979, 4
+4, tons, 0.451425, 4
+4, people, 0.849761, 6
+4, intersection, 0.459672, 6
+4, shimmering city lights, 0.915076, 7
+4, Tryon St, 0.71128, 7
+4, nice casual place, 0.898061, 8
+4, street level, 0.897304, 8
+4, great drinks, 0.712271, 9
+4, party buses, 0.68665, 9

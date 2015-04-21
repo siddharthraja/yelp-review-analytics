@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, busted speaker, 0.790839, 0
+1, douche bag, 0.785601, 0
+1, crazy drug addict, 0.987571, 1
+1, Horrible location, 0.780105, 1
+1, music scene, 0.780593, 2
+1, bar/restaurant/music venues, 0.751326, 2
+1, ears length, 0.7461, 3
+1, crackheads, 0.583453, 3
+1, great dive bar, 0.931271, 6
+1, cool bartenders, 0.784258, 6
+1, Beauty Bar, 0.740745, 7
+1, video poker, 0.729091, 7
+1, fun downtown, 0.803537, 8
+1, cool places, 0.754917, 8
+2, cookie cutter  bar, 0.733852, 0
+2, extremely expensive PA, 0.721512, 0
+2, identity crisis, 0.624626, 1
+2, big clubs, 0.622198, 1
+2, crappy local bands, 0.770098, 2
+2, local bar, 0.730814, 2
+2, bar, 0.776383, 3
+2, new corporate hipster-vampires, 0.74843, 3
+2, Blonde Redhead, 0.967939, 5
+2, new shiny colors, 0.748973, 6
+2, longest mid-set pause, 0.716684, 6
+2, nice dSLR-type camera, 0.722267, 7
+2, new favorite venues, 0.719693, 7
+2, customer service skills, 0.749717, 9
+3, popular local bands, 0.72651, 0
+3, especially female patrons, 0.724466, 0
+3, Drink prices, 0.634956, 1
+3, convoluted alley, 0.623967, 2
+3, interior decoration, 0.622695, 2
+3, local rock shows, 0.746628, 3
+3, punk rock, 0.731585, 3
+3, bunkhouse, 0.879369, 4
+3, right folks bunkhouse, 0.838483, 6
+3, East Fremont, 0.755212, 6
+3, loud rock music, 0.948688, 7
+3, Good drinks, 0.670867, 7
+3, local bands, 0.868802, 8
+3, live local bands, 0.771685, 8
+3, total makeover courtesy, 0.722082, 9
+3, fantastic night, 0.644491, 9
+4, live music bar, 0.888717, 0
+4, Great little bar, 0.868646, 0
+4, bar video poker, 0.816641, 1
+4, tasteless bar food, 0.845321, 3
+4, alcoholic slurpee people, 0.811583, 3
+4, place, 0.968214, 5
+4, little dive bar, 0.839345, 6
+4, funny local people, 0.825589, 6
+4, dive bar, 0.937303, 7
+4, music, 0.904289, 7
+4, Great music venue, 0.855948, 8
+4, best place, 0.841441, 8
+4, nice weather night, 0.824078, 9
+4, reliably good lunch, 0.817593, 9
+5, Las Vegas Boulevard., 0.767534, 0
+5, large seating area, 0.765288, 0
+5, Downtown Project, 0.827529, 1
+5, sloppy joes, 0.769741, 1
+5, vegetarian sloppy joes, 0.748809, 2
+5, glazed turkey sandwich, 0.740717, 2
+5, total dive bar, 0.76574, 3
+5, fremont street, 0.757207, 3
+5, outdoor area, 0.737209, 4
+5, place, 0.988715, 5
+5, tree, 0.766655, 5
+5, Las Vegas, 0.914167, 6
+5, outdoor seating area, 0.758979, 6
+5, bunkhouse, 0.921548, 7
+5, live music, 0.913669, 7
+5, new renovated Bunkhouse, 0.845456, 8
+5, lesser known band, 0.755199, 8
+5, great place, 0.798998, 9
+5, downtown Las Vegas, 0.76518, 9

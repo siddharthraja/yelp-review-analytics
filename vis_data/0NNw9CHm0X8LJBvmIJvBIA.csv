@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+2, Football dominates, 0.726797, 0
+2, sports bar, 0.714757, 0
+2, misconceptions, 0.459648, 1
+2, Bugs, 0.455739, 1
+2, Camp Randall, 0.729836, 2
+2, janitor, 0.479168, 2
+2, slow summer night, 0.916492, 3
+2, football Saturdays, 0.70331, 3
+2, place, 0.580741, 4
+2, beer selection, 0.909217, 5
+2, game, 0.610365, 5
+2, better air conditioner, 0.910884, 6
+2, decent spot, 0.693838, 6
+2, dollar beer night, 0.93292, 7
+2, Early morning drinks, 0.930495, 7
+3, extra small cup, 0.793636, 0
+3, tartar sauce, 0.628275, 0
+3, 2-for-1 Long Islands-night, 0.919991, 1
+3, bumpy ride, 0.633612, 2
+3, douchey way, 0.59344, 2
+3, cheap beers, 0.60437, 3
+3, people, 0.380027, 3
+3, Good place, 0.562967, 6
+3, Friday fish, 0.553032, 6
+3, incredibly good time, 0.774908, 7
+3, horror stories, 0.61034, 7
+3, potato pancakes, 0.896967, 8
+3, chicken chili, 0.876045, 8
+3, helpful wait staff, 0.817945, 9
+4, standard bar food, 0.565064, 0
+4, college-town sports bar, 0.534724, 0
+4, 5-star sports bar, 0.561665, 1
+4, sports bars, 0.559232, 1
+4, sports bar, 0.656044, 2
+4, sports bar fool, 0.541444, 2
+4, bar food, 0.660245, 3
+4, burgers type situation, 0.519739, 3
+4, food, 0.694944, 4
+4, place, 0.632026, 4
+4, night fish fry, 0.690219, 6
+4, Friday night fish, 0.654626, 6
+4, fish fry, 0.970871, 7
+4, friday fish fry, 0.783691, 7
+4, sweet potato fries, 0.619201, 8
+4, clam chowder soup, 0.599802, 8
+4, great UW atmosphere, 0.559678, 9
+4, Great potato choices, 0.549587, 9
+5, hella big booth, 0.71973, 0
+5, Wisconsin football game, 0.71239, 0
+5, college bar fool, 0.739072, 1
+5, Famous Sloppy Joe, 0.708699, 1
+5, sloppy joe, 0.738422, 2
+5, bad experience, 0.704264, 2
+5, best sloppy joe, 0.724373, 3
+5, cutie little half, 0.707942, 3
+5, food, 0.834177, 5
+5, fish fry, 0.982446, 6
+5, great sports bar, 0.768503, 6
+5, clam chowder, 0.790482, 7
+5, Friday fish, 0.77322, 7
+5, great place, 0.963957, 8
+5, sweet potato fries, 0.796346, 8
+5, Friday fish fry, 0.766773, 9
+5, best Fish Fry, 0.758232, 9

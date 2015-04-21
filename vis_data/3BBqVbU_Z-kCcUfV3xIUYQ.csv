@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, great beer selection, 0.875657, 0
+1, Adrenaline Sports Bar, 0.860204, 0
+1, sound guy, 0.875664, 1
+1, filthy dump, 0.762288, 1
+1, loose change, 0.87522, 2
+1, dirty cesspool, 0.716165, 2
+1, loose change play, 0.861405, 3
+1, shocked expression, 0.736014, 3
+1, local bands, 0.707245, 4
+1, food, 0.542337, 4
+1, bands, 0.809154, 5
+1, small plastic juice, 0.931916, 6
+1, first-hand experience, 0.744834, 6
+1, star, 0.541, 7
+1, cheaper drink prices, 0.86516, 8
+1, bartender, 0.550404, 8
+2, Cheyenne Saloon, 0.953401, 0
+2, local band Kreep, 0.725211, 0
+2, sketchy environment, 0.413517, 2
+2, cigarette smoke, 0.413028, 3
+2, Monday evening, 0.412422, 3
+2, sound, 0.228102, 4
+2, unknown garage rock, 0.667773, 6
+2, surprisingly unknown Anvil, 0.858358, 7
+2, crazy fun night, 0.680865, 8
+2, intimate setting, 0.412027, 8
+2, good rock, 0.396652, 9
+2, real chance, 0.388405, 9
+3, Cheyenne Saloon time, 0.655864, 0
+3, local band, 0.652615, 0
+3, Generic energy drinks, 0.617603, 1
+3, le sigh, 0.520183, 1
+3, cramped dive bars, 0.634501, 2
+3, concert floor, 0.619719, 2
+3, pool tables, 0.915264, 3
+3, pretty long bar, 0.692867, 3
+3, shows, 0.587172, 4
+3, dive bar, 0.975969, 5
+3, place, 0.682904, 5
+3, music venue, 0.756215, 6
+3, drink selection, 0.649934, 6
+3, good place, 0.641221, 7
+3, Good setup, 0.534175, 7
+3, human sized Malboro, 0.624163, 9
+4, underground metal shows, 0.765313, 0
+4, pretty smokey, 0.66754, 0
+4, bar prices, 0.645605, 1
+4, mixed drinks, 0.643264, 1
+4, dive bar, 0.803848, 2
+4, local punk shows, 0.742784, 2
+4, Cheyenne Saloon, 0.76489, 3
+4, hardcore metal bands, 0.722134, 3
+4, place, 0.954357, 5
+4, pool tables, 0.911193, 7
+4, North Las Vegas, 0.761154, 7
+4, pretty good price, 0.749276, 8
+4, thrift store shopping, 0.715577, 8
+4, medium sized club, 0.725639, 9
+5, San Francisco bay, 0.790239, 0
+5, heavier local acts, 0.750723, 0
+5, Fear Factory, 0.582151, 1
+5, claustrophobic, 0.451629, 1
+5, heavy music fan, 0.736589, 2
+5, main floor, 0.732529, 2
+5, occasional punk, 0.584767, 3
+5, bar, 0.435301, 3
+5, nondescript strip mall, 0.788699, 6
+5, furthest corner, 0.62208, 6
+5, Cheyenne Saloon, 0.915909, 7
+5, great photo opportunities, 0.734288, 7
+5, fantastic shithole, 0.611021, 8
+5, great place, 0.610308, 8
+5, somewhat rowdy clientele, 0.766368, 9
+5, real downsides, 0.633666, 9

@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, LOUD BLUR, 0.779563, 0
+1, maximum amplification, 0.760503, 0
+1, poor management, 0.780014, 1
+1, BAD reputation, 0.748204, 1
+1, lower cover, 0.822756, 2
+1, nicer, 0.452345, 2
+1, dime, 0.425632, 3
+1, dump, 0.407889, 3
+1, place, 0.961714, 4
+1, favor, 0.421543, 6
+1, bar, 0.397272, 6
+1, places, 0.394377, 7
+1, loud music, 0.785986, 8
+2, upstairs patio, 0.803099, 0
+2, high expectations, 0.742196, 0
+2, electronic music venue, 0.927743, 1
+2, breath, 0.478223, 1
+2, energy level, 0.711727, 2
+2, main floor, 0.70017, 2
+2, clubs, 0.46237, 3
+2, Saturday night, 0.784453, 6
+2, mood, 0.483171, 6
+3, cocktail making ability, 0.842868, 0
+3, Phoenix thats, 0.749893, 0
+3, dance floor, 0.729545, 1
+3, ridiculous amounts, 0.728585, 1
+3, different age groups, 0.84729, 2
+3, club scene, 0.758485, 2
+3, loud scene, 0.759618, 3
+3, out-of-town friends, 0.74587, 3
+3, time, 0.733525, 4
+3, club, 0.966802, 5
+3, place, 0.875521, 6
+3, Phoenix southern mix, 0.830568, 6
+3, Phoenix, 0.969205, 7
+3, special event, 0.86906, 7
+3, rooftop patio, 0.888553, 8
+3, multiple levels, 0.880215, 8
+4, multiple levels, 0.828375, 0
+4, crowd, 0.584412, 0
+4, fight, 0.512708, 2
+4, A++, 0.903817, 6
+4, Bartenders, 0.635142, 6
+4, A+++, 0.428866, 7
+4, DJs, 0.55597, 8
+4, talent, 0.53257, 8
+5, crazy night, 0.907459, 0
+5, Good atmosphere, 0.859384, 7
+5, fun, 0.482265, 7
+5, Good drinks, 0.906214, 8
+5, location, 0.454328, 8

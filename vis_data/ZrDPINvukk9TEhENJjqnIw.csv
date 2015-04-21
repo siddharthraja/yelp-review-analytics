@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, Nrned Y'er Cookie, 0.963675, 0
+1, house salad eater, 0.924808, 0
+1, food, 0.835296, 1
+1, bad service, 0.721045, 1
+1, consumer beware, 0.709702, 2
+1, RAW, 0.58587, 2
+1, hit wings, 0.771147, 3
+1, fries, 0.654874, 3
+1, service, 0.962938, 4
+1, wings, 0.910728, 4
+1, dobson location, 0.863892, 6
+1, Cobb Salad, 0.763105, 6
+1, ice cream, 0.932219, 7
+1, bleu cheese dressing, 0.865063, 7
+2, uncomfortable blank stare, 0.933292, 0
+2, dozen hot wings, 0.886247, 0
+2, wrong food, 0.637042, 1
+2, server, 0.4545, 1
+2, pepper wings, 0.679965, 2
+2, food, 0.659997, 2
+2, Native New Yorker, 0.849441, 3
+2, fried fish sandwich, 0.844167, 3
+2, waiter, 0.526111, 4
+2, restaurant, 0.488825, 4
+2, time, 0.905067, 5
+2, ranch chicken flatbread, 0.875477, 7
+2, wing sauces, 0.642382, 7
+2, site, 0.44948, 8
+3, Garbage Pizza ****, 0.725806, 0
+3, correct wings, 0.637028, 0
+3, way, 0.258296, 1
+3, grill chicken breast, 0.783991, 2
+3, fried onion strings..not, 0.7834, 2
+3, curly fries, 0.900584, 3
+3, wings, 0.662454, 3
+3, service, 0.436033, 4
+3, chicken bacon ranch, 0.802942, 6
+3, mom, 0.266866, 6
+3, Native New Yorker, 0.871039, 7
+3, best fries, 0.866446, 7
+3, ranch flatbread appetizer, 0.791809, 8
+3, waitress, 0.290716, 8
+3, Signal Butte location, 0.796079, 9
+4, potential first time, 0.512439, 0
+4, goers, 0.286816, 0
+4, Native New Yorker, 0.824233, 2
+4, curly fries, 0.630362, 2
+4, sports bar style, 0.841999, 3
+4, wings, 0.622867, 3
+4, food, 0.428135, 4
+4, cheese, 0.356754, 4
+4, location, 0.349896, 5
+4, light batter, 0.606689, 6
+4, kids, 0.268848, 6
+4, reuben sandwich, 0.662513, 7
+4, mozzarella sticks, 0.610283, 7
+4, pretty good specials, 0.903643, 8
+4, Thursday nights, 0.609449, 8
+4, area, 0.270383, 9
+4, place, 0.270279, 9
+5, coupon, 0.573649, 0
+5, little time, 0.761464, 1
+5, server pre, 0.759833, 1
+5, area, 0.619042, 2
+5, manager, 0.607296, 5
+5, place, 0.557255, 6
+5, Philly steak, 0.798971, 7
+5, husband, 0.651137, 7
+5, wedge salad, 0.799958, 8
+5, Great prices, 0.747406, 8
+5, Randy Travis look-alike, 0.977123, 9
+5, chance, 0.564188, 9

@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, late night place, 0.511393, 0
+1, low key place, 0.487468, 0
+1, room change, 0.51769, 1
+1, Creepy ass hotel, 0.505038, 1
+1, room service, 0.542384, 2
+1, health code violations, 0.513201, 2
+1, service, 0.596275, 3
+1, floor elevator, 0.4953, 3
+1, room, 0.912821, 4
+1, hotel, 0.890651, 4
+1, place, 0.778123, 5
+1, night, 0.649235, 5
+1, Michael Angelo Suit, 0.505678, 6
+1, decor, 0.48956, 6
+1, entire hotel staff, 0.512131, 7
+1, pool area, 0.490887, 7
+1, Artisan Hotel, 0.519047, 8
+1, wedding night, 0.481345, 8
+2, Mary Cassatt room, 0.590749, 0
+2, Sunday night, 0.589651, 0
+2, night club, 0.592529, 1
+2, good way, 0.590861, 1
+2, Room key card, 0.610515, 2
+2, hotel room, 0.607723, 2
+2, open bar, 0.601664, 3
+2, Valet only hotel, 0.588242, 3
+2, people, 0.747217, 4
+2, bar, 0.728374, 4
+2, hotel, 0.988459, 5
+2, place, 0.888835, 5
+2, ......., 0.596477, 6
+2, pre halloween night, 0.57839, 6
+2, hotel lobby, 0.580775, 7
+2, pool party, 0.580555, 7
+2, boutique hotel, 0.639726, 8
+2, small clean room, 0.602418, 9
+2, interesting boutique hotel, 0.600425, 9
+3, hotel room, 0.70298, 0
+3, valet parking, 0.697571, 0
+3, dark artsy hotel, 0.709931, 1
+3, little bar area, 0.706256, 2
+3, typical Vegas room, 0.699357, 2
+3, Las Vegas, 0.693623, 3
+3, service, 0.686666, 3
+3, night, 0.791294, 4
+3, people, 0.758129, 4
+3, place, 0.996223, 5
+3, room, 0.969935, 5
+3, music, 0.699277, 6
+3, decor, 0.698967, 6
+3, boutique hotel, 0.817772, 7
+3, Artisan Boutique Hotel, 0.703058, 7
+3, long time, 0.734012, 8
+3, great place, 0.713075, 8
+3, pretty cool hotel, 0.705131, 9
+3, regular Vegas scene, 0.676759, 9
+4, standard king room, 0.68606, 0
+4, smoke free hotel, 0.685164, 0
+4, room, 0.925566, 4
+4, time, 0.736434, 4
+4, place, 0.984264, 5
+4, hotel, 0.933374, 5
+4, lounge, 0.764275, 6
+4, pool area, 0.718363, 6
+4, old victorian hotel, 0.717044, 7
+4, strip place, 0.6777, 7
+4, great place, 0.745077, 8
+4, pool lounge area, 0.697555, 8
+4, Artisan Lounge, 0.730947, 9
+4, cool lounge vibe, 0.682158, 9
+5, dark place, 0.611224, 0
+5, dark lounge music, 0.600603, 0
+5, ......., 0.604333, 1
+5, dark wood bar, 0.598908, 1
+5, hide away place, 0.588165, 3
+5, strip, 0.588749, 4
+5, place, 0.98669, 5
+5, hotel, 0.759246, 5
+5, Las Vegas, 0.84937, 6
+5, artisan, 0.847712, 6
+5, artisan hotel, 0.673559, 7
+5, boutique hotel, 0.644491, 7
+5, artisan lounge, 0.629958, 8
+5, Thanks Artisan, 0.617205, 8
+5, Artisan Afterhours Party, 0.631025, 9
+5, great place, 0.620147, 9

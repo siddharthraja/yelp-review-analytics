@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, lousy diet coke, 0.581862, 0
+1, late saturday afternoon, 0.561892, 0
+1, old town tavern, 0.937854, 1
+1, extremely bad experience, 0.593848, 1
+1, miserable bartender, 0.514359, 2
+1, trip, 0.418787, 2
+1, children, 0.446065, 3
+1, business, 0.432026, 3
+1, civic center lawn, 0.572265, 6
+1, Small patio, 0.489475, 6
+1, civic center, 0.59123, 7
+1, great staff, 0.503509, 7
+1, great bars, 0.49651, 8
+1, Center public lawn, 0.569874, 9
+1, wonderful time, 0.494078, 9
+2, local watermelon beer, 0.915298, 0
+2, couple drinks, 0.541135, 0
+2, Snobby waitress, 0.556162, 1
+2, scavenger hunt, 0.951315, 2
+2, debit card, 0.46415, 2
+2, Yelp Holiday Scavenger, 0.943491, 3
+2, Expensive drinks, 0.643945, 3
+2, business, 0.232215, 5
+2, cute little place, 0.813888, 6
+2, beaten path, 0.579708, 6
+2, good selection, 0.461883, 7
+2, lady customers, 0.464369, 9
+3, friendly neighborhood bar, 0.956284, 0
+3, Spring Training game, 0.923284, 0
+3, Yelp friends, 0.825509, 1
+3, different types, 0.809783, 1
+3, price range, 0.817029, 2
+3, wider variety, 0.788386, 2
+3, real big place, 0.97182, 3
+3, Occasional live music, 0.929483, 3
+3, patio area, 0.790887, 6
+3, flower bed, 0.789292, 6
+3, pretty good cover, 0.920051, 7
+3, folks, 0.867126, 7
+3, Nice place, 0.791837, 8
+3, food places, 0.787218, 8
+4, civic center mall, 0.459624, 0
+4, decent live music, 0.451595, 0
+4, old school bar, 0.472494, 2
+4, small bar, 0.426754, 2
+4, draft beer, 0.449617, 3
+4, older crowd, 0.417156, 3
+4, bar, 0.773839, 4
+4, old town, 0.990019, 5
+4, place, 0.730296, 5
+4, live music, 0.953526, 6
+4, normal friendly bar, 0.458152, 6
+4, Great little place, 0.57576, 7
+4, Old Town Scottsdale, 0.55756, 7
+4, great place, 0.616804, 8
+4, patio, 0.534158, 8
+4, great patio seating, 0.471612, 9
+4, great casual vibe, 0.465158, 9
+5, great little bar, 0.442088, 0
+5, fun local place, 0.344021, 0
+5, typical Scottsdale bar, 0.346347, 2
+5, typical big bar, 0.328937, 2
+5, average Old Town, 0.330784, 3
+5, old town tavern, 0.765954, 4
+5, bar, 0.583245, 5
+5, Old Town Scottsdale, 0.412127, 5
+5, old town, 0.955995, 6
+5, place, 0.750617, 6
+5, live music, 0.684169, 7
+5, great little event, 0.379823, 7
+5, great place, 0.439239, 8
+5, great people, 0.41157, 8
+5, great live music, 0.437147, 9
+5, Great local bar, 0.383663, 9

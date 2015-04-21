@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, bartenders suck, 0.973836, 0
+2, spur lounge, 0.962445, 0
+3, misguided karaoke singers, 0.93708, 0
+3, convinently located ATM, 0.89409, 0
+3, damn rare thing, 0.88843, 1
+3, Karaoke night, 0.69653, 1
+3, Bikini Lounge, 0.735449, 2
+3, bent cues, 0.707893, 2
+3, pool tables, 0.930392, 3
+3, cheap strong drinks, 0.904542, 3
+3, dive bar, 0.908315, 6
+3, different kind, 0.713621, 6
+3, outdoor patio, 0.651568, 7
+3, jukebox, 0.44933, 7
+4, cent pool tables, 0.824824, 0
+4, good country music, 0.820255, 0
+4, little hole-in-the-wall, 0.69202, 1
+4, cash bar, 0.678339, 1
+4, decent bar menu, 0.846888, 2
+4, pretty small place, 0.813668, 2
+4, neighborhood watering hole, 0.877536, 3
+4, country dive bar, 0.843925, 3
+4, dive bar, 0.948755, 5
+4, Great dive bar, 0.860792, 6
+4, Saturday nights, 0.850783, 6
+4, cocktail dress kind, 0.858513, 7
+4, Nice dive bar, 0.855459, 7
+4, pretty good crowd, 0.837676, 8
+4, outdoor smoking patio, 0.79821, 8
+4, good dive, 0.724883, 9
+5, cheap beers, 0.755913, 0
+5, Taco Tuesdays, 0.722236, 0
+5, Pool Table, 0.663203, 6
+5, drinks, 0.307518, 6
+5, bar,awesome crowd.great bartenders.ask, 0.976916, 7
+5, Sammie Juice, 0.766495, 7
+5, dive bar expert, 0.952988, 8
+5, place, 0.342389, 8
+5, Bright lights, 0.693461, 9
+5, friendly attitude, 0.684098, 9

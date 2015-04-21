@@ -1,0 +1,93 @@
+rating, keyword, relevance, bucket
+1, worst service, 0.540468, 0
+1, worst service bar/restaurants, 0.465733, 0
+1, good looking server, 0.472256, 1
+1, poor customer service, 0.453967, 1
+1, table, 0.487316, 2
+1, time, 0.475856, 2
+1, manager, 0.586326, 3
+1, ........., 0.529609, 3
+1, twin peaks, 0.950202, 4
+1, service, 0.786732, 4
+1, bar, 0.50488, 5
+1, menu, 0.446122, 5
+1, somewhat attractive girls, 0.453229, 6
+1, togo box, 0.431899, 6
+1, Great big attitudes, 0.448949, 7
+1, Ice cold beer, 0.438598, 7
+1, better service staff, 0.47475, 8
+1, Great big boobies, 0.451941, 8
+2, tasting brown beer, 0.564712, 0
+2, tight time limit, 0.563178, 0
+2, good beer selection, 0.588949, 1
+2, average bar food, 0.581988, 1
+2, Sorry twin peaks, 0.580845, 2
+2, scantily clad servers, 0.563032, 2
+2, service, 0.64638, 3
+2, time, 0.611724, 3
+2, food, 0.779764, 4
+2, beer, 0.604486, 4
+2, twin peaks, 0.926945, 5
+2, place, 0.730858, 5
+2, service good food, 0.599936, 6
+2, typical bar food, 0.593085, 6
+2, eye candy staff, 0.559775, 7
+2, better food, 0.569588, 8
+2, real meatloaf IMHO, 0.569165, 8
+2, good looking people, 0.587236, 9
+2, scantily dressed waitresses, 0.581222, 9
+3, good bar, 0.611741, 0
+3, good conversation, 0.607426, 0
+3, bar, 0.666417, 1
+3, bar tenders, 0.614702, 1
+3, Good cheap shots, 0.633472, 2
+3, interesting sports bar, 0.601189, 2
+3, hot chicks, 0.644363, 3
+3, coldest draft beer, 0.611274, 3
+3, food, 0.941464, 4
+3, girls, 0.735749, 4
+3, place, 0.870563, 5
+3, beer, 0.764381, 5
+3, pork nachos, 0.731816, 6
+3, decent cheese steak, 0.621706, 6
+3, twin peaks, 0.870913, 7
+3, fish tacos, 0.726394, 7
+3, typical hooters waitresses, 0.645472, 8
+3, fun place, 0.635657, 8
+3, Great place, 0.59559, 9
+4, decent food, 0.517358, 0
+4, Beats Hooters hands, 0.516236, 0
+4, Tilted Kilt, 0.660489, 1
+4, cheap beer specials, 0.504825, 1
+4, Beer COLD food, 0.571807, 2
+4, bubbly young girls, 0.516477, 2
+4, bar food, 0.553823, 3
+4, typical bar food, 0.537892, 3
+4, food, 0.982777, 5
+4, Twin Peaks, 0.929128, 5
+4, better food, 0.595885, 6
+4, great food, 0.574539, 6
+4, good food, 0.573672, 7
+4, Studio Movie Grill, 0.55951, 7
+4, great place, 0.590222, 8
+4, fun place, 0.580022, 8
+4, pretty good selection, 0.54585, 9
+4, Great friendly staff, 0.52616, 9
+5, Carolina Twin Peaks, 0.642383, 0
+5, Twin Peaks restaurant, 0.626678, 0
+5, food runner girl, 0.600334, 1
+5, Italian style service, 0.567875, 1
+5, UFC fight night, 0.551073, 2
+5, bar food, 0.658886, 3
+5, typical bar food, 0.588962, 3
+5, food, 0.844695, 4
+5, service, 0.599578, 4
+5, girls, 0.628411, 5
+5, Twin Peaks, 0.984544, 6
+5, good bar food, 0.621402, 6
+5, good food, 0.720299, 7
+5, great food, 0.57376, 7
+5, place, 0.667683, 8
+5, Philly cheese steak, 0.571813, 8
+5, chicken fried steak, 0.58853, 9
+5, good  service wow, 0.586659, 9

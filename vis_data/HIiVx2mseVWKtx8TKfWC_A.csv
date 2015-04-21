@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, tuna salad, 0.913766, 0
+1, high fructose corn, 0.747619, 0
+1, barely visible menu, 0.752468, 1
+1, dark brown layer, 0.739762, 1
+1, brown wilted lettuce, 0.733606, 2
+1, big fat tomato, 0.726313, 2
+1, cheap white bread, 0.749771, 3
+1, skimpy sandwich, 0.726005, 3
+1, sandwich, 0.847551, 4
+1, duck, 0.854786, 5
+1, place, 0.840896, 5
+1, small wine area, 0.754084, 6
+1, water chestnuts, 0.747313, 6
+1, weekly Empowerment meeting, 0.753646, 7
+1, sourdough bread, 0.74423, 7
+1, Central Phoenix, 0.825879, 8
+1, non alcoholic beer, 0.744431, 8
+1, happily buzzing place, 0.786675, 9
+1, sugary add ons, 0.747093, 9
+2, simple sandwich order, 0.972506, 0
+2, egg salad sandwich, 0.961491, 0
+2, overpriced convenience store, 0.917045, 1
+2, dusty unbussed tables, 0.916763, 1
+2, sandwich bread, 0.846999, 2
+2, half sandwich, 0.822848, 2
+2, right thing, 0.799889, 3
+2, better food, 0.782482, 3
+2, food, 0.919213, 4
+2, sandwiches, 0.726215, 4
+2, place, 0.93859, 5
+2, great little cafe, 0.886504, 6
+2, good food, 0.771689, 6
+2, friendly staff, 0.774407, 8
+2, Jimmy John, 0.764828, 8
+3, tuna salad sandwich, 0.675032, 0
+3, duck sandwich, 0.638704, 0
+3, bad stuff, 0.545727, 1
+3, brie sandwich, 0.636969, 2
+3, sandwich maker, 0.586267, 2
+3, sandwiches, 0.792531, 3
+3, Reuben Sandwich, 0.590926, 3
+3, place, 0.746801, 4
+3, stuff, 0.553019, 4
+3, sandwich, 0.932134, 5
+3, food, 0.545427, 5
+3, sandwich place, 0.702934, 6
+3, pork bbq sandwich, 0.639553, 6
+3, deli type sandwich, 0.674699, 7
+3, tasty sandwiches, 0.593381, 7
+3, outdoor seating, 0.581458, 8
+3, Good sandwiches, 0.58064, 8
+3, veggie sandwich, 0.640557, 9
+3, neat little place, 0.552399, 9
+4, muenster sandwich, 0.69087, 0
+4, Daily sandwich specials, 0.679756, 0
+4, big sandwich, 0.67179, 2
+4, ham sandwich, 0.658136, 2
+4, lovely sandwich shop/bar, 0.705427, 3
+4, regular sandwich prices, 0.686365, 3
+4, sandwich places, 0.699393, 4
+4, sandwich, 0.956815, 5
+4, wine, 0.713671, 5
+4, place, 0.837522, 6
+4, sandwiches, 0.746836, 6
+4, live music, 0.762312, 7
+4, patio, 0.702365, 7
+4, great sandwich, 0.822701, 8
+4, nice deli sandwich, 0.719914, 8
+4, great place, 0.740168, 9
+4, chicken salad sandwich, 0.711211, 9
+5, specialty duck sandwich, 0.637638, 0
+5, roast beef sandwich, 0.583469, 0
+5, turkey sandwich, 0.569976, 2
+5, Phoenix sandwich shop, 0.560513, 3
+5, duck, 0.827848, 4
+5, sandwich, 0.968971, 5
+5, wine, 0.663792, 5
+5, place, 0.868772, 6
+5, sandwiches, 0.739397, 6
+5, live music, 0.8585, 7
+5, best sandwich, 0.601112, 7
+5, great place, 0.610993, 8
+5, patio, 0.572502, 8
+5, great quality sandwich, 0.592055, 9
+5, best sandwich places, 0.573482, 9

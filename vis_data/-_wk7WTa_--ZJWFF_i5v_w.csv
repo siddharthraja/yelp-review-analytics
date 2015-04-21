@@ -1,0 +1,34 @@
+rating, keyword, relevance, bucket
+3, little food options, 0.763479, 0
+3, pool tables, 0.584573, 0
+3, little dive bar, 0.877446, 3
+3, pinball machine, 0.612724, 3
+3, decent sized tv, 0.923694, 6
+3, pro football games, 0.829622, 6
+3, free nachos, 0.673399, 8
+3, bartender, 0.415367, 9
+4, snack, 0.472007, 0
+4, good size patio, 0.951623, 2
+4, ping-pong table, 0.728282, 2
+4, bar food options, 0.877482, 3
+4, locust, 0.491273, 3
+4, place, 0.550512, 4
+4, Great little neighborhood, 0.894277, 6
+4, Monday night, 0.738281, 6
+4, great job, 0.650161, 9
+4, waitress, 0.497439, 9
+5, various sports events, 0.830547, 0
+5, take-out menu, 0.710082, 0
+5, food joints, 0.697561, 1
+5, semi-dive bars, 0.679968, 2
+5, worries, 0.546411, 2
+5, little neighborhood bar, 0.845805, 3
+5, patrons, 0.537111, 3
+5, free pool Wednesdays, 0.907786, 6
+5, specialty drink, 0.742053, 6
+5, free ping pong, 0.843778, 7
+5, rare commodity, 0.706592, 7
+5, great atmosphere, 0.89563, 8
+5, great outdoor patio, 0.852249, 8
+5, fun crowd, 0.67604, 9
+5, good friends, 0.670361, 9

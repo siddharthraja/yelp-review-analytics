@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+2, concert experience, 0.540058, 3
+2, flashes, 0.397506, 3
+2, overly zealous ushers, 0.987257, 7
+2, nice venue, 0.624072, 7
+4, famous Firebird sculpture, 0.678038, 0
+4, Conveniently located uptown, 0.661911, 0
+4, human traffic jams, 0.679972, 1
+4, long ass line, 0.644717, 1
+4, lower level, 0.675465, 2
+4, bad seat, 0.73266, 3
+4, cheap seats, 0.672372, 3
+4, seats, 0.900693, 5
+4, house, 0.611545, 5
+4, beautiful Knight Theater, 0.726576, 6
+4, best seats, 0.670196, 6
+4, light rail, 0.686713, 7
+4, comedy shows, 0.671139, 7
+4, Knight Theater, 0.981984, 8
+4, great place, 0.727792, 8
+4, typical proscenium stage, 0.662941, 9
+4, Duke Energy building, 0.66238, 9
+5, Blumenthal season tickets, 0.795547, 0
+5, Duke Energy Center, 0.786743, 0
+5, parking deck traffic, 0.809199, 2
+5, Duke Energy, 0.804896, 2
+5, Slowest elevator, 0.641143, 3
+5, upcoming shows, 0.639095, 6
+5, universal symbol, 0.629256, 6
+5, great seats, 0.663363, 7
+5, amazing night, 0.656136, 7
+5, Knight Theater, 0.98361, 8
+5, row center, 0.769143, 8
+5, great seating options, 0.772383, 9
+5, great night, 0.680206, 9

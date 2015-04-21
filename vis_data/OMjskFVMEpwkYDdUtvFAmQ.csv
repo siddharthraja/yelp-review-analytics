@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+1, iceberg lettuce, 0.937739, 0
+1, Thai tea, 0.735708, 0
+1, dish, 0.419004, 1
+1, peanut dressing, 0.807699, 3
+1, tablespoons, 0.369891, 3
+1, lettuce wraps, 0.928923, 7
+1, Thanksgiving dressing, 0.809021, 7
+1, new business, 0.733141, 8
+1, tonite, 0.4854, 8
+2, Boulder City Asian, 0.854809, 0
+2, good Asian restaurant, 0.836296, 0
+2, picky husband, 0.706838, 2
+2, service, 0.488028, 2
+2, big deal, 0.697972, 3
+2, Vegetable Lo Mein, 0.983276, 6
+2, Crab puffs, 0.746947, 6
+3, Indian food, 0.630903, 0
+3, Thai place, 0.613944, 0
+3, standard Asian restaurant, 0.843116, 2
+3, little place, 0.627076, 2
+3, important thing, 0.618401, 3
+3, bistro, 0.463413, 3
+3, bit, 0.581042, 4
+3, Boulder City, 0.96869, 5
+3, place, 0.722551, 6
+3, wait staff, 0.612266, 6
+3, good Chinese food., 0.755747, 7
+3, tile floor, 0.621708, 7
+3, huge buddha, 0.633586, 8
+3, tiny place, 0.612915, 8
+4, Egg drop soup, 0.951036, 3
+4, Thai basil, 0.766842, 6
+4, Mongolian beef, 0.783842, 7
+5, green pepper beef, 0.807361, 0
+5, largest Buddah, 0.707039, 0
+5, muddled taste, 0.673325, 2
+5, newly opened restaurant, 0.875938, 3
+5, site, 0.532382, 3
+5, bird nest chicken, 0.855623, 6
+5, pad thai, 0.847696, 6
+5, curry dipping sauce, 0.858265, 7
+5, amazing Peanut sauce, 0.841101, 7
+5, Tom Yum Noodles, 0.854736, 8
+5, curry tastes, 0.716023, 8
+5, newly remodeled restaurant, 0.93591, 9
+5, friendly waitress service, 0.89718, 9

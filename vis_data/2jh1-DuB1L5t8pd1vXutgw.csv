@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, St. Patricks, 0.866144, 0
+1, friend, 0.277648, 0
+1, Huge mistake, 0.955947, 1
+1, rest, 0.497804, 1
+1, St. Patrick, 0.798115, 2
+1, poker bar, 0.777611, 2
+1, beer, 0.379298, 3
+1, single kind, 0.790574, 6
+1, better places, 0.770357, 6
+2, Vegas locals, 0.693477, 0
+2, sampler platter, 0.688384, 0
+2, particular bar man, 0.778573, 1
+2, cleanest bars, 0.695129, 1
+2, Claim Jumper, 0.669628, 2
+2, weak point, 0.664067, 2
+2, average plate, 0.67173, 3
+2, service, 0.566468, 3
+2, place, 0.656267, 5
+2, Chef Salad, 0.68747, 6
+2, shuffle board, 0.670519, 6
+2, good beer specials, 0.906579, 7
+2, Vegas friends, 0.676238, 7
+3, standard pub nachos, 0.977132, 0
+3, decent bar food, 0.91928, 0
+3, beer prices, 0.715223, 1
+3, Gordon Biersch, 0.777428, 2
+3, baseball game, 0.742757, 2
+3, people, 0.640913, 3
+3, yikes, 0.552941, 3
+3, Bilbo, 0.63963, 5
+3, customers, 0.592214, 5
+3, local watering holes, 0.895703, 6
+3, 3-7pm M-F, 0.74314, 6
+3, good place, 0.712417, 7
+3, service, 0.685531, 7
+3, beer deals, 0.706363, 8
+5, bartender, 0.985364, 9
+5, charleston, 0.876669, 9

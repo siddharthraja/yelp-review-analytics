@@ -1,0 +1,16 @@
+rating, keyword, relevance, bucket
+1, good food, 0.538727, 0
+1, regulars, 0.219182, 0
+1, cheap white buns, 0.932083, 1
+1, nasty bun., 0.641181, 1
+1, cheap paper plates, 0.835786, 2
+1, crappy sandwich, 0.653391, 2
+1, bar, 0.206031, 3
+1, wonderful fish sandwich, 0.907631, 6
+1, french fries, 0.569101, 6
+5, man, 0.261655, 2
+5, old crazy stuff, 0.963474, 3
+5, jukebox, 0.349142, 3
+5, liquor selection, 0.707792, 8
+5, Great bar food, 0.954545, 9
+5, chill dinner, 0.804482, 9

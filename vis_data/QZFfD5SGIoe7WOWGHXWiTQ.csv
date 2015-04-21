@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+3, smoking ban fight, 0.930945, 0
+3, black couches, 0.804739, 0
+3, smaller cigar, 0.726282, 1
+3, college kid, 0.709338, 1
+3, nice leather couches, 0.938646, 2
+3, female bartender, 0.751117, 2
+3, leather chairs, 0.690609, 3
+3, way, 0.611329, 3
+3, bar, 0.977661, 4
+3, comfy couches, 0.770106, 6
+3, Thomas spin records, 0.936336, 7
+3, overall cosy atmosphere, 0.871377, 7
+3, good bartender, 0.71974, 8
+3, nice time, 0.682746, 8
+3, Frank Sinatra song, 0.910446, 9
+3, Joe Scalisi, 0.725313, 9
+4, grandpa cigar smoke, 0.873643, 0
+4, hot bartender, 0.632946, 0
+4, statewide smoking ban, 0.672035, 1
+4, cigar bar, 0.768643, 2
+4, cigar smoke, 0.924397, 3
+4, caramel colored intoxicants, 0.709776, 3
+4, Joe Scalissi, 0.673921, 4
+4, nice fat smoke, 0.770931, 6
+4, new non-smoking laws, 0.681282, 6
+4, Maduro, 0.887585, 7
+4, Raspberry Lambic beer, 0.731987, 7
+4, Belgium specialty beer, 0.728456, 8
+4, nice chill music, 0.704211, 8
+4, bartender staff, 0.611992, 9
+5, Pierre Ferrand cognac, 0.868907, 0
+5, Lonnie Liston Smith, 0.858159, 0
+5, usual Yelp research, 0.846692, 1
+5, stronger smoke exhaust, 0.845474, 2
+5, fabric softener sheet, 0.838037, 2
+5, Corona cigar, 0.888737, 3
+5, guy bar tender, 0.882114, 3
+5, madison, 0.832758, 5
+5, cigar, 0.968959, 6
+5, place, 0.91697, 6
+5, conservative cigar aficionados, 0.925919, 7
+5, quaint little place, 0.895492, 7
+5, nice Cigar bar, 0.965382, 8
+5, Flor Fina Cigar, 0.923064, 8
+5, new favorite place, 0.887674, 9
+5, great place, 0.878619, 9

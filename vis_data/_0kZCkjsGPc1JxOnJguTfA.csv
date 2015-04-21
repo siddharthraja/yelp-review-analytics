@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+1, ladies, 0.35125, 0
+1, Vegas, 0.316356, 0
+1, price, 0.313595, 1
+1, ticket, 0.313258, 1
+1, corny, 0.420903, 2
+1, husband, 0.37087, 2
+1, high school drill, 0.955541, 7
+1, team, 0.313048, 7
+2, Vegas topless shows, 0.876383, 0
+2, current strip shows, 0.682454, 0
+2, endless barrage, 0.542681, 1
+2, center tables, 0.531575, 1
+2, total topless time, 0.948511, 2
+2, topless comedian, 0.733507, 2
+2, Planet Hollywood, 0.698695, 3
+2, Australian accents, 0.506814, 3
+2, prerequisite cowgirl scene, 0.666726, 6
+2, Fantasy, 0.370219, 6
+2, half naked girls, 0.659629, 7
+2, fairly attractive women, 0.6562, 7
+2, topless girls, 0.782713, 8
+2, better chance, 0.506926, 8
+2, pretty solid voice, 0.667591, 9
+4, ticket signing/photo session, 0.874057, 0
+4, individual acts Aussie, 0.860232, 0
+4, Crazy Girls, 0.880234, 1
+4, mega showgirl, 0.756457, 1
+4, Sydney, 0.750238, 2
+4, Dark, 0.682427, 2
+4, mouth/social media exposure, 0.883551, 3
+4, Blue Man group, 0.872423, 3
+4, Australian barbie-like girls, 0.893165, 6
+4, basic ticket price, 0.871998, 6
+4, comped tickets, 0.77077, 7
+4, Great description, 0.748731, 7
+4, production values, 0.910522, 8
+4, good production values, 0.907666, 8
+4, hula hoop stuff, 0.856794, 9
+4, aerial ribbon, 0.733213, 9

@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, horrible experience, 0.831985, 0
+1, path, 0.49897, 1
+1, disabled parking, 0.884075, 2
+1, sidewalk, 0.537405, 2
+1, wheelchair, 0.682485, 3
+1, place, 0.48744, 3
+1, Halloween costume party, 0.99623, 6
+1, Bollywood night, 0.776084, 6
+1, Good music, 0.791958, 7
+3, premier rock club, 0.919682, 0
+3, tier national acts, 0.88398, 0
+3, band douche bags, 0.836535, 1
+3, nightclub feel, 0.662175, 1
+3, Club Red, 0.64875, 2
+3, lack, 0.447301, 2
+3, asshole shut, 0.685594, 3
+3, wheelchair, 0.446209, 3
+3, night club area, 0.834309, 4
+3, time, 0.466796, 4
+3, stage, 0.535473, 5
+3, staple gun, 0.645348, 6
+3, adequately strong drinks, 0.895279, 7
+3, sonic cranium abuse, 0.893445, 7
+3, good contemporary music, 0.821678, 8
+3, DJ booth, 0.63378, 8
+3, valley, 0.485638, 9
+3, average, 0.448507, 9
+4, hair band rock, 0.884568, 0
+4, roll night events, 0.884176, 0
+4, lotsa baggy pants, 0.913849, 2
+4, Waffle House parking, 0.849561, 2
+4, local band shows, 0.883001, 3
+4, low reddish lighting, 0.875656, 3
+4, cushy booth seats, 0.892074, 6
+4, Tempe bar world, 0.841401, 6
+4, Romantasy Cabaret, 0.900941, 7
+4, wine drinker, 0.696345, 7
+4, roomy areas, 0.745053, 8
+4, nice spread, 0.729142, 8
+4, Romantasy Cabaret nights, 0.874885, 9
+4, Club Red, 0.754252, 9
+5, Cheap drinks, 0.702726, 0
+5, great bands, 0.576606, 0
+5, hot guys, 0.617419, 2
+5, building, 0.344714, 6
+5, Club Red/Red Owl, 0.982319, 7
+5, Excellent live music, 0.841426, 7
+5, Nice staff, 0.644458, 8

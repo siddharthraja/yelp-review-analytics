@@ -1,0 +1,69 @@
+rating, keyword, relevance, bucket
+1, ice coffee, 0.791977, 0
+1, Waitress, 0.484, 0
+1, guy, 0.439929, 2
+1, Glad Starbucks, 0.920436, 3
+1, cents Service, 0.830148, 3
+1, J. Strickland, 0.791921, 6
+2, different times, 0.760034, 0
+2, iced coffee, 0.735083, 0
+2, vanilla flavor, 0.75018, 1
+2, starbucks, 0.479208, 1
+2, iced vanilla, 0.76633, 2
+2, red flag warning, 0.945948, 3
+2, occasions, 0.534708, 3
+2, pizza, 0.518949, 4
+2, sense, 0.529194, 5
+2, employee, 0.526385, 5
+2, indie places, 0.693704, 6
+2, snacks, 0.472083, 6
+2, average restaurant, 0.686585, 7
+2, Beer selection, 0.675396, 7
+2, music, 0.45916, 8
+3, Cartel brand coffee, 0.930423, 0
+3, coffee shop Scottsdale, 0.881839, 0
+3, Deep Sigh, 0.708081, 1
+3, core customer base, 0.885765, 2
+3, simplest aspect, 0.719944, 2
+3, breakfast sandwich, 0.689326, 3
+3, guy, 0.563866, 3
+3, hummus, 0.552336, 6
+3, brunch, 0.540819, 6
+3, huge deal somebody, 0.852326, 7
+3, good live music, 0.813178, 7
+3, excellent YouTube videos, 0.842476, 8
+3, nice draft selection, 0.830636, 8
+3, great indoor/outdoor space, 0.845361, 9
+3, new Nice ambience, 0.839115, 9
+4, local Cartel coffee, 0.671547, 0
+4, Fun beer selection, 0.65044, 0
+4, Tucson- coffee shops, 0.65905, 1
+4, Coffee cake thingy, 0.659004, 1
+4, local coffee houses, 0.657331, 2
+4, cheap beer flights, 0.642163, 3
+4, open floor plan, 0.623231, 3
+4, cinnamon coffee cake, 0.753296, 4
+4, coffee, 0.972099, 5
+4, place, 0.851671, 5
+4, breakfast sandwich, 0.675151, 6
+4, Sip Coffee, 0.671743, 6
+4, coffee shop, 0.692011, 7
+4, Good ice coffee, 0.6838, 7
+4, beer selection, 0.795571, 8
+4, patio, 0.720678, 8
+4, authentic coffee shop, 0.690791, 9
+4, great neighborhood coffee, 0.673119, 9
+5, Hot Coffee, 0.341184, 0
+5, coffee snobs, 0.336064, 0
+5, little coffee shop, 0.37992, 2
+5, Scottsdale coffee shop, 0.376777, 2
+5, coffee, 0.961057, 5
+5, place, 0.839417, 5
+5, beer, 0.643384, 6
+5, Cartel iced coffee, 0.417493, 6
+5, cartel coffee, 0.481265, 7
+5, coffee house, 0.449061, 7
+5, old town, 0.751019, 8
+5, Old Town Scottsdale, 0.485596, 8
+5, true coffee place, 0.41337, 9
+5, sip coffee, 0.387488, 9

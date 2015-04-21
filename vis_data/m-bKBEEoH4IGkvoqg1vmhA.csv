@@ -1,0 +1,56 @@
+rating, keyword, relevance, bucket
+1, worst hookah bars, 0.77635, 0
+1, worst place, 0.462441, 0
+1, bad service, 0.574122, 1
+1, Bullshit service, 0.462138, 1
+1, landlord, 0.254621, 2
+1, moment, 0.252426, 2
+1, hookah places, 0.584091, 3
+1, employees, 0.365214, 3
+1, time, 0.569258, 4
+1, A/C, 0.329774, 4
+1, place, 0.991648, 5
+1, service, 0.675429, 5
+1, hookah, 0.815068, 6
+1, training issue, 0.474607, 6
+1, ur place, 0.567081, 7
+1, proper caring, 0.432059, 7
+1, quiet place, 0.460303, 8
+1, good luck, 0.448412, 8
+1, hookah place, 0.605199, 9
+1, stars rating, 0.45695, 9
+3, atmosphere, 0.206168, 6
+3, kind, 0.204134, 7
+3, hugh Hookah fan, 0.905979, 8
+3, hookah lounges, 0.740459, 8
+4, hookah bar, 0.905675, 0
+4, Phoenix area hookah, 0.847474, 0
+4, Decent hookah, 0.636651, 1
+4, little bit, 0.3685, 1
+4, phenomenal hookah bars, 0.866954, 2
+4, little smokey, 0.345844, 2
+4, free cinnamon roll, 0.628575, 3
+4, smoke bubbles, 0.391223, 3
+4, great spot, 0.379228, 6
+4, loud group, 0.334872, 6
+4, late night spot, 0.6008, 7
+4, entire time, 0.351238, 7
+4, EXTREMELY good service, 0.615662, 8
+4, couple people, 0.350422, 8
+4, great flavor, 0.340428, 9
+4, nice touch, 0.340176, 9
+5, Hookah pipes, 0.666166, 0
+5, musical themed nights, 0.55023, 0
+5, Halloween night, 0.4034, 1
+5, short trek, 0.401184, 1
+5, hookah bar, 0.920002, 2
+5, fountain sodas, 0.403671, 2
+5, Arizona law, 0.39655, 3
+5, huge fan, 0.39445, 3
+5, Al Omda, 0.84817, 5
+5, best hookah place, 0.800934, 7
+5, reasonable prices, 0.420477, 7
+5, tasty food, 0.446824, 8
+5, great prices, 0.418201, 8
+5, Great customer service, 0.614198, 9
+5, strawberry kiwi blend, 0.568982, 9

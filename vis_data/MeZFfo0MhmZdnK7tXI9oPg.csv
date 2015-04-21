@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, beer bottles, 0.709794, 0
+1, couple, 0.397983, 0
+1, fat ass bouncers, 0.93857, 1
+1, power trip, 0.72295, 1
+1, bar, 0.722512, 2
+1, friend, 0.415862, 3
+1, night, 0.400979, 3
+1, drinks, 0.550203, 5
+1, bathroom area, 0.752952, 8
+1, good time, 0.714833, 8
+2, magical elevator charges, 0.844713, 0
+2, non operating elevator, 0.826356, 0
+2, mediocre bar, 0.592094, 1
+2, opposite direction, 0.587717, 1
+2, Altar Bar, 0.765422, 2
+2, constantly looped ad, 0.730939, 2
+2, book bigger acts, 0.722184, 3
+2, restroom tipping, 0.608358, 3
+2, imaginary beer, 0.967417, 4
+2, stage, 0.466934, 4
+2, staff, 0.466273, 6
+2, sub par bartending, 0.775563, 7
+2, paper towel, 0.590928, 7
+2, advanced procedure, 0.596211, 8
+2, place, 0.569902, 8
+2, merchandise stands, 0.563434, 9
+2, people, 0.438111, 9
+3, of-age concert goers, 0.628369, 0
+3, fairly shady types, 0.623149, 0
+3, bathroom attendants, 0.534827, 1
+3, mixed drink, 0.529825, 1
+3, drink prices, 0.759079, 2
+3, lame thing, 0.548202, 2
+3, altar bar, 0.986951, 3
+3, metal sound reflectors, 0.654254, 3
+3, place, 0.858845, 4
+3, shows, 0.565585, 5
+3, god damn Shoney, 0.654934, 6
+3, good lineup, 0.552682, 6
+3, Strip District, 0.643542, 7
+3, acoustically superior church, 0.640525, 7
+3, good place, 0.55193, 8
+3, Best bathroom, 0.547054, 8
+3, good time, 0.540702, 9
+3, intimate setting, 0.525879, 9
+4, Saw Dio Discplines, 0.716818, 0
+4, small concert venue, 0.709978, 0
+4, big video screens, 0.688172, 1
+4, long dark flights, 0.6834, 1
+4, good vantage point, 0.682248, 2
+4, inch guy, 0.680807, 2
+4, Altar Bar, 0.969667, 4
+4, Saturday night, 0.678663, 4
+4, crowd, 0.65245, 5
+4, Mr. Smalls, 0.79313, 6
+4, venue, 0.751298, 6
+4, band pay tribute, 0.699529, 7
+4, great little club, 0.695126, 7
+4, music venue, 0.709236, 8
+4, free street parking, 0.682237, 8
+4, old church, 0.695763, 9
+4, solid venue, 0.672875, 9
+5, building architecture, 0.51867, 0
+5, negative reviews, 0.509623, 0
+5, doors, 0.249301, 1
+5, ticket prices, 0.482548, 2
+5, chance, 0.257293, 2
+5, Big Wreck, 0.908412, 3
+5, drink hassle, 0.508115, 3
+5, awesome security guys, 0.723028, 6
+5, greatest time, 0.470568, 6
+5, stained-glass windows, 0.557761, 7
+5, entire concert, 0.542714, 7
+5, favorite band, 0.521274, 8
+5, cool place, 0.515473, 8
+5, Altar Bar, 0.908887, 9
+5, sound quality, 0.553212, 9

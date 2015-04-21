@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+1, prick, 0.952896, 3
+1, Id, 0.834082, 3
+3, Average draft selection, 0.934039, 0
+3, star 'club', 0.588505, 0
+3, bar, 0.37853, 5
+3, apple, 0.339156, 6
+3, Guinness Draught, 0.598026, 7
+3, cheapest place, 0.544292, 7
+3, Pretty good place, 0.810308, 8
+3, dart boards, 0.560644, 8
+4, good time, 0.528297, 0
+4, Dormont, 0.355299, 0
+4, Thursday, 0.295716, 3
+4, Tuesday, 0.295598, 3
+4, Apple Inn, 0.967809, 6
+4, decent drink specials, 0.847726, 6
+4, bartenders, 0.322476, 7
+5, comfortable bar stools, 0.922855, 0
+5, fav bartender, 0.77952, 0
+5, wife smokes, 0.650312, 1
+5, gaudy signs, 0.592431, 1
+5, smoking bar, 0.582505, 3
+5, update, 0.274363, 3
+5, ladies room, 0.56192, 6
+5, karaoke, 0.419648, 6
+5, fav hairstylist, 0.786514, 7
+5, new salon, 0.602746, 7
+5, couple shots, 0.586649, 8
+5, place, 0.373562, 8
+5, great time, 0.620437, 9
+5, great people, 0.594956, 9

@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, new times, 0.687284, 0
+1, faux punk, 0.650164, 0
+1, stupid night club, 0.65097, 1
+1, pathetic Ed Hardy-wearing, 0.603902, 1
+1, dj, 0.648444, 2
+1, Scantily clad dancers, 0.619542, 2
+1, daft punk replica, 0.70227, 3
+1, big busts dance, 0.63003, 3
+1, place, 0.901223, 4
+1, people, 0.796405, 4
+1, club, 0.899203, 5
+1, drinks, 0.744244, 5
+1, hip hop, 0.645331, 6
+1, class snooty scene, 0.623439, 6
+1, night, 0.788827, 7
+1, VIP tickets, 0.638443, 7
+1, snoody Scottsdale attitude, 0.627961, 8
+1, progressive house producer, 0.603391, 8
+1, perfect night cap, 0.615051, 9
+2, Axis Radius check, 0.709621, 0
+2, dance club, 0.645583, 0
+2, overpriced VIP table, 0.647082, 1
+2, drink worth shit, 0.627843, 1
+2, intense social longing, 0.614137, 2
+2, bar tidyness level, 0.612773, 2
+2, hip hop, 0.767727, 3
+2, cold OSU/Auburn people, 0.621891, 3
+2, Axis Radius, 0.94899, 4
+2, place, 0.759779, 4
+2, go-go dancers, 0.77179, 5
+2, boarder/ska/hip hop club, 0.647773, 6
+2, glamorous upscale club, 0.644038, 6
+2, adorable security staff, 0.607027, 7
+2, ok.. great music, 0.628323, 8
+2, big screen music, 0.62829, 8
+2, best place, 0.590109, 9
+3, hop/ dance music, 0.789163, 0
+3, large open patios, 0.773217, 0
+3, smaller trendy clubs, 0.778204, 1
+3, busy night, 0.722057, 1
+3, clubs, 0.830682, 2
+3, dance floors, 0.790617, 2
+3, hip hop, 0.819306, 3
+3, Axis Radius, 0.784897, 3
+3, drinks, 0.812462, 4
+3, night, 0.975997, 5
+3, place, 0.903096, 5
+3, music, 0.898365, 6
+3, Friday night, 0.809617, 6
+3, good time, 0.97071, 7
+3, great time, 0.864017, 7
+3, best advice- Pregame, 0.752468, 8
+3, friends, 0.727175, 8
+3, classic club scene, 0.776005, 9
+4, Axis side.. cute, 0.886432, 0
+4, plays Techno/House music, 0.883513, 0
+4, music.. good time, 0.949199, 1
+4, dimly lit lights, 0.868259, 1
+4, LOL The bar, 0.800708, 2
+4, bike cops, 0.799938, 2
+4, good time, 0.997054, 3
+4, adventure club perform, 0.878713, 3
+4, cover charge, 0.886849, 5
+4, place, 0.831881, 5
+4, Radius VIP section, 0.915884, 6
+4, drinks, 0.877233, 6
+4, good music, 0.847911, 7
+4, late night, 0.8092, 7
+4, Good VIP rooms, 0.937632, 8
+4, VIP balcony room, 0.935185, 8
+4, fun weekend Scottsdale, 0.898102, 9
+4, go-go dancers, 0.889086, 9
+5, building club, 0.58466, 0
+5, hip club, 0.54937, 0
+5, fake tans, 0.550009, 1
+5, dancing type, 0.518862, 1
+5, block area, 0.522411, 2
+5, Rap, 0.379033, 2
+5, assorted set, 0.574815, 3
+5, prob, 0.30624, 3
+5, upstairs lounge areas, 0.935308, 6
+5, VIP Room, 0.568387, 6
+5, crowd, 0.27176, 7
+5, must-visit night club, 0.774943, 9
+5, great staff, 0.544561, 9

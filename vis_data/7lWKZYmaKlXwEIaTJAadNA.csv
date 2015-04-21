@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, Mediocre food, 0.458908, 0
+1, Harris Teeter, 0.433968, 0
+1, potential great location, 0.497711, 1
+1, disappointing restaurant, 0.400752, 1
+1, Waitress, 0.285469, 2
+1, beer, 0.23058, 3
+1, tip, 0.250874, 6
+1, steak sauce, 0.926348, 7
+1, Philly Cheese Steak, 0.842219, 7
+3, chicken sandwich, 0.766762, 0
+3, choices, 0.483126, 0
+3, typical bar food, 0.952302, 2
+3, seats, 0.491373, 2
+3, attentive bartender, 0.817722, 7
+3, Friday night, 0.744114, 7
+4, watering hole, 0.690036, 0
+4, partition wall, 0.683675, 0
+4, well-established restaurant/bar, 0.703773, 2
+4, kinda rubbery, 0.699121, 2
+4, interior, 0.559256, 3
+4, Pinky, 0.536166, 3
+4, place, 0.588076, 4
+4, pork belly sliders, 0.819852, 6
+4, salt-and-pepper calamari, 0.702286, 6
+4, honey bbq wings, 0.869582, 7
+4, Patriot nachos, 0.746817, 7
+4, friendly wait staff, 0.906709, 8
+4, new restaurant kinks, 0.831565, 8
+4, great chewy mouthfeel, 0.888081, 9
+4, excellent service, 0.663947, 9

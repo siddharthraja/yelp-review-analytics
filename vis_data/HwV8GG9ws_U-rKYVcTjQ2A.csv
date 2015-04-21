@@ -1,0 +1,34 @@
+rating, keyword, relevance, bucket
+2, Scotland rugby team, 0.904912, 0
+2, drink, 0.406249, 0
+2, place.3 bar staff, 0.879253, 1
+2, customers, 0.36655, 1
+2, Mitre, 0.677985, 4
+2, wee bit, 0.777847, 6
+2, Hey ho, 0.777811, 7
+3, big ol, 0.741748, 0
+3, decent pub, 0.732801, 0
+3, sorry faux-American items, 0.899642, 2
+3, pile, 0.325511, 2
+3, positive impression, 0.629697, 3
+3, food, 0.270711, 3
+3, traditional pub fare, 0.947205, 6
+3, roast, 0.330933, 6
+3, cigar club, 0.674242, 7
+3, fine ales, 0.669864, 7
+4, bar staff, 0.751563, 0
+4, road, 0.474787, 0
+4, decent pub grub, 0.909777, 6
+4, pickled onion, 0.806511, 6
+4, venue, 0.479906, 7
+4, location, 0.467612, 7
+4, large portion, 0.753521, 8
+4, great atmosphere, 0.745794, 8
+4, nice choices, 0.790821, 9
+4, good selection, 0.732557, 9
+5, Royal Mile, 0.55775, 2
+5, Worlds End, 0.603088, 6
+5, good food, 0.569963, 7
+5, good story, 0.532825, 7
+5, Super friendly waitress, 0.926312, 8
+5, Great tastings, 0.687158, 8

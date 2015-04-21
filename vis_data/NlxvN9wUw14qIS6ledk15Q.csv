@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, red solo cup, 0.936274, 0
+1, Sunday afternoon football, 0.935761, 0
+1, stinky bar tender, 0.948802, 1
+1, crappy chain restaurants, 0.944759, 1
+1, barely edible food, 0.9835, 2
+1, TERRIBLE service, 0.887544, 2
+1, ladies bathroom, 0.839454, 3
+1, male server, 0.83407, 3
+1, service, 0.954658, 4
+1, decent pizza, 0.862414, 6
+1, better salad, 0.852436, 6
+1, way better service, 0.952278, 7
+1, great neighborhood spot, 0.937102, 7
+1, Good luck, 0.862754, 8
+1, good crowd, 0.847337, 8
+2, New Yorker pizza, 0.78062, 0
+2, ridiculously good beer, 0.727082, 0
+2, bad pizza, 0.73692, 1
+2, young bus girl, 0.650208, 1
+2, home town pizza, 0.79496, 2
+2, food, 0.684557, 2
+2, Oggi, 0.748358, 3
+2, heavyweight pizza, 0.720245, 3
+2, pizza, 0.991612, 4
+2, place, 0.647956, 4
+2, beer, 0.745247, 5
+2, best beer, 0.681338, 5
+2, sausage artichoke pizza, 0.788249, 6
+2, baked frozen pizza, 0.78172, 6
+2, good pizza, 0.747766, 7
+2, authentic pizza, 0.710736, 7
+2, pretty picky beer, 0.692775, 8
+2, beer drinker, 0.685641, 8
+3, hawaian pizza, 0.579756, 0
+3, tasty bar grub, 0.558524, 0
+3, slow Sunday evening, 0.504091, 1
+3, slow service, 0.415958, 1
+3, little watering hole, 0.539219, 2
+3, little modernization, 0.432976, 2
+3, pizza, 0.963397, 3
+3, sports bar atmosphere, 0.510847, 3
+3, beer, 0.691309, 6
+3, generally good food, 0.560405, 6
+3, buffalo chicken pizza, 0.798726, 7
+3, good beer, 0.653198, 7
+3, great place, 0.549572, 8
+3, Great food, 0.445647, 8
+3, good solid brewery, 0.555465, 9
+3, BBQ pizza, 0.539142, 9
+4, Stuffed Pizza, 0.586758, 0
+4, little better selection, 0.556666, 0
+4, happy hour beer, 0.540517, 1
+4, LOL Good food, 0.634597, 2
+4, usual weekend pizza, 0.617269, 2
+4, bar kinda place, 0.580734, 3
+4, slightly thicker crust, 0.54801, 3
+4, pizza, 0.963017, 5
+4, place, 0.661352, 5
+4, beer, 0.902434, 6
+4, good food, 0.817045, 6
+4, scottish ale, 0.759754, 7
+4, atmosphere Great beer, 0.62933, 7
+4, good craft beer, 0.891373, 8
+4, oggi, 0.626484, 8
+4, beer good food, 0.697134, 9
+4, good beer, 0.670219, 9
+5, leftover pizza box, 0.776645, 0
+5, good pizza, 0.7029, 0
+5, bad meal, 0.543603, 1
+5, actual bar, 0.527824, 1
+5, Rd chain bars, 0.619694, 3
+5, PS.  Believe, 0.52984, 3
+5, Oggi, 0.580345, 4
+5, pizza, 0.913816, 6
+5, Paradise Pale Ale, 0.613588, 6
+5, food, 0.777892, 7
+5, great food, 0.753139, 7
+5, place, 0.771637, 8
+5, great pizza, 0.729585, 8
+5, entire appetizer menu, 0.687874, 9
+5, happy hour menu, 0.596494, 9

@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, internal door locks, 0.954648, 0
+1, debaucherous night, 0.654565, 0
+1, good reason, 0.643371, 1
+1, hell, 0.369302, 1
+1, Good riddance, 0.636467, 2
+1, Frat house, 0.623621, 2
+1, internal lock, 0.599408, 3
+1, desk, 0.370777, 3
+1, room, 0.525527, 6
+1, better hotel, 0.618767, 7
+1, casino, 0.384469, 7
+2, fake roller coaster, 0.908031, 0
+2, long term memory, 0.807081, 0
+2, photos, 0.444001, 7
+2, end, 0.443888, 7
+2, Mandarin Tower, 0.859395, 9
+2, nice looking sub, 0.828846, 9
+3, dork, 0.392604, 0
+3, reason, 0.357644, 0
+3, late nap, 0.740203, 1
+3, morning, 0.32847, 1
+3, Prince cover act, 0.973254, 2
+3, little bit, 0.786081, 2
+3, buffet, 0.377722, 7
+4, quarter game machine, 0.888197, 0
+4, Boardwalk Hotel, 0.789215, 0
+4, good lounge acts, 0.895167, 1
+4, craziest nights, 0.737703, 1
+4, oblivion, 0.386473, 2
+4, buffet, 0.38547, 2
+4, Girls, 0.360854, 3
+4, Mixers, 0.377418, 6
+4, Bottle, 0.37576, 6
+4, favorite budget hotels, 0.922223, 7
+4, casinos, 0.37167, 7
+4, special place, 0.688603, 8
+4, heart, 0.364734, 8
+4, Great location, 0.607798, 9
+4, great prices, 0.607285, 9
+5, cheesy ministeress, 0.709125, 0
+5, shrimp chicken, 0.659709, 0
+5, giggles, 0.331268, 1
+5, human hands, 0.782776, 2
+5, air conditioning, 0.713212, 2
+5, broke kids, 0.73186, 3
+5, vegas, 0.402671, 3
+5, wedding, 0.407239, 6
+5, delight, 0.314542, 6
+5, Great place, 0.607554, 7
+5, love, 0.361287, 7
+5, small casino, 0.682348, 8
+5, Boardwalk, 0.525984, 8
+5, Prince revival, 0.68731, 9
+5, good odds, 0.664065, 9

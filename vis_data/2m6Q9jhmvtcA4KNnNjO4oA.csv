@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, wood-like foreign element, 0.770653, 0
+1, restaurant Macaroni Bar, 0.759946, 0
+1, slight buzz, 0.732587, 1
+1, Horrible pasta, 0.60053, 1
+1, damn refrigeration unit, 0.752533, 2
+1, people, 0.750369, 2
+1, Macaroni Bar, 0.810699, 3
+1, customer service skills, 0.715049, 3
+1, food, 0.951427, 4
+1, birthday, 0.566154, 4
+1, supper club, 0.794832, 6
+1, refrigerated wine cellar, 0.746933, 6
+1, typical St-Laurent Supper, 0.798615, 7
+1, classy place, 0.585475, 7
+1, nice bar, 0.604738, 8
+1, friends, 0.480723, 8
+1, Amazing service, 0.587756, 9
+2, grilled chicken salad, 0.891165, 0
+2, Cuba Libré, 0.672454, 0
+2, free shots, 0.862585, 1
+2, ridiculous prices, 0.663649, 1
+2, Macaroni Bar, 0.72016, 2
+2, 45 minutes, 0.487555, 2
+2, garlic cornbread-esque basket, 0.903975, 3
+2, mac'n'cheese, 0.650022, 3
+2, home, 0.496013, 4
+2, time, 0.646543, 5
+2, previously posted bachelorette, 0.955627, 6
+2, small cast-iron skillet, 0.879243, 6
+2, pole dancing, 0.687397, 7
+2, good time, 0.628893, 7
+2, fancy way, 0.670117, 8
+2, diet coke, 0.668425, 8
+3, supper club, 0.765531, 0
+3, foie gras, 0.748083, 0
+3, quality patrons, 0.711607, 1
+3, image, 0.613258, 1
+3, copycat bistro fare, 0.93614, 2
+3, poorly done dish, 0.741466, 2
+3, braised-lamb ravioli, 0.738936, 3
+3, bit plasticky, 0.732158, 3
+3, food, 0.75138, 5
+3, barely legal scene-whores, 0.894007, 6
+3, double-button cuffs, 0.718572, 6
+3, large terrace, 0.737457, 7
+3, excellent food, 0.714982, 7
+3, black/white contrasting color, 0.955954, 8
+3, best bet, 0.724544, 8
+4, Thursday evening, 0.716672, 0
+4, mini skirt, 0.709511, 0
+4, crunchy ball, 0.710648, 1
+4, melty cheese, 0.69787, 1
+4, average gravy, 0.704806, 2
+4, service patrons, 0.698231, 2
+4, fry variety, 0.703292, 3
+4, real complain, 0.692443, 3
+4, people, 0.578671, 4
+4, restaurant, 0.572861, 4
+4, dinner, 0.803853, 5
+4, dancing, 0.599283, 5
+4, swanky hip place, 0.919369, 6
+4, nice dinner, 0.732575, 6
+4, Bachelorette Party Central, 0.861556, 7
+4, gnocchi poutine, 0.78061, 7
+4, dinner plates, 0.736073, 8
+4, Innovative appetizers, 0.733167, 8
+4, Service attentive, 0.709941, 9
+4, timely fashion, 0.704448, 9
+5, Great food, 0.98051, 8
+5, great service, 0.929472, 8

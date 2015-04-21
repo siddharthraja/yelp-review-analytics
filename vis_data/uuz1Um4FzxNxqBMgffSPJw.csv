@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, Carson ST, 0.706432, 0
+1, thorn, 0.488435, 0
+1, cop car, 0.694185, 1
+1, bucks, 0.467108, 1
+1, dregs, 0.51737, 2
+1, armpit, 0.514525, 2
+1, fancy shmancy drink, 0.901945, 3
+1, atypical steel city, 0.896894, 3
+1, black eye, 0.678037, 6
+1, South, 0.446381, 6
+2, ass white rim, 0.960072, 1
+2, Shame jack, 0.609984, 1
+2, turn downhill, 0.545961, 2
+2, crappy bartender, 0.795001, 6
+2, uncrowded night, 0.659129, 6
+3, popular dive bar, 0.934692, 0
+3, college/young adult crowd, 0.890451, 0
+3, kick ass signs, 0.868362, 1
+3, miss, 0.478519, 1
+3, dress code, 0.636048, 2
+3, snootiness, 0.439913, 2
+3, slow night, 0.700203, 3
+3, Carson St., 0.658642, 3
+3, Jack, 0.599282, 6
+3, fact, 0.444396, 6
+3, free popcorn, 0.952408, 7
+3, Great drink prices, 0.871216, 7
+3, amazing view, 0.653134, 8
+3, holiday dinners, 0.64343, 8
+3, classic Pittsburgh establishment, 0.84219, 9
+3, life morning, 0.635979, 9
+4, best dive bar, 0.786817, 0
+4, night crew bar, 0.768621, 0
+4, biker bar, 0.655351, 1
+4, Cheap drinks, 0.630216, 1
+4, dive bar, 0.95142, 2
+4, nice little bar, 0.750526, 2
+4, bar food, 0.689397, 3
+4, night shifts, 0.658366, 3
+4, bar, 0.999215, 4
+4, pool tables, 0.867473, 4
+4, additional bar, 0.664041, 6
+4, particularly busy night, 0.723897, 7
+4, Pumpkin Pie shots, 0.712659, 7
+4, wallet friendly start, 0.714991, 8
+4, Wonderful dive, 0.640859, 8
+4, good place, 0.737247, 9
+4, cheap drink, 0.645178, 9
+5, Steelers fans, 0.51297, 0
+5, cheap beer, 0.506118, 0
+5, Cheap drinks, 0.549338, 1
+5, girls room, 0.501475, 1
+5, Stiff drinks, 0.52889, 2
+5, sloppy joes, 0.525606, 2
+5, Pittsburgh Dive Bar, 0.604615, 3
+5, Normal bar fare, 0.574354, 3
+5, night, 0.475659, 4
+5, dive bar, 0.932676, 5
+5, place, 0.614155, 5
+5, mixed drinks, 0.513957, 6
+5, diverse crowd, 0.507797, 6
+5, perfect dive bar, 0.735583, 7
+5, great priced drinks, 0.636152, 7
+5, Nice bartenders, 0.505635, 8
+5, Awesome jukebox, 0.503804, 8
+5, affordable drinks, 0.513627, 9
+5, nice atmosphere, 0.50314, 9

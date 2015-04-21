@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+2, mahi mahi, 0.716959, 0
+2, Valentines Day menu, 0.706303, 0
+2, limp veggies, 0.731491, 1
+2, fish, 0.568408, 1
+2, lukewarm mashed potatoes, 0.886469, 2
+2, acrid onion rings, 0.863364, 2
+2, vegetarian main entree, 0.890702, 3
+2, homemade meatloaf, 0.684237, 3
+2, atmosphere, 0.699033, 4
+2, waiter, 0.594907, 4
+2, portobello centerpiece, 0.73656, 6
+2, Valentines Day Dinner, 0.715804, 6
+2, reef tank nerds, 0.906704, 7
+2, giant shark tank, 0.823921, 7
+2, nice restaurant, 0.679435, 8
+2, big portions, 0.675139, 8
+3, poor mans Applebee, 0.859571, 0
+3, Tequila Tasting event, 0.795635, 0
+3, mediocre food, 0.640573, 1
+3, expectations, 0.450659, 1
+3, food, 0.68739, 3
+3, burnt ends, 0.6316, 3
+3, service, 0.482661, 5
+3, super cool aquarium, 0.841625, 6
+3, -a BBQ, 0.670556, 6
+3, Lobster Bisque Soup, 0.917065, 7
+3, Caesar salad, 0.686858, 7
+3, main dining hall, 0.84455, 8
+3, warm Focaccia bread, 0.83571, 8
+3, lunch, 0.511377, 9
+3, time, 0.441881, 9
+4, typical zoo cafe, 0.864713, 0
+4, beef fillets, 0.681545, 0
+4, stale way, 0.68616, 1
+4, shark tank, 0.98607, 2
+4, small zoo, 0.767661, 2
+4, Tornadoes Napolean, 0.672322, 3
+4, raspery glaze, 0.666611, 3
+4, crab legs, 0.802754, 6
+4, Ma-hi Ma-hi, 0.767207, 6
+4, James Bond film, 0.85473, 7
+4, Lobster Bisque, 0.67585, 7
+4, tasty house dressing, 0.831575, 8
+4, Great idea, 0.685583, 8
+4, impressive shark aquarium, 0.872084, 9
+4, surprisingly good adult, 0.858077, 9
+5, roast duck tacos, 0.912742, 0
+5, newly opened Aquarium, 0.860104, 0
+5, food, 0.355396, 2
+5, chocolate cake, 0.581136, 3
+5, sharks, 0.379818, 3
+5, Penna Pasta, 0.613451, 6
+5, fish restaurant, 0.550635, 6
+5, splendid atmosphere, 0.610315, 7
+5, fantastic taste, 0.598519, 7
+5, various water creatures, 0.841508, 8
+5, Tiburon Restaurant, 0.663084, 8
+5, gamy tasting duck, 0.804724, 9
+5, perfect balance, 0.571195, 9

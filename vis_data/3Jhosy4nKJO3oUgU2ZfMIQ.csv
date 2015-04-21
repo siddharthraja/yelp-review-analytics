@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+2, free alcohol beverages, 0.418445, 0
+2, terminal security, 0.373075, 0
+2, hot chocolate packets, 0.952291, 1
+2, travel partner, 0.436898, 1
+2, bar, 0.385136, 2
+2, delayed flight, 0.374335, 2
+2, United lounge attendant, 0.442276, 3
+2, fox news, 0.434326, 3
+2, gentleman, 0.356478, 4
+2, drawer, 0.373143, 5
+2, awesome service, 0.362902, 6
+2, women, 0.328066, 6
+2, simple things, 0.365436, 7
+2, better personnel, 0.362618, 7
+2, affair, 0.31388, 9
+3, Air Canada direct, 0.992798, 0
+3, United Club style, 0.96784, 0
+3, soda machine, 0.734811, 1
+3, unfortunate placement, 0.726177, 1
+3, slot machines, 0.745883, 2
+3, snack menu, 0.734939, 2
+3, power outlets, 0.726553, 3
+3, coffee tables, 0.718252, 3
+3, self service type, 0.951303, 6
+3, challenge, 0.587681, 6
+3, lounge, 0.759522, 7
+3, ample space, 0.741742, 7
+3, accessible power outlet, 0.971878, 9
+3, new furniture, 0.756855, 9
+4, Above-average United Club, 0.628966, 0
+4, United Clubs lounges, 0.577294, 0
+4, bad club, 0.468764, 1
+4, darn good Bloody, 0.544126, 2
+4, east coast, 0.452585, 2
+4, airport service, 0.536284, 3
+4, particular club, 0.510069, 3
+4, United Clubs, 0.635802, 4
+4, terminal, 0.518141, 5
+4, united club, 0.960455, 6
+4, interesting food options, 0.53788, 6
+4, complimentary wireless internet, 0.764946, 7
+4, quiet United Clubs, 0.569162, 7
+4, comfortable seating, 0.564261, 8
+4, abundant A/C outlets, 0.533188, 8
+4, Vegas United Club, 0.602972, 9
+4, true hospitality lounge, 0.54314, 9
+5, clubs, 0.584611, 0
+5, snacks, 0.691916, 3
+5, drinks, 0.678224, 3
+5, United Club, 0.969101, 7
+5, staff, 0.583396, 7

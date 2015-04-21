@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, light rail pub, 0.74617, 0
+1, majerles theme cuz, 0.743415, 0
+1, sports bar junk, 0.750009, 1
+1, afternoon football watching/beer, 0.743661, 1
+1, sports bar, 0.836675, 2
+1, Florentines Catello di, 0.76641, 2
+1, food, 0.951617, 3
+1, place, 0.888552, 3
+1, burgers, 0.700452, 4
+1, time, 0.759545, 5
+1, fruit plate, 0.741329, 5
+1, sugar-laced french fries, 0.764502, 6
+1, cookie-encrusted grease-soaked cod, 0.762014, 6
+1, hard earned dollar, 0.750499, 7
+1, cute cocktail waitresses, 0.735752, 7
+1, Good Ranch dressing, 0.73824, 8
+1, best place, 0.696862, 8
+2, basic sports bar, 0.69764, 0
+2, customer service skills, 0.648763, 0
+2, tall Blue Moon, 0.646043, 1
+2, dark small places, 0.639698, 1
+2, chicken sandwich, 0.647578, 2
+2, Hard Rock Cafe, 0.6428, 2
+2, cozy sports bar, 0.681741, 3
+2, waitress, 0.67044, 3
+2, food, 0.753932, 4
+2, place, 0.70677, 4
+2, sports bar, 0.925786, 6
+2, Attention restaurant owners, 0.654991, 6
+2, Good chill spot, 0.657531, 7
+2, vodka soda, 0.648755, 7
+2, local sports bar, 0.671058, 8
+2, sweet potato fries, 0.637376, 8
+3, Amundson Chicken Sandwich, 0.643952, 0
+3, Dan Majerle, 0.640438, 0
+3, chicken sandwich, 0.789983, 1
+3, crappy bar service, 0.656483, 1
+3, typical sports bar, 0.805037, 2
+3, solid sports bar, 0.633714, 2
+3, standard sports bar, 0.648607, 3
+3, typical croissant sandwich, 0.623125, 3
+3, pub crawl, 0.676844, 4
+3, fries, 0.620081, 4
+3, sports bar, 0.909101, 5
+3, food, 0.766745, 5
+3, good food, 0.691501, 6
+3, pure sports event, 0.621724, 6
+3, good sports bar, 0.672466, 7
+3, crunchy delicious fries, 0.615721, 7
+3, good place, 0.627811, 8
+3, Mr. Majerle, 0.604405, 8
+3, Slam dunk shrimp, 0.64378, 9
+4, good bar food, 0.578687, 0
+4, generic bar food, 0.539678, 0
+4, freaking sports bar, 0.555441, 1
+4, obnoxious crowded bar, 0.507514, 1
+4, bar food, 0.672956, 2
+4, Suns game, 0.589644, 2
+4, sports bar food, 0.590173, 3
+4, typical sports bar, 0.579699, 3
+4, bar food options, 0.529275, 4
+4, sports bar, 0.901681, 5
+4, downtown phoenix, 0.775533, 5
+4, place, 0.725774, 6
+4, great place, 0.715009, 6
+4, great sports bar, 0.652222, 7
+4, sweet potato fries, 0.561545, 7
+4, good food, 0.596003, 8
+4, downtown Phoenix. majerle, 0.576192, 8
+5, icon Dan Majerle, 0.9266, 0
+5, Asian Chicken Salad, 0.801063, 0
+5, tasty bar food, 0.80356, 1
+5, half court shots, 0.75242, 1
+5, late Sunday afternoon, 0.761683, 2
+5, sports bar staples, 0.805159, 3
+5, best sports bars, 0.797535, 3
+5, photo buddies hand, 0.760147, 6
+5, real white meat, 0.750692, 6
+5, Great service..great food, 0.831176, 7
+5, special chicken burger, 0.79425, 7
+5, great place, 0.883622, 8
+5, attentive wait staff, 0.819572, 8
+5, great party-like atmosphere, 0.845745, 9
+5, great place catch, 0.839851, 9

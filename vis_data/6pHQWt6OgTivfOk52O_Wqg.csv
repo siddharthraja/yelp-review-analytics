@@ -1,0 +1,19 @@
+rating, keyword, relevance, bucket
+1, ravioli, 0.480606, 0
+1, kitchen, 0.442868, 0
+1, waitress, 0.973993, 1
+1, bar staff, 0.808964, 1
+1, long time, 0.882305, 2
+1, night, 0.606827, 2
+1, cocktails, 0.478335, 3
+1, patrons, 0.466969, 3
+1, menu, 0.974712, 5
+1, opposite direction, 0.898258, 6
+1, bottle, 0.630887, 6
+1, appetizer, 0.702547, 7
+1, pizza margherita, 0.937583, 8
+1, bruschetta, 0.698168, 8
+1, hostess, 0.455644, 9
+1, pianists, 0.453778, 9
+5, great idea, 0.982045, 8
+5, mall, 0.797714, 8

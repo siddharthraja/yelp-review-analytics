@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, marshal, 0.249766, 0
+1, Space, 0.225729, 0
+1, Wasted Time, 0.796641, 1
+1, past weekend, 0.634261, 1
+1, security guards, 0.924016, 2
+1, Sunday night, 0.677902, 2
+1, place, 0.458489, 3
+1, bottle, 0.332749, 3
+1, promoter, 0.228501, 7
+2, Van Halen medleys, 0.92456, 0
+2, super cool guy, 0.920214, 0
+2, bad night, 0.760285, 1
+2, dive bar, 0.767138, 2
+2, Mr. Hart, 0.761771, 2
+2, lil place isnt, 0.93296, 3
+2, elitist club-goer atmosphere, 0.929367, 3
+2, good band, 0.757697, 4
+2, place, 0.996026, 5
+2, Steed Lord, 0.802605, 6
+2, live music, 0.789659, 6
+2, awesome rock band, 0.894467, 7
+2, small place, 0.805064, 7
+3, bottle service thing, 0.973035, 0
+3, Carey Hart, 0.843173, 0
+3, boys MxPx rock, 0.942376, 1
+3, massive FAIL, 0.83193, 1
+3, Hard Rock clubs, 0.934841, 2
+3, friday night, 0.856021, 2
+3, big long hair, 0.953348, 3
+3, actual club, 0.845409, 3
+3, place, 0.840415, 5
+3, fun, 0.831145, 5
+3, rock music fan, 0.979254, 6
+3, Hard Rock, 0.936829, 6
+3, super catchy, 0.863928, 7
+3, impromptu performance, 0.860039, 7
+3, hot go-go dancers, 0.974383, 8
+3, trashy go-go dancers, 0.943362, 8
+3, Saturday night, 0.945727, 9
+3, great concert, 0.827488, 9
+4, Body English, 0.584565, 0
+4, metal/hair band club, 0.562252, 0
+4, cool group shot, 0.542624, 1
+4, free drink, 0.499772, 1
+4, Wasted Space, 0.948501, 2
+4, Hard Rock Hotel, 0.591136, 2
+4, Sin City Sinners, 0.804157, 3
+4, free vodka taint, 0.558489, 3
+4, Thursday night, 0.657408, 4
+4, club, 0.598136, 4
+4, place, 0.69214, 5
+4, rock n roll, 0.649841, 6
+4, strip Vegas crowd, 0.635175, 6
+4, rock music, 0.583879, 7
+4, bathroom attendant, 0.577784, 7
+4, music, 0.65348, 8
+4, Rock chill fun, 0.575364, 8
+4, Las Vegas nightspots, 0.577606, 9
+4, co-ed bathrooms, 0.563689, 9
+5, Wasted Space, 0.881534, 0
+5, post crue concert, 0.86633, 0
+5, guys performance, 0.80364, 1
+5, fuckin poser, 0.791865, 1
+5, Body English, 0.887628, 2
+5, big fat WOOOOOOOOOT, 0.859032, 2
+5, hard rock, 0.86875, 3
+5, somebody PUH-LEESE hit, 0.858458, 3
+5, Sin City, 0.861855, 5
+5, voodoo glow skulls, 0.858491, 6
+5, Carey Hart, 0.855294, 6
+5, great diverse group, 0.846013, 7
+5, VIP area, 0.818394, 7
+5, place, 0.953599, 8
+5, great fawking rock, 0.882765, 8
+5, great time, 0.801189, 9

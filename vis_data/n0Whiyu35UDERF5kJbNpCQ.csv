@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+3, authentically distressed tin, 0.924433, 0
+3, tin ceiling, 0.542739, 0
+3, small cozy spot, 0.80615, 1
+3, trendy pretension, 0.54679, 1
+3, actual bar, 0.49333, 2
+3, nice looking wine, 0.712852, 7
+3, friendly neighborhood, 0.49658, 7
+3, OTG Wine, 0.491614, 8
+3, building, 0.244407, 8
+3, attractive old world, 0.848183, 9
+3, decent libation menu, 0.803775, 9
+4, Old Towne Glendale, 0.692405, 0
+4, cozy little place, 0.649726, 0
+4, giant police station, 0.627602, 2
+4, Haus Murphy, 0.474917, 2
+4, Gaslight Inn B&B, 0.916602, 3
+4, Glendale Chocolate Festival, 0.696239, 3
+4, huge beer selection, 0.612508, 6
+4, downtown Glendale, 0.511029, 6
+4, wine, 0.754001, 7
+4, regular basis, 0.673359, 7
+4, great care, 0.67256, 8
+4, lovely wine bar, 0.657819, 8
+4, couple glasses, 0.684894, 9
+4, expansive wine selection, 0.673156, 9
+5, favorite fall beer, 0.911062, 0
+5, app style, 0.765426, 0
+5, regular hang, 0.749072, 2
+5, OTG, 0.58896, 3
+5, taps, 0.558537, 3
+5, price bottles, 0.789147, 6
+5, friends, 0.578784, 6
+5, nice casual hangout, 0.980606, 7
+5, great Bruschetta spread, 0.934444, 7
+5, AWESOME craft beer/wine, 0.918436, 8
+5, Great food, 0.900145, 8
+5, Fun local hangout, 0.932279, 9
+5, Delicious local talent, 0.916559, 9

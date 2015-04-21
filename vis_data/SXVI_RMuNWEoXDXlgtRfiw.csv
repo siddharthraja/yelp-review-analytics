@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, angel hair pasta, 0.679109, 0
+1, limited Italian menu, 0.676719, 0
+1, confrontational party members, 0.679302, 1
+1, fake yelp profiles, 0.663561, 1
+1, Il Vinaio, 0.801359, 2
+1, Mesa Arts Center, 0.658884, 2
+1, wine, 0.807144, 3
+1, service, 0.694457, 3
+1, food, 0.989159, 4
+1, beer dinner, 0.759474, 4
+1, time, 0.853159, 5
+1, wine tasting, 0.754078, 5
+1, restaurant, 0.715, 6
+1, regular service, 0.687475, 6
+1, different large party, 0.704773, 7
+1, grilled flatbread, 0.69862, 7
+1, good experience, 0.607671, 8
+1, sirloin burger, 0.609666, 9
+2, alligator sausage, 0.764626, 0
+2, bland pasta dish, 0.761387, 0
+2, good gluten-free meal, 0.760656, 1
+2, extremely disappointing experience, 0.744593, 1
+2, Prime Pork Loin, 0.725641, 2
+2, good food, 0.718667, 2
+2, service, 0.756169, 3
+2, gluten free menu, 0.728982, 3
+2, food, 0.816658, 4
+2, time, 0.760053, 4
+2, lamb ragu, 0.972166, 5
+2, Mesa Arts Center, 0.843073, 6
+2, good beer selection, 0.738633, 6
+2, Antelope Burger, 0.836553, 7
+2, Good wine list, 0.767212, 7
+2, Il Vinaio, 0.954308, 8
+2, exciting gluten-free menu, 0.743667, 8
+2, unique eating establishments, 0.711405, 9
+3, good wine selection, 0.899744, 0
+3, overly creative menu, 0.865584, 0
+3, Filet Minon Flatbread, 0.888643, 1
+3, w/Bleu Cheese starter, 0.838236, 1
+3, chicken wings, 0.986921, 2
+3, rubbed mejor steak, 0.876407, 2
+3, Pork Loin, 0.915173, 4
+3, Spinach salad, 0.795044, 4
+3, place, 0.91257, 5
+3, time, 0.876173, 6
+3, good selection, 0.833748, 6
+3, Pasta Florentine, 0.921981, 7
+3, smooth jazz guy, 0.84741, 7
+3, Loin w/Creamy Fontina, 0.860959, 8
+3, Pappardelle Pasta Florentine, 0.857703, 8
+3, roasted veggie flatbread, 0.951755, 9
+3, Pretty good timing, 0.864551, 9
+4, higher quality food, 0.787169, 0
+4, chic wine bar, 0.783008, 0
+4, vanilla bean ice, 0.73304, 1
+4, Mesa Eatery, 0.724473, 1
+4, bland chain restaurant, 0.739999, 2
+4, fact coffee cups, 0.72536, 2
+4, high quality restaurant, 0.750277, 3
+4, East Valley Foodie, 0.736442, 3
+4, food, 0.874965, 4
+4, Il Vinaio, 0.952239, 5
+4, downtown mesa, 0.920658, 6
+4, wine related quotes, 0.771674, 6
+4, nice touch, 0.80837, 7
+4, good food/friendly service, 0.767964, 7
+4, good food, 0.830097, 8
+4, wine, 0.784571, 8
+4, Good food w/, 0.799365, 9
+4, people nice place, 0.77557, 9
+5, wine bar atmosphere, 0.760851, 0
+5, passionate food embrace, 0.773921, 2
+5, upperclass twit wine, 0.753363, 2
+5, new restaurant crush, 0.750651, 3
+5, il vinaio, 0.999167, 5
+5, food, 0.852953, 5
+5, wine, 0.880049, 6
+5, wine list, 0.793953, 6
+5, good wine list, 0.766888, 7
+5, place, 0.766817, 7
+5, great food, 0.822798, 8
+5, great wine, 0.793122, 8
+5, downtown mesa, 0.809915, 9
+5, great wine dinners, 0.774309, 9

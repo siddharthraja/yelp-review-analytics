@@ -1,0 +1,94 @@
+rating, keyword, relevance, bucket
+1, Highly mediocre food, 0.610447, 0
+1, original waitress Kimi, 0.60971, 0
+1, dance floor, 0.80706, 1
+1, time, 0.634657, 1
+1, mechanical bull, 0.644632, 2
+1, bar area, 0.617637, 2
+1, food, 0.946647, 3
+1, service, 0.782446, 3
+1, place, 0.784803, 4
+1, Gilley, 0.780483, 4
+1, burger, 0.596902, 5
+1, people, 0.59574, 5
+1, buffalo chicken sandwich, 0.641253, 6
+1, ice cream, 0.59368, 6
+1, green bean casserole, 0.633171, 7
+1, nacho cheese sauce, 0.63105, 7
+1, BBQ sauce, 0.61513, 8
+2, standard Country bar, 0.709924, 0
+2, Dear Mr. Gilley, 0.696866, 0
+2, bar food, 0.705881, 1
+2, customer service, 0.698046, 1
+2, mechanical bull, 0.793552, 2
+2, hard country music, 0.698613, 2
+2, pork sandwich, 0.753875, 3
+2, bikini bull, 0.712893, 3
+2, food, 0.973812, 4
+2, country music, 0.894115, 4
+2, place, 0.864287, 5
+2, Gilley, 0.790558, 5
+2, bar, 0.814237, 6
+2, time, 0.759576, 6
+2, sweet potato fries, 0.718212, 7
+2, Beer selection, 0.705643, 7
+2, good job, 0.693534, 8
+2, good time, 0.699025, 9
+2, incredible bbq smell, 0.697353, 9
+3, bikini bull ridin, 0.538141, 0
+3, Bull Riding contest, 0.523661, 0
+3, Typical bar food, 0.531762, 1
+3, mechanical bull cherry, 0.529645, 1
+3, Bikini Bull Riding, 0.643849, 2
+3, good country bar, 0.553848, 2
+3, bikini bull, 0.735879, 3
+3, country music, 0.634314, 3
+3, drinks, 0.58447, 4
+3, people, 0.578978, 4
+3, mechanical bull, 0.989712, 5
+3, dance floor, 0.775361, 5
+3, bbq, 0.598022, 6
+3, good time, 0.537397, 6
+3, treasure island, 0.657455, 7
+3, pretty good consolation, 0.524356, 7
+3, awesome country bar, 0.514922, 8
+3, pretty good compliment, 0.505105, 8
+3, good BBQ place, 0.543426, 9
+3, great food, 0.498207, 9
+4, Mr. Gilley, 0.50777, 0
+4, live music, 0.501735, 0
+4, THEE Mickey Gilley, 0.531561, 1
+4, over-the-top country bar, 0.508268, 1
+4, country bar, 0.550079, 2
+4, Good bar, 0.500281, 2
+4, flat iron steak, 0.529293, 3
+4, Western bar theme, 0.499944, 3
+4, mechanical bull, 0.966011, 5
+4, gilley, 0.760229, 5
+4, country music, 0.799503, 6
+4, line dancing, 0.675662, 6
+4, Treasure Island, 0.625112, 7
+4, live country music, 0.532218, 7
+4, great time, 0.563855, 8
+4, good food, 0.540424, 8
+4, free bull rides, 0.497323, 9
+4, Great beer prices, 0.496366, 9
+5, best country bar, 0.563904, 0
+5, line dancing lessons, 0.539262, 0
+5, endless horrifying entertainment, 0.522175, 1
+5, enormous country bar, 0.570016, 2
+5, mechanical bull operator, 0.55532, 2
+5, mechanical bull, 0.964422, 3
+5, new favorite whiskey, 0.523058, 3
+5, bar, 0.680802, 4
+5, drinks, 0.535189, 4
+5, country, 0.653725, 5
+5, country bar, 0.637135, 5
+5, place, 0.638978, 6
+5, food, 0.614873, 6
+5, dance floor, 0.691099, 7
+5, fun, 0.589222, 7
+5, treasure island, 0.862256, 8
+5, line dancing, 0.710534, 8
+5, great music, 0.560191, 9
+5, great place, 0.546625, 9

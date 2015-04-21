@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+2, Froth House, 0.63346, 0
+2, recommendation, 0.208752, 0
+2, little espresso cup, 0.918537, 1
+2, absolute disaster, 0.645376, 1
+2, little foam, 0.517838, 2
+2, cash register, 0.636693, 3
+2, Monday morning, 0.565391, 3
+2, better coffee houses, 0.920875, 6
+2, barista/ cashier, 0.690191, 6
+2, espresso macchiato, 0.724142, 7
+3, standard turkey sandwich, 0.990844, 0
+3, popular sandwich, 0.660725, 0
+3, watering hole, 0.403037, 2
+3, weekly bases, 0.362875, 3
+3, West High, 0.348155, 3
+3, garden seating, 0.424215, 6
+3, Ben Franklin, 0.412417, 6
+3, red onion chutney, 0.817435, 7
+3, Sriracha sauce, 0.518732, 7
+3, cheese sandwich, 0.577092, 8
+3, Cute place, 0.432221, 8
+3, fine dish, 0.371549, 9
+4, popular lunch menu, 0.798472, 0
+4, medium roast coffee, 0.793524, 0
+4, drink specials, 0.645847, 2
+4, Monroe-ish Street meeting, 0.841927, 3
+4, primary serving/seating area, 0.790839, 3
+4, Froth House, 0.840672, 5
+4, chili-spiced feta, 0.803666, 6
+4, homemade bite, 0.66523, 6
+4, movie night, 0.945819, 7
+4, live music, 0.813244, 7
+4, blueberry muffins, 0.683684, 8
+4, Super chill, 0.672012, 8
+4, drink suggestions, 0.655806, 9
+5, neatest burrito, 0.736845, 0
+5, Regent HS kids, 0.683792, 0
+5, bye slow service, 0.703631, 1
+5, personalized service, 0.619756, 2
+5, lunch time, 0.612725, 2
+5, 2-Bean veggie chili, 0.692837, 3
+5, breakfast burrito, 0.95069, 4
+5, Froth House, 0.758509, 6
+5, iced mocha, 0.737655, 6
+5, coffee shop, 0.80714, 7
+5, Great little coffee, 0.743152, 7
+5, meatless breakfast burrito, 0.843603, 8
+5, quick friendly service, 0.711909, 8
+5, great breakfast food, 0.780542, 9
+5, excellent espresso shots, 0.726682, 9

@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+1, previous reviewers, 0.881977, 0
+1, cheap drinks, 0.851772, 0
+1, frat house, 0.903659, 1
+1, worst spots, 0.873862, 1
+1, convincing fake, 0.996351, 2
+1, desperate minors, 0.952713, 2
+1, Huge nightmare, 0.907624, 3
+1, total bust, 0.866345, 3
+1, magic age, 0.89966, 7
+1, young talent, 0.844038, 7
+2, fake ID, 0.707796, 0
+2, hey Jason, 0.678054, 0
+2, pool table, 0.845857, 1
+2, pool table upstairs, 0.84491, 1
+2, Saturday Badger game, 0.885983, 2
+2, place blows, 0.678852, 2
+2, good drunken time, 0.855077, 3
+2, ridiculous drink, 0.685528, 3
+2, place, 0.786365, 4
+2, Brothers, 0.48864, 4
+2, specials, 0.449529, 6
+2, Supremely sticky floors, 0.931378, 8
+2, curds, 0.476912, 8
+3, bitchy sorority girls, 0.909192, 0
+3, line, 0.368209, 0
+3, bouncers, 0.444558, 2
+3, IDs, 0.429574, 2
+3, manly frat guys, 0.942423, 3
+3, skinny, 0.408719, 3
+3, matter, 0.389917, 4
+3, stars, 0.367502, 6
+3, cent wings, 0.736963, 7
+3, sweaty draw, 0.726876, 7
+4, regular weekdays, 0.539728, 0
+4, place, 0.248574, 0
+4, poor man, 0.471738, 1
+4, dance floor, 0.454564, 1
+4, vomit, 0.400855, 2
+4, complaints, 0.280097, 2
+4, University Avenue bars, 0.910557, 3
+4, favorites, 0.281388, 7
+4, right group, 0.435102, 8
+4, mindset, 0.288319, 8
+4, great drink deals, 0.679421, 9
+4, Super friendly staff, 0.644087, 9
+5, classy place, 0.728402, 0
+5, watering hole, 0.7734, 2
+5, hot sauce, 0.735848, 2
+5, fun place, 0.658398, 6
+5, moose, 0.47605, 6
+5, college version, 0.721402, 7
+5, Cheers, 0.518516, 7
+5, great drink specials, 0.910001, 8
+5, Fridays, 0.497528, 8

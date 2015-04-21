@@ -1,0 +1,41 @@
+rating, keyword, relevance, bucket
+2, redneck townie bar, 0.823148, 0
+2, redneck townies, 0.621796, 0
+2, bland domestic macros, 0.735511, 1
+2, exclusion, 0.275409, 1
+2, plastic cup, 0.461094, 2
+2, swill, 0.277493, 2
+2, Chambana-by-way-of-Chicago student snob, 0.714748, 3
+2, uncomfortable paradox, 0.52987, 3
+2, Rose Bowl, 0.990446, 6
+2, intrepid adventurer, 0.526213, 6
+2, precise description, 0.501559, 7
+2, record skips*, 0.492153, 7
+2, pretty interesting stuff, 0.736333, 8
+2, Nascar hoods, 0.490709, 8
+3, laid-back grad student, 0.920905, 0
+3, dive bar feel, 0.832246, 0
+3, PBR, 0.339973, 1
+3, Oldstyle, 0.267703, 1
+3, bajillion divey bars, 0.894636, 2
+3, pitchers, 0.479277, 2
+3, increasingly drunk patrons, 0.961661, 3
+3, tater chips, 0.628942, 3
+3, Rose Bowl, 0.980094, 6
+3, nice divey spot, 0.862713, 6
+3, hole-in-the-wall bar, 0.59853, 7
+3, charm, 0.305323, 7
+4, old school tavern, 0.674757, 0
+4, Saturday night, 0.416282, 0
+4, blue collar dive, 0.601999, 1
+4, Cheap pbr, 0.436505, 1
+4, collar dive bar, 0.811447, 2
+4, truth, 0.236673, 2
+4, Rose Bowl Tavern, 0.737243, 3
+4, historic  bars, 0.434128, 3
+4, Chesney, 0.265792, 6
+4, history, 0.23273, 6
+4, live local music, 0.917758, 7
+4, misogynisticly-named sleeveless shirts, 0.578721, 7
+4, new comers, 0.441948, 8
+4, regulars, 0.262567, 8

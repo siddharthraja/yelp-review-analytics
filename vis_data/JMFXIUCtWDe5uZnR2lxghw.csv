@@ -1,0 +1,15 @@
+rating, keyword, relevance, bucket
+1, Vegan menu, 0.986712, 0
+1, Wynn, 0.741127, 0
+1, ventilation, 0.721594, 1
+1, smoking, 0.697686, 1
+1, lung health, 0.967132, 2
+1, lungs, 0.811762, 2
+1, multiple times, 0.944941, 3
+1, smoke, 0.707011, 3
+4, bar, 0.369618, 2
+4, restaurant, 0.368987, 2
+4, hotel elevators, 0.79593, 3
+4, quick drink, 0.791835, 3
+4, nice upscale decor, 0.936727, 9
+4, casino area, 0.72588, 9

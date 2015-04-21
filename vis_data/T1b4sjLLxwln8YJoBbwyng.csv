@@ -1,0 +1,32 @@
+rating, keyword, relevance, bucket
+1, non-student packed hang, 0.933062, 0
+1, middle aged drunks, 0.906041, 0
+1, long indecipherable word, 0.899901, 1
+1, cartoon style clouds, 0.869578, 1
+1, surprised bar maid, 0.984331, 2
+1, star rating option, 0.904546, 2
+1, middle aged women, 0.949513, 3
+1, lowest age, 0.666771, 3
+1, place, 0.575931, 6
+1, license, 0.452937, 6
+1, Jeff Buckley, 0.658842, 7
+1, warm bath, 0.651249, 7
+3, lowest form, 0.70732, 0
+3, disease-ridden individuals, 0.666544, 0
+3, general atmosphere, 0.670643, 2
+3, drunkenness, 0.382782, 2
+3, significant number, 0.694917, 3
+3, useful public service, 0.933899, 6
+3, sort, 0.337043, 6
+3, rewarding way, 0.731203, 7
+3, taxpayers money, 0.731028, 7
+3, alternative tourist attraction, 0.864948, 8
+3, city life, 0.630618, 8
+4, Gill, 0.485572, 0
+4, funeral, 0.458499, 0
+4, woman crawl, 0.789159, 1
+4, bad time, 0.711848, 1
+4, door, 0.695046, 2
+4, general feeling, 0.721627, 3
+4, toilet paper, 0.704947, 3
+4, black dress suit, 0.925266, 7

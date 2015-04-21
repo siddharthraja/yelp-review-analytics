@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, extremely limited bar, 0.643588, 0
+1, busy night, 0.638324, 0
+1, right customer service, 0.669404, 1
+1, Terrible service, 0.643906, 1
+1, bartender, 0.800488, 2
+1, waitress, 0.624177, 2
+1, mac balls, 0.730522, 3
+1, table, 0.703749, 3
+1, people, 0.937458, 4
+1, food, 0.882026, 4
+1, service, 0.932744, 5
+1, bar, 0.749453, 5
+1, server, 0.65253, 6
+1, east Fremont street, 0.632156, 6
+1, new restaurant downtown, 0.634915, 7
+1, Halloween night, 0.61991, 7
+1, mason jars, 0.641022, 8
+1, Tasted strange right, 0.621991, 8
+1, good looking menu, 0.622845, 9
+2, large drink menu, 0.703193, 0
+2, trendy East Fremont, 0.690199, 0
+2, beer list, 0.694948, 1
+2, HORRIBLE service, 0.688246, 1
+2, time, 0.73382, 2
+2, mason jar, 0.711216, 2
+2, waitress, 0.753198, 3
+2, food, 0.938879, 4
+2, service, 0.886586, 4
+2, drinks, 0.833595, 5
+2, park, 0.791438, 5
+2, fried pickles, 0.754236, 6
+2, fremont street, 0.729856, 6
+2, san diego burger, 0.759625, 7
+2, classic bar food, 0.706939, 7
+2, east fremont, 0.826131, 8
+2, Sweet Potato Tots, 0.739775, 8
+3, mary mix drinks, 0.693773, 0
+3, bar food type, 0.692008, 0
+3, garbage fries, 0.740759, 1
+3, biggest food epicenters, 0.69635, 2
+3, food menu, 0.682486, 2
+3, fremont street, 0.731074, 3
+3, bloody mary, 0.730417, 3
+3, food, 0.994799, 4
+3, service, 0.808671, 4
+3, drinks, 0.860928, 5
+3, waffle sandwich, 0.774593, 5
+3, bar, 0.697453, 6
+3, San Diego, 0.679868, 6
+3, fried egg burger, 0.72249, 7
+3, steak salad, 0.70976, 7
+3, sweet potato tots, 0.809407, 8
+3, outdoor seating, 0.729224, 8
+3, hot fried potato, 0.686345, 9
+3, outdoor seating area, 0.681246, 9
+4, bar food-meets-comfort food, 0.82076, 0
+4, Fremont East Bar, 0.81481, 0
+4, chicken bar bites, 0.846576, 2
+4, area, 0.832125, 3
+4, food, 0.971787, 5
+4, bar, 0.969996, 5
+4, philly cheese steak, 0.867941, 6
+4, Fremont East, 0.865669, 6
+4, sweet potato tots, 0.945372, 7
+4, downtown las vegas, 0.852471, 7
+4, potato tater tots, 0.839236, 8
+4, sweet potato tater, 0.828744, 8
+4, great beer selection, 0.812265, 9
+5, garbage fries, 0.796804, 1
+5, ice cream sandwich, 0.707122, 1
+5, elevated bar food, 0.719724, 2
+5, chicken bites, 0.721856, 3
+5, beer, 0.890432, 4
+5, downtown vegas, 0.724094, 4
+5, food, 0.997247, 5
+5, place, 0.971071, 5
+5, bloody mary, 0.792316, 6
+5, fried pickles, 0.771552, 6
+5, sweet potato, 0.925784, 7
+5, waffle sandwich, 0.809214, 7
+5, sweet potato tater, 0.79958, 8
+5, great beer selection, 0.776747, 8

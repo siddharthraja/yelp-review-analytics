@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, carton et je, 0.916174, 0
+1, était souriante et, 0.833626, 0
+1, Que dire, 0.635812, 1
+1, night, 0.444237, 1
+1, Van Nuys airport, 0.858404, 2
+1, BBQ joints, 0.815068, 2
+1, Montreal BBQ, 0.7822, 3
+1, place, 0.473069, 3
+1, Dr Hoggly Woggly, 0.848055, 4
+1, est bien localisée, 0.79911, 6
+1, leurrer les clients, 0.774435, 6
+1, Service, 0.437137, 7
+1, bbq sauce, 0.794679, 8
+1, St Hubert, 0.621422, 8
+1, waitress, 0.460942, 9
+2, sel et poivre, 0.942028, 0
+2, deep fried burger, 0.905253, 0
+2, fried chicken, 0.822055, 1
+2, pain au mais, 0.860838, 2
+2, Diablo burger, 0.845012, 2
+2, mixed drinks, 0.926453, 3
+2, massive mixed drinks, 0.851866, 3
+2, Service et ambiance, 0.860017, 6
+2, goutait le poulet, 0.856609, 6
+2, seasoned beef burger, 0.854122, 7
+2, brand new Cheesuses, 0.822017, 7
+2, regular daily menu, 0.839809, 8
+2, house speciality drinks, 0.850829, 9
+2, good BBQ/bar atmosphere, 0.838889, 9
+3, extra BBQ sauce, 0.758704, 0
+3, Southern BBQ tastes, 0.735834, 0
+3, BBQ joint, 0.69447, 2
+3, bbq sauce, 0.840983, 3
+3, good look, 0.685763, 3
+3, fried chicken, 0.937101, 4
+3, pork sandwich, 0.815995, 4
+3, nice bbq sauce, 0.78267, 6
+3, par la suite, 0.732171, 6
+3, Diablos BBQ, 0.831054, 7
+3, Chicken Fried Steak, 0.777164, 7
+3, Pretty good BBQ, 0.763699, 8
+3, jalapeno corn bread, 0.74987, 8
+3, style BBQ place, 0.736611, 9
+3, good action flick, 0.704613, 9
+4, et le placement, 0.968818, 0
+4, et nous montre, 0.942503, 0
+4, sailor jerry, 0.930672, 2
+4, corn bread, 0.962984, 6
+4, le service est, 0.930112, 6
+4, le sandwich au, 0.928867, 7
+4, une super sauce, 0.89646, 7
+4, sweet potato fries, 0.929138, 8
+5, que je, 0.948316, 0
+5, certain que je, 0.905157, 0
+5, que c'est plutôt, 0.898216, 1
+5, très intéressant si, 0.838676, 1
+5, Étant donné le, 0.861302, 3
+5, Nous commençons, 0.814696, 3
+5, ribs, 0.917469, 5
+5, nous accueille comme, 0.879779, 6
+5, si nous étions, 0.864626, 6
+5, best ribs, 0.888338, 7
+5, Le menu bouffe, 0.870768, 7
+5, southern comfort food, 0.811743, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, steak fajita wrap, 0.819245, 0
+1, Horrible service, 0.661548, 0
+1, joint zero, 0.64082, 1
+1, Crappy, 0.407912, 1
+1, suspicion drink, 0.717775, 2
+1, Hot sauce, 0.661756, 2
+1, dive bar, 0.631469, 3
+1, blah, 0.39655, 3
+1, breakfast, 0.442947, 4
+1, super fattening foods, 0.911249, 6
+1, Shadyside friends, 0.685012, 6
+1, people, 0.367668, 7
+1, line, 0.367579, 7
+1, Walnut Street, 0.687101, 9
+1, middle, 0.368812, 9
+2, chocolate chip pancakes, 0.94068, 0
+2, pork based meats, 0.901231, 0
+2, bad Shadyside bar, 0.875173, 1
+2, small space, 0.718021, 1
+2, 21-yr old college, 0.891532, 2
+2, mediocre breakfast, 0.82247, 2
+2, onions, 0.543698, 3
+2, Service, 0.542919, 3
+2, breakfast, 0.908097, 5
+2, okay beer selection, 0.926881, 6
+2, common breakfast, 0.792485, 6
+2, Small place, 0.730211, 7
+2, plastic mugs, 0.723921, 7
+2, friendly bartender, 0.733007, 8
+2, right place, 0.720188, 8
+3, brow greasy spoon, 0.745547, 0
+3, standard bar fare, 0.70459, 0
+3, Squirrell Hill, 0.7563, 2
+3, Food is.decent. karoake, 0.710117, 2
+3, Good little place, 0.768668, 3
+3, unpretentious little place, 0.74823, 3
+3, place, 0.873368, 5
+3, people, 0.678224, 5
+3, Cappy, 0.964269, 6
+3, decent place, 0.652801, 6
+3, outdoor seating, 0.857903, 7
+3, good reliable staples, 0.711187, 7
+3, nice casual spot, 0.76449, 8
+3, reasonable price, 0.743044, 8
+3, solid neighborhood place, 0.767781, 9
+3, reasonably cooked food, 0.762862, 9
+4, skillet w/ sausage, 0.631522, 0
+4, dozen outdoors tables, 0.620573, 0
+4, decent food, 0.571439, 1
+4, cheap drinks, 0.532511, 1
+4, corned beef hash, 0.806404, 2
+4, Sonoma Turkey wrap, 0.633659, 2
+4, Big Mountain sandwich, 0.822909, 3
+4, dive bar, 0.652936, 3
+4, food, 0.891558, 4
+4, bar, 0.65357, 4
+4, Cappy, 0.994141, 5
+4, Walnut St., 0.628329, 5
+4, Shadyside, 0.708537, 6
+4, Cheers bar, 0.566924, 6
+4, good time, 0.652098, 7
+4, shadyside skillets, 0.63382, 7
+4, dive bar/restaurant aspect, 0.636799, 8
+4, Great local place, 0.630284, 8
+4, Yum yum yum, 0.67432, 9
+4, corporate Shadyside, 0.632867, 9
+5, chill bars, 0.511435, 0
+5, dart board, 0.483854, 0
+5, dinner, 0.256384, 1
+5, baseball game, 0.537416, 2
+5, bar customers, 0.468808, 2
+5, local councilman, 0.499561, 3
+5, Thursday night, 0.493126, 3
+5, Shadyside Saloon, 0.903953, 6
+5, Jagermeister girls, 0.54143, 6
+5, great neighbourhood joint, 0.836212, 7
+5, busy place, 0.523782, 7
+5, w/irish pub ambiance, 0.790224, 8
+5, Owner Brian Carey, 0.772572, 8
+5, weekends, 0.255047, 9
+5, breakfast, 0.251718, 9

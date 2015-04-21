@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, Poor service, 0.616531, 0
+1, vodka, 0.310036, 0
+1, regular night, 0.621294, 1
+1, room, 0.359363, 1
+1, bartenders, 0.326551, 2
+1, paint nite, 0.901827, 3
+1, service industry, 0.551646, 3
+1, paint nite event, 0.875954, 7
+1, thanks, 0.315583, 7
+2, Fort Apache, 0.641798, 0
+2, Ignores, 0.483779, 0
+2, time- smh, 0.715218, 1
+2, thing, 0.456772, 1
+2, Togo container, 0.672746, 2
+2, local bar, 0.636901, 2
+2, female bartenders, 0.985111, 3
+2, Total time, 0.62916, 3
+2, Total guest, 0.62801, 6
+2, menu, 0.454152, 6
+2, male bartender talks, 0.890941, 7
+2, Initial greet, 0.731334, 7
+4, open floor plan, 0.935415, 0
+4, Pretzel Bites, 0.674037, 0
+4, weekend night, 0.668553, 1
+4, parking, 0.284319, 1
+4, work, 0.38181, 2
+4, expectations, 0.306435, 2
+4, bar, 0.769647, 3
+4, service, 0.378151, 4
+4, regular PT, 0.686206, 6
+4, Pant Night, 0.658494, 6
+4, table seating, 0.702726, 7
+4, drinks, 0.413666, 7
+4, new-ish PTs, 0.762164, 8
+4, Durango, 0.320429, 8
+4, overall experience, 0.655559, 9
+4, great addition, 0.635779, 9
+5, work spot, 0.515623, 0
+5, fav, 0.241765, 0
+5, O'Aces Bar, 0.47711, 1
+5, Fantastic location, 0.507001, 6
+5, different venue, 0.50502, 6
+5, Hospital Best PTs, 0.918966, 7
+5, Paintnite event, 0.878136, 7
+5, Jen, 0.70797, 8
+5, better b/c, 0.548826, 8
+5, excellent bartender, 0.66356, 9
+5, waitress, 0.233668, 9

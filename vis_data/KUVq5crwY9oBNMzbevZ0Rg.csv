@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, inexpensive sports bar, 0.676359, 0
+1, frozen microwaved pizza, 0.673604, 0
+1, bar, 0.716822, 1
+1, bar food standards, 0.691979, 1
+1, common sense, 0.654933, 2
+1, pregnant daughter, 0.650103, 2
+1, food, 0.902978, 3
+1, little common sense, 0.645342, 3
+1, time, 0.776471, 4
+1, waitress, 0.763718, 4
+1, table, 0.724596, 5
+1, shrimp skewers, 0.709799, 5
+1, positive thing, 0.553578, 6
+1, leather belt, 0.54564, 6
+1, Bloody Mary, 0.55601, 7
+1, entire table, 0.540586, 7
+1, BBQ shrimp skewers, 0.707247, 8
+2, blu cheese burger, 0.696197, 0
+2, grated parmesian cheese, 0.675135, 0
+2, regular salad dressing, 0.673972, 1
+2, good food, 0.639769, 1
+2, par level service, 0.70684, 2
+2, cheap drinks, 0.659253, 2
+2, salad dressing, 0.683157, 3
+2, decent bar fare, 0.675994, 3
+2, food, 0.9943, 4
+2, service, 0.842947, 4
+2, onion rings, 0.765859, 5
+2, time, 0.68643, 5
+2, bar, 0.745217, 6
+2, Mushroom Burger, 0.627187, 6
+2, special food items, 0.717593, 7
+2, order onion rings, 0.680846, 7
+2, 1000 Island dressing, 0.802301, 8
+2, favorite sports bar, 0.653593, 8
+2, overall good vibe, 0.681203, 9
+3, big screen TVs, 0.758114, 0
+3, overhead blasting music, 0.742677, 0
+3, extremely weak beer, 0.744789, 1
+3, quality craft beers, 0.73075, 1
+3, sports bar food, 0.764252, 2
+3, sports bars, 0.64224, 2
+3, salsa, 0.648458, 3
+3, place, 0.968095, 4
+3, sports bar, 0.833903, 4
+3, onion rings, 0.934219, 5
+3, service, 0.714676, 5
+3, french fries, 0.913177, 6
+3, avid sports fan, 0.762503, 6
+3, food, 0.89847, 7
+3, pretty good dessert, 0.776461, 7
+3, Pretty good food, 0.83951, 8
+3, cold beer, 0.734305, 8
+3, great place, 0.847243, 9
+3, pretty chill spot, 0.751627, 9
+4, broader food menu, 0.781012, 0
+4, good time, 0.737288, 0
+4, bar area, 0.760968, 2
+4, huge bar area, 0.754174, 2
+4, craft beer selection, 0.869427, 3
+4, Good sports bar, 0.802772, 3
+4, sports bar, 0.894346, 4
+4, zipps, 0.879294, 4
+4, food, 0.878585, 5
+4, world cup, 0.768897, 5
+4, good size wings, 0.831973, 6
+4, Golden sweet wings, 0.792747, 6
+4, good food, 0.837527, 7
+4, Zipps new location, 0.804508, 7
+4, golden wings, 0.995386, 8
+4, great food, 0.801794, 8
+4, pretty huge variety, 0.760629, 9
+4, good price, 0.746917, 9
+5, high definition TVs, 0.754296, 0
+5, playoff soccer game, 0.754221, 0
+5, Parking blows, 0.632053, 2
+5, sports bar, 0.85926, 3
+5, local sports bar, 0.730092, 3
+5, best chicken wings, 0.746684, 6
+5, shuffle board games, 0.739736, 6
+5, place, 0.972782, 7
+5, great Zipps food, 0.823181, 7
+5, food, 0.994925, 8
+5, great time, 0.857878, 8
+5, great food, 0.874096, 9
+5, great service, 0.856256, 9

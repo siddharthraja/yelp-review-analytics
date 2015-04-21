@@ -1,0 +1,28 @@
+rating, keyword, relevance, bucket
+1, Terrible ambiance, 0.927376, 1
+1, bakery/sandwiches, 0.588866, 1
+1, coffee only fair,chairs, 0.821357, 2
+1, place, 0.580351, 2
+4, Place II condo, 0.6997, 0
+4, new establishment, 0.689967, 0
+4, long bar, 0.656154, 2
+4, shortcoming, 0.477758, 2
+4, Overture parking ramp, 0.925224, 3
+4, sofa-like seating, 0.655679, 3
+4, selection, 0.487169, 6
+4, pool table, 0.999419, 7
+4, Victor Allens, 0.692923, 7
+4, ample space, 0.646135, 8
+4, free WIFI, 0.641877, 8
+4, Overture Center, 0.791304, 9
+4, upscale feel, 0.699074, 9
+5, coffee purist, 0.71653, 0
+5, ice garners, 0.707757, 0
+5, awesome tea list, 0.939858, 6
+5, pool tables, 0.66138, 6
+5, couch/lounge finishings, 0.722162, 7
+5, Overture ramp, 0.703453, 7
+5, Nice space, 0.745895, 8
+5, speed Internet, 0.721309, 8
+5, crystal wine glasses, 0.94972, 9
+5, mango pudding, 0.739155, 9

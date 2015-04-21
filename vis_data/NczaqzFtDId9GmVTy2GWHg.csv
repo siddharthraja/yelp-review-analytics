@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, Grilled chicken salad, 0.937922, 0
+1, bite size pieces, 0.822996, 0
+1, Sorry hop house, 0.827215, 1
+1, horrible service, 0.55353, 1
+1, new management, 0.423997, 2
+1, great beer selection, 0.711558, 3
+1, great food, 0.45389, 6
+2, single clean table, 0.785787, 0
+2, north hills, 0.78475, 0
+2, waitress, 0.740899, 1
+2, bad news, 0.589611, 1
+2, wrong meal, 0.905849, 2
+2, smoke-filled restaurant, 0.617437, 2
+2, wrong order, 0.614342, 3
+2, not-so-good news, 0.598449, 3
+2, service, 0.464542, 4
+2, upscale bar food, 0.881934, 6
+2, Jon Taffer, 0.595268, 6
+2, beer, 0.672561, 7
+2, beer list, 0.622479, 7
+2, 6-beer sampler, 0.655758, 8
+2, beer houses, 0.608479, 8
+3, solid bar food, 0.937822, 0
+3, frat house basement, 0.931192, 0
+3, bad news, 0.794516, 1
+3, hard eat, 0.770133, 1
+3, better viewing areas, 0.956523, 2
+3, filthy ashtray, 0.832539, 2
+3, smoking establishment, 0.795377, 3
+3, cleanest place, 0.793404, 3
+3, tvs, 0.675553, 4
+3, band, 0.663553, 4
+3, beer selection, 0.934534, 5
+3, place, 0.875505, 5
+3, jalopeno honey wings-yummy, 0.913657, 6
+3, Large beer selection, 0.897729, 6
+3, Extensive Beer List, 0.927993, 7
+3, Good Food, 0.806687, 7
+3, great beer choices, 0.910375, 8
+3, Cajun chicken pasta, 0.891435, 8
+3, Nice local establishment, 0.957189, 9
+3, safe place, 0.822825, 9
+4, flat screen TVs, 0.637194, 0
+4, amazing wings, 0.536174, 0
+4, double tree bar, 0.624282, 1
+4, smoking law, 0.551156, 1
+4, little divey, 0.549998, 2
+4, little pick, 0.523241, 2
+4, Garlic Parm wings, 0.659539, 3
+4, pizza crust, 0.588587, 3
+4, Hop House, 0.934635, 5
+4, wonderful little pizza, 0.71204, 6
+4, bread bowl sandwich., 0.685206, 6
+4, Pens game, 0.807189, 7
+4, mega meat pizza, 0.663974, 7
+4, working woodfire grill, 0.66097, 8
+4, good beer, 0.651291, 8
+4, decent draft list., 0.643638, 9
+4, big yum, 0.547698, 9
+5, fish/veggies girl, 0.701863, 0
+5, personal recommendations, 0.688608, 0
+5, bad thing, 0.76742, 1
+5, service, 0.45423, 1
+5, conversations, 0.461228, 3
+5, problems, 0.453782, 3
+5, current pop/hip hop/, 0.917447, 6
+5, regular conversation level, 0.916546, 6
+5, potatoes lover, 0.805965, 7
+5, tight space, 0.705858, 7
+5, sweet potato hash, 0.97546, 8
+5, great beer selection, 0.895596, 8
+5, sweet potatoes, 0.769613, 9
+5, craft beers, 0.70506, 9

@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, low grade, 0.697254, 0
+1, extreme disappointment, 0.694088, 0
+1, improper venue layout, 0.891577, 1
+1, worst shows, 0.731319, 1
+1, major flop, 0.708692, 2
+1, consistent theme, 0.702197, 2
+1, early 20s, 0.954202, 3
+1, bad thing, 0.712494, 3
+1, Vegas, 0.573758, 4
+1, music, 0.505574, 6
+1, cutest showgirls, 0.75698, 7
+1, good try, 0.671387, 7
+1, money, 0.504528, 8
+1, favor, 0.46023, 8
+2, Van Halen, 0.667858, 0
+2, Nickleback metal, 0.597431, 0
+2, drinks, 0.31321, 1
+2, effort, 0.304778, 1
+2, total perv, 0.745452, 2
+2, comp tickets, 0.684841, 2
+2, Korn, 0.310605, 3
+2, stretch, 0.294184, 3
+2, small room, 0.740931, 6
+2, blue moon, 0.644804, 6
+2, rock concert volume, 0.923714, 7
+2, row, 0.3032, 7
+3, back-to-back classic rock, 0.871322, 0
+3, taller people, 0.635871, 0
+3, meek story line, 0.900926, 2
+3, numbers, 0.244981, 2
+3, mouth guard, 0.559946, 3
+3, songs, 0.239554, 4
+3, topless Alice, 0.564563, 6
+3, rock music, 0.493432, 6
+3, pre-show music amps, 0.843875, 7
+3, male revues, 0.579972, 7
+3, great job, 0.542073, 8
+4, bad seats, 0.461096, 0
+4, Bud Light, 0.402651, 0
+4, ridiculous price, 0.411952, 1
+4, John Bizarre, 0.410673, 2
+4, drink prices, 0.39354, 2
+4, aisle seats, 0.477868, 3
+4, VIP tickets, 0.41206, 3
+4, stage, 0.2704, 4
+4, super VIP, 0.403557, 6
+4, newest topless revue, 0.990301, 7
+4, 70-80s rock music, 0.800775, 8
+4, great performers/dancers, 0.403136, 8
+5, bad seat, 0.773777, 0
+5, Hot women, 0.76192, 0
+5, comedian John Bizarre, 0.960856, 1
+5, short scenes, 0.721446, 2
+5, good jokes, 0.68941, 2
+5, short video, 0.748353, 3
+5, making, 0.466679, 3
+5, eye contact, 0.733671, 6
+5, better seat, 0.717536, 6
+5, awesome music, 0.766867, 7
+5, Choreography, 0.467271, 7
+5, guitar pick, 0.73622, 8
+5, perfect size, 0.710453, 8
+5, small intimate venue, 0.962142, 9
+5, non-stop attack, 0.759947, 9

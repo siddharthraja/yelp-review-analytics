@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, iceberg lettuce, 0.866042, 0
+1, breakfast burrito, 0.846804, 0
+1, rude way, 0.701403, 1
+1, midnight, 0.45691, 1
+1, Taco Bell, 0.796256, 2
+1, true., 0.31566, 3
+1, gathering, 0.305839, 3
+1, nice little lady, 0.999628, 4
+1, pm, 0.420827, 6
+1, lights, 0.307522, 6
+1, good idea, 0.735896, 7
+1, friends, 0.312546, 7
+1, GREAT JOB EARLS, 0.977915, 8
+2, plain iceberg lettuce, 0.866883, 0
+2, greens salad, 0.610883, 0
+2, Generic American food, 0.81701, 1
+2, small mixed greens, 0.746817, 1
+2, iceberg lettuce, 0.998177, 2
+2, mixed greens, 0.774131, 2
+2, small version, 0.541074, 3
+2, meat thing, 0.538383, 3
+2, place, 0.439686, 5
+2, regular Mojito, 0.568752, 6
+2, cucumber, 0.354688, 6
+2, great location, 0.535047, 7
+2, ambience, 0.356755, 7
+2, better food choices, 0.775356, 8
+2, busy freeway, 0.578902, 8
+3, best bloody mary, 0.911811, 0
+3, Barrett-Jackson car auction, 0.909167, 0
+3, clam chowder, 0.989062, 2
+3, lunch break, 0.857607, 2
+3, ginger soy salad, 0.929014, 3
+3, Dynamite Shrimp Roll, 0.882477, 3
+3, california roll sushi, 0.914957, 6
+3, basic American dishes, 0.908643, 6
+3, Dry Ribs Appetizer, 0.909559, 7
+3, good flavor, 0.89121, 7
+3, pretty generous portions, 0.950301, 8
+3, fried spareribs appetizer, 0.926357, 8
+3, pretty solid place, 0.965255, 9
+3, pretty solid meal, 0.934427, 9
+4, dry ribs, 0.982963, 0
+4, Incredibly crappy service, 0.876427, 0
+4, pub food, 0.733046, 1
+4, poor planning, 0.729521, 1
+4, real vanilla beans, 0.805806, 3
+4, pink drinks, 0.737639, 3
+4, roasted garlic flatbread, 0.831222, 6
+4, Chicken Maple Spinach, 0.816617, 6
+4, good food, 0.936712, 7
+4, great service, 0.823224, 7
+4, Great wine selection, 0.840259, 8
+4, somewhat upscale restaurant, 0.812623, 8
+4, good relaxing vibe, 0.851536, 9
+4, good care, 0.741125, 9
+5, Discount Tire, 0.655769, 0
+5, lunch, 0.406922, 0
+5, Business, 0.350397, 2
+5, bit, 0.403712, 6
+5, reviews, 0.360633, 6
+5, friend, 0.518891, 7
+5, salad, 0.408465, 7
+5, juicy, 0.431208, 8
+5, mushroom Swiss burger, 0.901055, 9
+5, black bean soup, 0.864946, 9

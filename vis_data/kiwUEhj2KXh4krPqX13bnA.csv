@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, Dear Irish Embassy, 0.766221, 0
+1, good pub, 0.679193, 0
+1, damn long time, 0.675296, 1
+1, worst customer service, 0.670998, 1
+1, HORRID, 0.36582, 2
+1, lunchtime, 0.346726, 2
+1, place, 0.371729, 3
+1, friends, 0.361829, 3
+1, guys, 0.384181, 5
+1, better Irish pub, 0.938653, 6
+1, pub downtown, 0.852136, 6
+1, Bolognese Mac, 0.584732, 7
+1, lunch special, 0.546747, 7
+1, nice pub food, 0.841808, 8
+1, greatest comfort food, 0.739332, 8
+3, large outdoor deck, 0.935857, 0
+3, sad story, 0.934799, 0
+3, plump rats, 0.745878, 1
+3, burger, 0.547775, 1
+3, Standard bar food, 0.937753, 2
+3, downtown Irish pub, 0.87794, 2
+3, beer selection, 0.921633, 3
+3, Irish pub, 0.91023, 3
+3, French speaking channels, 0.91095, 6
+3, TV lol, 0.734068, 6
+3, Irish Embassy, 0.923558, 7
+3, Good service, 0.748205, 7
+3, normal pub-like establishment, 0.898578, 8
+3, Canadians games, 0.726005, 8
+4, Ce n'est pas, 0.836777, 0
+4, que le menu, 0.761083, 0
+4, Fried Mars bar, 0.720979, 1
+4, stupid sports game, 0.709683, 1
+4, Typical pub food, 0.765729, 3
+4, et c'est très, 0.761161, 6
+4, fish n chip, 0.743776, 6
+4, irish embassy, 0.955311, 7
+4, Nice irish pub, 0.773652, 7
+4, good pub fare, 0.793093, 8
+4, good beer selection, 0.75764, 8
+4, summer evening, 0.714702, 9
+5, corned beef sandwich, 0.902865, 0
+5, Canadiens game nights, 0.892643, 0
+5, typical packed Crescent, 0.913559, 3
+5, little sheet, 0.908528, 3
+5, post game feed, 0.864266, 6
+5, Montreal pub, 0.787968, 6
+5, typical pub food, 0.901185, 7
+5, cayenne maple syrup, 0.895445, 7
+5, great Irish pub, 0.911304, 8
+5, Canadiens game, 0.894166, 8
+5, buttermilk waffles, 0.838076, 9
+5, burger, 0.631252, 9

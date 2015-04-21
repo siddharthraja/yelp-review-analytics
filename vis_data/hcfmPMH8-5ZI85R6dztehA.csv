@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, DEEP FRIED potatoes, 0.745703, 0
+1, local customer base, 0.718435, 0
+1, frozen potatoes, 0.630985, 1
+1, Dont eat, 0.6219, 1
+1, banana nut muffin, 0.994471, 2
+1, gravy oily potatoes, 0.759418, 2
+1, canned green chilis, 0.694122, 3
+1, service, 0.652554, 3
+1, food, 0.680541, 4
+1, omelette, 0.616141, 4
+1, Egg Works, 0.780476, 5
+1, weird tasting eggs, 0.72053, 6
+1, guys, 0.635461, 6
+1, stuffed french toast, 0.736778, 7
+1, nearby alternative, 0.703639, 7
+1, Las Vegas area, 0.713809, 8
+1, better places, 0.630463, 8
+2, various menu items, 0.832339, 0
+2, interesting breakfast joints, 0.808842, 0
+2, simple breakfast food, 0.851422, 1
+2, Loco Motion, 0.724101, 1
+2, Egg Works, 0.943579, 2
+2, Egg Works location, 0.848352, 2
+2, food, 0.854073, 3
+2, eggs benedict, 0.807421, 3
+2, service, 0.776146, 4
+2, time, 0.731166, 4
+2, ........., 0.828911, 5
+2, A-1 steak sauce, 0.828405, 6
+2, Cracked Egg, 0.818861, 6
+2, banana muffins, 0.723626, 7
+2, better service, 0.735381, 8
+2, breakfast spot, 0.726287, 8
+3, Egg Works/The Egg, 0.521983, 0
+3, new breakfast joint, 0.421897, 0
+3, limp turkey bacon, 0.340489, 1
+3, Key Largo Crepe, 0.322322, 1
+3, banana nut, 0.494696, 2
+3, banana nut muffin, 0.438478, 2
+3, pricey menu item, 0.337845, 3
+3, breakfast items, 0.337229, 3
+3, burger patty, 0.401026, 4
+3, breakfast spot, 0.380032, 4
+3, Egg Works, 0.937649, 5
+3, breakfast, 0.637033, 5
+3, egg white omelet, 0.539672, 6
+3, ........., 0.346367, 6
+3, cheapest breakfast item, 0.418428, 7
+3, better breakfast place, 0.418382, 7
+3, breakfast bakery cafe, 0.398387, 8
+3, good friendly service, 0.361543, 8
+4, Typical breakfast joint, 0.755287, 0
+4, short wait time, 0.690737, 0
+4, little waiting space, 0.636253, 1
+4, good food, 0.698193, 2
+4, Egg Flip Card, 0.649518, 2
+4, eggs benedict, 0.641876, 3
+4, news paper fashion, 0.637779, 3
+4, breakfast, 0.993037, 4
+4, breakfast burrito, 0.844874, 4
+4, server, 0.785666, 5
+4, waitress, 0.630745, 5
+4, food, 0.88199, 6
+4, place, 0.79557, 6
+4, banana nut, 0.806168, 7
+4, service, 0.739143, 7
+4, banana nut muffins, 0.755391, 8
+4, best breakfast, 0.738867, 8
+4, Michelle Best breakfast, 0.731146, 9
+4, great breakfast, 0.712828, 9
+5, good breakfast joint, 0.514948, 0
+5, favorite breakfast dishes, 0.45417, 1
+5, time, 0.484206, 3
+5, banana nut muffin, 0.737014, 4
+5, food, 0.913063, 5
+5, breakfast, 0.810954, 5
+5, server, 0.580265, 6
+5, skillet, 0.467613, 6
+5, corn beef hash, 0.525839, 7
+5, service good prices, 0.469185, 7
+5, egg works, 0.974706, 8
+5, place, 0.670077, 8
+5, traditional breakfast food, 0.519167, 9
+5, great breakfast, 0.50325, 9

@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, pretty lame excuse, 0.852562, 0
+1, nasty remark, 0.640265, 0
+1, terrible food, 0.753865, 1
+1, beloved Sidelines, 0.627901, 1
+1, fish sandwich meal, 0.815081, 2
+1, credit card, 0.572878, 2
+1, 70s rock, 0.56019, 3
+1, game, 0.388212, 3
+1, waitress, 0.99712, 4
+1, coupon, 0.515904, 4
+1, time, 0.50328, 5
+1, coke, 0.478284, 6
+1, Came, 0.413245, 6
+1, Thursday night football, 0.773654, 7
+1, entertainment.com, 0.378601, 7
+2, amazingly intelligent waitress, 0.981769, 0
+2, old juke box, 0.93755, 0
+2, Native New Yorker, 0.897379, 1
+2, Direct TV., 0.714408, 1
+2, thursday night, 0.937319, 2
+2, dive bar, 0.89602, 2
+2, world cup, 0.771746, 3
+2, tilted Kilt, 0.74326, 3
+2, food, 0.957543, 5
+2, brutal Chicago winter, 0.89442, 6
+2, Phoenix area, 0.715563, 6
+2, flavor wise, 0.739999, 7
+2, BWW, 0.55781, 7
+3, Zipps Golden wings, 0.963129, 0
+3, Miller Lite draft, 0.897112, 0
+3, super loud music, 0.889998, 2
+3, Cheap drinks, 0.784697, 2
+3, decent bar food, 0.96351, 3
+3, fried calamari, 0.781155, 3
+3, food, 0.995729, 4
+3, hubby, 0.867695, 6
+3, ......., 0.790798, 6
+3, extra server, 0.914651, 7
+3, bar type atmosphere, 0.911011, 7
+3, great time, 0.933186, 8
+3, grilled wings, 0.816116, 8
+3, new patio, 0.762435, 9
+3, cold nights, 0.75771, 9
+4, lovely fall afternoon, 0.675944, 0
+4, Hot Burger, 0.627744, 0
+4, Blu Burger, 0.725458, 1
+4, favorite sports bar, 0.702406, 2
+4, bar food, 0.833721, 3
+4, good bar food, 0.769938, 3
+4, place, 0.587766, 4
+4, time, 0.605603, 5
+4, wings, 0.997717, 6
+4, love dive bars, 0.728802, 6
+4, best wings, 0.756957, 7
+4, favorite wings, 0.737528, 7
+4, burgers, 0.741621, 8
+4, Super friendly staff, 0.68819, 8
+4, great sports atmosphere, 0.702855, 9
+4, local drinking spot, 0.675147, 9
+5, drink order, 0.584487, 0
+5, Yelp review, 0.583403, 0
+5, Regular drink prices, 0.704247, 2
+5, HUGE portions, 0.557561, 3
+5, Huge wings, 0.649799, 6
+5, Sidelines, 0.59963, 6
+5, dozen sweet chili, 0.69894, 7
+5, classic wings, 0.621179, 7
+5, sweet chili wings, 0.951127, 8
+5, best wings, 0.775204, 8
+5, high quality food, 0.668341, 9
+5, entire dinner tab, 0.655675, 9

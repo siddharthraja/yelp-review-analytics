@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, disappointment, 0.904535, 0
+1, bartender, 0.893953, 0
+2, regular dinner, 0.705483, 0
+2, staff walk, 0.659908, 0
+2, location, 0.505091, 1
+2, fat tips, 0.657709, 2
+2, single guy, 0.657078, 2
+2, stars, 0.506081, 3
+2, reason, 0.457511, 3
+2, PT, 0.967277, 5
+2, big pizza, 0.659317, 6
+2, Hacienda, 0.478171, 6
+2, favorite sushi place, 0.876736, 7
+2, soda, 0.462811, 7
+2, midnight, 0.463549, 9
+3, New Age candy-ass, 0.950061, 0
+3, bartender, 0.667036, 0
+3, egregious fallacy, 0.717514, 2
+3, crappy butt-rock, 0.653704, 2
+3, feature power tools, 0.897935, 3
+3, chainsaw solo, 0.669247, 3
+3, after-shift celebrations, 0.693789, 6
+3, PT, 0.482868, 6
+3, Jackyl, 0.40714, 7
+3, night, 0.367607, 7
+3, Golden Tee, 0.63113, 9
+3, pool tables, 0.626138, 9
+4, eye-pleasing nachos, 0.786558, 0
+4, large platter, 0.752844, 0
+4, stars, 0.537993, 1
+4, building, 0.537971, 1
+4, new local PT, 0.908835, 2
+4, go-to places, 0.733703, 2
+4, Fat Tire, 0.709558, 3
+4, scrumptious nachos, 0.78371, 6
+4, burger tastes, 0.755259, 7
+4, quick bite, 0.735671, 7
+4, aesthetically pleasing backdrop, 0.966149, 8
+4, Tri-colored tortillas chips, 0.950873, 8
+4, late night, 0.883584, 9
+4, popcorn chicken pizza, 0.85127, 9
+5, Angeles, 0.466994, 0
+5, coat check, 0.924283, 2
+5, problem, 0.469804, 2
+5, attention, 0.545051, 7
+5, Great bar, 0.899936, 8
+5, Best PTs, 0.979379, 9
+5, Las Vegas., 0.813637, 9

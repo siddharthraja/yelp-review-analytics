@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+2, pheasant ravioli, 0.635368, 0
+2, duck magret, 0.625374, 0
+2, worst service, 0.647195, 1
+2, nearby café, 0.609904, 1
+2, bartender, 0.789887, 2
+2, make-shift bartender, 0.721462, 3
+2, server, 0.580196, 3
+2, friend, 0.519786, 4
+2, i-phone, 0.369189, 4
+2, best bagel lox, 0.920603, 6
+2, menu, 0.281369, 6
+2, mixology app, 0.60982, 7
+2, cocktail, 0.27729, 7
+2, right bottle, 0.634247, 8
+4, complementary amuse bouche, 0.934564, 0
+4, prior reviews, 0.667554, 0
+4, Pasta dishes, 0.717608, 3
+4, Saturday night, 0.710771, 6
+4, dinner, 0.469909, 6
+4, appetizer dessert, 0.74488, 7
+4, duck confit, 0.675575, 7
+4, meal, 0.574369, 8
+4, decor, 0.474815, 8

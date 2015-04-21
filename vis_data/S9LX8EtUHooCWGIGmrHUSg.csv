@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+4, ongoing wine tastings, 0.82504, 0
+4, W. Warner Road, 0.814148, 0
+4, bad experience, 0.675967, 1
+4, on-line menu, 0.66327, 3
+4, local wine reps, 0.832443, 6
+4, darling, 0.532701, 6
+4, feng shui analysis, 0.837053, 7
+4, crocodile pot stickers, 0.828606, 7
+4, cozy little wine, 0.927157, 8
+4, shop/wine bar/tasting room, 0.879669, 8
+4, great wine tasting, 0.866026, 9
+4, perfect compliment, 0.689848, 9
+5, huge wine barrels, 0.931458, 0
+5, wine racks, 0.862425, 0
+5, negative thing, 0.57747, 2
+5, merchandise, 0.269134, 2
+5, general decor, 0.56951, 3
+5, center, 0.35468, 3
+5, bunch, 0.403262, 5
+5, Thats, 0.30726, 6
+5, couch, 0.291869, 6
+5, Great setup, 0.584746, 8
+5, great variety, 0.556418, 8
+5, ample seating, 0.720401, 9
+5, patio seating, 0.685177, 9

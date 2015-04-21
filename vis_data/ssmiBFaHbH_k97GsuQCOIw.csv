@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+2, grilled pear salad, 0.909615, 0
+2, nonexistent service Disappointing, 0.809978, 0
+2, mouth quality, 0.652756, 1
+2, lounge/bar area, 0.759107, 2
+2, exceptional dish, 0.692124, 2
+2, gooey orange grease, 0.825392, 3
+2, dining room, 0.815675, 3
+2, meal, 0.678172, 5
+2, entire dining room, 0.808341, 6
+2, truffle gnocchi, 0.685898, 6
+2, York steak entre, 0.835818, 7
+2, decent wine list, 0.798334, 7
+2, fine dining, 0.675801, 8
+2, Phoenix area, 0.665939, 8
+3, peppercorn crusty thing, 0.894545, 0
+3, quiet little place, 0.894467, 0
+3, bar area, 0.980985, 1
+3, bar several time, 0.800189, 1
+3, Creamy dark chocolate, 0.886191, 3
+3, chanel goat cheese, 0.869908, 3
+3, food, 0.898, 5
+3, dinner, 0.882266, 5
+3, steak tenderloin bruschetta, 0.877381, 6
+3, vine ripe tomatoes, 0.875285, 6
+3, creme brulee, 0.88713, 7
+3, chocolate pizza, 0.885597, 7
+3, ample wine list, 0.899452, 8
+3, butterscotch creme brulee, 0.88477, 8
+3, classic crme brulee, 0.872908, 9
+3, comfy chairs/couches, 0.804866, 9
+4, Furio cards, 0.693422, 0
+4, reality Furio, 0.682547, 0
+4, dining area, 0.606678, 2
+4, flat screen, 0.604308, 2
+4, Furio several times, 0.68616, 3
+4, pink-tinted back-lit bar, 0.613306, 3
+4, furio, 0.995211, 6
+4, martini, 0.794886, 6
+4, old town, 0.803764, 7
+4, Monday night, 0.73922, 7
+4, great place, 0.742058, 8
+4, bistec del furio, 0.7274, 8
+4, Monday night visit, 0.632078, 9
+4, great food, 0.626597, 9
+5, cheesy decor, 0.881462, 0
+5, light sauce, 0.863061, 0
+5, star ratings, 0.875186, 1
+5, usual strip malls, 0.962405, 2
+5, previous frustrations, 0.842861, 2
+5, downtown Scottsdale strip, 0.941145, 3
+5, rude staff, 0.839308, 3
+5, long time, 0.967489, 4
+5, downtown Scottsdale, 0.965013, 5
+5, cream sherry sauce, 0.985982, 6
+5, baby shrimp, 0.8533, 6
+5, Furio, 0.94709, 7
+5, Italian appetizer, 0.874084, 7
+5, absolute great time, 0.990786, 8
+5, old town adventure, 0.971841, 8
+5, ladies night, 0.965397, 9
+5, quirky fun waitress, 0.957365, 9

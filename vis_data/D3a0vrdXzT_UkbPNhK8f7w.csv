@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, recent Friday night, 0.975682, 0
+1, super slow service, 0.947772, 0
+1, average food, 0.663482, 1
+1, new bartender, 0.697712, 2
+1, lack, 0.303528, 2
+1, shortcomings, 0.335322, 3
+1, basic menu items, 0.881519, 6
+1, fish fry, 0.717953, 6
+1, high rating, 0.656276, 7
+1, cool touch, 0.654275, 7
+2, chicken salad sandwich, 0.740606, 0
+2, Wisconsin style food, 0.670085, 0
+2, big mess, 0.568734, 1
+2, cheese option, 0.561169, 1
+2, waitress, 0.571122, 2
+2, stars, 0.463934, 2
+2, Wisconsin style bar, 0.869152, 3
+2, limited menu- burgers, 0.743809, 3
+2, burger, 0.785658, 4
+2, fountain, 0.729684, 5
+2, time, 0.658634, 5
+2, bbq pork sandwich, 0.717915, 6
+2, Live jazz combo, 0.703425, 6
+2, Fountain burger, 0.712458, 7
+2, burger medium, 0.689324, 7
+2, sweet potato fries, 0.965796, 8
+2, better burger, 0.632169, 8
+3, fish fry batter, 0.729805, 0
+3, Long John Silver, 0.70268, 0
+3, kinda, 0.442113, 1
+3, BOO, 0.434498, 1
+3, dairy state, 0.580329, 2
+3, patties, 0.438635, 2
+3, industrial bar, 0.597727, 3
+3, Graze cos, 0.582706, 3
+3, cheese curds, 0.942269, 4
+3, great drink specials, 0.73868, 6
+3, burger alternatives, 0.667276, 6
+3, awesome review, 0.614138, 7
+3, live music, 0.572309, 7
+3, sweet potato fries, 0.974509, 8
+3, tuna steak burger, 0.834642, 8
+3, great place, 0.584348, 9
+4, Tom Turkey Club, 0.659974, 0
+4, beautiful meaty flavor, 0.608633, 0
+4, horseradish cream sauce, 0.636737, 2
+4, bar, 0.555005, 2
+4, Sliced Prime Rib, 0.634544, 3
+4, Tipsy Cow, 0.527245, 3
+4, live music, 0.52861, 4
+4, turkey club, 0.785922, 5
+4, food, 0.651899, 5
+4, lunch partner, 0.660073, 6
+4, pickled ground cherries, 0.621976, 6
+4, cheese curds, 0.964697, 7
+4, best cheese curds, 0.696961, 7
+4, BBQ Cheddar Burger, 0.801394, 8
+4, quality consistent food, 0.649059, 8
+4, delightful battered cheese, 0.622416, 9
+4, small appetizer style, 0.612542, 9
+5, Pulled Pork Sandwich, 0.480788, 0
+5, good lunch spots, 0.45921, 0
+5, burger joint, 0.447362, 2
+5, Shaved Ribeye Sandwich, 0.471737, 3
+5, Red Lager Brat, 0.443557, 3
+5, pretzel bun, 0.455711, 5
+5, bar, 0.447454, 5
+5, Old Fashioned, 0.595284, 6
+5, place, 0.566567, 6
+5, cheese curds, 0.918714, 7
+5, fountain burger, 0.58786, 7
+5, good selection, 0.476723, 8
+5, delicious beef sandwiches, 0.47025, 8
+5, great casual place, 0.485998, 9
+5, great beer selection, 0.462976, 9

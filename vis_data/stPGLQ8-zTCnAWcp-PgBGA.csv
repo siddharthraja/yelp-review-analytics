@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+1, food, 0.874353, 0
+1, order, 0.633919, 0
+1, sound level, 0.977561, 2
+1, greeter, 0.864905, 2
+2, onion rings, 0.904349, 0
+2, neat-looking stack, 0.864196, 0
+2, little piece, 0.799621, 1
+2, bacteria, 0.20184, 1
+2, place, 0.422618, 2
+2, complaints, 0.229954, 2
+2, Nuclear hot, 0.838062, 3
+2, burger, 0.713261, 4
+2, meat, 0.39417, 5
+2, new design/layout, 0.988453, 7
+2, Stadium, 0.210115, 7
+2, -My girlfriend, 0.877211, 8
+2, great job, 0.80456, 9
+2, remodel, 0.261526, 9
+4, price wine Wednesdays, 0.72625, 0
+4, lower level, 0.63061, 0
+4, standard bar fare, 0.734272, 3
+4, pork BBQ flatbread, 0.785534, 6
+4, food, 0.750333, 6
+4, pizza rolls, 0.905549, 7
+4, pork flatbread, 0.702558, 7
+4, Great pizza rolls, 0.781552, 8
+4, place, 0.750009, 8
+4, Fountains shopping center, 0.747608, 9
+4, Pulled POrk Flat, 0.710154, 9
+5, best new restaurants, 0.743301, 0
+5, Alabama football games, 0.706713, 0
+5, neighborhood bar, 0.619967, 2
+5, DB, 0.760191, 5
+5, pizza rolls, 0.919027, 6
+5, food, 0.711623, 6
+5, great track record, 0.758537, 7
+5, tater tots, 0.755269, 7
+5, blue cheese chips, 0.701029, 8
+5, crave food, 0.663268, 8
+5, Fountains DB, 0.688714, 9
+5, Good food, 0.65555, 9

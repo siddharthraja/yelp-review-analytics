@@ -1,0 +1,68 @@
+rating, keyword, relevance, bucket
+1, fine tuning, 0.39385, 0
+1, total time, 0.341219, 0
+1, ravioli, 0.216988, 1
+1, open tables, 0.392367, 3
+1, time, 0.351048, 3
+1, bread, 0.435819, 6
+1, young hostess, 0.423152, 6
+1, NY pizza, 0.917354, 7
+1, Italian restaurant, 0.394604, 7
+1, real NY pizza, 0.873955, 8
+1, better choices, 0.409939, 8
+1, good pizza places, 0.789734, 9
+1, better service, 0.346241, 9
+2, bland taste, 0.553073, 0
+2, Thursday lunch, 0.542104, 0
+2, sauce, 0.200742, 1
+2, Hawaiian pizza, 0.794068, 2
+2, Hawthorne locatons, 0.493507, 2
+2, Elizabeth special pizza, 0.927274, 7
+2, fantastic service, 0.534248, 9
+2, comfortable outside sitting, 0.501696, 9
+3, inch pizza, 0.654114, 0
+3, big ole dough-balls, 0.562875, 0
+3, hot mess, 0.489492, 1
+3, soggy mess, 0.487699, 1
+3, spinach artichoke dip, 0.701222, 2
+3, direct route, 0.474782, 2
+3, special white pizza, 0.842856, 3
+3, olive oil, 0.611559, 3
+3, pizza, 0.982068, 4
+3, crust, 0.453318, 4
+3, Hawthorne, 0.4916, 5
+3, garlic knots, 0.782413, 6
+3, favorite pizza, 0.669265, 6
+3, veggie pizza, 0.662091, 7
+3, Ricotta cream sauce, 0.565622, 7
+3, Marios Pizza, 0.671639, 8
+3, Palones Pizza, 0.65989, 8
+4, pizza dough, 0.639026, 0
+4, half buffalo chicken, 0.540451, 0
+4, compact car parking, 0.53403, 2
+4, covered porch area, 0.52095, 2
+4, small waiting area, 0.529565, 3
+4, favorite pizza joint, 0.655235, 6
+4, pizza crust, 0.613449, 6
+4, pizza, 0.926186, 7
+4, NY style pizza, 0.788244, 7
+4, pizza great pasta, 0.745774, 8
+4, Crew pizza, 0.706294, 8
+4, favorite pizza place, 0.665273, 9
+4, Elizabeth Pizza, 0.63313, 9
+5, NY pizza, 0.67176, 0
+5, Best NY slices, 0.651187, 0
+5, raw dough, 0.580718, 1
+5, Garlic knots, 0.544416, 1
+5, specialty pizza, 0.645188, 2
+5, game room, 0.674131, 3
+5, dough remnants, 0.579134, 3
+5, pizza, 0.927098, 5
+5, experienced pizza critics, 0.793259, 6
+5, pizza place, 0.687243, 6
+5, compact car parking, 0.671405, 7
+5, hardly right reviews, 0.664039, 7
+5, pizza dough, 0.702268, 8
+5, pesto pizza, 0.692671, 8
+5, great pizza, 0.670668, 9
+5, family friendly restaurant, 0.652352, 9

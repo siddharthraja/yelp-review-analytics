@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, nuked horrid food, 0.78217, 0
+1, small hightop table, 0.74925, 0
+1, Vince Neil, 0.840115, 1
+1, waitress, 0.748181, 1
+1, Motley Crue videos, 0.725582, 2
+1, private party, 0.643116, 2
+1, food, 0.901516, 3
+1, place, 0.865292, 4
+1, margaritas, 0.713724, 4
+1, Motley Crue fans, 0.726927, 6
+1, evenings MMA event, 0.708409, 6
+1, extra shot, 0.808211, 7
+1, dog food quesadilla, 0.731726, 7
+1, fish tacos, 0.885563, 8
+1, cool place, 0.629691, 8
+2, Doctor Feelgood CD, 0.741557, 0
+2, rock videos, 0.506775, 0
+2, cheap tortilla chips, 0.709243, 1
+2, rock stars, 0.480617, 1
+2, Vince Neil, 0.965883, 2
+2, tequila bar, 0.574906, 2
+2, Motley Crue, 0.544281, 3
+2, cocktail waitress, 0.543107, 3
+2, best tequila, 0.525783, 6
+2, rocker, 0.258861, 6
+2, good prices, 0.472074, 7
+2, good booze, 0.469031, 7
+2, half-price appetizers, 0.587383, 8
+2, previous review, 0.529421, 8
+2, Reviews, 0.254657, 9
+3, great margaritas, 0.704512, 0
+3, rock music videos, 0.611508, 0
+3, simple bar food, 0.605251, 2
+3, Happy hour specials, 0.565341, 2
+3, huge basket, 0.533614, 3
+3, Taco Bell, 0.529417, 3
+3, patrons, 0.423746, 4
+3, house margaritas, 0.767225, 6
+3, place, 0.595386, 6
+3, stiff drinks, 0.559283, 7
+3, tequila tasting, 0.556916, 7
+3, margaritas, 0.912487, 8
+3, half price margaritas, 0.86045, 8
+3, tequila drinks, 0.565176, 9
+3, huge goblets, 0.55931, 9
+4, Vince Neil memoribilia, 0.693884, 0
+4, statues, 0.432119, 0
+4, Friday night, 0.545505, 2
+4, waitresses, 0.448129, 2
+4, Crue fan, 0.917543, 6
+4, HUGE Motley Crue, 0.862925, 6
+4, infamous Cadillac Margarita, 0.757245, 7
+4, Rios Tequila Sampler, 0.7484, 7
+4, tequila shots, 0.583848, 8
+4, great deals, 0.559075, 8
+5, small group hang-out, 0.675686, 0
+5, half-off house margaritas, 0.671121, 0
+5, low rating, 0.50582, 1
+5, rest, 0.24544, 1
+5, Las Vegas Hilton, 0.937711, 2
+5, Rio buffet, 0.470351, 2
+5, entire crowd, 0.43989, 3
+5, place, 0.25883, 3
+5, food, 0.410524, 4
+5, bar, 0.77588, 5
+5, famous Chicken Quesadilla, 0.734533, 6
+5, Tres Rios Cantina, 0.692606, 6
+5, chicken quesadilla, 0.778614, 7
+5, great four-day vacation, 0.635963, 7
+5, chicken quesadilla plate, 0.701139, 8
+5, guacamole sauce, 0.475257, 8
+5, Servers, 0.24833, 9

@@ -1,0 +1,47 @@
+rating, keyword, relevance, bucket
+2, mixed drinks, 0.649549, 0
+2, friends, 0.371924, 0
+2, upstairs, 0.40829, 2
+2, waitress, 0.397299, 2
+2, quick drink, 0.677842, 3
+2, new restaurant, 0.668104, 3
+2, wine, 0.704985, 5
+2, glass, 0.598809, 5
+2, American Pinot Noir, 0.860343, 6
+2, friend, 0.375356, 7
+2, stars, 0.372246, 8
+2, beauty, 0.372178, 8
+2, big leather couches, 0.942294, 9
+2, seating, 0.380506, 9
+4, pre dinner drink, 0.998427, 0
+4, pear vodka, 0.768916, 0
+4, group bedside, 0.753309, 2
+4, bar, 0.582166, 2
+4, Bound, 0.46139, 3
+4, airport, 0.456674, 3
+4, drinks, 0.650505, 5
+4, Cromwell boutique hotel, 0.901586, 6
+4, different ones, 0.686163, 6
+4, comfortable leather couches, 0.981403, 7
+4, pear puree, 0.786001, 7
+4, Cromwell twist, 0.779291, 8
+4, amazing cocktail, 0.758221, 8
+4, try, 0.464236, 9
+5, craft cocktail movement, 0.872562, 0
+5, Red Bull, 0.754988, 0
+5, bar tenders, 0.763265, 1
+5, Alas bourbon, 0.741383, 1
+5, craft cocktail, 0.882128, 2
+5, particularly big bar, 0.873101, 2
+5, late night stop, 0.894431, 3
+5, Vanil Vodka, 0.75896, 3
+5, bar, 0.974317, 4
+5, Vegas, 0.843003, 5
+5, great sounding drinks, 0.936373, 6
+5, Sugar Syrup, 0.752443, 6
+5, time, 0.785507, 7
+5, long night, 0.77385, 7
+5, good espresso cocktails, 0.971724, 8
+5, cocktail menu, 0.897915, 8
+5, martini type glass, 0.853642, 9
+5, whiskey cognac specialty, 0.843938, 9

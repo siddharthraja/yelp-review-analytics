@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+2, long island, 0.614191, 0
+2, food, 0.490363, 0
+2, chest, 0.46183, 2
+2, menu, 0.446031, 2
+2, spinach dip, 0.645476, 3
+2, burger, 0.5339, 3
+2, chicken parmesan, 0.941964, 5
+2, fry combo plate, 0.798686, 6
+2, basic service, 0.614349, 6
+2, burgers, 0.540176, 7
+2, dad, 0.521633, 7
+2, tum tum, 0.731112, 8
+2, yum, 0.481091, 8
+2, fairness, 0.45526, 9
+2, hunger, 0.450853, 9
+5, handpay cashiers, 0.911602, 0
+5, drink orders, 0.894017, 0
+5, great staff, 0.814248, 8
+5, worries, 0.563895, 8
+5, cute smile, 0.90903, 9
+5, lovely ladies, 0.894634, 9

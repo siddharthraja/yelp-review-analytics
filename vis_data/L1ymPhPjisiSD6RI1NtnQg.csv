@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, Peter Piper Pizza, 0.805018, 0
+1, cheese plate, 0.791283, 0
+1, food, 0.754218, 1
+1, ashy bread, 0.669357, 1
+1, small canned juices, 0.751831, 2
+1, restaurant, 0.73025, 2
+1, place, 0.94244, 3
+1, cheap wrapped sticks, 0.779789, 3
+1, pizza, 0.940047, 4
+1, pink lipstick print, 0.783729, 6
+1, busy Saturday, 0.676473, 6
+1, ........, 0.992257, 7
+1, good pizza perspective, 0.799597, 7
+1, nice photos, 0.642644, 8
+1, nice parks, 0.636996, 8
+2, parm panini, 0.79502, 0
+2, eggplant dish, 0.742433, 0
+2, Verrado doesnt, 0.719093, 1
+2, old baguette., 0.6724, 1
+2, sandwich oh, 0.7157, 2
+2, good to., 0.6603, 2
+2, ceasar, 0.511204, 6
+2, meals, 0.467711, 6
+2, service, 0.456808, 7
+2, lunch, 0.581711, 8
+2, waitress, 0.514648, 8
+2, Nice cozy place, 0.937125, 9
+3, itty bitty cubes., 0.859381, 0
+3, aka Verrado, 0.843882, 0
+3, overly salty, 0.683846, 1
+3, little more attention, 0.648712, 1
+3, garlic bread, 0.682932, 2
+3, high expectations, 0.676838, 2
+3, little details, 0.801424, 3
+3, place, 0.671478, 3
+3, verrado, 0.921617, 4
+3, boutique pizza experience, 0.923522, 6
+3, Dolce Della Casa, 0.823196, 6
+3, open pizza pit, 0.85548, 7
+3, lasagna, 0.573781, 7
+3, hazelnut pizza type, 0.85825, 8
+3, pretty high price, 0.803928, 8
+4, alla Mamma Pizza, 0.733858, 0
+4, Insalta della Casa, 0.571322, 0
+4, passable Italian food, 0.563577, 2
+4, decent pizza, 0.656247, 3
+4, Desperate Housewives, 0.574156, 3
+4, Verrado, 0.633749, 4
+4, Parmigano Reggiano, 0.650025, 6
+4, Old Town Scottsdale, 0.559787, 6
+4, pizza, 0.936471, 7
+4, Dame Edna pizza, 0.801439, 7
+4, good pizza, 0.824047, 8
+4, authentic european pizza, 0.752436, 8
+4, great pizza place, 0.808113, 9
+4, pizza making area, 0.725676, 9
+5, little town square, 0.646295, 0
+5, little extra flavor, 0.641052, 0
+5, decent pizza, 0.694175, 1
+5, tiny little cubes, 0.67186, 1
+5, bad Italian wine, 0.662714, 2
+5, crust pizza, 0.696395, 3
+5, White Tank Mountain, 0.636123, 3
+5, pizza, 0.962589, 5
+5, dessert, 0.698487, 5
+5, Dolce Della Casa, 0.802601, 6
+5, Chocolate Hazelnut Sauce, 0.799161, 6
+5, Shaved Parmigiano Reggiano, 0.776557, 7
+5, Dame Edna pizza, 0.770164, 7
+5, amazing pizza, 0.712503, 8
+5, pizza yum, 0.696175, 8
+5, best pizza, 0.846405, 9
+5, Excellent pizza, 0.724496, 9

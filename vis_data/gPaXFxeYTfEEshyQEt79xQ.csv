@@ -1,0 +1,45 @@
+rating, keyword, relevance, bucket
+2, lequipe n'était pas, 0.935779, 0
+2, je serai bien, 0.933828, 0
+2, menu, 0.440547, 1
+2, quality, 0.44046, 1
+2, waiter, 0.451713, 2
+2, receipt, 0.442488, 2
+2, été juste correcte, 0.82943, 6
+2, servi manquait cruellement, 0.792026, 6
+2, convenient place, 0.629236, 7
+2, people, 0.437932, 7
+2, nice ambiance, 0.639231, 8
+2, thing, 0.43571, 8
+3, mais très sympa, 0.911807, 0
+3, brunch original dans, 0.797848, 0
+3, average attempt, 0.614415, 1
+3, Mon chum aurait, 0.728054, 3
+3, caché au fond, 0.747387, 6
+3, place le DJ, 0.746783, 6
+3, St Laurent corner, 0.727855, 7
+3, traditional breakfast fare, 0.724695, 7
+3, constantly great music, 0.732656, 8
+3, good beer, 0.629477, 8
+4, qui ouvrent le, 0.925877, 0
+4, le bar qui, 0.917645, 0
+4, sucré et, 0.809851, 2
+4, Le Laïka est, 0.981769, 3
+4, J'ai découvert le, 0.884797, 3
+4, qui est venu, 0.86753, 6
+4, et qu'on peut, 0.867182, 6
+4, le service est, 0.968789, 7
+4, c'est le rush, 0.910191, 7
+5, Le café est, 0.966655, 0
+5, le Platô ici, 0.957006, 0
+5, long narrow space, 0.87544, 1
+5, sour dill gherkins, 0.89523, 2
+5, l'endroit se transforme, 0.873195, 3
+5, d'y acheter le, 0.94943, 6
+5, Le Wifi gratuit, 0.939209, 6
+5, st laurent, 0.907988, 7
+5, L'ambiance est cool, 0.905006, 7
+5, great large windows, 0.904418, 8
+5, favorite place, 0.82441, 8
+5, Great patio seating, 0.902595, 9
+5, brunch menu, 0.84672, 9

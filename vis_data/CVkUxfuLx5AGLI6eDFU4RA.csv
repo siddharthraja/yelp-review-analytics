@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+3, Tokyo Shock-fest twofer, 0.780046, 0
+3, new movie, 0.654145, 0
+3, Chuck Jones, 0.779895, 1
+3, Chuck Jones presentation, 0.751898, 1
+3, madcap, 0.979681, 2
+3, MADCAP Theaters, 0.81039, 2
+3, mailing list, 0.734701, 3
+3, Clockwork Orange, 0.656442, 3
+3, cult classics, 0.745777, 6
+3, old b-movies, 0.65238, 6
+3, nice little date, 0.738941, 7
+3, old cult classics, 0.716295, 7
+3, schlock-fest movies, 0.663305, 8
+3, film festivals, 0.648903, 8
+3, new independent movies, 0.759511, 9
+3, old movies, 0.648024, 9
+4, movie junk food, 0.697868, 0
+4, th annual Horror, 0.687379, 0
+4, movie theaters, 0.639628, 1
+4, madcap theaters, 0.832228, 2
+4, Rocky Horror fix, 0.644926, 2
+4, rthe collest theaters, 0.739316, 3
+4, Madcap First time, 0.685113, 3
+4, Rocky Horror, 0.648535, 4
+4, double feature, 0.667887, 5
+4, Midnight Movie Mamacita, 0.693491, 6
+4, theater isa, 0.63372, 6
+4, KVLT Norwegian Black, 0.677018, 7
+4, older cult movies, 0.669474, 7
+4, cult classics, 0.932441, 8
+4, independent movie theater, 0.697411, 8
+4, technologically advanced theaters, 0.687729, 9
+4, REAL independent films, 0.687588, 9
+5, Kudos Madcap staff, 0.628258, 0
+5, St. Harkins Theatre, 0.467349, 0
+5, generic Harkins theater, 0.464354, 1
+5, terrible movie, 0.401303, 1
+5, madcap theaters, 0.750177, 2
+5, likely Madcap, 0.570451, 2
+5, Rocky Horror, 0.719132, 3
+5, Rocky Horror Picture, 0.702441, 3
+5, madcap, 0.929072, 4
+5, film festival, 0.608207, 5
+5, movies, 0.441704, 5
+5, Midnite Movie Mamacita, 0.715824, 6
+5, place, 0.515519, 6
+5, horror film festival, 0.595732, 7
+5, coolest theater, 0.39441, 7
+5, entertaining film events, 0.451271, 8
+5, cult movie showings, 0.43628, 8
+5, crap-tastic movies, 0.402917, 9
+5, Downtown Tempe, 0.396161, 9

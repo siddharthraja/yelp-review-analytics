@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+2, Mumbai street market, 0.831684, 0
+2, good bar excels, 0.805847, 0
+2, terrible experience, 0.662032, 1
+2, downtown bar, 0.642346, 1
+2, Church Key, 0.994641, 2
+2, frat boys, 0.665775, 2
+2, campus bar, 0.590622, 3
+2, Drinks, 0.451624, 3
+2, decoration, 0.445501, 6
+3, bottled woodchuck ales, 0.741063, 0
+3, new establishment, 0.550625, 0
+3, Brothers, 0.344057, 1
+3, choosing, 0.342287, 1
+3, typical Madison downtown, 0.676903, 2
+3, intimate dive, 0.537974, 2
+3, disliked Church Key, 0.648303, 3
+3, Church Key, 0.908399, 5
+3, FYI, 0.355886, 6
+3, opener, 0.354937, 6
+3, old Church Key, 0.707209, 7
+3, good place, 0.492122, 7
+3, upstairs bar, 0.509409, 8
+3, Great place, 0.489509, 8
+3, Free popcorn, 0.51755, 9
+3, staff, 0.34247, 9
+4, older crowd, 0.631987, 0
+4, cheese curds, 0.628541, 0
+4, late-night establishment, 0.623979, 2
+4, multiple floors, 0.614375, 2
+4, typical college bar, 0.739493, 3
+4, NBA finals, 0.731254, 3
+4, Church Key, 0.918246, 4
+4, night, 0.653615, 5
+4, atmosphere, 0.545944, 5
+4, staff persona, 0.62542, 6
+4, memorable moment, 0.618609, 6
+4, free darts, 0.632153, 7
+4, non-beer drinker, 0.621875, 7
+4, decent music, 0.633891, 8
+4, drink specials, 0.630815, 8
+5, burger special, 0.65968, 0
+5, Kohl Center, 0.658949, 0
+5, star rating, 0.68569, 1
+5, unsavory terms, 0.675244, 1
+5, back-to-back prison sentences, 0.93478, 2
+5, bar food+a ton, 0.868495, 2
+5, college kids, 0.634782, 3
+5, Thursday night, 0.634381, 3
+5, Yelp, 0.468121, 4
+5, ambiance, 0.455018, 4
+5, specials, 0.495666, 5
+5, male bartenders, 0.668352, 6
+5, tools, 0.443894, 6
+5, prices, 0.489198, 7
+5, Staff, 0.444772, 7
+5, Fun crowd, 0.635781, 8
+5, great atmosphere, 0.622118, 8
+5, timely manner, 0.650404, 9
+5, way, 0.442537, 9

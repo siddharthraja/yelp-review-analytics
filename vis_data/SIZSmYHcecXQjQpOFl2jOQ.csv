@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, hash brown patty, 0.831786, 0
+1, low quality ingredients, 0.831295, 0
+1, super condescending tone, 0.840091, 1
+1, LOL The food, 0.775764, 1
+1, dining experience, 0.861053, 2
+1, completely different salad, 0.817537, 2
+1, single star review, 0.818885, 3
+1, waitress, 0.817228, 3
+1, food, 0.983288, 4
+1, place, 0.869578, 4
+1, drink, 0.756174, 5
+1, famous chili fries, 0.859957, 6
+1, better service experience, 0.827892, 6
+1, Bird S*** Cafe, 0.845294, 7
+1, grilled cheese sandwich, 0.841026, 7
+1, WAYYYYY better places, 0.833521, 8
+1, delicious food, 0.759754, 8
+2, area drinking beers, 0.90626, 0
+2, Grand Canyon tour, 0.897767, 0
+2, horrible sandwich, 0.701774, 1
+2, feed, 0.445925, 1
+2, ham sandwich, 0.693372, 2
+2, firm believer, 0.659398, 2
+2, best night, 0.675728, 3
+2, place, 0.498891, 3
+2, mango margarita, 0.68445, 6
+2, liking, 0.487592, 6
+2, mood, 0.459109, 8
+3, cool outdoor bar, 0.737619, 0
+3, plastic souvenier guitars, 0.73469, 0
+3, Fat Bar, 0.745315, 1
+3, minimum drink order, 0.704359, 1
+3, single women, 0.755324, 2
+3, LITTLE ANGRY BLONDE, 0.715362, 2
+3, club scene folks, 0.691477, 3
+3, Vegas, 0.662558, 3
+3, people, 0.678024, 4
+3, karaoke, 0.662461, 4
+3, place, 0.667386, 5
+3, night, 0.659091, 5
+3, chili-cheese dog, 0.925728, 6
+3, chili-cheese fries, 0.631492, 6
+3, Blue Hawaiian drink, 0.73073, 7
+3, outgoing bartenders, 0.639657, 7
+3, 24-hour breakfast sign, 0.718594, 8
+3, Good bartenders, 0.671378, 8
+3, refillable drinks, 0.642409, 9
+3, good point, 0.617279, 9
+5, leg-shaped fishnet-covered container, 0.902767, 0
+5, Melon Ball, 0.790039, 0
+5, poison, 0.568039, 1
+5, menu, 0.561814, 1
+5, food, 0.639027, 2
+5, bucks, 0.566188, 2
+5, bar, 0.641919, 3
+5, gigantic, 0.581138, 3
+5, waitress, 0.583271, 6
+5, personal experience, 0.767331, 7
+5, alcohol, 0.636879, 7
+5, great mix, 0.757833, 8

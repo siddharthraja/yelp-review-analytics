@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+1, Thursday night football, 0.878059, 0
+1, steelers game, 0.606196, 0
+1, bite, 0.378522, 2
+1, server, 0.350655, 2
+1, time, 0.351934, 3
+1, onion rings, 0.966888, 6
+1, burger king, 0.652933, 6
+1, better night, 0.553221, 7
+1, eat, 0.366692, 7
+2, cigarette smoke, 0.925966, 1
+2, distraction, 0.734924, 1
+4, Restruant, 0.317819, 3
+4, Friendly atmosphere, 0.913938, 8
+4, Best place, 0.814468, 8
+4, reasonable price, 0.987981, 9
+4, Great food, 0.827251, 9
+5, drink specials, 0.720757, 7
+5, Awesome cheese steak, 0.991673, 8
+5, Great, 0.351114, 8
+5, food, 0.346188, 9

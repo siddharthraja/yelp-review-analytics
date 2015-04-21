@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, separate eating area, 0.923002, 0
+1, Molly Malone, 0.735997, 0
+1, stench, 0.35753, 1
+1, smoke, 0.308617, 1
+1, actual rating, 0.633403, 2
+1, non-smokers, 0.344452, 2
+1, place, 0.281744, 3
+1, wife, 0.314435, 8
+2, good bye, 0.601663, 0
+2, nada, 0.226443, 0
+2, home, 0.309526, 1
+2, morning, 0.203593, 1
+2, bar food, 0.444047, 2
+2, food, 0.824123, 3
+2, mins, 0.37306, 3
+2, male bartender, 0.967342, 6
+2, exact words, 0.624985, 6
+2, fried cheese, 0.555017, 7
+2, chicken dinner, 0.544196, 7
+4, Good service, 0.644541, 7
+4, Good beer selection, 0.956371, 8
+4, Great food, 0.788182, 8
+5, football food specials, 0.867553, 0
+5, Nachos, 0.489668, 0
+5, football game, 0.598152, 3
+5, cigar lounge, 0.925039, 6
+5, big screen tvs, 0.813535, 6
+5, Sean Patrick, 0.91224, 7
+5, new cigar lounge, 0.892725, 7
+5, comfortable seating, 0.672366, 8
+5, awesome flavor, 0.678069, 9
+5, burgers, 0.473758, 9

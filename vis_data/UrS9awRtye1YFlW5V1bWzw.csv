@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+2, big missed opportunity, 0.967199, 0
+2, small space, 0.802031, 0
+2, upstairs setup, 0.869318, 1
+2, AL dente, 0.789986, 1
+2, tomato bisque, 0.807512, 2
+2, thank you., 0.802254, 2
+2, Geesh dude, 0.784917, 3
+2, strong IPA, 0.781353, 3
+2, band member, 0.901267, 4
+2, music, 0.67142, 5
+2, girl, 0.658579, 5
+2, fresh greens salad, 0.918975, 6
+2, Smiling Moose, 0.812277, 6
+2, moose quit, 0.830638, 7
+2, entire place, 0.807012, 7
+2, juke box, 0.810647, 8
+2, wristband, 0.645936, 8
+2, amazing bar staff, 0.986949, 9
+2, dark/divey bar, 0.819556, 9
+3, Lotsa crappy punk, 0.980486, 0
+3, vinyl metal night, 0.940878, 0
+3, hockey stick banister, 0.957785, 1
+3, shitty venue, 0.815486, 1
+3, lazy Sunday evening, 0.913803, 2
+3, ice skates, 0.810392, 2
+3, true dive bar, 0.932851, 3
+3, higher beer prices, 0.928119, 3
+3, moose, 0.833065, 4
+3, band cover charges, 0.95434, 6
+3, service, 0.659723, 6
+3, live music, 0.786221, 7
+3, good time, 0.781009, 7
+3, local Pitt band, 0.932878, 8
+3, pastrami sliders, 0.789832, 8
+3, pretty good night, 0.956564, 9
+3, Great beer list, 0.939892, 9
+4, good dive bar, 0.782171, 0
+4, type pf bar, 0.752241, 0
+4, tiny hectic streets, 0.692784, 1
+4, typical bar food, 0.745546, 2
+4, long bar, 0.711448, 2
+4, dive bar, 0.875221, 3
+4, fried bar food, 0.746544, 3
+4, bar, 0.943501, 5
+4, place, 0.882039, 5
+4, red pepper bisque, 0.754439, 6
+4, beer, 0.734758, 6
+4, great place, 0.827045, 7
+4, red pepper, 0.781117, 7
+4, good live music, 0.795726, 8
+4, Great fun bar, 0.769621, 8
+4, Smiling Moose, 0.780032, 9
+4, new favorite bar, 0.728665, 9
+5, Big Moose, 0.45327, 0
+5, grilled cheese sandwich, 0.425263, 0
+5, upstairs bar, 0.435926, 1
+5, would-be great burgers, 0.41432, 1
+5, bar w/ food, 0.470281, 2
+5, punk rock bar, 0.41461, 3
+5, heavily tattooed people, 0.394143, 3
+5, bar, 0.610644, 5
+5, place, 0.513784, 5
+5, Smiling Moose, 0.902059, 6
+5, food, 0.688335, 6
+5, bar food, 0.484763, 7
+5, delicious bar food, 0.467451, 7
+5, beer selection, 0.440806, 8
+5, horror movie, 0.432241, 8
+5, jukebox.  great punk, 0.433643, 9
+5, upscale pub food, 0.41693, 9

@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, poorly managed restaurant, 0.949767, 0
+1, Yelp rating, 0.645221, 0
+1, alcoholic beverages, 0.587499, 1
+1, discriminatory policy, 0.575736, 1
+1, Lis Doon Varna, 0.962583, 2
+1, ice early diners, 0.914163, 2
+1, older review, 0.544034, 4
+1, appetizer, 0.439171, 4
+1, beer, 0.425649, 6
+1, cheque, 0.286438, 6
+1, good food, 0.560679, 7
+1, good service, 0.560368, 7
+1, pints, 0.293328, 9
+1, Guinness, 0.278014, 9
+2, Irish pub owners, 0.619465, 0
+2, lunch special menu, 0.613824, 0
+2, so-so Irish menu, 0.624215, 1
+2, bar seating area, 0.603662, 1
+2, puff pastry crust, 0.596802, 2
+2, wait folk, 0.566995, 2
+2, corned beef melt, 0.606516, 3
+2, Auld Dubliner, 0.603929, 3
+2, lis doon varna, 0.909792, 4
+2, Rula Bula, 0.621834, 5
+2, bloody fine review, 0.608508, 6
+2, shepards pie, 0.570778, 6
+2, English/Irish Pub restaurant, 0.625929, 7
+2, experienced host staff, 0.618196, 7
+2, Irish pubs, 0.609079, 8
+2, beef carrots peas, 0.605916, 8
+3, traditional potato chips, 0.555419, 0
+3, real potato chips, 0.555388, 0
+3, dutiful wives, 0.530514, 1
+3, Spicy Bollix Balls, 0.511046, 2
+3, food, 0.558565, 4
+3, place, 0.609474, 5
+3, menu, 0.602136, 5
+3, authentic British food, 0.534978, 6
+3, Irish inspired cuisine, 0.532754, 6
+3, Lis Doon Varna, 0.974825, 7
+3, robust  buffalo sauce, 0.548013, 7
+3, nice  soft center, 0.515887, 8
+3, middle class shopping, 0.513963, 8
+3, free standing building, 0.518428, 9
+3, good food, 0.49736, 9
+4, Guinness brownie, 0.429411, 0
+4, Irish Car Bombs, 0.328976, 0
+4, generic Irish pubs, 0.32631, 1
+4, Guinness orders, 0.397083, 2
+4, different bar areas, 0.333766, 2
+4, irish pubs, 0.380994, 3
+4, corned beef, 0.353465, 3
+4, ultimate Guinness critic, 0.460538, 4
+4, Guinness, 0.729148, 5
+4, place, 0.396022, 5
+4, Lis Doon Varna, 0.904816, 6
+4, Guinness beef boxty, 0.431841, 6
+4, Guinness Irish Pub, 0.527433, 7
+4, Guinness wings, 0.475707, 7
+4, Guinness drafts, 0.394067, 8
+4, genuine Irish pub, 0.338555, 8
+4, Guinness signs, 0.399514, 9
+4, oz Imperial Pints, 0.314492, 9
+5, Spicy Potato Balls, 0.915087, 0
+5, buffalo wing sauce, 0.820699, 0
+5, Boxty plate, 0.673911, 1
+5, flavorless meal, 0.667689, 1
+5, spicy balls, 0.759328, 3
+5, Texas Roadhouse, 0.662201, 3
+5, food, 0.826408, 5
+5, drinks, 0.607723, 5
+5, fiance, 0.714546, 6
+5, awesome fried chicken, 0.794464, 7
+5, Irish Chips, 0.792396, 7
+5, Irish dip sandwiches, 0.807802, 8
+5, live Irish band, 0.801146, 8
+5, Perfectly juicy, 0.680541, 9
+5, UK food, 0.675009, 9

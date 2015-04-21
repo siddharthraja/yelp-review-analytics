@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, traditional American food, 0.577234, 0
+1, BBQ Chicken Wings, 0.551617, 0
+1, soggy french fries, 0.741407, 1
+1, BBQ Chicken, 0.617959, 1
+1, food poisoning, 0.581806, 2
+1, All-American Bar, 0.566399, 2
+1, food, 0.925784, 3
+1, Rio, 0.568168, 3
+1, waiter, 0.779089, 4
+1, place, 0.688248, 4
+1, strawberry milkshake, 0.54452, 5
+1, chicken wings, 0.553038, 6
+1, buffalo chicken wings, 0.536754, 6
+1, cobb salad, 0.678949, 7
+1, potato cheese soup, 0.643765, 8
+1, Cheddar Ale soup, 0.569822, 8
+1, tastier strawberry shake, 0.535397, 9
+2, respectable steak house., 0.663498, 0
+2, decent steak house, 0.661142, 0
+2, chicken quesadilla, 0.626328, 1
+2, hockey-puck burger patties, 0.621416, 1
+2, dry aged steak, 0.672596, 2
+2, bar, 0.668942, 2
+2, burger, 0.66573, 3
+2, standard waffle fries, 0.635493, 3
+2, place, 0.903201, 4
+2, steak, 0.891151, 4
+2, service, 0.715019, 5
+2, waiter, 0.674508, 5
+2, regular cheese burger, 0.651275, 6
+2, mushroom swiss burger, 0.628673, 6
+2, waffle cut fries, 0.730578, 7
+2, philly cheese steak, 0.670734, 7
+2, Rib Eye Steak, 0.696615, 8
+2, amazingly nice waiter, 0.636606, 8
+3, York Steak Salad, 0.632239, 0
+3, Broiled NY Steak, 0.610826, 0
+3, prime rib, 0.71436, 2
+3, typical sports bar, 0.628237, 2
+3, rio, 0.810252, 4
+3, burger, 0.790225, 4
+3, food, 0.969625, 5
+3, service, 0.831204, 5
+3, All-American Bar, 0.824122, 6
+3, chicken fingers, 0.763694, 6
+3, steak caesar salad, 0.679058, 7
+3, good service, 0.651811, 7
+3, good place, 0.700782, 8
+3, chicken caesar salad, 0.664696, 8
+3, fairly good place, 0.62956, 9
+3, great place, 0.616619, 9
+4, Fried Egg burger, 0.811221, 0
+4, buffalo style wings, 0.709835, 0
+4, extra wet wings, 0.697622, 1
+4, All-American Bar, 0.797303, 2
+4, wings, 0.779563, 3
+4, night drunk food, 0.698912, 3
+4, burger, 0.909463, 4
+4, time, 0.779641, 4
+4, rio, 0.905108, 5
+4, food, 0.903728, 5
+4, prime rib, 0.840339, 6
+4, good prices, 0.739016, 6
+4, fries, 0.862365, 7
+4, waffle fries, 0.753837, 7
+4, good food, 0.762271, 8
+4, nite burger menu, 0.736312, 8
+4, great place, 0.791918, 9
+4, fairly inexpensive burger, 0.74548, 9
+5, New York steak, 0.814794, 0
+5, Best Prime Rib, 0.791812, 0
+5, Mushroom Swiss burger, 0.811835, 1
+5, prime rib dinner, 0.765744, 1
+5, sports bar atmosphere, 0.776541, 2
+5, dry aged ribeye, 0.764697, 2
+5, sports bar, 0.93393, 3
+5, prime rib, 0.913479, 3
+5, place, 0.896224, 5
+5, burgers, 0.749269, 5
+5, primo steak house, 0.830156, 6
+5, cheese steak sandwich, 0.804796, 6
+5, Great customer service, 0.765944, 7
+5, try Black Canyon, 0.754369, 7
+5, New York, 0.937866, 8
+5, new york strip, 0.912549, 8
+5, best burgers, 0.74631, 9
+5, modern American cuisine, 0.740427, 9

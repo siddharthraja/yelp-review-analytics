@@ -1,0 +1,37 @@
+rating, keyword, relevance, bucket
+1, strip club, 0.881297, 0
+1, server, 0.518794, 0
+1, bachelorette standing, 0.948592, 1
+1, demeaning thing, 0.942021, 1
+1, women, 0.5901, 2
+1, Place, 0.530192, 2
+1, stage, 0.628541, 3
+1, situation, 0.507519, 3
+1, woman, 0.622252, 5
+1, table, 0.641828, 6
+1, mins, 0.767556, 7
+1, reservation, 0.643384, 7
+1, bachelorette party, 0.954016, 8
+1, best friend, 0.931497, 8
+4, old married men, 0.758705, 0
+4, random bystander, 0.612449, 0
+4, yikes, 0.529977, 2
+4, thing, 0.496155, 2
+4, Sapphire Club, 0.956699, 3
+4, strip club business, 0.726095, 3
+4, future customers, 0.796779, 4
+4, place, 0.616168, 4
+4, old married guys, 0.751981, 6
+4, best package, 0.623182, 6
+4, non-Sapphire related business, 0.734753, 7
+4, BEST TABLE, 0.613485, 7
+4, Bachelorette Party, 0.755037, 8
+4, best friend/Bride, 0.625127, 8
+4, Club experience, 0.579463, 9
+5, strip club, 0.709929, 0
+5, bachelorette party, 0.786371, 2
+5, girls night, 0.710588, 2
+5, Las Vegas Men, 0.938438, 6
+5, good time, 0.683478, 6
+5, Great place, 0.679211, 8
+5, staff, 0.452338, 9

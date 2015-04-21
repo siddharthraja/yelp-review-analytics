@@ -1,0 +1,27 @@
+rating, keyword, relevance, bucket
+2, Bar Le Grand, 0.995527, 0
+2, neighbor Club Downtown, 0.948784, 0
+2, single person, 0.653241, 1
+2, place, 0.435707, 1
+2, stage, 0.409802, 2
+2, girl, 0.409795, 2
+2, hand, 0.505217, 3
+2, commit, 0.372103, 3
+2, random people, 0.608844, 4
+2, tip, 0.359503, 4
+2, barkers, 0.52888, 6
+2, dancers, 0.514977, 6
+2, surly waitress, 0.67329, 7
+2, drink order, 0.623121, 7
+2, better personalities, 0.60288, 8
+5, similar turnstyle, 0.728327, 0
+5, private dances, 0.689385, 0
+5, gigantic bouncer, 0.81514, 2
+5, host, 0.376518, 2
+5, similar flight, 0.644102, 3
+5, stairs, 0.420037, 3
+5, Club Grand Prix, 0.999273, 6
+5, Club Downtown, 0.730926, 6
+5, dancers, 0.399871, 7
+5, similar experience, 0.625678, 8
+5, door, 0.403496, 8

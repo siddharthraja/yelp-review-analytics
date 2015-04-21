@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+1, Junk junk junk, 0.779131, 0
+1, video poker, 0.593218, 0
+1, hot sauce, 0.579588, 1
+1, delivery driver, 0.574839, 1
+1, player card, 0.929013, 2
+1, state ID, 0.583374, 2
+1, mr G shirt, 0.598611, 3
+1, numerous pubs, 0.584225, 3
+1, older bartender, 0.635078, 8
+1, quick look, 0.583808, 8
+1, Great way, 0.574158, 9
+1, business pal, 0.567338, 9
+2, ashtray combo, 0.827182, 0
+2, mold, 0.326865, 0
+2, grave bartender, 0.76059, 1
+2, mood, 0.333677, 1
+2, couple, 0.308753, 3
+2, close, 0.305039, 3
+2, fine establishment, 0.590364, 7
+2, bathrooms,very nice touch, 0.984494, 8
+2, blackout bathrooms, 0.69957, 8
+4, Sunday night, 0.667679, 0
+4, service, 0.370432, 0
+4, parmesan garlic wing, 0.94099, 7
+4, johnny vegas fries, 0.866321, 7
+4, time, 0.367653, 8
+4, people, 0.367171, 8
+5, grill, 0.612379, 3
+5, future, 0.577759, 3
+5, local bar, 0.873138, 5
+5, excellent location, 0.992036, 8
+5, friendly people, 0.763887, 8
+5, Grub, 0.648202, 9
+5, Pub, 0.622428, 9

@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, turkey burger, 0.952706, 0
+1, plain iced tea, 0.768831, 0
+1, picky eater, 0.611207, 1
+1, air conditioning problem, 0.770096, 2
+1, grease smell, 0.627028, 2
+1, sweet potato fries, 0.852827, 3
+1, burning grease, 0.620948, 3
+1, neighborhood, 0.478251, 4
+1, place, 0.623834, 5
+1, regular fries, 0.826312, 6
+1, polenta fries, 0.784591, 6
+1, spring rolls, 0.781708, 7
+1, ice tea, 0.594416, 7
+1, local businesses, 0.610724, 8
+1, high hopes, 0.610348, 8
+1, vegetarian friendly fare, 0.756805, 9
+1, tart drinks, 0.61475, 9
+2, mozzarella cheese onions, 0.966981, 0
+2, course sports bar, 0.938331, 0
+2, larger TV's/sound., 0.875078, 1
+2, potential sports bar, 0.861598, 1
+2, hot wings..they, 0.714366, 2
+2, weird taste, 0.71225, 2
+2, healthy options menu, 0.855011, 6
+2, sportsbar crowd, 0.703512, 6
+2, nice tavern/sports bar/eatery, 0.881288, 7
+2, heathier options, 0.725302, 7
+2, health conscious eatery, 0.884523, 8
+2, interior renovations, 0.74041, 8
+2, right staff, 0.718165, 9
+2, healthful sides, 0.710568, 9
+3, standard French fries, 0.910227, 0
+3, Bison medium, 0.671117, 0
+3, spicy, 0.51163, 1
+3, server, 0.482643, 1
+3, time, 0.496123, 2
+3, worries, 0.457433, 2
+3, marble countertop, 0.699179, 3
+3, popular way, 0.677995, 3
+3, tavern, 0.525947, 4
+3, burger patty, 0.690184, 6
+3, place, 0.565614, 6
+3, broccoli salad, 0.645127, 7
+3, older gentleman, 0.642787, 7
+3, sweet potato fries, 0.988483, 8
+3, bison burger, 0.968732, 8
+3, bartender, 0.462893, 9
+4, open road flatbread, 0.680602, 0
+4, good Bloody Mary, 0.668529, 0
+4, un-marinated raw kale, 0.696618, 1
+4, icky laminate tops, 0.66956, 1
+4, raw kale, 0.700639, 2
+4, raw kale isnt, 0.692919, 2
+4, chile bison burger, 0.702956, 3
+4, greasy bar food, 0.700207, 3
+4, place, 0.865858, 5
+4, dining room, 0.661366, 5
+4, bison burger, 0.930597, 6
+4, food, 0.791326, 6
+4, quinoa salad, 0.880285, 7
+4, sweet potato fries, 0.844039, 7
+4, new place, 0.761322, 8
+4, fun place, 0.61709, 8
+4, Nice new place, 0.700468, 9
+4, healthy food options, 0.695508, 9
+5, bloody mary deal, 0.785614, 0
+5, fried pickles, 0.662244, 0
+5, greasy bar food, 0.762873, 3
+5, best macaroni dishes, 0.751544, 3
+5, place, 0.751554, 5
+5, food, 0.818324, 6
+5, great staff, 0.664838, 6
+5, best burger, 0.819367, 7
+5, Detours special sauce, 0.772956, 7
+5, sweet potato fries, 0.980954, 8
+5, great honey mustard, 0.78293, 8
+5, great breakfast skillets, 0.762412, 9
+5, good craft beer, 0.738292, 9

@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+4, neighborhood street, 0.672451, 0
+4, coffee house, 0.642323, 0
+4, property, 0.4472, 2
+4, Quaker Church compound, 0.952908, 3
+4, non descript school, 0.913527, 3
+4, small small place, 0.788158, 6
+4, Fiddler, 0.459038, 6
+4, mic nights, 0.663073, 7
+4, acoustics only venue, 0.648203, 7
+4, cute music venue, 0.884689, 8
+4, amazing musicians, 0.638805, 8
+4, amazing guitarists, 0.663568, 9
+4, old guys, 0.638498, 9
+5, traditional coffee house, 0.921084, 0
+5, little music venue, 0.914292, 0
+5, musicians, 0.448146, 6
+5, simple block building, 0.91771, 7
+5, good coffee, 0.658527, 7
+5, great time, 0.718578, 8
+5, Fiddler, 0.491328, 8

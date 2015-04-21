@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, absolute joke, 0.739853, 0
+1, long time, 0.673011, 0
+1, single star, 0.686634, 1
+1, manager, 0.477346, 1
+1, pant leg, 0.678734, 2
+1, waitress, 0.54689, 2
+1, Groupon, 0.462353, 3
+1, menus, 0.459838, 3
+1, food, 0.54529, 5
+1, French dip, 0.698256, 6
+1, dr pepper, 0.655733, 6
+1, diet coke, 0.65997, 7
+1, casino gaming, 0.642815, 7
+1, news lunch place, 0.92795, 8
+1, bread, 0.480024, 8
+1, size sandwiches, 0.680379, 9
+1, good idea, 0.669956, 9
+2, main dining area, 0.90784, 0
+2, huge plus, 0.744193, 0
+2, cheap men, 0.70247, 1
+2, place, 0.657078, 1
+2, patio, 0.63844, 2
+2, friends, 0.584929, 2
+2, new dart boards, 0.900476, 3
+2, bargain shit, 0.746679, 3
+2, karaoke, 0.655149, 4
+2, people, 0.683078, 5
+2, fries, 0.602478, 5
+2, vodka cranberry, 0.765801, 6
+2, wall decor, 0.706487, 6
+2, good vodka, 0.74531, 7
+2, Midori Sour, 0.728481, 7
+2, Cute new bartender, 0.92174, 8
+2, RTO, 0.570186, 8
+3, Aussie pub grub, 0.940543, 0
+3, typical pub fare, 0.932033, 0
+3, sports bar, 0.788477, 1
+3, local bar, 0.760677, 1
+3, welcome departure, 0.78094, 2
+3, terrible place, 0.778407, 2
+3, rough edges, 0.771963, 3
+3, downtown phoenix, 0.765875, 3
+3, menu, 0.886045, 4
+3, exact opposite, 0.804536, 4
+3, place, 0.893003, 5
+3, onion, 0.671888, 5
+3, asian/orange sauce wings, 0.888239, 6
+3, Wagga Wagga, 0.831798, 6
+3, sausage rolls, 0.931737, 7
+3, Aussie Rules football, 0.913494, 7
+3, long way, 0.775648, 8
+3, new venue, 0.76977, 8
+3, lively crowd, 0.779766, 9
+4, Australian AZ, 0.952786, 0
+4, nights, 0.392328, 0
+4, bar, 0.442212, 1
+4, NFL playoffs, 0.913728, 3
+4, live band, 0.746965, 3
+4, Good drinks, 0.892183, 9
+4, food, 0.329772, 9
+5, M-F open til, 0.83308, 0
+5, Kangaroo meat, 0.700201, 0
+5, atmosphere, 0.52728, 1
+5, hands, 0.526503, 2
+5, dos Equis draft, 0.770473, 3
+5, French dip sandwich, 0.768349, 3
+5, Meat pies, 0.692807, 6
+5, way, 0.54888, 6
+5, duck fat fries, 0.99356, 7
+5, homemade dipping sauces, 0.783919, 7
+5, oz big beers, 0.770254, 8
+5, Roo sliders, 0.71609, 8
+5, wait staff, 0.655447, 9
+5, menu items, 0.648204, 9

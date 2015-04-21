@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, Mozzarella di Bufala, 0.943034, 0
+1, semble ne rien, 0.920337, 0
+1, Rue Saint Paul, 0.966326, 1
+1, brutal dining experience, 0.959301, 1
+1, high end club, 0.918002, 2
+1, free seat, 0.840122, 2
+1, Santos, 0.972681, 3
+1, fresh black pepper, 0.929103, 3
+1, place, 0.775028, 4
+1, night, 0.798458, 5
+1, alcohol, 0.753326, 5
+1, Lemon Garlic Chicken, 0.922723, 6
+1, Calamari w/, 0.860814, 6
+1, waiter, 0.835763, 7
+1, fruit juice, 0.82931, 7
+1, interesting Tapas selection, 0.989801, 8
+1, solid flavour, 0.823944, 8
+2, sangria pitchers, 0.801023, 0
+2, big group, 0.744509, 0
+2, bachelorette party, 0.686061, 1
+2, Def, 0.321284, 1
+2, salmon tartar, 0.710024, 2
+2, food, 0.452782, 2
+2, dance floor, 0.709104, 3
+2, large delays, 0.698371, 3
+2, ........., 0.943679, 5
+2, time, 0.352977, 5
+2, tapas, 0.357567, 6
+2, fun, 0.395202, 7
+2, bottle, 0.318736, 7
+2, small place, 0.753058, 8
+3, huge martini drinker, 0.879211, 0
+3, popular Montréal restaurants, 0.874126, 0
+3, martini bar, 0.868909, 2
+3, tame family event, 0.829232, 2
+3, table real estate, 0.871643, 3
+3, slight lemon undertones, 0.836931, 3
+3, Santos, 0.909445, 6
+3, wine list, 0.864746, 6
+3, free drink coupon, 0.876096, 7
+3, boeuf tartare, 0.837241, 7
+3, free drink, 0.97245, 8
+3, drink card, 0.895369, 8
+3, super cool decor, 0.834023, 9
+3, easy going jazz, 0.823586, 9
+4, Mini tuna burguer, 0.731501, 0
+4, famous Hotel Nelligan, 0.720325, 0
+4, different tapas, 0.782809, 2
+4, extra sour mojito, 0.709738, 2
+4, sour cream, 0.625879, 3
+4, little money, 0.621932, 3
+4, tapas, 0.973055, 5
+4, tapas joint, 0.823786, 6
+4, vegetarian tapas, 0.801982, 6
+4, goat cheese, 0.861205, 7
+4, tapas restaurant, 0.851213, 7
+4, warm goat cheese, 0.768242, 8
+4, finger food lover, 0.733661, 8
+4, good looking crowd, 0.775318, 9
+4, terrific martinis, 0.629856, 9
+5, ladies, 0.550306, 3
+5, great place., 0.724834, 7
+5, servers, 0.507708, 7

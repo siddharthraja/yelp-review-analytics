@@ -1,0 +1,24 @@
+rating, keyword, relevance, bucket
+1, UFC fight night, 0.944476, 0
+1, canyon grill, 0.815572, 0
+1, waitress, 0.67324, 1
+1, bar, 0.557222, 1
+1, food, 0.667497, 2
+1, order, 0.558449, 2
+1, girlfriends steak, 0.820789, 3
+1, experience, 0.489498, 3
+4, Fox Sports Grill, 0.576123, 0
+4, extremely large bar, 0.571183, 0
+4, Examiner.com Live music, 0.59808, 6
+4, Prime Rib Dip, 0.562033, 6
+4, live music, 0.67446, 7
+4, Bon Jovi tribute, 0.584405, 7
+4, Canyon Club, 0.906233, 8
+4, grilled chicken sandwich, 0.749664, 8
+4, bright future, 0.483266, 9
+4, service, 0.418308, 9
+5, Canyon, 0.44324, 0
+5, band, 0.396153, 0
+5, party, 0.38992, 7
+5, amazing place, 0.992853, 8
+5, Incredible facilities, 0.83886, 8

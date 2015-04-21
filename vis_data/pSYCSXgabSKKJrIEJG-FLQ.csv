@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+3, seedy kinda dive, 0.979204, 0
+3, best place, 0.691858, 0
+3, Woody Anne, 0.765111, 1
+3, worst place, 0.72713, 1
+3, rough crowd, 0.769168, 3
+3, Super, 0.468271, 6
+3, people, 0.455538, 6
+3, definite dive, 0.740801, 7
+3, live music, 0.739542, 7
+3, shuffleboard table, 0.863029, 8
+3, Happy drinking, 0.753684, 8
+4, pure tavern, 0.641591, 0
+4, beer selection, 0.622674, 0
+4, slightly wobbly barstools, 0.99441, 2
+4, hipster experience, 0.664672, 2
+4, narrow range, 0.60881, 3
+4, beers, 0.435099, 3
+4, decent jukebox, 0.6728, 6
+4, mixed drinks, 0.611419, 6
+4, seasoned crowd, 0.659577, 7
+4, shuffleboard table, 0.623481, 7
+4, great down-to-earth place, 0.799339, 8
+4, cheap-ish beer, 0.564947, 8
+4, great jukebox, 0.592852, 9
+4, authentic dive, 0.580681, 9
+5, choice poll, 0.698457, 0
+5, Fleetwood Mac, 0.681444, 0
+5, M.A.S.H. rerun, 0.694322, 1
+5, evening, 0.445299, 1
+5, cash, 0.501625, 2
+5, ATM, 0.447534, 2
+5, wet willy, 0.678131, 3
+5, boobs, 0.485049, 4
+5, trip, 0.446842, 4
+5, drink, 0.524029, 5
+5, weeknight bartender, 0.824966, 6
+5, best bartender, 0.824449, 6
+5, great neighborhood joint, 0.922911, 7
+5, New Favorite Place, 0.873531, 7
+5, Crowd, 0.461835, 8
+5, Ted, 0.452237, 8
+5, dive bar ambiance, 0.989207, 9
+5, shuffleboard table, 0.775124, 9

@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+2, Harrumph, 0.361924, 0
+2, fact, 0.361394, 0
+2, bottle, 0.37826, 1
+2, chancer, 0.359944, 1
+2, strange white stuff, 0.865877, 2
+2, bar staff, 0.628582, 2
+2, strange white liquid, 0.900656, 3
+2, strange pub..It, 0.693726, 3
+2, time, 0.496949, 5
+2, lottery, 0.381754, 6
+2, song, 0.364108, 6
+2, good jukebox, 0.653971, 7
+3, old grungy locals, 0.948973, 0
+3, straight forward bar, 0.927698, 0
+3, female toilet, 0.710812, 1
+3, lonely street, 0.674251, 1
+3, little gambling machine, 0.895935, 2
+3, queue, 0.467307, 2
+3, lovely bar staff, 0.894987, 3
+3, usual other draft, 0.735963, 3
+3, decent pint, 0.78708, 6
+3, classic pub, 0.74336, 6
+3, Burlington Bertie, 0.801627, 7
+3, simple pub, 0.774744, 7
+3, better booze selection, 0.95656, 8
+3, updates, 0.449561, 8
+3, charms, 0.460154, 9
+4, big cosy jumper, 0.7379, 0
+4, smallish rooms, 0.546829, 0
+4, little charm, 0.525159, 1
+4, Berties, 0.384878, 1
+4, flashiest pub, 0.664397, 2
+4, sport, 0.342917, 2
+4, quality drunks, 0.550776, 3
+4, old-man pub style, 0.847727, 6
+4, fine little pub, 0.82847, 6
+4, best juke box, 0.721059, 7
+4, Burlington Bertie, 0.620152, 7
+4, good local pub, 0.9257, 8
+4, good vibe, 0.602242, 8
+4, free pub quiz, 0.910387, 9
+4, Monday nights, 0.543428, 9

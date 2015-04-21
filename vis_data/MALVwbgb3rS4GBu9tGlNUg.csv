@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+3, ok, 0.315177, 0
+3, vote, 0.315072, 0
+3, actual meals, 0.683033, 2
+3, squeeze, 0.360705, 2
+3, cheese fondue, 0.793609, 6
+3, special glass, 0.724864, 7
+3, rocks, 0.469055, 7
+3, Unique drink selection, 0.976137, 8
+3, different wines, 0.65812, 8
+3, salami presentation, 0.732022, 9
+3, fresh cheese, 0.706783, 9
+4, menu features wines, 0.655064, 0
+4, Vincent Price picture, 0.630152, 0
+4, slumber party plate, 0.636911, 1
+4, lawrenceville wine bar, 0.735245, 2
+4, saturday night, 0.650827, 2
+4, big wine drinker, 0.809373, 3
+4, dimly lit vibe, 0.653277, 3
+4, wine bar, 0.910537, 4
+4, wine, 0.973151, 5
+4, place, 0.764433, 6
+4, cocktails, 0.743695, 6
+4, true wine bar, 0.710301, 7
+4, wine cocktails, 0.709047, 7
+4, Allegheny Wine Mixer, 0.798567, 8
+4, Cozy wine bar, 0.735652, 8
+4, Mellow friendly vibe, 0.65007, 9
+4, window nook seat, 0.642153, 9
+5, notch wine bar, 0.4698, 0
+5, wild boar salami, 0.445858, 0
+5, typical wine bar, 0.453112, 1
+5, Sinful Sweets, 0.456012, 2
+5, wine bar, 0.6314, 3
+5, sheep cheese, 0.42192, 3
+5, wine, 0.957887, 4
+5, Allegheny Wine Mixer, 0.801084, 5
+5, cheese, 0.690377, 5
+5, place, 0.747724, 6
+5, AWM, 0.635272, 6
+5, Malbec wine flight, 0.458976, 7
+5, great wine recommendations, 0.454586, 7
+5, wine selection, 0.533802, 8
+5, good wine selection, 0.480208, 8
+5, great wine selection, 0.475523, 9
+5, great place, 0.469707, 9

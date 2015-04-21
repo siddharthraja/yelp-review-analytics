@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, new waitresses, 0.950798, 0
+1, appetizer combo, 0.912651, 0
+1, chance, 0.361406, 1
+1, little grandma, 0.863234, 2
+1, English, 0.354949, 2
+1, main manager, 0.881618, 3
+1, food, 0.368426, 6
+2, day-old canned leftovers, 0.902558, 0
+2, waffle fries, 0.78664, 0
+2, numerous times, 0.683386, 1
+2, buns, 0.420986, 1
+2, hamburgers, 0.744763, 2
+2, service, 0.447456, 2
+2, bleu cheese, 0.80114, 8
+2, dressing, 0.423178, 8
+3, velveeta grilled sandwich, 0.800606, 0
+3, virgin pina colada, 0.753173, 0
+3, place aint, 0.679842, 1
+3, worst sandwich, 0.678847, 1
+3, bad spot, 0.677395, 2
+3, cigarette smoke, 0.652258, 2
+3, little fun fact, 0.745396, 3
+3, Sunday afternoon, 0.645131, 3
+3, boyfriend, 0.732812, 4
+3, grilled cheese sandwich, 0.907152, 5
+3, frisco style burger, 0.781558, 6
+3, hummus dip, 0.66845, 6
+3, fried zucchini, 0.774866, 7
+3, lovely wife, 0.667052, 7
+3, staff, 0.527282, 9
+4, Henderson resident, 0.749199, 0
+4, San Francisco, 0.745201, 0
+4, neighborhood bars, 0.747008, 1
+4, Max S., 0.735175, 1
+4, way, 0.64915, 2
+4, video poker machine, 0.870604, 3
+4, late night snack, 0.864776, 3
+4, good pub food, 0.939747, 6
+4, favorite casual neighborhood, 0.88483, 6
+4, late night, 0.878724, 7
+4, sweet champagne vinaigrette, 0.868806, 7
+4, meat monster omelette, 0.909725, 8
+4, buffalo chicken sliders, 0.89334, 8
+4, dinner specials, 0.748408, 9
+4, relaxing time, 0.74764, 9
+5, glass smoking section, 0.84893, 0
+5, chicken club, 0.793782, 0
+5, half home, 0.748046, 1
+5, :-), 0.743953, 1
+5, darn good meal, 0.881102, 3
+5, au jus, 0.749435, 3
+5, homemade potato chips, 0.879026, 6
+5, specific Winchells Pub, 0.876101, 6
+5, great food, 0.877778, 7
+5, marble rye bread, 0.85707, 7
+5, French Dip sandwich, 0.8841, 8
+5, Ciabatta roll, 0.883918, 8
+5, Chicken Chipotle salad, 0.915691, 9
+5, zesty seasoned salt, 0.861658, 9

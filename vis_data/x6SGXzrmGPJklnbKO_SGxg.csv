@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, delectable scotch ale., 0.773616, 0
+1, national championship game, 0.74184, 0
+1, dane fix downtown, 0.804292, 1
+1, cheese curds, 0.636327, 1
+1, regular menu, 0.711754, 2
+1, food poisoning, 0.709218, 2
+1, limited menu, 0.756747, 3
+1, multiple sound inputs, 0.736544, 3
+1, Spotify Pop Muisc, 0.744477, 6
+1, big sporting event, 0.729486, 6
+1, Great Dane, 0.917168, 7
+1, Great Dane Pub, 0.807069, 7
+1, sweet potato fries, 0.718511, 8
+1, Burger King, 0.635208, 8
+2, incredibly tasty food, 0.413019, 0
+2, David Bacco chocolate, 0.403834, 0
+2, pricey bar food, 0.422546, 1
+2, lackluster service, 0.340851, 1
+2, busy weekend night, 0.390299, 2
+2, extra charges, 0.364184, 2
+2, food, 0.888751, 3
+2, black beans kinda, 0.383209, 3
+2, beer, 0.812927, 4
+2, service, 0.626952, 4
+2, time, 0.539822, 5
+2, location, 0.512551, 5
+2, ........., 0.447031, 6
+2, completely different team, 0.395933, 6
+2, Great Dane, 0.980959, 7
+2, downtown location, 0.481133, 7
+2, perfectly safe choice, 0.371098, 8
+2, tasty marinara sauce, 0.36646, 8
+3, Bavarian Chicken Sandwich, 0.668826, 0
+3, Chicken Salad sandwich, 0.648977, 0
+3, deep fried chicken, 0.638365, 2
+3, great state, 0.618298, 2
+3, extensive/awesome beer selection, 0.636696, 3
+3, chicken pot pie, 0.634513, 3
+3, brunch buffet, 0.636998, 4
+3, beer, 0.747112, 5
+3, chicken, 0.698949, 5
+3, particular Great Dane, 0.693758, 6
+3, menu, 0.656142, 6
+3, chicken sandwich, 0.688498, 7
+3, Good chicken sandwich, 0.680951, 7
+3, Great Dane, 0.93616, 8
+3, Great Dane location, 0.750162, 8
+3, piece chicken wings, 0.634155, 9
+3, perfectly good place, 0.633374, 9
+4, Texas Speedbump IPA, 0.56604, 0
+4, good sports bar, 0.521369, 0
+4, bland American beer, 0.52297, 1
+4, micro beer issue, 0.532194, 2
+4, Beer Quality, 0.498398, 2
+4, peanut stew, 0.528498, 3
+4, hot pepper beer, 0.517477, 3
+4, crop circle wheat, 0.822907, 5
+4, beer, 0.772604, 5
+4, Sunday brunch, 0.531748, 6
+4, top-5 beer producers, 0.521143, 6
+4, good food, 0.600044, 7
+4, Ron Dane, 0.51354, 7
+4, Great Dane, 0.986682, 8
+4, Hilldale location, 0.602178, 8
+4, Great Dane sports, 0.583054, 9
+4, great appetizer, 0.505248, 9
+5, Great Danes, 0.676711, 0
+5, peanut stew, 0.648641, 0
+5, neg. reviews, 0.621564, 1
+5, Brat Bacon Pretzel, 0.67107, 2
+5, beer garlic sauce, 0.650789, 2
+5, Bacon Pretzel Burger, 0.824071, 4
+5, beer, 0.658474, 5
+5, brunch buffet, 0.634992, 5
+5, cheese-filled spinach tortellini, 0.644132, 6
+5, Ahi Tuna Salad, 0.638923, 6
+5, artichoke dip, 0.784122, 7
+5, Great Dane golf, 0.734511, 7
+5, Great Dane, 0.971611, 8
+5, dane burger, 0.786945, 8
+5, Great Dane Hilldale, 0.712493, 9
+5, healthier buffalo patty, 0.636217, 9

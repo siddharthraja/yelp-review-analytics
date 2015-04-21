@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+2, large brew house, 0.857031, 0
+2, great dining experience, 0.847049, 0
+2, larger local hang, 0.847407, 1
+2, cell phone, 0.74575, 1
+2, brain dead waitress, 0.911402, 2
+2, entire body, 0.755479, 2
+2, New pedestal sink, 0.863317, 3
+2, selling point, 0.773913, 3
+2, buffalo sauce, 0.860707, 4
+2, place, 0.812047, 4
+2, food, 0.723922, 5
+2, strongbow, 0.715452, 5
+2, big draw, 0.763841, 6
+2, soft rock, 0.738762, 6
+2, Pear Cider, 0.755181, 7
+2, quiet place, 0.746096, 7
+2, chicken parm panini, 0.958287, 8
+2, different chicken panini, 0.910764, 8
+2, great reviews, 0.735853, 9
+3, cool little restaurant, 0.794819, 0
+3, hole-in-the-wall wine bar, 0.793749, 0
+3, hole-in-the-wall bar, 0.708659, 1
+3, good panini, 0.799282, 2
+3, better used tables, 0.782351, 2
+3, caprese panini, 0.801409, 3
+3, high maintenance chick, 0.774265, 3
+3, food, 0.72477, 4
+3, panini, 0.924972, 5
+3, wine bar, 0.922013, 5
+3, Chicken Parmesan Panini, 0.90301, 6
+3, grilled cheese panini, 0.891751, 6
+3, olive oil, 0.851131, 7
+3, grilled gorgonzola, 0.825043, 7
+3, red peppers, 0.875494, 8
+3, Roast Beef Panini, 0.865391, 8
+3, wine bar concept, 0.805896, 9
+3, excellent wine list, 0.786842, 9
+4, Unofficial Yelp Event, 0.727939, 0
+4, good late night, 0.726305, 0
+4, wine list, 0.634929, 1
+4, wine choices, 0.630099, 1
+4, super big place..it, 0.700688, 2
+4, credit card, 0.659369, 2
+4, cute little wine, 0.724519, 3
+4, tiny little thing, 0.68332, 3
+4, wine bars, 0.704925, 4
+4, wine, 0.966859, 5
+4, Centro Paninoteca, 0.806513, 5
+4, cute little place, 0.739495, 6
+4, positive Yelp reviews, 0.698791, 6
+4, good food, 0.766308, 7
+4, Friday evening, 0.73817, 7
+4, great wine bar, 0.741017, 8
+4, hot summer night, 0.708727, 8
+4, pretty good wine, 0.786335, 9
+4, surprisingly well-priced wine, 0.722843, 9
+5, favorite wine bar, 0.704789, 0
+5, Small neighborhood feel, 0.652444, 0
+5, Bar Crawl, 0.549268, 1
+5, Chop Wok/Wok Star, 0.615907, 2
+5, Clinton hustling drinks, 0.61454, 2
+5, small kitchen, 0.538029, 3
+5, wine bar, 0.762861, 5
+5, J.  Great wine, 0.720182, 6
+5, place, 0.670569, 6
+5, Centro Paninoteca, 0.916912, 7
+5, Party pub crawl, 0.628668, 7
+5, great wine, 0.853199, 8
+5, great wine selection, 0.843851, 8
+5, friendly staff, 0.715761, 9
+5, casual wine bar, 0.681165, 9

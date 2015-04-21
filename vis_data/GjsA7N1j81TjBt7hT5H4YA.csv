@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, FOOD POISONING, 0.550925, 0
+1, favorite place, 0.544078, 0
+1, money laundering scam, 0.80493, 1
+1, horrible service, 0.585974, 1
+1, Hispanic descent, 0.595952, 2
+1, good conscience, 0.582126, 2
+1, cheese dip appetizer, 0.926201, 3
+1, NY license, 0.575637, 3
+1, burgers, 0.464847, 4
+1, Comet Grill, 0.612672, 6
+1, great food, 0.56007, 6
+1, wife, 0.395851, 8
+2, cheese fries, 0.587712, 0
+2, totally different story, 0.435036, 0
+2, limp fries, 0.540937, 1
+2, moisture content, 0.201362, 1
+2, plain fries, 0.524471, 2
+2, huge hassle, 0.238355, 2
+2, fries, 0.943294, 4
+2, Single cooked fries, 0.759607, 6
+2, good french fries, 0.750313, 6
+2, best fries, 0.494153, 7
+2, pimento cheese sandwich, 0.4654, 7
+2, Parmesan cheese flavor, 0.424213, 8
+2, crisp exterior, 0.260561, 8
+2, great fries, 0.547835, 9
+2, lofty build-up, 0.231624, 9
+3, small upper deck, 0.707288, 0
+3, rave reviews, 0.590735, 0
+3, proverbial tree, 0.588536, 1
+3, hottest summers, 0.57849, 1
+3, tiny space, 0.579856, 2
+3, live acts, 0.579495, 2
+3, air conditioning, 0.974885, 3
+3, deep fryers, 0.564864, 3
+3, fries, 0.583099, 4
+3, food, 0.573696, 5
+3, burger, 0.939398, 6
+3, Comet Grill, 0.750438, 6
+3, good burger, 0.733538, 7
+3, nice crispy char, 0.727207, 7
+3, Good veggie burger, 0.835644, 8
+3, eclectic little pub, 0.74211, 8
+3, huge piece, 0.553172, 9
+4, Lenny Federal band, 0.493255, 0
+4, OFFICIAL PBR JOINT, 0.484052, 0
+4, Charlotte cookie-cutter crowd, 0.47198, 1
+4, dive bars hip, 0.467084, 1
+4, greasy bar food, 0.510486, 2
+4, Monday night, 0.467357, 2
+4, dry rub wings, 0.457561, 3
+4, bar food, 0.639114, 4
+4, fries, 0.499242, 5
+4, place, 0.559028, 6
+4, great bar food, 0.550659, 6
+4, Comet Grill, 0.974801, 7
+4, pimento cheese, 0.842952, 7
+4, toasty pimento cheese, 0.525907, 8
+4, spicy pimento cheese, 0.514985, 8
+4, Comet Classic burger, 0.591492, 9
+4, place great food, 0.554361, 9
+5, great little bar, 0.665068, 0
+5, great fresh cut, 0.656143, 0
+5, new local bar, 0.648398, 2
+5, Chicken Philly, 0.530137, 3
+5, Friday night legends, 0.641518, 6
+5, Daily lunch specials, 0.640343, 6
+5, Comet Grill, 0.903652, 7
+5, live music, 0.795099, 7
+5, great music, 0.679884, 8
+5, good live music, 0.654046, 8
+5, great gathering place, 0.717491, 9
+5, good neighborhood place, 0.652819, 9

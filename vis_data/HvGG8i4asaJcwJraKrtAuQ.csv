@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, great Friday night, 0.966426, 2
+1, Bar owners, 0.529529, 2
+1, baked potato, 0.479485, 3
+1, Great bar prices, 0.846219, 7
+1, Friday nights, 0.73, 7
+1, good conversation, 0.505674, 8
+1, older tracks, 0.502399, 8
+2, clubby type atmosphere, 0.90387, 0
+2, usual pub faire, 0.885274, 0
+2, hardly anybody, 0.775258, 1
+2, sports bar, 0.758678, 1
+2, massive pub, 0.763, 2
+2, Lothian road, 0.742148, 2
+2, cargo, 0.904121, 3
+2, cavernous cargo, 0.838091, 3
+2, size, 0.658223, 4
+2, mainstream chart music, 0.872796, 6
+2, random drinks, 0.746566, 6
+2, early evening drink, 0.891897, 7
+2, nice place, 0.776811, 7
+2, lovely outdoor seating, 0.913977, 8
+2, nice Sunday drink, 0.877891, 8
+2, nice crowd, 0.786982, 9
+2, afternoon pint, 0.754308, 9
+3, black toilet attendant, 0.814568, 0
+3, odd hen night, 0.786748, 0
+3, YP city type, 0.803767, 1
+3, print leg warmers, 0.780687, 1
+3, football club showers, 0.814798, 2
+3, barely audible hubbub, 0.804915, 2
+3, bit, 0.835966, 3
+3, various tabloid rags, 0.816612, 3
+3, cargo, 0.911031, 4
+3, place, 0.791099, 4
+3, cosy bar action, 0.80808, 6
+3, funny shaped glass, 0.785197, 6
+3, Ashley Cole, 0.809768, 7
+3, excellent summer hideaway, 0.794054, 7
+3, city centre drink, 0.783958, 8
+3, good place, 0.721084, 8
+4, canal basin, 0.771209, 0
+4, Union canal, 0.76197, 0
+4, little ones, 0.62698, 1
+4, airlock, 0.402947, 3
+4, toilets, 0.375018, 3
+4, canal path, 0.760866, 6
+4, perfect place, 0.710842, 6
+4, lunchtime deals, 0.738855, 7
+4, Cargo, 0.556791, 7
+4, lovely location, 0.715742, 8
+4, breakfast/lunch menu, 0.65411, 8
+4, perfect pub food, 0.932354, 9
+4, weekend lunchtime, 0.72226, 9
+5, Friday night, 0.77435, 1
+5, venue, 0.481301, 1
+5, drink problem, 0.738889, 2
+5, decent conversation, 0.770833, 3
+5, Bar service, 0.712468, 6
+5, guys, 0.475875, 6
+5, awesome laidback tracks, 0.948548, 8
+5, Live DJ, 0.7148, 8
+5, canal basin, 0.735331, 9
+5, Great, 0.452584, 9

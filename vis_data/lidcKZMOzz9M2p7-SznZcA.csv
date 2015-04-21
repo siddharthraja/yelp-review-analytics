@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, traditional bone-in wings, 0.511969, 0
+1, food credit, 0.495989, 0
+1, Wing garbage food, 0.484018, 1
+1, half-assed Buffalo Wild, 0.479824, 1
+1, Asian zing, 0.491247, 2
+1, old brown lettuce, 0.471671, 2
+1, black bean burger, 0.609972, 3
+1, spicy garlic sauce, 0.495872, 3
+1, buffalo wild wings, 0.935358, 4
+1, food, 0.659857, 4
+1, waiter, 0.527563, 5
+1, macaroni, 0.477972, 5
+1, large fries, 0.489579, 6
+1, super long time, 0.48555, 6
+1, wing meal to-go, 0.484569, 7
+1, fresh food, 0.461161, 7
+1, new bowl, 0.469313, 8
+1, great waiter, 0.459812, 8
+2, Decent bar food, 0.668063, 0
+2, drink order, 0.625123, 0
+2, Thai curry wings, 0.744317, 1
+2, worst ribs, 0.595879, 1
+2, spicy wings, 0.586739, 2
+2, time, 0.566133, 2
+2, host stand, 0.536907, 3
+2, body language, 0.53614, 3
+2, service, 0.832784, 4
+2, server, 0.697214, 5
+2, Buffalo Wild Wings, 0.940576, 6
+2, food, 0.756605, 6
+2, to-go order, 0.664694, 7
+2, extra water bottle, 0.622708, 7
+2, counter customer service, 0.645312, 8
+2, Great food, 0.54704, 8
+3, cent boneless wings, 0.639067, 0
+3, Boneless Wing Thursdays, 0.536899, 0
+3, new menu items, 0.479077, 1
+3, Kimbo Slice fight, 0.50485, 2
+3, Desert Heat Seasoning, 0.487094, 2
+3, dozen Boneless Wings, 0.677563, 3
+3, asian zing, 0.495268, 3
+3, BWW, 0.469044, 4
+3, service, 0.439727, 4
+3, boneless wings, 0.967537, 5
+3, food, 0.556398, 5
+3, chain restaurant kind, 0.493594, 6
+3, great Bar Tender, 0.491261, 6
+3, parmesan garlic, 0.610362, 7
+3, Mango Habanero sauce, 0.526621, 7
+3, Chipotle BBQ Seasoning, 0.530287, 8
+3, Parmesan Garlic sauce, 0.518282, 8
+3, honey bbq, 0.570694, 9
+3, sweet bbq, 0.50867, 9
+4, boneless buffalo wings, 0.52069, 0
+4, Wild Wings food, 0.51845, 0
+4, spicy garlic, 0.46623, 2
+4, good service, 0.447203, 2
+4, boneless chicken wings, 0.518093, 3
+4, buffalo wild wings, 0.943644, 4
+4, boneless wings, 0.622994, 4
+4, chicken wings, 0.597137, 5
+4, place, 0.565328, 5
+4, Parmesan Garlic wings, 0.534714, 6
+4, piece wings, 0.490462, 6
+4, regular wings, 0.492, 7
+4, unlimited wings, 0.485155, 7
+4, great wings, 0.505399, 8
+4, honey BBQ wings, 0.502875, 8
+4, Italian Style wings, 0.508842, 9
+4, traditional wings, 0.502998, 9
+5, Wild Wings locations, 0.553096, 0
+5, cent wings, 0.540356, 0
+5, good sports  bar, 0.480755, 1
+5, order buffalo chips, 0.473886, 3
+5, service, 0.527362, 4
+5, time, 0.469535, 4
+5, buffalo wild wings, 0.927298, 5
+5, buffalo wings, 0.539476, 6
+5, traditional style wings, 0.576583, 7
+5, AWESOME wings, 0.563855, 7
+5, chicken wings, 0.605696, 8
+5, good wings, 0.575847, 8
+5, good chicken Wings, 0.580097, 9
+5, great place, 0.509213, 9

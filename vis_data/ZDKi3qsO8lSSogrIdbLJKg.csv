@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+2, opening act, 0.679939, 0
+2, small space, 0.623444, 0
+2, yuengling bottle, 0.711335, 2
+2, best venue, 0.679589, 2
+2, stools, 0.539193, 3
+2, shoulder, 0.481255, 3
+2, pretty big crowd., 0.932208, 7
+2, pretty small area, 0.917817, 7
+3, 4-5 beers, 0.835298, 0
+3, live band, 0.81377, 0
+3, San Francisco, 0.832494, 1
+3, bars, 0.643782, 1
+3, poetry slams, 0.845403, 2
+3, room, 0.675458, 2
+3, big TV, 0.800787, 3
+3, couches, 0.654622, 3
+3, shadow lounge, 0.989671, 5
+3, tap selection, 0.80836, 6
+3, couple beers, 0.840208, 7
+3, people, 0.707752, 7
+3, East Liberty, 0.795426, 8
+3, Great club/bar/lounge/venue, 0.78872, 8
+3, decent bartenders, 0.835402, 9
+3, Great mix, 0.783032, 9
+4, yummy  plue DIRT, 0.972499, 0
+4, big hip hop, 0.895828, 0
+4, vs House night, 0.907886, 1
+4, Miss Aja, 0.774832, 1
+4, Jay Malls briefly, 0.91084, 2
+4, grilled cheeses, 0.789781, 2
+4, Miller Light, 0.924174, 3
+4, Light fo sho, 0.914476, 3
+4, place, 0.956065, 4
+4, great place, 0.813419, 6
+4, special event, 0.77286, 6
+4, soul kinda way, 0.985016, 7
+4, live music, 0.952664, 7
+4, underrated place, 0.815236, 8
+4, great way, 0.794641, 8
+4, winter solstice concert, 0.936073, 9
+4, Saturday night, 0.789171, 9
+5, Dear Shadow Lounge, 0.78197, 0
+5, live music, 0.683098, 0
+5, open-mic sessions, 0.602337, 1
+5, little Southern treasure, 0.654471, 3
+5, Martin Luther King, 0.64632, 3
+5, place, 0.64284, 4
+5, Shadow Lounge, 0.931993, 5
+5, Pittsburgh, 0.787619, 5
+5, multi-grain wrap, 0.662363, 6
+5, bean fried taco, 0.656958, 6
+5, Best Jazz night, 0.678403, 7
+5, Cheese Steak Torta, 0.661446, 7
+5, lime pie martini, 0.771735, 8
+5, key lime pie, 0.771723, 8
+5, timely charming staff, 0.658744, 9
+5, best bar, 0.60666, 9

@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, Goodyear wont pay, 0.961697, 1
+1, Panini, 0.69918, 1
+1, place, 0.537853, 7
+1, business, 0.537052, 7
+2, Panini grill marks, 0.90834, 0
+2, brie fan, 0.755843, 0
+2, local business, 0.635908, 1
+2, store bough bread, 0.943322, 2
+2, huge let, 0.653952, 2
+2, Robert Irvine, 0.686271, 3
+2, Gordon Ramsey, 0.68547, 3
+2, sandwich, 0.655503, 5
+2, twinkle lights, 0.861245, 6
+2, white bread, 0.746599, 6
+2, nice place, 0.865103, 7
+2, Apple Panini, 0.700756, 7
+2, locally owned place, 0.923216, 8
+2, Happy hour bruschetta, 0.906952, 8
+2, tasty peach bellini, 0.953992, 9
+2, different glasses, 0.670657, 9
+4, meal, 0.36107, 0
+4, nightcap, 0.300958, 0
+4, Great place, 0.549256, 7
+4, Hubby, 0.309896, 7
+4, social setting place, 0.929902, 8
+4, quiet conversation, 0.780762, 8
+4, delicious cheese board, 0.675673, 9
+4, great wine selection, 0.606956, 9
+5, entire time, 0.842707, 0
+5, Italian owner, 0.825243, 0
+5, way home, 0.823318, 2
+5, good old mom, 0.948016, 3
+5, financial uncertainty Christy, 0.919147, 3
+5, Thursday evening, 0.818773, 4
+5, best quality food, 0.956641, 6
+5, big box stores, 0.935622, 6
+5, Fantastic wine list, 0.957087, 7
+5, CRAZY good food, 0.950605, 7
+5, great appetizers, 0.977248, 8
+5, Great place, 0.960027, 8
+5, live guitar player, 0.965386, 9
+5, cozy little wine, 0.942577, 9

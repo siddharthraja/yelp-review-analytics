@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+1, Bears fans, 0.675391, 0
+1, volume, 0.444681, 0
+1, Packers fan, 0.760882, 1
+1, popcorn fart, 0.719952, 1
+1, hot single chicks, 0.864682, 2
+1, testicle festival, 0.70318, 2
+1, sweaty jock strap, 0.973655, 7
+1, Friday night, 0.640719, 8
+1, Ultra, 0.455919, 8
+2, Madison County Concert, 0.923578, 0
+2, state basketball tournaments, 0.877998, 0
+2, mediocre chicken sandwiches, 0.88531, 1
+2, Madison Cops, 0.78328, 1
+2, parking tickets, 0.960989, 2
+2, Pooley, 0.930318, 2
+2, Cross Hill Drive, 0.899213, 3
+2, snow making machines, 0.885713, 3
+2, service, 0.819584, 5
+2, Addams Family machine, 0.86464, 6
+2, Ok crowd, 0.793434, 6
+2, California Chicken, 0.753209, 7
+2, Star Trek machine, 0.860129, 8
+2, Good place, 0.779678, 8
+4, Inddor Sand Courts, 0.959844, 0
+4, big group, 0.81586, 0
+4, Typical sports bar, 0.978886, 2
+4, new food service, 0.964509, 2
+4, limited parking, 0.816068, 3
+4, six-plus decades, 0.785622, 3
+4, taps, 0.635656, 4
+4, great cover band, 0.998501, 6
+4, semi-separate room, 0.790145, 6
+4, sports memorabilia, 0.944106, 7
+4, sand volleyball pit, 0.923907, 7
+4, place, 0.930816, 8
+4, table service, 0.788841, 8
+4, Awesome sports memorabilia, 0.937002, 9
+4, fun place, 0.806155, 9
+5, pinball games, 0.725645, 0
+5, favorite pinball, 0.711715, 0
+5, embarrassing number, 0.543627, 1
+5, long time, 0.535597, 1
+5, Mad Rollin Pinball, 0.84317, 2
+5, AKA Madison Pinball, 0.858065, 3
+5, pinball nuts, 0.685953, 3
+5, pinball, 0.902167, 4
+5, Pooley, 0.696775, 5
+5, Fun House, 0.631349, 5
+5, Star Trek, 0.739724, 6
+5, local collectors, 0.530297, 6
+5, pinball obsession, 0.698802, 7
+5, pinball strategy, 0.697607, 7
+5, cool magnet effects, 0.631279, 8
+5, Italian beef, 0.536771, 8
+5, new restaurant, 0.545381, 9
+5, sporting event, 0.519614, 9

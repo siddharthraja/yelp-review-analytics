@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+3, Red Rock, 0.901886, 0
+3, Saturday night, 0.743027, 0
+3, live music, 0.582945, 3
+3, reason, 0.340923, 3
+3, venue, 0.347142, 8
+4, Red Rock Sportsbook, 0.922528, 0
+4, Dame vs Michigan, 0.903292, 0
+4, little more suaveness, 0.706651, 1
+4, slot machines, 0.694876, 1
+4, bad bar, 0.720059, 2
+4, party, 0.534342, 2
+4, Onyx Bar, 0.914362, 4
+4, Hendricks Martinis, 0.744711, 6
+4, new CD, 0.69022, 6
+4, Red Rock casino, 0.893151, 7
+4, lobby bar, 0.744411, 7
+4, Hendricks Martini, 0.837362, 8
+4, mean martini, 0.834893, 8
+4, good drinks, 0.749588, 9
+4, bartender, 0.605989, 9
+5, classy bar design, 0.973721, 0
+5, Coconut Thing, 0.652044, 0
+5, smokey, 0.456188, 2
+5, energy, 0.442227, 2
+5, bar tenders, 0.677873, 3
+5, Lucas, 0.446936, 3
+5, moonshine sons, 0.879106, 6
+5, guys playing instruments, 0.818529, 6
+5, notch mixology, 0.740352, 7
+5, outstanding service, 0.68538, 7
+5, all-time favorite casino, 0.936857, 8
+5, best blueberry tarts, 0.912633, 8
+5, Decor modern classy, 0.880287, 9
+5, cozy atmosphere, 0.666877, 9

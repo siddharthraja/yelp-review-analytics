@@ -1,0 +1,58 @@
+rating, keyword, relevance, bucket
+1, decency, 0.201996, 0
+1, Paris Las Vegas, 0.722194, 1
+1, decent meal, 0.500156, 1
+1, Hilton Room Holders, 0.875973, 2
+1, Ticketmaster announcement, 0.554274, 2
+1, Saturday night, 0.478505, 6
+1, Barry Manilow, 0.990067, 8
+1, Marketing Seminar, 0.540656, 8
+2, holiday songs, 0.611755, 0
+2, wife, 0.517019, 0
+2, huge Manilow fan, 0.918743, 2
+2, sum total, 0.649555, 3
+2, concert, 0.549767, 3
+2, night, 0.491688, 5
+2, oz. bottle, 0.648953, 6
+2, great deal, 0.627841, 6
+2, seat filler web, 0.894784, 7
+2, Barry Manilow, 0.708636, 7
+3, unused red glow, 0.939331, 0
+3, minor complaints, 0.74239, 0
+3, bad seat, 0.726337, 1
+3, house, 0.462652, 1
+3, free tickets, 0.732786, 6
+3, mom, 0.545824, 6
+3, big fan, 0.680211, 7
+3, band, 0.46147, 7
+3, Drink prices, 0.721448, 8
+3, glow sticks., 0.693836, 8
+4, Barry Manilow fan, 0.613461, 0
+4, hard Manilow fans, 0.577729, 0
+4, Barry Manilow, 0.989521, 5
+4, New York City, 0.490082, 6
+4, adult contemporary artist, 0.484406, 6
+4, Manilow Music Project, 0.588996, 7
+4, Las Vegas Hilton, 0.564018, 7
+4, Las Vegas, 0.847342, 8
+4, Paris Las Vegas, 0.766576, 8
+4, singer-songwriter Barry Manilow, 0.642011, 9
+4, intimate Paris Théâtre, 0.492008, 9
+5, ultimate manilow album, 0.617679, 0
+5, Jaymie Lynn Santiago, 0.521704, 0
+5, vacant midsection rows, 0.541283, 1
+5, Unremarkable experience, 0.440492, 1
+5, Barry Manilow products, 0.685643, 2
+5, rear row tickets, 0.536233, 2
+5, barry tonight., 0.492933, 3
+5, amazing thing, 0.433801, 3
+5, Barry Manilow, 0.987142, 5
+5, concert, 0.459289, 5
+5, optional feather boa, 0.535939, 6
+5, greatest hits, 0.533603, 6
+5, songs, 0.491334, 7
+5, time, 0.44522, 7
+5, pretty good seats, 0.584399, 8
+5, early birthday gift, 0.557904, 8
+5, awesome Allegro energy, 0.525686, 9
+5, real shocker, 0.426075, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, customer service, 0.651751, 0
+1, Horrible customer service, 0.651382, 0
+1, ENTIRE food order, 0.629795, 1
+1, bar, 0.624836, 1
+1, real cheese sauce, 0.696665, 2
+1, waitress, 0.665792, 2
+1, food, 0.633804, 3
+1, Cheese plate, 0.62271, 3
+1, mac n cheese, 0.953153, 4
+1, cheese sauce, 0.755375, 4
+1, small skillets, 0.574103, 6
+1, drink orders, 0.573003, 6
+1, old town, 0.642325, 7
+1, partial drink order, 0.633941, 7
+1, Classy move Boondocks, 0.576372, 8
+1, simple things, 0.569708, 8
+1, quick drink, 0.593497, 9
+1, good place, 0.580571, 9
+2, typical scottsdale bar, 0.968882, 0
+2, silver chain w/, 0.769636, 0
+2, times, 0.338072, 1
+2, manager, 0.379328, 2
+2, service, 0.37398, 2
+2, Nachos god help, 0.724862, 3
+2, hand soap, 0.513557, 3
+2, ice cold, 0.70771, 4
+2, order, 0.363872, 4
+2, cheese sauce, 0.526511, 6
+2, happy meal, 0.505471, 6
+2, Buffalo wild wings, 0.703304, 7
+2, Scottsdale edge, 0.542478, 7
+2, great potential, 0.503657, 9
+3, great bar food, 0.895947, 0
+3, central cheese flavor, 0.895907, 0
+3, average watering hole, 0.846656, 2
+3, sporting event, 0.839548, 2
+3, ping pong, 0.973838, 3
+3, corn hole, 0.862683, 3
+3, boondocks, 0.832638, 4
+3, Large bar, 0.794668, 4
+3, time, 0.847239, 5
+3, place, 0.841455, 5
+3, fancier Scottsdale bars, 0.844694, 6
+3, fried brussels sprouts, 0.843961, 6
+3, spanish fly, 0.953212, 7
+3, powerful flavor combo, 0.872947, 7
+3, potato salad, 0.866679, 8
+3, red peppers, 0.859587, 8
+3, favorite familiar industry, 0.868324, 9
+3, Old Town Scottsdale, 0.853093, 9
+4, Ping Pong tables, 0.833624, 0
+4, chicken breast tacos, 0.789806, 0
+4, cocktail menu feature, 0.811556, 1
+4, Grapefruit Juice, 0.707298, 1
+4, grind beef patty, 0.789635, 2
+4, casual menu, 0.718425, 2
+4, ice cubes, 0.802438, 3
+4, old town, 0.788566, 3
+4, Boondocks, 0.819935, 4
+4, ping pong, 0.948835, 6
+4, corn hole, 0.803893, 6
+4, Nice touch, 0.816541, 7
+4, Modern Sports Bar, 0.811173, 7
+4, sin burger, 0.814555, 8
+4, new favorite hangout, 0.810713, 8
+4, perfect healthy snack, 0.780291, 9
+4, quinoa salad, 0.72455, 9
+5, Sprouts w/goat cheese, 0.565294, 0
+5, Old Town destination, 0.550353, 0
+5, random pub crawl, 0.520851, 2
+5, fried brussel sprouts, 0.551429, 3
+5, Town Scottsdale guy, 0.54745, 3
+5, food, 0.631361, 5
+5, old town, 0.938591, 6
+5, Old Town Scottsdale, 0.697224, 6
+5, place, 0.79556, 7
+5, good looking food, 0.613344, 7
+5, new favorite place, 0.610478, 8
+5, great dining experience, 0.566161, 8
+5, late night drinks/eats, 0.570432, 9
+5, nice relaxed patio, 0.565168, 9

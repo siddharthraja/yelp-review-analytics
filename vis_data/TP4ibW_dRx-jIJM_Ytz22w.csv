@@ -1,0 +1,76 @@
+rating, keyword, relevance, bucket
+1, Worst place, 0.688258, 0
+1, small warehouses, 0.646666, 0
+1, Earl Sweatshirt concert, 0.910878, 1
+1, low quality route, 0.805387, 1
+1, voice message, 0.643714, 2
+1, dance club, 0.641396, 2
+1, ass production booth, 0.898163, 3
+1, trash folder, 0.649327, 3
+1, people, 0.540969, 4
+1, good artists, 0.652638, 6
+1, sweaty, 0.455477, 6
+1, ego trip, 0.644436, 7
+1, excited adults, 0.64342, 7
+1, Good luck, 0.652885, 8
+1, quality talent, 0.620478, 8
+1, nicer venues, 0.653567, 9
+1, professional management, 0.635783, 9
+2, wooden panel, 0.772563, 0
+2, bartender, 0.495807, 0
+2, battery, 0.478434, 1
+2, e-cigarette mod, 0.794613, 2
+2, security guy, 0.762143, 2
+2, Club Red, 0.952315, 3
+2, Saw Baroness, 0.818766, 3
+2, buzz, 0.557572, 6
+2, powerful magnets, 0.776753, 7
+2, venue, 0.474372, 7
+2, perfect finisher, 0.781089, 8
+2, Long Island, 0.764351, 8
+3, better Monday gigs, 0.860226, 0
+3, huge stage, 0.768865, 0
+3, weird hard rockers, 0.869272, 1
+3, horrible line, 0.751158, 1
+3, bad venue, 0.789166, 2
+3, guest list, 0.761208, 2
+3, typical dive bar, 0.911309, 3
+3, cleanest so ladies, 0.767207, 3
+3, live music, 0.755926, 4
+3, Danny Brown, 0.751563, 4
+3, Nice stage area, 0.925106, 6
+3, home okay..mmkaay thanks, 0.892844, 6
+3, decent little venue, 0.942936, 7
+3, Excellent sound, 0.772931, 7
+3, Nice comfy seating, 0.96197, 8
+3, Good beer bottle, 0.891298, 8
+3, great time, 0.753155, 9
+4, small venue fan, 0.92335, 0
+4, hair metal fan, 0.888789, 0
+4, Fates Warning, 0.743644, 1
+4, good bands, 0.775398, 2
+4, Missing Persons..Remember, 0.757484, 2
+4, heavy metal bands, 0.882547, 3
+4, little backstage area, 0.855371, 3
+4, time, 0.816673, 4
+4, soundcheck, 0.786617, 4
+4, Club Reds calendar, 0.868945, 6
+4, fantastic bands, 0.764494, 6
+4, venue, 0.935789, 7
+4, Saw faster pussycat, 0.895857, 7
+4, cool concert experience, 0.895567, 8
+4, versitile venue, 0.828488, 8
+4, casual chill crowd, 0.954052, 9
+4, stellar professional feel, 0.909592, 9
+5, thrash metal punk, 0.905776, 0
+5, music venues, 0.691148, 0
+5, review, 0.296203, 2
+5, presence, 0.296074, 2
+5, all-ages shows, 0.700599, 3
+5, Club Red, 0.64595, 3
+5, smaller venues, 0.679774, 6
+5, drinks, 0.310657, 6
+5, security, 0.368123, 7
+5, FAB, 0.323158, 7
+5, great experience, 0.656484, 8
+5, Joey, 0.327571, 8

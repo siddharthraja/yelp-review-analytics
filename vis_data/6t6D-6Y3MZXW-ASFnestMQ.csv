@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+2, pretty small BM, 0.994289, 0
+2, Chip S., 0.799216, 0
+2, weird quirk, 0.790353, 1
+2, Bloody Mary, 0.743987, 1
+2, drink, 0.426201, 2
+2, beers, 0.409265, 2
+2, place, 0.4821, 3
+2, feet, 0.406247, 6
+2, figure, 0.400276, 6
+3, local craft beers, 0.734468, 0
+3, decent beer selection, 0.733689, 0
+3, college football fans, 0.711609, 2
+3, bar, 0.691745, 2
+3, Deschutes Black Butte, 0.707135, 3
+3, Primo Island Lager, 0.707085, 3
+3, bartender, 0.625711, 4
+3, beer, 0.922381, 5
+3, place, 0.803311, 6
+3, Friday night NYNY, 0.692624, 6
+3, free drink coupons, 0.921329, 7
+3, good strip choice, 0.716828, 7
+3, couple free drink, 0.746007, 8
+3, good beer, 0.728875, 8
+3, craft beers, 0.82456, 9
+3, better beer offerings, 0.716554, 9
+4, New York Casino, 0.475317, 0
+4, big beer drinker, 0.452259, 0
+4, casino floor, 0.536177, 1
+4, friendlier bar staff, 0.420618, 1
+4, Coyote Ugly, 0.770923, 2
+4, small little bar, 0.500762, 2
+4, notch beer bar, 0.49242, 3
+4, vegas, 0.526836, 4
+4, New York, 0.994269, 5
+4, New York New, 0.864951, 5
+4, beer, 0.808231, 6
+4, people, 0.502802, 6
+4, ny ny casino, 0.518244, 7
+4, craft beers, 0.513066, 7
+4, good craft beer, 0.64902, 8
+4, Great beer selection, 0.489893, 8
+4, great place, 0.623671, 9
+4, Great beer choices, 0.46565, 9
+5, craft beer bar, 0.873046, 0
+5, wide screen tvs, 0.820779, 0
+5, pretentious beer snob, 0.857029, 1
+5, Coyote Ugly, 0.844405, 2
+5, annoying people, 0.733352, 2
+5, jello shots, 0.857972, 3
+5, open bar, 0.772716, 3
+5, bar, 0.881864, 6
+5, new york style, 0.816767, 6
+5, new york, 0.942036, 7
+5, fizzy yellow beer, 0.901736, 7
+5, great beers, 0.862187, 8
+5, New York-New York, 0.829723, 8
+5, Ballast Point Black, 0.810005, 9
+5, Sin City Stout, 0.804326, 9

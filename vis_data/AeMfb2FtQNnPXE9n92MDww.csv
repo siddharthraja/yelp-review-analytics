@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, 20oz bud light, 0.774119, 0
+1, cold fries, 0.77299, 0
+1, Mr. Rude Dude, 0.877953, 1
+1, major disappointment, 0.784968, 1
+1, bar, 0.864939, 2
+1, service, 0.864577, 2
+1, good drink prices, 0.788477, 3
+1, great bar service, 0.775377, 3
+1, food, 0.850276, 4
+1, burger, 0.782051, 4
+1, different people, 0.785273, 5
+1, caesar salad, 0.768744, 5
+1, san tan brewery, 0.914061, 6
+1, lobster bisque, 0.775362, 6
+1, Good looking menu, 0.772816, 7
+1, private dinner party, 0.742315, 7
+1, great white pie, 0.771475, 8
+1, burger medium, 0.721927, 8
+2, italian nachos, 0.663083, 0
+2, domestic draft prices, 0.657356, 0
+2, greasy fatty cheese, 0.670205, 1
+2, crummy bar food, 0.667051, 1
+2, fake American cheese, 0.669551, 2
+2, San Tan, 0.650467, 2
+2, Average Bar Food, 0.656202, 3
+2, main waitress, 0.632845, 3
+2, waitress, 0.797904, 4
+2, cheese, 0.766552, 4
+2, food, 0.911952, 5
+2, Chandler Light Parade, 0.631926, 6
+2, practically mashed potatoes, 0.631783, 6
+2, terrible wait times, 0.656811, 7
+2, downtown chandler, 0.645888, 7
+2, pretty good night, 0.671278, 8
+2, kids menu, 0.651772, 8
+3, sports bar atmosphere, 0.569782, 0
+3, lunch special prices, 0.55819, 0
+3, typical sports bar, 0.659992, 2
+3, greasy bar food, 0.604358, 2
+3, long time, 0.541877, 3
+3, sports bar, 0.968497, 4
+3, downtown chandler, 0.803744, 4
+3, food, 0.937039, 5
+3, time, 0.682873, 5
+3, large shoe-string fries, 0.56855, 6
+3, San Tan, 0.549983, 6
+3, place, 0.706119, 7
+3, Pretty good food, 0.656472, 7
+3, Pretty good beer, 0.638273, 8
+3, great sports bar, 0.624948, 8
+3, good drink specials, 0.565686, 9
+3, beer draft choices, 0.540989, 9
+4, famous Lobster Bisque, 0.66635, 0
+4, good looking men, 0.665113, 0
+4, bar promotions world, 0.608005, 2
+4, jager bombs, 0.60308, 2
+4, standard bar food, 0.639059, 3
+4, grand opening, 0.606186, 3
+4, great service, 0.630627, 4
+4, coach, 0.619577, 4
+4, food, 0.844726, 5
+4, downtown Chandler, 0.722916, 5
+4, lobster bisque soup, 0.655589, 6
+4, lunch, 0.647585, 6
+4, lobster bisque, 0.918533, 7
+4, italian nachos, 0.676145, 7
+4, place, 0.758891, 8
+4, great food, 0.690393, 8
+4, GREAT breakfast food, 0.659443, 9
+4, style yummy food, 0.636522, 9
+5, Great Bloody Mary, 0.492188, 0
+5, friends ordered martinis, 0.473824, 0
+5, Bacon Crusted Mac, 0.483493, 2
+5, HOLY CRAP, 0.405278, 2
+5, turkey diablo, 0.469191, 3
+5, Famous Bloody Mary, 0.447425, 3
+5, food, 0.526468, 4
+5, lobster bisque, 0.910942, 6
+5, ........., 0.445451, 6
+5, great local brews, 0.535138, 7
+5, fine dining restaurant, 0.452122, 7
+5, great place, 0.609131, 8
+5, lobster bisque Yum, 0.562621, 8
+5, food great staff, 0.51885, 9
+5, Great food, 0.502683, 9

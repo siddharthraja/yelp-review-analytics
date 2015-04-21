@@ -1,0 +1,73 @@
+rating, keyword, relevance, bucket
+1, white girls, 0.752411, 0
+1, shirt sleeve, 0.744168, 0
+1, Rude staff, 0.710571, 2
+1, wrong night, 0.683337, 2
+1, african american person, 0.943665, 3
+1, old Westerns, 0.740542, 3
+1, friend, 0.469283, 6
+1, Hmmm, 0.387754, 6
+1, door, 0.313653, 7
+2, red bull, 0.737971, 0
+2, guys, 0.466251, 0
+2, tacky scrunchies, 0.800706, 1
+2, leg warmers, 0.780528, 1
+2, bartender, 0.782337, 2
+2, small buildings, 0.712156, 2
+2, good bartender, 0.778598, 3
+2, Speed Street, 0.762855, 3
+2, venue, 0.538912, 4
+2, music, 0.526958, 4
+2, vodka, 0.470657, 6
+2, special Bday night, 0.977452, 7
+2, cool hangout, 0.697105, 8
+2, Breakfast Club, 0.758205, 9
+2, better way, 0.75126, 9
+3, ho 80s fans, 0.665222, 0
+3, great music cranking, 0.648069, 0
+3, dance floor, 0.702572, 1
+3, Ferris Bueller Tshirts, 0.642014, 1
+3, horrible 80s dance, 0.683435, 2
+3, good stuff, 0.583078, 2
+3, parking ticket, 0.511547, 3
+3, 80s, 0.702271, 5
+3, happily married woman, 0.595678, 6
+3, Culture Club, 0.557601, 6
+3, breakfast club, 0.920984, 7
+3, good time, 0.920186, 7
+3, 80s music, 0.567588, 8
+3, good experience, 0.545527, 8
+4, New Wave nights, 0.678859, 0
+4, Hip Hop nights, 0.673128, 0
+4, long time, 0.644293, 1
+4, little HOT.  cool, 0.668747, 2
+4, old head cuz, 0.668655, 2
+4, defunct Hammer dance, 0.675993, 3
+4, table Galaga machine, 0.671778, 3
+4, good time, 0.742773, 4
+4, Michael Jackson, 0.717579, 4
+4, Breakfast Club, 0.949297, 5
+4, dance floor, 0.755472, 5
+4, place, 0.691474, 6
+4, Charlotte club scene, 0.681834, 6
+4, favorite music videos, 0.67491, 7
+4, 80s music, 0.658501, 7
+4, iTunes shopping list, 0.664599, 8
+4, Awesome concept, 0.652834, 8
+4, regular late night, 0.683467, 9
+4, cool relaxed feel, 0.667068, 9
+5, break dancing session, 0.910839, 0
+5, Sid Vicious, 0.666086, 0
+5, meat market dance, 0.919462, 2
+5, Uptown area, 0.714112, 2
+5, testosterone pumped drunkards, 0.988619, 3
+5, humility, 0.400948, 3
+5, cheap ass drinks, 0.908535, 4
+5, 80s, 0.361314, 4
+5, place, 0.450354, 5
+5, dunk competitions, 0.658402, 6
+5, replays, 0.383689, 6
+5, Micheal Jackson, 0.675393, 7
+5, Breakfast Club, 0.603429, 7
+5, unique night life, 0.974898, 9
+5, enjoyable dancing experience, 0.8664, 9

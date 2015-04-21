@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, spicy ketchup, 0.919915, 0
+1, kettle chips, 0.773688, 0
+1, food options, 0.71761, 2
+1, fridge, 0.511285, 2
+1, rooftop bar, 0.718943, 3
+1, waitress, 0.518317, 3
+1, Parmesan tots, 0.836102, 7
+1, guacamole, 0.525123, 7
+2, dollar pastrami burger, 0.909763, 0
+2, paragraph burger description, 0.77387, 0
+2, sub-par experiences, 0.508656, 1
+2, Flip Flop, 0.46982, 1
+2, COLD sandwich, 0.475792, 2
+2, table, 0.295382, 2
+2, red sauce, 0.459414, 3
+2, metal chairs, 0.438752, 3
+2, drinks, 0.323683, 5
+2, fresh cucumber slices, 0.678099, 6
+2, nice weather, 0.477705, 6
+2, pita slices, 0.488333, 7
+2, tree tops, 0.443153, 7
+2, roof people, 0.463963, 8
+2, excellent way, 0.461672, 8
+3, need, 0.388415, 3
+3, locally brewed root, 0.997059, 7
+3, 3-star ratings, 0.841001, 7
+3, tasty martini, 0.804391, 8
+3, friends, 0.378802, 8
+4, good view, 0.701471, 8
+4, Fun, 0.536112, 8
+4, fairly labor-intensive margaritas, 0.962769, 9
+4, bartenders, 0.703364, 9

@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+4, different amounts, 0.586891, 0
+4, bartenders, 0.264225, 0
+4, hometown-y relaxed bar, 0.805684, 1
+4, campus bars, 0.542961, 1
+4, apartments, 0.231157, 3
+4, Tumble Inn Punch, 0.959034, 7
+4, Champaign-Urbana, 0.263568, 8
+4, Definite, 0.262335, 8
+5, Tumble Inn Tavern, 0.743292, 0
+5, no-frills sports bar, 0.636983, 0
+5, ice cold woodchuck, 0.69975, 1
+5, heck, 0.335064, 1
+5, different campus bars, 0.602737, 2
+5, Dirty Chester, 0.483756, 2
+5, pre-weekend Yelp reconnaisance, 0.637318, 3
+5, Natty Light, 0.488555, 3
+5, tumble inn, 0.956811, 4
+5, golden tee, 0.843763, 4
+5, unbelievable dive bar, 0.627588, 6
+5, Golden Tee record, 0.62712, 6
+5, amazing nights, 0.515874, 7
+5, Good people, 0.506387, 7
+5, nice in-between campus/downtown, 0.671252, 8
+5, timeless gathering place, 0.628998, 8

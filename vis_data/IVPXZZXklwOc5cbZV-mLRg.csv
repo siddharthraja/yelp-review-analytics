@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, undercooked duck, 0.8058, 0
+1, pounds, 0.570847, 0
+1, nastiest calamari, 0.905935, 1
+1, Jerks, 0.599081, 1
+1, Pure Evil, 0.792268, 3
+1, Madison, 0.525082, 3
+2, busy Saturday night, 0.988534, 0
+2, new Magnus, 0.90769, 0
+2, Scandinavian overhaul, 0.804023, 1
+2, over-garlicked spinach, 0.771744, 1
+2, equally nauseous experience, 0.9974, 2
+2, huge slimy mushrooms, 0.989561, 2
+2, Magnus, 0.957337, 3
+2, Scandinavian menu, 0.812798, 3
+2, stars, 0.605422, 5
+2, tasty chimichurri, 0.856478, 6
+2, superb quality, 0.763392, 6
+2, special occasions, 0.816016, 7
+2, rye bread, 0.809612, 7
+2, decor, 0.550679, 8
+2, medium, 0.5486, 8
+3, live jazz playing, 0.826252, 0
+3, Chicken Breast dish, 0.808343, 0
+3, bar menu, 0.757468, 1
+3, Monday night, 0.724021, 1
+3, Scandinavian menu, 0.938304, 2
+3, Yelp reviewers, 0.865134, 2
+3, new Scandinavian menu, 0.891578, 3
+3, new iPhone app, 0.805569, 3
+3, tapas menu, 0.998322, 6
+3, Restaurant Magnus, 0.849567, 6
+3, South American flavor, 0.86066, 7
+3, nice dinner vibe, 0.847076, 7
+3, Great wine menu, 0.90321, 8
+3, rib eye steak, 0.850935, 8
+3, best places, 0.745218, 9
+3, wine list, 0.72672, 9
+4, best physical bar, 0.887215, 0
+4, local Barriques wine, 0.866533, 0
+4, Unexpected tango night, 0.880341, 1
+4, graduation dinner, 0.80819, 1
+4, jazz bar, 0.813387, 2
+4, little bit, 0.807255, 2
+4, live music, 0.87606, 3
+4, service, 0.863068, 5
+4, Magnus, 0.98167, 6
+4, dinner, 0.902049, 6
+4, venison carpaccio, 0.895664, 7
+4, house special appetizer, 0.850401, 7
+4, wine selection, 0.878823, 8
+4, wine selection benefits, 0.867723, 8
+4, excellent wine selection, 0.876033, 9
+4, beautiful summer evening, 0.839211, 9
+5, tuna steak, 0.956151, 0
+5, ahi tuna steak, 0.910723, 0
+5, bar food budget, 0.815421, 1
+5, main courses, 0.808557, 1
+5, Restaurant Magnus, 0.873213, 2
+5, raw tuna tartare, 0.844756, 2
+5, bar menu, 0.824113, 3
+5, complimentary crusty bread, 0.814701, 3
+5, high-end gourmet menu, 0.810239, 4
+5, Magnus, 0.913335, 5
+5, ahi tuna, 0.957298, 6
+5, ahi tuna concoction, 0.86789, 6
+5, kobe steak, 0.961689, 7
+5, dining room, 0.91812, 7
+5, Great wine list, 0.839727, 8
+5, private dining room, 0.838334, 8
+5, smaller bar area, 0.80808, 9

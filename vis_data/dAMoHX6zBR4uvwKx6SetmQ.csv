@@ -1,0 +1,59 @@
+rating, keyword, relevance, bucket
+1, irish pub knockoff, 0.646268, 0
+1, soup leek soup, 0.630201, 0
+1, Italian guido, 0.494587, 1
+1, new keg, 0.489445, 1
+1, irish pub, 0.788475, 2
+1, good Corn Beef, 0.624192, 2
+1, corned beef, 0.977492, 3
+1, debit cards, 0.616969, 3
+1, glass, 0.485363, 5
+1, corned beef sandwich, 0.878489, 6
+1, green dinner salad, 0.600412, 6
+1, new place, 0.482411, 7
+1, best thing, 0.447321, 7
+1, best Irish food, 0.629863, 8
+1, great beer prices, 0.590838, 8
+2, popular appetizer type, 0.880881, 0
+2, typical Irish grub, 0.824563, 0
+2, tall male bartender, 0.987156, 1
+2, apple crisp desert, 0.835549, 1
+2, waitress, 0.815583, 2
+2, bar food, 0.751551, 2
+2, ordinary tenders, 0.723325, 3
+2, Irish breakfast items, 0.842702, 6
+2, food, 0.816895, 6
+2, irish pub, 0.813073, 7
+2, Angry Wives atmosphere, 0.811639, 7
+2, fun place, 0.736531, 8
+2, burger Medium, 0.7308, 8
+2, good food, 0.726209, 9
+2, food items, 0.718624, 9
+3, typical Irish Pub, 0.941073, 0
+3, typical irish fare, 0.92321, 0
+3, uninspired salad, 0.821605, 1
+3, slow service, 0.820484, 1
+3, Granny Smith apples, 0.894165, 2
+3, vanilla ice cream, 0.887272, 2
+3, Rampart Casino/JC Marriott, 0.963046, 6
+3, grilled vegetable salad, 0.921354, 6
+3, JW Marriott, 0.924737, 7
+3, good live music, 0.924567, 7
+3, Good beer place, 0.946581, 8
+3, outs great staff, 0.930639, 8
+3, good value, 0.844628, 9
+3, happy disposition, 0.809771, 9
+4, good Irish pub, 0.694691, 0
+4, true Irish pub, 0.690614, 0
+4, tar tar sauce, 0.529936, 1
+4, dark wood, 0.551884, 2
+4, noisy New Yorkers, 0.532082, 2
+4, wood  dart boards, 0.529644, 3
+4, food, 0.588294, 6
+4, potato croquettes, 0.55101, 6
+4, favorite Irish pub, 0.693562, 7
+4, Rampart Casino, 0.642187, 7
+4, irish pub, 0.932604, 8
+4, quaint Irish pub, 0.676876, 8
+4, warm cozy pub, 0.64752, 9
+4, Surprisingly good food, 0.575302, 9

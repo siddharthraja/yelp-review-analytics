@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, table cloths, 0.618429, 0
+1, multiple staff, 0.608185, 0
+1, dining room, 0.544347, 1
+1, avail, 0.321267, 1
+1, lunch/ early dinner, 0.824502, 2
+1, dining area, 0.582449, 2
+1, wait staff, 0.563674, 3
+1, 15 minutes, 0.353385, 3
+1, bit, 0.268707, 4
+1, management, 0.266563, 4
+1, new place, 0.571509, 6
+1, drinks, 0.278523, 6
+1, decor, 0.283322, 7
+1, great weekend hangout, 0.999616, 8
+1, atmosphere, 0.385131, 8
+1, menu, 0.276878, 9
+2, red curry paste, 0.917085, 0
+2, Spice level, 0.661781, 0
+2, biggest disappointment, 0.701102, 1
+2, Siracha, 0.363211, 1
+2, previous comments, 0.601224, 2
+2, sushi, 0.379441, 2
+2, dishes, 0.384531, 3
+2, salty, 0.37895, 3
+2, SE Asian cuisine, 0.890571, 6
+2, gyoza dumplings, 0.722856, 6
+2, place, 0.398795, 7
+2, decor, 0.368598, 7
+2, great Thai curry, 0.909783, 9
+2, fresh vibrant flavors, 0.908262, 9
+3, white rice, 0.555412, 0
+3, extra bowl, 0.539932, 0
+3, california rolls, 0.69897, 1
+3, bland chicken, 0.64052, 1
+3, end pieces, 0.549424, 2
+3, soy sauce, 0.544082, 3
+3, service, 0.478944, 3
+3, extra silverware, 0.548315, 6
+3, water glass, 0.537149, 6
+3, food, 0.552948, 7
+3, average food, 0.543552, 7
+3, orange chicken, 0.915741, 8
+3, downtown Chandler location, 0.67365, 8
+3, best dish, 0.549764, 9
+3, super fun, 0.537233, 9
+4, great little place, 0.769517, 0
+4, fabulous downtown chandler, 0.767657, 0
+4, weird awkward feeling, 0.708162, 1
+4, Good thing, 0.649792, 1
+4, dirty martinis, 0.653575, 2
+4, sheer volume, 0.635101, 2
+4, Phoenix Winter Storm, 0.753236, 3
+4, monkey balls, 0.735604, 3
+4, brick look, 0.629179, 4
+4, secret little place, 0.744701, 6
+4, mean sushi, 0.660222, 6
+4, downtown chandler, 0.91276, 7
+4, chilly willy.. trust, 0.728732, 7
+4, cool chill mood, 0.739669, 8
+4, Saturday night, 0.736743, 8
+4, small group place, 0.766309, 9
+4, new Korean tacos, 0.721478, 9
+5, spicy tuna rolls, 0.841482, 0
+5, nice patio, 0.771744, 0
+5, cooked beans, 0.654652, 3
+5, Karaoke, 0.452617, 3
+5, old city loft, 0.872178, 6
+5, Light saki bombs, 0.840257, 6
+5, incredibly tasting sauce, 0.834308, 7
+5, Sushi Eye, 0.729237, 7
+5, Great atmosphere, 0.709409, 8
+5, downtown Chandler, 0.688125, 8
+5, Hilarious menu text, 0.928972, 9
+5, sushi bar, 0.722771, 9

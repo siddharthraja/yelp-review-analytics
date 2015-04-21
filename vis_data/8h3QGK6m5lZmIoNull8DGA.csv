@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, new guy, 0.925974, 0
+1, main course, 0.680165, 0
+1, long line, 0.689325, 1
+1, restaurant, 0.490674, 1
+1, Citizen R+D, 0.751528, 2
+1, work meeting, 0.723149, 2
+1, customer service, 0.930031, 3
+1, shitty customer service, 0.909411, 3
+1, table, 0.831552, 5
+1, negative experience, 0.722152, 6
+1, dinner reservation, 0.661132, 6
+1, drinks, 0.472958, 7
+1, street, 0.462495, 7
+1, clients, 0.469664, 9
+2, Public House owner, 0.550363, 0
+2, main restaurant area, 0.483623, 0
+2, porkbelly bahn Mi, 0.469482, 1
+2, late night menu, 0.522379, 2
+2, douche bag bouncer, 0.46992, 2
+2, bar, 0.492458, 3
+2, customer service, 0.475641, 3
+2, citizen public house, 0.917015, 4
+2, drink menu, 0.542104, 4
+2, drink, 0.650335, 5
+2, drinks, 0.598475, 5
+2, Citizen R+D, 0.559432, 6
+2, cocktails, 0.485138, 6
+2, high hopes, 0.481978, 7
+2, lavender sugar, 0.473752, 7
+2, coolest new place, 0.492301, 8
+2, classic cocktails, 0.481794, 8
+2, cool hipster place, 0.476571, 9
+2, cocktail waitress, 0.45114, 9
+3, long long wait, 0.693116, 0
+3, craft cocktail bars, 0.671943, 0
+3, dark alley, 0.556274, 1
+3, dont worry, 0.597861, 2
+3, friendlier staff, 0.569674, 2
+3, rocket science, 0.573773, 3
+3, price, 0.569581, 3
+3, drinks, 0.820553, 4
+3, way, 0.483277, 4
+3, place, 0.669931, 5
+3, people, 0.51492, 5
+3, Cotton Candy drink, 0.683478, 6
+3, dark sensual feel, 0.664894, 6
+3, Citizen Public house, 0.921428, 7
+3, speak-easy place, 0.611874, 7
+3, craft cocktail, 0.70315, 8
+3, craft cocktail movement, 0.667667, 8
+3, lovely smoky feeling, 0.707197, 9
+3, Black Blazer, 0.568754, 9
+4, different drinks, 0.59678, 0
+4, cutter Scottsdale bar, 0.544208, 0
+4, cheap drinks, 0.58564, 1
+4, quick drinks, 0.583497, 1
+4, dark  alley, 0.546806, 2
+4, plain white sheet, 0.537677, 2
+4, rules, 0.544844, 3
+4, modern speakeasy approach, 0.531758, 3
+4, place, 0.735801, 4
+4, people, 0.558461, 4
+4, drinks, 0.96173, 5
+4, drink, 0.630693, 5
+4, R+D, 0.668231, 6
+4, quality drinks, 0.615025, 6
+4, Citizen Public House, 0.845768, 7
+4, marvelous Citizen Public, 0.556863, 7
+4, good drinks, 0.6016, 8
+4, Citizen R+D, 0.589562, 8
+4, Old Fashioned drink, 0.582212, 9
+4, specialty drinks, 0.575286, 9
+5, prettiest drinks, 0.654144, 0
+5, dinner drink, 0.619984, 0
+5, mixed drinks, 0.632402, 2
+5, cold rainy night, 0.613377, 2
+5, Old Town Scottsdale, 0.676524, 3
+5, ft tall character, 0.608773, 3
+5, drinks, 0.976339, 4
+5, experience, 0.669166, 4
+5, place, 0.962872, 5
+5, people, 0.643261, 5
+5, drink, 0.822581, 6
+5, moola drinks, 0.642858, 6
+5, great place, 0.737669, 7
+5, small place, 0.643752, 7
+5, Citizen Public House, 0.888618, 8
+5, Citizen R+D, 0.739953, 8
+5, vodka cucumber drink, 0.68024, 9
+5, unique cocktail experience, 0.63031, 9

@@ -1,0 +1,90 @@
+rating, keyword, relevance, bucket
+1, high school entertainment, 0.833773, 0
+1, real comedy club, 0.823374, 0
+1, customer service, 0.813564, 1
+1, amateur comedians, 0.735034, 1
+1, FAQ section, 0.965964, 2
+1, nearby parking area, 0.802313, 2
+1, tickets, 0.965051, 3
+1, club phone number, 0.804804, 3
+1, doorman, 0.714515, 5
+1, refund, 0.713974, 5
+1, good table, 0.731139, 6
+1, table service, 0.727895, 6
+1, perfect activity post-dinner, 0.851761, 7
+1, friend Gabi, 0.741402, 7
+1, memorable birthdays, 0.728832, 8
+1, positive note, 0.722669, 8
+1, funny life expereinces, 0.84316, 9
+1, credit card company, 0.810879, 9
+2, brick wall, 0.737323, 0
+2, Sticky tables, 0.733864, 0
+2, slimy skin, 0.781962, 1
+2, rubbery meat, 0.756534, 1
+2, comedy clubs, 0.945133, 2
+2, worst comedy clubs, 0.899478, 2
+2, pre-show comedians, 0.793462, 3
+2, thier site, 0.754046, 3
+2, door, 0.755045, 4
+2, alot, 0.558105, 4
+2, Comedy Spot, 0.938156, 5
+2, comedians, 0.851418, 6
+2, black wall, 0.73003, 6
+2, opening comedian, 0.773609, 7
+2, cherry coke, 0.773418, 7
+2, local comedians, 0.812729, 8
+3, Female Patron, 0.706465, 0
+3, comedy club stuff, 0.637895, 0
+3, comedy clubs, 0.535942, 1
+3, Overpriced drinks, 0.529151, 1
+3, comedy club, 0.705881, 2
+3, comedians, 0.57925, 2
+3, football player, 0.629744, 3
+3, incorrectly introduced football, 0.600038, 3
+3, headliner, 0.547821, 4
+3, drinks, 0.538355, 4
+3, place, 0.686585, 5
+3, time, 0.662926, 5
+3, perfect activity post-dinner, 0.631899, 6
+3, good place, 0.564668, 6
+3, nice place, 0.548708, 7
+3, MySpace Link, 0.524618, 7
+3, Comedy Spot, 0.916443, 8
+3, bachelorette weekend, 0.53062, 8
+3, real good material, 0.614988, 9
+3, great time, 0.535594, 9
+4, Amateur/Open Mic Night, 0.353477, 0
+4, open mic night, 0.348889, 0
+4, Dingy dark spot, 0.344003, 1
+4, comedy clubs, 0.411719, 2
+4, NY comedy clubs, 0.345034, 2
+4, door right past, 0.325062, 3
+4, comic performing likes, 0.318925, 3
+4, drink minimum, 0.923943, 4
+4, drink service, 0.366417, 4
+4, Comedy Spot, 0.894652, 5
+4, comedians, 0.598782, 5
+4, night, 0.531903, 6
+4, Saturday night, 0.424263, 6
+4, intimate setting, 0.391052, 7
+4, Scottsdale Comedy Spot, 0.382765, 7
+4, great time, 0.582201, 8
+4, great place, 0.478453, 8
+4, cozy comedy venue, 0.366036, 9
+4, convenient comedy club, 0.355435, 9
+5, local comedy dive, 0.511337, 0
+5, Scottsdale Comedy Spot, 0.508694, 0
+5, CK Louis btw, 0.500052, 1
+5, sketch comedy troupe, 0.497279, 1
+5, poor mofo, 0.41853, 2
+5, sorta sucked.., 0.407355, 2
+5, comedy spot, 0.921284, 3
+5, Dane Cook-esque comedy, 0.5308, 3
+5, drink minimum, 0.812286, 6
+5, time, 0.705717, 6
+5, comics, 0.500217, 7
+5, intimate place, 0.447967, 7
+5, great time, 0.682228, 8
+5, comedy club, 0.522133, 8
+5, Great staff, 0.443917, 9
+5, Great place, 0.442699, 9

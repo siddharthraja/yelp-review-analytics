@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, Azure area, 0.520676, 0
+1, main pool area, 0.520669, 0
+1, open bar, 0.483525, 1
+1, pool employees, 0.469027, 1
+1, bar, 0.506599, 2
+1, awful house mix, 0.488502, 2
+1, place, 0.554499, 3
+1, regular pool area, 0.520439, 3
+1, tao beach, 0.614937, 4
+1, people, 0.574695, 4
+1, pool, 0.959026, 5
+1, Azure, 0.80228, 5
+1, Azure pool, 0.597567, 6
+1, Travel Zoo, 0.539175, 6
+1, Azure pool party, 0.56838, 7
+1, Azure pools, 0.523786, 7
+1, hotel pool area, 0.521396, 8
+1, access Azure, 0.502567, 8
+1, awesome drinks, 0.465205, 9
+2, normal hotel pool, 0.614863, 0
+2, pool promoter, 0.587278, 0
+2, beach fab music, 0.568935, 1
+2, fellow sun seekers, 0.557796, 1
+2, free hotel pool, 0.630068, 2
+2, free drive ks, 0.589025, 2
+2, Palazzo pool, 0.698103, 3
+2, regular Palazzo pool, 0.688472, 3
+2, food, 0.519612, 4
+2, pool, 0.986401, 5
+2, azure, 0.853738, 5
+2, regular pool, 0.657529, 6
+2, limited free seating, 0.595085, 6
+2, jacuzzi style pool, 0.639489, 7
+2, pool parties, 0.62038, 7
+2, Azure pool, 0.652772, 8
+2, small jacuzzi pool, 0.63817, 8
+2, wild Tao Beach/Wet, 0.571451, 9
+2, Republic/Rehab day pool, 0.556471, 9
+3, Standard Cabana pricing, 0.81867, 0
+3, Estimated Standard Cabana, 0.734428, 0
+3, Tao Beach, 0.61827, 2
+3, Hood Rat Time, 0.61378, 2
+3, Azure, 0.761868, 3
+3, pool party, 0.622291, 3
+3, drinks, 0.777371, 4
+3, people, 0.672287, 5
+3, music, 0.670351, 5
+3, pool, 0.949112, 6
+3, Palazzo pool, 0.693194, 6
+3, hip pool area, 0.655498, 7
+3, free drinks, 0.648814, 7
+3, Azure Pool, 0.668717, 8
+3, regular hotel pool, 0.658918, 8
+4, Encore Beach Club, 0.537984, 0
+4, dinky little cushions, 0.536856, 0
+4, open bar drinks, 0.548294, 1
+4, wall-to-wall people, 0.48447, 1
+4, Wet Republic, 0.549898, 2
+4, little bit, 0.528747, 2
+4, minimum bar purchase, 0.559685, 3
+4, Vegas party spirit, 0.545883, 3
+4, Azure, 0.685586, 4
+4, people, 0.601435, 4
+4, pool, 0.931634, 5
+4, Palazzo pool, 0.590617, 5
+4, pool party, 0.868237, 6
+4, multiple pool areas, 0.566512, 6
+4, Tao Beach, 0.704285, 7
+4, lounge chairs, 0.611792, 7
+4, nice calmer scene, 0.543693, 8
+4, living room sofa, 0.519616, 8
+4, pretty cool experience, 0.51936, 9
+4, free daybed, 0.499064, 9
+5, Gilles Marini cabana, 0.787012, 0
+5, water glass w/, 0.779211, 0
+5, old bachelor party, 0.7374, 1
+5, huge pool parties, 0.806006, 2
+5, skin cancer, 0.751651, 2
+5, long hard night, 0.769301, 3
+5, fantastic spray tan, 0.750787, 3
+5, pool, 0.967511, 5
+5, place, 0.75591, 5
+5, azure, 0.883485, 6
+5, spray tan, 0.755893, 6
+5, azure pool, 0.812552, 7
+5, relatively good spot, 0.751966, 7
+5, cabanas super cool., 0.750634, 8
+5, fun vegas vibe, 0.746617, 8
+5, Azure day club, 0.742012, 9
+5, gift- super classy, 0.738271, 9

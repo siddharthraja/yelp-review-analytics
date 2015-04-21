@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+2, Friday night, 0.898487, 0
+2, classic covers, 0.845477, 0
+2, good bar, 0.740678, 3
+2, crowd, 0.330682, 3
+2, live music, 0.751449, 6
+2, Drink prices, 0.983464, 7
+2, thing, 0.313263, 7
+2, tim mcgraw, 0.91286, 8
+2, alot, 0.369734, 8
+3, sad out-dated venue, 0.807175, 0
+3, self-locking plastic ties, 0.780208, 0
+3, folding metal chairs, 0.782961, 1
+3, managerial faux pas, 0.738446, 1
+3, Jose Feliciano concert, 0.800028, 2
+3, little Station Casinos, 0.73464, 2
+3, awesome venue, 0.674099, 3
+3, things, 0.464352, 3
+3, Club Madrid, 0.980779, 6
+3, concert venue, 0.670044, 6
+3, Sunset Station Casino, 0.723289, 7
+3, television screens, 0.613739, 7
+3, OK venue, 0.629502, 8
+3, band, 0.452266, 8
+3, diverse group, 0.570466, 9
+4, small venue shows, 0.83726, 0
+4, future beer bucket, 0.695069, 0
+4, stuffy atmosphere, 0.538515, 1
+4, server, 0.343737, 1
+4, long hard night, 0.707648, 2
+4, minor complaints, 0.548466, 2
+4, Sin City Sinners, 0.97819, 3
+4, Club Madrid, 0.780945, 3
+4, place, 0.443024, 4
+4, diff kind, 0.527682, 6
+4, Good spot, 0.512235, 6
+4, classic rock fan, 0.702698, 7
+4, Las Vegas, 0.570298, 7
+4, good seat, 0.541222, 8
+4, Service, 0.345937, 8
+4, terrific concert venue, 0.760568, 9
+5, low key place, 0.875829, 0
+5, Domestic Drink, 0.734089, 0
+5, main reason, 0.694246, 2
+5, Fear, 0.446856, 2
+5, Yellow Brick Road, 0.890599, 3
+5, drink minimum, 0.714496, 3
+5, unique dance moves, 0.905055, 6
+5, good form, 0.639956, 6
+5, Sunset Station Hotel, 0.871557, 7
+5, Louie Louie, 0.800226, 7
+5, Lon Bronson All-Stars, 0.929251, 8
+5, Great prices, 0.646258, 8
+5, music, 0.446137, 9

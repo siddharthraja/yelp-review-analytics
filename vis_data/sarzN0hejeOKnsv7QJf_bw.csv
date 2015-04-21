@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, cabana, 0.443102, 0
+1, sneakers, 0.44306, 0
+1, dress code, 0.761026, 1
+1, inconsistent dress code, 0.708134, 1
+1, Skybar, 0.658973, 2
+1, little sympathy, 0.592491, 2
+1, process, 0.432973, 3
+1, manager, 0.432916, 3
+1, Pittsburgh, 0.472122, 4
+1, male cousin, 0.786655, 5
+1, white pants, 0.977767, 6
+1, family reunion, 0.584186, 6
+1, evening, 0.435925, 7
+1, nice pants, 0.660175, 8
+1, nice polo, 0.602071, 8
+2, Totally not fun, 0.827668, 0
+2, mediocre service, 0.912979, 1
+2, debit card, 0.783515, 1
+2, place, 0.541967, 6
+3, cover charge, 0.486557, 0
+3, cabana, 0.354179, 0
+3, nasty alcohol, 0.535065, 1
+3, rooftop area, 0.504628, 2
+3, dance floor, 0.496561, 2
+3, kinda steamy, 0.573429, 3
+3, music, 0.429641, 3
+3, skybar, 0.903031, 4
+3, Diesel, 0.509161, 4
+3, pina colada, 0.712513, 5
+3, pre-made frozen drinks, 0.719003, 6
+3, place, 0.558145, 6
+3, better tasting drink, 0.672261, 7
+3, warmer season, 0.563206, 7
+3, pretty high hopes, 0.667001, 8
+3, Carson St, 0.493575, 8
+5, rooftop patio/bar, 0.819299, 0
+5, free drink, 0.753726, 0
+5, strict my friend, 0.754854, 2
+5, house, 0.504839, 2
+5, World class dance, 0.988973, 3
+5, ID lol, 0.781819, 3
+5, floor, 0.537083, 5
+5, Fan-frigging-tastic place, 0.827602, 6
+5, pool, 0.532811, 7
+5, Great music, 0.776588, 8
+5, Great views, 0.755432, 8
+5, clear acrylic cover, 0.97246, 9
+5, reasonable bottle, 0.844587, 9

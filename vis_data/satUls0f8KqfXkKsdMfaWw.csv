@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, Assistant General Manager, 0.921416, 0
+1, mashed potatoes, 0.752234, 0
+1, husbands NY strip, 0.938764, 1
+1, food, 0.785847, 1
+1, slightest attention, 0.719677, 2
+1, Cowgirls, 0.605388, 2
+1, BBQ sauce, 0.724173, 3
+1, dinner potato, 0.705458, 3
+1, restaurant, 0.886618, 4
+1, time, 0.823852, 4
+1, server, 0.863255, 5
+1, service, 0.713644, 5
+1, blackberry margarita, 0.771368, 6
+1, regular fixture, 0.717186, 6
+1, prime rib, 0.760309, 7
+1, delicious margarita, 0.740659, 7
+1, live music, 0.772454, 9
+1, business, 0.591476, 9
+2, bartender, 0.437701, 0
+2, bit, 0.392736, 0
+2, drinks, 0.689139, 5
+2, bigger crowd, 0.985052, 6
+2, Band, 0.379987, 7
+2, current customers, 0.858737, 8
+2, referrals, 0.388828, 8
+4, music, 0.631671, 0
+4, time, 0.630066, 0
+4, trivia, 0.626854, 3
+4, primrib, 0.653909, 7
+4, Pretty fun, 0.975623, 9

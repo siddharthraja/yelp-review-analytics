@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, whisky adorn, 0.780874, 0
+1, bland espresso, 0.765004, 0
+1, crema, 0.343793, 2
+1, refurbishment, 0.310058, 2
+1, good job, 0.703999, 3
+1, prettier  bar, 0.676494, 3
+1, nice big tables, 0.979042, 6
+1, place, 0.290833, 6
+1, fancy espresso machine, 0.974585, 7
+1, new décor, 0.768753, 7
+4, fellow North Americans, 0.827843, 0
+4, starts, 0.270993, 0
+4, Haggis, 0.434645, 1
+4, reviewers, 0.286777, 1
+4, bad place, 0.521526, 2
+4, average, 0.261024, 3
+4, standards, 0.254808, 3
+4, noise level, 0.992213, 4
+4, pleasant noise level, 0.814076, 6
+4, live music, 0.494843, 6
+4, tourist.  noise level, 0.806606, 7
+4, Edinburgh.  bar staff, 0.769164, 7
+4, Scotch whiskies, 0.569857, 8
+4, draft beers, 0.537674, 8
+5, and lots of, 0.911166, 0
+5, and beers to, 0.874268, 0
+5, Burger Chicken Cesar, 0.800495, 5
+5, vollgekotzt bekommt hilft, 0.750922, 5
+5, Portionen und preislich, 0.641438, 6
+5, leckere Essen, 0.626194, 6

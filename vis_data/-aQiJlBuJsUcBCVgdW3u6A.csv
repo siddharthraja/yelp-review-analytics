@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, conclusion, 0.480389, 0
+1, wine, 0.467942, 0
+1, simple French Martini, 0.905244, 1
+1, basic standard, 0.702831, 1
+1, lame milkshake, 0.717223, 2
+1, piña Colada, 0.684976, 2
+1, carpet, 0.468331, 3
+1, tables, 0.468112, 3
+1, half price cocktails, 0.921461, 6
+1, Wetherspoons-esque place, 0.67526, 6
+1, chain, 0.462568, 7
+1, central location, 0.668142, 8
+1, bar area, 0.651487, 8
+2, different burger options, 0.787762, 0
+2, numb bum, 0.676818, 0
+2, tired eyes, 0.633554, 1
+2, little lacklustre, 0.552682, 1
+2, Distinctly tepid soup, 0.893915, 2
+2, mix, 0.266358, 2
+2, table service, 0.533459, 3
+2, slow service, 0.529088, 3
+2, Alton Towers, 0.624662, 4
+2, car home, 0.609111, 4
+2, place, 0.339863, 5
+2, eclectic car-crash menu, 0.802052, 6
+2, half price, 0.559347, 6
+2, Sunday Roast, 0.924415, 8
+2, yum, 0.38138, 8
+3, early 2000s boom, 0.940752, 0
+3, Lettuce chain, 0.758851, 0
+3, pub goers, 0.741586, 1
+3, great reason, 0.719211, 1
+3, Omni Centre, 0.993155, 2
+3, deluded arsehole scale, 0.919935, 2
+3, proper Indian eatery, 0.884088, 3
+3, real atmosphere, 0.71928, 3
+3, bar, 0.747695, 4
+3, bit, 0.643578, 4
+3, comfy leather, 0.735274, 6
+3, reliable go-to, 0.733541, 6
+3, reasonably priced drinks, 0.936101, 7
+3, comfy sofas, 0.764504, 7
+3, big leather sofas, 0.96068, 8
+3, sweet potato salad, 0.877856, 8
+3, great daily deals, 0.857767, 9
+3, attentive waiter, 0.739074, 9
+4, 7PM, 0.576069, 0
+4, mondays, 0.568936, 0
+4, server, 0.548912, 2
+4, food, 0.672264, 3
+4, means, 0.555951, 3
+4, chicken curry, 0.792772, 6
+4, bar area, 0.731945, 6
+4, comfy seats, 0.778283, 7
+4, meantime, 0.587337, 7
+4, Good place, 0.729791, 8
+4, burgers, 0.572824, 8
+4, 2-for-1 indian entrees, 0.903383, 9
+4, great deal, 0.721834, 9

@@ -1,0 +1,63 @@
+rating, keyword, relevance, bucket
+1, expensive crappy beer, 0.753372, 0
+1, tacky business model, 0.733093, 0
+1, tipsy self-flagellation, 0.597842, 1
+1, cheap beer, 0.583898, 1
+1, villainous lady friend, 0.759531, 2
+1, Big burly men, 0.757451, 2
+1, cover charge, 0.719665, 3
+1, post-menopausal stripper, 0.568547, 3
+1, table, 0.466811, 4
+1, beers, 0.491219, 5
+1, young men, 0.580986, 6
+1, one-time experience, 0.564445, 6
+1, free BRUNCH, 0.57097, 7
+1, morning/early afternoon, 0.567573, 7
+1, strip club, 0.917022, 9
+1, body types, 0.594363, 9
+2, strip club standards, 0.737387, 0
+2, separate cover charge, 0.688693, 0
+2, stereotypical tourist trap, 0.742012, 1
+2, usual routine, 0.539102, 1
+2, weak economy, 0.556684, 2
+2, tourists, 0.348159, 2
+2, Montreal strip clubs, 0.802534, 3
+2, cold tortellini, 0.790665, 3
+2, til, 0.351505, 4
+2, Super Sexe, 0.934931, 5
+2, buffet, 0.413982, 5
+2, city, 0.540152, 6
+2, non-contact club, 0.527293, 6
+2, hot women, 0.572072, 7
+2, small tables, 0.528757, 7
+2, amazing neon, 0.537814, 8
+2, nice change, 0.520889, 8
+3, phantom mezza-mezz, 0.609868, 0
+3, female bloak, 0.594882, 0
+3, onetime entry fee, 0.739116, 2
+3, dollars, 0.547232, 2
+3, sleazy Italian mob, 0.808516, 3
+3, tourist trap, 0.57607, 3
+3, cl*t piercing, 0.580289, 6
+3, great lap dance, 0.930444, 7
+3, backstage area, 0.586765, 8
+3, dances contact, 0.579496, 8
+4, Super Sexe, 0.932169, 0
+4, extra fixed cost, 0.684556, 0
+4, sleazier friends, 0.561053, 1
+4, morose compatriot, 0.548364, 1
+4, Generic Montreal strip, 0.724128, 2
+4, (weekday nights), 0.720288, 2
+4, multiple stages, 0.746156, 3
+4, school, 0.346338, 3
+4, gamut, 0.414421, 4
+4, dancers, 0.370692, 4
+4, strip club, 0.881692, 5
+4, access upstairs, 0.523485, 6
+4, good reason, 0.505445, 6
+4, rowdy Americans, 0.566047, 7
+4, Peel Pub, 0.557516, 7
+4, famous strip club, 0.778269, 8
+4, private dances, 0.501373, 8
+5, Playboy Mansion, 0.962538, 0
+5, Yankees Stadium, 0.907966, 0

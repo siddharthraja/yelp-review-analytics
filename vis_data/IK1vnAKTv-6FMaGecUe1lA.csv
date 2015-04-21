@@ -1,0 +1,52 @@
+rating, keyword, relevance, bucket
+1, Brass Rail, 0.913592, 0
+1, diaper, 0.569573, 0
+1, tap lines, 0.841858, 2
+1, limb, 0.544645, 2
+1, dive bar, 0.893649, 3
+1, bottle, 0.521908, 3
+1, PBR draft, 0.962386, 7
+1, skunkiest beer, 0.791152, 7
+3, impromptu pub crawls, 0.864987, 0
+3, great little stop, 0.785743, 0
+3, school dive bar, 0.909542, 2
+3, cheep frozen pizzas, 0.908465, 2
+3, dive bar, 0.948338, 3
+3, Long bar, 0.637091, 3
+3, nice little dive, 0.8248, 6
+3, Brass Rail, 0.795524, 6
+3, Typical beer selection, 0.850248, 7
+3, Pabst, 0.392246, 7
+3, favorite low-price bourbons, 0.854686, 8
+3, Old Grand Dad, 0.784599, 8
+3, Downtown Champaign, 0.58476, 9
+3, fun place, 0.584165, 9
+4, neon promo signs, 0.788012, 0
+4, soft-tip dartboard, 0.584924, 0
+4, absolute worst place, 0.8248, 1
+4, internet juke box, 0.766855, 1
+4, electronic darts game, 0.731076, 2
+4, quiet students, 0.58151, 2
+4, paneling, 0.357306, 3
+4, Brass Rail, 0.9715, 4
+4, pizza, 0.445364, 5
+4, Hamm, 0.592756, 6
+4, Friday night, 0.572817, 6
+4, good news, 0.556038, 7
+4, impressive selection, 0.551787, 7
+4, great place, 0.521389, 8
+4, kind, 0.343565, 8
+4, excellent rapport, 0.546212, 9
+4, quick wit, 0.540196, 9
+5, fireball, 0.453228, 0
+5, eh, 0.451518, 0
+5, credit card jerkasses., 0.722941, 1
+5, dart, 0.439247, 2
+5, stop, 0.434381, 2
+5, kinda fratty dudes, 0.905802, 3
+5, friday night, 0.623892, 3
+5, chill, 0.448056, 6
+5, fun downtown bar, 0.752924, 7
+5, juke box, 0.602028, 7
+5, sweet older dude, 0.777883, 8
+5, bartenders, 0.454949, 8

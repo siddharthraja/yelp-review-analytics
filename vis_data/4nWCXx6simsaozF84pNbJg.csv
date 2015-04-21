@@ -1,0 +1,23 @@
+rating, keyword, relevance, bucket
+2, fish sauce, 0.565636, 0
+2, ingredients, 0.28899, 0
+2, basically pub food, 0.829909, 1
+2, Menu, 0.253392, 1
+2, Service, 0.258655, 2
+2, chow mein noodles, 0.960706, 6
+2, different alright, 0.652855, 6
+2, stir fry, 0.649328, 7
+2, curry, 0.310479, 7
+3, couple, 0.976611, 0
+3, times, 0.742051, 0
+3, Menu, 0.680564, 3
+3, Drinks, 0.933782, 9
+3, service, 0.670332, 9
+4, calories, 0.604563, 0
+4, meal, 0.567027, 0
+4, server, 0.508179, 6
+4, perfect size, 0.994041, 7
+4, Great service, 0.820464, 7
+4, waffles, 0.617958, 8
+4, light, 0.515809, 8
+4, staff, 0.509833, 9

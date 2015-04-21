@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, big deal, 0.620754, 0
+1, min, 0.393059, 0
+1, burgers, 0.38541, 2
+1, kitchen, 0.376855, 2
+1, ......., 0.743399, 3
+1, wife, 0.538709, 3
+1, waiter, 0.696545, 5
+1, good thing, 0.641323, 6
+1, orders, 0.489485, 6
+1, turkey burger, 0.947605, 7
+1, kids, 0.436862, 7
+1, right thing, 0.606623, 8
+1, mom, 0.378956, 8
+2, Hubby, 0.681233, 0
+2, people, 0.628197, 0
+2, salad bar, 0.80698, 1
+2, biscuits, 0.656845, 1
+2, refill, 0.650409, 2
+2, young guys, 0.786886, 3
+2, menu, 0.611164, 3
+2, waitress, 0.978344, 4
+2, order, 0.605573, 7
+3, steak, 0.657458, 0
+3, checks, 0.646783, 3
+3, paste, 0.625784, 6
+3, potatoes, 0.632731, 7
+3, staff, 0.600171, 7
+3, sampler plate, 0.933529, 8
+3, items, 0.572435, 8
+3, green beans, 0.849629, 9
+4, crack biscuits, 0.560089, 0
+4, Pretzel burger, 0.523422, 1
+4, portobello mushrooms, 0.407397, 1
+4, low calorie meals, 0.698989, 2
+4, ...yum!, 0.947494, 6
+4, salad bar, 0.733184, 6
+4, wonderful bartender, 0.406748, 7
+4, nice variety, 0.333492, 8
+4, sweet potato fries, 0.748349, 9
+4, free burger, 0.519571, 9
+5, unlimited salad bar, 0.926083, 0
+5, bar area, 0.672127, 0
+5, fresh produce, 0.764537, 4
+5, chain restaurant, 0.750369, 4
+5, asparagus, 0.514478, 6
+5, best thing, 0.736631, 8
+5, healthy options, 0.715078, 8
+5, big smile, 0.739598, 9
+5, Hostess, 0.506162, 9

@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+2, york strip steak, 0.898202, 0
+2, big fight night, 0.896236, 0
+2, affliction-wearing douche canoes., 0.906543, 1
+2, ufc fights., 0.730068, 1
+2, towel roll dispenser, 0.880147, 2
+2, silverware, 0.596372, 2
+2, 15 min, 0.729779, 3
+2, time, 0.653232, 3
+2, waitress, 0.871161, 4
+2, friend, 0.664999, 4
+2, philly cheese steak, 0.878156, 6
+2, love-hate relationship., 0.704302, 7
+2, waffle fries, 0.700739, 7
+2, overwhelming saltiness, 0.699508, 8
+3, soccer season party, 0.932824, 0
+3, help, 0.366532, 0
+3, GILBERT OK, 0.801695, 1
+3, bad thing, 0.708579, 1
+3, food tasting, 0.706118, 2
+3, kids, 0.410697, 2
+3, huge group, 0.735062, 6
+3, soccer players, 0.694535, 6
+3, nite fish fry, 0.935404, 7
+3, doubt, 0.391381, 7
+4, video games, 0.636061, 0
+4, food, 0.35687, 0
+4, bad meal, 0.78325, 2
+4, place, 0.36789, 2
+4, young kids, 0.603206, 3
+4, owner, 0.364649, 6
+4, blast, 0.408761, 7
+4, weekend, 0.390722, 7
+4, Philly Cheese steak, 0.960127, 8
+4, super meaty, 0.769112, 8
+5, arcade games, 0.919367, 0
+5, play arcade games, 0.904647, 0
+5, bar section, 0.871207, 2
+5, FREE rides home, 0.852257, 2
+5, different channels, 0.662029, 3
+5, multiple screens, 0.651123, 3
+5, multiple people, 0.892314, 5
+5, food, 0.539667, 5
+5, honey BBQ wings, 0.933395, 6
+5, dozen wings, 0.770604, 6
+5, grilled wings, 0.743118, 7
+5, small groups, 0.686752, 7
+5, celery making, 0.642419, 8
+5, cold drink, 0.637397, 8

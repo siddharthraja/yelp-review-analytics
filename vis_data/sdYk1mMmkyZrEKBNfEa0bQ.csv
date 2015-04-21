@@ -1,0 +1,67 @@
+rating, keyword, relevance, bucket
+1, particular restaurant, 0.580167, 0
+1, High School, 0.565184, 0
+1, trendy neighborhood, 0.853713, 1
+1, Buffalo chicken sandwich, 0.708556, 1
+1, food, 0.976778, 2
+1, pub chips, 0.770013, 2
+1, typical bar food, 0.734981, 3
+1, chain restaurant food, 0.701272, 3
+1, burger, 0.687006, 4
+1, cold air, 0.540013, 6
+1, bartender, 0.354892, 6
+2, multi tv coverage, 0.565533, 0
+2, true Irish pub, 0.559554, 0
+2, sports bar, 0.651109, 1
+2, Terrible food, 0.467054, 1
+2, open face roll, 0.614661, 2
+2, service, 0.545433, 2
+2, basic menu offering, 0.565801, 3
+2, Irish themed sports, 0.559085, 3
+2, food, 0.532835, 4
+2, good service, 0.465724, 4
+2, typical chain restaurant, 0.589736, 6
+2, curly fries, 0.511471, 6
+2, philly steak sandwich, 0.922968, 7
+2, hoagie roll, 0.475109, 7
+2, menu picture, 0.598372, 8
+2, regular lemonade, 0.476466, 8
+3, grilled chicken wrap, 0.927325, 0
+3, Welp, 0.426105, 0
+3, good thing, 0.667821, 2
+3, instance, 0.391925, 2
+3, typical Sysco food, 0.898121, 3
+3, chicken tenders, 0.779271, 3
+3, Ruby Tuesdays, 0.762771, 6
+3, excellent waitress, 0.735397, 6
+3, decent value, 0.727513, 7
+3, ranch dressing, 0.692666, 7
+3, beer selection, 0.697679, 8
+3, salads, 0.395456, 8
+3, consistent service, 0.760894, 9
+3, visit, 0.37384, 9
+4, fried food, 0.657284, 0
+4, waitress, 0.488566, 0
+4, stupid stupid state, 0.995873, 2
+4, Reuben, 0.481659, 2
+4, bar food, 0.618438, 3
+4, ketchup, 0.490925, 3
+4, appitizer sampler, 0.680703, 6
+4, service, 0.501016, 6
+4, curly fries, 0.7678, 7
+4, decent selection, 0.694071, 7
+4, wait staff, 0.774111, 8
+5, new drinks, 0.603604, 0
+5, lighter plate, 0.582902, 0
+5, trouble, 0.352129, 1
+5, chili snob, 0.656559, 3
+5, ost do't, 0.583292, 3
+5, Daughter, 0.421256, 4
+5, special hot dogs, 0.784803, 6
+5, good stuff, 0.554304, 6
+5, great family place, 0.893291, 7
+5, girlfriend, 0.459557, 7
+5, cheeseburger slider appetizer, 0.901622, 8
+5, adult menu, 0.616976, 8
+5, great kids menu, 0.873802, 9
+5, great place, 0.61894, 9

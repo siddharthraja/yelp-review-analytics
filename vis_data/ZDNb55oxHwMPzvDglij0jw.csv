@@ -1,0 +1,30 @@
+rating, keyword, relevance, bucket
+1, sad little dive, 0.9848, 0
+1, sons safe return, 0.983845, 0
+1, noticeable issues, 0.723529, 1
+1, mens bathroom, 0.722059, 1
+1, kate gosselin hair, 0.971366, 2
+1, pub tables, 0.694459, 2
+1, healthy tab, 0.717091, 3
+1, menu, 0.495867, 3
+1, drinks, 0.641947, 4
+1, waitress, 0.922156, 5
+1, kids pizza, 0.688049, 6
+1, bashas, 0.482559, 6
+1, Sunday football, 0.710202, 8
+1, friends, 0.520843, 8
+2, billiards tables, 0.864645, 0
+2, Hmmm, 0.438887, 0
+2, food, 0.715436, 1
+2, eatery, 0.435329, 1
+2, wrong table, 0.82971, 2
+2, customers, 0.344791, 2
+2, smoking, 0.340357, 3
+2, door, 0.336025, 3
+2, kitchen, 0.459519, 5
+2, fries, 0.656446, 6
+2, McDonald, 0.367869, 6
+2, chicken sandwiches, 0.98106, 7
+2, patio, 0.356949, 7
+2, decor, 0.358776, 8
+2, environment, 0.342204, 8

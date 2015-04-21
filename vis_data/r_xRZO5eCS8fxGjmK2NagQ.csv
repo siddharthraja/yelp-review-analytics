@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+2, bread chicken sandwich, 0.95978, 0
+2, flat bread chicken, 0.918632, 0
+2, high ended dinners, 0.599455, 1
+2, menu specials, 0.458424, 1
+2, place, 0.371075, 2
+2, kinks, 0.344702, 2
+2, iced tea, 0.481718, 3
+2, stuffed shrimp, 0.469604, 3
+2, coworker, 0.507989, 5
+2, appetizer, 0.346046, 6
+2, actuality, 0.343938, 6
+2, sweet potato fries, 0.617619, 7
+2, French onion soup, 0.600368, 7
+2, Bridgeville, 0.344346, 8
+2, friend, 0.331103, 8
+2, courteous attention, 0.47641, 9
+2, decor, 0.338858, 9
+3, special occasion place, 0.801216, 0
+3, Pittsburgh chicken salad, 0.794468, 0
+3, omelet station, 0.59588, 1
+3, long hair, 0.572975, 1
+3, original reservation, 0.585243, 2
+3, emergency, 0.348301, 2
+3, lacked flavor, 0.650966, 3
+3, long story, 0.582731, 3
+3, Walnut Grill, 0.983374, 5
+3, casual lunch, 0.61942, 6
+3, wood touches, 0.581805, 6
+3, quick lunch, 0.589094, 7
+3, Damon, 0.443194, 7
+3, happy hour spot, 0.616651, 8
+3, lobster mac, 0.597413, 8
+3, unexpectedly good place, 0.801093, 9
+3, TVs, 0.357942, 9
+4, Thai Pork Mac, 0.613283, 0
+4, long wait, 0.49878, 0
+4, pasta entrees, 0.519785, 1
+4, average ranges, 0.471641, 1
+4, menu, 0.370873, 2
+4, Walnut Grill, 0.490521, 3
+4, parents, 0.365129, 4
+4, island iced teas, 0.928749, 6
+4, sun-dried tomato pasta, 0.689735, 6
+4, fish tacos, 0.74047, 7
+4, heated patio, 0.716417, 7
+4, Serve warm bread, 0.691691, 8
+4, baked sweet potato, 0.656692, 8
+4, tomato basil salad, 0.715864, 9
+4, Nice atmosphere, 0.570752, 9
+5, 50th birthday party, 0.595455, 0
+5, new Walnut Grill, 0.581636, 0
+5, short time, 0.451969, 2
+5, longer waits, 0.443119, 2
+5, sliced chicken, 0.477065, 3
+5, minor issue, 0.448948, 3
+5, Cobb Salad, 0.80408, 6
+5, food, 0.614623, 6
+5, Caprese Salmon Salad, 0.900541, 7
+5, table service, 0.589181, 7
+5, Excellent Cobb Salad, 0.662298, 8
+5, wild mushroom chicken, 0.589831, 8
+5, super attentive, 0.465215, 9
+5, great lunch, 0.449645, 9

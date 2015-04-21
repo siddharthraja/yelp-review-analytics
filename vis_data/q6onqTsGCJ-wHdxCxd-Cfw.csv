@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, door entrance, 0.960698, 0
+1, huge example, 0.882545, 0
+1, waffle houses, 0.831248, 1
+1, little cleaner., 0.731368, 1
+2, grilled chicken sandwich, 0.555574, 0
+2, lunch rush, 0.351048, 0
+2, bit, 0.267548, 1
+2, little lacking, 0.344451, 2
+2, buffalo wings, 0.331511, 2
+2, buffalo chicken sandwich, 0.944625, 3
+2, place, 0.259912, 3
+2, lunch, 0.352212, 4
+2, chicken breast, 0.377928, 6
+2, absolute piss, 0.356422, 6
+2, good reviews, 0.345168, 7
+2, pizza, 0.233649, 7
+2, Awesome environment, 0.353464, 8
+4, em w/ Pepperoni, 0.882139, 0
+4, killer pizza rolls, 0.76966, 0
+4, just-out-of-college scene, 0.714773, 1
+4, nappy nap, 0.710028, 1
+4, sports bar atmosphere, 0.78552, 2
+4, America Stadium, 0.783388, 2
+4, standard pepperoni, 0.789324, 3
+4, exceptional bar food, 0.789198, 3
+4, pepperoni rolls, 0.928061, 4
+4, picasso, 0.781282, 4
+4, Honey Chipolte, 0.921123, 6
+4, good late night, 0.82269, 6
+4, wings Honey Chipolte, 0.858804, 7
+4, traditional Buffalo wings, 0.857442, 7
+4, great place, 0.890504, 8
+4, best chicken wings, 0.834496, 8
+4, post game drinks, 0.773752, 9
+4, good service, 0.734969, 9
+5, average sports bar, 0.904644, 0
+5, red-clad Nebraska fans, 0.902735, 0
+5, yelp review, 0.797509, 1
+5, dull moment, 0.759684, 1
+5, Nebraska fans, 0.908335, 3
+5, terrible frozen pizza, 0.895021, 3
+5, direct center city, 0.889077, 4
+5, Picasso, 0.786119, 4
+5, wings, 0.981266, 5
+5, security guard, 0.896852, 5
+5, Nebraska football fans, 0.911087, 6
+5, delicious wings, 0.856031, 6
+5, Extra crispy, 0.773468, 7
+5, friendly guy, 0.751986, 7
+5, salt-n-pepper wings, 0.887108, 8
+5, Free pool table, 0.885529, 8
+5, win win situation, 0.884649, 9
+5, Good drink specials, 0.881893, 9

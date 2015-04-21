@@ -1,0 +1,89 @@
+rating, keyword, relevance, bucket
+1, Hamburger Works staff, 0.7023, 0
+1, unlimited salad bar, 0.693525, 0
+1, undercooked cold fries, 0.711595, 1
+1, hamburger works, 0.707477, 1
+1, Total sports bar, 0.714438, 2
+1, worst possible way, 0.707884, 2
+1, club soda, 0.941458, 3
+1, borderline dive bar, 0.714709, 3
+1, service, 0.688452, 4
+1, bartender, 0.668053, 4
+1, bar, 0.811088, 5
+1, food, 0.757814, 5
+1, Black tee shirts, 0.660044, 6
+1, rocks glass, 0.606138, 6
+1, golf lunch stop, 0.665022, 7
+1, better service, 0.628292, 7
+1, great food, 0.687245, 8
+1, dollar Mexican beers, 0.655502, 8
+2, great burger place, 0.752273, 0
+2, normal cheese burger, 0.701458, 0
+2, overlooked burger, 0.622854, 1
+2, customer service, 0.547892, 1
+2, red cream soda, 0.76321, 2
+2, Original Hamburger Works, 0.679952, 2
+2, burger mood, 0.651054, 3
+2, old ketchup, 0.561937, 3
+2, burger, 0.927257, 5
+2, fries, 0.749642, 5
+2, onion rings, 0.802431, 6
+2, Border Burger, 0.624503, 6
+2, fiesta burger, 0.655773, 7
+2, condiment bar, 0.654367, 7
+2, tasty burger, 0.731527, 8
+2, dinning room section, 0.559592, 8
+2, good burgers, 0.582549, 9
+2, cool hangout spot, 0.538822, 9
+3, cheap burger joint, 0.481438, 0
+3, pound Hawaiian burger, 0.450801, 0
+3, little bit, 0.364854, 1
+3, burger joint, 0.486531, 2
+3, tastiest burger, 0.403576, 2
+3, Original Hamburger Works, 0.889558, 4
+3, huge burger fan, 0.429944, 4
+3, burger, 0.903418, 5
+3, burgers, 0.538686, 5
+3, regular old burger, 0.466291, 6
+3, bad-memorial-day-BBQ-esque burger, 0.447296, 6
+3, greasy burger place, 0.491067, 7
+3, fiesta burger, 0.420634, 7
+3, good burger, 0.478015, 8
+3, burger places, 0.464305, 8
+3, great burger, 0.455295, 9
+3, better burger places, 0.437636, 9
+4, greasy burger fix, 0.341759, 0
+4, decent burger, 0.333902, 0
+4, large double burger, 0.365001, 1
+4, fast food burger, 0.378737, 2
+4, lb burger, 0.353362, 2
+4, retirement burger, 0.425576, 3
+4, huge burger fan, 0.378712, 3
+4, burger joints, 0.347659, 4
+4, burger, 0.931314, 5
+4, original hamburger works, 0.747936, 5
+4, good burger, 0.545261, 6
+4, Hawaiian Burger, 0.374405, 6
+4, onion rings, 0.427423, 7
+4, great burger classics., 0.398597, 7
+4, burger place, 0.494822, 8
+4, great burger, 0.488373, 8
+4, good quality burger, 0.388495, 9
+4, burger fix, 0.376079, 9
+5, Retirement Burger, 0.745866, 0
+5, typical McDonalds grill, 0.577498, 0
+5, gourmet burger place, 0.745025, 1
+5, non-existent West High, 0.566828, 2
+5, pound bacon burger, 0.719161, 3
+5, bigger burgers, 0.577582, 3
+5, burger place, 0.786619, 4
+5, burger, 0.974727, 5
+5, bar, 0.634025, 5
+5, Hawaiin burger, 0.700837, 6
+5, burgers, 0.669956, 6
+5, great burger, 0.743383, 7
+5, fries, 0.729003, 7
+5, best burger, 0.810362, 8
+5, juicy burger, 0.735705, 8
+5, great back-yard-type-char-grilled burger, 0.746536, 9
+5, burger shop, 0.727185, 9

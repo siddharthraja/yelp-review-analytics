@@ -1,0 +1,43 @@
+rating, keyword, relevance, bucket
+1, long wait, 0.794019, 0
+1, date, 0.42525, 0
+1, bars, 0.417593, 1
+1, huge deal, 0.815102, 2
+1, kitchen, 0.689811, 2
+1, Beer selection, 0.932116, 3
+1, previous business, 0.794014, 3
+1, pitchers, 0.872461, 5
+1, pitcher, 0.599801, 6
+1, pints, 0.44457, 6
+1, customer, 0.42174, 8
+4, Fleetwood Mac cover, 0.917773, 0
+4, bar tender Katie, 0.877861, 0
+4, hell, 0.363008, 1
+4, Cock Diesel, 0.682625, 2
+4, Snoop Dog, 0.658136, 2
+4, Country Rock bar, 0.893899, 3
+4, dance floor, 0.611833, 3
+4, skinny fries, 0.780662, 6
+4, North/West Phoenix, 0.660652, 6
+4, POS systems, 0.620328, 7
+4, décor, 0.41655, 7
+4, great fit, 0.669427, 8
+4, CD, 0.359814, 8
+4, fresh buns, 0.63392, 9
+4, Good flavor, 0.609674, 9
+5, outdoor balcony patio, 0.882273, 0
+5, Diesel Burger, 0.724303, 0
+5, worst reviews, 0.724942, 1
+5, trashy place, 0.722692, 1
+5, rock/country music videos, 0.882993, 2
+5, big screen tvs, 0.87983, 2
+5, large open dance, 0.856558, 3
+5, drunk customer, 0.731322, 3
+5, music videos, 0.929493, 5
+5, place, 0.785663, 5
+5, good experience, 0.710392, 7
+5, wings, 0.591703, 7
+5, great weekend night, 0.85731, 8
+5, fries YUM, 0.760627, 8
+5, perfect temperature, 0.692713, 9
+5, ipas, 0.549154, 9

@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, worst dining experience, 0.969917, 0
+1, terrible experience, 0.817577, 0
+1, spinach, 0.81241, 1
+1, food, 0.533902, 1
+1, green salad, 0.762924, 2
+1, lettuce rolls, 0.75578, 2
+1, good thing, 0.731094, 3
+1, choices, 0.489271, 7
+1, pizza, 0.482792, 7
+2, decent bite, 0.653444, 0
+2, hockey game, 0.565287, 0
+2, glorified sports bar, 0.961513, 2
+2, entrees fool, 0.705078, 2
+2, buzzwords, 0.402563, 3
+2, Honey Garlic, 0.630295, 6
+2, Cajun wings, 0.626669, 6
+2, service local beers, 0.819362, 8
+2, beer selection, 0.57868, 8
+3, craft beer list, 0.877677, 0
+3, gastro pub, 0.65988, 0
+3, new bar, 0.642832, 2
+3, sports bar, 0.624741, 2
+3, entering, 0.378964, 3
+3, wellignton beers, 0.668594, 6
+3, st beers, 0.656383, 6
+3, mainstream craft beers, 0.927909, 7
+3, Saturday evening, 0.683603, 7
+3, bartender, 0.387363, 8
+3, goodness, 0.379075, 8
+3, yummy, 0.388197, 9
+4, frozen patties, 0.939685, 3
+4, gastro, 0.596798, 8
+4, burger, 0.550794, 8
+4, great place, 0.77364, 9
+4, drink, 0.482729, 9
+5, tiny buffalo wings, 0.837469, 0
+5, local haunt, 0.639973, 0
+5, kitchener rangers arena, 0.828334, 2
+5, Closest bar, 0.648368, 2
+5, style monster wings, 0.837609, 3
+5, chain pizzerias, 0.638895, 3
+5, sweet Vanilla Porter, 0.773712, 6
+5, light house beer, 0.770044, 6
+5, favourite selection, 0.613412, 7
+5, crispy, 0.545081, 7
+5, Owner Liam, 0.668676, 8
+5, home thanks, 0.656346, 8
+5, amazing fresh food, 0.921736, 9
+5, Great fresh food, 0.889969, 9

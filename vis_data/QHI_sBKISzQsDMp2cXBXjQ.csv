@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, famous fish sandwiches, 0.888389, 0
+1, tastes, 0.479183, 0
+1, musical events, 0.670364, 1
+1, waitress, 0.481997, 1
+1, oyster sandwich, 0.960255, 2
+1, art class, 0.635901, 2
+1, certain items, 0.690861, 3
+1, fried food, 0.678852, 3
+1, Fri. night, 0.650823, 6
+1, fries, 0.468987, 6
+3, quick service, 0.667067, 0
+3, bar food, 0.654305, 0
+3, crowd, 0.475893, 1
+3, street, 0.440454, 1
+3, standard dive bar, 0.916017, 3
+3, past few decades, 0.698593, 3
+3, place, 0.484699, 5
+3, famous fish sandwiches, 0.904883, 6
+3, Hotel House Band, 0.83029, 7
+3, good ol, 0.700097, 7
+3, fun atmosphere, 0.667629, 9
+4, famous fish sandwich, 0.68336, 0
+4, bar fish sandwich, 0.678722, 0
+4, old style bar, 0.577994, 1
+4, late night bar, 0.577396, 1
+4, hip little area, 0.573656, 2
+4, yadda yadda yadda, 0.565484, 2
+4, da burgh, 0.611269, 3
+4, red fish, 0.563945, 3
+4, Nied, 0.642039, 4
+4, fish sandwich, 0.973498, 5
+4, Lent fish sandwich, 0.710152, 6
+4, fave fish sandwich, 0.676943, 6
+4, best fish sandwich, 0.75932, 7
+4, best sandwich, 0.63714, 7
+4, damned GOOD Reuben, 0.575243, 8
+4, feisty old lady, 0.564397, 8
+4, good fish sandwich, 0.692557, 9
+5, famous fish sandwich, 0.778019, 0
+5, building states, 0.523948, 0
+5, Punxsutawney, 0.36651, 1
+5, shuttle, 0.348962, 1
+5, table, 0.345383, 2
+5, aside, 0.363414, 3
+5, fish sandwich, 0.921741, 4
+5, outdoor fundraiser, 0.564687, 6
+5, Nied, 0.503309, 6
+5, large sandwich, 0.619557, 7
+5, good time, 0.524662, 7

@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, parrot head, 0.509265, 0
+1, absolute worst food, 0.505437, 0
+1, food poisoning, 0.49826, 1
+1, taco salad, 0.494914, 1
+1, actual place- food, 0.54256, 2
+1, waitress, 0.511893, 2
+1, nachos, 0.547404, 3
+1, good place, 0.507531, 3
+1, food, 0.912332, 4
+1, place, 0.830933, 4
+1, jimmy buffet, 0.662226, 5
+1, table, 0.653092, 5
+1, potential food borne, 0.513344, 6
+1, restaurant, 0.504248, 6
+1, Jimmy Buffett, 0.516954, 7
+1, loud R&B music, 0.491051, 7
+1, place cost, 0.486424, 8
+1, Las Vegas Strip, 0.479072, 8
+1, High priced food, 0.509541, 9
+2, live music, 0.495717, 0
+2, good buuut way, 0.489761, 0
+2, ......, 0.524498, 2
+2, sour apple margaritas, 0.506469, 2
+2, Jimmy Buffett, 0.624345, 3
+2, volcano nachos, 0.579078, 3
+2, food, 0.915812, 4
+2, drinks, 0.649316, 4
+2, place, 0.807676, 5
+2, margaritas, 0.707772, 5
+2, Jimmy Buffett fan, 0.517662, 6
+2, huge margarita, 0.514622, 6
+2, Jimmy Buffet fan, 0.526062, 7
+2, Key West, 0.52034, 7
+2, great place, 0.497663, 8
+2, great margaritas, 0.491428, 8
+2, LOVE margaritas, 0.502037, 9
+2, good rendezvous point, 0.498463, 9
+3, volcano nachos, 0.543654, 0
+3, killer Perfect Margarita, 0.512324, 0
+3, typical bar food, 0.52781, 2
+3, good time drinking, 0.508291, 2
+3, good time, 0.568655, 3
+3, average food, 0.508905, 3
+3, time, 0.649393, 4
+3, margaritas, 0.641749, 4
+3, food, 0.934072, 5
+3, place, 0.823016, 5
+3, Jimmy Buffet, 0.683631, 6
+3, fun, 0.575698, 6
+3, good place, 0.517831, 7
+3, Jimmy Buffet music, 0.515182, 7
+3, perfect margarita, 0.584217, 8
+3, great place, 0.525806, 8
+3, good drinks, 0.506461, 9
+4, volcano size nachos, 0.630918, 0
+4, food court food, 0.626682, 2
+4, appetiser nachos, 0.614996, 2
+4, large margarita, 0.622465, 3
+4, margarita, 0.843511, 4
+4, jimmy buffet, 0.80635, 4
+4, place, 0.963209, 5
+4, nachos, 0.910891, 5
+4, margaritas, 0.946996, 6
+4, volcano nachos, 0.883097, 6
+4, great time, 0.644306, 7
+4, giant margarita blender, 0.636894, 7
+4, fun, 0.713454, 8
+4, good place, 0.69404, 8
+4, fun place, 0.638287, 9
+4, awesome margaritas, 0.623117, 9
+5, CA Volcano Nachos, 0.629303, 0
+5, nachos volcano quand, 0.614942, 0
+5, yummy volcano nachos, 0.618651, 1
+5, good place, 0.62341, 3
+5, volcano nachos, 0.712098, 4
+5, place, 0.926635, 5
+5, food, 0.85188, 5
+5, time, 0.778574, 6
+5, margaritas, 0.77519, 6
+5, good time, 0.680342, 7
+5, best nachos, 0.655898, 7
+5, great time, 0.736316, 8
+5, great food, 0.725956, 8
+5, great place, 0.669375, 9
+5, great little place, 0.653394, 9

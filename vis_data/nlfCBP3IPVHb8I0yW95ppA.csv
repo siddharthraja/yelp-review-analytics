@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, small bar lounge, 0.632662, 0
+1, serviceable service, 0.472653, 0
+1, Bar flat screen, 0.640861, 1
+1, free drink tickets, 0.623641, 1
+1, bar, 0.989589, 2
+1, City Bar, 0.949326, 2
+1, waitress, 0.642936, 3
+1, drink tickets, 0.634569, 3
+1, drinks, 0.76279, 4
+1, service, 0.631809, 4
+1, Aria, 0.528224, 5
+1, pinot noir wine, 0.589624, 6
+1, great options, 0.436016, 6
+1, Jean Phillipe Patisserie, 0.614811, 7
+1, absolute favorite casinos, 0.542159, 7
+1, better places, 0.434374, 8
+2, Mediocre drinks, 0.611343, 0
+2, worst drink, 0.572878, 0
+2, dark wood finish, 0.641823, 1
+2, low star count, 0.614196, 1
+2, bar, 0.856021, 2
+2, cell phone reception, 0.649855, 2
+2, City Bar, 0.665357, 3
+2, nice banana aroma, 0.606465, 3
+2, drinks, 0.907197, 4
+2, drink, 0.778276, 5
+2, service, 0.605598, 5
+2, fancy pants hotel, 0.61499, 6
+2, Overall experience, 0.52186, 6
+2, City Center, 0.53701, 7
+2, non-alchoholic drinks, 0.614525, 8
+2, Peach Drink..It, 0.52879, 8
+2, free drink vouchers, 0.676447, 9
+2, quick drink, 0.57688, 9
+3, post club goers, 0.730004, 0
+3, OK classy bar, 0.719436, 0
+3, bar food, 0.591037, 1
+3, Sin City, 0.557166, 1
+3, various drunken states, 0.969379, 2
+3, roughly 4-5 parties, 0.714797, 2
+3, casino floor bars, 0.686252, 3
+3, good drinks, 0.596301, 3
+3, Vegas prices, 0.591307, 4
+3, girls, 0.482875, 4
+3, bar, 0.770232, 5
+3, Aria, 0.694615, 6
+3, great job, 0.591942, 6
+3, Fun little place, 0.710317, 7
+3, attentive service, 0.585489, 7
+3, little cozy place, 0.768065, 8
+3, great reference point, 0.708029, 8
+3, lounge drink, 0.579757, 9
+3, great view, 0.569044, 9
+4, favorite bar, 0.428965, 0
+4, nice place, 0.428247, 0
+4, Bar Moderno, 0.727707, 1
+4, bar clients, 0.436438, 1
+4, lower reviews, 0.374652, 2
+4, Friday night, 0.365124, 2
+4, extra alcohol, 0.397524, 3
+4, aria, 0.386552, 3
+4, city bar, 0.892573, 4
+4, people, 0.449961, 4
+4, bar, 0.988338, 5
+4, drinks, 0.5423, 5
+4, average reviews, 0.393994, 6
+4, deliciously fruity, 0.399809, 7
+4, ..comfortable sofas, 0.388489, 7
+4, pretty fun time, 0.586354, 8
+4, great time, 0.538365, 8
+4, Nice furniture, 0.420049, 9
+4, fruity drink, 0.414711, 9
+5, triple tequila, 0.72697, 0
+5, Goodtimes, 0.47401, 0
+5, quick pregamble drink, 0.981142, 6
+5, Vegas Baby, 0.625296, 6
+5, bartender Nikki, 0.823851, 7
+5, great description, 0.59279, 7
+5, good service, 0.616964, 8
+5, Awesome place, 0.666359, 9
+5, great vibe, 0.652489, 9

@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, Yelpy Award night, 0.950302, 0
+1, big take-out order, 0.860489, 0
+1, usual line, 0.655483, 1
+1, bad experience, 0.643456, 1
+1, waitress, 0.766265, 2
+1, rude customers, 0.694904, 2
+1, wrong table, 0.658235, 3
+1, people, 0.574338, 3
+1, tables, 0.496082, 5
+1, unusual wait time, 0.898586, 6
+1, heck, 0.743581, 6
+1, good time, 0.680471, 7
+1, darn world, 0.685177, 8
+2, new staff, 0.630064, 0
+2, crab cakes, 0.503762, 0
+2, service, 0.725382, 1
+2, Philly cheese steak, 0.634191, 1
+2, karaoke joints, 0.510004, 2
+2, fastfood nightmare, 0.495169, 2
+2, food, 0.901151, 3
+2, local fast food, 0.636401, 3
+2, waitress, 0.521119, 4
+2, drinks, 0.469227, 4
+2, place, 0.873808, 5
+2, better experiences, 0.464438, 6
+2, nice outdoor patio, 0.664682, 7
+2, amazing chili, 0.498441, 7
+2, fun place, 0.506181, 8
+2, Good place, 0.4799, 8
+2, new karaoke guy, 0.606305, 9
+2, nice venue, 0.459292, 9
+3, great bar food, 0.787672, 0
+3, Nice bar layout, 0.756387, 0
+3, Adequate bar food, 0.775963, 2
+3, average bar food, 0.764653, 2
+3, bar food, 0.892349, 3
+3, best bar food, 0.792759, 3
+3, fried pickles, 0.753821, 4
+3, food, 0.99685, 5
+3, bar, 0.90357, 5
+3, place, 0.969114, 6
+3, Jackalope Jack, 0.842696, 6
+3, good place, 0.765758, 7
+3, Saturday night, 0.732568, 7
+3, pretty cool place, 0.762278, 8
+3, brunch menu, 0.740807, 8
+3, pretty good job, 0.802673, 9
+3, decent hangout place, 0.744252, 9
+4, good bar food, 0.881963, 0
+4, bar food menu, 0.845894, 0
+4, epic bar games, 0.796072, 1
+4, pretty busy street, 0.79244, 1
+4, good bar spot, 0.846661, 2
+4, average bar food, 0.81923, 3
+4, pretty decent beer, 0.807063, 3
+4, bar, 0.994955, 4
+4, bar food, 0.967933, 4
+4, place, 0.944629, 5
+4, night, 0.838079, 5
+4, food, 0.972434, 6
+4, jacks, 0.875539, 6
+4, good neighborhood bar, 0.838153, 7
+4, good beer, 0.834012, 7
+4, good food, 0.83301, 8
+4, good time, 0.824479, 8
+4, pretty good hangout, 0.821783, 9
+4, nice big bar, 0.820816, 9
+5, Thursday night karaoke, 0.755856, 0
+5, regular night spots, 0.736737, 0
+5, extra little flavor, 0.687116, 1
+5, Oh.. crap, 0.616942, 1
+5, icky crowded bar, 0.745879, 2
+5, best friend Hollie, 0.698148, 2
+5, place, 0.943095, 5
+5, food, 0.816896, 6
+5, Bullet Point Style, 0.734801, 6
+5, tater tots, 0.740603, 7
+5, avocado chicken salad, 0.721224, 7
+5, good food, 0.735797, 8
+5, great time, 0.725779, 8
+5, awesome place, 0.737339, 9
+5, best food, 0.630385, 9

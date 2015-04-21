@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, bottle service menu, 0.806917, 0
+1, NORMAL Great view, 0.749379, 0
+1, terribly overpriced drinks, 0.718317, 1
+1, rib eye, 0.71763, 1
+1, bar, 0.741281, 2
+1, individual glasses, 0.730516, 2
+1, entire bottle, 0.748787, 3
+1, kick-ass cocktail waitress, 0.744294, 3
+1, bottle, 0.93909, 4
+1, foundation room, 0.84567, 4
+1, people, 0.7214, 5
+1, guy, 0.686741, 5
+1, place, 0.830984, 6
+1, smallest bottle, 0.721516, 6
+1, médium rare rack, 0.719781, 7
+1, great view, 0.825292, 8
+1, exclusive members-only club, 0.723947, 8
+2, new york, 0.656428, 0
+2, old school hip, 0.653247, 0
+2, carpeted dingy floors, 0.657551, 1
+2, locals night, 0.596547, 1
+2, incident report, 0.699775, 2
+2, appeal Foundation Room, 0.651613, 2
+2, floor playing house, 0.657166, 3
+2, good thing, 0.653431, 3
+2, foundation room, 0.9452, 4
+2, place, 0.770464, 4
+2, Vegas, 0.735771, 5
+2, people, 0.623539, 5
+2, view, 0.788472, 6
+2, juicy baked scallops, 0.64258, 6
+2, door man, 0.710616, 7
+2, free admission cards, 0.648616, 7
+2, best view, 0.661878, 8
+2, Vegas nightlife scene, 0.655835, 8
+2, nice view, 0.662584, 9
+2, Mandalay Bay, 0.661443, 9
+3, Mandalay Bay Hotel, 0.434795, 0
+3, particular Foundation Room, 0.430966, 0
+3, insanely overpriced place, 0.441804, 1
+3, uncharacteristically free bonus, 0.414492, 1
+3, expensive ice drink, 0.415888, 2
+3, smaller room, 0.411868, 2
+3, main lounge, 0.400764, 3
+3, plastic-wrapped disposable mouthpieces, 0.400463, 3
+3, people, 0.429107, 4
+3, place, 0.671932, 5
+3, drinks, 0.507288, 5
+3, view, 0.876806, 6
+3, service, 0.419295, 6
+3, foundation room, 0.985823, 7
+3, Mandalay Bay, 0.712224, 7
+3, Blues Foundation Room, 0.513882, 8
+3, strip, 0.468458, 8
+3, Foundation Room members, 0.422154, 9
+3, great private space, 0.407931, 9
+4, hip hop, 0.492501, 3
+4, rooftop bar view, 0.455822, 3
+4, foundation room, 0.93539, 5
+4, drinks, 0.526634, 5
+4, view, 0.662707, 6
+4, place, 0.614866, 6
+4, Mandalay Bay, 0.755676, 7
+4, las vegas strip, 0.499693, 7
+4, best view, 0.519195, 8
+4, Mandalay Bay sign, 0.495972, 8
+4, great place, 0.511796, 9
+4, amazing view, 0.478035, 9
+5, Foundation Room Restaurant, 0.571744, 0
+5, Las Vegas life, 0.543899, 0
+5, place, 0.673333, 5
+5, vegas, 0.644526, 5
+5, foundation room, 0.955137, 6
+5, mandalay bay, 0.809124, 6
+5, best view, 0.622367, 7
+5, hob foundation room, 0.582816, 7
+5, amazing view, 0.626166, 8
+5, great place, 0.597873, 8
+5, mandalay bay hotel, 0.568175, 9
+5, Foundation Room support, 0.564989, 9

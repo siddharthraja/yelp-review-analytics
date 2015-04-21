@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, mum ordered steak, 0.919969, 0
+1, mum ordered fish, 0.842439, 0
+1, new ones, 0.55694, 1
+1, anti climax, 0.571526, 2
+1, price, 0.455199, 2
+1, small dining area, 0.690745, 3
+1, peoples plates, 0.564288, 3
+1, quiet Friday, 0.593318, 6
+1, lunchtime, 0.44809, 6
+1, pics, 0.43075, 7
+1, nice jus, 0.581579, 8
+1, black pudding, 0.573532, 8
+2, Halloumi Burger, 0.83901, 0
+2, Jennie, 0.444218, 0
+2, charmingly bunglesome waiter, 0.948655, 1
+2, pallid salad, 0.6736, 1
+2, negative points, 0.569882, 2
+2, less-than-friendly barstaff, 0.559256, 2
+2, bread, 0.206646, 3
+2, meal, 0.205158, 3
+2, uber-nervous waiter, 0.722752, 7
+2, great spot, 0.616836, 7
+2, lowkey Valentines night, 0.95139, 8
+2, burgers, 0.241815, 8
+3, younger crowd destination, 0.97442, 0
+3, old man, 0.639666, 0
+3, place, 0.449809, 3
+3, weekdays, 0.409162, 3
+3, live music, 0.834131, 4
+3, friendly live folk, 0.883709, 7
+3, jazz sort, 0.657922, 7
+3, pretty cool layout, 0.915048, 8
+4, live music nights, 0.730242, 0
+4, Japanese single malt, 0.72095, 0
+4, past Reverie, 0.764564, 2
+4, dirty old men, 0.708669, 2
+4, wee bit, 0.777324, 3
+4, wee bit naff, 0.724993, 3
+4, place, 0.845501, 4
+4, reverie, 0.916787, 5
+4, food, 0.744292, 5
+4, Reverie Bar, 0.822801, 6
+4, sticky toffee pudding, 0.776299, 6
+4, live music, 0.83953, 7
+4, big window booths, 0.726197, 7
+4, great place, 0.83404, 8
+4, great atmosphere, 0.729852, 8
+4, Good cheery atmosphere, 0.739942, 9
+4, genuinely enjoyable place, 0.731963, 9
+5, music many nights, 0.963448, 6
+5, pub menu, 0.937654, 8
+5, Great selection, 0.745531, 8

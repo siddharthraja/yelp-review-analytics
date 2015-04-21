@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+2, dine-in patrons, 0.922693, 0
+2, entire place, 0.831786, 0
+2, Groupon privileges, 0.775487, 1
+2, husband, 0.470005, 1
+2, Kabob House, 0.763419, 2
+2, obscure rap, 0.733445, 2
+2, music, 0.496847, 4
+2, hookah patrons, 0.968972, 6
+2, eggplant appetizer, 0.819975, 6
+2, entire staff, 0.72017, 7
+2, food, 0.595529, 7
+2, good cleaning, 0.742452, 8
+2, decor, 0.467457, 8
+3, typical Americanized shish-kabobs, 0.966855, 0
+3, native tongue, 0.852983, 0
+3, ground-beef-style ones, 0.789314, 2
+3, flat skewer, 0.765825, 2
+3, odd twist, 0.836877, 3
+3, meat, 0.732145, 6
+3, items, 0.611684, 6
+3, Persian-style kabobs, 0.807941, 7
+4, Persian Hot Tea, 0.931263, 0
+4, ground beef kebabs, 0.71895, 0
+4, Persian lavash bread, 0.850935, 1
+4, overly syrupy version, 0.684395, 1
+4, Dude, 0.257128, 2
+4, Persian restaurants, 0.819901, 3
+4, Persian food, 0.638907, 3
+4, eggplant dish, 0.850989, 5
+4, Belly Dancers, 0.497508, 6
+4, feta, 0.333403, 6
+4, ice cream, 0.900834, 7
+4, Persian Ice Cream, 0.876065, 7
+4, Persian restaurant, 0.589334, 8
+4, Eggplant dip, 0.52171, 8
+4, Beef Kabob, 0.50662, 9
+5, large selection vegetarian, 0.980529, 0
+5, cucumber salads, 0.738017, 0
+5, non meat dishes, 0.991507, 2
+5, grape leaves, 0.700093, 3
+5, middle eastern music, 0.892194, 6
+5, busy night, 0.678764, 6
+5, pillow clad booths, 0.955189, 7
+5, spiced chai, 0.737476, 7
+5, Great food, 0.708691, 8
+5, delicious hookahs, 0.684614, 8
+5, fantastic atmosphere, 0.733691, 9
+5, decor, 0.45808, 9

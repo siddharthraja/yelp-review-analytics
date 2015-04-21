@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, dark Brown color, 0.820414, 0
+1, super salty, 0.649101, 0
+1, Terrible service, 0.669789, 1
+1, chips, 0.547036, 1
+1, new steak, 0.684885, 2
+1, service, 0.678795, 2
+1, long time, 0.905344, 3
+1, Cream spinach, 0.652003, 3
+1, applebees, 0.639257, 4
+1, money, 0.634184, 4
+1, multiple staff members, 0.856705, 6
+1, eye contact, 0.65732, 6
+1, spinach artichoke Dip, 0.864968, 7
+1, Burger King, 0.644824, 7
+2, boneless wings, 0.83985, 0
+2, PTA meeting, 0.725019, 0
+2, sodium fatty foods, 0.843754, 1
+2, compelling reason, 0.69285, 1
+2, Bourbon Chicken, 0.741003, 2
+2, Ricky-Bobby thing, 0.69361, 2
+2, hubby, 0.749604, 3
+2, saving grace, 0.689726, 3
+2, big fan, 0.679454, 4
+2, shrimp, 0.599644, 4
+2, cheese chicken penne, 0.930607, 6
+2, Bourbon Street Chicken, 0.888208, 6
+2, steak quesadilla thing, 0.954436, 7
+2, Fiesta Lime Chicken, 0.876245, 7
+3, food, 0.618543, 3
+3, pictures, 0.611369, 3
+3, kinda, 0.97709, 7
+3, phase, 0.79358, 7
+4, food, 0.70546, 0
+4, bit, 0.919542, 3
+4, Writer, 0.724546, 3
+5, good rating, 0.644509, 0
+5, server, 0.527938, 0
+5, little cheese, 0.724492, 2
+5, phone number, 0.687744, 2
+5, star rating, 0.904529, 3
+5, Applebees, 0.602534, 3
+5, survey, 0.776631, 5
+5, time, 0.534056, 5
+5, lunch menu, 0.75888, 6
+5, wife, 0.479848, 6
+5, overbearing, 0.504778, 7
+5, suggestion, 0.475221, 7
+5, m&C, 0.465791, 8

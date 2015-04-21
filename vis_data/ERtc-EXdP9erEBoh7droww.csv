@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+2, legitimate complaint, 0.547772, 0
+2, local bar, 0.498071, 0
+2, longtime goto neighborhood, 0.825013, 1
+2, ounce mug., 0.592547, 1
+2, great mugs, 0.526583, 2
+2, bad guy, 0.518735, 2
+2, local craft beer, 0.934803, 4
+2, craft beer selection, 0.657613, 7
+2, delicious meals, 0.545366, 7
+3, domestic beer, 0.854632, 0
+3, blue collar dudes, 0.714362, 0
+3, smug judgmental snob, 0.738336, 1
+3, little bar, 0.596414, 1
+3, decent neighborhood bar, 0.76583, 2
+3, Pub Crawl Stop, 0.750128, 2
+3, rail pub crawl, 0.76019, 3
+3, Pool tables, 0.600388, 3
+3, light rail, 0.962991, 5
+3, burgers, 0.480018, 5
+3, large beer, 0.662024, 6
+3, best place, 0.61592, 6
+3, specials Fine place, 0.748714, 7
+3, light rail housing, 0.724269, 7
+3, great bar tenders, 0.770264, 8
+3, great dive bar, 0.768732, 8
+3, fun convenient place, 0.802056, 9
+3, authentic old-fashioned dive, 0.722928, 9
+4, purveyor bar food, 0.834721, 0
+4, baseball drinky drink, 0.815108, 0
+4, good bar food, 0.888861, 2
+4, little bar, 0.765489, 2
+4, Typical sports bar, 0.829921, 3
+4, total dive bar, 0.824139, 3
+4, dive bar, 0.964032, 4
+4, spring training, 0.947232, 6
+4, Nice dive bar, 0.854048, 6
+4, good selection, 0.982789, 7
+4, super chill place, 0.822014, 7
+4, green chili, 0.883128, 8
+4, great time, 0.880798, 8
+4, pretty good food, 0.843516, 9
+4, local/Arizona craft beers, 0.791583, 9
+5, great bar food, 0.655799, 0
+5, shuffle board, 0.635746, 0
+5, hipster foodie snob, 0.521185, 1
+5, regular bar food, 0.587399, 2
+5, light rail, 0.527135, 2
+5, bar food, 0.774476, 3
+5, good bar food, 0.611051, 3
+5, sports bar, 0.614158, 4
+5, yelp, 0.546861, 4
+5, bar, 0.9038, 5
+5, place, 0.879315, 5
+5, spring training, 0.666346, 6
+5, good time, 0.604, 6
+5, great dive bar, 0.660332, 7
+5, jalapeno tater tots, 0.643188, 7
+5, great place, 0.634628, 8
+5, great beer, 0.617966, 8
+5, great local beer, 0.591643, 9
+5, Great selection, 0.556962, 9

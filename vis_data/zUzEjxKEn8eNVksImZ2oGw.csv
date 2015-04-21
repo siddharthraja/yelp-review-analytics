@@ -1,0 +1,92 @@
+rating, keyword, relevance, bucket
+1, n't restaurant tables, 0.464158, 0
+1, locations downtown, 0.430631, 0
+1, seitan tacos, 0.536261, 1
+1, horrible service, 0.450441, 1
+1, tofu tacos, 0.497417, 2
+1, main waiting area, 0.421014, 2
+1, Holy expensive tacos, 0.558413, 3
+1, papas tacos, 0.506412, 3
+1, service, 0.715375, 4
+1, table, 0.602639, 4
+1, tacos, 0.923869, 5
+1, drinks, 0.747619, 5
+1, food, 0.791195, 6
+1, fish tacos, 0.686911, 6
+1, Chorizo tacos, 0.570707, 7
+1, staff members, 0.416113, 7
+1, high hopes, 0.432023, 8
+1, flawless friendly service, 0.431951, 8
+2, chorizo tacos, 0.53708, 0
+2, totally rude bartender, 0.535882, 0
+2, drink orders, 0.611739, 1
+2, pork tacos, 0.594796, 1
+2, Corner Hotel, 0.527477, 2
+2, mad mex jr, 0.520695, 2
+2, waitress, 0.581517, 3
+2, people, 0.539736, 3
+2, food, 0.779774, 4
+2, place, 0.763915, 4
+2, corner cantina, 0.930528, 5
+2, bar, 0.633284, 5
+2, pretty tasty drink, 0.545748, 6
+2, margaritas came-no water, 0.542245, 6
+2, better tacos, 0.565507, 7
+2, outdoor patio, 0.547387, 7
+2, patio, 0.741241, 8
+2, outdoor space, 0.53773, 8
+2, tasty gourmet tacos, 0.609348, 9
+2, Yelp 4-star experience, 0.531054, 9
+3, seitan tacos, 0.654142, 0
+3, mahi mahi tacos, 0.633066, 0
+3, Mexican food, 0.507081, 1
+3, Corner Cantina experience, 0.505523, 1
+3, fish tacos, 0.769552, 2
+3, pork belly tacos, 0.719529, 2
+3, different tacos, 0.614242, 3
+3, indoor bar area, 0.505774, 3
+3, tacos, 0.949922, 4
+3, place, 0.794718, 4
+3, food, 0.757558, 5
+3, drinks, 0.722788, 5
+3, pork tacos, 0.651118, 6
+3, roasted pork tacos, 0.64417, 6
+3, taco stand/truck-quality tacos, 0.633769, 7
+3, tastier tacos, 0.602623, 7
+3, favorite fish tacos, 0.622716, 8
+3, tasty tacos, 0.61929, 8
+3, outdoor seating area, 0.613723, 9
+3, great place, 0.527005, 9
+4, City type tacos, 0.726044, 0
+4, Mahi Mahi tacos, 0.724912, 0
+4, vegetarian tacos, 0.687781, 2
+4, non-Mexican Mexican food, 0.59832, 2
+4, fis tacos, 0.678578, 3
+4, tijuana street dog, 0.645389, 3
+4, Corner Cantina, 0.751734, 4
+4, Mexican food, 0.731907, 4
+4, tacos, 0.991606, 5
+4, pork belly, 0.884469, 5
+4, pork belly tacos, 0.847283, 6
+4, place, 0.841651, 6
+4, seitan tacos, 0.766516, 7
+4, decent tacos, 0.728749, 7
+4, amazing tacos, 0.71781, 8
+4, Dos Equis, 0.67001, 8
+5, Mexican-American style tacos, 0.674162, 0
+5, half price tacos, 0.672794, 0
+5, fish tacos, 0.616498, 2
+5, fast food chain, 0.530969, 2
+5, pork belly tacos, 0.787768, 3
+5, dive bar prices, 0.535397, 3
+5, outdoor bar, 0.506481, 4
+5, tacos, 0.937757, 5
+5, place, 0.781374, 5
+5, drinks, 0.700578, 6
+5, street cart tacos, 0.670532, 6
+5, Steak tacos, 0.622301, 7
+5, carne tacos, 0.61785, 7
+5, amazing Tacos, 0.653072, 8
+5, various tacos, 0.614421, 8
+5, great tacos, 0.635183, 9
+5, tasty tacos, 0.61659, 9

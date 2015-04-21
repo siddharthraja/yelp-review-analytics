@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, restaurant stinks, 0.908051, 0
+1, cigarette smoke, 0.899524, 0
+1, husbands Grandmother, 0.940913, 1
+1, restaurant many times, 0.860831, 1
+1, food hmmm, 0.866371, 2
+1, huge sign, 0.835415, 2
+1, Michaels, 0.701903, 3
+1, coincidence, 0.587022, 3
+1, food, 0.996154, 5
+1, non-smoking section, 0.909651, 6
+1, ash tray, 0.882622, 8
+1, good food, 0.824471, 8
+1, good meal, 0.832852, 9
+1, good money, 0.813981, 9
+2, non-smoking banquet room, 0.873534, 0
+2, Crab Stuffed Shrimp, 0.832914, 0
+2, homemade soup, 0.688329, 1
+2, little dumplings, 0.659356, 1
+2, warning sign, 0.651975, 2
+2, Saturday night, 0.642425, 2
+2, food prices, 0.624343, 3
+2, grandmother, 0.526413, 3
+2, waitress, 0.537208, 4
+2, family, 0.552259, 5
+2, parents 25th Anniversary, 0.902601, 6
+2, cranberry juice, 0.649854, 6
+2, twice baked potatoes, 0.805026, 7
+2, water refills, 0.667771, 7
+2, decent meal, 0.697458, 8
+2, Veal Parm, 0.672339, 8

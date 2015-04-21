@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+2, flat ginger ale, 0.842976, 0
+2, end result, 0.552623, 0
+2, little ice, 0.467662, 2
+2, reservations, 0.287035, 2
+2, melted chipped ice, 0.902412, 3
+2, large ice cubes, 0.820809, 3
+2, lunch, 0.298564, 5
+2, downtown Montreal, 0.966352, 7
+2, Keg downtown Montreal, 0.949145, 7
+2, ambience, 0.218993, 8
+3, reservations, 0.448701, 0
+3, true beef fan, 0.896634, 6
+3, higher end., 0.748607, 6
+3, manhattan ny cut, 0.928547, 7
+3, steak lover, 0.867788, 8
+3, experience, 0.373641, 8
+5, fake people, 0.773515, 1
+5, price tag, 0.761218, 1
+5, Place, 0.467406, 2
+5, bar, 0.466709, 2
+5, rib eye, 0.846834, 6
+5, steak, 0.539335, 7
+5, 14th anniversary food, 0.989224, 9
+5, Fairview shopping center, 0.950282, 9

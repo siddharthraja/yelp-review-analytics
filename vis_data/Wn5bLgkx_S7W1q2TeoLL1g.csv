@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+1, pretty crappy bar, 0.919669, 1
+1, Pool hall, 0.603813, 1
+1, home, 0.452004, 2
+1, fan, 0.451574, 2
+3, single dart board, 0.92225, 0
+3, huge pool hall, 0.862862, 0
+3, cigarette smoke residue, 0.999966, 1
+3, bar, 0.358908, 2
+3, reason, 0.385805, 3
+3, place, 0.408098, 5
+3, shower, 0.388865, 6
+3, laundry, 0.381396, 6
+3, people, 0.354057, 7
+3, pretty cool hang, 0.904313, 8
+3, drinks, 0.517339, 8
+5, favorite place, 0.955907, 7
+5, work, 0.387615, 7
+5, great pint, 0.894386, 8
+5, Real people, 0.776206, 8

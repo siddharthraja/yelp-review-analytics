@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, kids burger, 0.695469, 0
+1, separate times, 0.66419, 0
+1, bad reviews, 0.696823, 1
+1, bad experience, 0.640118, 1
+1, Drink cups, 0.649353, 2
+1, bar, 0.454008, 2
+1, iced teas, 0.692211, 3
+1, alcoholic beverages.., 0.682411, 3
+1, food, 0.676487, 6
+1, regular hangout, 0.667996, 6
+1, small salad, 0.703011, 7
+1, ambience, 0.466216, 7
+1, San tan brewery, 0.936341, 8
+1, Willies-  Bourbons, 0.751456, 8
+1, taco truck, 0.665861, 9
+1, risk eating, 0.652398, 9
+2, small bar food, 0.991713, 0
+2, creative bar food, 0.959331, 0
+2, newer neighborhood restaurant, 0.921105, 1
+2, dance floor, 0.845721, 1
+2, average place, 0.871053, 2
+2, greasy food, 0.855738, 2
+2, special taste wise, 0.957585, 3
+2, sriracha slaw, 0.840225, 3
+2, place, 0.97861, 5
+2, fluffy corn bread, 0.948365, 6
+2, fast food chain, 0.938192, 6
+2, BBQ flavor powder, 0.914024, 7
+2, salt lick, 0.818386, 7
+2, cool place, 0.945921, 8
+2, great burger, 0.86376, 8
+2, live bands, 0.827382, 9
+2, elevated stage, 0.825481, 9
+3, acoustic guitar player, 0.644877, 0
+3, older people, 0.554752, 0
+3, high bar prices, 0.696624, 1
+3, waitress proceeds, 0.542439, 1
+3, older crowd, 0.78216, 2
+3, people, 0.730457, 2
+3, tiny little place, 0.658855, 3
+3, dance floor, 0.64988, 3
+3, bar, 0.92895, 4
+3, drinks, 0.800397, 4
+3, place, 0.692416, 5
+3, country music, 0.630847, 5
+3, nice place, 0.536097, 6
+3, band, 0.693383, 7
+3, country rock band, 0.679648, 7
+3, country bar, 0.741873, 8
+3, Chandler country bar, 0.684337, 8
+3, good experience, 0.56554, 9
+3, great band, 0.540905, 9
+4, BJG Burger http://www.yelp.com/biz_photos/6_JqE5olfHoz1T_m96G85g?select=kpdJSyOq_YKYGl81C0qVUw#5wIWJRVr4qxJiJIlKSHlow, 0.649321, 0
+4, Spicy Senorita Maragarita, 0.612838, 0
+4, ordinary country bar, 0.630973, 1
+4, Downtown Chandler restaurants, 0.627993, 2
+4, good material, 0.607972, 2
+4, country music, 0.760124, 3
+4, chicken, 0.634469, 3
+4, downtown chandler, 0.941252, 5
+4, place, 0.742863, 5
+4, live music, 0.870317, 6
+4, burger, 0.698964, 6
+4, kentucky cream soda, 0.708132, 7
+4, cheese, 0.681473, 7
+4, great service, 0.707827, 8
+4, cajun barbecue shrimp, 0.692732, 8
+4, nice downtown place, 0.659474, 9
+4, Great looking place, 0.655671, 9
+5, great daily specials, 0.594711, 0
+5, Chile chicken chowder, 0.574491, 0
+5, Bourbon Jack, 0.586914, 3
+5, new place, 0.529158, 3
+5, service, 0.621487, 5
+5, rib eye, 0.67871, 6
+5, place, 0.624293, 6
+5, live music, 0.704045, 7
+5, bourbon jacks, 0.682001, 7
+5, downtown chandler, 0.913574, 8
+5, great time, 0.614495, 8
+5, downtown Chandler area, 0.740303, 9
+5, best downtown chandler, 0.596673, 9

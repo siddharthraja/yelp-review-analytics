@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+3, odd burger menu, 0.949535, 0
+3, weird nature program, 0.923311, 0
+3, smoke break, 0.700808, 1
+3, Poutine, 0.464819, 1
+3, people, 0.358101, 2
+3, spotty service, 0.760006, 3
+3, strange menu, 0.664379, 3
+3, Summer, 0.368738, 7
+3, stars, 0.368555, 7
+4, le burger au, 0.954848, 0
+4, burger au wapiti, 0.799959, 0
+4, heartbeat, 0.435399, 3
+4, visitor, 0.419734, 3
+4, local farm, 0.53067, 6
+4, apples, 0.429751, 6
+4, pure insanity, 0.538288, 7
+4, nice touch, 0.533771, 7
+4, super glad, 0.560809, 8
+4, food, 0.420213, 8

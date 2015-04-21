@@ -1,0 +1,13 @@
+rating, keyword, relevance, bucket
+1, Friday night, 0.63243, 0
+1, potato soup, 0.563994, 0
+1, Friday evening, 0.554462, 1
+1, little shredded carrots, 0.993103, 2
+1, single table, 0.583945, 2
+1, Wooden window blinds, 0.93851, 3
+1, grease fish stick, 0.838677, 3
+1, potatoes, 0.201279, 6
+3, bar food, 0.71429, 0
+3, friendly staff, 0.836556, 8
+3, great atmosphere, 0.972013, 9
+3, Cozy bar, 0.947354, 9

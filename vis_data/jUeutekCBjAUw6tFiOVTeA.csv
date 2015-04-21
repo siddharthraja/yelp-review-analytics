@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, Steele Creek Area, 0.984752, 0
+1, kitchen waiting tables, 0.933978, 0
+1, MISMANAGEMENT, 0.323945, 1
+1, chairs, 0.303301, 1
+1, new owners, 0.603592, 2
+1, new manager, 0.580079, 2
+1, apologies, 0.32771, 3
+1, tip, 0.319507, 3
+1, new management, 0.658807, 6
+1, Lunches, 0.329097, 6
+1, food, 0.384261, 7
+1, Dinner, 0.293532, 7
+2, wildly inconsistent service, 0.920727, 0
+2, brunch portion, 0.760827, 0
+2, bad service, 0.672465, 1
+2, questionable pours, 0.667251, 1
+2, nice owner, 0.75121, 2
+2, waiter, 0.471622, 2
+2, appetizer portions, 0.671051, 3
+2, pricing, 0.497, 4
+2, bit, 0.590572, 5
+2, food, 0.573185, 5
+2, place, 0.941314, 6
+2, ugly Christmas sweater, 0.883839, 6
+2, wine, 0.784975, 7
+2, nice touch, 0.712245, 7
+2, brunch, 0.868623, 8
+2, nice place, 0.853924, 8
+2, fact, 0.452221, 9
+2, people, 0.451475, 9
+3, Pretty salty prices, 0.972414, 0
+3, glass-really good food, 0.925728, 0
+3, long dark hair, 0.979035, 1
+3, bad luck, 0.776858, 1
+3, bad night, 0.727193, 2
+3, lamp, 0.458608, 2
+3, huge California selection, 0.916197, 3
+3, best Ive, 0.742956, 3
+3, mauritson zin, 0.781423, 6
+3, Rombauer zin, 0.750445, 6
+3, Salmon BLT, 0.78544, 7
+3, fish plate, 0.738206, 7
+3, lamb ive, 0.762662, 8
+3, good place, 0.740429, 8
+4, huge brunch fans, 0.628115, 0
+4, glasses size options, 0.62765, 0
+4, wine department, 0.555663, 3
+4, beer drinker, 0.54347, 3
+4, fellow beer lovers, 0.666148, 6
+4, vanilla ice cream, 0.614639, 6
+4, wine shop, 0.956101, 7
+4, fairly busy shopping, 0.686456, 7
+4, Great wine selections, 0.738142, 8
+4, nice little wine, 0.710938, 8
+4, Nice friendly service, 0.701551, 9
+4, great dining experience, 0.653561, 9
+5, good work, 0.45647, 0
+5, beer lover, 0.441195, 0
+5, repeat customer, 0.446649, 1
+5, food snob, 0.451651, 2
+5, goat cheese, 0.44175, 2
+5, restaurant markup, 0.42832, 3
+5, food, 0.736679, 5
+5, new secret spot, 0.519378, 6
+5, freshest food, 0.491556, 6
+5, chicken pesto panini, 0.798274, 7
+5, wine shop, 0.669959, 7
+5, wine, 0.950454, 8
+5, Great wine selection, 0.777164, 8
+5, great place, 0.661986, 9
+5, Steele Creek area, 0.540444, 9

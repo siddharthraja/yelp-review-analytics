@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, good riddance look, 0.57661, 0
+1, beer list, 0.478466, 0
+1, tasting warm martini, 0.577108, 1
+1, amazing beer selection, 0.558049, 1
+1, normal beer preferences, 0.601424, 2
+1, tab, 0.362067, 2
+1, beer selection, 0.729082, 3
+1, beers, 0.573199, 3
+1, bartender, 0.928484, 4
+1, beer, 0.772386, 4
+1, table, 0.36448, 5
+1, great beer selection, 0.621324, 6
+1, Good beer choice, 0.552718, 6
+1, quick stir, 0.456902, 7
+1, group, 0.330725, 7
+2, beers, 0.481269, 0
+2, Blond haired dude, 0.974843, 1
+2, glasses, 0.488617, 1
+2, attitude man, 0.711447, 2
+2, block, 0.483877, 2
+2, certain bartender, 0.791632, 7
+2, way, 0.495407, 7
+2, Awesome selection, 0.79091, 9
+2, live music, 0.691678, 9
+3, Snake Hollow IPA, 0.71384, 0
+3, band members, 0.554721, 0
+3, service speed suffers, 0.684589, 2
+3, bratty kids, 0.559002, 2
+3, country music, 0.795624, 3
+3, superior attitude, 0.525711, 3
+3, icy, 0.350775, 4
+3, Malt House, 0.907443, 5
+3, godawful country music, 0.766761, 6
+3, band playing, 0.555977, 6
+3, nice patio, 0.543209, 7
+3, it-up proper, 0.524636, 7
+3, quality Belgian beer, 0.689138, 8
+3, nice beer, 0.540802, 8
+4, best beer bar, 0.709997, 0
+4, bottled beers, 0.679405, 0
+4, amateur beer snob, 0.715014, 1
+4, loud sports bar, 0.654503, 1
+4, live music, 0.77163, 2
+4, Beer snob heaven, 0.686201, 2
+4, high-quality beers, 0.693542, 3
+4, oldest bar tops, 0.674083, 3
+4, beer snob, 0.742528, 4
+4, Belgian-styled beers, 0.671046, 4
+4, beer, 0.983058, 5
+4, Malt House, 0.890374, 5
+4, beers, 0.921135, 6
+4, place, 0.833251, 6
+4, good place, 0.706092, 7
+4, new beers, 0.676102, 7
+4, Belgium beers, 0.807543, 8
+4, tap beers, 0.751197, 8
+4, impressive beer list, 0.685643, 9
+4, nice casual place, 0.681674, 9
+5, beer snobbery, 0.573757, 0
+5, infamous Union Tap, 0.568684, 0
+5, great craft beers, 0.59792, 2
+5, large beer selections, 0.593897, 2
+5, best bar, 0.595769, 3
+5, best craft beer, 0.588121, 3
+5, beers, 0.686266, 5
+5, place, 0.675049, 5
+5, malt house, 0.993421, 6
+5, beer, 0.837148, 6
+5, craft beer, 0.627662, 7
+5, beer selection, 0.603029, 7
+5, great place, 0.623581, 8
+5, Malt House Facebook, 0.603038, 8
+5, Malt House bar, 0.61293, 9
+5, great whiskey selection, 0.607038, 9

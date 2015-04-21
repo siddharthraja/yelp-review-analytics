@@ -1,0 +1,48 @@
+rating, keyword, relevance, bucket
+1, Chap polishing cutlery, 0.72437, 0
+1, table service area, 0.658486, 0
+1, table service, 0.743263, 1
+1, Food inconsistent, 0.578421, 1
+1, fabby restaurants, 0.528168, 2
+1, money, 0.382872, 2
+1, establishment, 0.359909, 3
+1, order, 0.348275, 6
+1, plates, 0.347832, 6
+1, blue goose, 0.942262, 7
+1, Cheers. Blue goose, 0.716396, 7
+1, opulence, 0.38416, 8
+1, sense, 0.351121, 8
+2, sorry tall chap, 0.676533, 0
+2, Wine cooler, 0.535174, 0
+2, star restaurants, 0.531835, 1
+2, arrival, 0.461702, 1
+2, ......, 0.709434, 2
+2, bar, 0.450731, 2
+2, blue goose, 0.819707, 3
+2, Sat ages, 0.549781, 3
+2, staff, 0.5995, 5
+2, tall chap, 0.967403, 6
+2, table service, 0.750803, 6
+2, strawberry blond hair, 0.62786, 7
+2, good waiter service, 0.617978, 7
+2, eye  contact, 0.656305, 8
+2, Dali Lama, 0.53803, 8
+2, stove, 0.427052, 9
+2, Brilliant, 0.425002, 9
+3, limited tapas offering, 0.821479, 0
+3, steak sandwich, 0.725939, 0
+3, tacky antiques, 0.629331, 3
+3, taste, 0.445156, 3
+3, steak pie, 0.975827, 6
+3, pub fare, 0.682596, 6
+3, Blue Goose, 0.847058, 7
+3, sizeable bar area, 0.817297, 7
+3, dog walkers, 0.657325, 8
+3, decent local pub, 0.926535, 9
+4, goats cheese risotto, 0.968784, 0
+4, cherries Toms, 0.689648, 0
+4, Pine nuts, 0.645457, 1
+4, large bowl plate, 0.823911, 7
+4, Wonderful feeling, 0.715617, 8
+4, food, 0.353374, 8
+4, atmosphere, 0.372428, 9

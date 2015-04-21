@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, grocery store bun, 0.937352, 0
+1, shitty champaign Illinois, 0.903053, 0
+1, boy rude customers, 0.870185, 1
+1, Inattentive waitress, 0.808111, 1
+1, repeat business. guidos, 0.934342, 2
+1, long time, 0.783934, 2
+1, poor service/long wait, 0.894203, 3
+1, proper drink menu, 0.880186, 3
+1, place, 0.871791, 4
+1, food, 0.857477, 4
+1, friends, 0.774586, 5
+1, server, 0.75098, 5
+1, downtown Champaign, 0.946644, 6
+1, drinks, 0.787251, 6
+1, drink menu, 0.88942, 7
+1, good place, 0.772462, 7
+1, prime people-watching location, 0.896181, 8
+1, good location, 0.768531, 8
+1, better options, 0.756821, 9
+2, vanilla compromise place, 0.888291, 0
+2, stingily-portioned onion ring, 0.88041, 0
+2, credit card statement., 0.855612, 1
+2, frat boys, 0.782663, 1
+2, bad Boca burger, 0.907753, 2
+2, uiuc frat alum., 0.871844, 2
+2, mini dresses.  check, 0.853303, 3
+2, burger orders, 0.804408, 3
+2, drinks, 0.676857, 4
+2, food, 0.826767, 5
+2, blue cheese, 0.885751, 6
+2, veggie burger, 0.802531, 6
+2, Teej T., 0.751575, 7
+2, good value, 0.751377, 7
+2, faster service, 0.740824, 8
+2, pool, 0.65961, 8
+2, better food, 0.752225, 9
+3, greasy food type, 0.668058, 0
+3, super skinny ones, 0.660527, 0
+3, frat boys, 0.677893, 1
+3, average bar food, 0.671615, 1
+3, veggie sandwich, 0.723803, 2
+3, plain veggie sandwich, 0.68839, 2
+3, eggplant fries, 0.993778, 3
+3, teriyaki chicken sandwich, 0.807473, 3
+3, Guido, 0.619088, 4
+3, place, 0.793976, 5
+3, nachos, 0.714833, 5
+3, service, 0.694609, 6
+3, downtown Champaign, 0.650817, 6
+3, outdoor seating, 0.663768, 7
+3, grilled cheese, 0.646436, 7
+3, relatively classy place, 0.702077, 8
+3, pretty good pool, 0.693243, 8
+3, decent enough place, 0.607056, 9
+4, typical campus bars, 0.967626, 0
+4, Good place, 0.768783, 0
+4, place kinda, 0.761663, 1
+4, sour cream, 0.970875, 2
+4, southwestern sour cream, 0.904494, 2
+4, bad boys, 0.722323, 3
+4, things, 0.589122, 3
+4, place, 0.896496, 4
+4, line, 0.645984, 4
+4, service, 0.582258, 5
+4, onion rings, 0.895634, 6
+4, Best onion rings, 0.894709, 6
+4, grilled chicken, 0.800457, 7
+4, additional seating, 0.75335, 7
+4, great ambiance, 0.761437, 8
+4, ample seating, 0.754261, 8
+4, Guido, 0.859596, 9
+4, wide selection, 0.74817, 9
+5, pumpkin martini, 0.77848, 6
+5, nachos, 0.460844, 6
+5, great time, 0.71801, 7
+5, Guido, 0.448243, 7
+5, late night food, 0.929762, 8
+5, laid-back atmosphere, 0.831545, 8
+5, martinis, 0.457893, 9

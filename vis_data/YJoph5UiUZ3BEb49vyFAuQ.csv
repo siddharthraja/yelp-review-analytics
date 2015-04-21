@@ -1,0 +1,83 @@
+rating, keyword, relevance, bucket
+1, wine bar, 0.82642, 0
+1, pretentious wine bar, 0.813768, 0
+1, high real estate, 0.80986, 1
+1, chicken sandwich ever., 0.800596, 1
+1, chicken sandwich, 0.890977, 2
+1, Phoenix City, 0.817211, 2
+1, chicken breast, 0.80188, 3
+1, skimpily dressed Caprese, 0.799782, 3
+1, service, 0.946378, 4
+1, place, 0.880988, 4
+1, cheese, 0.893813, 5
+1, food, 0.883851, 5
+1, Claypot Chile wings, 0.942941, 6
+1, grilled cheese, 0.881466, 6
+1, mac n cheese, 0.79983, 7
+1, burger joint, 0.724224, 7
+1, local soup kitchen, 0.779239, 8
+2, wait staff, 0.87722, 0
+2, sliced breast meat, 0.862306, 0
+2, bar food place, 0.871908, 1
+2, mediocre food, 0.800781, 1
+2, terrible experience, 0.799321, 2
+2, initial wait, 0.79661, 2
+2, soy based sauce, 0.859766, 3
+2, soggy flat bread, 0.843502, 3
+2, food, 0.955849, 4
+2, chicken wings, 0.85098, 4
+2, cheese, 0.81231, 5
+2, daily flatbread pizza, 0.886353, 6
+2, place, 0.883562, 6
+2, caprese salad, 0.895231, 7
+2, great patio space, 0.887986, 7
+2, crispy chicken stripes, 0.863169, 8
+2, nice quality chicken, 0.862856, 8
+2, great friendly staff, 0.867828, 9
+2, good caprese, 0.81627, 9
+3, burger joint choices, 0.521754, 0
+3, good starter bar, 0.514882, 0
+3, burger patty, 0.4952, 2
+3, waffle fries, 0.638344, 3
+3, menu, 0.536538, 3
+3, burger, 0.691903, 4
+3, steak fries, 0.584201, 4
+3, garage, 0.792241, 5
+3, place, 0.781517, 5
+3, sweet potato fries, 0.977633, 6
+3, service, 0.563354, 6
+3, sweet potatoe fries, 0.613159, 7
+3, garage fries, 0.577509, 7
+3, garage burger, 0.614929, 8
+3, great place, 0.569151, 8
+3, good selection, 0.510973, 9
+3, pork sandwich, 0.503529, 9
+4, Great bar area, 0.720299, 0
+4, Garage beer selection, 0.717555, 1
+4, happy hour food, 0.700031, 1
+4, service, 0.862576, 4
+4, beer selection, 0.7575, 4
+4, garage, 0.864504, 5
+4, bar, 0.747025, 5
+4, place, 0.90998, 6
+4, food, 0.883468, 6
+4, flat bread, 0.763322, 7
+4, garage burger, 0.74105, 7
+4, burger, 0.75039, 8
+4, great place, 0.748725, 8
+4, great new place, 0.751717, 9
+4, Pretty good place, 0.74883, 9
+5, waffle fries, 0.719878, 0
+5, iceberg cold pint, 0.696567, 2
+5, old auto garage, 0.770425, 3
+5, slight bacon flavor, 0.697458, 3
+5, garage, 0.987992, 5
+5, place, 0.965925, 5
+5, flat bread, 0.736499, 6
+5, American burger, 0.728008, 6
+5, live music, 0.790406, 7
+5, Saturday night, 0.776788, 7
+5, Great job Garage, 0.809667, 8
+5, garage burger, 0.790884, 8
+5, great place, 0.807096, 9
+5, great food, 0.785064, 9

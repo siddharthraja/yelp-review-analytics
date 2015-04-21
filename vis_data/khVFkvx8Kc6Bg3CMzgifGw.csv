@@ -1,0 +1,61 @@
+rating, keyword, relevance, bucket
+1, going rate, 0.604932, 0
+1, oz bottle, 0.558166, 0
+1, worst Giant Eagle, 0.805196, 1
+1, better beers, 0.54676, 1
+1, Giant Eagle, 0.848149, 2
+1, house shabby, 0.574138, 2
+1, higher prices, 0.517765, 3
+1, average selection, 0.504009, 3
+1, establishment, 0.352642, 4
+1, take-out patron, 0.61371, 6
+1, rich kid, 0.535118, 6
+1, independently owned places, 0.921531, 7
+1, craft beers, 0.541078, 9
+1, Mad Mex, 0.535957, 9
+2, large beer  selection, 0.923174, 0
+2, register, 0.335654, 0
+2, customer service, 0.664683, 3
+2, drink, 0.532288, 5
+2, good selection, 0.625266, 6
+2, drinks, 0.347852, 6
+3, old diner, 0.931736, 1
+3, Picture, 0.262472, 1
+3, Price wise, 0.955901, 2
+3, Carnegie, 0.311704, 2
+3, expensive beer, 0.898694, 3
+3, set-up, 0.328496, 3
+3, place, 0.472519, 5
+3, beers, 0.332186, 6
+3, selection, 0.2935, 6
+3, new things, 0.889736, 8
+3, packs, 0.316216, 8
+3, new ones, 0.984494, 9
+3, Went, 0.356014, 9
+4, delicious Java Vanilla, 0.911239, 0
+4, chicken wings, 0.708658, 0
+4, bar, 0.277498, 1
+4, time, 0.20098, 1
+4, flavor, 0.218751, 2
+4, cousin Marty, 0.718043, 7
+4, visit, 0.206621, 7
+4, rock/alt mix, 0.557748, 8
+4, Great job, 0.526227, 8
+4, great patio space, 0.85286, 9
+4, fresh air, 0.611626, 9
+5, grilled cheese sandwich, 0.879478, 0
+5, fun place, 0.774749, 0
+5, cleanest bar, 0.767155, 2
+5, actual bottles, 0.765582, 2
+5, boring iceberg blend, 0.840985, 3
+5, casual place, 0.764718, 3
+5, food, 0.91551, 4
+5, bottles, 0.796807, 4
+5, good draught selection, 0.918294, 6
+5, place, 0.915274, 6
+5, damn fine experience, 0.871184, 7
+5, awesome draft selection, 0.860178, 7
+5, pretty nice seating, 0.938004, 8
+5, Nice local place, 0.890647, 8
+5, wonderful beers price, 0.922642, 9
+5, Great beer selection, 0.900624, 9

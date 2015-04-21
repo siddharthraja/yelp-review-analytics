@@ -1,0 +1,26 @@
+rating, keyword, relevance, bucket
+1, Horrible experience, 0.53031, 0
+1, sign, 0.332221, 0
+1, bait, 0.344583, 1
+1, situation, 0.341491, 1
+1, wines, 0.368393, 6
+1, bottles, 0.339886, 6
+1, free wine tasting, 0.931925, 7
+1, free taste, 0.477113, 7
+1, customer satisfaction, 0.467248, 8
+1, big zero, 0.465483, 8
+1, Napa valley, 0.495028, 9
+1, new ones, 0.491648, 9
+4, Peoria WineStyles, 0.926372, 0
+4, food pairings, 0.881354, 0
+4, art shows, 0.810912, 6
+4, special tastings, 0.936763, 7
+4, Tuesday nights, 0.877521, 7
+4, wine tastings, 0.90857, 8
+4, Nice atmosphere, 0.88663, 8
+5, Tuesday wine tastings, 0.890232, 7
+5, boutique fine wines, 0.834035, 7
+5, free tastings, 0.535351, 8
+5, wine club, 0.359343, 8
+5, fun wine tastings, 0.926386, 9
+5, knowledgeable owners., 0.468378, 9

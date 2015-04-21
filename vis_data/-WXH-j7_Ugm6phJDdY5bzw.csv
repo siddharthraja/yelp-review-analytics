@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, Terrible TERRIBLE experience, 0.993824, 0
+1, free meal Applebee, 0.990814, 0
+1, Burbon street stake, 0.878828, 1
+1, hot grease, 0.664214, 1
+1, terrible food, 0.714553, 2
+1, flu symptoms, 0.687793, 2
+1, gift card, 0.835555, 3
+1, burnt chicken, 0.667063, 3
+1, veterans, 0.563966, 4
+1, group, 0.499901, 4
+1, wings, 0.489726, 6
+1, gristle, 0.463811, 6
+1, rare steak, 0.684871, 8
+2, dollar gift card, 0.810791, 0
+2, mediocre chain food, 0.803199, 0
+2, weight Latino man, 0.777807, 1
+2, incoherent memorabilia, 0.66043, 1
+2, gift card, 0.946227, 2
+2, chicken fried steak, 0.769506, 2
+2, local Applebee, 0.766151, 3
+2, good shit Phoenix, 0.766149, 3
+2, mozzarella sticks, 0.942173, 6
+2, easily deciphered theme, 0.798556, 6
+2, giant Mexican dude, 0.751524, 7
+2, homey thing, 0.653783, 7
+2, attentive server, 0.655322, 9
+2, redeeming quality, 0.650475, 9
+3, bottomless crosscut ribs, 0.811426, 0
+3, worse visit, 0.571768, 0
+3, area, 0.24546, 2
+3, Thia chicken salad, 0.940323, 3
+3, good portion, 0.523154, 3
+3, waiter, 0.250761, 6
+4, business meeting, 0.537016, 0
+4, pomegranate, 0.313585, 0
+4, Arizona Business Connection, 0.856099, 6
+4, penne, 0.330747, 6
+4, good choice, 0.777655, 7
+4, two-person specials, 0.688963, 7
+4, late weekend night, 0.990407, 8
+4, broccoli soup, 0.667063, 8
+5, AMAZING waitress, 0.563688, 1
+5, kids, 0.222337, 1
+5, signature Mudslides, 0.564506, 3
+5, food, 0.299919, 5
+5, Common courtesy, 0.511782, 7
+5, monitory gifts, 0.423705, 8
+5, balloon guy, 0.423004, 8
+5, amazing ballon guy, 0.906812, 9
+5, GREAT customer service, 0.747978, 9

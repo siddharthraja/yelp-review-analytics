@@ -1,0 +1,42 @@
+rating, keyword, relevance, bucket
+2, boring bar food, 0.654265, 0
+2, Irish bar, 0.427181, 0
+2, special menu, 0.434396, 1
+2, Irish food, 0.412992, 1
+2, Smith Parking, 0.4006, 2
+2, closest table, 0.39623, 2
+2, kind, 0.294132, 3
+2, husband, 0.251705, 3
+2, green beer, 0.935933, 4
+2, people, 0.409446, 4
+2, green beer fix, 0.69116, 6
+2, St. Patrick, 0.450793, 6
+2, french dip, 0.768488, 7
+2, french dip sandwiches, 0.690133, 7
+3, Las Vegas, 0.949458, 0
+3, mediocre bar, 0.943783, 0
+3, creepers, 0.281295, 2
+3, bit, 0.243024, 3
+3, food, 0.393853, 6
+3, bunch, 0.244579, 7
+3, Friday night, 0.908874, 8
+3, girlfriend, 0.278492, 8
+4, nice little neighborhood, 0.739727, 0
+4, sharp pointy tips, 0.692821, 0
+4, typical Las Vegas, 0.71485, 1
+4, dollar draft beers, 0.709389, 1
+4, bar food, 0.673894, 2
+4, butt cheek, 0.567574, 2
+4, thumbs, 0.439012, 3
+4, errr, 0.427425, 3
+4, free shuffle board, 0.926683, 6
+4, hmmm, 0.456926, 6
+4, major bonus, 0.563325, 7
+4, happy hour specials, 0.562036, 7
+4, pretty good breakfast, 0.713794, 9
+5, bad experience, 0.495565, 0
+5, bar food, 0.400656, 2
+5, ceasar chicken salad, 0.957521, 8
+5, great food, 0.730202, 8
+5, staff good drinks, 0.794574, 9
+5, breakfast menu, 0.458667, 9

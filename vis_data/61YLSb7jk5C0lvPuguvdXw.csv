@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+2, better salad selection, 0.800016, 0
+2, steak place, 0.777569, 0
+2, decent meat, 0.628119, 1
+2, free desert, 0.614838, 1
+2, relatively poor service, 0.847962, 2
+2, new one., 0.63392, 2
+2, extra whipped cream, 0.815503, 3
+2, finger prints, 0.637757, 3
+2, thing, 0.537947, 4
+2, steak, 0.981855, 5
+2, time, 0.469864, 5
+2, nice dinner evening, 0.781635, 6
+2, good tequilas, 0.660599, 6
+2, Diner quality food, 0.856872, 7
+2, good alcoholic beverage, 0.803533, 7
+2, good reputation, 0.620349, 8
+2, family, 0.440816, 8
+2, excellent professional service, 0.774182, 9
+2, better steaks, 0.626819, 9
+3, school cafeteria beef, 0.905765, 0
+3, American style bar, 0.848878, 0
+3, dining room, 0.871904, 2
+3, prime rib, 0.845021, 2
+3, attached bar, 0.706363, 3
+3, WOW feeling, 0.705825, 3
+3, standard pub fare, 0.902045, 4
+3, Baton Rouge, 0.878933, 4
+3, food, 0.745876, 5
+3, burger medium, 0.712851, 6
+3, service, 0.577135, 6
+3, Old Montreal, 0.883348, 7
+3, Good food, 0.742186, 7
+3, good price/performance, 0.76331, 8
+3, old town, 0.720647, 8
+4, le Keg propose, 0.735301, 0
+4, Keg Steakhouse, 0.683056, 0
+4, local draft beer, 0.610838, 1
+4, worst priced item, 0.60693, 1
+4, little better service, 0.62144, 2
+4, standard steamed fare, 0.616791, 3
+4, comfy chairs/ couches, 0.613748, 3
+4, baked potato, 0.694953, 4
+4, keg, 0.978001, 5
+4, food, 0.692759, 5
+4, prime rib, 0.878388, 6
+4, old montreal, 0.694994, 6
+4, french onion soup, 0.82805, 7
+4, filet mignon, 0.803318, 7
+4, le keg, 0.822032, 8
+4, nice steak dinner, 0.66954, 8
+4, goat cheese appetizer, 0.733536, 9
+4, great dining experience, 0.711153, 9
+5, good steak dinner, 0.780352, 0
+5, new york montreal, 0.743998, 0
+5, mediocre sports bar, 0.710268, 1
+5, prime rib, 0.711572, 3
+5, Saturday night, 0.771545, 5
+5, twice baked potato, 0.907273, 6
+5, high price steak, 0.781449, 6
+5, old montreal, 0.808283, 7
+5, sirloin peppercorn steak, 0.776572, 7
+5, place, 0.812777, 8
+5, delicious food, 0.748661, 8
+5, Montreal Keg steak, 0.832915, 9
+5, Montreal good luck, 0.75843, 9

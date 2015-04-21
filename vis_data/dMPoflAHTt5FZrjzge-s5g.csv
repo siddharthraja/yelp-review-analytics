@@ -1,0 +1,49 @@
+rating, keyword, relevance, bucket
+1, Hideous bar, 0.739251, 0
+1, hideous people, 0.737865, 0
+1, butt cheeks, 0.733134, 1
+1, disapproving eye, 0.648919, 1
+1, scantily clad females, 0.912279, 2
+1, good time, 0.694481, 2
+1, Shanghai, 0.553447, 3
+1, stars, 0.387368, 3
+1, eternity, 0.407811, 6
+2, big office night, 0.889189, 0
+2, candy cane decoration, 0.874395, 0
+2, various drunk revelers, 0.864626, 1
+2, drinks deals, 0.719247, 1
+2, George Street, 0.952348, 2
+2, permanent vomit-mixed-with-bleach smell, 0.951577, 2
+2, compliment, 0.550678, 3
+2, place, 0.712815, 5
+2, tables, 0.607959, 5
+2, Shanghai, 0.729569, 6
+2, Opal Lounge, 0.721347, 6
+2, office Christmas parties, 0.871267, 7
+2, great nights, 0.71594, 7
+2, Best Christmas party, 0.854781, 8
+3, club atmosphere Shanghai, 0.799516, 0
+3, cool fish tank, 0.748102, 0
+3, dark snogging deeds, 0.748958, 1
+3, dark corners, 0.587727, 1
+3, snazzy decor, 0.603057, 2
+3, cake, 0.437635, 2
+3, Le Monde, 0.810071, 3
+3, trendy Le Monde, 0.776776, 3
+3, place, 0.664902, 4
+3, girls, 0.681172, 5
+3, dance floor, 0.924706, 6
+3, great time, 0.740237, 6
+3, opulent wall decor, 0.76507, 7
+3, little bit, 0.746793, 7
+3, different place, 0.595944, 8
+3, free entrance, 0.610721, 9
+3, free drinks, 0.609474, 9
+5, house music, 0.644445, 0
+5, drinks, 0.252944, 2
+5, George Street clubs, 0.897815, 3
+5, George St clubs, 0.993939, 6
+5, free pizza, 0.718902, 6
+5, club remixes, 0.767143, 7
+5, chart hits, 0.727587, 7
+5, great fun, 0.656756, 8

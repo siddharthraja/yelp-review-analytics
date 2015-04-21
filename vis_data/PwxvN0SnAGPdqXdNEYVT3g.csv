@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, Friday night, 0.519219, 0
+1, hot eggplant juice, 0.51715, 0
+1, Sierra Nevada, 0.582576, 1
+1, comfort food shit, 0.546609, 1
+1, server, 0.557478, 2
+1, bar area, 0.529787, 2
+1, food, 0.905723, 3
+1, cheese, 0.587781, 3
+1, service, 0.641371, 4
+1, table, 0.56054, 4
+1, Bliss, 0.614866, 5
+1, place, 0.582914, 5
+1, bar, 0.790506, 6
+1, veggie sandwich, 0.599232, 6
+1, craft easy mac, 0.510763, 7
+1, pretzel bread, 0.509868, 7
+1, wait staff, 0.489471, 8
+1, Bliss Rebar, 0.481733, 9
+2, Poor bar service, 0.696397, 0
+2, chicken soft tacos, 0.6923, 0
+2, costly drink confusion, 0.68864, 1
+2, french fries, 0.688408, 1
+2, good food, 0.731682, 2
+2, rapturous food orgasms, 0.706752, 2
+2, chicken, 0.749789, 3
+2, pretzel bun, 0.738252, 3
+2, food, 0.995184, 4
+2, cheese, 0.862834, 4
+2, service, 0.80048, 5
+2, bliss rebar, 0.796387, 5
+2, pretzel bread, 0.825892, 6
+2, grilled cheese, 0.739503, 6
+2, Phoenix food scene, 0.725672, 7
+2, mac n cheese, 0.692531, 7
+2, good comfort food, 0.730539, 9
+3, mixed drinks menu, 0.784424, 0
+3, famous pretzel bun, 0.783765, 0
+3, good food, 0.805162, 2
+3, apple cobbler, 0.781546, 2
+3, fries, 0.792367, 4
+3, stars, 0.78913, 4
+3, food, 0.992341, 5
+3, place, 0.976327, 5
+3, cheese, 0.869857, 6
+3, patio, 0.812122, 6
+3, pretzel bun, 0.951491, 7
+3, pretzel bread, 0.93135, 7
+3, burger, 0.810923, 8
+3, good atmosphere.  food, 0.810835, 8
+3, great place, 0.817299, 9
+3, greatest outdoor bar, 0.78575, 9
+4, great new place, 0.546031, 0
+4, different kinds cheese, 0.544707, 0
+4, Cheese Nachos, 0.519666, 1
+4, restaurant, 0.518161, 4
+4, cheese, 0.947247, 5
+4, food, 0.670206, 5
+4, place, 0.78725, 6
+4, Bliss, 0.556923, 6
+4, mac n cheese, 0.663544, 7
+4, cheese sauce, 0.631597, 7
+4, pretzel bread, 0.689644, 8
+4, cheese crisp, 0.588116, 8
+4, nice indoor bar, 0.512773, 9
+4, Nice drink menu, 0.511779, 9
+5, ........., 0.423057, 0
+5, food, 0.910358, 5
+5, cheese, 0.80535, 5
+5, bliss rebar, 0.726381, 6
+5, drinks, 0.620604, 6
+5, cheese sauce, 0.592659, 7
+5, mac n cheese, 0.567565, 7
+5, great food, 0.651114, 8
+5, pretzel bun, 0.625307, 8
+5, best grilled cheese, 0.481224, 9
+5, homemade cheese sauce, 0.478369, 9

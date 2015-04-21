@@ -1,0 +1,46 @@
+rating, keyword, relevance, bucket
+2, special daily entrees, 0.893955, 0
+2, uninspired menus, 0.706789, 0
+2, rental car, 0.687417, 1
+2, little fresher, 0.674776, 1
+2, Overall restaurant experience, 0.89247, 2
+2, redeeming quality, 0.688713, 2
+2, unpleasant dining experience, 0.895166, 3
+2, good faith, 0.669506, 3
+2, place, 0.574429, 4
+2, service, 0.563349, 5
+2, pint, 0.547803, 5
+2, Caesar Chicken wrap, 0.930879, 6
+2, underdone fries, 0.689283, 6
+2, Chicken Primavera pasta, 0.937025, 7
+2, decor, 0.520819, 7
+2, fresh veggies, 0.670555, 8
+2, fresh ingredients, 0.650397, 8
+3, standard hotel bar, 0.874446, 0
+3, great change, 0.669768, 0
+3, generous sides, 0.723132, 2
+3, sour cream, 0.715064, 2
+3, yelp needs, 0.731963, 3
+3, Rimrock Bar, 0.711, 3
+3, american food restaurant, 0.910239, 6
+3, Salmon Spinach Salad., 0.89989, 6
+3, business lunch, 0.75785, 7
+3, chicken quesadilla, 0.752863, 7
+3, Good beer, 0.691118, 8
+3, Portions, 0.457351, 9
+3, sized, 0.449651, 9
+4, hotel bar, 0.698231, 0
+4, omelette station, 0.678345, 0
+4, thief boring forces, 0.927996, 1
+4, high bar stool, 0.911334, 1
+4, hotel room, 0.688788, 2
+4, cheesy southwestern food, 0.897896, 3
+4, hockey fan, 0.662746, 3
+4, ugliest Hilton hotel, 0.936883, 6
+4, friendly bartender, 0.68323, 6
+4, Belgian waffles, 0.665898, 7
+4, different breads, 0.659372, 7
+4, breakfast, 0.512023, 8
+4, girlfriend, 0.462304, 8
+4, fantastic steak sandwich, 0.897195, 9
+4, pretty good selection, 0.869232, 9

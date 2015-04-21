@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+1, Uhm, 0.854231, 0
+1, coke, 0.736492, 0
+1, legit bar, 0.975926, 1
+1, place, 0.650334, 2
+1, bottle/can, 0.649511, 2
+1, Simple drinks, 0.965275, 7
+3, stadium seating, 0.950356, 0
+3, concert/music venues, 0.936869, 0
+3, Veil, 0.808189, 2
+3, row, 0.777559, 2
+3, place, 0.719814, 7
+3, space, 0.718721, 7
+4, bad seat, 0.935973, 0
+4, time, 0.481103, 0
+4, size, 0.478901, 7
+4, Great Venue, 0.858816, 8
+5, wedding ceremony, 0.761032, 0
+5, concerts, 0.281621, 0
+5, guest, 0.340861, 2
+5, buffet, 0.29851, 2
+5, Veil, 0.808387, 3
+5, Las Vegas, 0.627139, 3
+5, networking event, 0.634771, 6
+5, food, 0.368267, 6
+5, bar service.The Silverton, 0.935471, 7
+5, Silverton Lodge, 0.763611, 7
+5, staff, 0.706457, 8
+5, perfect venue, 0.646508, 8
+5, Danielle, 0.298064, 9
+5, time, 0.29438, 9

@@ -1,0 +1,74 @@
+rating, keyword, relevance, bucket
+1, whitish fries, 0.532659, 0
+1, clam chowder, 0.475483, 0
+1, kinda salty, 0.475448, 1
+1, negative stars, 0.443204, 1
+1, Blah Blah Blah, 0.697804, 2
+1, HUGE attitude, 0.443595, 2
+1, medium size, 0.448924, 3
+1, Eek, 0.33889, 3
+1, bar food, 0.725668, 4
+1, potatoes, 0.330569, 4
+1, Voted Best Bar, 0.600243, 6
+1, tough workout, 0.475577, 6
+1, chicken tenders, 0.951047, 7
+1, crispy chicken tenders, 0.897666, 7
+2, stone cold sober, 0.787668, 0
+2, worthless waitress, 0.532197, 0
+2, Bad cooking skills, 0.683258, 1
+2, Super lame, 0.505064, 1
+2, bar food, 0.951142, 2
+2, good bar food, 0.689892, 2
+2, better bar food, 0.679591, 3
+2, late start, 0.519952, 3
+2, place, 0.497122, 4
+2, good service, 0.468924, 4
+2, better options, 0.476477, 6
+2, nachos, 0.276401, 6
+2, greasy breakfast, 0.557839, 7
+2, basic breakfast, 0.530004, 7
+3, beef nachos, 0.778685, 0
+3, comfy chairs, 0.706726, 0
+3, bar food affair, 0.907448, 1
+3, main reason, 0.692283, 1
+3, Southwest Burger, 0.670082, 2
+3, hubby, 0.499283, 2
+3, timbers, 0.452903, 3
+3, problem, 0.447647, 3
+3, chipotle mayo, 0.696249, 6
+3, decent place, 0.693654, 6
+3, quick drink, 0.758053, 7
+3, local spot, 0.713356, 7
+3, fish tacos, 0.703296, 8
+3, grilled tilapia, 0.701416, 8
+3, great deal, 0.650047, 9
+3, bartender, 0.483271, 9
+4, Wednesday night, 0.994385, 0
+4, tiny sparrow wings, 0.81262, 0
+4, amazing too. drinks, 0.861571, 2
+4, morning rap music, 0.844795, 2
+4, Bar/lounge review, 0.747714, 3
+4, bar food, 0.746873, 3
+4, service, 0.759052, 5
+4, pool tables, 0.855074, 6
+4, laid-back vibe, 0.746869, 6
+4, decent bar-food venue, 0.877476, 7
+4, Great food selection, 0.864189, 7
+4, Excellent club sandwich, 0.867862, 8
+4, great hang-out spot, 0.86523, 8
+4, Baby bear breakfast, 0.816136, 9
+4, attentive bartenders, 0.798731, 9
+5, regular chip nachos, 0.937443, 0
+5, potato nachos, 0.760809, 0
+5, cheese burger, 0.821605, 1
+5, seahawks awesomeness, 0.73033, 1
+5, complain, 0.548148, 2
+5, monday night game, 0.904195, 3
+5, latest visit, 0.720714, 3
+5, place, 0.77718, 6
+5, favorite lesbian couple, 0.941671, 7
+5, favorite bar, 0.772039, 7
+5, Great local spot, 0.880025, 8
+5, basic burger, 0.785372, 8
+5, Grill Cheese sandwich.The, 0.91562, 9
+5, rustic decor, 0.728784, 9

@@ -1,0 +1,85 @@
+rating, keyword, relevance, bucket
+1, secret ordering technique, 0.677625, 0
+1, toilet paper holder, 0.649064, 0
+1, working bar staff, 0.712547, 1
+1, family bad service, 0.67868, 1
+1, bar, 0.891412, 2
+1, icky dive bar, 0.71685, 2
+1, non bar people, 0.706932, 3
+1, shirtless dudes line, 0.675596, 3
+1, monkey pants, 0.931411, 4
+1, shirtless shots, 0.598507, 4
+1, smoking patio, 0.740301, 6
+1, health department Boo, 0.65769, 6
+1, better staff attitude, 0.68011, 7
+1, attractive female companions, 0.657521, 7
+1, faithful night, 0.592964, 8
+2, Frito Chili Pie, 0.954499, 0
+2, ......., 0.66752, 0
+2, Monkey Pants, 0.932314, 1
+2, annoying college bar, 0.772814, 1
+2, cutesy names, 0.627147, 2
+2, mild disappointments, 0.622699, 2
+2, living room section, 0.729814, 3
+2, bar hosts, 0.64415, 3
+2, place, 0.695981, 5
+2, Frito Chili Pies, 0.779725, 6
+2, Time Out Lounge, 0.645528, 6
+2, great things, 0.628705, 7
+2, wacky spot, 0.62623, 7
+2, free comedy, 0.622666, 8
+2, Thursday nights, 0.611247, 8
+3, o'clock shirtless shot, 0.521838, 0
+3, pretty cool bar, 0.474372, 0
+3, pretty good food, 0.480973, 1
+3, Dive Bar reputation, 0.468259, 1
+3, dive bar crawl, 0.485857, 2
+3, College bar, 0.415324, 2
+3, school bar food, 0.507713, 3
+3, Decent bar, 0.428967, 3
+3, onion rings, 0.413831, 4
+3, monkey pants, 0.912818, 5
+3, bar, 0.76116, 5
+3, bar food, 0.693335, 6
+3, good time, 0.436133, 6
+3, good bar food, 0.596289, 7
+3, board games, 0.504003, 7
+3, fun little place, 0.453015, 8
+3, good drink specials, 0.417372, 8
+3, nice food, 0.435021, 9
+3, cheese curds, 0.430856, 9
+4, Ahh Monkey Pants, 0.611734, 0
+4, Monkey Pants lifestyle, 0.598911, 0
+4, frat bar, 0.56222, 1
+4, shirtless people, 0.556376, 1
+4, shirtless shots, 0.648602, 2
+4, peanut butter, 0.559221, 2
+4, shirtless shot, 0.664337, 3
+4, Monkey Pants Bar, 0.608333, 3
+4, monkey pants, 0.97107, 5
+4, bar, 0.667429, 5
+4, place, 0.720719, 6
+4, board games, 0.611086, 6
+4, good time, 0.589147, 7
+4, good bar food, 0.588086, 7
+4, fun place, 0.571078, 8
+4, great drink specials, 0.56345, 8
+4, great place, 0.548936, 9
+5, great bar food, 0.622531, 0
+5, best dive bar, 0.611474, 0
+5, complete dive bar, 0.592599, 1
+5, overly tan women, 0.531821, 1
+5, diet coke, 0.537931, 2
+5, ice cold beer, 0.530337, 2
+5, vegan bar food, 0.605032, 3
+5, typical dive bar, 0.569657, 3
+5, dive bar, 0.804417, 5
+5, cold beer, 0.537007, 5
+5, Monkey Pants, 0.939131, 6
+5, cool dive bar, 0.614026, 6
+5, bar food, 0.755802, 7
+5, neighborhood bar, 0.624484, 7
+5, excellent bar food, 0.588129, 8
+5, local dive bar, 0.579878, 8
+5, great little room, 0.574557, 9
+5, great time Sara, 0.566126, 9

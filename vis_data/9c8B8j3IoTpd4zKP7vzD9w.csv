@@ -1,0 +1,51 @@
+rating, keyword, relevance, bucket
+1, old greasy air, 0.899068, 0
+1, volume flush requires, 0.878968, 0
+1, couple real problems, 0.947488, 2
+1, kitchen/food service, 0.534476, 2
+1, sandwiches bread, 0.628799, 3
+1, main complaint, 0.529125, 3
+1, toilets, 0.200256, 4
+1, food service venues, 0.794156, 6
+1, dry sandwiches, 0.592365, 6
+1, grease permeates, 0.676541, 7
+1, single flush, 0.590805, 8
+3, UW Campus area, 0.857548, 0
+3, new bathrooms, 0.631915, 0
+3, old Union South, 0.98423, 2
+3, grungy old Union, 0.800354, 2
+3, Union South, 0.991433, 5
+3, student concert folks, 0.761635, 6
+3, general public, 0.75308, 6
+3, UW Madison, 0.814927, 7
+3, UW ID, 0.761623, 7
+3, Nice job UW, 0.859248, 8
+3, professional hotel lobby, 0.765347, 8
+3, newly renovated place, 0.780337, 9
+4, Union South, 0.741386, 0
+4, alley, 0.466347, 0
+4, bowling, 0.519176, 1
+4, bars, 0.468382, 1
+4, local students, 0.835127, 2
+4, place, 0.40113, 2
+4, U. South, 0.71155, 3
+4, awesome bathrooms, 0.936238, 7
+4, great hangout, 0.885185, 9
+5, Union South facilities, 0.664434, 0
+5, dingy bowling alley/Wisc, 0.659898, 0
+5, UW clubs, 0.57631, 1
+5, downside, 0.517244, 1
+5, actual student union, 0.673056, 2
+5, subsequent defeat dances, 0.650812, 2
+5, beer/wine/cider bar, 0.585188, 3
+5, long way, 0.579524, 3
+5, pool tables, 0.747799, 4
+5, Memorial Union, 0.66106, 4
+5, place, 0.559742, 5
+5, Union South, 0.961122, 6
+5, new bowling alley, 0.675548, 6
+5, bowling alley, 0.847213, 7
+5, ice cream, 0.752617, 7
+5, new Union South, 0.79688, 8
+5, improved bowling alley, 0.675735, 8
+5, new renovation, 0.590783, 9

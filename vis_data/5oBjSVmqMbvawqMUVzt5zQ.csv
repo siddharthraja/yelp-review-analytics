@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+3, cold sunday evening, 0.973077, 0
+3, bridal shower, 0.906681, 0
+3, rainy, 0.322336, 3
+4, old man pub, 0.78024, 0
+4, Yelp Sunday-roast night, 0.754427, 0
+4, pre-Saturday night, 0.632039, 1
+4, wet Saturday night, 0.745938, 2
+4, nearest pub, 0.671389, 2
+4, Chris M. money, 0.7465, 3
+4, drunk old guy, 0.737632, 3
+4, Saturday night, 0.747232, 5
+4, wasabi ice cream, 0.923218, 6
+4, comfy leather armchairs, 0.772942, 6
+4, Orchard, 0.749673, 7
+4, Sunday roast option, 0.72818, 7
+4, quietish Saturday night, 0.73319, 8
+4, comfy Chesterfield Queen, 0.732444, 8
+4, great pub, 0.67658, 9
+4, tasty food, 0.65197, 9
+5, fortnight kind, 0.758432, 0
+5, previous posters, 0.727422, 0
+5, Broughton/Canonmills area, 0.752444, 1
+5, botanics, 0.559269, 2
+5, despair, 0.552179, 2
+5, house hunting, 0.753171, 3
+5, things, 0.548897, 3
+5, Orchard, 0.88375, 6
+5, late afternoon, 0.784141, 6
+5, food service manager, 0.937879, 7
+5, favourite restaurant, 0.739568, 7
+5, modern roast dinners, 0.929927, 8
+5, tasty food, 0.794061, 8
+5, warm friendly ambience, 0.939234, 9
+5, great ambiance, 0.781621, 9

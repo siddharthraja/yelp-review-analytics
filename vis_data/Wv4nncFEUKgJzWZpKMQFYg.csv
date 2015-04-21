@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+1, Decent alcohol selection, 0.994359, 0
+1, proper cocktails, 0.833682, 1
+1, good evening, 0.68131, 1
+4, late night libations, 0.936432, 0
+4, foolish things, 0.563739, 0
+4, bit corruptible friends, 0.839665, 3
+4, good impression, 0.584073, 7
+4, as-yet-unopened kitchen, 0.458708, 7
+4, vintage lovely couch, 0.932015, 8
+4, real sweet spot, 0.877822, 8
+5, restaurant, 0.50802, 0
+5, extravaganza, 0.421283, 0
+5, restaurants, 0.577428, 1
+5, service, 0.334166, 1
+5, waters, 0.349326, 2
+5, short rib, 0.860448, 6
+5, salmon tartare, 0.83467, 6
+5, amazing server, 0.859634, 7
+5, FYI, 0.427207, 7
+5, romantic evening, 0.917881, 8
+5, group setting, 0.87511, 8

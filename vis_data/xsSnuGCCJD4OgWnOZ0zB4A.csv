@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, Buffalo Wild Wings, 0.877351, 0
+1, Native New Yorker, 0.859176, 0
+1, worst chicken wings, 0.878871, 1
+1, back. good food, 0.805825, 1
+1, Sat, 0.355309, 2
+1, Trouble, 0.349305, 2
+1, Country music, 0.583896, 3
+1, staff, 0.465988, 3
+1, place, 0.904641, 5
+1, time, 0.609017, 5
+1, better wings, 0.621776, 6
+1, fakes, 0.361649, 6
+1, beer selection, 0.587531, 7
+1, good thing, 0.584158, 7
+1, little Greek place, 0.75646, 8
+1, new cool pace, 0.74839, 8
+2, boneless chicken wings, 0.538318, 0
+2, bar food, 0.521929, 0
+2, mediocre food, 0.555097, 1
+2, average local brews, 0.513616, 1
+2, food, 0.937739, 2
+2, good things, 0.537459, 2
+2, Hungry Monk, 0.588736, 3
+2, good neighborhood bar, 0.583209, 3
+2, beer selection, 0.888646, 4
+2, time, 0.670297, 4
+2, service, 0.689503, 5
+2, place, 0.633085, 5
+2, table, 0.552076, 6
+2, honey hot wings, 0.526724, 6
+2, sweet potato fries, 0.618752, 7
+2, pork sandwich, 0.566788, 7
+2, Good beer selection, 0.593284, 8
+2, good service, 0.516833, 8
+2, Awesome beer selection, 0.536321, 9
+3, nice beer selection, 0.568608, 0
+3, norm bar food, 0.549319, 0
+3, best beer bar, 0.552579, 1
+3, pretty big crowd, 0.536612, 1
+3, sports bar, 0.634904, 2
+3, Good bar food, 0.578138, 2
+3, Hungry Monk, 0.678135, 3
+3, regular sport bar, 0.50389, 3
+3, burger, 0.60252, 4
+3, cheese quesadilla, 0.571989, 4
+3, food, 0.834228, 5
+3, place, 0.688928, 5
+3, bar food, 0.634624, 6
+3, blu Burger Grille, 0.542673, 6
+3, good beer selection, 0.572166, 7
+3, good drink selection, 0.550239, 7
+3, beer selection, 0.948197, 8
+3, great beer selection, 0.721155, 8
+3, staff great advice, 0.535738, 9
+3, dollar craft beer, 0.526574, 9
+4, Good pub food, 0.435708, 0
+4, sports bar, 0.525938, 2
+4, bar food, 0.469852, 3
+4, typical bar food, 0.420142, 3
+4, beer selection, 0.981561, 5
+4, hungry monk, 0.924508, 5
+4, place, 0.665297, 6
+4, beers, 0.543341, 6
+4, sweet potato fries, 0.498914, 7
+4, chicken wings, 0.47061, 7
+4, craft beer, 0.606178, 8
+4, craft beer selection, 0.560683, 8
+4, awesome beer selection, 0.477863, 9
+4, Good beer selection, 0.47726, 9
+5, Buffalo Wild Wings, 0.28379, 0
+5, boneless chicken wings, 0.270545, 0
+5, craft beer place, 0.288357, 1
+5, local beer lovers, 0.243541, 2
+5, craft beer selections, 0.237428, 2
+5, crunchy boneless wings, 0.276696, 3
+5, typical bar food, 0.221375, 3
+5, wings, 0.54784, 5
+5, place, 0.519583, 5
+5, food, 0.414681, 6
+5, craft beer, 0.392754, 6
+5, beer selection, 0.931299, 7
+5, hungry monk, 0.735888, 7
+5, great beer selection, 0.570552, 8
+5, craft beers, 0.354551, 8
+5, new favorite wings, 0.274964, 9
+5, .Fantastic beer selection, 0.266531, 9

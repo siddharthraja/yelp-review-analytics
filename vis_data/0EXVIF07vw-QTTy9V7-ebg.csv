@@ -1,0 +1,65 @@
+rating, keyword, relevance, bucket
+1, customer service experience, 0.981933, 0
+1, different story, 0.701548, 0
+1, way, 0.67588, 1
+1, loud baby, 0.653764, 1
+1, restaurant, 0.641607, 2
+1, better ways, 0.609153, 2
+1, ones, 0.288062, 3
+1, kids, 0.757043, 4
+1, lady, 0.644456, 4
+1, place, 0.782182, 6
+1, little girls, 0.631098, 6
+1, YOUNG KIDS, 0.562674, 7
+1, counter, 0.433602, 7
+1, food, 0.416491, 9
+1, son, 0.416276, 9
+2, lack luster food, 0.860578, 0
+2, kid friendly establishment, 0.85535, 0
+2, experience, 0.532519, 1
+2, high chair, 0.718003, 3
+2, humble opinion, 0.706722, 6
+2, good craft beer, 0.822315, 7
+2, craft beer selection, 0.968947, 8
+2, Yelp, 0.589368, 9
+2, bistro, 0.566979, 9
+3, iced teas, 0.659084, 0
+3, typical flavor, 0.644531, 0
+3, stars, 0.343945, 3
+3, time, 0.343803, 3
+3, lemon raspberry, 0.643111, 6
+3, visit, 0.374434, 6
+3, chicken Caesar salad, 0.902324, 7
+3, butternut squash bisque, 0.892329, 7
+3, Nice, 0.381302, 9
+3, atmosphere, 0.380239, 9
+4, nice cold water, 0.654729, 0
+4, light early dinner, 0.614822, 0
+4, cold quiche, 0.598984, 1
+4, red velvet latte, 0.628554, 2
+4, time parts, 0.543663, 2
+4, nice greens, 0.534107, 3
+4, Queen Creek, 0.859121, 4
+4, quiche, 0.648782, 4
+4, customer service, 0.904574, 5
+4, place, 0.649386, 5
+4, small sliced pieces, 0.665866, 6
+4, small local business, 0.614092, 6
+4, sausage breakfast burrito, 0.706349, 7
+4, bowl type dish, 0.662186, 7
+4, breakfast burritos, 0.823375, 8
+4, Queen Creek Arizona, 0.614729, 8
+4, nice homemade dish, 0.682857, 9
+4, authentic place, 0.538264, 9
+5, delicious drinks, 0.778766, 0
+5, Yelp review, 0.756963, 0
+5, cold brewed coffee, 0.856859, 3
+5, Main Points, 0.76286, 3
+5, signature carrot cake, 0.857151, 6
+5, locally produced food/teas, 0.853896, 6
+5, new coffee place, 0.935889, 7
+5, Queen Creek, 0.889543, 7
+5, food, 0.98767, 8
+5, great coffee, 0.981567, 8
+5, great food, 0.897476, 9
+5, nice patio, 0.856998, 9

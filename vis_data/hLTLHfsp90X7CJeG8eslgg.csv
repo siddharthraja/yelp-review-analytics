@@ -1,0 +1,11 @@
+rating, keyword, relevance, bucket
+1, example, 0.388137, 0
+1, performers, 0.381481, 0
+1, overall potential enjoyment, 0.893496, 1
+1, patrons, 0.404315, 1
+1, Las Vegas comedy, 0.937132, 2
+1, place, 0.473661, 2
+1, tourists, 0.527619, 3
+1, staff, 0.462341, 3
+1, seeing, 0.39984, 6
+1, entertainment, 0.380318, 6

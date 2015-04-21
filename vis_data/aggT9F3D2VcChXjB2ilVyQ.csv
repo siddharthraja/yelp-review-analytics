@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+2, Sneaky Pete, 0.801816, 0
+2, appeal, 0.481051, 0
+2, scary break/speedcore, 0.709247, 1
+2, bouncers, 0.487542, 1
+2, club thing, 0.702998, 2
+2, DJs, 0.470852, 2
+2, teeny tiny size, 0.955619, 6
+2, uni friends, 0.735491, 7
+2, place, 0.504175, 7
+2, cliquey regulars, 0.703667, 8
+2, fair share, 0.675489, 8
+2, Cabaret Voltaire, 0.725464, 9
+2, similar sorts, 0.696033, 9
+3, Edinburgh music venue, 0.784491, 0
+3, usual drivel, 0.684097, 0
+3, bad vibes, 0.663356, 1
+3, kudos, 0.541323, 1
+3, bit dingy, 0.708904, 2
+3, metal/rock band, 0.678757, 2
+3, club nights, 0.688775, 3
+3, Subway, 0.533106, 3
+3, better live music, 0.790153, 6
+3, radio playlists, 0.657321, 6
+3, Sneaky Pete, 0.938061, 7
+3, bottled beer selection, 0.778662, 7
+3, awesome gig, 0.654849, 8
+3, people, 0.533394, 9
+4, lounge room, 0.32785, 0
+4, small pub, 0.323745, 0
+4, fake nails, 0.313928, 1
+4, high shimmying, 0.310816, 1
+4, particularly cheap option, 0.404194, 2
+4, fake hair, 0.314043, 2
+4, particularly classy place, 0.424342, 3
+4, drunken dancing, 0.315392, 3
+4, dance floor, 0.54311, 4
+4, place, 0.438885, 6
+4, drinks deals, 0.336972, 6
+4, Sneaky Pete, 0.919522, 7
+4, general Sneaky Pete, 0.590598, 7
+4, grand time, 0.317869, 8
+4, good place, 0.317528, 8
+5, total sweat box, 0.917025, 0
+5, dance floor area, 0.859922, 0
+5, 3D glasses, 0.653732, 2
+5, place, 0.542697, 2
+5, small room, 0.665739, 3
+5, bar, 0.480742, 3
+5, surroundings, 0.473054, 6
+5, music, 0.445057, 7
+5, tripiest home movies, 0.830108, 8
+5, good bands, 0.637655, 8

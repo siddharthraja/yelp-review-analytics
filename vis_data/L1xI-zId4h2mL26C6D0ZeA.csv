@@ -1,0 +1,25 @@
+rating, keyword, relevance, bucket
+2, yelp get-together meal, 0.918863, 0
+2, Kampong Ah Lee, 0.900651, 0
+2, potential Al Capone, 0.827909, 2
+2, policeman hunting, 0.643628, 2
+2, old nicotine-stained furniture, 0.812903, 3
+2, ooo shiney, 0.659618, 3
+2, chocolate biscuits, 0.653222, 6
+2, Tuesday evening, 0.638116, 6
+2, bar staff, 0.843119, 7
+2, interesting options, 0.618746, 7
+3, old man pub, 0.95085, 0
+3, typical average pub, 0.723652, 0
+3, Grumpy old man, 0.607355, 2
+3, old men, 0.607075, 2
+3, wild west bar, 0.565341, 3
+3, University halls, 0.471568, 3
+3, McEwan, 0.52462, 6
+3, guest ale, 0.477074, 6
+3, Ale House, 0.88106, 7
+3, traditional pub food, 0.693047, 7
+3, open mic night, 0.853342, 8
+3, good night, 0.459911, 8
+3, quick inexpensive beer, 0.553226, 9
+3, reasonable place, 0.444605, 9

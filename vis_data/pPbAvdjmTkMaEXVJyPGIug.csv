@@ -1,0 +1,53 @@
+rating, keyword, relevance, bucket
+1, Starbucks logo mark, 0.971382, 0
+1, salted caramel mocha, 0.887614, 0
+1, store, 0.538303, 1
+1, WTF, 0.451421, 2
+1, dont go trust, 0.634749, 3
+1, refill, 0.450567, 3
+2, regular Starbucks, 0.622789, 0
+2, Costco steroid muffins, 0.523185, 0
+2, toll road, 0.342153, 1
+2, tourist, 0.227191, 1
+2, Starbucks locations, 0.720555, 2
+2, expensive Starbucks, 0.640823, 2
+2, typical Starbucks pastries, 0.811092, 3
+2, Starbucks snob, 0.692359, 3
+2, Starbucks, 0.922868, 5
+2, Starbucks standards, 0.713912, 6
+2, Mandalay Bay, 0.713347, 6
+2, staff, 0.255684, 7
+2, Starbucks coffee, 0.611793, 8
+2, thirsty my friends, 0.348608, 8
+2, Starbucks Cards, 0.625735, 9
+2, additional star, 0.344156, 9
+3, Starbucks shop, 0.67917, 0
+3, outdoor seating area, 0.545272, 0
+3, Cinnamon Dulce latte, 0.543606, 1
+3, gift cards, 0.476029, 1
+3, regular starbucks, 0.754432, 2
+3, regular Starbucks prices, 0.743326, 2
+3, average Strip Starbucks, 0.767596, 3
+3, quaint little coffee, 0.54161, 3
+3, coffee shop, 0.585334, 4
+3, staff, 0.435924, 4
+3, starbucks, 0.93939, 5
+3, Mandalay Bay, 0.634302, 5
+3, certainly better coffee, 0.552638, 6
+3, terrible coffee, 0.493013, 6
+3, Starbucks card, 0.75525, 7
+3, local Starbucks, 0.701915, 7
+3, Starbucks standards, 0.676894, 8
+3, casual chit chat, 0.518024, 8
+3, barista women, 0.472238, 9
+4, damn card, 0.490926, 0
+4, better coffee, 0.475305, 0
+4, little bit, 0.503434, 2
+4, convention center, 0.491007, 2
+4, airport, 0.336199, 3
+4, product- service, 0.506098, 6
+4, Golden Nugget, 0.498109, 6
+4, green tea latte, 0.717652, 7
+4, fast customer service, 0.666689, 7
+4, starbucks fan, 0.941843, 8
+4, Starbucks card, 0.818932, 8

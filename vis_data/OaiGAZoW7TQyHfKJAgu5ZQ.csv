@@ -1,0 +1,75 @@
+rating, keyword, relevance, bucket
+1, drink order, 0.753768, 0
+1, entire night waitress, 0.730271, 0
+1, worst bartender service, 0.768421, 1
+1, Consistently poor food, 0.730535, 1
+1, lowest common denominator, 0.723955, 2
+1, Little piece, 0.601115, 2
+1, face female bartender, 0.810906, 3
+1, fast food, 0.574667, 3
+1, food, 0.905731, 4
+1, drinks, 0.609127, 4
+1, time, 0.634655, 5
+1, decent food, 0.603327, 6
+1, customer service, 0.602708, 6
+1, decent drinks, 0.608129, 7
+1, decent price, 0.589728, 7
+1, respective jobs, 0.571766, 8
+1, better service, 0.570965, 9
+2, Las Vegas, 0.795534, 0
+2, locations, 0.479599, 0
+2, crappy food, 0.750284, 1
+2, liquor, 0.474214, 1
+2, philly cheese steak, 0.941973, 2
+2, complete rip-off, 0.81275, 2
+2, daytime bartender, 0.783722, 3
+2, fries, 0.489865, 3
+2, tv, 0.569762, 4
+2, place, 0.539391, 5
+2, plus tip, 0.781187, 6
+2, Heidi, 0.560867, 7
+2, waitress, 0.500622, 7
+2, particular location, 0.791647, 8
+2, runways, 0.499365, 8
+3, long time, 0.443324, 0
+3, Good bar food, 0.801029, 2
+3, tte service, 0.516359, 3
+3, wings, 0.356421, 4
+3, average service Super, 0.82939, 6
+3, Sierra Gold, 0.455876, 6
+3, location nice pt, 0.991062, 7
+3, bartender Sean, 0.500259, 7
+3, watermelon salad, 0.522162, 8
+3, Great service, 0.495643, 8
+4, car rental place, 0.943694, 0
+4, chain link fence, 0.919547, 0
+4, Southwest airliner, 0.808033, 1
+4, little bit, 0.954888, 2
+4, bar food place, 0.906749, 2
+4, airport runway, 0.812813, 3
+4, Needs money, 0.805306, 3
+4, Lemon Pepper Wings, 0.911808, 6
+4, center focal point, 0.903458, 6
+4, location, 0.844926, 7
+4, nicest PT, 0.835881, 7
+4, buffalo chicken pizza, 0.910776, 8
+4, high ceilings, 0.820238, 8
+4, nice warmth, 0.805446, 9
+4, pool tables, 0.800535, 9
+5, particular PT, 0.805142, 0
+5, cheap drinks, 0.753952, 0
+5, bar drinks, 0.740659, 1
+5, never-ending line, 0.733322, 1
+5, industry post-shift misery, 0.932523, 2
+5, *other* PT, 0.804733, 2
+5, looooong line, 0.720725, 3
+5, amazing service, 0.711664, 3
+5, Vegas, 0.584717, 4
+5, planes, 0.582483, 5
+5, new favorite bar, 0.955593, 6
+5, Good draft selection, 0.905035, 6
+5, curly fries, 0.727694, 7
+5, good service, 0.721283, 7
+5, airport runway, 0.731931, 8
+5, natural light, 0.731282, 8
+5, nice comfortable chairs, 0.913208, 9

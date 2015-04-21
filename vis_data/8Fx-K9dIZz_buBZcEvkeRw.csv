@@ -1,0 +1,64 @@
+rating, keyword, relevance, bucket
+1, complete crap, 0.878329, 0
+1, busy night, 0.863485, 0
+1, dos gringos, 0.909026, 1
+1, bar, 0.902478, 1
+1, single person, 0.852827, 2
+1, large bar, 0.815213, 2
+1, phone number, 0.934694, 3
+1, website, 0.846344, 3
+1, food, 0.823661, 4
+1, drinks, 0.642285, 7
+1, Friday, 0.62913, 7
+2, beer list, 0.937192, 0
+2, hummus platter, 0.628787, 0
+2, poor choice, 0.60244, 2
+2, cheap drinks, 0.594657, 2
+2, people, 0.440824, 3
+2, bar, 0.367258, 3
+2, social tap, 0.588786, 6
+2, nice chill spot, 0.763571, 7
+2, place, 0.42601, 7
+3, great neighborhood bar, 0.725877, 0
+3, small bar food, 0.722676, 0
+3, Old Town, 0.753273, 2
+3, best recollection, 0.626832, 2
+3, new food menu, 0.735093, 3
+3, regular restaurant service, 0.70491, 3
+3, dive-bar type place, 0.711287, 6
+3, insatiable craving, 0.630806, 6
+3, BBQ Pork, 0.831872, 7
+3, Social Tap, 0.7589, 7
+3, late night eats, 0.942303, 8
+3, ground chuck burger, 0.743651, 8
+4, cheap-o beers, 0.754415, 0
+4, soul food, 0.700579, 0
+4, tabs, 0.381957, 1
+4, Red Revolver, 0.775168, 2
+4, cheesy sign, 0.752944, 2
+4, kind, 0.379055, 3
+4, Social Tap, 0.931861, 5
+4, Mulligans, 0.462427, 6
+4, STARS, 0.381315, 6
+4, nice outdoor patios, 0.957694, 7
+4, people watchers, 0.74776, 7
+4, Good job, 0.749878, 8
+4, decent drinks, 0.709139, 8
+4, nice mix, 0.692943, 9
+4, vibe, 0.416574, 9
+5, old jams, 0.666569, 0
+5, Old Town, 0.647115, 0
+5, case, 0.443315, 1
+5, birthday bunch, 0.675033, 2
+5, bar food, 0.659174, 2
+5, pub/sports bar, 0.678628, 3
+5, good taste, 0.660365, 3
+5, night, 0.481357, 4
+5, expectations, 0.450763, 6
+5, Darts, 0.444814, 6
+5, high quality food, 0.920667, 7
+5, different Popular Drafts, 0.863302, 7
+5, regular food menu, 0.9311, 8
+5, fun solid group, 0.869766, 8
+5, EXTREMELY YUMMY shots, 0.915595, 9
+5, social tap, 0.868831, 9

@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+2, demeaning tone, 0.724084, 0
+2, neon bras, 0.722759, 0
+2, two-person table, 0.751632, 1
+2, snarky remarks, 0.719311, 1
+2, recent experience, 0.737406, 2
+2, large table, 0.700682, 2
+2, things, 0.464968, 3
+2, point, 0.458152, 3
+2, uptown grow, 0.704306, 6
+2, ideal impression, 0.686714, 6
+2, sublime DVLB, 0.726202, 7
+2, Calamity Jane, 0.706451, 7
+2, entire place way, 0.945189, 8
+2, good price, 0.693641, 8
+2, amazing veggie menu, 0.954662, 9
+2, uptown Waterloo, 0.713479, 9
+4, cashew burger, 0.879798, 0
+4, pitcher, 0.284659, 0
+4, Halifax, 0.292961, 2
+4, Waterloo, 0.292172, 2
+4, marinara, 0.32502, 6
+4, sandwich, 0.269053, 6
+4, eggplant parm, 0.885053, 7
+4, drinks, 0.502696, 7
+4, cauliflower curry, 0.900309, 8
+4, Wine selection, 0.768107, 8
+4, place, 0.280604, 9
+5, eggplant parmesan, 0.789455, 0
+5, marinara sauce, 0.422196, 0
+5, bar crowd, 0.388043, 3
+5, Waterloo, 0.508871, 6
+5, quality place, 0.43152, 6
+5, Jane Bond, 0.94482, 7
+5, bar, 0.423499, 7
+5, great indie tracks, 0.6692, 8
+5, good food, 0.631525, 8
+5, make life interesting, 0.702825, 9
+5, unique crowd, 0.444842, 9

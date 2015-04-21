@@ -1,0 +1,80 @@
+rating, keyword, relevance, bucket
+1, grilled romaine salad, 0.979871, 0
+1, friendliest bartender, 0.805593, 0
+1, Poured weak drinks, 0.919717, 1
+1, service, 0.77988, 1
+1, bone marrow appetizer, 0.959031, 2
+1, chipotle flavor, 0.767248, 2
+1, entire restaurant, 0.751881, 3
+1, POS station, 0.733654, 3
+1, waiters, 0.659839, 4
+1, baby servings, 0.781133, 6
+1, salmon salad, 0.767133, 6
+1, mins, 0.552198, 7
+1, Phoenix newest place, 0.907937, 8
+1, different people, 0.743119, 8
+1, great things, 0.72032, 9
+2, pig ear plate, 0.854042, 0
+2, Extremely small portions, 0.693455, 0
+2, complimentary pig ear, 0.65061, 1
+2, rare occasion Yelp, 0.649016, 1
+2, small beet, 0.533408, 2
+2, runny egg, 0.527331, 2
+2, food truck, 0.564385, 3
+2, beet salad, 0.531936, 3
+2, pig ear, 0.907242, 4
+2, pig ear pad, 0.855042, 4
+2, tuna poke, 0.66922, 6
+2, complimentary entree, 0.538767, 6
+2, lamb kimchi, 0.670764, 7
+2, great local establishments, 0.613051, 7
+2, pretty good deal, 0.655718, 8
+2, Roman gnocchi, 0.570184, 8
+3, Late night menu, 0.790481, 0
+3, bacon peanut butter, 0.789475, 0
+3, peanut butter ice, 0.884487, 1
+3, butter ice cream, 0.882263, 1
+3, ice cream, 0.989011, 2
+3, little cheddar flavor, 0.759765, 2
+3, cookie bar, 0.754911, 3
+3, Seared Tuna Nicoise, 0.749476, 3
+3, dish, 0.749495, 4
+3, food, 0.731991, 5
+3, open til midnight, 0.771677, 6
+3, roasted beet salad, 0.76959, 6
+3, lemon poppyseed cake, 0.892681, 7
+3, avocado ice cream, 0.886089, 7
+3, star reviews, 0.77786, 8
+3, mid-evening light meal, 0.774373, 8
+3, Roman Style Gnocchi, 0.777188, 9
+3, high end ingredients, 0.752903, 9
+4, peanut butter dessert, 0.518595, 0
+4, trendy downtown PHX, 0.500555, 0
+4, bone marrow, 0.524432, 2
+4, dang bone marrow, 0.512907, 2
+4, offer dark corners, 0.535781, 3
+4, peanut butter taste, 0.501512, 3
+4, pork belly, 0.569553, 4
+4, couple times, 0.498716, 4
+4, pig ear pad, 0.985434, 5
+4, ear pad thai, 0.838368, 5
+4, food, 0.529956, 6
+4, tasty dessert, 0.527385, 6
+4, wait staff, 0.510969, 7
+4, large gnocchi, 0.445896, 7
+4, fine herb vin, 0.516133, 8
+4, pork belly dish, 0.490982, 8
+4, seasonal local food, 0.509501, 9
+4, Cool new place, 0.486038, 9
+5, pig ear pad, 0.821332, 0
+5, ear pad thai, 0.81916, 0
+5, food, 0.722485, 5
+5, menu, 0.662916, 5
+5, roasted bone marrow, 0.884849, 6
+5, Grilled romain heart, 0.599963, 6
+5, bone marrow, 0.985366, 7
+5, heirloom cauliflower, 0.643628, 7
+5, new favorite place, 0.764998, 8
+5, lamb bacon, 0.696929, 8
+5, great customer service, 0.633649, 9
+5, Great wine selection, 0.615647, 9

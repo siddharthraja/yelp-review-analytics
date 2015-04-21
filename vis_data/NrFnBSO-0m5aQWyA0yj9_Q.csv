@@ -1,0 +1,15 @@
+rating, keyword, relevance, bucket
+3, comfortable stools, 0.777633, 0
+3, lounge tables, 0.699208, 0
+3, hotel lobby, 0.738693, 1
+3, privacy partition, 0.705893, 1
+3, wink, 0.418162, 2
+3, stop-over, 0.39118, 2
+3, Chivas Regal, 0.751514, 6
+3, Coors Light, 0.663893, 6
+3, decent place, 0.641235, 7
+3, Hilton, 0.301812, 7
+3, perfect vantage point, 0.959194, 9
+3, lobby elevators, 0.784918, 9
+4, Nice modern bar, 0.929245, 9
+4, ample seating, 0.76182, 9

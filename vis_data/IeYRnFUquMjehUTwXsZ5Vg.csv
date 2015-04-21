@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, couple times, 0.721466, 0
+1, mediocrity, 0.529724, 0
+1, tickle, 0.491497, 1
+1, cockroach, 0.487498, 1
+1, little neighborhood bar, 0.951131, 2
+1, HH menu, 0.735166, 2
+1, personal pizza, 0.773754, 3
+1, Redendo, 0.538631, 3
+1, hot girl, 0.723629, 6
+1, Friendly staff, 0.711913, 8
+3, stage, 0.858251, 0
+3, ok, 0.759659, 0
+3, private event, 0.966646, 2
+3, drink, 0.758418, 2
+3, ones, 0.742423, 3
+3, 15 min, 0.964031, 6
+3, bout, 0.774981, 6
+3, Atmosphere, 0.755849, 7
+3, place, 0.746377, 8
+3, check, 0.745807, 8
+4, Scots expat, 0.696672, 0
+4, golf nut, 0.676768, 0
+4, appetizers, 0.47506, 1
+4, little neighborhood joint, 0.996162, 2
+4, local watering hole, 0.943614, 2
+4, drinks, 0.539897, 3
+4, shot, 0.452703, 3
+4, wings, 0.495489, 5
+4, caprese bites, 0.704921, 6
+4, artichoke dip, 0.696849, 6
+4, garlic fries YUUUM, 0.882121, 7
+4, Bogeys card, 0.720914, 7
+4, Great local place, 0.860796, 8
+4, awesome hunk, 0.712166, 8
+4, nice hidden gem, 0.907555, 9
+4, good people, 0.67915, 9
+5, great Moscow Mules, 0.839412, 0
+5, Pizza place, 0.689144, 0
+5, Cheap drinks, 0.699101, 1
+5, food blows, 0.695235, 1
+5, places mediocre food, 0.864345, 2
+5, Killer Steak Sandwich, 0.830368, 2
+5, Jiffy Lube, 0.686024, 3
+5, strip mall, 0.66326, 3
+5, turnover, 0.541275, 4
+5, Bogeys, 0.700454, 5
+5, great alternatives, 0.708666, 6
+5, Good local spot, 0.908725, 7
+5, Great local bar, 0.855606, 7
+5, great service, 0.874504, 8
+5, friendly neighborhood place, 0.862682, 8
+5, super fun company, 0.874704, 9
+5, BBQ Pork sandwich, 0.83504, 9

@@ -1,0 +1,33 @@
+rating, keyword, relevance, bucket
+1, Terrible service, 0.964397, 1
+1, waiter, 0.773472, 1
+3, Pour la boisson, 0.949142, 0
+3, c'est le bonheur, 0.898674, 0
+3, small pour, 0.847075, 3
+3, la rue St-Denis, 0.816443, 3
+3, et que tu, 0.875027, 6
+3, l'île noire, 0.873855, 6
+3, le meilleur gin, 0.872285, 7
+3, baser sur le, 0.862407, 7
+4, vous vous trompez, 0.914224, 0
+4, où vous en, 0.877302, 0
+4, biggest Scotch drinker, 0.802705, 3
+4, scotch, 0.923452, 6
+4, scotch drinker, 0.876538, 6
+4, big scotch drinker, 0.830035, 7
+4, old scotch, 0.776551, 7
+4, Awesome scotch selection, 0.841596, 8
+4, scotch drinkers, 0.778376, 8
+4, exceptional scotch menu, 0.824963, 9
+5, offre une vingtaine, 0.866201, 0
+5, dram et demi-dram, 0.865387, 0
+5, tout sa vaste, 0.838382, 3
+5, best damn decision, 0.821375, 3
+5, scotch degustation, 0.881633, 6
+5, good Irish whiskey, 0.875406, 6
+5, scotch, 0.982849, 7
+5, Scotch Whisky, 0.944636, 7
+5, nice place, 0.797084, 8
+5, new place, 0.790461, 8
+5, Great scotch selection, 0.908705, 9
+5, Scotch whiskies, 0.866586, 9

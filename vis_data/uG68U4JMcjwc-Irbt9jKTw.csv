@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, generally popular things, 0.868959, 0
+1, male staff, 0.655987, 0
+1, stupid nose ring, 0.873922, 1
+1, manager, 0.679224, 2
+1, food, 0.507641, 2
+1, spicey option, 0.642364, 3
+1, Credit Card, 0.624623, 3
+1, party, 0.491278, 5
+1, standard cocktail recipes, 0.864771, 6
+1, staff, 0.798926, 6
+1, 2L 'boot'., 0.9955, 7
+1, small selection, 0.638704, 7
+1, good Sangria pitchers, 0.909731, 8
+1, welcoming city, 0.645961, 8
+1, good cocktail, 0.676557, 9
+1, poutine, 0.465494, 9
+3, good poutine gravy, 0.916113, 0
+3, giant sangria, 0.555999, 0
+3, new favourite place, 0.62153, 2
+3, distracted service, 0.486193, 2
+3, regular poutine, 0.718482, 3
+3, bit slow., 0.480429, 3
+3, pickles, 0.374741, 4
+3, time, 0.49009, 5
+3, Moose Bawr, 0.684346, 6
+3, kimchi, 0.68224, 6
+3, poutine party, 0.774131, 7
+3, lovely CM Ms, 0.677295, 7
+3, lovely wednesday afternoon, 0.680583, 8
+3, tasty Great option, 0.653431, 8
+3, tasty sounding things, 0.654318, 9
+3, pretty good beer, 0.620255, 9
+4, classic poutine, 0.54059, 0
+4, especially evenings, 0.399012, 0
+4, poutine + bacon, 0.569469, 1
+4, tasty sour kraut, 0.478614, 1
+4, unexciting food options, 0.446246, 2
+4, table tab, 0.395125, 2
+4, intimate conversation, 0.38145, 3
+4, cheese curds, 0.64813, 5
+4, bacon cheddar sausage, 0.639067, 5
+4, glad Moose Bawr, 0.441304, 6
+4, multiple times, 0.401698, 6
+4, kimchi poutine, 0.918427, 7
+4, Moose Bawr, 0.557441, 7
+4, quality assurance mode, 0.460521, 8
+4, honey mustard, 0.389613, 8
+4, nice light environment, 0.440783, 9
+4, good drinks, 0.385401, 9

@@ -1,0 +1,22 @@
+rating, keyword, relevance, bucket
+1, main act Joe, 0.974619, 0
+1, insulting people, 0.728913, 0
+1, lowest possible rating, 0.954165, 1
+1, audience, 0.728255, 1
+1, unusual punishment, 0.713257, 2
+1, audience member, 0.704692, 2
+1, main attraction Joe, 0.88778, 3
+1, Tuscany Hotel, 0.728841, 3
+1, person, 0.49866, 6
+1, Btw, 0.480974, 6
+1, nice guy, 0.723042, 7
+1, new people, 0.659561, 7
+1, good stuff, 0.700433, 8
+1, adult comedy, 0.690164, 8
+5, age restriction, 0.940646, 0
+5, family, 0.559133, 0
+5, Comedy, 0.589735, 6
+5, type acts, 0.848077, 7
+5, Joe, 0.742601, 7
+5, True improv, 0.908341, 8
+5, audience, 0.592908, 8

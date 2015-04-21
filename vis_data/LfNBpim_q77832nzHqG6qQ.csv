@@ -1,0 +1,31 @@
+rating, keyword, relevance, bucket
+2, hot wings, 0.929312, 0
+2, French fries, 0.863261, 0
+2, napkin, 0.34585, 1
+2, horrible service, 0.792056, 2
+2, silverware, 0.64635, 2
+2, table, 0.631638, 3
+2, server, 0.439507, 3
+2, manager, 0.407303, 5
+2, napkins, 0.31102, 6
+2, plate, 0.275928, 6
+3, raaaaaare, 0.238708, 0
+3, manager, 0.236495, 0
+3, horrible experience, 0.387739, 2
+3, past restaurant experiences, 0.516529, 3
+3, food, 0.287484, 3
+3, rare steak, 0.726359, 5
+3, steak, 0.941857, 6
+3, children, 0.374332, 6
+3, Vidalia onion steak, 0.803243, 7
+3, brand new steak, 0.728896, 7
+4, nights, 0.605867, 7
+4, couple, 0.599935, 7
+4, entire time, 0.93735, 8
+4, great personality, 0.886478, 8
+5, Metro Police Officers, 0.901944, 0
+5, Las Vegas, 0.682864, 0
+5, special shout, 0.69688, 8
+5, breakfast, 0.535555, 8
+5, perfect Margarita, 0.744202, 9
+5, Community Partner, 0.669662, 9

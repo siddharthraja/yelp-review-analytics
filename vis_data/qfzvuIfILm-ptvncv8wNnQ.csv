@@ -1,0 +1,91 @@
+rating, keyword, relevance, bucket
+1, el hefe scottsdale, 0.551243, 0
+1, tiny little Tacos, 0.517526, 0
+1, worst service, 0.540023, 1
+1, security guard, 0.508125, 1
+1, customer service environment, 0.532772, 2
+1, basketball shoes, 0.520041, 2
+1, food, 0.61103, 3
+1, drink, 0.594398, 3
+1, place, 0.809758, 4
+1, bar, 0.732095, 4
+1, el hefe, 0.980859, 5
+1, people, 0.620239, 5
+1, scottsdale location, 0.540439, 7
+1, El Hefe owners, 0.535802, 7
+1, El Hefe charges, 0.540801, 8
+2, re-heated frozen food, 0.653713, 0
+2, al pastor taco, 0.652987, 0
+2, good taco place, 0.675026, 1
+2, poor quality drinks, 0.629142, 1
+2, local breweries, 0.625528, 2
+2, genuinely confused face, 0.607274, 2
+2, food, 0.727699, 3
+2, patio space, 0.656749, 3
+2, beer, 0.737507, 4
+2, place, 0.735071, 4
+2, free chips, 0.700069, 5
+2, college students, 0.632415, 5
+2, chicken tinga tacos, 0.774889, 6
+2, order regular drinks, 0.673499, 6
+2, old town scottsdale, 0.734572, 7
+2, carne asada taco, 0.654947, 7
+2, El Hefe, 0.948535, 8
+2, dual patio setup, 0.635441, 8
+2, good place, 0.601389, 9
+2, good ones, 0.597298, 9
+3, football game, 0.556315, 0
+3, tight dance floor, 0.459201, 0
+3, Mexican food options, 0.447206, 1
+3, new people, 0.392576, 1
+3, bar service, 0.405436, 2
+3, food items, 0.404913, 2
+3, El Hefe Tempe, 0.752085, 3
+3, Scottsdale location, 0.661259, 3
+3, el hefe, 0.923205, 4
+3, bar, 0.567586, 4
+3, food, 0.548925, 5
+3, time, 0.429058, 5
+3, place, 0.663318, 6
+3, dance floor, 0.52956, 6
+3, fun place, 0.46841, 7
+3, beer/ margarita thing, 0.458069, 7
+3, nice place, 0.536584, 8
+3, Great place, 0.40581, 8
+3, good hospitality, 0.408419, 9
+3, Good taco, 0.39188, 9
+4, BOM BOM BOM, 0.999201, 0
+4, BOM BOM BOMP, 0.660999, 0
+4, El Hefe, 0.323107, 1
+4, old fart, 0.257526, 1
+4, food service/quality, 0.271106, 2
+4, Saturday night, 0.262718, 2
+4, bloody mary, 0.314959, 3
+4, drinks, 0.303224, 4
+4, table, 0.270396, 4
+4, place, 0.295231, 5
+4, carne asada tacos, 0.467404, 6
+4, El Pastor tacos, 0.362538, 6
+4, Salty Chihuahua margarita, 0.30992, 7
+4, good deals, 0.274086, 7
+4, nice open layout, 0.307999, 8
+4, scottsdale location, 0.294058, 8
+4, STARS Tacos, 0.311048, 9
+4, spacious patios, 0.267459, 9
+5, pork tacos, 0.591441, 0
+5, boss tacos, 0.576177, 0
+5, good looking girls, 0.550867, 1
+5, ........., 0.525583, 1
+5, damn bar manager, 0.52288, 2
+5, bus boy, 0.508317, 3
+5, food, 0.603746, 4
+5, el hefe, 0.956594, 5
+5, place, 0.689216, 5
+5, tacos, 0.784285, 6
+5, Beef cheek tacos, 0.647538, 6
+5, El Hefe Tempe, 0.739866, 7
+5, best tacos, 0.590962, 7
+5, grilled shrimp tacos, 0.652372, 8
+5, Great tacos, 0.636958, 8
+5, Thanks El Hefe, 0.589711, 9
+5, deliciously unexpected ingredients, 0.510144, 9

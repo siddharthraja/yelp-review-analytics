@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+1, restaurant business, 0.546107, 0
+1, wife, 0.285258, 0
+1, dissatisfaction, 0.311366, 1
+1, true intentions, 0.62929, 2
+1, capacity, 0.279455, 2
+1, meal, 0.277828, 3
+1, policy, 0.276102, 3
+1, new Pour House, 0.87781, 6
+1, Saint Patrick, 0.609922, 6
+1, favorite Irish Pub, 0.946209, 7
+1, business, 0.685804, 7
+1, blond hair, 0.661957, 8
+1, great time, 0.580805, 8
+3, good tho, 0.552853, 0
+3, HUGE portions, 0.550878, 0
+3, BBQ sauce, 0.541855, 2
+3, wings, 0.444473, 2
+3, Irish music night, 0.754404, 3
+3, Pour House, 0.589779, 3
+3, live music, 0.974032, 5
+3, fish sandwich, 0.762735, 5
+3, corned beef b/c, 0.754644, 6
+3, live music night, 0.708049, 6
+3, dining al fresco, 0.771962, 7
+3, Pgh regulars, 0.578158, 7
+3, Ok place, 0.560036, 8
+3, Nice atmosphere, 0.539704, 8
+3, yummy steak fries, 0.828824, 9
+3, Nice thick batter, 0.564946, 9
+4, cucumber gazpacho, 0.629713, 0
+4, traditional stuff, 0.615053, 0
+4, waitress, 0.443769, 1
+4, potato pancakes, 0.842597, 2
+4, old Pour House, 0.810391, 3
+4, previous ownership, 0.59384, 3
+4, Pour House, 0.964735, 6
+4, traditional Irish beers, 0.763264, 6
+4, refreshing paint job, 0.832044, 7
+4, good Irish pub, 0.781132, 7
+4, great little pub, 0.768104, 8
+4, Sweet potato fries, 0.740399, 8
+4, new Pour House, 0.844312, 9
+4, proper Guinness, 0.596699, 9
+5, authentic Irish pub, 0.972736, 0
+5, bartender, 0.465736, 0
+5, nostrils, 0.475959, 1
+5, fish breading, 0.680729, 2
+5, dog, 0.454453, 2
+5, busy nights, 0.682491, 3
+5, Irish fashion, 0.668535, 3
+5, downside, 0.46885, 4
+5, Great little pub, 0.903705, 6
+5, mashed potatoes, 0.670677, 6
+5, best corned beef, 0.88059, 7
+5, seafood crepe, 0.668395, 7
+5, traditional Irish music, 0.93497, 8
+5, great atmosphere, 0.882378, 8
+5, Irish hospitality, 0.65358, 9
+5, pie, 0.456847, 9

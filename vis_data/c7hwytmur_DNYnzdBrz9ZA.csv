@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, busy Saturday night, 0.748142, 0
+1, SNL skit, 0.606343, 0
+1, website, 0.456745, 1
+1, disbelief, 0.440022, 1
+1, dang drinks, 0.593681, 2
+1, male bartender, 0.585793, 2
+1, Saturday night, 0.912912, 3
+1, Saturday night Feb, 0.684744, 3
+1, scene, 0.436709, 6
+1, Shaw, 0.432685, 6
+1, actual bartenders, 0.607899, 7
+1, girls, 0.437613, 7
+2, food allergies, 0.652043, 1
+2, Pisco drink, 0.754339, 2
+2, egg whites, 0.649221, 2
+2, hidden speakeasy type, 0.938506, 3
+2, romantic little spot, 0.871705, 3
+2, pin, 0.465149, 7
+2, sound, 0.451727, 7
+2, whisky menu, 0.652061, 8
+2, drinks, 0.540597, 8
+2, true mixology experience, 0.929721, 9
+3, cozy Pittsburgh bars, 0.773779, 0
+3, booth seating, 0.587513, 0
+3, abandoned apartment building, 0.866478, 3
+3, clubby scene, 0.533643, 6
+3, unusual drafts, 0.510681, 6
+3, drink menu, 0.544791, 7
+3, nice spot, 0.527925, 7
+3, Saturday night, 0.523572, 8
+3, draft beers, 0.505029, 8
+3, pretty cute spot, 0.921495, 9
+3, great list, 0.45919, 9
+4, style cocktail bar, 0.78735, 0
+4, signature cocktails, 0.76861, 0
+4, actual bees knees, 0.730907, 2
+4, Acacia, 0.727371, 2
+4, classic cocktail bars, 0.791237, 3
+4, prohibition era cocktail, 0.786561, 3
+4, cocktail, 0.910345, 5
+4, place, 0.813734, 5
+4, bees knees, 0.941018, 6
+4, bartenders, 0.805092, 6
+4, cocktail menu, 0.780208, 7
+4, best prohibition-era cocktails, 0.773044, 7
+4, cocktails, 0.8423, 8
+4, smart cocktail, 0.723869, 8
+4, pre-prohibition speakeasy cocktail, 0.780377, 9
+4, fantastic craft cocktails, 0.751597, 9
+5, Great little bar, 0.786281, 0
+5, terrific little bar, 0.762521, 0
+5, bad drinks, 0.742347, 2
+5, craft cocktail bar, 0.766996, 3
+5, bartenders hands, 0.75286, 3
+5, door, 0.712255, 4
+5, drinks, 0.96432, 5
+5, bar, 0.883992, 5
+5, bartenders, 0.952005, 6
+5, multiple drinks, 0.748563, 6
+5, cocktails, 0.876032, 7
+5, terrific mixed drinks, 0.801404, 7
+5, Great craft cocktails, 0.802991, 8
+5, Great cocktail list, 0.753652, 8
+5, great original cocktails, 0.788016, 9
+5, great drinks, 0.78025, 9

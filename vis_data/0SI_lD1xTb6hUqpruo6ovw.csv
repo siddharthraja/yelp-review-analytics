@@ -1,0 +1,72 @@
+rating, keyword, relevance, bucket
+1, customer service, 0.576796, 0
+1, poor management, 0.563125, 0
+1, Bad meal, 0.939862, 1
+1, pungent sour smell, 0.7461, 1
+1, table, 0.574054, 2
+1, different waitress, 0.572279, 2
+1, vs Oregon game, 0.684865, 3
+1, little hotter, 0.57487, 3
+1, Greek salad, 0.719981, 4
+1, trivia, 0.653223, 4
+1, drinks, 0.495173, 5
+1, Honey mustard wings, 0.713797, 6
+1, server, 0.638001, 6
+1, NTN game, 0.702429, 7
+1, NTN Trivia, 0.590234, 7
+1, sweet potato fries, 0.713074, 8
+1, Good meal, 0.586895, 8
+2, food, 0.676895, 0
+2, management, 0.675475, 0
+2, concern, 0.605688, 2
+2, things, 0.582224, 2
+2, problem, 0.674342, 3
+2, lack, 0.618619, 3
+2, ) tacos., 0.934447, 4
+2, staff, 0.677328, 5
+2, price increase, 0.832845, 6
+2, recent issue, 0.820049, 6
+2, stars, 0.604586, 7
+2, Cheers, 0.628117, 8
+3, scene, 0.26792, 1
+3, track betting, 0.943994, 2
+3, game, 0.268298, 2
+3, best place, 0.742503, 3
+3, drink, 0.281998, 3
+3, times.. service, 0.972444, 6
+3, people, 0.25568, 6
+3, good place, 0.648442, 7
+3, surroundings, 0.342956, 7
+3, friends birthday, 0.869699, 8
+3, food, 0.645057, 8
+4, bar/off track, 0.669787, 0
+4, bothers, 0.395142, 0
+4, miserable results, 0.704924, 1
+4, street, 0.364379, 1
+4, Buzztime trivia, 0.708421, 2
+4, extra start, 0.676769, 2
+4, fountain, 0.366329, 3
+4, bit, 0.361303, 3
+4, beers, 0.36442, 4
+4, tap, 0.361553, 4
+4, young single man, 0.922389, 6
+4, flavorful buffalo sauce, 0.985289, 7
+4, Cons, 0.374902, 7
+4, buffalo chicken, 0.988844, 8
+4, favorite places, 0.706519, 8
+4, cherry coke, 0.947433, 9
+4, Friday fish fry, 0.914597, 9
+5, real shame, 0.664395, 0
+5, short ones, 0.62568, 0
+5, debit card, 0.624932, 1
+5, hood bar, 0.607348, 1
+5, Old school bar, 0.9472, 2
+5, chilli dogs, 0.931943, 2
+5, free shot, 0.594616, 6
+5, dog races, 0.59248, 6
+5, great taste, 0.64192, 7
+5, waitress, 0.632918, 7
+5, place, 0.746863, 8
+5, bigger burger, 0.674, 8
+5, Super friendly staff, 0.935633, 9
+5, great bartender, 0.624265, 9

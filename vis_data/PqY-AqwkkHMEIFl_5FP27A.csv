@@ -1,0 +1,10 @@
+rating, keyword, relevance, bucket
+1, cheese sticks, 0.68871, 0
+1, afternoon, 0.418689, 0
+1, Notre Dame Ouest, 0.933059, 1
+1, Pub Victoria, 0.678892, 1
+1, fries, 0.529821, 3
+1, burger, 0.522406, 3
+1, tad, 0.400771, 6
+1, pubs, 0.400684, 6
+1, server, 0.370743, 7

@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, free crepe, 0.71643, 0
+1, Polish crepe, 0.698456, 0
+1, breakfast crepe, 0.705372, 1
+1, Bad service, 0.67103, 1
+1, worst crepe, 0.734076, 2
+1, bad crepe, 0.693663, 2
+1, crepes, 0.833274, 3
+1, Chef Agnes, 0.825397, 3
+1, crepe, 0.997122, 4
+1, place, 0.868131, 4
+1, water, 0.80564, 5
+1, time, 0.675202, 5
+1, New York crepe, 0.768646, 6
+1, duo crepe plate, 0.751488, 6
+1, highly recommended crepe, 0.772567, 7
+1, smoothie to-go, 0.771914, 7
+1, softest crepe, 0.700361, 8
+1, safe place, 0.603996, 8
+2, cooked crepe batter, 0.690106, 0
+2, savory crepe section, 0.689837, 0
+2, Styrofoam to-go cups, 0.565994, 1
+2, Summerlin NV USA, 0.565526, 1
+2, room temperature latte, 0.767156, 2
+2, crispy crepe, 0.622156, 2
+2, fruit plate, 0.562556, 3
+2, red sauce, 0.503785, 3
+2, fairly combative owner, 0.562744, 4
+2, crepe, 0.955246, 5
+2, crepes, 0.762486, 5
+2, decent crepe place, 0.70288, 6
+2, crepe cost, 0.628179, 6
+2, béchamel sauce, 0.670917, 7
+2, Moroccan crepe, 0.62832, 7
+2, Good incentive, 0.516152, 8
+2, good friend, 0.512418, 8
+2, farmers market, 0.499336, 9
+3, Crepe numerous times, 0.803765, 0
+3, indulgent crepe, 0.747291, 0
+3, strange lemony flavor, 0.618415, 2
+3, white chocolate chips, 0.613518, 2
+3, Japan crepe, 0.784018, 3
+3, over-priced crepes, 0.659483, 3
+3, crepes, 0.792432, 4
+3, place, 0.741629, 5
+3, white chocolate, 0.685544, 5
+3, crepe, 0.908157, 6
+3, Tivoli Village, 0.720948, 6
+3, savory crepe, 0.79976, 7
+3, kids crepe, 0.771459, 7
+3, house crepe batter, 0.766948, 8
+3, play area, 0.748385, 8
+3, yummy crepe, 0.758918, 9
+3, little ones, 0.739778, 9
+4, breakfast France crepe, 0.794784, 0
+4, Curry Style crepe, 0.790601, 0
+4, mistake crepe, 0.779887, 1
+4, maple syrup crepe, 0.802757, 2
+4, story time, 0.666172, 2
+4, crepe guy, 0.753597, 3
+4, French crepe, 0.843066, 4
+4, little ones, 0.654274, 4
+4, crepe, 0.96341, 5
+4, crepes, 0.800482, 5
+4, lemon curd crepe, 0.762238, 6
+4, FREE crepe, 0.756135, 6
+4, delicious crepe, 0.798828, 7
+4, sweet USA crepe, 0.793157, 7
+4, USA breakfast crepe, 0.784789, 8
+4, divine crepe pancake, 0.767213, 8
+4, sized crepe, 0.761185, 9
+4, complimentary crepe, 0.752707, 9
+5, Nutella crepe place, 0.582062, 0
+5, creme brule crepe, 0.551366, 0
+5, breakfast crepe, 0.49067, 1
+5, dessert crepes, 0.619046, 3
+5, desert crepes, 0.583054, 3
+5, crepe, 0.813812, 4
+5, play area, 0.668134, 5
+5, time, 0.428875, 5
+5, place, 0.612195, 6
+5, food, 0.575492, 6
+5, crepes, 0.924371, 7
+5, tasty crepes, 0.584346, 7
+5, amazing crepes, 0.599629, 8
+5, sweet crepe, 0.551849, 8
+5, best crepes, 0.663402, 9
+5, absolutely fabulous crepes, 0.604812, 9

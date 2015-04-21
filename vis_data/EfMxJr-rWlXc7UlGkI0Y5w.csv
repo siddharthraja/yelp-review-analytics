@@ -1,0 +1,15 @@
+rating, keyword, relevance, bucket
+2, gluten free bun, 0.90162, 1
+2, waitress, 0.606589, 1
+2, food, 0.522388, 2
+2, idea, 0.548783, 3
+4, Monks locations, 0.787227, 0
+4, tight squeeze, 0.732843, 0
+4, Sun Prairie, 0.954564, 6
+4, fast food, 0.631558, 6
+4, fish tacos, 0.748394, 8
+4, chicken sandwich, 0.72893, 8
+5, Cuban sandwich, 0.944799, 0
+5, salad, 0.589095, 6
+5, beer, 0.244116, 7
+5, Great wings, 0.780801, 8

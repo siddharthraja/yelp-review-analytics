@@ -1,0 +1,78 @@
+rating, keyword, relevance, bucket
+1, iced latte, 0.594376, 0
+1, coffee drink, 0.490868, 0
+1, coffee grounds, 0.634195, 1
+1, lowest quality, 0.504315, 1
+1, horribly bitter latte, 0.795405, 2
+1, beans, 0.343709, 2
+1, coffee shops, 0.522062, 3
+1, main qualms, 0.501927, 3
+1, coffee, 0.963981, 4
+1, time, 0.366929, 5
+1, Wayne music videos, 0.649403, 6
+1, good quality coffee, 0.65203, 7
+1, easy way, 0.514322, 7
+1, coffee shop, 0.781069, 8
+1, main purpose, 0.491515, 8
+2, lightweight pop variety, 0.723318, 0
+2, music video concept, 0.696156, 0
+2, Conspire, 0.474214, 2
+2, Cartel, 0.457028, 2
+2, americano, 0.550071, 3
+2, staff, 0.432514, 3
+2, cappuccino, 0.57815, 5
+2, nice place, 0.588322, 6
+2, music videos, 0.568158, 6
+2, Dolce Espresso Video, 0.985461, 7
+2, Coffee Bar suck, 0.783909, 7
+2, espresso drink, 0.638685, 8
+2, certain people, 0.573815, 8
+3, wall playing pop, 0.89581, 0
+3, Mexican sugar skulls, 0.89, 0
+3, options limps, 0.75745, 1
+3, video bar element, 0.888785, 2
+3, inane pop videos, 0.876372, 2
+3, Video coffee bar, 0.931901, 3
+3, various bakery options, 0.879166, 3
+3, service, 0.686429, 5
+3, complex espresso flavor, 0.901188, 6
+3, 24-hour indie coffeehouse, 0.89228, 6
+3, traditional espresso macchiato, 0.958664, 7
+3, buttery croissant, 0.817826, 7
+3, good conversationalist, 0.752337, 8
+3, cooler weather, 0.748381, 8
+3, regularly good lighting, 0.892343, 9
+3, nice time, 0.780584, 9
+4, non descript place, 0.782482, 0
+4, pumpkin spice latte, 0.752672, 0
+4, tasty little sandwich, 0.740913, 2
+4, misterious invisible man, 0.731093, 2
+4, coffee bar, 0.834649, 3
+4, medium chai latte, 0.789793, 3
+4, night, 0.70944, 4
+4, place, 0.934505, 5
+4, coffee, 0.877527, 5
+4, chai latte, 0.870147, 6
+4, Dolce, 0.848004, 6
+4, music videos, 0.837884, 7
+4, pretty big menu, 0.762859, 7
+4, Carmel Bianca, 0.836855, 8
+4, Dolce Espresso, 0.810482, 8
+4, Chicago Style Cheesecake, 0.758882, 9
+4, *To Wong Foo*, 0.737513, 9
+5, chocolate chip cookie, 0.852325, 0
+5, little coffee bar, 0.775212, 0
+5, little strip, 0.577105, 1
+5, middle, 0.349608, 1
+5, corner, 0.350271, 2
+5, big couches, 0.605905, 3
+5, place, 0.440854, 3
+5, sign, 0.389337, 4
+5, strip mall, 0.581212, 6
+5, tables, 0.394376, 6
+5, super comfy sofa, 0.800409, 7
+5, Free wifi, 0.622605, 7
+5, chai tea w/, 0.903665, 8
+5, music videos, 0.607568, 8
+5, nice coffee, 0.639147, 9
+5, sandwiches, 0.36206, 9

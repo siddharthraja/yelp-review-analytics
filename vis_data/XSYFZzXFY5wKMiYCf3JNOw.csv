@@ -1,0 +1,54 @@
+rating, keyword, relevance, bucket
+1, Bier und Ale, 0.805838, 0
+1, Ambiente Durchschnittlich, 0.688384, 0
+1, klein fielen auseinander, 0.926025, 3
+1, Fazit Nicht empfehlenswert, 0.738953, 3
+1, verschiedene nimmt, 0.661165, 4
+1, unfreundlich, 0.382577, 4
+1, falsche Bier, 0.770115, 5
+1, rein, 0.339734, 5
+1, gibts eine riesige, 0.606765, 6
+3, open mike night, 0.541634, 0
+3, chilli nachos, 0.464635, 0
+3, occasional random pint, 0.560188, 1
+3, stars, 0.364391, 1
+3, bad pub, 0.59099, 2
+3, Dr. Paul, 0.445257, 2
+3, handful, 0.330587, 3
+3, times, 0.324106, 3
+3, pub quiz, 0.930314, 4
+3, Monday, 0.355606, 5
+3, sweet potato fries, 0.561003, 6
+3, quiz master Dr, 0.520672, 6
+3, Brass Monkey, 0.732295, 7
+3, Brass Monkey Leith, 0.628133, 7
+3, pub quiz night, 0.66476, 8
+3, nice pub, 0.559293, 8
+4, nice upmarket pub, 0.577581, 0
+4, comfy arms chairs, 0.513756, 0
+4, bar, 0.500704, 4
+4, place, 0.452178, 5
+4, pub quiz, 0.799586, 6
+4, pub quiz night, 0.561865, 6
+4, Brass Monkey, 0.938526, 7
+4, comfy sofas, 0.524639, 7
+4, Brass Monkey Leith, 0.643114, 8
+4, original Brass Monkey, 0.522083, 8
+4, yelp pub quiz, 0.549677, 9
+4, Leith Walk, 0.513449, 9
+5, Town Brass Monkey, 0.68968, 0
+5, Monkey big time, 0.644726, 0
+5, new bar, 0.56149, 1
+5, big bar, 0.558215, 2
+5, Paul pub quiz, 0.620791, 3
+5, overt sexual reference, 0.576989, 3
+5, Brass Monkey, 0.957032, 5
+5, Monkey Leith, 0.773784, 5
+5, pub quiz, 0.804242, 6
+5, original Brass Monkey, 0.739196, 6
+5, Drummond Street, 0.63148, 7
+5, Good pub grub, 0.621912, 7
+5, Brass Monkey Leith, 0.742043, 8
+5, night pub quiz, 0.671394, 8
+5, great pub quiz, 0.629198, 9
+5, amazing Monkey Marys, 0.626962, 9

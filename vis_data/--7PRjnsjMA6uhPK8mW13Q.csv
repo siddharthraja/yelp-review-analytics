@@ -1,0 +1,20 @@
+rating, keyword, relevance, bucket
+1, chicken wings, 0.954997, 0
+1, feathers, 0.72392, 0
+1, server, 0.642328, 1
+1, things, 0.64601, 2
+1, situation, 0.699844, 3
+1, attention, 0.680849, 3
+5, zestique wings, 0.635437, 0
+5, great bar, 0.534095, 0
+5, quaint little place, 0.81402, 1
+5, killer fries, 0.930417, 2
+5, ZESTICUE WING, 0.559942, 2
+5, normal selection, 0.620014, 3
+5, bar delicacies, 0.61761, 3
+5, bar food, 0.936517, 6
+5, dining room, 0.579285, 7
+5, Excellent bar food, 0.733393, 8
+5, amazing combination, 0.598586, 8
+5, delicious qnd, 0.575761, 9
+5, thing, 0.357556, 9

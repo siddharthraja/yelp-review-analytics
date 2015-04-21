@@ -1,0 +1,29 @@
+rating, keyword, relevance, bucket
+1, air conditioning, 0.782934, 0
+1, dead center, 0.770996, 0
+1, WORST music venue, 0.989055, 1
+1, hell hole, 0.765272, 1
+1, best groups, 0.822333, 2
+1, small space, 0.777126, 2
+1, bartenders attitudes, 0.791126, 3
+1, great bands, 0.762826, 3
+1, security staff, 0.761112, 6
+1, nicest bunch, 0.803266, 7
+1, audience, 0.479147, 8
+2, drinking, 0.787213, 0
+2, plan, 0.678808, 0
+2, good experience, 0.94286, 2
+2, bar, 0.743598, 2
+2, sound, 0.746875, 6
+2, awesome shows, 0.948228, 8
+2, favorite bands, 0.921227, 8
+4, previous yelpers complaints, 0.914608, 0
+4, okkervil river, 0.65431, 0
+4, little grungy hole, 0.929931, 1
+4, wall, 0.363058, 1
+4, hipster brats, 0.664527, 2
+4, savory, 0.391767, 2
+4, possibilities, 0.37507, 6
+4, slightly smelly venue, 0.908922, 7
+4, clubhouse, 0.712274, 7
+4, sentimental place, 0.689562, 9

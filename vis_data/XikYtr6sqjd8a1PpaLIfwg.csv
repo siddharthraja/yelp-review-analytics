@@ -1,0 +1,35 @@
+rating, keyword, relevance, bucket
+3, cask, 0.457502, 0
+3, lunch break, 0.665728, 3
+3, private conversation, 0.639434, 3
+3, tables, 0.562913, 5
+3, foamy yellow/brown stuff, 0.888351, 6
+3, Belhaven pseudo-beers, 0.689809, 6
+3, Leith Beer Company, 0.923503, 7
+3, draught selection, 0.887091, 7
+3, framed beer-related pictures, 0.934356, 8
+3, standard pub grub, 0.928917, 8
+3, nice new addition, 0.873534, 9
+3, outdoor seating, 0.857797, 9
+4, restaurant area, 0.692336, 0
+4, comfertable leather, 0.691507, 0
+4, quiz nights, 0.677551, 1
+4, Thursday, 0.448026, 1
+4, Sports fans, 0.672746, 2
+4, distraction, 0.474501, 2
+4, big ass TV, 0.919201, 3
+4, shoes, 0.450961, 3
+4, special drinks, 0.717483, 6
+4, monday evening, 0.708384, 6
+4, large outdoor space, 0.974885, 7
+4, Leith waters, 0.743441, 7
+4, warm ciders rule, 0.999713, 8
+4, spacious feel, 0.729109, 8
+4, good location, 0.742124, 9
+4, decent prices, 0.683367, 9
+5, beers, 0.392986, 3
+5, La Chouffe etc., 0.928665, 6
+5, favourite pub, 0.674435, 6
+5, nice beer garden, 0.908917, 7
+5, nice atmosphere, 0.729962, 7
+5, good range, 0.65104, 8

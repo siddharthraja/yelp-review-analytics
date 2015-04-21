@@ -1,0 +1,79 @@
+rating, keyword, relevance, bucket
+1, Pesto Grilled Cheese, 0.566846, 0
+1, permanent substitution, 0.513963, 0
+1, ribeye steak sandwich, 0.902523, 1
+1, grilled cheese, 0.695974, 1
+1, steak sandwich, 0.952673, 2
+1, print new menus, 0.482314, 2
+1, Monday night, 0.372382, 3
+1, food menu, 0.366265, 3
+1, free drinks, 0.743059, 4
+1, customers, 0.291107, 4
+1, Texas toast, 0.499245, 6
+1, steak sandwiches, 0.471132, 6
+1, cheese curds, 0.523759, 7
+1, Upscale White Castle, 0.510799, 7
+1, Great location, 0.363574, 8
+2, mushroom sandwich, 0.603543, 0
+2, portobella mushroom sandwich, 0.596031, 0
+2, turkey burger, 0.562199, 1
+2, mushroom tentacle things, 0.560956, 1
+2, grilled cheese sandwich, 0.716884, 2
+2, drinks, 0.645598, 2
+2, salmon slider, 0.593032, 3
+2, lunch, 0.444382, 3
+2, sandwich, 0.807557, 4
+2, food, 0.734987, 4
+2, cheese, 0.929753, 5
+2, place, 0.714774, 5
+2, tomato soup, 0.551503, 6
+2, extensive beer list, 0.544995, 6
+2, American cheese, 0.59579, 7
+2, nice looooong drink, 0.567888, 7
+2, clean bar, 0.438079, 8
+2, sweet potato chips, 0.512214, 9
+2, nice location, 0.438621, 9
+3, good beer bars, 0.741188, 0
+3, buffalo chicken slider, 0.737802, 0
+3, cheese curds, 0.928072, 3
+3, tuna salad sandwich, 0.735474, 3
+3, food, 0.893136, 4
+3, slider, 0.827526, 4
+3, sliders, 0.929768, 5
+3, salad, 0.906869, 5
+3, place, 0.798872, 6
+3, waffle fries, 0.797092, 6
+3, beer selection, 0.920005, 7
+3, sweet potatoe fries, 0.791119, 7
+3, sweet potato fries, 0.869554, 8
+3, pretty decent beer, 0.750697, 8
+3, good music playing, 0.727304, 9
+4, couple turkey sliders, 0.754286, 0
+4, goat cheese salad, 0.742003, 0
+4, fried food platter, 0.728067, 2
+4, cheese curds, 0.968298, 3
+4, fried cheese curds, 0.79497, 3
+4, beer list, 0.847566, 4
+4, sliders, 0.991884, 5
+4, food, 0.939582, 5
+4, place, 0.825281, 6
+4, waffle fries, 0.749051, 6
+4, beer selection, 0.796806, 7
+4, goat cheese, 0.787714, 7
+4, sweet potato fries, 0.879989, 8
+4, different sliders, 0.790329, 8
+4, yummy sliders, 0.714955, 9
+4, Great place, 0.711685, 9
+5, turkey slider, 0.57173, 0
+5, California Turkey Slider, 0.524003, 0
+5, tomato bisque soup, 0.577685, 2
+5, saints, 0.656548, 4
+5, menu, 0.517668, 4
+5, cheese curds, 0.978891, 5
+5, food, 0.801704, 5
+5, night, 0.623391, 6
+5, Whiskey Wednesday, 0.584423, 6
+5, waffle fries, 0.787676, 7
+5, whiskey wednesdays, 0.626159, 7
+5, sweet potato fries, 0.822633, 8
+5, great selection, 0.622002, 8

@@ -1,0 +1,86 @@
+rating, keyword, relevance, bucket
+1, noodle dish witrh, 0.990086, 0
+1, grey colored steak, 0.976438, 0
+1, Cipollini Dip Formaggio, 0.979122, 1
+1, worst Italian restaurant, 0.977837, 1
+1, pasta sauce, 0.85748, 2
+1, grade school, 0.844939, 2
+1, rosemary mashed potatoes, 0.957775, 3
+1, inevitable disappointment, 0.891411, 3
+1, Onda, 0.958095, 4
+1, creme brûlée, 0.983981, 5
+1, place, 0.951701, 5
+1, white wine sauce, 0.981364, 6
+1, eggplant piccatta, 0.87741, 6
+1, large bachelorette party, 0.979108, 7
+1, lemonchello Creme Brûlée, 0.955985, 7
+1, positive Yelp reviews, 0.95965, 8
+1, steak place, 0.88657, 8
+1, complementary eggplant caponata, 0.985025, 9
+2, cafeteria type lasagna, 0.753563, 0
+2, classic-rustic Italian cuisine, 0.751635, 0
+2, crappy service, 0.776216, 1
+2, quality Italian food, 0.766065, 1
+2, dessert menu, 0.745344, 2
+2, elderly namedropping locals, 0.738286, 2
+2, Las Vegas, 0.752569, 3
+2, Ruffles potato chips, 0.720326, 3
+2, service, 0.791162, 4
+2, place, 0.783533, 4
+2, Onda, 0.884603, 5
+2, food, 0.79436, 5
+2, Vegas Concierge Association, 0.754358, 6
+2, romantic type decor, 0.732197, 6
+2, italian restaurant, 0.901146, 7
+2, best italian restaurant, 0.888765, 7
+2, sweet pea ravioli, 0.75902, 8
+2, nice Italian pasta, 0.746391, 8
+2, caprese salad, 0.692172, 9
+3, expensive Italian food, 0.800346, 0
+3, sea bass, 0.766312, 0
+3, little wine lounge, 0.764589, 2
+3, Grand Marnier souffle, 0.737998, 2
+3, lasagna, 0.850462, 3
+3, veal shank, 0.760738, 3
+3, vegas, 0.711317, 4
+3, food, 0.961369, 5
+3, service, 0.776549, 5
+3, cheesey risotto rice, 0.79866, 6
+3, osso bucco, 0.778605, 6
+3, olive oil, 0.842307, 7
+3, rigatoni bolognese, 0.758659, 7
+3, good food, 0.846535, 8
+3, Caprese  salad, 0.780252, 8
+3, tomato olive garlic, 0.768713, 9
+3, nice fancy place, 0.761805, 9
+4, sea food plates, 0.720532, 0
+4, bread stick thing.., 0.702328, 0
+4, expensive Italian food, 0.720592, 3
+4, food home anyways, 0.7176, 3
+4, place, 0.719165, 4
+4, service, 0.906, 5
+4, food, 0.868595, 5
+4, sauce, 0.7301, 6
+4, good sauce, 0.720771, 6
+4, great service, 0.80485, 7
+4, wine, 0.777912, 7
+4, good service, 0.754719, 8
+4, great time, 0.749199, 8
+4, good cinnamon flavor, 0.72991, 9
+4, good sized dollop, 0.725024, 9
+5, Onda Ristorante, 0.805713, 0
+5, wine eatery section, 0.801956, 0
+5, good Italian food, 0.825849, 2
+5, Mirage Host George, 0.790982, 2
+5, osso bucco, 0.856418, 3
+5, regular food menu, 0.825096, 3
+5, Onda, 0.983048, 5
+5, food, 0.957329, 5
+5, wine, 0.986411, 6
+5, Mirage, 0.868549, 6
+5, Terry Fator theatre, 0.822542, 7
+5, best Veal Saltimbocca, 0.81304, 7
+5, service, 0.964587, 8
+5, best dining experience, 0.902274, 8
+5, Las Vegas, 0.86031, 9
+5, best Italian food, 0.8291, 9

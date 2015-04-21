@@ -1,0 +1,40 @@
+rating, keyword, relevance, bucket
+2, is casual and, 0.977346, 0
+2, took ages and, 0.936609, 0
+2, gegessen TK Produkte, 0.695851, 3
+2, günstig, 0.360293, 3
+2, Schilder sind Kult, 0.522826, 4
+2, vorgefertigte Speisen, 0.506669, 4
+2, nett eingerichtet, 0.471253, 5
+2, erwarten, 0.25927, 5
+3, bestellt der absolut, 0.673907, 0
+3, Getränke, 0.450417, 0
+3, fast unerträglich laut, 0.881251, 3
+3, sicher enttäuscht, 0.677201, 3
+3, Tasse stink normalen, 0.942647, 4
+3, billig essen, 0.741243, 4
+3, mäßiger Auslastung lässt, 0.98708, 5
+3, Preisen allemal angemessen, 0.963489, 5
+3, Euro günstiger, 0.714742, 6
+3, Masse ausgelegt, 0.713486, 6
+3, Preisen satt essen, 0.816754, 7
+4, is generally crowded, 0.919702, 0
+4, is decorated with, 0.910891, 0
+4, niedrigen Essenspreise realisieren, 0.905883, 3
+4, not the best, 0.890308, 3
+4, food ever but, 0.887536, 4
+4, Essen ok, 0.843865, 4
+4, Bacon bestens bedient, 0.910059, 5
+4, brauchbares Angebot liefert, 0.89422, 5
+4, Schöne Teekarte wenns, 0.908059, 6
+4, one of the, 0.90084, 6
+4, Ruhe sio, 0.76692, 7
+4, Absolut empfehlenswert, 0.776942, 8
+5, finde ich Hammer, 0.817665, 0
+5, gelegen, 0.5803, 0
+5, schmecken dadurch mehlig, 0.833886, 4
+5, teurer, 0.587089, 4
+5, Menü für glatte, 0.83623, 5
+5, Essen sind super, 0.800147, 5
+5, nette Bedienungen egal, 0.942948, 6
+5, Schnell und zuverlässig, 0.796959, 6

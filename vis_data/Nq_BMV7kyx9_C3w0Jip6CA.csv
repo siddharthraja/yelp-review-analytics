@@ -1,0 +1,60 @@
+rating, keyword, relevance, bucket
+2, famous Skye Terrier, 0.768194, 0
+2, local chain, 0.549191, 0
+2, gimmicky aspect, 0.586959, 1
+2, dozen times, 0.560517, 1
+2, tourist trade, 0.566061, 2
+2, drawback, 0.37036, 2
+2, busier tourist traps, 0.838473, 3
+2, bad pub, 0.769874, 3
+2, area, 0.486652, 4
+2, pub, 0.957014, 6
+2, Haggis Neeps, 0.686973, 6
+2, fair share, 0.598392, 7
+2, easiest way, 0.58299, 7
+2, good selection, 0.543105, 8
+2, nice enough place, 0.542826, 8
+3, Scottish pub atmosphere, 0.88093, 0
+3, little bit boring., 0.797322, 0
+3, tourist trap bars, 0.790337, 2
+3, obnoxious American waitress, 0.781292, 2
+3, tourist trap, 0.819945, 3
+3, touristy stop, 0.67885, 3
+3, Old Town Edinburgh, 0.794004, 6
+3, traditional style décor, 0.789385, 6
+3, Greyfriars Bobby statue, 0.94043, 7
+3, cute place, 0.688254, 7
+3, live folk music, 0.794769, 8
+3, cute pub, 0.765121, 8
+3, wide range, 0.811455, 9
+3, locally sourced ingredients, 0.786536, 9
+4, good pub lunch, 0.971112, 0
+4, female American tourists, 0.968497, 0
+4, quality Scottish food, 0.954802, 1
+4, wee bit homesick, 0.931596, 1
+4, bar, 0.950032, 2
+4, offensve tourist bars, 0.933547, 2
+4, royal mile, 0.948458, 3
+4, drinking female student, 0.935422, 3
+4, pub, 0.998936, 4
+4, food, 0.968604, 5
+4, place, 0.981528, 6
+4, Greyfriars Bobby statue, 0.974428, 6
+4, village Smiddy pub, 0.96, 7
+4, good food, 0.94884, 7
+4, excellent traditional folk, 0.9397, 8
+4, comfortable atmosphere reminiscent, 0.935136, 8
+4, cheeky afternoon pint, 0.954515, 9
+4, lovely place, 0.93548, 9
+5, Beef Rib Pie, 0.879593, 0
+5, little dog, 0.609228, 0
+5, Greyfriar, 0.406939, 3
+5, Cemetery, 0.350326, 3
+5, place countless times, 0.955878, 6
+5, Curried Lamb Shank, 0.942231, 6
+5, wee convenient place, 0.994487, 7
+5, old tatty book, 0.929156, 7
+5, proper boozer, 0.673598, 8
+5, friendly punters, 0.646475, 8
+5, city centre area, 0.836394, 9
+5, brilliant staple, 0.6132, 9

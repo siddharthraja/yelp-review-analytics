@@ -1,0 +1,55 @@
+rating, keyword, relevance, bucket
+2, Edinburgh/British pub, 0.82676, 0
+2, neighboring pub, 0.76022, 0
+2, previous yelper, 0.749631, 1
+2, disgruntled bar, 0.710521, 1
+2, Malt Shovel, 0.810527, 2
+2, Heinous crime, 0.751025, 2
+2, good pub food, 0.956494, 3
+2, Cockburn Street, 0.713765, 3
+2, steak, 0.485527, 4
+2, world, 0.369065, 4
+2, fish, 0.389615, 6
+2, buddy, 0.299043, 6
+2, shot, 0.295185, 7
+2, place, 0.289107, 7
+2, pretty average, 0.741936, 8
+2, atmosphere, 0.436968, 8
+2, lovely staff, 0.71977, 9
+3, standard pub grub, 0.765504, 0
+3, fairly regular basis, 0.716298, 0
+3, Yelper foodie, 0.660906, 1
+3, clunky gear change, 0.705484, 3
+3, Cockburn St, 0.673248, 3
+3, Malt Shovel, 0.906144, 6
+3, traditional pub, 0.725894, 6
+3, pub, 0.766843, 7
+3, Cockburn Street, 0.742754, 7
+3, single malt whiskies, 0.742116, 8
+3, amazing perfect dish, 0.723607, 8
+3, good quality fish, 0.719762, 9
+4, usual pub grub, 0.811708, 0
+4, involved checking yelp, 0.744333, 0
+4, long time, 0.518591, 2
+4, Sat, 0.352316, 2
+4, mental health nurses, 0.725603, 3
+4, massively gaggle, 0.569251, 3
+4, malt shovel, 0.935216, 5
+4, Monster Munch, 0.546515, 6
+4, veggies, 0.413398, 6
+4, glass doors, 0.554937, 7
+4, impeccable service, 0.53546, 7
+4, Yelpers, 0.34514, 8
+4, fantastic savoury snack, 0.747837, 9
+4, fairly good price, 0.694886, 9
+5, tourist market, 0.613687, 0
+5, nice mix, 0.610241, 0
+5, bad patch, 0.634705, 2
+5, bar, 0.327709, 2
+5, young drinkers, 0.625258, 3
+5, bad reviews, 0.618651, 3
+5, Honey, 0.272921, 6
+5, main tourist trail, 0.92994, 7
+5, Malt Shovel, 0.71135, 7
+5, best pub-made toddy, 0.931696, 8
+5, impromptu comedy routine, 0.907393, 8

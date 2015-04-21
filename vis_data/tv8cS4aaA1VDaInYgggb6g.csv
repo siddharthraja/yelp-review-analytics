@@ -1,0 +1,77 @@
+rating, keyword, relevance, bucket
+1, Jim Jeffries, 0.809842, 0
+1, big name comedians, 0.55205, 0
+1, friend Katrina, 0.777378, 1
+1, fact, 0.342756, 1
+1, Pittsburgh Improv, 0.853265, 2
+1, food, 0.619345, 2
+1, waitress, 0.796903, 3
+1, Special Event, 0.549369, 3
+1, Special Events, 0.989957, 4
+1, credit card companies, 0.705058, 4
+1, improv, 0.861191, 5
+1, tickets, 0.49053, 5
+1, confirmation code, 0.548957, 6
+1, absolute joke, 0.523214, 6
+1, WONDERFUL Lisa Landry, 0.692718, 7
+1, chocolate mousse dessert, 0.68201, 7
+1, complimentary glass, 0.511129, 8
+1, standup, 0.344914, 9
+2, fiancés chicken Caesar, 0.785917, 0
+2, brown iceberg lettuce, 0.778105, 0
+2, n't miss type, 0.801167, 1
+2, dreadful dining experience, 0.766335, 1
+2, free refills, 0.838628, 2
+2, halfway decent food, 0.794834, 2
+2, chicken sandwich, 0.879017, 3
+2, extremely overpriced drinks, 0.850102, 3
+2, item minimum, 0.786931, 4
+2, menu item minimum, 0.780936, 4
+2, automatic gratuity, 0.841233, 5
+2, food, 0.911727, 6
+2, dollar chicken sandwich, 0.806154, 6
+2, Improv representative, 0.71353, 7
+2, specific drawbacks, 0.707178, 7
+2, work holiday party, 0.777059, 8
+2, food service, 0.716063, 8
+3, higher-end comedy club, 0.660073, 0
+3, Post-Gazette sports writer, 0.635754, 0
+3, two-item minimum, 0.746058, 1
+3, mediocre bar food, 0.644846, 1
+3, comedy clubs, 0.65861, 2
+3, Pittsburgh BIG HAIR, 0.635553, 2
+3, drink minimum, 0.982203, 3
+3, High food prices, 0.676608, 3
+3, drinks, 0.633877, 4
+3, waitress, 0.613029, 4
+3, improv, 0.752055, 5
+3, food, 0.745839, 5
+3, box office, 0.645788, 6
+3, John Heffron, 0.64484, 6
+3, Tammy Pescatelli, 0.647325, 7
+3, occasional DVE morning, 0.631547, 7
+3, comedy club, 0.914163, 8
+3, great opening act, 0.659097, 8
+3, Saturday night, 0.713555, 9
+3, great comedy club, 0.67337, 9
+4, minimum order requirement, 0.820531, 0
+4, dogfish head IPA, 0.795083, 0
+4, overall experience, 0.797479, 1
+4, Expensive food, 0.726784, 1
+4, drinks, 0.802289, 2
+4, minimum purchase requirement, 0.797306, 2
+4, mixed drinks, 0.725783, 3
+4, Hannibal Burris, 0.724605, 3
+4, Doug Benson, 0.949582, 6
+4, time, 0.903213, 6
+4, great location, 0.733782, 7
+4, Coors Light, 0.719811, 7
+4, good comedy club, 0.846686, 8
+4, loyal Helium fan, 0.826665, 8
+4, Wonderfully talented comedians, 0.837696, 9
+4, pretty great time, 0.830715, 9
+5, Christopher Titus, 0.9174, 0
+5, ticket price, 0.705642, 0
+5, Great night, 0.784192, 8
+5, Great line, 0.696069, 9
+5, staff., 0.315941, 9

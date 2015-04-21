@@ -1,0 +1,62 @@
+rating, keyword, relevance, bucket
+2, nba league pass, 0.958789, 0
+2, Antonio Spurs game, 0.754507, 0
+2, dive bars, 0.748605, 1
+2, little more panache, 0.606885, 1
+2, dive bar, 0.944924, 2
+2, yr bar, 0.645326, 2
+2, handlebar moustache, 0.612866, 3
+2, beer cans, 0.587049, 3
+2, good chance, 0.58217, 6
+2, vibe, 0.43747, 6
+2, touchscreen electronic jukebox, 0.797265, 7
+2, plasma tvs, 0.611248, 7
+2, Voodoo Glow Skulls, 0.775769, 8
+2, Health district, 0.615912, 8
+3, cool eclectic punk, 0.983701, 0
+3, Drink prices, 0.785745, 0
+3, Vegas, 0.570539, 1
+3, shortage, 0.562443, 1
+3, dive bars, 0.769484, 2
+3, good bands, 0.76051, 2
+3, damn air conditioners., 0.922321, 3
+3, f'ing video poker, 0.920508, 3
+3, mongrels, 0.57965, 4
+3, PAN, 0.536398, 4
+3, cool little hang, 0.976702, 6
+3, fairness, 0.554592, 6
+3, good sound guy, 0.916807, 7
+3, main stage area, 0.900093, 7
+3, place, 0.601195, 8
+3, shows, 0.537342, 8
+3, good sized crowd, 0.936448, 9
+3, Pirates Blood, 0.715569, 9
+4, stage volume, 0.889956, 0
+4, screamy punk bands, 0.768856, 0
+4, Los Angeles, 0.575057, 1
+4, sort, 0.353366, 1
+4, mic cables, 0.961034, 2
+4, Rob Zombie, 0.588354, 2
+4, typical Vegas madness, 0.782889, 3
+4, sound guy, 0.577073, 3
+4, loud bands, 0.5523, 6
+4, Hey, 0.368765, 6
+4, scuzzy looking biker, 0.842595, 7
+4, artsy-ass jazzcore band, 0.798612, 7
+4, great service, 0.802061, 8
+5, little Estonian lead, 0.950466, 0
+5, estate bull shit, 0.891063, 0
+5, snobby pretentious attitudes, 0.89015, 1
+5, Cheap drinks, 0.73673, 1
+5, freaky porn playing, 0.88179, 2
+5, friendlier crowd, 0.790867, 2
+5, dive bar, 0.868784, 3
+5, Raging Slab, 0.744583, 3
+5, bands, 0.572068, 6
+5, tattoos, 0.54176, 6
+5, solid guitar bass, 0.946465, 7
+5, good times, 0.843594, 7
+5, Tero, 0.554952, 8
+5, Thanks, 0.541784, 8
+5, good live music, 0.947726, 9
+5, fun, 0.568564, 9

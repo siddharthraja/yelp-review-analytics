@@ -1,0 +1,12 @@
+rating, keyword, relevance, bucket
+2, music, 0.981453, 8
+2, place, 0.919956, 8
+3, bench seating, 0.740273, 0
+3, Vegas Strip, 0.691926, 0
+3, fake smoke, 0.715122, 1
+3, nightclub, 0.55903, 1
+3, thing, 0.395737, 2
+3, PubCon event, 0.654048, 6
+3, oval shape, 0.93439, 7
+3, smaller lounge, 0.790706, 7
+3, people, 0.44066, 8

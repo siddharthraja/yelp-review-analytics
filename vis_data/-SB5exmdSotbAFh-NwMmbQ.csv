@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+1, attempt, 0.760636, 0
+1, door, 0.709246, 0
+1, place, 0.906845, 1
+1, taxi, 0.753141, 2
+1, strip, 0.68138, 2
+3, cozy little hookah, 0.781085, 0
+3, teeny room, 0.339024, 2
+3, true hookah experience, 0.90691, 3
+3, fashionable scene, 0.40215, 3
+3, gift certificate, 0.656142, 6
+3, Hookah Lounge, 0.885916, 7
+4, soda drinks, 0.690105, 0
+4, majic pipe, 0.670435, 0
+4, cinnamon, 0.378349, 2
+4, beef, 0.367933, 2
+4, coal, 0.369093, 3
+4, Vegas, 0.430183, 4
+4, vacation, 0.360818, 6
+4, pm, 0.359531, 6
+4, semi private smoke, 0.882003, 7
+4, huge space, 0.675561, 7
+4, chill spot, 0.636841, 8
+4, reasonable price, 0.62581, 8
+4, Great hookah lounge, 0.979801, 9
+4, tobacco flavors, 0.678479, 9
+5, good hookah place, 0.628109, 0
+5, Las Vegas strip, 0.61101, 0
+5, happy hour menu, 0.204659, 2
+5, caramel apple martini, 0.330141, 3
+5, hookah lounge, 0.764152, 4
+5, hookah, 0.939894, 5
+5, cab driver, 0.216978, 6
+5, nicest hookah lounge, 0.674983, 7
+5, jasmine/mint hookah, 0.467886, 7
+5, BEST customer service, 0.326525, 8
+5, great place, 0.271864, 8
+5, hookah lounges, 0.407633, 9
+5, nice place, 0.361878, 9

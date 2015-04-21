@@ -1,0 +1,66 @@
+rating, keyword, relevance, bucket
+1, cocktail society, 0.603895, 0
+1, Thursday night, 0.557308, 0
+1, strikes, 0.430126, 1
+1, metal cocktail measuring, 0.708326, 2
+1, cheap canned fruits, 0.65371, 2
+1, markedly different experience, 0.712633, 3
+1, wine faux pas, 0.682277, 3
+1, different price, 0.539753, 4
+1, friend, 0.462396, 4
+1, cocktail measuring cups, 0.9361, 5
+1, iced water, 0.651403, 6
+1, small shot, 0.533288, 6
+1, medium sized glass, 0.661425, 7
+1, non-pro bartender, 0.549043, 8
+1, special night, 0.543523, 8
+3, standard beef burger, 0.705673, 0
+3, teeny-tiny beef burger, 0.700896, 0
+3, wooden trays, 0.517485, 2
+3, beef burger, 0.91816, 3
+3, rogue chicken burger, 0.701865, 3
+3, Bar Kohl, 0.856288, 4
+3, food, 0.548844, 4
+3, chicken burger, 0.765168, 5
+3, veggie burger, 0.670061, 5
+3, le l'ultimate burger, 0.652189, 6
+3, c'est une bonne, 0.520619, 6
+3, AWESOME chicken burger, 0.69021, 7
+3, lamb burger, 0.630808, 7
+3, huge chicken breast, 0.525229, 8
+3, delicious cajun spices, 0.51357, 8
+3, good burger menu, 0.714892, 9
+4, group Bar Kohl, 0.706119, 0
+4, good cocktails, 0.685007, 0
+4, old cocktail menu, 0.673541, 1
+4, sophisticated cocktail bar, 0.686318, 2
+4, cold-as-ice aluminium toilet, 0.646806, 2
+4, cocktail called Candy, 0.66627, 3
+4, tiny little bit, 0.652227, 3
+4, bar kohl, 0.984812, 4
+4, cocktail, 0.696474, 4
+4, cocktails, 0.805762, 5
+4, sweet potato, 0.737809, 5
+4, sweet potato wedges, 0.670019, 6
+4, dirty vodka martini, 0.667396, 6
+4, burgers, 0.695153, 7
+4, vodka bar, 0.683081, 7
+4, delicious cocktails, 0.681269, 8
+4, Lou Solid burgers, 0.665067, 8
+4, tasty looking burgers, 0.668429, 9
+4, good place, 0.665954, 9
+5, reverse walnut manhattan, 0.506241, 0
+5, Stoli Chili vodka, 0.455199, 0
+5, underwhelming recent visit, 0.433417, 1
+5, Bar Kohl, 0.915243, 2
+5, original vodka bar, 0.499483, 2
+5, late night plans, 0.440433, 3
+5, Drambuie Mint Julep, 0.433631, 3
+5, cocktail bars, 0.494818, 6
+5, extensive cocktail menu, 0.456497, 6
+5, beef chilli nachos, 0.716389, 7
+5, regular cheese-only nachos, 0.481409, 7
+5, cocktails, 0.434499, 8
+5, damn fine cocktail, 0.431043, 8
+5, best affordable cocktail, 0.451381, 9
+5, absolutely delightful stop, 0.407276, 9

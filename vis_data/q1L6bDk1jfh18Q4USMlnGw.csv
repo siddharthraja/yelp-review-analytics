@@ -1,0 +1,81 @@
+rating, keyword, relevance, bucket
+1, French cheese plate, 0.612586, 0
+1, European cheese plate, 0.606916, 0
+1, cheese plate, 0.942986, 1
+1, closest wine bar, 0.648075, 1
+1, menu, 0.381608, 2
+1, min, 0.287724, 2
+1, corkage fee, 0.745176, 3
+1, star rating, 0.422637, 3
+1, service, 0.415224, 4
+1, bottle, 0.583602, 5
+1, waitress, 0.320351, 5
+1, Phillips Place locale, 0.652972, 6
+1, new pricing directive, 0.620787, 6
+1, Sat afternoon, 0.441889, 7
+1, nice glass, 0.41922, 7
+1, White bean dip, 0.565793, 8
+1, damn bottle, 0.509882, 8
+2, semi dry Riesling, 0.900486, 0
+2, new waitress, 0.823642, 0
+2, young kids, 0.746526, 1
+2, long periods, 0.72228, 1
+2, freezing cold room, 0.914187, 2
+2, familiar face, 0.774594, 2
+2, young man, 0.757559, 3
+2, D&D, 0.598116, 3
+2, bottle, 0.659253, 4
+2, service, 0.659111, 4
+2, wine bar, 0.902683, 5
+2, favorite waitress, 0.834005, 6
+2, Wine Room, 0.767077, 6
+2, crab cake salad, 0.946716, 7
+2, palm salad, 0.748222, 7
+2, great sign, 0.738868, 8
+2, long time, 0.727737, 8
+2, sweeter wines, 0.733587, 9
+2, waiter, 0.607486, 9
+3, pretty decent bar, 0.624862, 0
+3, deli/salad bar employees, 0.597702, 0
+3, draft beer selection, 0.590776, 1
+3, disappointing decision, 0.475256, 1
+3, bar tenders, 0.471962, 2
+3, time, 0.362323, 2
+3, small bites, 0.482182, 3
+3, Corporate Suits, 0.473048, 3
+3, wine room, 0.94013, 4
+3, meeting, 0.400988, 5
+3, waitress, 0.386711, 5
+3, Wine Bar, 0.624538, 6
+3, lobster sliders, 0.483717, 6
+3, Wine Room employees, 0.622306, 7
+3, great wine selection, 0.62218, 7
+3, D&D Wine Room, 0.649977, 8
+3, Phillips Place, 0.475705, 8
+3, good choices, 0.464132, 9
+3, great appetizers, 0.459105, 9
+4, nice sip D&D, 0.696994, 0
+4, .decent Tapas style, 0.673685, 0
+4, extensive wine list, 0.727166, 3
+4, red flights, 0.616204, 3
+4, wine, 0.944085, 6
+4, Sunday afternoon, 0.620332, 6
+4, wine flights, 0.910165, 7
+4, Nice wine flights, 0.890903, 7
+4, great place, 0.989477, 8
+4, wine room, 0.814764, 8
+4, small sushi roll, 0.772648, 9
+4, Italian white wine, 0.768937, 9
+5, big flat screen, 0.690735, 0
+5, good sushi, 0.679606, 0
+5, D&D Wine Bar, 0.743047, 2
+5, sushi makers, 0.660564, 2
+5, wine, 0.971018, 5
+5, truffle fries, 0.809387, 6
+5, nice summer dresses, 0.71356, 6
+5, Phillips Place, 0.721067, 7
+5, Deluca Wine Room, 0.718668, 7
+5, wine room, 0.863563, 8
+5, D&D Wine Room, 0.82204, 8
+5, date night, 0.68778, 9
+5, relaxing date night, 0.686916, 9

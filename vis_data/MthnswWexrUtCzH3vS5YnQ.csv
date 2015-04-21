@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, typical bar fare, 0.60049, 0
+1, better looking girls, 0.595935, 0
+1, doucebag bar staff, 0.623636, 1
+1, little football bar, 0.605925, 1
+1, customer service, 0.632003, 2
+1, crappy place, 0.594119, 2
+1, people, 0.696281, 3
+1, service, 0.686727, 3
+1, place, 0.974618, 4
+1, bar, 0.849659, 4
+1, night, 0.665829, 5
+1, staff, 0.646823, 5
+1, old town, 0.649808, 6
+1, customer service game, 0.592638, 6
+1, Hi-Fi Excellent place, 0.63515, 7
+1, better service, 0.579289, 7
+1, place ASAP, 0.589942, 8
+2, gayest n'sync/jackass member, 0.679331, 0
+2, big open bar, 0.674632, 0
+2, credit card, 0.695014, 1
+2, credit card charges, 0.686662, 1
+2, wonderful summer heat., 0.67966, 2
+2, open aired venue, 0.674737, 2
+2, hi fi, 0.959392, 3
+2, Thursday night, 0.615015, 3
+2, food, 0.692352, 4
+2, timely service, 0.628998, 4
+2, place, 0.784902, 5
+2, night, 0.704044, 5
+2, Arizona sports team, 0.667844, 6
+2, Good food, 0.635126, 6
+2, bottomless mimosas, 0.604947, 7
+2, blonde young girl, 0.68663, 8
+2, cool night scene, 0.673186, 8
+3, late-night food service, 0.774372, 0
+3, hummus w/a spoon, 0.739689, 0
+3, short rib sliders, 0.720022, 1
+3, dance space, 0.718567, 1
+3, NY. Giants bar, 0.745529, 2
+3, restaurant/customer service industry, 0.732856, 2
+3, bar hopin night, 0.752204, 3
+3, great starter bar, 0.744742, 3
+3, bar, 0.819569, 4
+3, music, 0.708781, 4
+3, place, 0.930115, 5
+3, people, 0.807504, 5
+3, old town, 0.841461, 6
+3, food, 0.829906, 6
+3, hi fi, 0.852011, 7
+3, good sounding dance, 0.755955, 7
+3, Great place, 0.753562, 8
+3, Great corner location, 0.733444, 8
+3, Overall fun place, 0.745043, 9
+3, pretty delicious food, 0.732455, 9
+4, red bell peppers, 0.767924, 0
+4, Thousand Island dressing, 0.766896, 0
+4, sports bar, 0.712509, 1
+4, disgusting weekend club/bar, 0.755469, 2
+4, amazing place, 0.73006, 2
+4, American Junkie aka, 0.773085, 3
+4, NY Giants bar, 0.768889, 3
+4, Hi Fi, 0.894734, 4
+4, Friday night, 0.843709, 4
+4, place, 0.967982, 5
+4, completely different place, 0.804921, 6
+4, open air atmosphere, 0.774796, 6
+4, good music, 0.782756, 7
+4, Sunday night, 0.779624, 7
+4, Pretty good version, 0.815629, 8
+4, amazing great service, 0.798123, 8
+4, Old Town Scottsdale, 0.785516, 9
+4, pretty satisfying lunch, 0.782794, 9
+5, Scottdales bar scene, 0.634448, 1
+5, boring vodka tonic, 0.661289, 2
+5, sports game, 0.533739, 3
+5, El Hefe, 0.67092, 4
+5, place, 0.683626, 5
+5, bartenders, 0.62237, 5
+5, great experience, 0.569087, 6
+5, phone number, 0.543157, 6
+5, Old Town, 0.79111, 7
+5, Adult Milk Shake, 0.644326, 7
+5, hi fi, 0.90175, 8
+5, great time, 0.729617, 8
+5, super cool, 0.679341, 9
+5, nice VIP sections, 0.646932, 9

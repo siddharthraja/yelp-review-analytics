@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, Rude rude rude, 0.737851, 0
+1, Irish themed restaurants, 0.695282, 0
+1, worse food, 0.607207, 1
+1, bipolar cheerleader, 0.554251, 1
+1, better beer selection, 0.660148, 2
+1, Honey Boo Boo, 0.656752, 2
+1, food, 0.923664, 3
+1, tilted kilt, 0.720466, 3
+1, staff, 0.604529, 4
+1, Flying Saucer, 0.708572, 6
+1, tilted Kilt uniform, 0.700159, 6
+1, bartender/waitress Nicole, 0.564147, 8
+2, Tilted Kilt, 0.852495, 0
+2, good size groups, 0.831012, 0
+2, bad news, 0.728833, 1
+2, Spinach dip, 0.718175, 1
+2, average bar stuff., 0.819735, 2
+2, Unrealistic beer prices, 0.809617, 2
+2, typical pub food, 0.809912, 3
+2, good beer, 0.757556, 3
+2, food, 0.900964, 4
+2, service, 0.727088, 4
+2, corporate theme restaurant, 0.814189, 6
+2, Saturday night, 0.813813, 6
+2, garlic fries, 0.861922, 7
+2, better beer selection, 0.838087, 7
+2, beer selection, 0.955396, 8
+2, Irish Pub, 0.847091, 8
+2, Great beer selection, 0.836927, 9
+2, large TVs, 0.717646, 9
+3, new sports bar, 0.757562, 0
+3, decent table service, 0.747207, 0
+3, sports bar, 0.897129, 1
+3, decent bar food, 0.806098, 1
+3, franchise sports bar, 0.757154, 2
+3, Typical sports bar, 0.741005, 2
+3, upper-end bar food, 0.80849, 3
+3, strip club guys, 0.699862, 3
+3, girls, 0.751589, 4
+3, food, 0.950083, 5
+3, place, 0.83612, 5
+3, American fast food, 0.781102, 6
+3, great lunch destination, 0.751942, 6
+3, good business lunch, 0.768176, 7
+3, pretty decent time, 0.753334, 7
+3, beer selection, 0.791816, 8
+3, Tilted Kilt, 0.736802, 8
+3, pretty good burgers, 0.77592, 9
+3, Surprisingly good deals, 0.74583, 9
+4, Tilted Kilt Lager, 0.652439, 0
+4, Tilted Kilt burgers, 0.640315, 0
+4, Tilted Kilt, 0.942551, 1
+4, hot sauce, 0.511883, 1
+4, Kilt Burner wings, 0.677585, 2
+4, Arse BBQ burger, 0.534513, 2
+4, scantily clad waitress, 0.544058, 3
+4, usual bar fare, 0.515102, 3
+4, food, 0.814483, 4
+4, service, 0.537066, 4
+4, OMB Copper, 0.658395, 5
+4, BBQ burger, 0.546151, 5
+4, Buffalo style sauce, 0.754475, 6
+4, beer, 0.601476, 6
+4, good food, 0.619573, 7
+4, cream sauce, 0.585568, 7
+4, beer selection, 0.58951, 8
+4, free Tilted Guilt, 0.575305, 8
+4, Friendly staff,good food, 0.541541, 9
+4, good place, 0.526768, 9
+5, portion size, 0.607302, 0
+5, Hooters, 0.319206, 0
+5, peaceful dinner, 0.689116, 1
+5, parents, 0.277117, 1
+5, Sat, 0.299896, 2
+5, place, 0.277788, 3
+5, nice dinner, 0.684915, 6
+5, Waitress first night, 0.676371, 6
+5, fave restaurant, 0.760009, 7
+5, screamer, 0.353031, 7
+5, bbq pork sliders, 0.995798, 8
+5, fries good meal, 0.917145, 8

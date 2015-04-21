@@ -1,0 +1,44 @@
+rating, keyword, relevance, bucket
+1, large mirrors, 0.543123, 0
+1, special treatment, 0.539589, 0
+1, people, 0.543951, 1
+1, unknown reason, 0.53502, 1
+1, high end booze, 0.786281, 2
+1, cheap liquor, 0.566379, 2
+1, Blue Velvet, 0.953986, 3
+1, college kids, 0.788949, 3
+1, cocktail lounge, 0.961072, 4
+1, place, 0.695811, 5
+1, nice cocktail lounge, 0.825426, 6
+1, college type clientele, 0.74505, 6
+1, town, 0.39823, 7
+1, places, 0.406075, 8
+1, cocktails, 0.353586, 8
+1, classy place, 0.559215, 9
+1, fun night, 0.542119, 9
+4, tootsie pop sucker, 0.883879, 0
+4, martini lounge area, 0.870352, 0
+4, pm, 0.440338, 1
+4, way, 0.44025, 1
+4, Tootsie Pop Shot, 0.872561, 3
+4, favorite bars, 0.684731, 3
+4, Curious George martini, 0.899941, 6
+4, night, 0.633441, 6
+4, football party scene, 0.853456, 7
+4, good place, 0.66593, 7
+4, martinis, 0.937999, 8
+4, S'mores martini, 0.730968, 8
+4, amazing martinis, 0.850256, 9
+4, great choice, 0.663521, 9
+5, exchange student crowd, 0.920361, 0
+5, favorite bar, 0.55376, 0
+5, popular fraternity/sorority bar, 0.845113, 3
+5, private parties, 0.574194, 3
+5, olives appetizer, 0.657311, 6
+5, DJ upstairs, 0.641425, 6
+5, blue tone, 0.598966, 7
+5, staff, 0.325722, 7
+5, Excellent beer selection, 0.831804, 8
+5, good crowd, 0.667966, 8
+5, best martinis, 0.740603, 9
+5, Friendliest bartenders, 0.627663, 9

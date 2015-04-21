@@ -1,0 +1,39 @@
+rating, keyword, relevance, bucket
+3, taste-maybe freezer burn, 0.902968, 0
+3, drink selection, 0.76334, 0
+3, items, 0.487502, 1
+3, menu, 0.447056, 1
+3, Monday night, 0.718067, 2
+3, bartender, 0.619516, 3
+3, cheesesteak sandwich, 0.793444, 6
+3, fries, 0.478905, 6
+3, good news, 0.631661, 7
+3, Drink prices, 0.730777, 8
+3, good drink, 0.711496, 8
+3, intelligent conversationalist, 0.66619, 9
+4, barbecue bacon burger, 0.90029, 0
+4, normal hotel lobby, 0.792824, 0
+4, mirage, 0.255116, 1
+4, middle, 0.245512, 1
+4, wink hint, 0.770865, 2
+4, Multi TV screens, 0.68985, 2
+4, standard hotel lounge, 0.690697, 3
+4, Weird spot, 0.535313, 3
+4, bartender Trey, 0.580174, 6
+4, big screen, 0.462252, 6
+4, decent burger, 0.750142, 7
+4, great burger, 0.69286, 7
+4, bbq burger, 0.742042, 8
+4, unexpected surprise, 0.498024, 8
+4, great meal, 0.468296, 9
+4, mega-casino world, 0.466437, 9
+5, Blair house suites, 0.82145, 0
+5, flat screens, 0.55973, 0
+5, Kombucha, 0.393256, 1
+5, thing, 0.35994, 1
+5, video poker, 0.561803, 6
+5, Free water, 0.587051, 7
+5, Cozy, 0.373574, 7
+5, favorite place, 0.957662, 8
+5, Fun KJ, 0.647168, 8
+5, Nice outdoor seating, 0.773557, 9

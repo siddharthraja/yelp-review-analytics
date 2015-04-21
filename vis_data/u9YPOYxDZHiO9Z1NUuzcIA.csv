@@ -1,0 +1,71 @@
+rating, keyword, relevance, bucket
+1, long huge plate, 0.879665, 0
+1, small woman, 0.761353, 0
+1, break room, 0.734413, 1
+1, burger bun, 0.772244, 2
+1, online menu, 0.737933, 2
+1, mini croissant, 0.769261, 3
+1, slices, 0.556871, 3
+1, large screen TVs, 0.926675, 6
+1, successful restaurant manager, 0.923501, 6
+1, nice pour, 0.758721, 7
+1, nice place, 0.748398, 7
+2, older people, 0.85467, 0
+2, high expectations, 0.716895, 0
+2, easy patrons, 0.687182, 1
+2, server, 0.564062, 1
+2, whelming smell, 0.700217, 2
+2, sewer gas, 0.696388, 2
+2, better marks, 0.705739, 3
+2, appetizer orders, 0.692021, 3
+2, place, 0.795385, 4
+2, lunch, 0.579938, 5
+2, small caesar salad, 0.908734, 6
+2, old men, 0.889579, 6
+2, cheesy Tommy Bahama, 0.886238, 7
+2, mini skirts, 0.700087, 7
+2, New Cougar Den, 0.875331, 8
+2, super huge patio, 0.839544, 8
+3, Gainey Ranch/McCormick Ranch, 0.736599, 0
+3, German Car Meat, 0.681899, 0
+3, downside risk, 0.906604, 1
+3, middle aged lechers, 0.681157, 1
+3, dark sports bar, 0.728002, 2
+3, older folks, 0.567487, 2
+3, big blue Buick, 0.725821, 3
+3, average bar food., 0.725799, 3
+3, place, 0.543683, 4
+3, Hey baby, 0.561592, 6
+3, Stella Artois, 0.559406, 6
+3, tuna sashimi, 0.684502, 7
+3, solid fare, 0.553641, 7
+3, super chill goblet, 0.693737, 8
+3, better drink specials, 0.691794, 8
+4, traditional bar food, 0.563805, 0
+4, lightly battered zuchini, 0.511821, 0
+4, overly old crowd, 0.477438, 1
+4, old Downside, 0.576247, 2
+4, bar food, 0.782945, 3
+4, good view, 0.443964, 3
+4, place, 0.657984, 6
+4, average bar food, 0.527893, 6
+4, Downside Risk, 0.78659, 7
+4, good bar food, 0.585421, 7
+4, good food, 0.524328, 8
+4, great place, 0.503119, 8
+4, good lunch spot, 0.541248, 9
+4, good chow, 0.428011, 9
+5, beef brisket platter, 0.646177, 0
+5, outdoor seating area, 0.58736, 0
+5, go-to place, 0.537196, 1
+5, Friday night, 0.524349, 1
+5, Downside Risk, 0.903556, 2
+5, Downside club, 0.586935, 2
+5, bistro/sports bar food, 0.621521, 6
+5, Rockie Mountain water, 0.601111, 6
+5, grilled chicken w/, 0.642782, 7
+5, Swiss cheese sandwich, 0.615676, 7
+5, green beans, 0.712606, 8
+5, downside green beans, 0.711832, 8
+5, awesome patio w/, 0.689113, 9
+5, pretty awesome drink, 0.664452, 9

@@ -1,0 +1,92 @@
+rating, keyword, relevance, bucket
+1, older blond bartender, 0.607957, 0
+1, extremely rude employees, 0.603294, 0
+1, surly young bartender, 0.621502, 1
+1, Horrific customer service, 0.617391, 1
+1, TERRIBLE customer service, 0.619472, 2
+1, worst restaurant experience, 0.610853, 2
+1, drinks, 0.744979, 3
+1, weird Duce people, 0.690083, 3
+1, food, 0.952115, 4
+1, duce, 0.844927, 4
+1, place, 0.986404, 5
+1, hip new place, 0.63951, 6
+1, items. meatball sliders, 0.621937, 6
+1, saturday night, 0.645567, 7
+1, customer service seminar, 0.608124, 7
+1, ......., 0.638318, 8
+1, places downtown, 0.59278, 8
+1, cool interesting places, 0.595797, 9
+2, food service/bar area, 0.544007, 0
+2, Good food, 0.518545, 0
+2, service cost Duce, 0.575379, 1
+2, good night spot, 0.509083, 1
+2, service, 0.667065, 2
+2, mason jar, 0.508871, 2
+2, boxing ring, 0.520333, 3
+2, customer service, 0.495529, 3
+2, bar, 0.687381, 4
+2, order, 0.526685, 4
+2, place, 0.909115, 5
+2, food, 0.841736, 5
+2, air conditioning, 0.563462, 6
+2, different place, 0.495526, 6
+2, chicken pot pie, 0.542343, 7
+2, good experience, 0.513416, 7
+2, brisket sliders, 0.582667, 8
+2, good place, 0.509036, 8
+2, food truck kitchen, 0.522134, 9
+2, creative yummy drinks, 0.503404, 9
+3, Duce race, 0.61019, 0
+3, pretty big place, 0.609459, 0
+3, food order, 0.590448, 1
+3, bar area, 0.612261, 2
+3, french onion dip, 0.582963, 2
+3, boxing ring, 0.657272, 3
+3, hot dogs, 0.580577, 3
+3, beer, 0.582652, 4
+3, food offerings, 0.577955, 4
+3, food, 0.969993, 5
+3, place, 0.921909, 5
+3, time, 0.639774, 6
+3, potato crisps, 0.629447, 6
+3, mason jars, 0.64641, 7
+3, french toast, 0.634273, 7
+3, old school, 0.621649, 8
+3, great place, 0.613718, 8
+3, good place, 0.638292, 9
+4, Duce Jar, 0.624987, 0
+4, eclectic old bar, 0.594635, 0
+4, ice cream bar, 0.604938, 1
+4, old timey bar, 0.590353, 1
+4, great retro bar, 0.594204, 2
+4, ice cream, 0.714792, 3
+4, old school, 0.69619, 3
+4, brisket sliders, 0.739011, 4
+4, bar, 0.721385, 4
+4, duce, 0.931659, 5
+4, food, 0.791129, 5
+4, place, 0.896328, 6
+4, soda fountain, 0.790384, 6
+4, downtown phoenix, 0.649454, 7
+4, ping pong, 0.632922, 7
+4, great place, 0.652852, 8
+4, Duce Lemonade, 0.63516, 8
+4, fun place, 0.625265, 9
+4, Great date place, 0.610256, 9
+5, Duce next time, 0.703352, 0
+5, Duce patron, 0.675597, 0
+5, old school, 0.659093, 3
+5, real boxing ring, 0.60038, 3
+5, drinks, 0.754664, 4
+5, mason jar, 0.681041, 4
+5, duce, 0.965382, 5
+5, place, 0.934459, 5
+5, cheese muffins, 0.744271, 6
+5, Duce hosts ice, 0.690866, 6
+5, Duce Dip, 0.659579, 7
+5, good time, 0.621561, 7
+5, Duce Lemonade, 0.706691, 8
+5, dance floor, 0.677135, 8
+5, Duce staff, 0.668945, 9
+5, truly majestic place, 0.60945, 9

@@ -1,0 +1,87 @@
+rating, keyword, relevance, bucket
+1, reluctant chicken eater, 0.835321, 0
+1, HOMOPHOBIC ASSS MANAGER, 0.756873, 0
+1, rudest service, 0.651207, 1
+1, Terrible service, 0.647272, 1
+1, sample options, 0.669216, 2
+1, waitress, 0.659365, 2
+1, service, 0.753324, 3
+1, phone convo, 0.655464, 3
+1, busy night, 0.872401, 4
+1, people, 0.669799, 4
+1, place, 0.921911, 5
+1, tender marinated chicken, 0.808593, 6
+1, house garlic sauce, 0.778285, 6
+1, garlic sauce, 0.815158, 7
+1, pretty busy night, 0.768478, 7
+1, yogurt base, 0.654615, 8
+1, friends surprise birthday, 0.754348, 9
+1, great place, 0.66276, 9
+2, ........., 0.775549, 0
+2, best hookah server, 0.5513, 0
+2, bad thing, 0.407222, 1
+2, coals, 0.281437, 1
+2, hookah service, 0.565352, 2
+2, cashier area, 0.50956, 2
+2, notch hookah service, 0.558025, 3
+2, better flavored falafel, 0.536114, 3
+2, pita bread, 0.917438, 4
+2, plastic bag, 0.73149, 4
+2, roommate, 0.548528, 5
+2, change, 0.291195, 5
+2, new girl, 0.49215, 6
+2, great service, 0.37662, 6
+2, nice texture, 0.378461, 7
+2, charge, 0.288008, 7
+2, best food, 0.402131, 8
+2, great potential, 0.393376, 8
+2, BETTER SERVICE, 0.370492, 9
+2, GREAT ESTABLISHMENT, 0.366514, 9
+3, hookah room, 0.700695, 0
+3, original narrow corridor, 0.682126, 0
+3, small table, 0.664367, 2
+3, UFC fight, 0.597111, 2
+3, warm pita bread, 0.672634, 3
+3, phone checking IDs, 0.665132, 3
+3, hookah, 0.913568, 4
+3, occasional live band, 0.679591, 4
+3, pita bread, 0.806069, 5
+3, food, 0.771418, 5
+3, fried pita bread, 0.696812, 6
+3, belly dancers, 0.681596, 6
+3, feta cheese, 0.679315, 7
+3, occasional shawarma craving, 0.654315, 7
+3, pita sandwich concoction, 0.675512, 8
+3, good prices, 0.609928, 8
+4, hookah lounge area, 0.64017, 0
+4, hookah bar portion, 0.55921, 0
+4, hookah bar, 0.600728, 2
+4, olive oil, 0.496573, 3
+4, pine nuts, 0.487821, 3
+4, service, 0.491228, 4
+4, drinks, 0.403642, 4
+4, place, 0.627169, 5
+4, food, 0.617625, 5
+4, hookah, 0.956362, 6
+4, Olive hookah lounge, 0.605664, 6
+4, hookah lounge, 0.798487, 7
+4, casual hookah lounge, 0.584367, 7
+4, good hookah, 0.628435, 8
+4, yogurt dip, 0.459599, 8
+4, good time, 0.449178, 9
+4, Pretty good atmosphere, 0.448966, 9
+5, Amazing hookah lounge, 0.547596, 0
+5, insanely addictive tabouleh, 0.312219, 0
+5, inconsistent hookah, 0.463096, 2
+5, South East Vegas, 0.318707, 2
+5, hookah tobacco, 0.473894, 3
+5, Las Vegas, 0.471027, 5
+5, friday night, 0.310931, 5
+5, hookah, 0.906004, 6
+5, place, 0.521307, 6
+5, hookah bar, 0.500489, 7
+5, hookah connoisseur, 0.460865, 7
+5, hookah lounge, 0.765143, 8
+5, great food hookah, 0.556836, 8
+5, great hookah, 0.570906, 9
+5, favorite hookah lounges, 0.483442, 9

@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, totally in-authentic food, 0.866072, 0
+1, good Med food, 0.864406, 0
+1, dark dirty place, 0.848528, 1
+1, Absolute worst service, 0.837956, 1
+1, Real turn offs, 0.838535, 2
+1, area Miss Congeniality, 0.830985, 2
+1, food, 0.947862, 3
+1, inappropriate manner, 0.690597, 3
+1, restaurant.com, 0.600719, 5
+1, owner, 0.598407, 5
+1, cigarette smoke, 0.673611, 6
+1, hookah places, 0.754109, 7
+1, Pita Jungle, 0.698802, 7
+2, gyro salad, 0.78539, 0
+2, Cute little place, 0.783566, 0
+2, better Greek/Mediterranean food, 0.780604, 1
+2, middle eastern restaurant, 0.763208, 1
+2, good pita sandwiches, 0.85114, 2
+2, snarky gal working, 0.755096, 2
+2, hummus, 0.762936, 3
+2, super slow service, 0.755801, 3
+2, Pita House, 0.962241, 4
+2, gyro, 0.948515, 4
+2, food, 0.991665, 5
+2, new owners, 0.834409, 5
+2, gyro meat, 0.83708, 6
+2, gyro pita, 0.805962, 6
+2, Classic Gyro, 0.772555, 7
+2, lunch rotation, 0.761782, 7
+2, mall food court, 0.809833, 8
+2, cheaper gyro, 0.802097, 8
+3, plastic patio furniture, 0.658602, 0
+3, quick carry-out order, 0.655207, 0
+3, somewhat sketchy location, 0.618953, 1
+3, Old Town Scottsdale, 0.760892, 2
+3, Togo food, 0.640865, 2
+3, hookah, 0.701952, 3
+3, bit, 0.684503, 3
+3, food, 0.952582, 4
+3, blonde waitress, 0.636172, 4
+3, assorted pita bread, 0.667381, 6
+3, place, 0.665729, 6
+3, Pita House, 0.762846, 7
+3, Gyro Classic Plate, 0.736704, 7
+3, pita sandwich, 0.75965, 8
+3, nice late-night hangout, 0.66371, 8
+3, somewhat healthy option, 0.636941, 9
+4, falafel pita sandwich, 0.711634, 0
+4, old school pita, 0.569974, 0
+4, half-ass run pita, 0.598503, 1
+4, little VIP nook, 0.427681, 1
+4, iceberg lettuce salad, 0.482406, 2
+4, falafel pita, 0.868819, 3
+4, Pita House bar, 0.613439, 3
+4, time, 0.44422, 4
+4, pita, 0.933584, 5
+4, food, 0.662159, 5
+4, Pita House, 0.903905, 6
+4, hummus pita, 0.689009, 6
+4, chicken gyro pita, 0.600498, 7
+4, Chicken Shawarma Pita, 0.592777, 7
+4, pita bread, 0.671674, 8
+4, tasty warm pita, 0.589034, 8
+4, Greek salad dressing, 0.455117, 9
+4, Overall great experience, 0.421083, 9
+5, Falafel Pita, 0.672569, 0
+5, hookah patio, 0.657466, 0
+5, middle eastern food, 0.61792, 1
+5, chinese food, 0.571422, 1
+5, sore eyes, 0.56347, 2
+5, KFC thinking, 0.567384, 3
+5, bubble gum, 0.565594, 3
+5, pita house, 0.906116, 4
+5, hookah double apple, 0.678111, 6
+5, extra chicken skewer, 0.618577, 6
+5, hookah, 0.737561, 7
+5, scottsdale, 0.666353, 7
+5, best flavor hookah, 0.703776, 8
+5, chip ice cream, 0.618127, 8
+5, amazing middle-eastern place, 0.624447, 9
+5, best lunch deal, 0.603245, 9

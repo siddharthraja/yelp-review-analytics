@@ -1,0 +1,88 @@
+rating, keyword, relevance, bucket
+1, worst Mexican food, 0.525536, 0
+1, TOTAL wait time, 0.521293, 0
+1, horrible food, 0.532041, 1
+1, poor service, 0.526072, 1
+1, ice tea, 0.561188, 2
+1, authentic Mexican food, 0.538516, 2
+1, tortilla soup, 0.574091, 3
+1, food, 0.924033, 4
+1, place, 0.893975, 4
+1, town square, 0.723036, 5
+1, table, 0.675112, 5
+1, Mexican restaurant, 0.50271, 6
+1, better tortilla soup, 0.500689, 6
+1, New Mexican Food, 0.532847, 7
+1, pretty big place, 0.518045, 7
+1, new-age Mexican food, 0.525288, 8
+1, nice Town Square, 0.497169, 8
+1, experience real bottle, 0.506544, 9
+2, maybe college students, 0.601381, 0
+2, girls dirty dancing, 0.599025, 0
+2, al pastor tacos, 0.60556, 1
+2, Bar Drinks, 0.586881, 1
+2, slow night, 0.600502, 2
+2, Coconuts Beach Bar, 0.781492, 3
+2, ......, 0.644474, 3
+2, place, 0.984169, 4
+2, drinks, 0.714437, 4
+2, town square, 0.924051, 5
+2, night, 0.767708, 5
+2, food, 0.881727, 6
+2, fish tacos, 0.729747, 6
+2, Mahi fish tacos, 0.607185, 7
+2, bikinis holding coconuts, 0.605723, 7
+2, free chips, 0.631151, 8
+2, fun place, 0.610616, 8
+2, good Mexican restaurant, 0.628645, 9
+3, okay drinks, 0.635187, 0
+3, seafood enchiladas, 0.625439, 0
+3, negative Yelp vibe, 0.675498, 1
+3, expensive drinks, 0.609349, 1
+3, Town Square, 0.848771, 3
+3, service, 0.666015, 3
+3, salsa, 0.814377, 4
+3, chips, 0.773412, 4
+3, food, 0.96375, 5
+3, drinks, 0.740518, 5
+3, Enchiladas del Mar, 0.768008, 6
+3, Mexican food, 0.691774, 6
+3, Purple Bikini Martini, 0.643186, 7
+3, better chips, 0.594581, 7
+3, black bean salsa, 0.747587, 8
+3, new-age Mexican food, 0.677638, 8
+3, good service, 0.548969, 9
+3, decent price, 0.548283, 9
+4, big dance floor, 0.846992, 0
+4, enchilada del mar, 0.82398, 0
+4, flip flops, 0.73178, 1
+4, little spendy, 0.731218, 1
+4, standard off-strip establishments, 0.80074, 2
+4, Yelp reviews, 0.733774, 2
+4, Coconuts Beach Bar, 0.847375, 3
+4, Wednesday night, 0.715622, 3
+4, food, 0.85063, 5
+4, place, 0.986877, 6
+4, ideal place, 0.761782, 6
+4, grilled Ahi Ahi, 0.865573, 7
+4, Great fast service, 0.858656, 7
+4, town square, 0.811049, 8
+4, pretty sweet tunes, 0.801889, 8
+4, Super friendly place, 0.893917, 9
+4, great party place, 0.867138, 9
+5, sauce based ceviche, 0.855161, 0
+5, fried ice cream, 0.853818, 0
+5, exact price, 0.743746, 1
+5, boring vodka soda, 0.822385, 2
+5, desert junkie, 0.734052, 2
+5, negative reviews, 0.729835, 3
+5, drinks, 0.80993, 4
+5, food, 0.910787, 5
+5, Enchiladas Del Mar, 0.910243, 6
+5, fish tacos, 0.760679, 6
+5, carne asada tacos, 0.939403, 7
+5, guacamole appetizer, 0.929249, 7
+5, Good sound level, 0.868143, 8
+5, extensive drink menu, 0.845916, 8
+5, Canvas event painting, 0.830579, 9
+5, mmm mmm, 0.812648, 9

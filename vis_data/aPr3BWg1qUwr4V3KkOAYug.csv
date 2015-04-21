@@ -1,0 +1,57 @@
+rating, keyword, relevance, bucket
+2, Joe A., 0.507298, 0
+2, result, 0.263383, 0
+2, real character, 0.525771, 1
+2, goodbye, 0.284233, 1
+2, cheap Jaeger, 0.547347, 2
+2, dive bars, 0.504198, 2
+2, ideal night, 0.560683, 3
+2, French mate, 0.547949, 3
+2, Dagda, 0.902685, 5
+2, regulars, 0.392122, 5
+2, loud rock music, 0.782613, 6
+2, Great ale, 0.49885, 6
+2, peer Yelpers, 0.563926, 7
+2, good reviews, 0.552357, 7
+2, Cool interior, 0.514434, 8
+2, pretty decent selection, 0.763879, 9
+2, dive bar/student place, 0.733679, 9
+3, young women, 0.664446, 0
+3, old man, 0.597008, 0
+3, bolt hole, 0.809128, 2
+3, rainy night, 0.75102, 2
+3, man pub, 0.966327, 6
+3, snug, 0.288243, 8
+4, Dagda Bar, 0.813228, 0
+4, good little bar, 0.591575, 0
+4, cheap student deals, 0.534061, 1
+4, bar staff, 0.445554, 1
+4, drum circling hippies, 0.517495, 2
+4, Small bar, 0.446829, 2
+4, student dominating ones, 0.54396, 3
+4, bad thing, 0.432431, 3
+4, Dagda, 0.978462, 6
+4, great little place, 0.533465, 6
+4, great little pub, 0.650408, 7
+4, unpretentious neighborhood pub, 0.558304, 7
+4, good selection, 0.702572, 8
+4, overall traditional feel, 0.528637, 8
+4, real ales, 0.685633, 9
+4, pub grub, 0.479524, 9
+5, usual old man, 0.940516, 0
+5, live folk music, 0.865498, 0
+5, bunch, 0.359456, 1
+5, head, 0.35588, 1
+5, lower ceiling, 0.647435, 2
+5, new places, 0.593277, 2
+5, touristy, 0.357668, 3
+5, Edinburgh, 0.688804, 4
+5, pub quiz, 0.819559, 5
+5, hippie community, 0.661549, 6
+5, tasty things, 0.605606, 6
+5, damn fine pub, 0.859326, 7
+5, Sandy Bell, 0.621206, 7
+5, beautifully engraved ceiling, 0.949579, 8
+5, ales changes, 0.660366, 8
+5, good price, 0.632234, 9
+5, great range, 0.617357, 9

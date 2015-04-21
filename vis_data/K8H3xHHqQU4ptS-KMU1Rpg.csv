@@ -1,0 +1,82 @@
+rating, keyword, relevance, bucket
+1, W. Gorham Street, 0.91962, 0
+1, cayenne pepper, 0.583748, 0
+1, jimmy johns, 0.890315, 1
+1, jimmy johns sandwich, 0.827227, 1
+1, fake ID, 0.524876, 2
+1, place, 0.344215, 2
+1, Thursday night, 0.523189, 3
+1, bar, 0.329819, 3
+1, food, 0.495845, 6
+1, college students, 0.549534, 7
+1, NFL games, 0.540803, 7
+1, pretty good price, 0.793352, 8
+1, drinks, 0.351827, 8
+1, waittress, 0.269191, 9
+1, discount, 0.265746, 9
+2, rectangular plate, 0.620948, 0
+2, drink specials, 0.619563, 0
+2, bun, 0.459958, 1
+2, consistency, 0.457043, 1
+2, past good food, 0.775956, 2
+2, massive chunks, 0.644018, 2
+2, pitchers, 0.462847, 3
+2, visits, 0.454686, 3
+2, artichoke dip, 0.882912, 4
+2, loud language, 0.668009, 4
+2, smokehouse burger, 0.930826, 6
+2, bacon, 0.449507, 6
+2, bbq sauce, 0.643349, 7
+2, spinach, 0.458614, 7
+2, great bargain, 0.650128, 8
+2, outdoor patio, 0.620862, 8
+3, Shady business practices, 0.934101, 0
+3, tiny plastic cups, 0.928947, 0
+3, favorite bars, 0.819251, 1
+3, bar food, 0.956303, 2
+3, slightest inkling, 0.832836, 2
+3, expensive bar food, 0.950626, 3
+3, single sane person, 0.918284, 3
+3, Chasers, 0.989169, 4
+3, Solid sports bar, 0.941294, 6
+3, Quintons menu, 0.84531, 6
+3, old school music, 0.946242, 7
+3, new drink, 0.846091, 7
+3, predominantely classic rock, 0.945434, 8
+3, chill atmosphere, 0.842439, 8
+3, nice giant glasses, 0.902789, 9
+3, favorite place, 0.825116, 9
+4, cheap college bar, 0.792494, 0
+4, red bull vodka, 0.791524, 0
+4, standard college, 0.832493, 1
+4, Chasers numerous times, 0.824577, 1
+4, college bar, 0.906814, 2
+4, dance floor, 0.806717, 2
+4, personal standing space, 0.787349, 3
+4, cheap drinks, 0.656485, 3
+4, typical college bar, 0.821882, 4
+4, Thursday night, 0.802972, 5
+4, drink specials, 0.789477, 5
+4, local college people, 0.770317, 6
+4, huge plus, 0.657269, 6
+4, great way, 0.794681, 7
+4, great drinks prices, 0.786577, 7
+4, pretty decent crowd, 0.854789, 8
+4, Great drink prices, 0.792564, 8
+4, great Patio, 0.681293, 9
+4, outdoor patio, 0.669801, 9
+5, juke box music, 0.84488, 0
+5, bar games, 0.693889, 0
+5, ol pal Quinton, 0.852189, 2
+5, perfect hangover food, 0.811746, 2
+5, somewhat obscure drink, 0.908204, 3
+5, blueberry stoli, 0.725781, 3
+5, big girls graduates, 0.816362, 4
+5, pints freshmen, 0.703077, 4
+5, favorite university bar, 0.831239, 6
+5, new drink specials, 0.849015, 7
+5, good people, 0.679869, 7
+5, graduate school crowd, 0.928273, 8
+5, good sized crowd, 0.926484, 8
+5, juke box, 0.859987, 9
+5, fantastic juke box, 0.835522, 9

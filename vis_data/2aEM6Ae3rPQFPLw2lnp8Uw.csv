@@ -1,0 +1,50 @@
+rating, keyword, relevance, bucket
+1, ....gutted!?, 0.709056, 0
+1, time limit, 0.611008, 0
+1, competition prize, 0.873827, 1
+1, uncertain terms, 0.626838, 1
+1, fairly hard manner, 0.848616, 2
+1, customer service point, 0.759736, 2
+1, couple, 0.368327, 3
+1, cocktails, 0.497933, 5
+1, great experiences, 0.643802, 6
+1, reviews, 0.370187, 6
+1, customer service, 0.943526, 7
+1, customers, 0.408234, 7
+1, good customer service, 0.742699, 9
+4, classic cocktail bar, 0.987589, 0
+4, cocktail décollage, 0.735885, 0
+4, bar stools, 0.704156, 1
+4, huge fan, 0.687116, 1
+4, good dirty martinis, 0.853912, 2
+4, mess, 0.459931, 2
+4, 1940s, 0.455591, 3
+4, lady, 0.449337, 3
+4, exception, 0.45719, 4
+4, Raconteur, 0.570707, 5
+4, main hubbub, 0.676171, 6
+4, good music, 0.643022, 6
+4, plush purple seating, 0.892327, 7
+4, fine bubbly, 0.718932, 7
+4, Stockbridge bar gang, 0.955584, 8
+4, nice addition, 0.747597, 8
+4, tasty cocktails, 0.778075, 9
+4, nice atmosphere, 0.708913, 9
+5, bar tender, 0.74961, 0
+5, cocktail list, 0.707479, 0
+5, cocktail bars, 0.718847, 2
+5, coolest bar, 0.638248, 2
+5, bar tenders, 0.727139, 3
+5, obvious place, 0.635863, 3
+5, cocktail menu, 0.818567, 4
+5, Stockbridge, 0.666984, 4
+5, cocktail, 0.994746, 5
+5, bar, 0.96845, 5
+5, entire cocktail experience, 0.797311, 6
+5, best intoxicologists, 0.631007, 6
+5, cocktail bar, 0.885034, 7
+5, favourite cocktail bar, 0.853558, 7
+5, excellent choice madam, 0.902568, 8
+5, cocktails, 0.872902, 8
+5, cocktail making skills, 0.819744, 9
+5, old school decor, 0.716776, 9

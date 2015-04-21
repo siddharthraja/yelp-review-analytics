@@ -1,0 +1,21 @@
+rating, keyword, relevance, bucket
+4, half decent sandwich, 0.927749, 0
+4, great sandwich, 0.726485, 0
+4, Sammy, 0.492968, 3
+4, large pastrami, 0.794283, 7
+4, pickle, 0.488231, 7
+4, great cheap place, 0.927739, 8
+4, pens game, 0.733762, 8
+4, Quick service, 0.683554, 9
+4, great food, 0.669827, 9
+5, pound hot dog, 0.929394, 0
+5, deli food, 0.744615, 0
+5, Killer prices, 0.73397, 1
+5, downtown prices, 0.721309, 2
+5, Consol, 0.688808, 2
+5, bucks, 0.591379, 3
+5, Burg, 0.520603, 3
+5, Enjoy, 0.474404, 6
+5, Yummy, 0.526339, 8
+5, knockout, 0.492942, 9
+5, punch, 0.485103, 9
