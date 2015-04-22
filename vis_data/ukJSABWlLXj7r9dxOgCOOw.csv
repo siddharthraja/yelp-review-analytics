@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hotel guest, 0.94071, 0
 1, American, 0.473905, 0
 1, poor service, 0.909482, 2

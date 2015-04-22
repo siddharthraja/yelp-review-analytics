@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, interesting music fare, 0.933126, 0
 2, steady clientele, 0.744593, 0
 2, terrible rut, 0.774149, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mediocre food, 0.910976, 0
 1, cold mediocre food, 0.894574, 0
 1, negative star rating, 0.852072, 1

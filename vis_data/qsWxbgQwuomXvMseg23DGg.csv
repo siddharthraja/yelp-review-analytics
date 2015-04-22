@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dozen hot wings, 0.544253, 0
 1, times our waitress, 0.485949, 0
 1, food, 0.590537, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, attitudes, 0.487222, 0
 1, Sunday, 0.463463, 0
 1, worst service, 0.730129, 1

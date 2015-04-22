@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, smallest glass, 0.633375, 0
 1, drink deal, 0.58961, 0
 1, usual Dirty martini, 0.9627, 1

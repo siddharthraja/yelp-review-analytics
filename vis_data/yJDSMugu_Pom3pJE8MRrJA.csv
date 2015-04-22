@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good mexican food, 0.670044, 0
 1, fake cantina food, 0.610901, 0
 1, bad food, 0.647047, 1

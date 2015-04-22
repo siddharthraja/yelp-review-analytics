@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Los Dos Molinos, 0.594884, 0
 1, city Mexican restaurant, 0.58275, 0
 1, actual food, 0.533329, 1

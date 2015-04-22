@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hot dog, 0.789212, 0
 1, St Louis Ribs, 0.652625, 0
 1, chicken sandwich, 0.644018, 1

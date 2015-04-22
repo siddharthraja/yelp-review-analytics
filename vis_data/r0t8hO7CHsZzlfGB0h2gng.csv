@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, strip steak, 0.836906, 0
 1, long story, 0.687696, 0
 1, restaurant industry, 0.732418, 1

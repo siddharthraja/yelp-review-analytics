@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, by-the-book gastropub fare, 0.84563, 0
 3, limited drinks options, 0.845328, 0
 3, barebones menu, 0.729175, 1

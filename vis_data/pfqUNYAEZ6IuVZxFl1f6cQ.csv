@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, absolute rudest cocktail, 0.934563, 0
 1, Saturday night, 0.847647, 0
 1, cocktail waitresses, 0.851084, 1

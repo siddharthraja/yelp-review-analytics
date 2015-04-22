@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, brief law class, 0.926549, 0
 1, sub-standard atmosphere, 0.799019, 0
 1, defamatory remark, 0.967847, 1

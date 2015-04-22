@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, long wait, 0.812032, 0
 1, chicken wings, 0.79494, 0
 1, shady owners, 0.702393, 1

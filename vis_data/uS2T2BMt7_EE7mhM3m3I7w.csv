@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, simple request, 0.747117, 0
 1, single drinker, 0.742198, 0
 1, Terrible time, 0.795788, 1

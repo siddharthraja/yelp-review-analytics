@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, WORST strip club, 0.837305, 0
 1, overpriced Bourbon Street, 0.811306, 0
 1, strip club, 0.917111, 1

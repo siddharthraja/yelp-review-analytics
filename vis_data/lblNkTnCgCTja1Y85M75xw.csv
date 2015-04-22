@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ice coffee, 0.791977, 0
 1, Waitress, 0.484, 0
 1, guy, 0.439929, 2

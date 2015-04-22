@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, single visit, 0.774923, 0
 1, love affair, 0.743751, 0
 1, false alarm, 0.76063, 1

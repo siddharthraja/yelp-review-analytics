@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, season baseball game, 0.863094, 0
 1, Stanley cup playoffs, 0.853723, 0
 1, Bar service, 0.760266, 1

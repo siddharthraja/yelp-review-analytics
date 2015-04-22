@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, pizza dough items, 0.759396, 0
 3, pork Calzone type, 0.71918, 0
 3, typical bar food, 0.599519, 1

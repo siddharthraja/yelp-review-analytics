@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst dining experience, 0.924342, 0
 1, long black hair, 0.863442, 0
 1, stupid business practices, 0.849143, 1

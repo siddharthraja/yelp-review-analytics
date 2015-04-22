@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, oz drink, 0.725125, 0
 1, Pina Coloda, 0.644425, 0
 1, money, 0.445888, 1

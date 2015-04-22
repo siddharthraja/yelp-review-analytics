@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Jim Jeffries, 0.809842, 0
 1, big name comedians, 0.55205, 0
 1, friend Katrina, 0.777378, 1

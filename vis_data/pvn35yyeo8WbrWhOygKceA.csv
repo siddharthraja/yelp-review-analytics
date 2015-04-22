@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, small change request, 0.891171, 0
 1, overpriced drinks, 0.725108, 0
 1, Bad customer service, 0.885773, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, open tables, 0.675005, 0
 1, dinner time, 0.660922, 0
 1, place, 0.29951, 1

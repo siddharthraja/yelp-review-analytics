@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Burger King, 0.930816, 0
 2, little bit, 0.832528, 0
 2, drinks order, 0.851652, 1

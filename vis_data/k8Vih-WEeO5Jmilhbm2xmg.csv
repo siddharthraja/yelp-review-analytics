@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, lunch period crowd, 0.895358, 0
 1, local lunch spot, 0.892629, 0
 1, Terrible gross food, 0.735883, 1

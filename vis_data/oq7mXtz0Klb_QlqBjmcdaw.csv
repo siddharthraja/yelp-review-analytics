@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst customer service, 0.980531, 0
 1, worst restaurant, 0.754813, 0
 1, restaurant, 0.760123, 1

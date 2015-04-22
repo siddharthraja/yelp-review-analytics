@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, friends, 0.361702, 0
 1, table, 0.36115, 0
 1, place, 0.542089, 1

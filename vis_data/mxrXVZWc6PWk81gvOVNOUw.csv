@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, true yelp fashion, 0.744149, 0
 1, fruit fly problem, 0.738582, 0
 1, raw pork loin, 0.883495, 1

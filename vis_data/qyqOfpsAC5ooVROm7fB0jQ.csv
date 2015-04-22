@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, different price points, 0.783068, 0
 3, whiskey list, 0.699879, 0
 3, little salty, 0.663578, 1

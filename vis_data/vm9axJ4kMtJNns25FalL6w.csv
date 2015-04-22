@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, half empty bar, 0.838296, 0
 1, way, 0.614215, 0
 1, bad night, 0.928856, 1

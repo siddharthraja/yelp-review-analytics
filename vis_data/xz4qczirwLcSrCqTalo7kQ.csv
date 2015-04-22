@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, miserable drag queens, 0.578363, 0
 1, dance floor, 0.563684, 0
 1, bar, 0.686576, 1

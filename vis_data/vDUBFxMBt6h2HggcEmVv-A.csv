@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, fishy pancakes, 0.693979, 0
 3, ideal place, 0.660171, 0
 3, fishy taste, 0.662047, 1

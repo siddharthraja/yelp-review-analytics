@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, equally bland mozzarella, 0.919019, 0
 1, flavorless plum tomatoes, 0.880866, 0
 1, alligator Jambalaya, 0.667996, 1

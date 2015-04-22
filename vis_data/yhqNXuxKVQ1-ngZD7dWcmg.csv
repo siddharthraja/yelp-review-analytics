@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, location, 0.868233, 2
 1, place, 0.988359, 3
 1, business, 0.956403, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, bad venue, 0.885406, 6
 3, sports, 0.291239, 6
 3, regular lagers, 0.930491, 8

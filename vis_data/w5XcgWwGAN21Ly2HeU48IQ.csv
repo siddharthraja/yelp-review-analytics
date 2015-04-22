@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Peter piper pizza, 0.866289, 0
 1, pizza plate, 0.734856, 0
 1, quick iphone yelp, 0.803961, 1

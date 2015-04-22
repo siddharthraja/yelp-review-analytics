@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, health code violation, 0.924088, 0
 1, snotty place, 0.773498, 0
 1, Hors d'oeuvres, 0.738019, 1

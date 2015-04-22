@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, average patron age, 0.96455, 0
 3, cool basement, 0.643964, 0
 3, random beers, 0.611797, 2

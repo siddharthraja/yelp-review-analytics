@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mid rare burger, 0.90791, 0
 1, Horrible customer service, 0.812653, 0
 1, straight sour juice, 0.83805, 1

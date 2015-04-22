@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, actual pizza, 0.796749, 0
 1, Girasole, 0.571133, 0
 1, appetizer plate, 0.846898, 1

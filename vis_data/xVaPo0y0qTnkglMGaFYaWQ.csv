@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, terrible drinks, 0.981251, 1
 1, Terrible music, 0.86931, 1
 2, Manicured storm gutters, 0.769165, 0

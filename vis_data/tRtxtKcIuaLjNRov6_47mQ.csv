@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, cocktail waiters, 0.916411, 0
 2, cocktail waitress, 0.885739, 0
 2, terrible servers, 0.788356, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst indian food, 0.579065, 0
 1, better Indian food, 0.512227, 0
 1, decent Indian food, 0.605469, 1

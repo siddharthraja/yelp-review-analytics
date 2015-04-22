@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, completely unprofessional place, 0.614854, 0
 1, social media, 0.594421, 0
 1, tourist trap, 0.890932, 1

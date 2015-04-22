@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, door entrance, 0.960698, 0
 1, huge example, 0.882545, 0
 1, waffle houses, 0.831248, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, multiple requests, 0.647952, 0
 4, great people, 0.586934, 0
 4, huge obstacle, 0.653119, 1

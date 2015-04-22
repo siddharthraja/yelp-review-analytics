@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, different section, 0.83259, 0
 1, disappointment, 0.466262, 0
 1, waitress, 0.439774, 1

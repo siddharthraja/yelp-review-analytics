@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, historical memorabilia, 0.569301, 0
 2, walls, 0.354064, 0
 2, pubs, 0.359775, 1

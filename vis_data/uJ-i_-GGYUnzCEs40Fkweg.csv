@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, different phone calls, 0.823109, 0
 1, Yelp, 0.403393, 0
 1, Bad business practice, 0.840363, 1

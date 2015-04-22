@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, budge theater, 0.864588, 0
 1, dirty table, 0.863083, 0
 1, old rock, 0.871519, 1

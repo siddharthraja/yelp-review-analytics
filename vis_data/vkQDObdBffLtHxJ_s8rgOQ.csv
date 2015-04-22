@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, San Tan Village, 0.944968, 0
 1, padlock, 0.439602, 0
 1, lame, 0.395362, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Bland bland bland, 0.909458, 0
 1, bean dip, 0.608102, 0
 1, cool place, 0.577676, 1

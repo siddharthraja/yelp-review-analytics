@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, strip mall, 0.875331, 0
 3, cold domestic beer, 0.790773, 0
 3, dead mall, 0.798783, 1

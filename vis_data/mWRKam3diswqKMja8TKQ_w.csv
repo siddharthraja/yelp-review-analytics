@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, eye contact, 0.640952, 0
 1, crowd, 0.404158, 0
 1, biggest TV, 0.686024, 1

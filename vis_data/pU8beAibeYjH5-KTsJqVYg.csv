@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, corn bread, 0.659219, 0
 1, bland soul food, 0.616395, 0
 1, mediocre orange juice, 0.584826, 1

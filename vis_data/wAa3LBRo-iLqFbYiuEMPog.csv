@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cloudy pale ale, 0.782173, 0
 1, Saturday afternoon service, 0.752378, 0
 1, worst beer pour, 0.801336, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sarcastic answer, 0.69215, 0
 1, old beans, 0.651277, 0
 1, merely asking questions, 0.935257, 1

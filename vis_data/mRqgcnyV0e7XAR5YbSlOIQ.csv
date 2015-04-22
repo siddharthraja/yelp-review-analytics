@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, waiter, 0.722368, 0
 1, union, 0.53961, 0
 1, Terrible service, 0.910583, 1

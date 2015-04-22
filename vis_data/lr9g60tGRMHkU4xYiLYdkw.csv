@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, different games, 0.783707, 0
 3, TVs, 0.53701, 0
 3, Waitress, 0.588475, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, grilled pear salad, 0.909615, 0
 2, nonexistent service Disappointing, 0.809978, 0
 2, mouth quality, 0.652756, 1

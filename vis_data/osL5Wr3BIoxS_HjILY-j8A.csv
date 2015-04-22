@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, hungry, 0.544352, 0
 4, portions, 0.529498, 0
 4, Martini, 0.52973, 2

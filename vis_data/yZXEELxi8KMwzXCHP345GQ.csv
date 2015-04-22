@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst customer service, 0.853901, 0
 1, fish plate, 0.634579, 0
 1, pathetic excuse, 0.692044, 1

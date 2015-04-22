@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, tacos carne asada, 0.553651, 0
 1, Mexican inspired restaurant, 0.423742, 0
 1, Roberts tacos, 0.533981, 1

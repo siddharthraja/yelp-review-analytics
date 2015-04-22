@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, casual little hipster, 0.965801, 0
 3, Dominoes pizza, 0.634366, 0
 3, order food, 0.534131, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sports-bar type place, 0.768047, 0
 1, kitchen window, 0.641637, 0
 1, guest extra chips, 0.775242, 1

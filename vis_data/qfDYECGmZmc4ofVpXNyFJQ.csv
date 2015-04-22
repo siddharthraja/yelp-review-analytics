@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great American bar, 0.791794, 0
 1, basic bar cleanliness, 0.78048, 0
 1, downtown Scottsdale bar, 0.779154, 1

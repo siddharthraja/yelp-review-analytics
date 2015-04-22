@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Worst salmon sandwich, 0.923196, 0
 1, biggest hurdle, 0.765965, 0
 1, worst salmon, 0.973584, 1

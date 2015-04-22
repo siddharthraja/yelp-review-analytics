@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Worst Thai food, 0.688577, 0
 1, non-hairy food items, 0.659246, 0
 1, Pad Thai taste, 0.608425, 1

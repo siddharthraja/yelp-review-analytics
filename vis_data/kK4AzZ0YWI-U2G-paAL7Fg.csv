@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst dining experiences, 0.625946, 0
 1, calamari app, 0.580686, 0
 1, bland marinara sauce, 0.655554, 1

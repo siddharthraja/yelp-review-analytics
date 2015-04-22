@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Yelpy Award night, 0.950302, 0
 1, big take-out order, 0.860489, 0
 1, usual line, 0.655483, 1

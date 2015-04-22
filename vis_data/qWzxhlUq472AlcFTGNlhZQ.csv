@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, seemingly dead spot, 0.863663, 0
 1, actual street vendors, 0.810117, 0
 1, super loud place, 0.855563, 1

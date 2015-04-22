@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, decent selection, 0.815605, 0
 1, open tables, 0.733373, 0
 1, bad service, 0.697858, 1

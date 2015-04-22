@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, nut job chef, 0.883442, 0
 1, cost cutting decision, 0.864161, 0
 1, oily grilled disaster, 0.910284, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, buffalo chicken sandwich, 0.858598, 0
 1, special burger, 0.690517, 0
 1, wrong order, 0.615159, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, overpriced drinks, 0.931029, 0
 1, urine, 0.285969, 0
 1, new space, 0.666682, 1

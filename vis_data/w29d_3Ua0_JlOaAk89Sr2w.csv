@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, service terrible food, 0.582338, 0
 1, small street tacos, 0.559727, 0
 1, horrible service, 0.601515, 1

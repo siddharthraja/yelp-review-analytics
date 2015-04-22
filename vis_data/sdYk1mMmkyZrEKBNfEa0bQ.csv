@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, particular restaurant, 0.580167, 0
 1, High School, 0.565184, 0
 1, trendy neighborhood, 0.853713, 1

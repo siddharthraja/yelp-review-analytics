@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, WORST food poisoning, 0.926923, 0
 1, dirty water glasses, 0.913415, 0
 1, cooked asparagus, 0.800191, 1

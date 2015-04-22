@@ -183,8 +183,7 @@ function plotFeatures(svg, id, xshift, xstart, yshift, ystart){
 
 var mainFeatureList = {};
 function listPopulate(featuresList){
-	
-	console.log("function listPopulate(featuresList){");
+		
 	var count = 0;
 	var str = '';
 	str += "<h3>Features</h3>";
@@ -203,7 +202,19 @@ function listLinking(key){
 	
 	idstr = "#keyword"+String(mainFeatureList[key]);
 	console.log(idstr);
-	document.getElementById(idstr).style.backgroundColor = 'blue';
+	var count = 0;
+	var str = '';
+	str += "<h3>Features</h3>";
+	for (var k in mainFeatureList) {	
+		count++;
+		mainFeatureList[k] = count;
+		if(k == key)
+			str += "<p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;background-color:lightblue;\">"+k+"</p>";
+		else
+			str += "<p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;\">"+k+"</p>";
+	}
+	//str += "</ul>";
+	document.getElementById('FeatureList').innerHTML = str;
 	//$(idstr).css({'background-color':'yellow'});​
 }
 //**********************************************************************

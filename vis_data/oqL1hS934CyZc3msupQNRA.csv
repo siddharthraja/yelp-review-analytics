@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, husband, 0.41577, 0
 1, waiter, 0.316235, 0
 1, lunch, 0.296845, 1

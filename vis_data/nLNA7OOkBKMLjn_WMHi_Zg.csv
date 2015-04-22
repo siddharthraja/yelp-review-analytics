@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, nasty sandwich, 0.997783, 1
 1, italian sandwich, 0.850736, 1
 2, Leche Croissant, 0.571758, 0

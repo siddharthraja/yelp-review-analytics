@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, smokestack, 0.52302, 0
 1, slab, 0.485628, 0
 1, decent sandwich, 0.770719, 1

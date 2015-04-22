@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mexican food, 0.805831, 0
 1, School Mexican Food, 0.769868, 0
 1, WORST Dining Experience, 0.727131, 1

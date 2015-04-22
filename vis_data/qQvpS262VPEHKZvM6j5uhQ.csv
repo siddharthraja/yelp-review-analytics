@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, employees, 0.551144, 0
 1, bad service, 0.987452, 1
 1, Bad business, 0.909222, 1

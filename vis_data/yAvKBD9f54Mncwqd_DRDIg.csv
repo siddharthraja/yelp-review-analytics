@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Erfahrung eher negativ, 0.924691, 3
 1, leider gehäuft, 0.722063, 3
 1, mehrmals vorgekommen, 0.686966, 4

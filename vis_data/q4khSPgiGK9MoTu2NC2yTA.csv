@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, gross chicken fingers, 0.80426, 0
 1, basic diner-The meat, 0.790291, 0
 1, worst dining option, 0.747837, 1

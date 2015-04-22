@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible experience, 0.831985, 0
 1, path, 0.49897, 1
 1, disabled parking, 0.884075, 2

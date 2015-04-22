@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, F+), 0.827725, 0
 1, Salmon salad, 0.827144, 0
 1, actual burger, 0.826029, 1

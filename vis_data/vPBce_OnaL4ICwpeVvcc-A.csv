@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, drinks, 0.31808, 0
 2, tickets, 0.30256, 0
 2, need, 0.323386, 1

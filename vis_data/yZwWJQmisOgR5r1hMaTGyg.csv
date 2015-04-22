@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, awful customer experience, 0.735928, 0
 1, Friday night, 0.653559, 0
 1, huge headache, 0.632622, 1

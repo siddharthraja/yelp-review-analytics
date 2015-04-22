@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bartender text, 0.778434, 0
 1, cocktail waitress, 0.651419, 0
 1, cool neighborhood bar, 0.944857, 2

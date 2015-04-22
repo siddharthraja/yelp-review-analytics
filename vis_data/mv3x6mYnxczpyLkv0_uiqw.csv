@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, fun, 0.729028, 7
 3, red piano, 0.983651, 8
 4, Sir Elton, 0.693667, 0

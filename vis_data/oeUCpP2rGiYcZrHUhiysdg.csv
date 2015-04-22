@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, free crepe, 0.71643, 0
 1, Polish crepe, 0.698456, 0
 1, breakfast crepe, 0.705372, 1

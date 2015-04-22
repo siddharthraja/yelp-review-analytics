@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ground beef taco, 0.765055, 0
 1, better judgment, 0.625854, 0
 1, terrible reality, 0.589787, 1

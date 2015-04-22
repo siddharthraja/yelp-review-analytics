@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, boring bar food, 0.654265, 0
 2, Irish bar, 0.427181, 0
 2, special menu, 0.434396, 1

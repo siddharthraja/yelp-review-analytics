@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, attitude, 0.568185, 3
 1, chill pill, 0.95919, 7
 1, drink, 0.555537, 7

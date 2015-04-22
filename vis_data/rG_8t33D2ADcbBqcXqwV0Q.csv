@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, San Antonio, 0.661823, 0
 1, bland veggies, 0.647089, 0
 1, term egg whites, 0.779331, 1

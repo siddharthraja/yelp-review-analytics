@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Junk junk junk, 0.779131, 0
 1, video poker, 0.593218, 0
 1, hot sauce, 0.579588, 1

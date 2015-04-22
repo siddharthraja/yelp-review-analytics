@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, location specific gift, 0.592478, 0
 1, offer gift cards, 0.589672, 0
 1, bad service, 0.664579, 1

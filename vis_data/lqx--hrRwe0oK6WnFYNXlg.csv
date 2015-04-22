@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, asparagus eggs benedict, 0.644265, 0
 1, new favorite place, 0.614854, 0
 1, horrible service, 0.662159, 1

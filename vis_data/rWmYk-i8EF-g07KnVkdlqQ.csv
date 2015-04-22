@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, food, 0.475074, 0
 1, service, 0.474501, 0
 1, waitress, 0.55366, 1

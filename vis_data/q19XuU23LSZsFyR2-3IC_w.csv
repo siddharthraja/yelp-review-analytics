@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, red pepper soup, 0.779164, 0
 2, fine ground pepper, 0.749873, 0
 2, poorly cleaned plate, 0.750456, 1

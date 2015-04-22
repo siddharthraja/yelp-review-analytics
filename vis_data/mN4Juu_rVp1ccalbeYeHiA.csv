@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, good Scottish ale, 0.954805, 0
 4, Ale selection, 0.680018, 0
 4, Leith, 0.29598, 2

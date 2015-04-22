@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Boo, 0.979394, 1
 1, location, 0.851714, 2
 2, sauce holder, 0.644747, 0

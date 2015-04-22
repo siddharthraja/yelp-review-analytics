@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, reviewing, 0.367664, 0
 2, sample, 0.347982, 0
 2, poor service, 0.842508, 1

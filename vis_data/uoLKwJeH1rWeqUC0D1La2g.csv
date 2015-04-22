@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible experience, 0.704062, 0
 1, worst customer service, 0.689068, 0
 1, pretty horrible experience, 0.605485, 1

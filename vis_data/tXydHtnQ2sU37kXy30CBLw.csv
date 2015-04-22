@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, large party, 0.672763, 0
 1, rude tones, 0.671663, 0
 1, bad business practice, 0.753659, 1

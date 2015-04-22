@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, decent drink specials, 0.801288, 0
 1, drunk old hippie, 0.645176, 0
 1, horrible place, 0.536648, 1

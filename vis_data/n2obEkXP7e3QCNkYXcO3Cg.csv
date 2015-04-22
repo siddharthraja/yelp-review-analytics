@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Big Fat Greek, 0.705844, 0
 1, credit card, 0.675872, 0
 1, decent sports bar, 0.722719, 1

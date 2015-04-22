@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, strip steak, 0.763216, 0
 1, peppercorn strip steak, 0.760873, 0
 1, bad steak house, 0.737725, 1

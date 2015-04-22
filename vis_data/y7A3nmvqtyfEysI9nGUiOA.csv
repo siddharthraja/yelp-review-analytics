@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, diamondbacks game, 0.763196, 0
 1, poor waitress, 0.723834, 0
 1, double events, 0.657976, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, VIP ticket holders, 0.81766, 0
 1, nationally known headliner, 0.722467, 0
 1, comedy clubs, 0.731109, 1

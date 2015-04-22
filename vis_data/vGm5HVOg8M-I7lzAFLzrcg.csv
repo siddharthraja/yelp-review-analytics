@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, buffalo chicken sliders, 0.903487, 0
 1, music sucks, 0.722105, 0
 1, unprofessional bartender, 0.744048, 1

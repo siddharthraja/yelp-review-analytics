@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, weekday evening, 0.752359, 0
 4, fries, 0.483881, 0
 4, bar area, 0.67081, 1

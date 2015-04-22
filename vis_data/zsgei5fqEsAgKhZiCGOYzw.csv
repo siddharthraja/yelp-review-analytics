@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Beach Boys, 0.980405, 0
 3, small story, 0.681984, 0
 3, mixed bag, 0.668761, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, East Liberty, 0.826288, 0
 1, Elvis Costello glasses, 0.797974, 0
 1, worst food poisoning, 0.805462, 1

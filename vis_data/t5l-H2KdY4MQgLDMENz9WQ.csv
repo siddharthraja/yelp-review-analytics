@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst food, 0.440858, 0
 1, iceberg lettuce, 0.425774, 0
 1, jazz night, 0.662627, 1

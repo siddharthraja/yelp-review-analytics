@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, school lunch grade, 0.643911, 0
 1, servers attention, 0.628202, 0
 1, bootleggers Poor service, 0.669404, 1

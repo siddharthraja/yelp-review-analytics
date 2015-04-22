@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, musical guest, 0.548348, 0
 1, Lost Leaf, 0.940661, 1
 1, sorry Lost Leaf, 0.888479, 1

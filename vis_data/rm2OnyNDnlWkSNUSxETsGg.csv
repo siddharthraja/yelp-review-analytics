@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, grocery store bun, 0.937352, 0
 1, shitty champaign Illinois, 0.903053, 0
 1, boy rude customers, 0.870185, 1

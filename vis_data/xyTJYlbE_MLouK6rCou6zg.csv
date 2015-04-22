@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, absolute worst burger, 0.607419, 0
 1, great burger experience, 0.598149, 0
 1, pretty bad burger, 0.5631, 1

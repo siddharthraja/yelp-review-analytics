@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, health dept. inspection, 0.973821, 2
 1, place, 0.58217, 2
 2, worst campus bar, 0.717141, 0

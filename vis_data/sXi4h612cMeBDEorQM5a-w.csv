@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, high hopes, 0.705469, 0
 1, beer cost, 0.591608, 0
 1, poorest clubs, 0.735906, 1

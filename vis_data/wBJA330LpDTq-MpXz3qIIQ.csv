@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, DELISH, 0.514615, 0
 3, bartender, 0.467653, 3
 3, dessert, 0.425212, 3

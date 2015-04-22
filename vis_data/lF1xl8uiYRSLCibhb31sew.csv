@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, dog, 0.6415, 0
 2, staff, 0.801628, 3
 2, customer service, 0.976736, 7

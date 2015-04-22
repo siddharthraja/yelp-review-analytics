@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Blah food, 0.803367, 1
 2, chicken dish, 0.904732, 2
 2, calamari, 0.495416, 2

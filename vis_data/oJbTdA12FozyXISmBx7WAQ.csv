@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, UFC fight night, 0.944476, 0
 1, canyon grill, 0.815572, 0
 1, waitress, 0.67324, 1

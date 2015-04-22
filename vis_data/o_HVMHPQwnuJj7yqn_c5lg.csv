@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Friday fish fry, 0.996068, 0
 1, unbussed tables, 0.603753, 0
 1, credit cards, 0.53444, 1

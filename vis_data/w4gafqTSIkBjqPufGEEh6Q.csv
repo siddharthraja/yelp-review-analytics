@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, special chicken Philly, 0.935853, 0
 1, bad bartenders, 0.674054, 0
 1, old cold fries, 0.811829, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, nice cold breeze, 0.903832, 0
 1, large parties outdoors, 0.894049, 0
 1, big disappointment, 0.680892, 1

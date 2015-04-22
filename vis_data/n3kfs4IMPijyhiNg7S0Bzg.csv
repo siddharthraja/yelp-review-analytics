@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, female company, 0.633674, 0
 4, TV count, 0.736799, 2
 4, cheap beer, 0.704272, 4

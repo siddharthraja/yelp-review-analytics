@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cream cheese, 0.960733, 1
 1, stale bagel, 0.854244, 1
 2, typical dine, 0.517729, 0

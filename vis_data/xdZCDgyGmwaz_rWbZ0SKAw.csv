@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hotel room, 0.672664, 0
 1, guest cards, 0.65349, 0
 1, poor customer service, 0.872362, 1

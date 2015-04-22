@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, prime rib, 0.701794, 0
 1, steak house, 0.697815, 0
 1, Long Beach, 0.881823, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, long huge plate, 0.879665, 0
 1, small woman, 0.761353, 0
 1, break room, 0.734413, 1

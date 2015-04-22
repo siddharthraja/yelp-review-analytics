@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Frito/Chili Nacho thing, 0.571381, 0
 1, World Series Game, 0.550674, 0
 1, ASU football game, 0.576542, 1

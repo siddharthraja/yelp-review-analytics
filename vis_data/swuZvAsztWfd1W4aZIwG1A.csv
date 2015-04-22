@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, popcorn area, 0.55704, 0
 1, actual party, 0.556484, 0
 1, bad service, 0.941614, 1

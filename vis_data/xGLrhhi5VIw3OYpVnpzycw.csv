@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, cheeky pint, 0.795979, 0
 2, quick beer, 0.55358, 0
 2, pretty bad experience, 0.967499, 1

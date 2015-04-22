@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Amsterdam, 0.612405, 0
 1, cover charge, 0.911015, 1
 1, bad mood, 0.87588, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, turkey burger, 0.952706, 0
 1, plain iced tea, 0.768831, 0
 1, picky eater, 0.611207, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Worst comedy club, 0.793877, 0
 1, incompetent staff, 0.576409, 0
 1, Rude Aggressive owner, 0.988518, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dirty bar floor, 0.85497, 0
 1, Crappy bar, 0.631727, 0
 1, Typical college bar, 0.945256, 1

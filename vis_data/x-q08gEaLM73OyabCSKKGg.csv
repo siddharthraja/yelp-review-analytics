@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mins, 0.769805, 0
 1, lunch, 0.71146, 0
 1, look, 0.64679, 3

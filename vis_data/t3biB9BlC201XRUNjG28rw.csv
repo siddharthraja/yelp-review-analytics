@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, response, 0.493766, 0
 1, fried pickles, 0.998999, 1
 1, waitress, 0.859283, 1

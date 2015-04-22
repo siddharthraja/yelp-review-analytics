@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Dear Irish Embassy, 0.766221, 0
 1, good pub, 0.679193, 0
 1, damn long time, 0.675296, 1

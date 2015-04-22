@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst PTs, 0.805863, 0
 1, rookie bartender, 0.585412, 0
 1, customer service, 0.658041, 1

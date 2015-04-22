@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, othet local business, 0.859357, 0
 1, hell hole, 0.743167, 0
 1, local bar, 0.852244, 1

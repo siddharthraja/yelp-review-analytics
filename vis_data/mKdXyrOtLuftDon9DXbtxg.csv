@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, separate entrances, 0.663048, 0
 1, regular people, 0.546162, 0
 1, disappointment, 0.343757, 1

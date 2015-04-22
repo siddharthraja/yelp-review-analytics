@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Worst customer service, 0.986309, 0
 1, dirty locker room, 0.786826, 0
 1, dumb bartender kicks, 0.783851, 1

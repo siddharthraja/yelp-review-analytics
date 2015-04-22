@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, definitely bad customer, 0.826035, 0
 1, breakfast, 0.373761, 0
 1, bartender, 0.503323, 1

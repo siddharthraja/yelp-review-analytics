@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, tap water, 0.411341, 0
 1, root beer float, 0.411329, 0
 1, ice cream, 0.40617, 1

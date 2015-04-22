@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Drinks, 0.229995, 0
 3, short menu, 0.832147, 1
 3, burgers, 0.273993, 1

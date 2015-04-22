@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst places, 0.834047, 0
 1, bartender, 0.543163, 3
 1, attension, 0.347204, 3

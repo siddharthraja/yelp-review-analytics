@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible customer service, 0.627441, 0
 1, spinach salad, 0.55194, 0
 1, customer service, 0.630002, 1

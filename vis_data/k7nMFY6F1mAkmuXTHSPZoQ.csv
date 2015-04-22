@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, United airline, 0.676902, 0
 1, star, 0.436658, 1
 1, stomach, 0.392561, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, spicy honey mustard, 0.804081, 0
 1, luke warm food, 0.787546, 0
 1, gas station bathroom, 0.79043, 1

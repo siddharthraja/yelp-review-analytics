@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mistake, 0.306133, 1
 1, apology, 0.294521, 1
 1, waitress, 0.964086, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, local team game, 0.872123, 0
 1, clueless female manager, 0.859404, 0
 1, basic bar fodder, 0.891307, 1

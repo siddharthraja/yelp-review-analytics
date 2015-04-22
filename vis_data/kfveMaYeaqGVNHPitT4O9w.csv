@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, totally in-authentic food, 0.866072, 0
 1, good Med food, 0.864406, 0
 1, dark dirty place, 0.848528, 1

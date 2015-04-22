@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, foul smelling restaurant, 0.822143, 0
 1, rotten business performance, 0.81536, 0
 1, windshield wiper window, 0.825225, 1

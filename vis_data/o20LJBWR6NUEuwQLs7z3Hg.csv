@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new waitress, 0.754127, 0
 1, worst enemy, 0.725847, 0
 1, ice teas, 0.857284, 1

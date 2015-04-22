@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Table res. people, 0.673064, 0
 1, successful club run, 0.668036, 0
 1, drinks, 0.66883, 1

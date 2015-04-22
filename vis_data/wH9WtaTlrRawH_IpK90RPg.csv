@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bad business practices, 0.830692, 0
 1, credit card errors, 0.828591, 0
 1, patio hang-out, 0.742475, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, expensive bar, 0.776057, 0
 1, cocktail waitress, 0.695179, 0
 1, expensive drinks, 0.81851, 1

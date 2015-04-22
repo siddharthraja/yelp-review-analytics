@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, best looking bars, 0.632639, 0
 1, Labor Day weekend, 0.528956, 0
 1, worst problem, 0.503176, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, house red wine, 0.682119, 0
 5, Stephenie T., 0.61857, 0
 5, world peace, 0.624982, 1

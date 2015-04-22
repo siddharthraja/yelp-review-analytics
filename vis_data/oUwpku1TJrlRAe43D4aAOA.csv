@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, sports-type crowd, 0.905605, 0
 2, Canadian girls, 0.852658, 0
 2, pound pints, 0.903267, 1

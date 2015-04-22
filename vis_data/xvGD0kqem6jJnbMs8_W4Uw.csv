@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, miserable person, 0.715699, 0
 1, reuben, 0.47867, 0
 1, return business, 0.678894, 1

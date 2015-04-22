@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, green eggs, 0.992207, 0
 1, untouched green eggs, 0.977171, 0
 1, waste, 0.45533, 1

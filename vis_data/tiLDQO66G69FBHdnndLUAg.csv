@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, class dive bar, 0.905166, 0
 1, horrible dive bar, 0.894263, 0
 1, dive gross bar, 0.878733, 1

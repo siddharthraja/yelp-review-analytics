@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Man pale ales, 0.525909, 0
 1, waiter service, 0.467372, 0
 1, L. Terrible service, 0.517622, 1

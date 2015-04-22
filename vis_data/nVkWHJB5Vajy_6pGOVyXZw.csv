@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, green chicken curry, 0.880772, 0
 1, Thai, 0.26688, 0
 1, Food weird, 0.601208, 2

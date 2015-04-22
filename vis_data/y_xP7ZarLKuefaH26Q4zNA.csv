@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible pizza, 0.652047, 0
 1, New York style, 0.60149, 0
 1, worst pizza, 0.643824, 1

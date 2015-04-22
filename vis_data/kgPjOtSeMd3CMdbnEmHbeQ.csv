@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, birthday pub crawl, 0.941072, 0
 1, cheapest restaurant owner, 0.905893, 0
 1, worst restaurant experience, 0.927169, 1

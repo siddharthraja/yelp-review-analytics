@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, floor area, 0.769542, 3
 4, things, 0.523465, 3
 4, Friday night, 0.943977, 7

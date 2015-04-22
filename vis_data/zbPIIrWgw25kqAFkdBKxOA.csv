@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hot dog buns, 0.739468, 0
 1, short hot dogs, 0.726905, 0
 1, bad food, 0.493077, 1

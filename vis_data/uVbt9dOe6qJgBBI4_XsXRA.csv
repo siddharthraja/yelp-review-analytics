@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, typical non-steak choices, 0.886442, 0
 1, shrimp appetizers, 0.816326, 0
 1, Philly steak sandwich, 0.992519, 1

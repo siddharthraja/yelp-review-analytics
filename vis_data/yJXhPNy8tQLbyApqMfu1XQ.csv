@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Poor ventilation, 0.90678, 0
 1, Extremely poor service, 0.845091, 0
 1, worst service, 0.679286, 1

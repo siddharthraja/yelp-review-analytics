@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor customer service., 0.933751, 0
 1, worst place, 0.702521, 0
 1, significant menu change, 0.85909, 1

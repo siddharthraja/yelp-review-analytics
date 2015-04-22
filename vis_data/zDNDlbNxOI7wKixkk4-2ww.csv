@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pool league, 0.93387, 0
 1, trailer park, 0.926985, 0
 1, place, 0.82362, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ping pong room, 0.97467, 0
 1, -The beer pong, 0.725216, 0
 1, biggest POS bar, 0.52618, 1

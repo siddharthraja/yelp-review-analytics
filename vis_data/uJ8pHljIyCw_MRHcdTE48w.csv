@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Chicken Alfredo, 0.72207, 0
 1, husband, 0.578852, 0
 1, restaurant, 0.47661, 1

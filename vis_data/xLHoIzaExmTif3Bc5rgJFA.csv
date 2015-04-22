@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, bread, 0.289842, 0
 2, Turkey Club, 0.952083, 1
 2, food, 0.211509, 1

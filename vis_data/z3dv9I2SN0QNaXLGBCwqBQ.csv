@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sandwich untouched. fries, 0.760528, 0
 1, roast beef sandwich, 0.752372, 0
 1, cheap kettle chips, 0.706688, 1

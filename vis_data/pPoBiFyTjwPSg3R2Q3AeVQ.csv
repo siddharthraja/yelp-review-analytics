@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bullshit fake line, 0.950417, 0
 1, Credit Card minimum, 0.877011, 0
 1, steady business, 0.754351, 3

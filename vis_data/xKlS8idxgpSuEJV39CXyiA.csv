@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, large theatre, 0.914253, 0
 2, concerts, 0.488692, 0
 2, UNLV games, 0.942441, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, limited culinary training, 0.787937, 0
 2, single beer, 0.691833, 0
 2, multiple times, 0.671415, 1

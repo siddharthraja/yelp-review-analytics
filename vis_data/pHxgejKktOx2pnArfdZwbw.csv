@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, funny thing, 0.651339, 0
 4, light switch, 0.642778, 0
 4, bar tender, 0.621383, 1

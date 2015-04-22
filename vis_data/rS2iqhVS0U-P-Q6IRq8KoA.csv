@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good experience, 0.938333, 3
 1, food, 0.748427, 3
 3, toilets, 0.533767, 0

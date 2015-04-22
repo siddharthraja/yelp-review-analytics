@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cool night air, 0.932938, 0
 1, glass bottles, 0.697461, 0
 1, street corner, 0.691655, 1

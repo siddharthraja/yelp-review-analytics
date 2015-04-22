@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Assistant General Manager, 0.921416, 0
 1, mashed potatoes, 0.752234, 0
 1, husbands NY strip, 0.938764, 1

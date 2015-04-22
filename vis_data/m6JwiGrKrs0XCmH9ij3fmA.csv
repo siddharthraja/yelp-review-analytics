@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, microwaved Philly Cheese, 0.939368, 0
 1, parmesan fries, 0.900967, 0
 1, main dining room, 0.884086, 1

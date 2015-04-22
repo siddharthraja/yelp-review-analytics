@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, idiot reading BINGO, 0.921894, 0
 1, bullhorn, 0.404645, 0
 1, sports bar, 0.814958, 1

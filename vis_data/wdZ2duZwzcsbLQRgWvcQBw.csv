@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible experience, 0.773394, 0
 1, food service, 0.718719, 0
 1, deep fryer, 0.772123, 1

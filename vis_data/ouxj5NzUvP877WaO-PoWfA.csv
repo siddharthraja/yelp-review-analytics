@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bar, 0.303078, 1
 1, wife, 0.587442, 2
 1, prices, 0.383068, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst restaurant experiences, 0.936716, 0
 1, awful service, 0.73252, 0
 1, good riddance, 0.692976, 1

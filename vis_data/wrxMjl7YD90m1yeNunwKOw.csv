@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, VEAL stock, 0.876214, 0
 1, server, 0.553193, 0
 1, terrible restaurant, 0.983481, 1

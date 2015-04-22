@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new burger process, 0.885647, 0
 1, kids veggie plate, 0.832216, 0
 1, nasty beer, 0.7317, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, typical bar food, 0.995809, 0
 5, Local-international gathering spot, 0.993516, 0
 5, flat screens, 0.633025, 2

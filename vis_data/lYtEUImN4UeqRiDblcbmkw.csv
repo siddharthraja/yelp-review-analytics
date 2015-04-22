@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, big city wine-bar, 0.510563, 0
 1, corner Chinese place, 0.500632, 0
 1, unappetizing mornay sauce, 0.503088, 1

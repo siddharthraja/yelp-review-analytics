@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Multiple unnecessary comments, 0.924042, 0
 1, local sports bar, 0.905897, 0
 1, bartender Danielle, 0.780479, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, n't restaurant tables, 0.464158, 0
 1, locations downtown, 0.430631, 0
 1, seitan tacos, 0.536261, 1

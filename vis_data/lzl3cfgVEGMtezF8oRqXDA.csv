@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, monday night football, 0.980214, 0
 1, regular mixed salad, 0.731047, 0
 1, ditzy bartender, 0.811028, 1

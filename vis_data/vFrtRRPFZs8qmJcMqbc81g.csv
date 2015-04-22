@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, General Manager  Jason, 0.919268, 9
 1, waiter Conor, 0.823682, 9
 3, huge space, 0.716246, 0

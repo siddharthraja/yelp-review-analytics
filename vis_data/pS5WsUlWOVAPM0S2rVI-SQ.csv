@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cough syrup, 0.826903, 0
 1, Bloody Mary, 0.773785, 0
 1, decent drink, 0.916834, 1

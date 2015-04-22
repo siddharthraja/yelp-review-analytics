@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, late night bartender/manager, 0.773318, 0
 1, greedy waitress, 0.625003, 0
 1, coin player, 0.743432, 1

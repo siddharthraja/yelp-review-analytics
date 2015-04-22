@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, safe place, 0.536462, 0
 1, burrito, 0.437161, 0
 1, callous customer service, 0.890774, 1

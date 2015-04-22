@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, place, 0.651283, 1
 1, drinks, 0.584943, 1
 1, people, 0.634971, 2

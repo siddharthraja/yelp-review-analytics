@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, lesser rating, 0.708487, 0
 1, previous trips, 0.669609, 0
 1, yelp, 0.473213, 1

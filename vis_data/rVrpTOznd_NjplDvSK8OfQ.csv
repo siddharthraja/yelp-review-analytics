@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, tasteful manner, 0.507824, 0
 1, dozen co-workers, 0.502883, 0
 1, friend, 0.633791, 1

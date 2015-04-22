@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, main dish, 0.98906, 0
 2, initial wine selection, 0.877206, 0
 2, food order, 0.68518, 1

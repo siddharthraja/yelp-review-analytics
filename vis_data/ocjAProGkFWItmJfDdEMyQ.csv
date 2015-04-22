@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, job, 0.800898, 0
 1, portion, 0.975534, 3
 1, reason, 0.964196, 3

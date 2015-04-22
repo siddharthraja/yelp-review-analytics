@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Specially fried food, 0.667428, 0
 1, french fries, 0.63879, 0
 1, bad fried food, 0.655941, 1

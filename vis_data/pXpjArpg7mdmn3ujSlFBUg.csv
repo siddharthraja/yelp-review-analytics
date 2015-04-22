@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst service, 0.758398, 0
 1, bartender, 0.50344, 0
 1, worst PTs, 0.774574, 1

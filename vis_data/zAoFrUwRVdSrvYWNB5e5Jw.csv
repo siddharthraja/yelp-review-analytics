@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sucky airport bar, 0.61276, 0
 1, Dos-Equis Amber draft, 0.601287, 0
 1, Wall Street investment, 0.611547, 1

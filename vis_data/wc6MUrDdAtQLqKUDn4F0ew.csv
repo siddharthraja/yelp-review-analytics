@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, light pink meat, 0.692116, 0
 1, stale corn-dusted bun, 0.687966, 0
 1, bbq burger, 0.643267, 1

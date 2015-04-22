@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, specific movie time, 0.99941, 0
 2, Concord Mills, 0.808256, 0
 2, disgusting places, 0.753676, 1

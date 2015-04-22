@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, large Wal-Mart shopping, 0.951816, 0
 3, nice little neighborhood, 0.892063, 0
 3, skinny bar, 0.581668, 2

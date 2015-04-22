@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Daisy Train, 0.582458, 0
 1, Dear blue martini, 0.537712, 0
 1, time Horrible service, 0.483477, 1

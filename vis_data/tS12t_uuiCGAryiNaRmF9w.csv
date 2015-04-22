@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, buffalo wings, 0.900862, 0
 1, items worth ordering..beer, 0.900551, 0
 1, slow service, 0.730102, 1

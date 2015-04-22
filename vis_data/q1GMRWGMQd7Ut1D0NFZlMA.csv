@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, actual edible food, 0.741075, 0
 1, Shitty diner, 0.59559, 0
 1, sorry elderly people, 0.974275, 1

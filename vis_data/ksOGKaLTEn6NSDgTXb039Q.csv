@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, little dining area, 0.906925, 0
 1, nice things, 0.622228, 0
 1, ugly concrete floor, 0.814333, 1

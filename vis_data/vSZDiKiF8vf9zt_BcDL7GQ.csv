@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Mr. William Penn, 0.873134, 0
 1, menu prices, 0.588312, 1
 1, damn plastic cups, 0.96556, 2

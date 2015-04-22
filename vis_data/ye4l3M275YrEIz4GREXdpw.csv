@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hate ridden establishment, 0.994857, 0
 1, customers, 0.562345, 0
 1, boyfriend, 0.657377, 2

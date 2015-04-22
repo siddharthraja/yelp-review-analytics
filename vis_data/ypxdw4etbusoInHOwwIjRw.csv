@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, now-present gabby host, 0.980342, 0
 1, worst restaurant experience, 0.949235, 0
 1, bad service, 0.95228, 1

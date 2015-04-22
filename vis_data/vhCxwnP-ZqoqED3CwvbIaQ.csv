@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst airport bar, 0.946325, 0
 1, turkey sandwiches, 0.44664, 0
 1, luke warm Corona, 0.694003, 1

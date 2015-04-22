@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hot electro-indie band, 0.880978, 0
 1, poor liquor selection, 0.868236, 0
 1, worst music venue, 0.92053, 1

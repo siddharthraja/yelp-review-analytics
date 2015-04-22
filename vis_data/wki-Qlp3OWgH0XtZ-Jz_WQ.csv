@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mins, 0.935923, 0
 1, delivery, 0.524224, 0
 1, voice mail, 0.954128, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst service, 0.761949, 0
 1, poor service, 0.757529, 0
 1, Prime Rib sandwich, 0.965883, 1

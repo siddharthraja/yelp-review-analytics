@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, burger night, 0.807626, 0
 1, brick walls, 0.662333, 0
 1, burger, 0.842571, 1

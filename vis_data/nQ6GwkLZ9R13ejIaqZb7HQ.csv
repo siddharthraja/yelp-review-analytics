@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, light bulb, 0.95302, 0
 1, large party, 0.927334, 0
 1, terrible service, 0.852701, 2

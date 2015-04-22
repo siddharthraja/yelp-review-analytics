@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, waitresses, 0.26074, 1
 2, evening, 0.200538, 1
 2, crappy table service, 0.767871, 2

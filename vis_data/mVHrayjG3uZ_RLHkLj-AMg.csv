@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, ribeye sandwich, 0.725055, 0
 4, Huge sandwich, 0.707515, 0
 4, Yelp page, 0.655604, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, truck stop restroom, 0.614664, 0
 1, times Merc Bar, 0.608442, 0
 1, toilet paper, 0.741816, 1

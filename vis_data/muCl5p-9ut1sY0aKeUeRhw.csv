@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible customer service, 0.741633, 0
 1, tomato bisque soup, 0.725355, 0
 1, service, 0.910922, 1

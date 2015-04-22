@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great Portuguese restaurants, 0.841305, 0
 1, Horrible food, 0.670375, 0
 1, low quality black, 0.890284, 1

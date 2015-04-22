@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor service, 0.724587, 0
 1, poor food, 0.724261, 0
 1, Doubt, 0.48114, 1

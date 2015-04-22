@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, old charming building, 0.943998, 0
 1, bad sports bar, 0.832298, 0
 1, particular game, 0.389427, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fellow Yelpers, 0.791375, 0
 1, osso buco, 0.763903, 0
 1, bad night, 0.725434, 1

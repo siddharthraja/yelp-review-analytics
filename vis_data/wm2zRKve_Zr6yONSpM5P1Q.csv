@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sane ones, 0.664599, 0
 1, staff try, 0.59651, 0
 1, awful music, 0.955577, 1

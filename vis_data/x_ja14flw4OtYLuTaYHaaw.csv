@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, walmart parking, 0.90095, 0
 1, lounge, 0.384269, 0
 1, Yelp profile, 0.975281, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, small bar lounge, 0.632662, 0
 1, serviceable service, 0.472653, 0
 1, Bar flat screen, 0.640861, 1

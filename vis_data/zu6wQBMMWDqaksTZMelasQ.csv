@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, coworkers cell phone, 0.829558, 0
 1, general customer service, 0.816862, 0
 1, food industry yeas, 0.857515, 1

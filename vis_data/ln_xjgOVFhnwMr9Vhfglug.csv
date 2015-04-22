@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dueling piano bars, 0.796295, 0
 1, dueling piano/piano bar, 0.792424, 0
 1, piano bars, 0.954754, 1

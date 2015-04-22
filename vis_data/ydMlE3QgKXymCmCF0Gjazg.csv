@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, previous reviewers, 0.881977, 0
 1, cheap drinks, 0.851772, 0
 1, frat house, 0.903659, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Tin Kitchen food, 0.919216, 0
 1, good things, 0.668061, 0
 1, worst service, 0.698629, 1

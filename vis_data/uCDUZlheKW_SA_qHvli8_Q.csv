@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, breakfast bar, 0.902824, 1
 2, guests, 0.49725, 1
 2, free breakfast, 0.914777, 2

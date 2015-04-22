@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, standard dueling piano, 0.947162, 0
 1, upset customer, 0.693139, 0
 1, various piano bars, 0.945751, 1

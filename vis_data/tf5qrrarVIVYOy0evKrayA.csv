@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Clorox wipes, 0.599699, 0
 1, religious service, 0.59428, 0
 1, Saturday night, 0.806037, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Le Barbare, 0.70261, 0
 1, frustration levels, 0.684695, 0
 1, useless waitresses, 0.738165, 1

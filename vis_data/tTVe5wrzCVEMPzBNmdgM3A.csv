@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, York style pizza, 0.867818, 0
 2, tomato sauce, 0.548683, 0
 2, lousy slices, 0.57298, 1

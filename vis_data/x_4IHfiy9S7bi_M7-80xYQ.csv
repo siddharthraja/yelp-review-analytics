@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, regular nachos, 0.757077, 0
 1, garlic, 0.468632, 0
 1, beef nachos, 0.801161, 1

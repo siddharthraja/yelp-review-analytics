@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, slow Saturday afternoon, 0.995497, 1
 1, waitress, 0.525398, 1
 1, order, 0.380283, 2

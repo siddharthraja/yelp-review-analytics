@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Decently interesting food, 0.773751, 0
 3, crappy beer selection, 0.757559, 0
 3, interesting beers, 0.636509, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, cheese types, 0.846569, 0
 2, bottled water, 0.832569, 0
 2, service, 0.561992, 1

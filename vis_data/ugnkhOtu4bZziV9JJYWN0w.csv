@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, place, 0.525995, 0
 1, CLOSED, 0.70949, 2
 1, deal, 0.610598, 3

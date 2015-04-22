@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, people, 0.401089, 0
 1, simple cocktails, 0.764475, 1
 1, Gawd, 0.495349, 1

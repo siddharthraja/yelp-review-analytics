@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Poor food handling, 0.917077, 0
 1, Major disappointment, 0.656569, 0
 1, practices, 0.258941, 1

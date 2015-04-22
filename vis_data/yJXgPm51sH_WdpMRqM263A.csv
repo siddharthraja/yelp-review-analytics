@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, legal drinking age, 0.780216, 0
 3, Thursday nights, 0.667967, 0
 3, cheap drinks, 0.618493, 1

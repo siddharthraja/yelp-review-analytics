@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, poor food, 0.535395, 0
 2, Stinks, 0.391526, 0
 2, bad waitress service, 0.93879, 1

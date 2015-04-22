@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, curry chicken, 0.972103, 0
 1, potato clumps, 0.888014, 0
 1, fried rice, 0.827451, 1

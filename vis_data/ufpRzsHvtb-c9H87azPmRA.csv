@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, morning Jason, 0.275843, 0
 5, Vegas promoters, 0.252951, 0
 5, Vegas trips, 0.245588, 1

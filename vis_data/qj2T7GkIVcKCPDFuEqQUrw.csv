@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, lunch, 0.504662, 0
 1, wednesday, 0.489779, 0
 1, bartender, 0.785778, 2

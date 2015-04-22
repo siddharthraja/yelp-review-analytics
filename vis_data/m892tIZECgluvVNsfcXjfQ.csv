@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Prime Steakhouse prices, 0.794058, 0
 1, red velvet cake, 0.790152, 0
 1, comped steak, 0.781883, 1

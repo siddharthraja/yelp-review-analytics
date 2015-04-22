@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, service based review, 0.769151, 0
 1, stars cuz, 0.590977, 0
 1, bar scene thing, 0.698121, 1

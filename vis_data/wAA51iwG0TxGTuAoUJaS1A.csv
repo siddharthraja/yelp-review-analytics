@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, communal snacks, 0.930686, 0
 1, hands, 0.404412, 0
 1, service, 0.581415, 1

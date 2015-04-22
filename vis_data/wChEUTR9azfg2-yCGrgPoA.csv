@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Food, 0.723089, 0
 1, time crunch, 0.985839, 3
 1, times, 0.73078, 3

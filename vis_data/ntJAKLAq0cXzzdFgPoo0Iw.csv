@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, food safety laws, 0.721883, 0
 1, depressing dive bar, 0.717016, 0
 1, old bar smell, 0.713684, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good food, 0.538727, 0
 1, regulars, 0.219182, 0
 1, cheap white buns, 0.932083, 1

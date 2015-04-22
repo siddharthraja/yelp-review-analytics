@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, bio chicken, 0.868636, 0
 2, Elderflower liquor, 0.843524, 0
 2, dessert menu, 0.877859, 3

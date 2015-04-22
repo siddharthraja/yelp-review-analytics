@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Continental, 0.989833, 0
 3, light snacks, 0.614578, 0
 3, inebriated patrons, 0.61133, 0

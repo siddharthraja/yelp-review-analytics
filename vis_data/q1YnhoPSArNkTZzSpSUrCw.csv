@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, extremely dodgy music, 0.9438, 0
 2, student evenings, 0.697916, 0
 2, awful night, 0.711967, 1
