@@ -115,10 +115,10 @@ input:focus {
 	
 	<div id="VisSection" class="hide" style="left=50px;">
 		<h3 id="VisSectionHeader">Select a business to <i><b>see</b></i> its review</h3>
-		<div id="LeftSide" style="float:left;">
+		<div id="LeftSide" style="float:left;margin-left:10px;">
 			<div id="VisBody" style="width:1100px;"></div>
-			<div id="Recommend"  onclick = "recommend('draft beer selection')" style="width:500px;height:200px;border-style: solid;border-width: 5px;">
-				<h4>Similar businesses you may be interested in</h4>
+			<div id="Recommend">  <!-- onclick = "recommend('draft beer selection')" style="width:500px;height:200px;border-style: solid;border-width: 5px;"> -->
+				<h4>Similar businesses you may want to check out!</h4>
 			</div>
 		</div>
 		<div id="RightSide" style="float:right;">
@@ -168,6 +168,7 @@ var names = null;
 var categories_json = null;
 function recommend(keyword)
 {
+
 	var rawFile = new XMLHttpRequest();
     rawFile.open("GET", 'data/categories_keywords.json', false);
     rawFile.onreadystatechange = function ()
@@ -181,27 +182,31 @@ function recommend(keyword)
                 var allText = rawFile.responseText;
                 allText.replace("'", "");
                 var keyword_data = JSON.parse(allText);
-                //alert(keyword_data[keyword].length);
-                keyword_data[keyword].sort(function(a, b) { 
-				    return a.relevance > b.relevance ? 1 : -1;
-				});
-				var count = 0;
-                for(i = keyword_data[keyword].length - 1; i >= 0; i--)
-                {
-                		var name = names[keyword_data[keyword][i]['business_id']];
-                		var id = keyword_data[keyword][i]['business_id'];
-                		if(names[keyword_data[keyword][i]['business_id']] != undefined)
-                		{
-                			str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
-                			count ++;
-                		}
-                		if(count == 5)
-                		{
-                			break;
-                		}               		
-                }
-                str += "</font></ul>";
-                document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may be interested in</h4>" + "<br/>" + str;
+				console.log(".............."+keyword_data[keyword]);
+				if(keyword_data[keyword] == null || String(keyword_data[keyword]) == undefined)
+					document.getElementById('Recommend').innerHTML = "<h4>No businesses found for this keyword</h4>";
+				//else{
+					keyword_data[keyword].sort(function(a, b) { 
+						return a.relevance > b.relevance ? 1 : -1;
+					});
+					var count = 0;
+					for(i = keyword_data[keyword].length - 1; i >= 0; i--)
+					{
+							var name = names[keyword_data[keyword][i]['business_id']];
+							var id = keyword_data[keyword][i]['business_id'];
+							if(names[keyword_data[keyword][i]['business_id']] != undefined)
+							{
+								str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
+								count ++;
+							}
+							if(count == 5)
+							{
+								break;
+							}               		
+					}
+					str += "</font></ul>";
+					document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may be interested in</h4>" + "<br/>" + str;
+				//}
             }
         }
     }

@@ -200,8 +200,6 @@ function listPopulate(featuresList){
 
 function listLinking(key){
 	
-	idstr = "#keyword"+String(mainFeatureList[key]);
-	console.log(idstr);
 	var count = 0;
 	var str = '';
 	str += "<h3>Features</h3>";
@@ -216,6 +214,7 @@ function listLinking(key){
 	//str += "</ul>";
 	document.getElementById('FeatureList').innerHTML = str;
 	//$(idstr).css({'background-color':'yellow'});​
+	recommend(key);
 }
 //**********************************************************************
 var preData =
