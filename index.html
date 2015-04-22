@@ -113,16 +113,16 @@ input:focus {
 
 	</div>
 	
-	<div id="VisSection" class="hide">
+	<div id="VisSection" class="hide" style="left=50px;">
 		<h3 id="VisSectionHeader">Select a business to <i><b>see</b></i> its review</h3>
-		<div id="LeftSide" style="float:left;">
-			<div id="VisBody"></div>
-			<div id="Recommend" style="width:1100px;height:200px;border-style: solid;border-width: 5px;">
-				<h3>Div for recommendation stuff <br/>Change width, height, styling, etc. as you see fit.</h3>
+		<div id="LeftSide" style="left=50px;">
+			<div id="VisBody" ></div>
+			<div id="Recommend"  onclick = "recommend('draft beer selection')"style="width:940px;height:200px;border-style: solid;border-width: 5px;">
+				<h4>Similar businesses you may be interested in</h4>
 			</div>
 		</div>
 		<div id="RightSide" style="float:right;">
-			<div id="FeatureList" style="width:500px;">
+			<div id="FeatureList" style="width:500px;height:900px;border-style: solid;border-width: 5px;">
 				<h3>Div for feature list<br/>Change width, height, styling, etc. as you see fit.</h3>
 			</div>
 		</div>
@@ -164,7 +164,49 @@ function toggleView(selectedView){
 }
 
 var categories = [];
+var names = null;
 var categories_json = null;
+function recommend(keyword)
+{
+	var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", 'data/categories_keywords.json', false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+            	str = "<ul style='left:50px'><font size ='4'>"
+            	//alert("hello "+ names["UsFtqoBl7naz8AVUBZMjQQ"]);
+                var allText = rawFile.responseText;
+                allText.replace("'", "");
+                var keyword_data = JSON.parse(allText);
+                //alert(keyword_data[keyword].length);
+                keyword_data[keyword].sort(function(a, b) { 
+				    return a.relevance > b.relevance ? 1 : -1;
+				});
+				var count = 0;
+                for(i = keyword_data[keyword].length - 1; i >= 0; i--)
+                {
+                		var name = names[keyword_data[keyword][i]['business_id']];
+                		var id = keyword_data[keyword][i]['business_id'];
+                		if(names[keyword_data[keyword][i]['business_id']] != undefined)
+                		{
+                			str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
+                			count ++;
+                		}
+                		if(count == 5)
+                		{
+                			break;
+                		}               		
+                }
+                str += "</font></ul>";
+                document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may be interested in</h4>" + "<br/>" + str;
+            }
+        }
+    }
+    rawFile.send(null);
+}
 function showBusinesses()
 	{
 		category = document.getElementById('tags').value
@@ -210,6 +252,18 @@ $(document).ready(function() {
     }, 'text');
     
     $("#VisBody").html("");
+    $.get('data/yelp_business_names.json', function(data) {
+    	
+    	data.replace("'","");
+    	//alert(data.length);
+     	names = JSON.parse(data)
+     	//categories = []
+     	//alert("hello "+ names["-R6Vfo22FX33o64OLq6Ktg"]);
+     	
+    }, 'text');
+    
+    $("#VisBody").html("");
+	
 	createVis("Blank");
 });
 });
