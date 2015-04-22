@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Crappy bar food, 0.73935, 0
 1, regular bar fare,and, 0.663862, 0
 1, tilted kilt, 0.740719, 1

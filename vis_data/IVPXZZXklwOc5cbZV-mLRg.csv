@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, undercooked duck, 0.8058, 0
 1, pounds, 0.570847, 0
 1, nastiest calamari, 0.905935, 1

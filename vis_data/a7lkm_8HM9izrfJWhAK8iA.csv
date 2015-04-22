@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, late night pizza, 0.785566, 0
 1, pizza salon, 0.6219, 0
 1, worst eating experience, 0.707978, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, requests, 0.417846, 0
 1, reponse, 0.416426, 0
 1, dont care, 0.970893, 1

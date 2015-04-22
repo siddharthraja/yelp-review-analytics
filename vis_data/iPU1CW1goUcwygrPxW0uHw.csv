@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, better salad, 0.672675, 0
 1, quick lunch, 0.666296, 0
 1, triple chocolate meltdown, 0.842476, 1

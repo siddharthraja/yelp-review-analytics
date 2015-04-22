@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, 20-second conversation, 0.780109, 0
 3, breath, 0.440193, 0
 3, nights, 0.843678, 1

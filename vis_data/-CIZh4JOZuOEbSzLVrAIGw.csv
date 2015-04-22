@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, Great tacos, 0.948038, 8
 5, Cas, 0.535736, 0
 5, chance, 0.504116, 0

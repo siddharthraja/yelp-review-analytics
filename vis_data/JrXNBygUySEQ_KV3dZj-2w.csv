@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, neighborhood street, 0.672451, 0
 4, coffee house, 0.642323, 0
 4, property, 0.4472, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, late night food, 0.718493, 0
 1, simple spicy chicken, 0.691555, 0
 1, poor Togo boy, 0.682272, 1

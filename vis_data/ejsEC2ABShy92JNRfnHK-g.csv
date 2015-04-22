@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, VIP ticket holders, 0.605051, 0
 1, actual music venue, 0.603955, 0
 1, fresh air, 0.600981, 1

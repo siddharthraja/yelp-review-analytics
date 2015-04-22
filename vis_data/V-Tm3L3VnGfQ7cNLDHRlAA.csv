@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, drink order simple, 0.700618, 0
 3, heavy hand, 0.404285, 0
 3, cheap gas, 0.421211, 1

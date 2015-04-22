@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, usual burrito, 0.75782, 0
 1, green peppers, 0.55465, 0
 1, domestic abuse, 0.508667, 1

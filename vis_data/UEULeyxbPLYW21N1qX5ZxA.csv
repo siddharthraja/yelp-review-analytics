@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, bad taste, 0.705213, 0
 3, bother, 0.351606, 0
 3, things, 0.298318, 1

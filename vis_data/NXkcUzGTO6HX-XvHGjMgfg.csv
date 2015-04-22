@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Street pub crawl, 0.985127, 0
 3, tradiional features, 0.520155, 0
 3, friends, 0.255332, 2

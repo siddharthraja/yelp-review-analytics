@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, cherry rhubarb pie, 0.733386, 0
 5, ne pas rater, 0.603724, 0
 5, faintest citrusy taste, 0.600472, 2

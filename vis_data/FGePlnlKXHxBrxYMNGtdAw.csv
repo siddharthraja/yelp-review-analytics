@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst concert venue, 0.762091, 0
 1, horrible venue, 0.707685, 0
 1, Marquee Theatre, 0.768145, 1

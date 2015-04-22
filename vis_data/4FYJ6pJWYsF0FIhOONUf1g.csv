@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, tasteless brown ale, 0.938943, 0
 2, good menu, 0.694535, 0
 2, Mediocre beer, 0.715109, 1

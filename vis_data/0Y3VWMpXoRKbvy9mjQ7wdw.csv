@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, daiquiri, 0.726089, 0
 1, bad bc, 0.97254, 1
 1, coffee, 0.762926, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, special daily entrees, 0.893955, 0
 2, uninspired menus, 0.706789, 0
 2, rental car, 0.687417, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Boring production, 0.95282, 0
 1, dear friend, 0.950899, 1
 1, fest, 0.412582, 1

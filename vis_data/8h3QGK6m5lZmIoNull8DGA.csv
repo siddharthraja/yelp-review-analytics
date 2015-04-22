@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new guy, 0.925974, 0
 1, main course, 0.680165, 0
 1, long line, 0.689325, 1

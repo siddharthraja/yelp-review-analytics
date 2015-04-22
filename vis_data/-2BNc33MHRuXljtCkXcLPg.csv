@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, over-peppered soup, 0.661255, 0
 1, chicken bone, 0.659515, 0
 1, worst meal, 0.683237, 1

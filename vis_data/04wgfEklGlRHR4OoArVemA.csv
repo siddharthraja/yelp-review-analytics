@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, credit card ticket, 0.725006, 0
 2, poor planning, 0.580929, 0
 2, low end diner, 0.755757, 1

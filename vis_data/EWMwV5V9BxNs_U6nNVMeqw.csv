@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, late night food, 0.486332, 0
 1, damn Central construction, 0.462667, 0
 1, service Poor service, 0.474519, 1

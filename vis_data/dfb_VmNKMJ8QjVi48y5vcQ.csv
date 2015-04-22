@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, various PT, 0.979569, 0
 1, worst experience, 0.82946, 0
 1, food orders, 0.826687, 1

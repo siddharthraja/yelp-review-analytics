@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, crappy almost store, 0.671687, 0
 1, fry oil, 0.669298, 0
 1, onion rings, 0.966026, 1

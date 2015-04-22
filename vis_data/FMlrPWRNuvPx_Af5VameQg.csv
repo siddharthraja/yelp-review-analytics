@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, clear statement, 0.989248, 1
 1, complete ignorance, 0.984329, 1
 1, current managers, 0.852873, 7

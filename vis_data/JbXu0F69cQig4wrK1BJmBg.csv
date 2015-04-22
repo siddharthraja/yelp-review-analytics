@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, presumably republican bars, 0.847465, 0
 3, Northern Ireland, 0.652331, 0
 3, Irish pub, 0.674946, 1

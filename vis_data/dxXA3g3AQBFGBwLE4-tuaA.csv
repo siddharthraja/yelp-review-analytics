@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, reservations, 0.974515, 2
 1, messages, 0.798019, 2
 5, service, 0.464453, 0

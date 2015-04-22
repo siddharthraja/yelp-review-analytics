@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Redman, 0.713636, 0
 1, tequila shot, 0.902697, 1
 1, mouth, 0.686307, 1

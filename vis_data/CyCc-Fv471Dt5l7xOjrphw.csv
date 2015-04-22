@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cane, 0.983955, 0
 1, lunch, 0.981852, 0
 1, Friday, 0.99093, 1

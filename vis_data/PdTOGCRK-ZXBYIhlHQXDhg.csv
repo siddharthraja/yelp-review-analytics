@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, rude female manager, 0.926757, 0
 1, Browns fans, 0.719724, 0
 1, stale bun, 0.718459, 1

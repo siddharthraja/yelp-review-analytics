@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dust, 0.969569, 0
 1, restaurant, 0.767705, 0
 1, property, 0.801614, 2

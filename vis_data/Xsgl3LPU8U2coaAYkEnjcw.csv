@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great concert venue, 0.906547, 0
 1, OK venue, 0.583317, 0
 1, damp cardboard box, 0.760344, 1

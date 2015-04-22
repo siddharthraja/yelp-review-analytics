@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, acoustic live music, 0.910325, 0
 1, checker boards table, 0.878356, 0
 1, male employees, 0.927733, 1

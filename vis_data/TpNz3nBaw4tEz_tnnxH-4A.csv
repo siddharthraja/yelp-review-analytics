@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, BLT Steak, 0.902506, 0
 1, Beef hot dog, 0.779746, 0
 1, semi good food, 0.807956, 1

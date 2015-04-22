@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, delux burgers, 0.564918, 0
 1, sub-par burger, 0.543545, 0
 1, quality burger place, 0.691796, 1

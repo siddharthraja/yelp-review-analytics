@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mass exodus, 0.798939, 0
 1, open arms, 0.782359, 0
 1, tee shirts, 0.806452, 1

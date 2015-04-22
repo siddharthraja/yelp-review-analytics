@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, wine barrel tasting, 0.910952, 0
 1, high profit item, 0.87526, 0
 1, poor experience, 0.615097, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, absolute worst service, 0.727421, 0
 1, BBQ ranch chicken, 0.726686, 0
 1, waitress, 0.83997, 1

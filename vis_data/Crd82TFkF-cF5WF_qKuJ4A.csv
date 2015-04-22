@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, medium size shrimp, 0.733701, 0
 1, bland dry cracker, 0.712409, 0
 1, old chicken, 0.761346, 1

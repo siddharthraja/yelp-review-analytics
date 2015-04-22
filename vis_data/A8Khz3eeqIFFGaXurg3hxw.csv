@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great little saloon, 0.921076, 0
 1, old guitar player, 0.911607, 0
 1, worst nachos, 0.793909, 1

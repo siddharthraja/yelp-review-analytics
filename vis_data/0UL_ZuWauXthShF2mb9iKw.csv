@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, decent food, 0.72861, 0
 1, sport bar, 0.571814, 0
 1, snotty workers, 0.727793, 1

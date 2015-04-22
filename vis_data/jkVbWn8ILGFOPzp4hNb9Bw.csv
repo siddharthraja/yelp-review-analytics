@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Food, 0.344824, 0
 1, dining room, 0.510918, 1
 1, bar area, 0.508863, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, white pizza concoction, 0.80308, 0
 1, Revolution PIZZA, 0.725319, 0
 1, horrific service, 0.543874, 1

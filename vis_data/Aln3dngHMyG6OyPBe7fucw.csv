@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fish bones, 0.821485, 0
 1, bright green color, 0.7307, 0
 1, actual good meat, 0.690551, 1

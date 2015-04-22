@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, iceberg lettuce, 0.866042, 0
 1, breakfast burrito, 0.846804, 0
 1, rude way, 0.701403, 1

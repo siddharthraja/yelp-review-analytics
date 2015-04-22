@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, super small portions, 0.786967, 0
 1, regular serving sizes, 0.768575, 0
 1, greasy french fries, 0.818449, 1

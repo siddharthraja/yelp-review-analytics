@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst Hard Rock, 0.580196, 0
 1, Crappy bar service, 0.568981, 0
 1, real bad service, 0.567125, 1

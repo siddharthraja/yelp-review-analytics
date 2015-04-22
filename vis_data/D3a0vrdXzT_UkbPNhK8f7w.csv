@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, recent Friday night, 0.975682, 0
 1, super slow service, 0.947772, 0
 1, average food, 0.663482, 1

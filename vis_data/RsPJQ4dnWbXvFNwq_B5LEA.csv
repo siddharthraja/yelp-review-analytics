@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, carne asada quesadilla, 0.661818, 0
 1, cell phone laughing, 0.555146, 0
 1, so-so guac, 0.498161, 1

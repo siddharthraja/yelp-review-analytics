@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chicken bbq sandwich, 0.74114, 0
 1, unknown chicken parts, 0.724224, 0
 1, Rotisserie chicken, 0.629638, 1

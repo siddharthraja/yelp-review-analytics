@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dozen times, 0.828609, 0
 1, seat table, 0.774506, 0
 1, bar, 0.656972, 1

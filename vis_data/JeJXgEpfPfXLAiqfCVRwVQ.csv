@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chicken wings, 0.911311, 0
 1, night, 0.300028, 0
 1, free peanuts, 0.799026, 3

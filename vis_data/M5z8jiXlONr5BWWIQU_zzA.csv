@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, guest list line, 0.372236, 0
 1, Worst night club, 0.330486, 0
 1, worst club, 0.337138, 1

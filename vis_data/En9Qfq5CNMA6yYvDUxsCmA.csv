@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, nba league pass, 0.958789, 0
 2, Antonio Spurs game, 0.754507, 0
 2, dive bars, 0.748605, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, school dance downtown, 0.769338, 0
 1, best bet, 0.6523, 0
 1, overly aggressive dog, 0.748974, 1

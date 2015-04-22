@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great food service, 0.976543, 0
 1, WILD WINGS, 0.736228, 0
 1, ROACH CRAWLED, 0.731628, 1

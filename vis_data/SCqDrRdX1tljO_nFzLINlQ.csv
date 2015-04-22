@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, odd smelling, 0.475355, 0
 1, ned clientel, 0.474991, 0
 1, horrible place, 0.462375, 1

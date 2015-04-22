@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, answering machine, 0.801031, 0
 1, mid life crisis, 0.769693, 0
 1, lunch specials, 0.64098, 1

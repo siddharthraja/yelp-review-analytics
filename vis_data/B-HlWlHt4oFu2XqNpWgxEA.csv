@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Food, 0.543848, 0
 1, bacon, 0.706605, 1
 1, disappointment, 0.582457, 1

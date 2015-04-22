@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, beer pong table, 0.532624, 0
 1, beer pong joint, 0.51607, 0
 1, bad bar food, 0.561492, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Drinks, 0.769635, 0
 1, Smell, 0.947826, 6
 1, bathroom, 0.747115, 6

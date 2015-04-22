@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pretty large group, 0.620529, 0
 1, Buffalo Wild Wings, 0.581007, 0
 1, terrible French Dip, 0.663704, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, manager dont care, 0.799376, 0
 1, miller lites, 0.782138, 0
 1, Terrible service, 0.834941, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sock water, 0.682618, 0
 1, coffee houses, 0.607652, 0
 1, Yelp recommendations, 0.755163, 1

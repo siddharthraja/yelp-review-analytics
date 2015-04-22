@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, W. Gorham Street, 0.91962, 0
 1, cayenne pepper, 0.583748, 0
 1, jimmy johns, 0.890315, 1

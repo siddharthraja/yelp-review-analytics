@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good service food, 0.795101, 0
 1, specific food allergies, 0.778332, 0
 1, unavailable waitress, 0.680295, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Michelin star restaurant, 0.888252, 0
 1, over-rated dining experience, 0.874533, 0
 1, cheap Chinese restaurant, 0.864914, 1

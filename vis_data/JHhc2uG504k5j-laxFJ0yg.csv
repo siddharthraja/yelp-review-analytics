@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, lemon drops, 0.992012, 0
 1, Friday night, 0.976273, 0
 1, bartender, 0.414821, 1

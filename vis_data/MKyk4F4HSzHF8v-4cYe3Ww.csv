@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, stage, 0.980789, 3
 1, piano, 0.838482, 3
 2, sticky note, 0.636232, 0

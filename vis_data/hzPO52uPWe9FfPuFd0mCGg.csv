@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, better wine bars, 0.853404, 0
 1, OK, 0.477927, 0
 1, gouda, 0.484211, 1

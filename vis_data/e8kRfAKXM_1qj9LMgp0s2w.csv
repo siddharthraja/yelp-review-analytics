@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good comedy experience, 0.530074, 0
 1, bad server way, 0.527434, 0
 1, Terribly overpriced drinks, 0.572136, 1

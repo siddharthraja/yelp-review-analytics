@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, entertainment industry people, 0.745886, 0
 1, great local place, 0.731201, 0
 1, gang related activties, 0.809462, 1

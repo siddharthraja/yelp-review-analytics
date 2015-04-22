@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, garlic mashed potatoes, 0.95244, 0
 1, fresh veggies, 0.70254, 0
 1, bartender slow service, 0.896736, 1

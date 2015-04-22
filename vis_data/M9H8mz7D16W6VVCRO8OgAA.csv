@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible place, 0.660908, 0
 1, horrible tasting food, 0.647871, 0
 1, piano players, 0.800724, 1

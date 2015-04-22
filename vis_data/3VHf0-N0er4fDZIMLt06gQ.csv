@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, total dumpster, 0.778043, 0
 1, abandoned warehouse, 0.686982, 1
 1, main room, 0.66658, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, drink order, 0.68904, 0
 1, Multiple food runners, 0.631134, 0
 1, service, 0.858477, 1

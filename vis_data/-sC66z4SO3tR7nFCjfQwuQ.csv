@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Mexican food restaurants, 0.563047, 0
 1, good taco shops, 0.553222, 0
 1, manager, 0.573072, 1

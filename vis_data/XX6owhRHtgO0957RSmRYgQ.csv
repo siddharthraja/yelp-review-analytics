@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, super awkward tree, 0.972588, 0
 1, church mice, 0.781124, 0
 1, Bad wine selection, 0.958321, 1

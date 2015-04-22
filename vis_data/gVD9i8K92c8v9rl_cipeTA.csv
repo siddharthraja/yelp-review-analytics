@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, spring training game, 0.910252, 0
 5, clubs, 0.553872, 0
 5, panic, 0.562977, 1

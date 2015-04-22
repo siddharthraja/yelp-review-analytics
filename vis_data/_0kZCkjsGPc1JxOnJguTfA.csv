@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ladies, 0.35125, 0
 1, Vegas, 0.316356, 0
 1, price, 0.313595, 1

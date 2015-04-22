@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, greatest thing, 0.999542, 6
 1, place, 0.633423, 6
 4, party night, 0.670706, 0

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new restaurant suffers, 0.642955, 0
 1, veggie wrap thing, 0.642231, 0
 1, piss poor service, 0.6171, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, barbeque chicken pizza, 0.78389, 0
 1, credit cards, 0.638174, 0
 1, awful service, 0.907241, 1

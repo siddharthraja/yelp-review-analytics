@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, absolute worst bar, 0.903707, 0
 1, 30-thousand dollar millionaire, 0.880994, 0
 1, security guard, 0.718594, 1

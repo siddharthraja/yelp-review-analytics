@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Pepper Jack Burger, 0.916679, 0
 1, Extremely disappointing beer, 0.86568, 0
 1, culinary hell hole, 0.860747, 1

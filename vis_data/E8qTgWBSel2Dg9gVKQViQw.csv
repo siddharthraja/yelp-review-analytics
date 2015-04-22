@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, strict dress code, 0.839329, 0
 1, fine dress code, 0.820221, 0
 1, proper dress code, 0.833996, 1

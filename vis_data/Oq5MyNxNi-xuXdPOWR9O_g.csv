@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ounce cups, 0.730245, 0
 1, beer, 0.387286, 0
 1, Doc, 0.426494, 1

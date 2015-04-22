@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new owners, 0.962946, 0
 1, bikers, 0.767225, 0
 1, regulars, 0.843972, 2

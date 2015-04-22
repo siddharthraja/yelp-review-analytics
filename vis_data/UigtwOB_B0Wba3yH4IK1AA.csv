@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, small venue, 0.535288, 0
 1, Everybody, 0.28778, 0
 1, cab driver, 0.592534, 1

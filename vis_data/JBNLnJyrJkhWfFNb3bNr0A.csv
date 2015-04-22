@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, kids burger, 0.695469, 0
 1, separate times, 0.66419, 0
 1, bad reviews, 0.696823, 1

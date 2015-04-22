@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, decent wines, 0.731414, 0
 3, safety guy, 0.665582, 0
 3, recent neglect, 0.682016, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, expensive crappy beer, 0.753372, 0
 1, tacky business model, 0.733093, 0
 1, tipsy self-flagellation, 0.597842, 1

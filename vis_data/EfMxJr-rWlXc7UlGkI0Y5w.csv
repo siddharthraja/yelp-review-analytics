@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, gluten free bun, 0.90162, 1
 2, waitress, 0.606589, 1
 2, food, 0.522388, 2

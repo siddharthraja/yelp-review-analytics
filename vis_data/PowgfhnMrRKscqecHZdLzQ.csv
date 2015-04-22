@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ice cold mussels, 0.860061, 0
 1, credit card receipt, 0.814853, 0
 1, dining experience, 0.658752, 1

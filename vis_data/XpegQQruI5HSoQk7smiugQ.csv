@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Poor service, 0.74751, 0
 1, red flag, 0.678246, 0
 1, Bar staff, 0.758013, 1

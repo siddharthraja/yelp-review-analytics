@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, substantially better food, 0.825294, 0
 1, wait staff, 0.566502, 0
 1, bigotedly racist attitude, 0.864295, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, hot dogs variety, 0.881436, 0
 3, pricey end, 0.740535, 0
 3, noisy establishment, 0.677611, 3

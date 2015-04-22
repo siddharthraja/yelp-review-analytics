@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Bills football game, 0.84075, 0
 1, Worst service, 0.71629, 0
 1, hungry homeless person, 0.915367, 1

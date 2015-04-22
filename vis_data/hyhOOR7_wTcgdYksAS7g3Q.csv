@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, great little pub, 0.840841, 0
 3, traditional pub food, 0.835278, 0
 3, little bit, 0.641451, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Terrible bar, 0.80326, 0
 1, tvs suck, 0.642487, 0
 1, Terrible bartender, 0.935971, 1

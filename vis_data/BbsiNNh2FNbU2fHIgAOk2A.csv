@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, big outdoor events, 0.924849, 0
 1, drink orders, 0.793956, 0
 1, worst dining experience, 0.970447, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sushi rice, 0.653904, 0
 1, Sushi spot, 0.634563, 0
 1, sushi bars, 0.664307, 1

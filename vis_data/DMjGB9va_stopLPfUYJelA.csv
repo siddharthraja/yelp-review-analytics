@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, slow service, 0.831025, 0
 1, Saturday afternoon, 0.83009, 0
 1, Paper towel dispenser, 0.961779, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new general manager, 0.787966, 0
 1, smallest dance clubs, 0.781015, 0
 1, bathroom attendant, 0.851622, 1

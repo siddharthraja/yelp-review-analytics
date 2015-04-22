@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, home, 0.914087, 2
 1, bar, 0.908978, 2
 5, bar, 0.93416, 3

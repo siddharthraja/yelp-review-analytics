@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worse food, 0.965875, 0
 1, Bad service, 0.902599, 0
 1, curse, 0.71313, 3

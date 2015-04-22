@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, hip hop, 0.907385, 0
 2, Lakewood Hop, 0.812327, 0
 2, Yelp, 0.286931, 1

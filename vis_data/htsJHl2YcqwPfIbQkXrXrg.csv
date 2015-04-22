@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, whitish fries, 0.532659, 0
 1, clam chowder, 0.475483, 0
 1, kinda salty, 0.475448, 1

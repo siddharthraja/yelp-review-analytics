@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, table dance, 0.781898, 0
 1, Saturday night, 0.75576, 0
 1, dancers, 0.906178, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Terrible service, 0.978637, 1
 1, Waitress, 0.794013, 1
 1, Todd, 0.653697, 2

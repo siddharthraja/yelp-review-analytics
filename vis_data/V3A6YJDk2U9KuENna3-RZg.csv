@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Las Vegas, 0.926171, 0
 1, reasonable request, 0.744651, 0
 1, worst possible service, 0.868101, 1

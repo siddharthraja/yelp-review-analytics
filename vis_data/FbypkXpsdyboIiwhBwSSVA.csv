@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, negative stars, 0.716254, 0
 1, gang bangers, 0.694124, 0
 1, old geezers, 0.713111, 1

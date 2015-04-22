@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst selection, 0.766712, 0
 1, Heineken, 0.523507, 0
 1, dive bar, 0.740752, 1

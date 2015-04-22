@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, gyro meat, 0.671625, 0
 1, night pizza Gus, 0.602789, 0
 1, cheap ingredient pizza, 0.582764, 1

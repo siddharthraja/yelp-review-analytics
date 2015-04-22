@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pool table, 0.732726, 0
 1, excellent weekend, 0.728718, 0
 1, complete rip-off, 0.832152, 1

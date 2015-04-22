@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, nearby jazz club, 0.808517, 3
 5, snobs, 0.206093, 3
 5, cocktail game, 0.650274, 6

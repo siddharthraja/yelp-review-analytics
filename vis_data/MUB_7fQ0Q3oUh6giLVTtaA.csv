@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, high school entertainment, 0.833773, 0
 1, real comedy club, 0.823374, 0
 1, customer service, 0.813564, 1

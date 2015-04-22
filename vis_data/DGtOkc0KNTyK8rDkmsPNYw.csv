@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new york strip, 0.762484, 0
 1, Arizona Peach swill, 0.754427, 0
 1, Terrible service, 0.6685, 1

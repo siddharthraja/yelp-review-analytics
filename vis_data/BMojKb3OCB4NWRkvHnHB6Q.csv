@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, evening, 0.28835, 0
 1, racist slurs, 0.99153, 1
 1, bar, 0.882226, 1

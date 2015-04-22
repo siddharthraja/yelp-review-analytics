@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bar patrons, 0.877533, 0
 1, girl, 0.564631, 0
 1, bar tender, 0.916442, 2

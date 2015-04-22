@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, star place, 0.937532, 0
 3, ping pong tables, 0.812381, 0
 3, typical bar fare, 0.814378, 1

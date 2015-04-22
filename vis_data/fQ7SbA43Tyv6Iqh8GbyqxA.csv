@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chile verde, 0.661679, 0
 1, chicken quesadilla, 0.634094, 0
 1, drink, 0.677387, 1

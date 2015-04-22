@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, air conditioning cut, 0.893967, 0
 1, recent experiences, 0.710922, 0
 1, crappy beer, 0.646315, 1

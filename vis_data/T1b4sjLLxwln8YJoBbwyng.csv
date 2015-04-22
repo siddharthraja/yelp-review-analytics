@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, non-student packed hang, 0.933062, 0
 1, middle aged drunks, 0.906041, 0
 1, long indecipherable word, 0.899901, 1

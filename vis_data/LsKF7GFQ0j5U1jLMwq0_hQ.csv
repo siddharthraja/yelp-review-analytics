@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, normal fresh mozzarella, 0.722201, 0
 3, cheap crappy cheese, 0.701013, 0
 3, crap cheese, 0.541751, 1

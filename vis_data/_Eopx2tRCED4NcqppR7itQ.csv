@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, downtown location, 0.819559, 0
 1, BBQ, 0.582457, 0
 1, food poisoning, 0.758575, 1

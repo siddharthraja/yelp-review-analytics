@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, speaker, 0.261062, 0
 3, complaints, 0.275322, 2
 3, smaller theaters, 0.575967, 3

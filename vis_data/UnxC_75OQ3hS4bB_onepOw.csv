@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst experience, 0.937657, 0
 1, limes, 0.704348, 0
 1, service industry, 0.870304, 9

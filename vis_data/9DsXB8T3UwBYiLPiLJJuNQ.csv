@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bathroom stall door, 0.926047, 0
 1, weird thing, 0.697803, 0
 1, toilet stall, 0.747485, 1

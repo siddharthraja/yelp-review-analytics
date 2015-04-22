@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, single cigar, 0.623373, 0
 5, cigar makers, 0.611709, 0
 5, cigar stores, 0.57921, 3

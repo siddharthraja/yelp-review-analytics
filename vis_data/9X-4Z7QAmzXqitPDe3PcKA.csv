@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bartender, 0.644142, 1
 1, table, 0.587968, 1
 1, John Taffer, 0.784914, 2

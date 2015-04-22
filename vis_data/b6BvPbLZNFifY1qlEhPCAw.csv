@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, vegetarian risotto, 0.995123, 0
 2, cauliflower cheese, 0.935851, 0
 2, small worms, 0.895845, 1

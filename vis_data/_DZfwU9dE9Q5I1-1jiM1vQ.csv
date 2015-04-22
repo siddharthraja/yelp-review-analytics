@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, double crust, 0.625184, 0
 1, lunch time, 0.517985, 0
 1, crisp pizza, 0.659137, 1

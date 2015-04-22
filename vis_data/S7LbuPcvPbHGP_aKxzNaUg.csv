@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bit, 0.701614, 1
 1, world, 0.617809, 1
 1, bother, 0.784644, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, awesome cougar bar, 0.952232, 0
 1, worst place, 0.855387, 0
 1, eye contact, 0.981226, 1

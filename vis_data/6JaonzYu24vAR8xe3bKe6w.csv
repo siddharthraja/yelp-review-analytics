@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, typical cafe/bar food, 0.519409, 0
 3, dishes standout, 0.381358, 0
 3, EIB Hefe draft, 0.584065, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor customer service, 0.840989, 0
 1, lousy sports bar, 0.829926, 0
 1, customer service, 0.849968, 1

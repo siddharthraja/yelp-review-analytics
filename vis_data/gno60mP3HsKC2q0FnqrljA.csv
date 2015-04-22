@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, skink, 0.595637, 0
 1, game, 0.37023, 0
 1, drinks, 0.853773, 2

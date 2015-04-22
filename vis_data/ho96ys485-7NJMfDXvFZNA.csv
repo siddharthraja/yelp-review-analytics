@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bar men, 0.780081, 0
 1, hill, 0.51382, 0
 1, bar, 0.937589, 1

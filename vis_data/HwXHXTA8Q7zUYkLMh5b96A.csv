@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, people, 0.203461, 0
 4, evening, 0.233953, 1
 4, Nice little dive, 0.935332, 2

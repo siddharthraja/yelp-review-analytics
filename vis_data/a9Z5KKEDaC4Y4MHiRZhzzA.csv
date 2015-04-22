@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, disappointment, 0.904535, 0
 1, bartender, 0.893953, 0
 2, regular dinner, 0.705483, 0

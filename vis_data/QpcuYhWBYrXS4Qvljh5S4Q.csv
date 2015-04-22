@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, lonely star, 0.58384, 0
 1, neighborhood bar, 0.563119, 0
 1, northwest las vegas, 0.772433, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, canned tomatoes, 0.582962, 0
 1, Greek side salad, 0.581136, 0
 1, caesar salad, 0.620448, 1

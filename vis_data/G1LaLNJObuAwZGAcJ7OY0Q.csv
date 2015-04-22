@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, generic BBQ sauce, 0.887193, 0
 1, stale bun, 0.672778, 0
 1, crappy overcooked Mac, 0.945079, 1

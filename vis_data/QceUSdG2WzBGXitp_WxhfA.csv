@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, reentry wristband, 0.70151, 0
 1, actual venue, 0.679252, 0
 1, national touring bands, 0.79258, 1

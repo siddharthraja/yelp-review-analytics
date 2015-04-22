@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, attempt, 0.760636, 0
 1, door, 0.709246, 0
 1, place, 0.906845, 1

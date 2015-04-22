@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Biblos salad, 0.867678, 0
 1, flat screen television, 0.780288, 0
 1, Piña Colada, 0.645639, 1

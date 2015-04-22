@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst pizza, 0.745536, 0
 1, burnt pizza, 0.520919, 0
 1, super-cheap pizza, 0.546031, 1

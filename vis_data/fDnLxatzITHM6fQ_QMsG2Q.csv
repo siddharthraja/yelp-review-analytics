@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cold/warm wine status, 0.99451, 0
 1, wine recommendation trials, 0.983603, 0
 1, non-existent tip, 0.836339, 1

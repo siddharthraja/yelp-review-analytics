@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, black crisp, 0.883871, 0
 3, pub food, 0.92687, 2
 3, problem, 0.582085, 2

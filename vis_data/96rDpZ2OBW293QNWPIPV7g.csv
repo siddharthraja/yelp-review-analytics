@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, successful business owners, 0.897228, 0
 3, Open sign, 0.638568, 0
 3, airport workers, 0.663137, 1

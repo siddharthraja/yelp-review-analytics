@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dollar steak, 0.753797, 0
 1, parker house rolls, 0.74294, 0
 1, non existent meal, 0.781249, 1

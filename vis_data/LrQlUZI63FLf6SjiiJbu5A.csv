@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, whisky adorn, 0.780874, 0
 1, bland espresso, 0.765004, 0
 1, crema, 0.343793, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, food, 0.422138, 3
 5, wine establishment, 0.878493, 6
 5, service, 0.420353, 7

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, best friends iPhone, 0.552944, 0
 1, rude bartenders, 0.431461, 0
 1, friends credit card, 0.521153, 1

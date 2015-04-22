@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cheese penne pasta, 0.707934, 0
 1, crunch shrimp dinner, 0.697472, 0
 1, double crunch shrimp, 0.902857, 1

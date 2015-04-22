@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, terrible lunch trip, 0.627417, 0
 1, absolutely lackluster food, 0.570532, 0
 1, raw sewage, 0.60992, 1

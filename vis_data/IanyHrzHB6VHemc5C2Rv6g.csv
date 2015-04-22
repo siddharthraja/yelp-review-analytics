@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Worst experience, 0.60414, 0
 1, Bye house, 0.563222, 0
 1, real cigar bar, 0.785905, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, wide beer selection, 0.874226, 0
 1, bartender, 0.454315, 0
 1, service, 0.428345, 1

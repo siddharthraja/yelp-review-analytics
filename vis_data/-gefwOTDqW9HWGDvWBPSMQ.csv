@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good time, 0.941753, 0
 1, Guinness Stout Boxty, 0.938626, 0
 1, Hamburger Helper, 0.959587, 1

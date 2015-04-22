@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, vip tix, 0.814839, 0
 1, vip seating, 0.758388, 0
 1, friend, 0.395834, 1

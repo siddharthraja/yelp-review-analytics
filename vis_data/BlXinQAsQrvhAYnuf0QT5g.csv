@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Yawn, 0.628325, 0
 1, strip, 0.847613, 3
 1, PI, 0.961535, 7

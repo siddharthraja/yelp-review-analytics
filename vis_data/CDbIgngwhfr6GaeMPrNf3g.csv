@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, unpleasant habit, 0.773478, 0
 4, cigarettes, 0.407463, 0
 4, one-time occurrence, 0.764638, 2

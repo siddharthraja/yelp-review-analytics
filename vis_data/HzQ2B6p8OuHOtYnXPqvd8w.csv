@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, rude disinterested bartender, 0.933997, 0
 1, middle aged singles, 0.843646, 0
 1, older folks, 0.871116, 1

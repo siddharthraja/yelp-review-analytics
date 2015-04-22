@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, appetizer fish sushi, 0.73805, 0
 1, ice cream dessert, 0.710272, 0
 1, soggy egg noodles, 0.710428, 1

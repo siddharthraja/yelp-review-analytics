@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, old grandpa*, 0.706109, 0
 2, Crazy talk, 0.702393, 0
 2, food, 0.515904, 3

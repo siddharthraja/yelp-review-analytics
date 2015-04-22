@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, inch long piece, 0.83949, 0
 1, poor business decision, 0.818913, 0
 1, rate Mexican place, 0.876125, 1

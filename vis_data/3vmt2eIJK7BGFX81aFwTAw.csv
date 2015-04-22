@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good customer services, 0.878974, 0
 1, large group, 0.677309, 0
 1, Terrible service, 0.716232, 1

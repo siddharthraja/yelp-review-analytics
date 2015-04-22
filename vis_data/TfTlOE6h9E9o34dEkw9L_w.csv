@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, french onion soup, 0.816018, 0
 1, poor service, 0.784862, 0
 1, dirty bathroom, 0.713632, 1

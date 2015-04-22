@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, llke downtown LA, 0.849313, 0
 1, awful experience, 0.668088, 0
 1, cool hipster dive, 0.850227, 1

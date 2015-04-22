@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, customer service experience, 0.981933, 0
 1, different story, 0.701548, 0
 1, way, 0.67588, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, class airport lounge, 0.703069, 0
 1, business class, 0.424433, 0
 1, airport lounges, 0.541382, 1

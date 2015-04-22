@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, order waffle fries, 0.822348, 0
 1, regular shoestring fries, 0.801402, 0
 1, Cesar dressing, 0.576487, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bbq chicken salad, 0.975379, 0
 1, chicken sandwich, 0.754001, 0
 1, PT place, 0.900213, 1

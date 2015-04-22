@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, sluggish service, 0.659689, 0
 3, average rating, 0.573856, 0
 3, little snappier, 0.650361, 3

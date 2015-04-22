@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fine dining restaurant, 0.919342, 0
 1, Worst customer service, 0.908104, 0
 1, plain red sauce, 0.950577, 1

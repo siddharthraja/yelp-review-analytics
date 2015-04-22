@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Star Trek characters, 0.772597, 0
 1, original sci-fi shtick, 0.728059, 0
 1, nerd coolness, 0.639153, 1

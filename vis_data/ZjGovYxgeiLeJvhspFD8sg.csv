@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, friend, 0.343472, 0
 3, cover, 0.279055, 0
 3, alcohol, 0.309514, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, double chicken wings, 0.902545, 0
 1, frozen over-breaded type, 0.888164, 0
 1, boneless wings, 0.991027, 1

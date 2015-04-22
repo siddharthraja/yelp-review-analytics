@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mushroom dish, 0.47358, 0
 1, portabello mushroom dish, 0.472743, 0
 1, overly salted food, 0.509252, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, live Alternative rock, 0.717151, 0
 2, partial wine samples, 0.714047, 0
 2, mediocre wine, 0.573562, 1

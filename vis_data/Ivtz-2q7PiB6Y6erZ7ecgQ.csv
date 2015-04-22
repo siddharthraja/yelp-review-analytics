@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, main university area, 0.851943, 0
 3, Pleasance Theatre, 0.658742, 0
 3, student union bars, 0.933398, 3

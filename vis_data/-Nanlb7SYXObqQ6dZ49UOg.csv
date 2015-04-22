@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, typical bar restaurant, 0.922271, 0
 1, slow wait staff, 0.914167, 0
 1, worst dinning experiences, 0.922583, 1

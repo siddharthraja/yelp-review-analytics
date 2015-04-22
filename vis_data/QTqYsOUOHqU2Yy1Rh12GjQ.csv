@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dancers, 0.493968, 1
 1, unknown reason, 0.779352, 6
 1, private dances, 0.691149, 6

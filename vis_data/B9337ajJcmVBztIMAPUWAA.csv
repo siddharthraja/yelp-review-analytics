@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, World Cup games, 0.955121, 0
 1, Poor service, 0.746263, 0
 1, Horrible service, 0.82241, 1

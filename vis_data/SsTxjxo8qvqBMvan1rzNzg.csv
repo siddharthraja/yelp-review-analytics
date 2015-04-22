@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, order simple food, 0.431446, 0
 1, neon lights, 0.424404, 0
 1, mediocre food, 0.434752, 1

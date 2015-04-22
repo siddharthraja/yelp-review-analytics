@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, typ Sat nite, 0.96264, 0
 1, boring strip club, 0.939697, 0
 1, crystal meth, 0.958161, 1

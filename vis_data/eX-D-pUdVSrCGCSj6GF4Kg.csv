@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, San Jose-esque crowd, 0.756181, 0
 1, single white male, 0.751711, 0
 1, Totally racist people, 0.749953, 1

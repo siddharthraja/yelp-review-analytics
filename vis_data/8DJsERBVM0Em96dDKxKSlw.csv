@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, predictable Irish theme, 0.915653, 0
 2, student haunt, 0.588494, 0
 2, bit boring, 0.647691, 1

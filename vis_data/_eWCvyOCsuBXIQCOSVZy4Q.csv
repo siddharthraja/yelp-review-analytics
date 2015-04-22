@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, green apples, 0.551979, 0
 3, hockey game, 0.551887, 0
 3, poorly positioned TV, 0.892799, 2

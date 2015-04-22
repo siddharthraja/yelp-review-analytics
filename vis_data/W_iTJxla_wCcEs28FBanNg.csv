@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Friday rush, 0.978926, 0
 2, Slooooow service, 0.847954, 1
 2, Food, 0.601763, 2

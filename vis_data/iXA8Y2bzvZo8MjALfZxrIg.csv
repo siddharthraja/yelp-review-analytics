@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, parrot head, 0.509265, 0
 1, absolute worst food, 0.505437, 0
 1, food poisoning, 0.49826, 1

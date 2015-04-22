@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, table number, 0.628, 0
 1, vegetarian breakfast, 0.61391, 0
 1, unnecessary pain, 0.646141, 1

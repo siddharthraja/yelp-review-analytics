@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pretty pricy place, 0.611534, 0
 1, annoying German music, 0.582417, 0
 1, potato salad, 0.614755, 1

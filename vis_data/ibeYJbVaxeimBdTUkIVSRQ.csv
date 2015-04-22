@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, comedian-2 horrible comedian, 0.958226, 0
 2, parking garage, 0.70195, 0
 2, fool, 0.474101, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Scottish cuisine, 0.827422, 0
 2, extra star, 0.819739, 0
 2, national culinary image, 0.96702, 1

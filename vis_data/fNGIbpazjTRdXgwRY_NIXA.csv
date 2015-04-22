@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, cut Italian bread, 0.867524, 0
 4, fish sandwich, 0.585217, 0
 4, cuisine, 0.214517, 2

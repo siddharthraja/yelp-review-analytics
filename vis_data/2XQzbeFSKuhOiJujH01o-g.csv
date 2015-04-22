@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, salty, 0.707812, 2
 1, butter, 0.659288, 2
 1, mins, 0.740009, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, totally foreign concept, 0.954252, 0
 1, super hot girl, 0.925172, 0
 1, hot mess, 0.940258, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, tasting fried food, 0.904821, 0
 1, terrible payback, 0.473045, 0
 1, graveyard bartender, 0.790746, 1

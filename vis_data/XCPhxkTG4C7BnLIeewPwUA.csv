@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Donnerstags oder Freitags, 0.75328, 0
 3, ziemlich kontroverser, 0.785617, 4
 3, auflegt diskutieren, 0.607142, 4

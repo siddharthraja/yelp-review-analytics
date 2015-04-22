@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, latin dance event, 0.953823, 0
 1, opening night, 0.69564, 0
 1, liquor sales, 0.697687, 1

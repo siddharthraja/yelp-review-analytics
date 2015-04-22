@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, best thing, 0.874335, 0
 1, Greg Louganis stylee, 0.84417, 0
 1, bad service, 0.987232, 1

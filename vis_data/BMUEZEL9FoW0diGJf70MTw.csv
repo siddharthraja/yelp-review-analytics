@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, different mixologists bars, 0.809123, 0
 1, good cocktails, 0.683194, 0
 1, stupid guy, 0.501739, 1

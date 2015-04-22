@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Red Dragon cheese, 0.944171, 0
 1, ideal temp, 0.772886, 0
 1, liquid, 0.464206, 1

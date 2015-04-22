@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, decent service, 0.657852, 0
 1, good food, 0.642961, 0
 1, Rude bartenders, 0.710187, 1

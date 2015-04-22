@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, strip club person, 0.824605, 0
 1, high school dance, 0.63031, 0
 1, real cheering, 0.444401, 1

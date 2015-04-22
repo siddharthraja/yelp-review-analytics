@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good French Dip, 0.738552, 0
 1, toasted/fried pita chips, 0.708171, 0
 1, hot dog roll, 0.7252, 1

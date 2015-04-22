@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, extremely long wait, 0.967478, 0
 1, Monsieur Smith, 0.817537, 0
 1, sarcastic anecdote, 0.772401, 1

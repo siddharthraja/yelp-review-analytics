@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, thirty-two dollar price, 0.739605, 0
 1, bad meal, 0.726263, 0
 1, kitchen bar, 0.737975, 1

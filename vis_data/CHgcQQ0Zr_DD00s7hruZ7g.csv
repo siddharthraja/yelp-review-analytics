@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Cats, 0.510667, 0
 1, money, 0.542064, 1
 1, Jokes, 0.512645, 1

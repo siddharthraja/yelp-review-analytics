@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst Mexican food, 0.525536, 0
 1, TOTAL wait time, 0.521293, 0
 1, horrible food, 0.532041, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, laws bday, 0.652277, 0
 1, graveyard shift, 0.632647, 0
 1, bartender, 0.905402, 1

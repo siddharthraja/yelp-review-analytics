@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, comfort food, 0.986691, 0
 1, waitress, 0.752062, 0
 1, atmosphere, 0.684824, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, seat/the floor area, 0.835835, 0
 1, security holding cell, 0.803674, 0
 1, palms good job, 0.788739, 1

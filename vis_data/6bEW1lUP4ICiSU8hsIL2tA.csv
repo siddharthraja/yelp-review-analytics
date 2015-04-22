@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, odd tasting bacon, 0.960341, 0
 1, green chile burger, 0.926692, 0
 1, male server, 0.80913, 1

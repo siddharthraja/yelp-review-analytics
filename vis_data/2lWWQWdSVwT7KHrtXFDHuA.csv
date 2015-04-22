@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, REAL good food, 0.694425, 0
 1, luckiest person, 0.524429, 0
 1, Foia gras, 0.608819, 1

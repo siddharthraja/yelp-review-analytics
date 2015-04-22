@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, iceberg lettuce, 0.937739, 0
 1, Thai tea, 0.735708, 0
 1, dish, 0.419004, 1

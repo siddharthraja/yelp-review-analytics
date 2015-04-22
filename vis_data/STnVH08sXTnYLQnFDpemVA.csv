@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, disappointing experience, 0.755574, 0
 1, horrible service, 0.75201, 0
 1, somewhat overpriced food, 0.90572, 6

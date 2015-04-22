@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, large beer garden, 0.800721, 0
 1, current pricing structure, 0.795352, 0
 1, rude manager, 0.607345, 1

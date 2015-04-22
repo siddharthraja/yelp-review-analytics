@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Mexican food, 0.606221, 0
 1, good Mexican food, 0.544592, 0
 1, high prices, 0.507894, 1

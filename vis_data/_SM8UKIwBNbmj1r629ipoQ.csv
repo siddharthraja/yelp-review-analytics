@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst dining experiences, 0.93027, 0
 1, high cost items, 0.868129, 0
 1, casual dinner, 0.595106, 1

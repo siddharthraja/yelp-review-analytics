@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, early afternoon, 0.613473, 0
 1, drink order, 0.600495, 0
 1, dark dive bar, 0.771239, 1

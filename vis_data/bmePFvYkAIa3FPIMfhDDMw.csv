@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, samon fillet, 0.777197, 0
 1, OK plate, 0.751053, 0
 1, Worst food, 0.750541, 1

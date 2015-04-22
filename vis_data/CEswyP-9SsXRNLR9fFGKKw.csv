@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst service, 0.540468, 0
 1, worst service bar/restaurants, 0.465733, 0
 1, good looking server, 0.472256, 1

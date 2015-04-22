@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, roast beef sandwich, 0.832578, 0
 1, different story, 0.634953, 0
 1, worst stomach ache, 0.889807, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, turkey club sandwich, 0.931357, 0
 1, onion rings, 0.628529, 0
 1, stomach ache, 0.737211, 1

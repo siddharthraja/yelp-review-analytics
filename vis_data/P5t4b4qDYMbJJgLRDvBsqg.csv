@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, new BBQ place, 0.880586, 0
 2, good BBQ, 0.818261, 0
 2, poor quality sauce, 0.884042, 1

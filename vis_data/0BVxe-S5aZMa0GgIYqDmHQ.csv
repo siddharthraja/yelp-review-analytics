@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Chinese mafia, 0.815907, 0
 3, type, 0.448163, 3
 3, ambiance, 0.443784, 3

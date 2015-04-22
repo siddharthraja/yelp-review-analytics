@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, deceptive yelp rating, 0.931919, 0
 2, star mexican restaurant., 0.888644, 0
 3, pretty good meal, 0.926663, 0

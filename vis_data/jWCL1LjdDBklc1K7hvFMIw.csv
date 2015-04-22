@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, city centre prices, 0.715374, 0
 2, Kilted Pig, 0.620174, 0
 2, worst Ceasar salad, 0.931588, 1

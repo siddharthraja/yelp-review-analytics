@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, waitress, 0.703984, 0
 2, bubble tea smoothie, 0.701118, 0
 2, drinks take-out, 0.540634, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, situation, 0.251713, 1
 1, table, 0.274243, 2
 1, wrong, 0.261639, 2

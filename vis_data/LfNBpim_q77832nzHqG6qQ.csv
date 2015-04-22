@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, hot wings, 0.929312, 0
 2, French fries, 0.863261, 0
 2, napkin, 0.34585, 1

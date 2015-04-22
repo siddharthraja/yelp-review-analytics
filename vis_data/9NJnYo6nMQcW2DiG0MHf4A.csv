@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, drinking beers, 0.440759, 0
 1, losers, 0.264813, 0
 1, food menu, 0.906582, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, minuscule secondary room, 0.963358, 0
 1, high school production, 0.962944, 0
 1, seriously bad series, 0.96039, 1

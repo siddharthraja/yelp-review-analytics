@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, olde worlde, 0.758232, 0
 1, railway-related bits, 0.725824, 0
 1, tiny old man, 0.9105, 1

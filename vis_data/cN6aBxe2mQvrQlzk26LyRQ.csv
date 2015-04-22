@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst dining experiences, 0.86158, 0
 1, prime rib, 0.81799, 0
 1, expensive mediocre food, 0.764413, 1

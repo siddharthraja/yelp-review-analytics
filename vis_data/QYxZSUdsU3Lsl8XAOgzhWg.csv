@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Bell Rd, 0.952206, 0
 3, wings, 0.334873, 0
 3, pizza, 0.629231, 2

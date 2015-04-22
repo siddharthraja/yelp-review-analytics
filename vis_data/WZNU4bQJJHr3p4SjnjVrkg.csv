@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor management decisions, 0.825388, 0
 1, lame customer service, 0.7441, 0
 1, worst run place, 0.77089, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Baba, 0.518098, 0
 3, Oakland, 0.501032, 0
 3, baklava, 0.550392, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, grungy sports bar, 0.86508, 0
 2, nice little hometown, 0.825839, 0
 2, old projection tv, 0.829958, 1

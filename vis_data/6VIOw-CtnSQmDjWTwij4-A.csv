@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Candy Bar, 0.603585, 0
 1, mean time, 0.555946, 0
 1, chives, 0.283639, 1

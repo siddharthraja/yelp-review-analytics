@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, past weekend, 0.911274, 0
 1, bank statement, 0.886821, 0
 1, legal action, 0.875682, 1

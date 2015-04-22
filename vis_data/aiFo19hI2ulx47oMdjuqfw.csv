@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, waitress, 0.928159, 0
 2, smiles, 0.859722, 2
 2, decor, 0.804929, 2

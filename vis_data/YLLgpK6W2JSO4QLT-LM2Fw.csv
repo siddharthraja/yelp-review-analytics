@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mixed w/ soda, 0.693466, 0
 1, dirty food beware, 0.686733, 0
 1, big deal mistakes, 0.695772, 1

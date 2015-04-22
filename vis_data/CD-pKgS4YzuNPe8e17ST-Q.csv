@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, costumer service, 0.958801, 1
 1, CAUTION food, 0.95314, 1
 1, P.S., 0.486512, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fish sandwiches Ive, 0.944855, 0
 1, grouper sandwich, 0.817846, 0
 1, inch square piece, 0.876386, 1

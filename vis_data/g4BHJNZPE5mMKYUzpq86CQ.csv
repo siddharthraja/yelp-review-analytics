@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Cardinal football game, 0.706904, 0
 1, friendly waitress, 0.690648, 0
 1, waitress swings, 0.712543, 1

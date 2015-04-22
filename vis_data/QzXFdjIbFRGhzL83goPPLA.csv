@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Ahi Tuna Salad, 0.718957, 0
 1, chicken lettuce, 0.678393, 0
 1, Terrible service, 0.53895, 1

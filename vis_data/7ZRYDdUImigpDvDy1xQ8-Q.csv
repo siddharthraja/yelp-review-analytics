@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, darts, 0.639942, 1
 2, street, 0.447234, 1
 2, gangster rap, 0.946851, 2

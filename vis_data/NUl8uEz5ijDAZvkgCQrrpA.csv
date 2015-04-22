@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pepperoni pizza, 0.695133, 0
 1, horrible attitude, 0.628256, 0
 1, low key bar, 0.816959, 1

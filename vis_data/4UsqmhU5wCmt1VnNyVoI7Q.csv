@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Mumbai street market, 0.831684, 0
 2, good bar excels, 0.805847, 0
 2, terrible experience, 0.662032, 1

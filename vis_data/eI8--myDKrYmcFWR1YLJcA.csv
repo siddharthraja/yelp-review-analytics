@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, person, 0.774219, 0
 1, restaurant, 0.943966, 2
 1, friends, 0.977441, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, greeter, 0.744471, 0
 2, smile, 0.686857, 0
 2, steak, 0.98466, 1

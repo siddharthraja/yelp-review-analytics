@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great sports bars, 0.810684, 0
 1, Sunday morning, 0.582081, 0
 1, waitress, 0.487021, 1

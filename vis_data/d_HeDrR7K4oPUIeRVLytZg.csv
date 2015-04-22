@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Dear Lord, 0.544254, 0
 1, worst concert experience, 0.920948, 1
 1, Metropol, 0.354172, 1

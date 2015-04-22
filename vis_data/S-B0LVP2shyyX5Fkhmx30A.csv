@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, salmon, 0.606938, 0
 1, chef, 0.602368, 0
 1, food, 0.719621, 1

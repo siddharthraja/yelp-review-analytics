@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, RIP weirdest taco, 0.906272, 0
 1, fajitas, 0.424039, 0
 1, delivery driver, 0.602531, 1

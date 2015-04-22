@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst restaurant experiences, 0.56496, 0
 1, innocent drunk guy, 0.544993, 0
 1, college kids, 0.500393, 1

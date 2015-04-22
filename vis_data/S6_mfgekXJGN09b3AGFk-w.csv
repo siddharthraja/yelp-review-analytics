@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hot/continental buffet, 0.652095, 0
 1, breakfast, 0.377952, 0
 1, la carte, 0.646054, 1

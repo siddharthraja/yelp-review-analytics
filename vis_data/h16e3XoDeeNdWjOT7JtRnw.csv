@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, food horrible service, 0.687573, 0
 1, drink menu, 0.537287, 0
 1, service, 0.916705, 1

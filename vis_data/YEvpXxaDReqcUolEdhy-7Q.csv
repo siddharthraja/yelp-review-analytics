@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Terrible ambiance, 0.927376, 1
 1, bakery/sandwiches, 0.588866, 1
 1, coffee only fair,chairs, 0.821357, 2

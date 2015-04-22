@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, pheasant ravioli, 0.635368, 0
 2, duck magret, 0.625374, 0
 2, worst service, 0.647195, 1

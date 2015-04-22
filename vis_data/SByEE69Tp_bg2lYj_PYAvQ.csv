@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, nice spot, 0.666816, 0
 1, dirty feeling, 0.665682, 0
 1, terrible dining experience, 0.887238, 1

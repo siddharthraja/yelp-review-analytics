@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Worse bouncer service, 0.726704, 0
 1, decently large group, 0.724467, 0
 1, Absolute worst service, 0.717953, 1

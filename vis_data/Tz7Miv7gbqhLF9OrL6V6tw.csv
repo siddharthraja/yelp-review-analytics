@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, long time patron, 0.710133, 0
 1, times markup, 0.573207, 0
 1, recent visit, 0.580509, 1

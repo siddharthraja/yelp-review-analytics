@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Lame ass rip, 0.567025, 0
 1, food menu, 0.448665, 0
 1, sisig fries, 0.632636, 1

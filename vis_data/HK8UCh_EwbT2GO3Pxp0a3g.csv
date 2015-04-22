@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, little wobbly cafe, 0.713865, 0
 1, Candi bar, 0.508641, 0
 1, St. Laurent street, 0.788667, 1

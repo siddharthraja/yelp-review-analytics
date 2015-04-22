@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Exceedingly mediocre experience, 0.78866, 0
 1, numerous rave reviews, 0.764052, 0
 1, poorly ventilated basement, 0.850783, 1

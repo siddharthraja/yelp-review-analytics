@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, grilled chicken sandwiches, 0.775543, 0
 2, large group, 0.437646, 0
 2, greasy mess, 0.581462, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, credit card, 0.440336, 1
 4, complaint, 0.212172, 1
 4, sports bar, 0.434486, 2

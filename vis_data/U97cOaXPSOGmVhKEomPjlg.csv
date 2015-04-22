@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poorest restaurant experiences, 0.767812, 0
 1, FRIED kale, 0.69498, 0
 1, regular wine list, 0.733781, 1

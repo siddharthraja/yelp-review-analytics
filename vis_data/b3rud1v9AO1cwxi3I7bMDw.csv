@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sleazy dive bar, 0.995972, 0
 1, Cheap beer, 0.820045, 0
 1, False advertising, 0.772946, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, regular iced tea, 0.794207, 0
 1, better wine bars, 0.782337, 0
 1, dirty nearby Sonic, 0.796472, 1

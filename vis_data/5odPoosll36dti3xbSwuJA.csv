@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, standard pub-style cod, 0.91418, 0
 2, drink orders, 0.778838, 0
 2, poor customer service, 0.887991, 1

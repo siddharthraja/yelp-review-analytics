@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, normal Chinese dishes, 0.362934, 0
 4, shrimp dumplings, 0.274013, 0
 4, limited amounts, 0.24982, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, root beer float, 0.969408, 0
 1, poor service, 0.634456, 0
 1, older manager, 0.584408, 1

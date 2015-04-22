@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sake stay, 0.689375, 0
 1, restaurant ratings, 0.678462, 0
 1, promoter books, 0.712338, 1

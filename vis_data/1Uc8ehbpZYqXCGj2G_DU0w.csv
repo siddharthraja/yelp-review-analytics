@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, traditional Scottish folk, 0.979309, 0
 3, evenings, 0.337587, 0
 3, cholesterol, 0.480134, 1

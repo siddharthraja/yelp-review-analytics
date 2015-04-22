@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, absolute worst food, 0.859175, 0
 1, time zone change, 0.810394, 0
 1, unappetizing ammonia-like smell, 0.832984, 1

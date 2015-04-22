@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, conversation, 0.521829, 0
 1, dirty looking rag, 0.917089, 1
 1, incoming patrons, 0.729259, 1

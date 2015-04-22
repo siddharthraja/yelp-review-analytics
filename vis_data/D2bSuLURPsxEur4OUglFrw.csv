@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, different waitress, 0.835183, 0
 2, obviously intoxicated woman, 0.795736, 0
 2, rude short service, 0.801558, 1

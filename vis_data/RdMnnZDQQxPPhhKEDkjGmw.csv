@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, cute little wine, 0.842556, 0
 2, bad taste, 0.622892, 0
 2, poor customer service, 0.774823, 1

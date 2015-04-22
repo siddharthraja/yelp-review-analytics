@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible horrible customer, 0.959793, 0
 1, local Las Vegan, 0.924954, 0
 1, Unfriendly unknowledgeable bartenders, 0.961133, 1

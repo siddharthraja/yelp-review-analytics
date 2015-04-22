@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mexican bar w/, 0.970315, 1
 1, hot dog cart, 0.801685, 1
 1, small parking, 0.527723, 3

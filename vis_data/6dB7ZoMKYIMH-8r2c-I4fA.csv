@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, buffalo beast pizza, 0.930377, 0
 3, Native New Yorker, 0.893832, 0
 3, wrong pizza, 0.73889, 2

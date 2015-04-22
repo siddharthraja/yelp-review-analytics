@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pretzel roll fondue, 0.808638, 0
 1, cheap chinese food, 0.799151, 0
 1, food BAD service, 0.83128, 1

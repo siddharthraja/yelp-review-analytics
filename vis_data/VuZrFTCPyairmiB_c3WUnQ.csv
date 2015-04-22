@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, DRUNKEN DEATH, 0.97074, 1
 1, bar, 0.57939, 2
 1, people, 0.548974, 2

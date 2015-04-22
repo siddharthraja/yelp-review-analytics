@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Nice neighborhood gaming, 0.881857, 0
 3, local bar choices, 0.843516, 0
 3, typical Vegas bar, 0.862971, 1

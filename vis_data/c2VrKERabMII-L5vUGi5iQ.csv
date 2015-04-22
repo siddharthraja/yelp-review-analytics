@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, true top-tier club, 0.440057, 0
 1, girls line, 0.411931, 0
 1, security guards, 0.705024, 1

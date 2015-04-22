@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poorly managed restaurant, 0.949767, 0
 1, Yelp rating, 0.645221, 0
 1, alcoholic beverages, 0.587499, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, traditional American food, 0.577234, 0
 1, BBQ Chicken Wings, 0.551617, 0
 1, soggy french fries, 0.741407, 1

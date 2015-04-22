@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, weekly karaoke, 0.923618, 0
 4, home, 0.213957, 2
 4, employee, 0.206431, 2

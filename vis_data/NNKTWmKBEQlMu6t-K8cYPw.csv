@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, best salad bar, 0.833111, 0
 1, town, 0.360966, 0
 1, salad bar, 0.97986, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, beer/wine selection, 0.6529, 0
 2, great food, 0.643366, 0
 2, downtown Champaign, 0.730684, 2

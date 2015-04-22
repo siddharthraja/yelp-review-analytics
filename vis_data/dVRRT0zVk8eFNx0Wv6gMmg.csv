@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, food, 0.705884, 1
 2, staff, 0.697192, 1
 2, Chilis, 0.975805, 2

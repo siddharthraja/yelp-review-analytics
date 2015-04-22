@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, NY Strip Steak, 0.791441, 0
 1, funny burnt edge, 0.736836, 0
 1, crappy little bar, 0.854861, 1

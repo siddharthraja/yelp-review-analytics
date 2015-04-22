@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, draft beer, 0.909765, 0
 1, time, 0.721679, 0
 1, miller light, 0.92847, 2

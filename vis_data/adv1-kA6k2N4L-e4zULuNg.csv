@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Street people, 0.420762, 0
 1, Vegas blvd way, 0.393052, 0
 1, random people, 0.41342, 1

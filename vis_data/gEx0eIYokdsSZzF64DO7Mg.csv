@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, quality Chinese food, 0.668991, 0
 1, spring tasting menu, 0.643832, 0
 1, panda express, 0.848555, 1

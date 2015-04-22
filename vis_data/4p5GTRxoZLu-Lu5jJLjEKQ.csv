@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, veggie pizza, 0.842926, 0
 5, house specialty cheese, 0.755049, 0
 5, delicious Italian sausage, 0.773952, 2

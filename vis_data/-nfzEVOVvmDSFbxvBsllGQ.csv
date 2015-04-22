@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fried fish sandwich, 0.947961, 0
 1, regular fries, 0.793969, 0
 1, spelling errors, 0.725978, 1

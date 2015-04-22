@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, decent table, 0.687718, 0
 1, better places, 0.680514, 0
 1, old bald guy, 0.990351, 1

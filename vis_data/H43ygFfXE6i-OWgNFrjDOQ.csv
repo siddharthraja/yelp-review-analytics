@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, swear words, 0.970364, 0
 1, psychic tricks, 0.846258, 0
 1, F-bombs, 0.458037, 1

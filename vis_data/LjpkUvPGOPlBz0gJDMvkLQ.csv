@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, words meat-market come, 0.987551, 0
 1, cheesy club sort, 0.912403, 0
 1, offensive slurs, 0.747236, 1

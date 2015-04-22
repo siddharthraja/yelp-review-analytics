@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, shoot sales, 0.982329, 1
 1, vegas not Idaho, 0.834835, 1
 2, good cover bands., 0.974772, 0

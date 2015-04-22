@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, room service order, 0.784227, 0
 1, Morgans Hotel Group, 0.752442, 0
 1, worst room service, 0.780999, 1

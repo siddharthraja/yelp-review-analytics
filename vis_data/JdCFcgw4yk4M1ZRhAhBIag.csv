@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, WORST restaurant choice, 0.997611, 0
 1, oz sirloin, 0.830393, 0
 1, fries, 0.639562, 1

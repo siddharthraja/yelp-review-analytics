@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Caesar salad, 0.839917, 0
 1, worst McDonalds restaurant, 0.835792, 0
 1, leopard print dress, 0.821228, 1

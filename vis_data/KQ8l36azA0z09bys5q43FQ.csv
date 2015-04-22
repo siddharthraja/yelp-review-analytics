@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, negative rating, 0.707421, 0
 1, Lee Smith, 0.670474, 0
 1, big time, 0.665015, 1

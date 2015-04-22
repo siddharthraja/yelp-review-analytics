@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, typical burger grease, 0.706908, 0
 1, tasteless bloody Mary, 0.706905, 0
 1, typical bar food, 0.733158, 1

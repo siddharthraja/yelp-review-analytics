@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, hotel bar, 0.761299, 1
 3, Kinda, 0.565207, 1
 3, food, 0.4884, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, crappy food, 0.518613, 0
 1, worst costumer service, 0.518083, 0
 1, chinese food, 0.945256, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, good jazz band, 0.874721, 0
 3, live band playing, 0.801583, 0
 3, bar atmosphere, 0.504428, 2

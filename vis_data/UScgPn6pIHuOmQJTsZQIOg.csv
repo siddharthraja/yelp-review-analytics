@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, old mexican restaurant, 0.998731, 0
 1, Yelp review retaliation, 0.863465, 0
 1, shrimp cocktail, 0.952774, 2

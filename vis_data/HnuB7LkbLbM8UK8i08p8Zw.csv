@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Rio, 0.501976, 0
 1, choreography, 0.527187, 1
 1, penny, 0.523777, 1

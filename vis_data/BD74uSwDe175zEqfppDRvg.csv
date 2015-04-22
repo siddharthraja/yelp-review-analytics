@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, service terrible food, 0.694974, 0
 1, time bad mealI, 0.670769, 0
 1, worst Mexican food, 0.739433, 1

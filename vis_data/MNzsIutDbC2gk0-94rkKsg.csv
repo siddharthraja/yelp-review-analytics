@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Des arrêts d'autobus, 0.991219, 0
 2, bière est pas, 0.959919, 0
 2, qui ont pas, 0.945463, 3

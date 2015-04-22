@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, coat check, 0.905431, 0
 2, different drink specials, 0.744469, 0
 2, bad final impression, 0.786986, 1

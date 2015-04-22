@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hash brown patty, 0.831786, 0
 1, low quality ingredients, 0.831295, 0
 1, super condescending tone, 0.840091, 1

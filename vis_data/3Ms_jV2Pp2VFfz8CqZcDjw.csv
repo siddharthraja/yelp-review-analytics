@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Edinburgh/British pub, 0.82676, 0
 2, neighboring pub, 0.76022, 0
 2, previous yelper, 0.749631, 1

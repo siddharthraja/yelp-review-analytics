@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, bartender, 0.533221, 0
 2, spot, 0.476222, 0
 2, beer, 0.452302, 1

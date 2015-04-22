@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible service bartender, 0.949838, 1
 1, security guard, 0.717793, 1
 1, penny, 0.407418, 2

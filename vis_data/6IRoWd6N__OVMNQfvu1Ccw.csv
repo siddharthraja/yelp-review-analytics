@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible horrible food, 0.616261, 0
 1, town square location, 0.598034, 0
 1, red rock location, 0.932215, 1

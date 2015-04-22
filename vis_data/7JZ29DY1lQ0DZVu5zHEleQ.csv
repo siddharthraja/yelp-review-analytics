@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, couple drinks, 0.975262, 0
 3, coworkers, 0.374014, 0
 3, food, 0.232946, 2

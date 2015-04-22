@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, traditional theater seating, 0.915876, 0
 2, previous reviewer, 0.717383, 0
 2, seedy quality, 0.699038, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bar vodka cran, 0.82821, 0
 1, place negative stars, 0.795088, 0
 1, dismal depressing servers, 0.790281, 1

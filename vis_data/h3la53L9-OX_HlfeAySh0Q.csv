@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, waitress spill, 0.472237, 0
 1, chain restaurant, 0.440638, 0
 1, overdone steak, 0.609681, 1

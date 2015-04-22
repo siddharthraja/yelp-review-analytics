@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, kick-ass sports bar, 0.550054, 0
 1, spring training game, 0.539652, 0
 1, food, 0.653075, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, better places downtown, 0.925951, 0
 1, bartender, 0.689361, 1
 1, brands, 0.403079, 1

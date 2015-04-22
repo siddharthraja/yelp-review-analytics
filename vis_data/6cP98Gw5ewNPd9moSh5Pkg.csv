@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Tom Cruise abomination, 0.954529, 0
 1, eh decent place, 0.951766, 0
 1, wet t-shirt, 0.950093, 1

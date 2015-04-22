@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, playing Irish songs, 0.748019, 0
 1, pub wings, 0.737881, 0
 1, rude service, 0.755548, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, squid ink risotto, 0.87818, 0
 1, main dish, 0.688891, 0
 1, polenta, 0.517355, 1

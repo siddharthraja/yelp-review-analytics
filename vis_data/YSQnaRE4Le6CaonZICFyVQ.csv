@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, polite company, 0.63062, 0
 1, hurry, 0.4052, 0
 1, trash strewn, 0.694214, 1

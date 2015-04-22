@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ribeye steak sandwich, 0.824727, 0
 1, Thank goodness, 0.732638, 0
 1, grease trap sandwich, 0.827221, 1

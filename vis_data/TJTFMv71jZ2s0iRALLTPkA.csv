@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Saturday night, 0.583927, 0
 1, coffees, 0.294059, 0
 1, bad instant, 0.580714, 1

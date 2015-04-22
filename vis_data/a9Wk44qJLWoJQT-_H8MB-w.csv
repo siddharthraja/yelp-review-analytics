@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hole-in-wall pizza joint, 0.966174, 0
 1, shrimp scampi pizza, 0.926198, 0
 1, clam pasta dish, 0.784489, 1

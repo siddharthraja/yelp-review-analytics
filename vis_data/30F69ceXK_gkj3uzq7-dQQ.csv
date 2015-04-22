@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, hazmat suit, 0.960457, 0
 2, pint, 0.653324, 0
 2, martini, 0.629978, 2

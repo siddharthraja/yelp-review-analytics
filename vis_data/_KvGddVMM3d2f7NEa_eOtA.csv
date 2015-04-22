@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pastrami sandwich, 0.527812, 0
 1, cheese sandwich, 0.514382, 0
 1, dry crumbling bread, 0.508362, 1

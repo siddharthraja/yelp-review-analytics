@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Bye trib, 0.768741, 0
 1, cities, 0.464284, 0
 1, live music, 0.93081, 1

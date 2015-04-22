@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, co-worker sing, 0.729009, 0
 1, late comers, 0.564716, 0
 1, better sports bars, 0.916406, 1

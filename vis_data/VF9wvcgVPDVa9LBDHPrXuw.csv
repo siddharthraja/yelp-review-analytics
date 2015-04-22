@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, tasty chicken wings, 0.76907, 0
 2, decent bar food, 0.715799, 0
 2, bad location, 0.544802, 1

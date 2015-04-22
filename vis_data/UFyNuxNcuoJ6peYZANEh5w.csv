@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Monte Carlo, 0.587865, 0
 1, rude waiter, 0.51664, 0
 1, food poisoning, 0.602921, 1

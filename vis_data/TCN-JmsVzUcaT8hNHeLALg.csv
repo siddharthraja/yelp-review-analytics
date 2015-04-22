@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good music, 0.63128, 0
 1, patrons, 0.439797, 0
 1, childish message, 0.716131, 1

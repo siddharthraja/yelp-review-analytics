@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, food wait, 0.811273, 0
 1, bartender, 0.511339, 0
 1, dance floor, 0.691364, 1

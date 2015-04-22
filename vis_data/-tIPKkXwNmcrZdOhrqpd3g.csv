@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, blown assault, 0.909715, 0
 1, security personnel, 0.763502, 0
 1, customer, 0.572684, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chicken wrap, 0.647907, 0
 1, better beer establishments, 0.644594, 0
 1, Terrible service, 0.744753, 1

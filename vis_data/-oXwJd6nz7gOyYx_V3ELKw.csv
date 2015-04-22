@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, burger joint, 0.849438, 0
 3, hot dogs, 0.806284, 0
 3, massive bun, 0.624818, 1

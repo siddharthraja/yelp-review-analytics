@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, k'n, 0.446934, 2
 1, OMG, 0.629118, 3
 1, hole, 0.462757, 3

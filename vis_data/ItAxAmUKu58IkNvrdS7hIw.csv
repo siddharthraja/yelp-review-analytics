@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Creek Coffee Company, 0.953081, 0
 1, bad impression, 0.760423, 0
 1, bad mantra, 0.780862, 1

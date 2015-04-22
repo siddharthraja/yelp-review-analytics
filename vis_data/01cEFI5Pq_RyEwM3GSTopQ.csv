@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, WORST SERVICE, 0.782974, 0
 1, great TV, 0.752617, 0
 1, Tacos al Carbon, 0.930288, 1

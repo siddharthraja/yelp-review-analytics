@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, carne asada, 0.422968, 0
 1, al pastor, 0.395859, 0
 1, buffalo chicken residue, 0.577016, 2

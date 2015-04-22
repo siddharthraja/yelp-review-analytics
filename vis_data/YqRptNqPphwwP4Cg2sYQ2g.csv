@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, wait list, 0.810077, 0
 1, BUSY texting, 0.634999, 0
 1, menu item, 0.605514, 1

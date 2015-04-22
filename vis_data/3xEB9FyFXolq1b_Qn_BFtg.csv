@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Phoenix metropolitan area, 0.598331, 0
 1, karaokee host, 0.583245, 0
 1, mediocre pub food, 0.587998, 1

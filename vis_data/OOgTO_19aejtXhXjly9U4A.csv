@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, cozy jazz bar, 0.83766, 0
 3, large party, 0.506813, 0
 3, food, 0.262388, 1

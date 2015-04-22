@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fish tacos, 0.683812, 0
 1, small shrimp, 0.642928, 0
 1, questionable cleanliness, 0.746055, 1

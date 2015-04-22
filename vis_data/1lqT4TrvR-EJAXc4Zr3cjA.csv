@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, wrong place, 0.95787, 1
 4, Jimmy Eat World, 0.910596, 0
 4, currently popular band, 0.731813, 0

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chance, 0.346568, 0
 1, water, 0.306473, 1
 1, new place, 0.618743, 2

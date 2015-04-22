@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, crust, 0.386859, 0
 4, good cheap pizza, 0.965295, 2
 4, Consol stop, 0.698528, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Metro Bus Stop, 0.833036, 0
 1, Dr. Seuss book, 0.824538, 0
 1, Sucker Punch Sally, 0.861735, 1

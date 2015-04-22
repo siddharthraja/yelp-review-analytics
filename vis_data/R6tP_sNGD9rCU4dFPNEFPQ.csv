@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, neighborhood bar, 0.966875, 0
 1, live music, 0.843494, 0
 1, drinks, 0.541698, 1

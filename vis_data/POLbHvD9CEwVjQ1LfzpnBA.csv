@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, times, 0.985679, 3
 1, money, 0.97391, 3
 4, bartender, 0.281705, 0

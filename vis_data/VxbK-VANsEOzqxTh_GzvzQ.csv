@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, exceptionally long time, 0.918959, 0
 1, tomato basil soup, 0.910947, 0
 1, bar maid, 0.753366, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, glorified ham, 0.752635, 0
 1, duck panini, 0.752056, 0
 1, ribeye steak, 0.877072, 1

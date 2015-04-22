@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, better Irish pubs, 0.667745, 0
 1, raspberry iced tea, 0.666585, 0
 1, hostess station, 0.539745, 1

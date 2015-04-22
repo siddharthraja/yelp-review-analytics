@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, high gravity beer, 0.486383, 0
 1, WTF Bad business, 0.479083, 0
 1, people order food, 0.520286, 1

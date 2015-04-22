@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Al Pastor tacos, 0.635433, 0
 1, relatively unoccupied section, 0.616984, 0
 1, damp dirty towels, 0.632846, 1

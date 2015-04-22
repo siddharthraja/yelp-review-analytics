@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, specific things, 0.663691, 0
 1, East Valley, 0.649728, 0
 1, customer service, 0.60447, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new york steak, 0.780753, 0
 1, poor service, 0.678943, 0
 1, Kegs Sports Bar, 0.725066, 1

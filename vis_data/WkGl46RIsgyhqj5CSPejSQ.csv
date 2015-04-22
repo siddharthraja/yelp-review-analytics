@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ghost town, 0.455277, 0
 1, bad night, 0.677027, 1
 1, poor lady, 0.473215, 1

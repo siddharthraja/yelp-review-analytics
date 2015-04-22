@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, customer service attitude, 0.403686, 0
 1, wine bar, 0.264995, 0
 1, Enotria groupon, 0.412051, 1

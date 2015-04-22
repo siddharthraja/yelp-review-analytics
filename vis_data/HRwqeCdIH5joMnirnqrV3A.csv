@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pho places, 0.627368, 0
 1, good Pho, 0.590255, 0
 1, worst pho, 0.627213, 1

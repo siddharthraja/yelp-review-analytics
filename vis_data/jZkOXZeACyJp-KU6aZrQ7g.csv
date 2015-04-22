@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, smoke-filled entry hall, 0.795292, 0
 1, .Nasty food check, 0.795042, 0
 1, wrong food order, 0.788883, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, better salad selection, 0.800016, 0
 2, steak place, 0.777569, 0
 2, decent meat, 0.628119, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, John Leslie, 0.937224, 2
 2, drink, 0.658303, 2
 2, students, 0.572744, 6

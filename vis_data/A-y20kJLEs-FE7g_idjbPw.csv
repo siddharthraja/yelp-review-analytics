@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hookah, 0.904084, 0
 1, Horrible hookah, 0.7072, 0
 1, Horrible customer service, 0.626771, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, juke box, 0.652551, 0
 1, Saturday night, 0.644987, 0
 1, Drunk frat boys, 0.908243, 1

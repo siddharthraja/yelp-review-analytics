@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, service, 0.30727, 0
 1, yuck, 0.437885, 1
 1, lettuce, 0.385845, 1

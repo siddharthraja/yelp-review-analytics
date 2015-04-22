@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, local bar, 0.897313, 1
 4, Las Vegas, 0.890236, 1
 4, breakfast items, 0.901345, 7

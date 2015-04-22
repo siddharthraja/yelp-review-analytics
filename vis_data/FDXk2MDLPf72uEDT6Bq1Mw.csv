@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, place twin peaks, 0.90039, 0
 1, couple bad sandwiches, 0.885383, 0
 1, frustrated frat boys, 0.894911, 1

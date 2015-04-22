@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, drinks, 0.647026, 2
 1, girlfriend, 0.485227, 2
 1, cheapest beer, 0.902549, 6

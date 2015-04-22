@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, previous positive experiences, 0.700842, 0
 1, dubious misfortune, 0.590975, 0
 1, harry basil, 0.763684, 1

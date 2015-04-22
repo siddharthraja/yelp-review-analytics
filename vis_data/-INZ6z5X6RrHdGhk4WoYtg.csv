@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, yelp check, 0.718353, 0
 1, different girl, 0.666041, 0
 1, BOGO Cocktail, 0.735379, 1

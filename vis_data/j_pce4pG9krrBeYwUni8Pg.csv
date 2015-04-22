@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, food orders, 0.532687, 0
 1, ........., 0.530469, 0
 1, bad service, 0.552356, 1

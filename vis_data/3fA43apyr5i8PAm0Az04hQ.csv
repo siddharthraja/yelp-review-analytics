@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Poor customer service, 0.652207, 0
 1, bar order beers, 0.628206, 0
 1, service, 0.753299, 1

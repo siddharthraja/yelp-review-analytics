@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, work, 0.421648, 0
 1, night, 0.421454, 0
 1, end, 0.528813, 1

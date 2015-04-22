@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bartender, 0.667577, 0
 1, margaritas, 0.69617, 2
 1, mixed drinks, 0.996071, 6

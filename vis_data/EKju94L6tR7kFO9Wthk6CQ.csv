@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Screw, 0.399159, 0
 1, drink, 0.394521, 0
 1, place, 0.455862, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mark bottle, 0.68053, 1
 1, pour, 0.398371, 1
 1, low-mid shelf stuff, 0.996452, 2

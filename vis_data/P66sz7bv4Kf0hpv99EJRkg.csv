@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, trivia championship game, 0.908445, 0
 1, alcoholic epcot center, 0.901781, 0
 1, gluten intolerance, 0.923235, 1

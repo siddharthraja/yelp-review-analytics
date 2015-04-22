@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, PNC Park, 0.708866, 0
 1, simple beer, 0.690248, 0
 1, worst service, 0.706119, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, room temperature, 0.938691, 0
 1, WORST SERVICE, 0.910561, 0
 1, table, 0.46886, 1

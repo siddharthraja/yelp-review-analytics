@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, somewhat usual drinks, 0.852763, 0
 1, Sorry lady, 0.653763, 0
 1, usual Cape Cods, 0.847984, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Hottest Night Club, 0.666606, 0
 1, Minor league club, 0.664302, 0
 1, Vegas club standards, 0.680904, 1

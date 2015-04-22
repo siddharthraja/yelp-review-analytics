@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, door, 0.512727, 0
 1, friends, 0.501806, 0
 1, Boo, 0.57276, 1

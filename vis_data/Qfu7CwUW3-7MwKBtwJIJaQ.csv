@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, extreme heat, 0.616777, 0
 1, coffee shop, 0.606769, 0
 1, desperate sips, 0.84958, 1

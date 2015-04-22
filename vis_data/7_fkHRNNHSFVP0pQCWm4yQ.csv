@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Rough crowd, 0.946979, 1
 1, couple beers, 0.916703, 3
 1, way dive bar, 0.753528, 3

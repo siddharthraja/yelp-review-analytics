@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Lousy customer service, 0.575914, 0
 1, terrible customer service, 0.557051, 0
 1, customer service, 0.727238, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, university alumni group, 0.639962, 0
 1, college ball games, 0.636177, 0
 1, terrible experience, 0.649924, 1

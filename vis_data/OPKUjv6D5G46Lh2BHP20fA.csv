@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst Mexican food, 0.775495, 0
 1, green chile beef, 0.755435, 0
 1, good Mexican food, 0.761266, 1

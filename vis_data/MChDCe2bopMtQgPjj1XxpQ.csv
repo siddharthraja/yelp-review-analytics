@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Michelin star standard, 0.95428, 0
 3, decent sized portion, 0.918627, 0
 3, Burger King, 0.837037, 1

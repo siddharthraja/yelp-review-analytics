@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, complimentary drink, 0.673254, 0
 1, emergency response, 0.671097, 0
 1, terrible customer service, 0.94805, 1

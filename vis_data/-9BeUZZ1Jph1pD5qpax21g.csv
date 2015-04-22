@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Park Road shopping, 0.606268, 0
 1, Sir Edmund Halleys, 0.604739, 0
 1, worst dining experience, 0.653503, 1

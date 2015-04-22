@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ravioli, 0.480606, 0
 1, kitchen, 0.442868, 0
 1, waitress, 0.973993, 1

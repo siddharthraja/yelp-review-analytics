@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, green bean fries, 0.799612, 0
 1, namesake steak, 0.731659, 0
 1, lousy service, 0.821989, 1

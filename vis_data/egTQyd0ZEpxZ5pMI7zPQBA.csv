@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, waste, 0.619371, 0
 1, gentlemens club, 0.976283, 2
 1, drinks, 0.758103, 2

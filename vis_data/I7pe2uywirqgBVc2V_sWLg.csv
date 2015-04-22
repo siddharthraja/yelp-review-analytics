@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bartenders, 0.54326, 0
 1, drinks, 0.511201, 0
 1, Terrible food, 0.782722, 1

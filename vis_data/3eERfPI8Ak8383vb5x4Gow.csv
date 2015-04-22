@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Monday night service, 0.902242, 0
 1, crusty stuff, 0.774052, 0
 1, manager, 0.781367, 1

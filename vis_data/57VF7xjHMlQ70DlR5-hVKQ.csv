@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, seafood restaurant, 0.966485, 7
 3, Fremont Street, 0.905673, 7
 4, indoor bar, 0.583507, 0

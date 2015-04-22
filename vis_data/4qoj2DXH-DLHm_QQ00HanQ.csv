@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, separate Yelp review, 0.712427, 0
 2, different venue, 0.576197, 0
 2, weekly Thursday events, 0.741537, 3

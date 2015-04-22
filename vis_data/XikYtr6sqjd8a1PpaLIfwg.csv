@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, cask, 0.457502, 0
 3, lunch break, 0.665728, 3
 3, private conversation, 0.639434, 3

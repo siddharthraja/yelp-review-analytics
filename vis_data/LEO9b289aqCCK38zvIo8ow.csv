@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, rate wine bar, 0.907695, 0
 3, mushroom pate, 0.595937, 0
 3, slow service, 0.568265, 1

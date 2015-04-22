@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, home-town ASU baseball, 0.561744, 0
 1, local sports team, 0.546899, 0
 1, service, 0.607389, 1

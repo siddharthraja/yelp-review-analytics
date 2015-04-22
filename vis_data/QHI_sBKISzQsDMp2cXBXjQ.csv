@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, famous fish sandwiches, 0.888389, 0
 1, tastes, 0.479183, 0
 1, musical events, 0.670364, 1

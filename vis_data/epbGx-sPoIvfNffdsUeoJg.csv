@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible food, 0.80228, 0
 1, rehab session, 0.750236, 0
 1, cheese steak sandwich, 0.967886, 1

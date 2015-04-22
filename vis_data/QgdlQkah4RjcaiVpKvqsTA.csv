@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Montreal, 0.539855, 0
 1, meetings, 0.53674, 0
 1, flight, 0.659891, 1

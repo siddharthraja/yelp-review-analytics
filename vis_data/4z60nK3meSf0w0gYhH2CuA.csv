@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, single customers order, 0.859199, 0
 1, crucial sports event, 0.847482, 0
 1, homeless people, 0.965065, 1

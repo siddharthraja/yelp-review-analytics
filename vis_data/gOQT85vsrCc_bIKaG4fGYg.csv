@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, food worse bartenders, 0.961059, 0
 1, non existent, 0.775868, 0
 1, dingy smoke, 0.783313, 1

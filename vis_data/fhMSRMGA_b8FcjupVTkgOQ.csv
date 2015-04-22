@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, expensive drinks, 0.767576, 0
 1, Tasteless interior, 0.76544, 0
 1, Bad dj, 0.751686, 1

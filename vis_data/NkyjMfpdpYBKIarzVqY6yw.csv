@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, staff, 0.844294, 0
 1, seat, 0.929142, 2
 1, refund, 0.878977, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good Pilipino food, 0.745476, 0
 1, filipino food lovers, 0.736871, 0
 1, kare kare sauce, 0.67076, 1

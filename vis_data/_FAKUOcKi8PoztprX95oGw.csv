@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, electrical-engineering study group, 0.688878, 0
 1, bodega liquor store, 0.634397, 0
 1, tyrannical practices, 0.508518, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, room service option, 0.71123, 0
 1, folks, 0.43569, 0
 1, house salad, 0.789382, 1

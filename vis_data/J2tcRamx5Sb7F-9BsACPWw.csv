@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, Best little bar, 0.813916, 0
 5, Packer fan, 0.695858, 0
 5, little bars, 0.645249, 1

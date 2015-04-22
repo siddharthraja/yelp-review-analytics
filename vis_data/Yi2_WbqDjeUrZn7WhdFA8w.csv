@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, light summer fare, 0.995051, 0
 1, lunch,the owner cook, 0.971782, 0
 1, -Sweet potato fries, 0.985081, 1

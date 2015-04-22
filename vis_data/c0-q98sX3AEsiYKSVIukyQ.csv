@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, El Charro, 0.651253, 0
 1, horrendous food, 0.562422, 0
 1, mexican food, 0.781959, 1

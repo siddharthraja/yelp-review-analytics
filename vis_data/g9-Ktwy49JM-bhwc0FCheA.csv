@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, PayPal, 0.478658, 0
 1, refund, 0.476547, 0
 1, Buyer beware, 0.776526, 1

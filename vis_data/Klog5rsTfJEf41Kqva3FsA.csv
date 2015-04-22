@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible place, 0.704415, 0
 1, attitude, 0.384851, 0
 1, mediocre food, 0.635502, 2

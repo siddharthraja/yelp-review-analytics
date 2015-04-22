@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new chef, 0.561189, 0
 1, tiny menu, 0.513716, 0
 1, service lacking, 0.51382, 1

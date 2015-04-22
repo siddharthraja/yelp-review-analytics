@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, bowling alley, 0.995341, 0
 4, Cosmic bowling, 0.951173, 0
 4, bowling alleys, 0.868925, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Pizza Lounge, 0.712606, 0
 1, pizza order, 0.663688, 0
 1, store brand pizza, 0.717649, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, movies, 0.728383, 6
 4, bite, 0.946181, 7
 4, Perfect, 0.877023, 7

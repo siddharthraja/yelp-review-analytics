@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, tilted kilt, 0.743663, 0
 1, ordinary bar food, 0.716469, 0
 1, food poisoning, 0.780518, 1

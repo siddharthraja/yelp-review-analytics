@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, grandmothers Italian cooking, 0.847699, 0
 1, crappy prices, 0.783307, 0
 1, crappy bar food, 0.965717, 1

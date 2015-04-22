@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, opinion Hanny, 0.65779, 0
 1, original historic piece, 0.640369, 0
 1, weed-like plants Hanny, 0.685888, 1

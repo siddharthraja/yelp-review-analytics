@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, latest visit, 0.843975, 0
 1, miserable people, 0.825899, 0
 1, bartender, 0.707029, 2

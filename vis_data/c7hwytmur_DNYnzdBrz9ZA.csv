@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, busy Saturday night, 0.748142, 0
 1, SNL skit, 0.606343, 0
 1, website, 0.456745, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, food, 0.637211, 0
 1, high chair, 0.997236, 3
 1, palinma, 0.631446, 6

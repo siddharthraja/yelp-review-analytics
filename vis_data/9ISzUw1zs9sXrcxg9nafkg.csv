@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, BIG menonite farmers, 0.832457, 0
 1, small touristy town, 0.731482, 0
 1, Tandoori chicken wrap, 0.670489, 1

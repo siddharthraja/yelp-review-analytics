@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good experiences, 0.733116, 0
 1, silence, 0.504614, 0
 1, high hopes, 0.755479, 3

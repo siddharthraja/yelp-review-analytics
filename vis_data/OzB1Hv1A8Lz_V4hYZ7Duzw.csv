@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, local bar vibe, 0.943541, 0
 2, Cool, 0.264895, 0
 2, burger, 0.326058, 2

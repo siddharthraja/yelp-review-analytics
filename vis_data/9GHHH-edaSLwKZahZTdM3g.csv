@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, large salad, 0.916085, 0
 1, Edward Island mussels, 0.814453, 0
 1, wait staff, 0.826194, 1

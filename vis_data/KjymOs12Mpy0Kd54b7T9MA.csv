@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mediocre food, 0.519749, 0
 1, Horrible food, 0.518701, 0
 1, worst dining experience, 0.526984, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Friday night Latin, 0.92421, 1
 1, dance party, 0.45911, 1
 1, La Jolla Tavern, 0.934088, 2

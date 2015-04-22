@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fried food, 0.545818, 0
 1, fried batter, 0.509455, 0
 1, deep fried desserts, 0.58746, 1

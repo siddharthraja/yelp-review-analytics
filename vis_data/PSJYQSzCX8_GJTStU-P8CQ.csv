@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, post Yelp UYE, 0.918695, 0
 2, VIP booths, 0.738452, 0
 2, VIP line, 0.75572, 3

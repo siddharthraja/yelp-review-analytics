@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Californian, 0.348204, 0
 1, cigarette smoke, 0.678258, 2
 1, smell, 0.354896, 2

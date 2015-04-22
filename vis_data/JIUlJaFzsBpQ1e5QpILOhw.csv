@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Liquor, 0.284411, 0
 1, Restrooms, 0.302403, 1
 1, red neck heaven, 0.915996, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, New manager chick, 0.683361, 0
 1, customer service, 0.413218, 0
 1, Crappy service, 0.886547, 1

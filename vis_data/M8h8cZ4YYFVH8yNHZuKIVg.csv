@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, limp fries, 0.9427, 1
 1, rancid taste, 0.895907, 1
 2, Irish bar experiences, 0.834599, 0

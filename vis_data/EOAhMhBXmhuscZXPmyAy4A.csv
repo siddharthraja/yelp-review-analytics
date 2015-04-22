@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mediocre service, 0.63172, 0
 1, new place, 0.620198, 0
 1, parents anniversary, 0.657291, 1

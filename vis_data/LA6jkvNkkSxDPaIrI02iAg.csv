@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, phone number, 0.615365, 0
 1, customer, 0.518345, 0
 1, pita jungle, 0.657933, 2

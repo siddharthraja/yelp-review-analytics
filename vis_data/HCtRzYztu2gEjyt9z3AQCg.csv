@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Tyber Creek, 0.785947, 0
 1, import beers, 0.752344, 0
 1, martinis, 0.657754, 1

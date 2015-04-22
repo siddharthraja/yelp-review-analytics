@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Guinness pint, 0.605315, 0
 1, good things, 0.598432, 0
 1, barely mild thumping, 0.770709, 1

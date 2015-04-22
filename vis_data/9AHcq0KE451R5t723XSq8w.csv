@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Poor customer service, 0.939655, 0
 1, guy playing pool, 0.860396, 0
 1, friend, 0.363548, 1

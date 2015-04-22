@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, extra long time, 0.998434, 0
 3, main meals, 0.738662, 0
 3, waiter, 0.496669, 1

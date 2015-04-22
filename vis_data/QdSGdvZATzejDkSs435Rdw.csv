@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible service, 0.913383, 0
 1, taco special, 0.698298, 0
 1, style memory, 0.563308, 1

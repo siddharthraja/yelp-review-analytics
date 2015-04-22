@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, foul mouthed  lady, 0.927181, 0
 1, racist bartender, 0.66326, 0
 1, racist lady, 0.588291, 1

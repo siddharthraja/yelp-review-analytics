@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Lake Las Vegas, 0.93245, 0
 1, keno machine non, 0.922756, 0
 1, poor food quality, 0.928607, 1

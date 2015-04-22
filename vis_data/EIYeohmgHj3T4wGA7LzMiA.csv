@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Friday night, 0.63243, 0
 1, potato soup, 0.563994, 0
 1, Friday evening, 0.554462, 1

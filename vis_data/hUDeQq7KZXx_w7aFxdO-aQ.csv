@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Meatball sandwich, 0.745934, 0
 2, Weird vibe, 0.719526, 0
 2, Tastes, 0.547995, 1

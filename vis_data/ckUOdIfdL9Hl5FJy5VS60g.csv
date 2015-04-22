@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, wheat gluten, 0.806927, 0
 1, greasy food, 0.759798, 0
 1, food poisoning, 0.746009, 1

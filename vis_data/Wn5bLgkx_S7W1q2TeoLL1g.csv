@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pretty crappy bar, 0.919669, 1
 1, Pool hall, 0.603813, 1
 1, home, 0.452004, 2

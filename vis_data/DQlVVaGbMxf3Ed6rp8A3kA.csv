@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, drink specials, 0.897548, 0
 1, worst singers, 0.950771, 1
 1, reason, 0.539159, 1

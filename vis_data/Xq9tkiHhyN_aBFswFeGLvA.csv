@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new Fox restaurant, 0.565266, 0
 1, old single malt, 0.540065, 0
 1, arrogant butcher, 0.902806, 1

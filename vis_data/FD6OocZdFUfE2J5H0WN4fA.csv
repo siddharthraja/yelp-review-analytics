@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chain smoker, 0.963247, 0
 1, bar reeks, 0.790424, 0
 1, good thing, 0.804278, 1

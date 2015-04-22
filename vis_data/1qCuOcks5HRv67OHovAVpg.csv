@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, small pizza sub, 0.501086, 0
 1, wrongly made buffalo, 0.345896, 0
 1, hot sauce, 0.351772, 2

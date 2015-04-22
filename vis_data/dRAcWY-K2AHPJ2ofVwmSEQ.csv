@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, dozen customers, 0.630477, 0
 1, crazy thing, 0.628764, 0
 1, special treatment, 0.623848, 1

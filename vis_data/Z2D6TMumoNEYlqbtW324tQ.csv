@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, smooth way, 0.634626, 0
 1, bank statement, 0.600698, 0
 1, drinks, 0.327669, 1

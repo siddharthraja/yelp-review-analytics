@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, reviews, 0.568751, 1
 1, place, 0.567483, 1
 1, chicken wings, 0.969048, 2

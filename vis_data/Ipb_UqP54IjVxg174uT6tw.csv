@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Prime Rib, 0.974648, 0
 1, lame tomato sauce, 0.941666, 0
 1, Home fries, 0.608112, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sports bar food, 0.649317, 0
 1, food order, 0.608588, 0
 1, entire lounge area, 0.603703, 1

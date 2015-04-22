@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, different menu items, 0.789019, 0
 1, Obnoxious sports fans, 0.763849, 0
 1, worse place, 0.625541, 1

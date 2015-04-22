@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, long cab ride, 0.993864, 0
 4, local dive bar, 0.73592, 0
 4, sketchy neighborhood, 0.63117, 1

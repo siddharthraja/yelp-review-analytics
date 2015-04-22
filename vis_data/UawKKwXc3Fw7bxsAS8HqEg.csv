@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Um, 0.600973, 0
 1, Dont, 0.584728, 1
 1, Disgusting, 0.578293, 1

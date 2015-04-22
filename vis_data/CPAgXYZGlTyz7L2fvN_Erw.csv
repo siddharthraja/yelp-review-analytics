@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, whisky mixed drinks, 0.560334, 0
 1, late night bar, 0.543312, 0
 1, WORST night club, 0.533391, 1

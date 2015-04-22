@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, busy.one waitress, 0.669851, 0
 1, school cafeteria, 0.629047, 0
 1, Rude guy, 0.930811, 1

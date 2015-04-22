@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, fried green tomatoes, 0.967606, 0
 3, Greens, 0.408127, 0
 3, Shrimp, 0.415751, 1

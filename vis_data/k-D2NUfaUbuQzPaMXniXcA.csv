@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Monte Carlo food, 0.522485, 0
 1, Zowie Bowie, 0.520352, 0
 1, bar food, 0.526412, 1

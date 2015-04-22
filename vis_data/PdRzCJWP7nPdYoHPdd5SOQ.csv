@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, regular frozen bag, 0.938964, 0
 1, common item soo, 0.936141, 0
 1, downtown spots, 0.953217, 1

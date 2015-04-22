@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ticket guy, 0.613766, 0
 1, opening acts, 0.571973, 0
 1, terrible experience, 0.92165, 1

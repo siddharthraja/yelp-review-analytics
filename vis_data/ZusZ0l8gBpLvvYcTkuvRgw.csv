@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bruschetta salad, 0.608823, 0
 1, corporate site, 0.51805, 0
 1, worst enemy, 0.567896, 1

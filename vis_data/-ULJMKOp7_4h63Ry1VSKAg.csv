@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mediocre chicken wings, 0.815237, 0
 1, gross pizza, 0.730131, 0
 1, piss poor service, 0.843521, 1

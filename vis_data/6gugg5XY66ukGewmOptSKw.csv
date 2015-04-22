@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new york strip, 0.568412, 0
 1, small steak, 0.513097, 0
 1, lobster bisque, 0.759703, 1

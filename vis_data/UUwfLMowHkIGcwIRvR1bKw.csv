@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, disgusting joke, 0.808246, 0
 1, worst DJ, 0.664231, 0
 1, terrible cabana service, 0.990973, 1

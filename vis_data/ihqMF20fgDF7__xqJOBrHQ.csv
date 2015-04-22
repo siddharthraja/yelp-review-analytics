@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, crass, 0.3188, 0
 1, opposite, 0.315086, 0
 1, experience, 0.268723, 1

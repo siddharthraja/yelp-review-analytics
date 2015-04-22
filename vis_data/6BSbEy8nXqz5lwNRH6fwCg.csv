@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, drink order, 0.840746, 0
 1, waitress, 0.551915, 0
 1, tasteless food, 0.886335, 1

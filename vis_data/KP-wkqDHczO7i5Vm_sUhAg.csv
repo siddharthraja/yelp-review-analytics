@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, restaurant, 0.947336, 0
 3, food, 0.848864, 0
 3, bar, 0.880135, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, unfamiliar concept, 0.993432, 0
 1, leather jackets, 0.925038, 0
 1, drunken friend, 0.994571, 1

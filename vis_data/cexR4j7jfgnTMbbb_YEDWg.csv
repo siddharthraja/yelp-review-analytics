@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pool tables, 0.95319, 0
 1, regulars, 0.756938, 0
 1, bouncers, 0.728184, 3

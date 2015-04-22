@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, quirky little waitress, 0.909216, 0
 1, police mug shots, 0.860131, 0
 1, poor waitress, 0.86345, 1

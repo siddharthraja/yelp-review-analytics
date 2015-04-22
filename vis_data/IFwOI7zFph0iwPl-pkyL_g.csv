@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, amazing experiences, 0.703093, 0
 1, substandard meal, 0.645743, 0
 1, meat, 0.28782, 1

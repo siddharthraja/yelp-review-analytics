@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, recent customer service, 0.823421, 0
 2, public rant, 0.458866, 2
 2, mind clearing machine, 0.771903, 3

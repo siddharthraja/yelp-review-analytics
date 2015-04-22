@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sushi bar, 0.564869, 0
 1, hot saki, 0.456533, 0
 1, Terrible service, 0.465083, 1

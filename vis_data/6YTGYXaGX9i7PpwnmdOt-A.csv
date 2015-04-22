@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, nice little bar, 0.808928, 0
 3, grassy public space, 0.74147, 0
 3, end bar, 0.708469, 1

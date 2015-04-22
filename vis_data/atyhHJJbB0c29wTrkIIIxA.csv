@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst service, 0.69125, 0
 1, same. mediocre food, 0.669081, 0
 1, record horrible service, 0.667352, 1

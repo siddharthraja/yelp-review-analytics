@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, commemorative pass, 0.927016, 0
 1, outdoor Arizona venue, 0.853731, 0
 1, nearly empty parking, 0.657502, 1

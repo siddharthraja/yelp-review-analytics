@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Buffalo Wild Wings, 0.680295, 0
 1, HORRIBLE customer service, 0.664704, 0
 1, service, 0.770479, 1

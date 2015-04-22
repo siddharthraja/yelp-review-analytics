@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fried cheese, 0.659689, 0
 1, slight garlic taste, 0.928317, 1
 1, kids drinks, 0.630947, 1

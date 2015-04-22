@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, better drinks, 0.534363, 0
 1, plain vodka shot, 0.498807, 0
 1, money hungry place, 0.508574, 1

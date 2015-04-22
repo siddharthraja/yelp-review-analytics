@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, noodle soup dishes, 0.806119, 0
 1, greasiest Chinese take-out, 0.770022, 0
 1, GF soy sauce, 0.932009, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, family visit, 0.753347, 0
 1, drink order, 0.743559, 0
 1, unwelcoming door person, 0.978687, 1

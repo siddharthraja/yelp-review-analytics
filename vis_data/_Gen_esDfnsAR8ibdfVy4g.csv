@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, typical neighborhood dive, 0.909584, 0
 3, cabbage, 0.22577, 0
 3, drink, 0.348329, 1

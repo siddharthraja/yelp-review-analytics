@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, shitty guacamole Poor, 0.920947, 0
 1, real Tex-Mex food, 0.9122, 0
 1, shrimp fajitas, 0.788014, 1

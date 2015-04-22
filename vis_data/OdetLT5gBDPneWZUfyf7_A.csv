@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, high school cafeteria, 0.912217, 0
 1, corned beed, 0.600147, 0
 1, star review, 0.616116, 1

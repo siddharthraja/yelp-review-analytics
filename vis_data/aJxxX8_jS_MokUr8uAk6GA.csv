@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, juke  box tv, 0.91401, 2
 1, bar staff, 0.710842, 2
 1, traditional style pub, 0.915779, 6

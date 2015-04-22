@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, Great neighborhood sports, 0.985728, 0
 5, drink specials, 0.800637, 7
 5, darts, 0.330396, 8

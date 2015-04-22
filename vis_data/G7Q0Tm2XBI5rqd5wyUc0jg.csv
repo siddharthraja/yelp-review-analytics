@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, abe lincoln, 0.768645, 0
 1, good pair, 0.740145, 0
 1, dollar beer, 0.757607, 1

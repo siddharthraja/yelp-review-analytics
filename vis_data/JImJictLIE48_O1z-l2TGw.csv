@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Entertainment Book program, 0.833288, 0
 1, hot pastrami sandwich, 0.817119, 0
 1, Wagon Yard, 0.956889, 1

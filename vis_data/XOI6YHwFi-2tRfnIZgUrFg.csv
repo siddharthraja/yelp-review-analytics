@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Bourbon St, 0.84848, 0
 1, TERRIBLE body, 0.816385, 0
 1, potentially new customers, 0.978162, 1

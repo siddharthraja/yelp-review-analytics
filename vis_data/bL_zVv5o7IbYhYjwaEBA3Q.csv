@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good club music, 0.939731, 0
 1, cold brew tea, 0.892937, 0
 1, Caesar salad, 0.714007, 1

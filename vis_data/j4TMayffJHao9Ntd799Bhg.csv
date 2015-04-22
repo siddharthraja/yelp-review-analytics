@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Line forms, 0.612307, 0
 1, fruity drink, 0.602545, 0
 1, bad enough taste, 0.608051, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, dine-in patrons, 0.922693, 0
 2, entire place, 0.831786, 0
 2, Groupon privileges, 0.775487, 1

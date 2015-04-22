@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, main seating area, 0.940782, 0
 1, American dim sum, 0.929529, 0
 1, bar style restaurants, 0.937158, 1

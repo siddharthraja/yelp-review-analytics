@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, good accoustics, 0.96542, 0
 4, small venue, 0.893212, 0
 4, local scene, 0.774695, 6

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chili cheese fries, 0.481254, 0
 1, dinky sandwich place, 0.40415, 0
 1, soggy fries, 0.431144, 1

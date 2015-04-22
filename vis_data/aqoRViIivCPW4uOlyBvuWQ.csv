@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible experience, 0.53031, 0
 1, sign, 0.332221, 0
 1, bait, 0.344583, 1

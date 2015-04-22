@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cold food thing, 0.770968, 0
 1, wait staff, 0.750818, 0
 1, cold food, 0.952331, 1

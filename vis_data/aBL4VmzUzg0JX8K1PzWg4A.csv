@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, manager, 0.565576, 0
 1, Sundays, 0.487119, 0
 1, bar tender, 0.670068, 1

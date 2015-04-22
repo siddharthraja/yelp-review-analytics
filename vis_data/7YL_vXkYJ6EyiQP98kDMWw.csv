@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, crappy service, 0.694425, 0
 1, party members, 0.665929, 0
 1, service dog, 0.801861, 1

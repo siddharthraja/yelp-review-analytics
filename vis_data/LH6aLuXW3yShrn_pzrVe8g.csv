@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, real Chinese food, 0.627844, 0
 1, mall food court, 0.596286, 0
 1, brown rice, 0.51474, 1

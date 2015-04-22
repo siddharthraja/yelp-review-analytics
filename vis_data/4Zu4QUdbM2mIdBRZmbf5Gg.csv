@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Baylor game, 0.78855, 0
 1, open booths, 0.756498, 0
 1, table, 0.693753, 1

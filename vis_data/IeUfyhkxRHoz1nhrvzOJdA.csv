@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cook, 0.51982, 2
 1, bar, 0.266213, 2
 1, new ones, 0.761582, 3

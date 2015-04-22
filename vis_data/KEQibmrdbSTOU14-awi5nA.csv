@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, ill def, 0.666709, 0
 2, biggest complaint, 0.618738, 0
 2, shitty machine, 0.636707, 1

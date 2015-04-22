@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, free pizza, 0.594739, 0
 1, pizza someplace, 0.592211, 0
 1, poor customer service, 0.628663, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, favorite dive bar, 0.842233, 0
 5, French- most patrons, 0.636738, 0
 5, weekends, 0.36664, 2

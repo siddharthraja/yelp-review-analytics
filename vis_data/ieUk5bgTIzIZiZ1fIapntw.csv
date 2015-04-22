@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bad experience, 0.972941, 0
 1, night, 0.646821, 0
 1, bad mood, 0.88146, 1

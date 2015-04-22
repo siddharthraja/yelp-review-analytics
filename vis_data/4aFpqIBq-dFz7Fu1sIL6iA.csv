@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, female bartender, 0.68675, 0
 1, bartender change, 0.684262, 0
 1, horrible bartender, 0.719885, 1

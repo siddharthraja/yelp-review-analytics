@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sirloin steak, 0.917382, 0
 1, exact same steak, 0.893648, 0
 1, food, 0.851702, 1

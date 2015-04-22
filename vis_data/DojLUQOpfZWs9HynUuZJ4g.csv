@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Pho Dalat, 0.741693, 0
 1, meatball pho, 0.718227, 0
 1, worst tasting pho, 0.779386, 1

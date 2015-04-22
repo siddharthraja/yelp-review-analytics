@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Mozzarella di Bufala, 0.943034, 0
 1, semble ne rien, 0.920337, 0
 1, Rue Saint Paul, 0.966326, 1

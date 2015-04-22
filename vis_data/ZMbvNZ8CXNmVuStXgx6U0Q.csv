@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, greatest customer service, 0.662585, 0
 1, new bartender, 0.646146, 0
 1, completely WRONG food, 0.686208, 1

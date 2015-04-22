@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, better atmosphere, 0.410458, 0
 1, narrow-minded yinzer bar, 0.89209, 1
 1, brookline local yokels, 0.994815, 6

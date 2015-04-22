@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, long island, 0.614191, 0
 2, food, 0.490363, 0
 2, chest, 0.46183, 2

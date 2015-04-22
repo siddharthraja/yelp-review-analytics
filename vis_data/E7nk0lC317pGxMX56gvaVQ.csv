@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, human food, 0.926741, 0
 1, spinach artichoke dip, 0.891203, 0
 1, domestic bottled beer, 0.868327, 1

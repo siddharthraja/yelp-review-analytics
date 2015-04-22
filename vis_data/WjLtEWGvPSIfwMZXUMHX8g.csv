@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor experience, 0.940642, 0
 1, controls Rivertowne, 0.759292, 0
 1, poor cut, 0.715789, 1

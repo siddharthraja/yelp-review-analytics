@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, médiocre wait staff, 0.626211, 0
 1, food order, 0.61861, 0
 1, Industry Public House, 0.782735, 1

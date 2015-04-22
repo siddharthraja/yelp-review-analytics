@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, non busy restaurant, 0.742657, 0
 1, Fried Shrimp Skewers, 0.727555, 0
 1, soy sauce, 0.806677, 1

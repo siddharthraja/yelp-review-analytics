@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, everybody, 0.665488, 0
 1, Complete waste, 0.903902, 1
 1, crew, 0.372723, 1

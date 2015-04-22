@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Chicago style pizza, 0.746011, 0
 1, roast beef sandwich, 0.712206, 0
 1, cold cuts, 0.559879, 1

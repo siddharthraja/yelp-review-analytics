@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, slow service, 0.921181, 0
 1, cool urban bar, 0.770595, 0
 1, street tacos, 0.803064, 1

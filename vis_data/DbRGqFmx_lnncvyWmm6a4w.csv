@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, meals, 0.232049, 0
 2, horrible dinner, 0.642794, 1
 2, fish fry, 0.972071, 5

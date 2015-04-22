@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pricey beers, 0.614678, 0
 1, stellar reviews, 0.611207, 0
 1, non-college bar, 0.659027, 1

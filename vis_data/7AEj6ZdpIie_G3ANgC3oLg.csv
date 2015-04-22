@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, coors light, 0.69562, 0
 1, trade towers, 0.690467, 0
 1, bartender, 0.563198, 1

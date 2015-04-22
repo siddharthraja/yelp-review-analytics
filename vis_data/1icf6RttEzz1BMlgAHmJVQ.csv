@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, George Street, 0.853599, 0
 1, Lulu, 0.708141, 0
 1, Opal Lounge, 0.95807, 1

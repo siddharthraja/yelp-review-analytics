@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, everybody yelling, 0.566599, 0
 3, house music, 0.511567, 0
 3, cheap whiskey, 0.568978, 2

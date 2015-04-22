@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, place, 0.526769, 1
 1, costs, 0.486967, 1
 1, drinking fountain, 0.903021, 7

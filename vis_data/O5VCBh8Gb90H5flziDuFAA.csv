@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, toddel taco, 0.959039, 1
 2, half, 0.568551, 1
 2, bartenders, 0.636997, 2

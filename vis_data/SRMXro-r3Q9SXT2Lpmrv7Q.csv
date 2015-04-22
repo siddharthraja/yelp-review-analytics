@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, private party, 0.535179, 0
 1, similar problems, 0.529567, 0
 1, crappy dive bar, 0.78305, 1

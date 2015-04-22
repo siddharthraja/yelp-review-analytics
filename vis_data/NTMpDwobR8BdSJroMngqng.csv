@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bland black beans, 0.903889, 0
 1, HORRIBLE SERVICE, 0.557798, 0
 1, low key upscale, 0.63734, 1

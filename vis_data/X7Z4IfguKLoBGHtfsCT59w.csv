@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pina coladas, 0.869752, 0
 1, Horrible service, 0.859167, 0
 1, whipped cream, 0.910475, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, -Absolutely terrible management, 0.77053, 0
 1, creative cuisine, 0.66253, 0
 1, small bland salsas, 0.79673, 1

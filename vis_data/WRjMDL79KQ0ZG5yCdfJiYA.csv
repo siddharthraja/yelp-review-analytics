@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, customer service, 0.641031, 0
 1, customer service skills, 0.619044, 0
 1, service, 0.733884, 1

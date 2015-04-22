@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, nicotine e cig, 0.995638, 0
 1, smoke shop, 0.917412, 0
 1, cartridge, 0.646338, 2

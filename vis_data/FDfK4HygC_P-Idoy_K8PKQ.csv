@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Want quality tequila, 0.686085, 0
 1, Venetian tequila bar, 0.683583, 0
 1, famous large nachos, 0.699216, 1

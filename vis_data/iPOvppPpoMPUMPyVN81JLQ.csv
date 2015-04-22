@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst food, 0.894828, 0
 1, Absolutely worst food, 0.877001, 0
 1, Totally disorganized staff, 0.932911, 1

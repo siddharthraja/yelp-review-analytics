@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, depressing social drink, 0.944951, 0
 1, weak lifeless cocktails, 0.887042, 0
 1, dull clouds, 0.738981, 1

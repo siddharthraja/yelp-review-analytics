@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Dont, 0.678433, 1
 1, cheap drinks, 0.920383, 2
 1, Great place, 0.723101, 2

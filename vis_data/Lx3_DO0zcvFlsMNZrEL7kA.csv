@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cigars, 0.939574, 3
 1, sale, 0.759363, 3
 1, star, 0.801996, 7

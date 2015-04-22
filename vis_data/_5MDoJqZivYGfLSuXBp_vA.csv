@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, seniors seniors, 0.745776, 0
 3, nursing home, 0.633335, 0
 3, bad room, 0.624319, 1

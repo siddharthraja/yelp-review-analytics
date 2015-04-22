@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, explicit sexual content, 0.819693, 0
 1, Wednesday night trivia, 0.784633, 0
 1, degrading rap music, 0.850706, 1

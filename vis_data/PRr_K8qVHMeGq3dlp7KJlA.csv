@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst dining experience, 0.969917, 0
 1, terrible experience, 0.817577, 0
 1, spinach, 0.81241, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, main act Joe, 0.974619, 0
 1, insulting people, 0.728913, 0
 1, lowest possible rating, 0.954165, 1

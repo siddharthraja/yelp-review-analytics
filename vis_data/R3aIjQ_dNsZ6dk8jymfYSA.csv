@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, semi-right food, 0.956671, 0
 1, Awful service, 0.715868, 0
 1, terrible experience, 0.817323, 1

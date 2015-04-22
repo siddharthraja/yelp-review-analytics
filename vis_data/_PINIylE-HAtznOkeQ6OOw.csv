@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, avocado egg roll, 0.440629, 0
 1, immitation crab meat, 0.427256, 0
 1, great sushi, 0.569215, 1

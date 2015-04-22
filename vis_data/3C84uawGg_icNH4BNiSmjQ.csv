@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, large loud groups, 0.814382, 0
 1, co-workers, 0.35179, 0
 1, bar lady, 0.549488, 1

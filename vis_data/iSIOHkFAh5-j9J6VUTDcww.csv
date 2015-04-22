@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, starters, 0.365828, 0
 1, drain, 0.353763, 1
 1, wrong temperature, 0.693726, 2

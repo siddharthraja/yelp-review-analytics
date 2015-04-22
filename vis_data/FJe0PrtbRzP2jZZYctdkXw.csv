@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst bartender, 0.5568, 0
 1, door stop, 0.489661, 0
 1, Cleveland Browns bar, 0.90543, 1

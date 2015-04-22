@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, wait staff, 0.78133, 0
 1, football, 0.478869, 0
 1, cold drink, 0.82095, 1

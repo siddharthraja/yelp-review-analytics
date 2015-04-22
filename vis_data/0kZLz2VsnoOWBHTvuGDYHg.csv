@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Nancy Sinatra songs, 0.93824, 0
 2, Roman bath house, 0.832718, 0
 2, shoe string budget, 0.780283, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, screw driver.. check, 0.911224, 3
 1, parking, 0.41457, 3
 1, face, 0.402658, 7

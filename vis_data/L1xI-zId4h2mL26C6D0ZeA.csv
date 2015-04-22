@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, yelp get-together meal, 0.918863, 0
 2, Kampong Ah Lee, 0.900651, 0
 2, potential Al Capone, 0.827909, 2

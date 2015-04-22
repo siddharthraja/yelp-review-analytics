@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, star, 0.377589, 1
 1, white-trash/shitty service thing, 0.901795, 2
 1, memo, 0.4324, 2

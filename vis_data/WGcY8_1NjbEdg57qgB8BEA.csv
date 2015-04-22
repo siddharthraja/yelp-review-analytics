@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Rude rude rude, 0.737851, 0
 1, Irish themed restaurants, 0.695282, 0
 1, worse food, 0.607207, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cocktail server/whatever, 0.997626, 0
 1, waitress, 0.888027, 0
 1, hair, 0.746572, 1

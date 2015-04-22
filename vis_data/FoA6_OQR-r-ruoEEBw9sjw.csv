@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, frequent spot, 0.774311, 0
 1, unfortunate service, 0.758602, 0
 1, woman, 0.458551, 1

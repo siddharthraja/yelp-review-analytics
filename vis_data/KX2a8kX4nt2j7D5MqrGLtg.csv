@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good Greek food, 0.84277, 0
 1, poor review, 0.656917, 0
 1, bad foot odor, 0.817807, 1

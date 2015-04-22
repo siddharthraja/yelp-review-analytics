@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, french fries, 0.763702, 0
 1, Horrible service, 0.517637, 0
 1, False Advertising, 0.499699, 1

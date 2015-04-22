@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, rude understaffed bartenders, 0.707622, 0
 1, single shot drinks, 0.705595, 0
 1, long bar waits, 0.703278, 1

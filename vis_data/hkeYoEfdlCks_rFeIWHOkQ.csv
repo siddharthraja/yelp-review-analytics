@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ticket agent, 0.635369, 0
 1, wheelchair accessible seating, 0.924313, 2
 1, expensive priced tickets, 0.870562, 2

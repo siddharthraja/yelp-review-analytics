@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, entire life, 0.637304, 0
 1, waitress notices, 0.637007, 0
 1, rude comments, 0.909672, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Poor service, 0.616531, 0
 1, vodka, 0.310036, 0
 1, regular night, 0.621294, 1

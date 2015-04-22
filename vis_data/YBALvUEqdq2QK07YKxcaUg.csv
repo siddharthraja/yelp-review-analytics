@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, credit card, 0.994408, 0
 1, social security card, 0.914595, 0
 1, horrible customer service, 0.900235, 1

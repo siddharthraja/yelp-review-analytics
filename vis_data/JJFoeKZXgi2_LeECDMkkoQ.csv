@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, late shift, 0.650401, 0
 2, light food, 0.648115, 0
 2, wait staff, 0.610502, 1

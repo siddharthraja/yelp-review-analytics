@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pint glasses, 0.62857, 0
 1, Indoor Smoking, 0.38356, 0
 1, bartender shoot, 0.531379, 1

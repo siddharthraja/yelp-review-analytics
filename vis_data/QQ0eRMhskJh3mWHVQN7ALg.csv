@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Expensive bar food, 0.706497, 0
 1, local food critic, 0.676738, 0
 1, shitty food, 0.676533, 1

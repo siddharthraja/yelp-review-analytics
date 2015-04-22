@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, inattentive ASU student, 0.708207, 0
 1, lousy Sweet'N Low, 0.697977, 0
 1, pretty lousy experience, 0.701193, 1

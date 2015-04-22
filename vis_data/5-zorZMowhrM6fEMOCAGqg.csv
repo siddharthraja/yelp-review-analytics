@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Main Street Depot, 0.924059, 0
 1, good dive bar, 0.888797, 0
 1, dive bars, 0.907369, 1

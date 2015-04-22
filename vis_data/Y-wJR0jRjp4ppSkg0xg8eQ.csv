@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, terrible customer service, 0.943221, 0
 1, drink policy, 0.693995, 0
 1, pool sticks, 0.70875, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor management, 0.716914, 0
 1, bartender, 0.482919, 0
 1, trash, 0.42538, 1

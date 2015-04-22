@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, walls, 0.484375, 0
 3, average pub fare, 0.980245, 3
 3, food, 0.453645, 3

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, red onion burgers, 0.876939, 0
 1, Green Chile burger, 0.708872, 0
 1, perfect fried mushrooms, 0.703415, 1

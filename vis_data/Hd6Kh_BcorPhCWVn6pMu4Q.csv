@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, requesting hot sauce, 0.482852, 0
 1, average bar food, 0.448056, 0
 1, surly human beings, 0.442811, 1

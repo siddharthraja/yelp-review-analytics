@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cin cin kitchen, 0.961567, 0
 1, old town, 0.702372, 0
 1, Philly Sandwich, 0.711039, 1

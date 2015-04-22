@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, certain cool company, 0.824413, 0
 1, WORST waitress, 0.690792, 0
 1, leather jacket, 0.621884, 1

@@ -1,4 +1,4 @@
-function createVis(){
+function createVis(bizId){
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
@@ -12,7 +12,7 @@ var y = d3.scale.linear()
 
 var color = d3.scale.ordinal()
     //.range(["#cb181d", "#fb6a4a", "#fcae91", "#fee5d9", "#ffffb2", "#edf8e9", "#bae4b3", "#74c476", "#238b45"]);
-	.range(["#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850"]);
+	.range(["#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850"]);
 
 var xAxis = d3.svg.axis()
     .scale(x)
@@ -29,7 +29,7 @@ var svg = d3.select("#VisBody").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("data/data.csv", function(error, data) {
+d3.csv("data/initVis.csv", function(error, data) {
 
   color.domain(d3.keys(data[0]).filter(function(key) { return key !== "State"; }));
 
@@ -58,19 +58,24 @@ d3.csv("data/data.csv", function(error, data) {
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end"); */
-
+	  
+  var xshift = 0, yshift = 0, xstart = 0, ystart = 0;
+	  
   var state = svg.selectAll(".state")
       .data(data)
-    .enter().append("g")
+      .enter().append("g")
       .attr("class", "g")
-      .attr("transform", function(d) { return "translate(" + x(d.State) + ",0)"; });
+      .attr("transform", function(d) { if(xstart == 0) xstart = x(d.State); return "translate(" + x(d.State) + ",0)"; });
+	  
+  //var features = svg.selectAll(".features")
 
   state.selectAll("rect")
       .data(function(d) { return d.ages; })
 	  .enter().append("rect")
+      .attr("class", "cell")
       .attr("width", x.rangeBand())
-      .attr("y", function(d) { return y(d.y1); })
-      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+      .attr("y", function(d) { /* if(ystart == 0) ystart = y(d.y1); */ return y(d.y1); })
+      .attr("height", function(d) { xshift = x.rangeBand(); yshift = y(d.y0) - y(d.y1); return y(d.y0) - y(d.y1); })
       .style("fill", function(d) { return color(d.name); });
 
   var legend = svg.selectAll(".legend")
@@ -100,7 +105,18 @@ d3.csv("data/data.csv", function(error, data) {
       .attr("font-weight", "bold")
       .attr("font-size", "12px")
       .text("Sentiment");
-
+	
+/* 	var featureText = "Some Text";
+    svg.append("text")
+      .attr("class", "featureLabel")
+      .attr("x", 7)
+      .attr("y", 17)
+      .text(featureText)
+	  .style("cursor", "pointer")
+	  .on("click", function(d) { alert("Hello world"); }); */ 
+  
+	  plotFeatures(svg, bizId, xshift, xstart, yshift, ystart);
+	  
 });
 
 
@@ -108,7 +124,89 @@ d3.csv("data/data.csv", function(error, data) {
 // end createVis function
 }
 
+function plotFeatures(svg, id, xshift, xstart, yshift, ystart){
+	//console.log(xshift + " | " + yshift + " ||| " + xstart + " | " + ystart);
 
+	ystart = 15;
+	gridCount = [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]];
+	if(id!="Blank")
+		d3.csv("vis_data/"+id+".csv", function(error, data) {
+			
+			  var featuresList = {};
+			  data.forEach(function(d) {
+				if ( !( String(d.keyword) in featuresList ) ) {
+					featuresList[String(d.keyword)] = 0;
+				}  
+			  });
+			  data.forEach(function(d) {
+				
+
+				//featuresList.push(String(d.keyword)); 
+				bkt = Number(d.bucket);
+				//if(bkt == 4) bkt = 5;
+				gridCount[9-bkt][Number(d.rating)-1] +=  1;
+				yf = (9 - parseInt(d.bucket)) * yshift + ystart + (Number(gridCount[9-bkt][Number(d.rating)-1]) * 16);
+				xf = (parseInt(d.rating)-1) * (xshift + xstart) + 25;
+				if(Number(d.relevance) >= 0.75) fsize = "15px";
+				else if(Number(d.relevance) >= 0.5) fsize = "14px";
+					else if(Number(d.relevance) >= 0.25) fsize = "12px";
+						else fsize = "10px";
+				//if (isNaN(yf)) console.log(Number(d.rating)+"|"+bkt+"|"+yf + "|" + gridCount[9-bkt][Number(d.rating)-1]);
+
+				svg.append("text")
+				  .attr("class", "featureLabel")
+				  .attr("x", xf)
+				  .attr("y", yf)
+				  .attr("width", "158px")
+				  .attr("font-size", fsize) 
+				  .text(d.keyword)
+				  .style("cursor", "pointer")
+				  .on("click", function() { listLinking(String(d.keyword)) });	
+				
+
+				  
+			  });
+
+			  listPopulate(featuresList);
+		});	
+	
+	else
+			svg.append("text")
+			  .attr("class", "featureLabel")
+			  .attr("x", 180)
+			  .attr("y", 17)
+			  .text(id)
+			  .style("cursor", "pointer");
+	
+
+}
+
+var mainFeatureList = {};
+function listPopulate(featuresList){
+	
+	console.log("function listPopulate(featuresList){");
+	var count = 0;
+	var str = '';
+	str += "<h3>Features</h3>";
+	for (var key in featuresList) {	
+		count++;
+		featuresList[key] = count;
+		str += "<p id=\"keyword" + featuresList[key] + "\" style=\"font-size:14px;\">"+key+"</p>";
+	}
+	//str += "</ul>";
+	document.getElementById('FeatureList').innerHTML = str;
+	mainFeatureList = featuresList;
+	
+}
+
+function listLinking(key){
+	
+	idstr = "#keyword"+String(mainFeatureList[key]);
+	console.log(idstr);
+	document.getElementById(idstr).style.backgroundColor = 'blue';
+	//$(idstr).css({'background-color':'yellow'});​
+}
+//**********************************************************************
 var preData =
 [
 {

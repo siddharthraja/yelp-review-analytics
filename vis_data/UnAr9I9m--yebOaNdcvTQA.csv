@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, bad drunks, 0.643264, 0
 3, credit card, 0.561223, 0
 3, cigarette smoke, 0.688839, 1

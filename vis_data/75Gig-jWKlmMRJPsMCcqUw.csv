@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, cheese, 0.544698, 0
 1, quesadilla, 0.496035, 0
 1, repeat business, 0.678978, 1

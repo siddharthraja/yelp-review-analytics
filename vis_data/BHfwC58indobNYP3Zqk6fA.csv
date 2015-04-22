@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, local Las Vegas, 0.957084, 0
 1, eye roll thing, 0.922584, 0
 1, Rude bartenders, 0.800283, 1

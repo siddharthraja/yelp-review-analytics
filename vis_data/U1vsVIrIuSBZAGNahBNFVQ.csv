@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, table multiple times, 0.829272, 0
 1, worst steak, 0.68543, 0
 1, cake small burnt, 0.819079, 1

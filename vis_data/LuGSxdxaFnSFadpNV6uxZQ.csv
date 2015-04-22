@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor customer service, 0.913733, 0
 1, lobster bisque, 0.735787, 0
 1, bartender cash, 0.629996, 1

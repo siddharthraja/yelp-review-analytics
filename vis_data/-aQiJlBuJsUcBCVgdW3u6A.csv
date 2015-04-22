@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, conclusion, 0.480389, 0
 1, wine, 0.467942, 0
 1, simple French Martini, 0.905244, 1

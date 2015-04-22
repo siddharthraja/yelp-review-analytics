@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, fresh fruit, 0.954344, 0
 1, available outdoor seating, 0.82072, 0
 1, tripe threat, 0.655982, 1

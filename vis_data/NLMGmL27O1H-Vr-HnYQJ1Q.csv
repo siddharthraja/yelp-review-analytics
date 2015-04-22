@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, totally legit review, 0.973347, 0
 1, large group, 0.475031, 0
 1, shame, 0.318579, 2

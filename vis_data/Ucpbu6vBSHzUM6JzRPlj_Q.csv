@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, early-season baseball game, 0.75089, 0
 1, numerous televisions, 0.604982, 0
 1, bar tender, 0.995721, 1

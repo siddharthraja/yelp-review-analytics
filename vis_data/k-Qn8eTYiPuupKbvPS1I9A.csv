@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, good riddance look, 0.57661, 0
 1, beer list, 0.478466, 0
 1, tasting warm martini, 0.577108, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible horrible service, 0.905298, 0
 1, pretty big bar, 0.804023, 0
 1, lazy waitress, 0.734221, 1

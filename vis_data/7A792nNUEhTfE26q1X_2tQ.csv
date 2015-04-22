@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, clothes, 0.361506, 0
 2, bathroom, 0.37821, 1
 2, lighting, 0.353465, 1

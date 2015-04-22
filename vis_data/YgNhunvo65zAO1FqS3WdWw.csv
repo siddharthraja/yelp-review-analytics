@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, chili cheese fries, 0.702674, 0
 1, regular staff, 0.524494, 0
 1, arrogant bartender, 0.752296, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, past lunch time, 0.858488, 0
 1, shit bar, 0.785524, 0
 1, nasty frozen fish, 0.951513, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, blue cheese, 0.669745, 0
 1, cold chicken wings, 0.640262, 0
 1, incredibly poor service, 0.576649, 1

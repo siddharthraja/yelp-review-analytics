@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, military type, 0.978141, 0
 1, horrible service, 0.783392, 0
 1, unpatriotic manager, 0.582678, 1

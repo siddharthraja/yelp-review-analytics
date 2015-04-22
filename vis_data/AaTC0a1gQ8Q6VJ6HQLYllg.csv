@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, meal, 0.676737, 0
 1, sister, 0.670488, 0
 1, chicken tenders, 0.978395, 1

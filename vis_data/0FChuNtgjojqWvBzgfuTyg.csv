@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, high school dance, 0.70252, 0
 1, dress shorts, 0.644944, 0
 1, sexist dress standards, 0.790135, 1

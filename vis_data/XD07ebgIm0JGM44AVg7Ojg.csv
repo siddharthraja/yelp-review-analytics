@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, good cask beers, 0.892266, 0
 3, trendy London pub, 0.892209, 0
 3, Nice new Belfast, 0.959964, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great reviews, 0.827204, 0
 1, bartender, 0.557538, 0
 1, bloody Mary, 0.993463, 2

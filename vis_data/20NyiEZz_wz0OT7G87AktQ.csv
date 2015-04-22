@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Terrible Starbucks, 0.875782, 0
 1, customer service industry, 0.69084, 0
 1, orange soda, 0.803261, 1

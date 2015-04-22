@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, yellow orange grease, 0.856928, 0
 1, WORST pizza, 0.698011, 0
 1, greasy oily mess, 0.860307, 1

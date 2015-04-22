@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, excellent bar options, 0.683103, 0
 1, crazy-ass customers, 0.651553, 0
 1, idiot security guard, 0.634439, 1

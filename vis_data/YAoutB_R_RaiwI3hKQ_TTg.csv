@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, ice berg lettuce, 0.769898, 0
 1, entire little cup, 0.755086, 0
 1, ranch dressing, 0.765416, 1

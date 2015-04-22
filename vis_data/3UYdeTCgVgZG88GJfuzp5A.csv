@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poorly managed restaraunt, 0.960545, 0
 1, opinion, 0.623408, 0
 1, drinks, 0.640149, 2

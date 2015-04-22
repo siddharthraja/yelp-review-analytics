@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, BBQ chicken pizza, 0.729085, 0
 1, credit card machine, 0.721494, 0
 1, bad pizza, 0.754054, 1

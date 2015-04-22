@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pitcher, 0.532415, 0
 1, table, 0.479329, 0
 1, bar, 0.676644, 1

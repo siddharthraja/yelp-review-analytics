@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Nice big bar, 0.692288, 0
 1, avacado turkey sandwhich, 0.686278, 0
 1, crap service, 0.561796, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, low grade, 0.697254, 0
 1, extreme disappointment, 0.694088, 0
 1, improper venue layout, 0.891577, 1

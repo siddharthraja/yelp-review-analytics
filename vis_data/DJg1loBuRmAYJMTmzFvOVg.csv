@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, light rail, 0.613803, 0
 1, margarita, 0.446399, 0
 1, nachos, 0.931338, 1

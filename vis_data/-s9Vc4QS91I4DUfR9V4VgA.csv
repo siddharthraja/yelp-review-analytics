@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, run-down Putter, 0.756984, 0
 1, regular faces, 0.682164, 0
 1, warehouse, 0.45427, 1

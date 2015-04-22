@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hate HATE hair, 0.931246, 0
 1, Wisconsin spicy, 0.838009, 0
 1, awful experience, 0.968813, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, rude waitress, 0.824227, 0
 1, better customer service, 0.748551, 0
 1, horrible service, 0.811452, 1

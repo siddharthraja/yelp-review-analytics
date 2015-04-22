@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, poor customer service, 0.932032, 0
 1, flesh baring ladies, 0.795874, 0
 1, customer service, 0.94403, 1

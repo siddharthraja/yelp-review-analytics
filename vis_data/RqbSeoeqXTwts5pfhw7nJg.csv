@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst Mexican food, 0.644822, 0
 1, again..EVER Terrible customer, 0.612193, 0
 1, entire thing, 0.447997, 1

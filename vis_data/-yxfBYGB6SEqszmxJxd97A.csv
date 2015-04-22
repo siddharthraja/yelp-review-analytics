@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, final meat course, 0.722329, 0
 1, dining experience, 0.706959, 0
 1, senior prom date, 0.710444, 1

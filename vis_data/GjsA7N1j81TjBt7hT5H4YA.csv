@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, FOOD POISONING, 0.550925, 0
 1, favorite place, 0.544078, 0
 1, money laundering scam, 0.80493, 1

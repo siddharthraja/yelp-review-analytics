@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bar food kind, 0.522192, 0
 1, possible customer service, 0.493432, 0
 1, customer service, 0.605965, 1

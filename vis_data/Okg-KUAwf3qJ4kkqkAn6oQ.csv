@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, smoky sports bar, 0.84155, 0
 2, extra-inning baseball game, 0.765156, 0
 2, Typical bar food, 0.75423, 1

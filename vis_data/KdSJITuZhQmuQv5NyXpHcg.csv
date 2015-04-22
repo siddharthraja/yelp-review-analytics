@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, stale cigarette, 0.676053, 0
 1, inhale tons, 0.651849, 0
 1, second-hand smoke, 0.903691, 1

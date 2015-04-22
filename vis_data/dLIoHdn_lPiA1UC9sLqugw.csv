@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, middle eastern grocery, 0.899138, 0
 2, gun shop, 0.489427, 0
 2, little bit crummy, 0.918928, 1

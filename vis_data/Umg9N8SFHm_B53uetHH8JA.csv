@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Hail Mary burrito, 0.903373, 0
 1, bitchy bar managers, 0.841307, 0
 1, Sports bar wan, 0.875335, 1

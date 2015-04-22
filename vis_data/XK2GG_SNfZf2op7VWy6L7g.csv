@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, temperature preference, 0.597409, 0
 1, tapas, 0.337355, 0
 1, raw chicken, 0.963824, 1

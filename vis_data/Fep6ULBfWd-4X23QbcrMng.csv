@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, great service, 0.511923, 0
 1, domestic beers, 0.461806, 0
 1, bartender, 0.902402, 1

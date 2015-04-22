@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, pretty small BM, 0.994289, 0
 2, Chip S., 0.799216, 0
 2, weird quirk, 0.790353, 1

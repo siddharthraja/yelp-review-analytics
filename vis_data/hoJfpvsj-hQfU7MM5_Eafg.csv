@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, undivided attention, 0.768152, 0
 1, worse food, 0.70557, 0
 1, service, 0.768681, 1

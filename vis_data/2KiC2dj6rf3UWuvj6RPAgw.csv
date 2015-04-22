@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, beer menu, 0.710331, 0
 1, crappy cocktail, 0.698985, 0
 1, Tempest, 0.992865, 1

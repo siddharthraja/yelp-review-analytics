@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Centennial Hills Pkwy, 0.645758, 0
 1, food service Industry, 0.620663, 0
 1, service, 0.800908, 1

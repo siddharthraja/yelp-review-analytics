@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, breakfast crowd rush, 0.817915, 0
 1, car booth table, 0.797309, 0
 1, single menu, 0.868976, 1

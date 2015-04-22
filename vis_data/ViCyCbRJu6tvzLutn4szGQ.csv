@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Beer Geek Brunch, 0.871211, 0
 3, bottled beers, 0.738122, 0
 3, good beer, 0.736668, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible customer service, 0.976702, 0
 1, friends birthday, 0.745856, 0
 1, Horrible experience, 0.810496, 1

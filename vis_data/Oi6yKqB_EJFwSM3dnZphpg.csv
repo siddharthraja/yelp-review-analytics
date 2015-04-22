@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Cool little place, 0.908912, 0
 3, attention, 0.465447, 0
 3, surface parking, 0.66102, 1

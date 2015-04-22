@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Grey Goose drinks, 0.540494, 0
 1, waitress shift change, 0.498609, 0
 1, bourbon room, 0.736503, 1

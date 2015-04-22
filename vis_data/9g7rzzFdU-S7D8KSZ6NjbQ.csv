@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Bad neighborhood, 0.814992, 0
 1, patronage, 0.557684, 0
 1, pretentious places, 0.978536, 1

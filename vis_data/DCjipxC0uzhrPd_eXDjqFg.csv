@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, Food, 0.479703, 0
 2, elderly family, 0.858851, 1
 2, Waitress, 0.684025, 1

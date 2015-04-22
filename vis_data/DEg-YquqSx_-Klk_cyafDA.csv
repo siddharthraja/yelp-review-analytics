@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, security guard, 0.974347, 0
 1, tough guy security, 0.895591, 0
 1, horrible experience, 0.90491, 1

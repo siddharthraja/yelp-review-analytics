@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Greasy nasty food, 0.736566, 0
 1, poor poor service, 0.719459, 0
 1, bad service, 0.589047, 1

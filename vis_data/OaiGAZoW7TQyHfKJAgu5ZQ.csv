@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, drink order, 0.753768, 0
 1, entire night waitress, 0.730271, 0
 1, worst bartender service, 0.768421, 1

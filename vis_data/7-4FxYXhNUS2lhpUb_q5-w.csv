@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hot wings, 0.833532, 0
 1, favorite dive bar, 0.714061, 0
 1, Wrong location, 0.502038, 1

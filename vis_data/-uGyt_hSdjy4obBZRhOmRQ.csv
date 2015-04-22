@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible excuse, 0.790545, 0
 1, Poor service, 0.774079, 0
 1, enchilada sauce, 0.771413, 1

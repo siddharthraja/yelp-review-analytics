@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, George Street prices, 0.607735, 0
 3, town tenement house, 0.595132, 0
 3, decent time, 0.501833, 1

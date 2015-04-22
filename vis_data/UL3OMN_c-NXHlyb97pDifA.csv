@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Awful customer service, 0.569645, 0
 1, worst dining experience, 0.552336, 0
 1, unbelievably horrible service, 0.564447, 1

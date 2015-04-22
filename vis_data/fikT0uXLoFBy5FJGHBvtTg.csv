@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, horrible horrible service, 0.890646, 0
 1, bad service, 0.885109, 0
 1, rude rude rude, 0.989717, 1

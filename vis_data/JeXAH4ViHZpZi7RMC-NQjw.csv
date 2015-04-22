@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible customer service, 0.716476, 0
 1, late night menu, 0.708739, 0
 1, corn dog, 0.945693, 1

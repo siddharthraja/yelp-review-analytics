@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, true glutton, 0.716349, 0
 1, New Jersey, 0.673792, 0
 1, extremely low rent, 0.955851, 1

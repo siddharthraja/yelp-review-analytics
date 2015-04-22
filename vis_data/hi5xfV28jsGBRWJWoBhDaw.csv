@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, worst customer service, 0.890884, 0
 1, hand sanitizer, 0.755993, 0
 1, sad thing, 0.698292, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, tasting wing sauce, 0.584989, 0
 1, idea shift manager, 0.578652, 0
 1, food order, 0.705571, 1

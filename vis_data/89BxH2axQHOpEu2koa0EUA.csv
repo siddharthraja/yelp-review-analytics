@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, lunch, 0.593326, 0
 2, buzz, 0.589543, 0
 2, bit, 0.59205, 1

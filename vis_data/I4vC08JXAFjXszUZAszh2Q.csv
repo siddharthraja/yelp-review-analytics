@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, wait staff, 0.555682, 0
 1, biker bar food, 0.532201, 0
 1, middle aged soccer, 0.525419, 1

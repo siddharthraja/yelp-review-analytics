@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Billet Bar, 0.998478, 1
 2, nice bikes, 0.722829, 0
 2, smoke cigs, 0.640681, 0

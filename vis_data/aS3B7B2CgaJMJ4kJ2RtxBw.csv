@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, swamp cooler, 0.762732, 0
 1, air condition, 0.729998, 0
 1, worst service, 0.668921, 1

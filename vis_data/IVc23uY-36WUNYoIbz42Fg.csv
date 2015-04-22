@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, mediocre food, 0.795651, 0
 1, Unbelievably rude service, 0.737984, 0
 1, good food, 0.742618, 1

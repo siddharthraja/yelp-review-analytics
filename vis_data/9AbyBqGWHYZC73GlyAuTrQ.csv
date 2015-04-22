@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, sour taste, 0.587955, 0
 1, scalloped potatoes, 0.587872, 0
 1, special anniversary dinner, 0.694145, 1

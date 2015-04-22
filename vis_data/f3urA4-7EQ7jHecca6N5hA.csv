@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, uncaring bartenders, 0.967768, 0
 1, Irish whiskey, 0.931148, 0
 1, business, 0.443017, 1

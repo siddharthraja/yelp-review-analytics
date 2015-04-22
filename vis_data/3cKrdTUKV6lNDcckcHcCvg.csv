@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, liquor selection, 0.937265, 2
 1, return trip, 0.848122, 2
 2, posh velvet seats, 0.926574, 0

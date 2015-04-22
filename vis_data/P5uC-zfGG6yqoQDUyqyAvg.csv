@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, warm crap wine, 0.744702, 0
 1, middle eastern music, 0.737446, 0
 1, uncomfortable high tops, 0.751499, 1

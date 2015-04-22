@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, online reservation comment, 0.887368, 0
 1, young hip couple, 0.875896, 0
 1, arrogant owner/manager, 0.729103, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, iced latte, 0.594376, 0
 1, coffee drink, 0.490868, 0
 1, coffee grounds, 0.634195, 1

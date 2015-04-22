@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, overwhelming brown tones, 0.900725, 0
 2, truth, 0.291376, 0
 2, opinion, 0.303886, 1

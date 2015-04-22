@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, pumpkin pie, 0.654417, 0
 1, floor cleaner flavor., 0.650193, 0
 1, overpriced hookah, 0.672226, 1

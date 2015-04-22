@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, different red wines, 0.807051, 0
 1, knowledge, 0.292794, 2
 1, red wine list, 0.755899, 3

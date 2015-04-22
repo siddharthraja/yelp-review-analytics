@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, Las Vegas, 0.927878, 0
 3, Las Vegas showrooms, 0.857505, 0
 3, cocktail waitress, 0.586775, 2

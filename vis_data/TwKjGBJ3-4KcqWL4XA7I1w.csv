@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 5, best meal, 0.955475, 0
 5, gem, 0.78644, 0
 5, Phoenix, 0.62493, 6

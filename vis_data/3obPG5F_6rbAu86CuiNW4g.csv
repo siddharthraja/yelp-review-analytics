@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, bad experience, 0.745727, 0
 1, usual older clientele, 0.675748, 0
 1, terrible food, 0.560222, 1

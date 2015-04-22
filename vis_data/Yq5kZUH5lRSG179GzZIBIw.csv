@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, unpleasant food, 0.635726, 0
 1, Horrible place, 0.601656, 0
 1, poor neighbors, 0.61995, 1

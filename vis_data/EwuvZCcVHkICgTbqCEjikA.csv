@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, typical Irish dishes, 0.923122, 0
 1, Irish Pub, 0.508984, 0
 1, school lunchroom, 0.601687, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Famous Sam, 0.76683, 0
 1, good service, 0.696038, 0
 1, BIG mistake, 0.884013, 1

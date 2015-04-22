@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, customer service, 0.576796, 0
 1, poor management, 0.563125, 0
 1, Bad meal, 0.939862, 1

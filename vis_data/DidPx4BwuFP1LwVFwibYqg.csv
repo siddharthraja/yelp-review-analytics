@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 4, real ale pub, 0.705978, 0
 4, middle-to older crowd, 0.657847, 0
 4, gay bar, 0.780218, 1

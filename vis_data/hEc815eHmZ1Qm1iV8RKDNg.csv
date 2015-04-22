@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Mandalay Bay, 0.930611, 0
 1, past weekend, 0.842934, 0
 1, single bottle, 0.839336, 2

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Great neighborhood spot, 0.915301, 6
 1, quality food, 0.466857, 7
 1, smaller menu, 0.606333, 8

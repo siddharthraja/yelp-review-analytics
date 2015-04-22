@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, counter type seating, 0.981941, 0
 1, maybe private events, 0.969007, 0
 1, regulars, 0.389006, 1

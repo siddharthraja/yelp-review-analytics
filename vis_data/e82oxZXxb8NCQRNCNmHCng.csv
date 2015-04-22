@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, hot new club, 0.782802, 0
 1, Small dance floor, 0.715304, 0
 1, bad yelp review, 0.735695, 1

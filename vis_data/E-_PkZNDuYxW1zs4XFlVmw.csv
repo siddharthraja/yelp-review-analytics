@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Classy Catherine, 0.586232, 0
 1, bad attitude, 0.550173, 1
 1, Plenty, 0.290082, 1

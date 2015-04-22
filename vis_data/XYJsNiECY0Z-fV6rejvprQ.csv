@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, brutal food poisoning, 0.950543, 0
 1, nasty DUMP, 0.875504, 0
 1, horrific stomach pain, 0.950649, 1

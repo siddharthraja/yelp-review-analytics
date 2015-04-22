@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 3, good social event, 0.932112, 0
 3, little TLC, 0.740945, 0
 3, cheap liquor, 0.782446, 3

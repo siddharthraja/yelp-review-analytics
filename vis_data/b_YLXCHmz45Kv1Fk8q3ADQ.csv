@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, big positives, 0.720952, 0
 2, downside, 0.367192, 3
 2, little snooty, 0.690141, 6

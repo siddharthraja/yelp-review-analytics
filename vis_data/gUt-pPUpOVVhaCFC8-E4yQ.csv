@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, large sushi platters, 0.645355, 0
 1, order sushi, 0.62234, 0
 1, worst sushi place, 0.673047, 1

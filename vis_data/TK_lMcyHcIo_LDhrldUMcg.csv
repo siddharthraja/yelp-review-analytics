@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, physical manner, 0.738119, 0
 1, correct door, 0.716547, 0
 1, assault charge, 0.728428, 1

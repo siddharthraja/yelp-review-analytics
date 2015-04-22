@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, house gins, 0.55537, 0
 1, plant pot, 0.519621, 0
 1, fake posh boy, 0.975664, 1

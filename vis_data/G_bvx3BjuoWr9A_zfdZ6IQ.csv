@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, wrong food item, 0.835076, 0
 1, crappy local bars, 0.817216, 0
 1, crappy bar lunch, 0.797712, 1

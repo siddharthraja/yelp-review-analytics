@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, terrible choice, 0.975788, 2
 1, Bartender, 0.560758, 2
 1, Cold Beer, 0.729124, 6

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, vacant seats, 0.722456, 0
 1, awful service, 0.674853, 0
 1, simple drink order, 0.990146, 1

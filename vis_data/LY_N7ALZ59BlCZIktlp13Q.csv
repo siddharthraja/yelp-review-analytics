@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, new kitchen staff, 0.829651, 0
 1, Irish themed restaurant, 0.781568, 0
 1, worst dining experiences, 0.821683, 1

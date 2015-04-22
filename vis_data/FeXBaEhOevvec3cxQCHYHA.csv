@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Horrible place, 0.989641, 0
 1, good wine, 0.78834, 0
 1, different wineries, 0.931774, 1

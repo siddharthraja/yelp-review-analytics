@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, rude bartenders, 0.915849, 1
 1, Terrible place, 0.853023, 1
 1, punk kid, 0.869867, 2

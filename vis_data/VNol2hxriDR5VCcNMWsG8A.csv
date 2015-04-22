@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, Gone., 0.964739, 1
 4, Milli Vanilli, 0.780191, 0
 4, MC Hammer, 0.61986, 0

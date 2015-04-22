@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 2, good dining experience, 0.646411, 0
 2, takeout, 0.27232, 0
 2, food, 0.270165, 2

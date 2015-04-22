@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, smoky loud bar, 0.667561, 0
 1, margarita pitcher, 0.517688, 0
 1, bar service, 0.530646, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, waiter number, 0.971277, 0
 1, new vodka names, 0.92192, 0
 1, live band, 0.796603, 1

@@ -1,4 +1,4 @@
-rating, keyword, relevance, bucket
+rating,keyword,relevance,bucket
 1, neighborhood coffee shop, 0.726615, 0
 1, pepper tomato quiche, 0.71926, 0
 1, nope nope nope, 0.928656, 1
