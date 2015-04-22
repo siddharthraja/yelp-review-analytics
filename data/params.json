@@ -1,0 +1,318 @@
+var paramsBackup =
+[
+{
+"State": "1 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"State": "1 Star",
+"Strongly Negative": "100",
+"Strongly Positive": "100",
+"ages": [
+	{
+	"name": "Extremely Negative",
+	"yo": 0,
+	"y1": 100
+	},
+		{
+	"name": "Strongly Negative",
+	"yo": 100,
+	"y1": 200
+	},
+		{
+	"name": "Negative",
+	"yo": 200,
+	"y1": 300
+	},
+		{
+	"name": "Slightly Negative",
+	"yo": 300,
+	"y1": 400
+	},
+		{
+	"name": "Neutral",
+	"yo": 400,
+	"y1": 600
+	},
+		{
+	"name": "Slightly Positive",
+	"yo": 600,
+	"y1": 700
+	},
+		{
+	"name": "Positive",
+	"yo": 700,
+	"y1": 800
+	},
+		{
+	"name": "Strongly Positive",
+	"yo": 800,
+	"y1": 900
+	},
+		{
+	"name": "Extremely Positive",
+	"yo": 900,
+	"y1": 1000
+	}
+],
+"total": 1000
+
+},
+
+{
+"State": "2 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"State": "1 Star",
+"Strongly Negative": "100",
+"Strongly Positive": "100",
+"ages": [
+	{
+	"name": "Extremely Negative",
+	"yo": 0,
+	"y1": 100,
+	},
+		{
+	"name": "Strongly Negative",
+	"yo": 100,
+	"y1": 200
+	},
+		{
+	"name": "Negative",
+	"yo": 200,
+	"y1": 300
+	},
+		{
+	"name": "Slightly Negative",
+	"yo": 300,
+	"y1": 400
+	},
+		{
+	"name": "Neutral",
+	"yo": 400,
+	"y1": 600
+	},
+		{
+	"name": "Slightly Positive",
+	"yo": 600,
+	"y1": 700
+	},
+		{
+	"name": "Positive",
+	"yo": 700,
+	"y1": 800
+	},
+		{
+	"name": "Strongly Positive",
+	"yo": 800,
+	"y1": 900
+	},
+		{
+	"name": "Extremely Positive",
+	"yo": 900,
+	"y1": 1000
+	}
+],
+"total": 1000
+
+},
+
+{
+"State": "3 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"State": "1 Star",
+"Strongly Negative": "100",
+"Strongly Positive": "100",
+"ages": [
+	{
+	"name": "Extremely Negative",
+	"yo": 0,
+	"y1": 100
+	},
+		{
+	"name": "Strongly Negative",
+	"yo": 100,
+	"y1": 200
+	},
+		{
+	"name": "Negative",
+	"yo": 200,
+	"y1": 300
+	},
+		{
+	"name": "Slightly Negative",
+	"yo": 300,
+	"y1": 400
+	},
+		{
+	"name": "Neutral",
+	"yo": 400,
+	"y1": 600
+	},
+		{
+	"name": "Slightly Positive",
+	"yo": 600,
+	"y1": 700
+	},
+		{
+	"name": "Positive",
+	"yo": 700,
+	"y1": 800
+	},
+		{
+	"name": "Strongly Positive",
+	"yo": 800,
+	"y1": 900
+	},
+		{
+	"name": "Extremely Positive",
+	"yo": 900,
+	"y1": 1000
+	}
+],
+"total": 1000
+
+},
+
+{
+"State": "4 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"State": "1 Star",
+"Strongly Negative": "100",
+"Strongly Positive": "100",
+"ages": [
+	{
+	"name": "Extremely Negative",
+	"yo": 0,
+	"y1": 100
+	},
+		{
+	"name": "Strongly Negative",
+	"yo": 100,
+	"y1": 200
+	},
+		{
+	"name": "Negative",
+	"yo": 200,
+	"y1": 300
+	},
+		{
+	"name": "Slightly Negative",
+	"yo": 300,
+	"y1": 400
+	},
+		{
+	"name": "Neutral",
+	"yo": 400,
+	"y1": 600
+	},
+		{
+	"name": "Slightly Positive",
+	"yo": 600,
+	"y1": 700
+	},
+		{
+	"name": "Positive",
+	"yo": 700,
+	"y1": 800
+	},
+		{
+	"name": "Strongly Positive",
+	"yo": 800,
+	"y1": 900
+	},
+		{
+	"name": "Extremely Positive",
+	"yo": 900,
+	"y1": 1000
+	}
+],
+"total": 1000
+
+},
+
+{
+"State": "5 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"State": "1 Star",
+"Strongly Negative": "100",
+"Strongly Positive": "100",
+"ages": [
+	{
+	"name": "Extremely Negative",
+	"yo": 0,
+	"y1": 100
+	},
+		{
+	"name": "Strongly Negative",
+	"yo": 100,
+	"y1": 200
+	},
+		{
+	"name": "Negative",
+	"yo": 200,
+	"y1": 300
+	},
+		{
+	"name": "Slightly Negative",
+	"yo": 300,
+	"y1": 400
+	},
+		{
+	"name": "Neutral",
+	"yo": 400,
+	"y1": 600
+	},
+		{
+	"name": "Slightly Positive",
+	"yo": 600,
+	"y1": 700
+	},
+		{
+	"name": "Positive",
+	"yo": 700,
+	"y1": 800
+	},
+		{
+	"name": "Strongly Positive",
+	"yo": 800,
+	"y1": 900
+	},
+		{
+	"name": "Extremely Positive",
+	"yo": 900,
+	"y1": 1000
+	}
+],
+"total": 1000
+
+}
+
+]

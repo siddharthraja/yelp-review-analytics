@@ -1,111 +1,176 @@
-function createVis(business_id){
+function createVis(){
 
-
-var margin = {top: 20, right: 90, bottom: 30, left: 50},
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    height = 700 - margin.top - margin.bottom;
 
-var parseDate = d3.time.format("%Y-%m-%d").parse,
-    formatDate = d3.time.format("%b %d");
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
 
-var x = d3.time.scale().range([0, width]),
-    y = d3.scale.linear().range([height, 0]),
-    z = d3.scale.linear().range(["white", "steelblue"]);
+var y = d3.scale.linear()
+    .rangeRound([height, 0]);
 
-// The size of the buckets in the CSV data file.
-// This could be inferred from the data if it weren't sparse.
-var xStep = 864e5,
-    yStep = 100;
+var color = d3.scale.ordinal()
+    //.range(["#cb181d", "#fb6a4a", "#fcae91", "#fee5d9", "#ffffb2", "#edf8e9", "#bae4b3", "#74c476", "#238b45"]);
+	.range(["#d73027","#f46d43","#fdae61","#fee08b","#ffffbf","#d9ef8b","#a6d96a","#66bd63","#1a9850"]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickFormat(d3.format(".2s"));
 
 var svg = d3.select("#VisBody").append("svg")
-    .attr("width", width + margin.left + margin.right)
+    .attr("width", width + margin.left + margin.right+ 100)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("data/data.csv", function(buckets) {
+d3.csv("data/data.csv", function(error, data) {
 
-  // Coerce the CSV data to the appropriate types.
-  buckets.forEach(function(d) {
-    d.date = parseDate(d.date);
-    d.bucket = +d.bucket;
-    d.count = +d.count;
+  color.domain(d3.keys(data[0]).filter(function(key) { return key !== "State"; }));
+
+  data.forEach(function(d) {
+    var y0 = 0;
+    d.ages = color.domain().map(function(name) { return {name: name, y0: y0, y1: y0 += +d[name]}; });
+    d.total = d.ages[d.ages.length - 1].y1;
   });
 
-  // Compute the scale domains.
-  x.domain(d3.extent(buckets, function(d) { return d.date; }));
-  y.domain(d3.extent(buckets, function(d) { return d.bucket; }));
-  z.domain([0, d3.max(buckets, function(d) { return d.count; })]);
 
-  // Extend the x- and y-domain to fit the last bucket.
-  // For example, the y-bucket 3200 corresponds to values [3200, 3300].
-  x.domain([x.domain()[0], +x.domain()[1] + xStep]);
-  y.domain([y.domain()[0], y.domain()[1] + yStep]);
+  data.sort(function(a, b) { return b.total - a.total; });
 
-  // Display the tiles for each non-zero bucket.
-  // See http://bl.ocks.org/3074470 for an alternative implementation.
-  svg.selectAll(".tile")
-      .data(buckets)
-    .enter().append("rect")
-      .attr("class", "tile")
-      .attr("x", function(d) { return x(d.date); })
-      .attr("y", function(d) { return y(d.bucket + yStep); })
-      .attr("width", x(xStep) - x(0))
-      .attr("height",  y(0) - y(yStep))
-      .style("fill", function(d) { return z(d.count); });
+  x.domain(data.map(function(d) { return d.State; }));
+  y.domain([0, d3.max(data, function(d) { return d.total; })]);
 
-  // Add a legend for the color values.
-  var legend = svg.selectAll(".legend")
-      .data(z.ticks(6).slice(1).reverse())
-    .enter().append("g")
-      .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(" + (width + 20) + "," + (20 + i * 20) + ")"; });
-
-  legend.append("rect")
-      .attr("width", 20)
-      .attr("height", 20)
-      .style("fill", z);
-
-  legend.append("text")
-      .attr("x", 26)
-      .attr("y", 10)
-      .attr("dy", ".35em")
-      .text(String);
-
-  svg.append("text")
-      .attr("class", "label")
-      .attr("x", width + 20)
-      .attr("y", 10)
-      .attr("dy", ".35em")
-      .text("Count");
-
-  // Add an x-axis with label.
   svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
-      .call(d3.svg.axis().scale(x).ticks(d3.time.days).tickFormat(formatDate).orient("bottom"))
-    .append("text")
-      .attr("class", "label")
-      .attr("x", width)
-      .attr("y", -6)
-      .attr("text-anchor", "end")
-      .text("Date");
+      .call(xAxis);
 
-  // Add a y-axis with label.
-  svg.append("g")
+/*   svg.append("g")
       .attr("class", "y axis")
-      .call(d3.svg.axis().scale(y).orient("left"))
+      .call(yAxis)
     .append("text")
-      .attr("class", "label")
+      .attr("transform", "rotate(-90)")
       .attr("y", 6)
       .attr("dy", ".71em")
-      .attr("text-anchor", "end")
-      .attr("transform", "rotate(-90)")
-      .text("Value");
-});
+      .style("text-anchor", "end"); */
 
+  var state = svg.selectAll(".state")
+      .data(data)
+    .enter().append("g")
+      .attr("class", "g")
+      .attr("transform", function(d) { return "translate(" + x(d.State) + ",0)"; });
+
+  state.selectAll("rect")
+      .data(function(d) { return d.ages; })
+	  .enter().append("rect")
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.y1); })
+      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+      .style("fill", function(d) { return color(d.name); });
+
+  var legend = svg.selectAll(".legend")
+      .data(color.domain().slice().reverse())
+      .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+  legend.append("rect")
+      .attr("x", width + 10)
+      .attr("y", 20)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color);
+
+  legend.append("text")
+      .attr("x", width + 30)
+      .attr("y", 30)
+      .attr("dy", ".35em")
+      //.style("text-anchor", "end")
+      .text(function(d) { return d; });
+	  
+	svg.append("text")
+      .attr("class", "title")
+      .attr("x", width + 7)
+      .attr("y", 7)
+      .attr("font-weight", "bold")
+      .attr("font-size", "12px")
+      .text("Sentiment");
+
+});
 
 
 
 // end createVis function
 }
+
+
+var preData =
+[
+{
+"State": "1 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "2 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "3 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "4 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "5 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+}
+
+
+]
