@@ -131,11 +131,13 @@ input:focus {
 </body>	
 <script>
 var currentBiz = "None";
-function createBizVis(bizName, bizId){
-		console.log(bizId);
+var biz;
+
+function createBizVis(bizName, bizId, stars){
+		//console.log(stars);
 		$("#VisSection").removeClass("hide");
 		$("#VisSection").addClass("show");
-		$("#VisSectionHeader").html(bizName);
+		$("#VisSectionHeader").html(bizName+" <small>Overall Rating "+stars+"</small>");
 		if(currentBiz != bizName){
 			currentBiz = bizName;
 			$("#VisBody").html("");
@@ -191,9 +193,10 @@ function recommend(keyword)
 				{
 						var name = names[keyword_data[keyword][i]['business_id']];
 						var id = keyword_data[keyword][i]['business_id'];
+						var starr = biz[document.getElementById('tags').value][i]['stars'];
 						if(names[keyword_data[keyword][i]['business_id']] != undefined)
 						{
-							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
+							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\", \""+starr+"\");\'>" + name + " <small>(" + starr + " stars)</small>" + "</a></li>";     
 							count ++;
 						}
 						if(count == 5)
@@ -273,7 +276,8 @@ function showBusinesses()
 			}
 			name = categories_json[category][i]['name'].replace(/'/g, "");
 			id = categories_json[category][i]['business_id'];
-			str += "<li><a id=\"searchRes\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + categories_json[category][i]['name'] + "</a></li>";
+			stars = categories_json[category][i]['stars'];
+			str += "<li><a id=\"searchRes\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\", \"" + stars + "\");\'>" + categories_json[category][i]['name'] + "</a></li>";
 		}
 		str+="</ul></td></tr></table><br/>";
 		str = '<br/><b>Search Results</b> ('+ count + ' results retrieved)<br/><br/>' + str;
@@ -290,7 +294,7 @@ $(document).ready(function() {
 
      	categories_json = JSON.parse(data)
      	//categories = []
-     	
+     	biz = categories_json;
      	for(category in categories_json)
      	{
      		categories.push(category);
