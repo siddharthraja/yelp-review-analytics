@@ -187,12 +187,16 @@ function listPopulate(featuresList){
 	var count = 0;
 	var str = '';
 	str += "<h3>Features</h3>";
+	str += "<table><tr><td style=\"vertical-align:top;\"><ul>";
 	for (var key in featuresList) {	
 		count++;
+		if(count%20==0){
+			str+="</ul></td><td style=\"vertical-align:top;\"><ul>";
+		}
 		featuresList[key] = count;
-		str += "<p id=\"keyword" + featuresList[key] + "\" style=\"font-size:14px;\">"+key+"</p>";
+		str += "<li><p id=\"keyword" + featuresList[key] + "\" style=\"font-size:14px;\">"+key+"</p></li>";
 	}
-	//str += "</ul>";
+	str+="</ul></td></tr></table><br/>";
 	document.getElementById('FeatureList').innerHTML = str;
 	mainFeatureList = featuresList;
 	
@@ -203,15 +207,19 @@ function listLinking(key){
 	var count = 0;
 	var str = '';
 	str += "<h3>Features</h3>";
+	str += "<table><tr><td style=\"vertical-align:top;\"><ul>";
 	for (var k in mainFeatureList) {	
 		count++;
+		if(count%20==0){
+			str+="</ul></td><td style=\"vertical-align:top;\"><ul>";
+		}
 		mainFeatureList[k] = count;
 		if(k == key)
-			str += "<p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;background-color:lightblue;\">"+k+"</p>";
+			str += "<li><p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;background-color:lightblue;\"><b>"+k+"</b></p></li>";
 		else
-			str += "<p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;\">"+k+"</p>";
+			str += "<li><p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;\">"+k+"</p></li>";
 	}
-	//str += "</ul>";
+	str+="</ul></td></tr></table><br/>";
 	document.getElementById('FeatureList').innerHTML = str;
 	//$(idstr).css({'background-color':'yellow'});​
 	recommend(key);
