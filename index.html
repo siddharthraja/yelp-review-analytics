@@ -132,7 +132,7 @@ input:focus {
 <script>
 var currentBiz = "None";
 function createBizVis(bizName, bizId){
-
+		console.log(bizId);
 		$("#VisSection").removeClass("hide");
 		$("#VisSection").addClass("show");
 		$("#VisSectionHeader").html(bizName);
@@ -170,7 +170,42 @@ function recommend(keyword)
 {
 
 	var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", 'data/categories_keywords.json', false);
+	d3.json('data/categories_keywords.json', function(error, keyword_data) {
+		//console.log(data);
+		//console.log(data[keyword]);
+		console.log("000"+keyword);
+		keyword = keyword.trim();
+		if(keyword_data[keyword] == null || String(keyword_data[keyword]) == 'undefined')
+		{
+			document.getElementById('Recommend').innerHTML = "<h4>No businesses found for this keyword</h4>";
+			
+		}
+		else{
+				console.log('HERE;');
+				str = "<ul style='left:50px'><font size ='4'>"
+				keyword_data[keyword].sort(function(a, b) { 
+				return a.relevance > b.relevance ? 1 : -1;
+				});
+				var count = 0;
+				for(i = keyword_data[keyword].length - 1; i >= 0; i--)
+				{
+						var name = names[keyword_data[keyword][i]['business_id']];
+						var id = keyword_data[keyword][i]['business_id'];
+						if(names[keyword_data[keyword][i]['business_id']] != undefined)
+						{
+							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
+							count ++;
+						}
+						if(count == 5)
+						{
+							break;
+						}               		
+				}
+				str += "</font></ul>";
+				document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may want to check out! (based on "+ keyword + ")</h4>" + "<br/>" + str;
+			}
+	});
+    /*rawFile.open("GET", 'data/categories_keywords.json', false);
     rawFile.onreadystatechange = function ()
     {
         if(rawFile.readyState === 4)
@@ -181,9 +216,19 @@ function recommend(keyword)
             	//alert("hello "+ names["UsFtqoBl7naz8AVUBZMjQQ"]);
                 var allText = rawFile.responseText;
                 allText.replace("'", "");
+                console.log("###############"+keyword);
+
                 var keyword_data = JSON.parse(allText);
-				console.log(".............."+keyword_data[keyword]);
-				if(keyword_data[keyword] == null || String(keyword_data[keyword]) == undefined)
+                if (keyword_data == undefined){
+                	console.log('tU-YtoW339PXJmUGSix_AQ$$$$$$$$$$$$$')
+                	console.log(keyword);
+                }
+                s = "" + keyword;
+				if(keyword in keyword_data)
+				{
+					console.log("&&&&&&&&&&&&&&&&&&&&&77");
+				}
+				if(keyword_data[keyword] == null || String(keyword_data[keyword]) == 'undefined')
 					document.getElementById('Recommend').innerHTML = "<h4>No businesses found for this keyword</h4>";
 				//else{
 					keyword_data[keyword].sort(function(a, b) { 
@@ -210,7 +255,7 @@ function recommend(keyword)
             }
         }
     }
-    rawFile.send(null);
+    rawFile.send(null);*/
 }
 function showBusinesses()
 	{
