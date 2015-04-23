@@ -142,26 +142,32 @@ function plotFeatures(svg, id, xshift, xstart, yshift, ystart){
 				
 
 				//featuresList.push(String(d.keyword)); 
+				wrap = 0;
 				bkt = Number(d.bucket);
 				//if(bkt == 4) bkt = 5;
 				gridCount[9-bkt][Number(d.rating)-1] +=  1;
 				yf = (9 - parseInt(d.bucket)) * yshift + ystart + (Number(gridCount[9-bkt][Number(d.rating)-1]) * 16);
 				xf = (parseInt(d.rating)-1) * (xshift + xstart) + 25;
-				if(Number(d.relevance) >= 0.75) fsize = "15px";
-				else if(Number(d.relevance) >= 0.5) fsize = "14px";
-					else if(Number(d.relevance) >= 0.25) fsize = "12px";
+				if(Number(d.relevance) >= 0.75) {fsize = "16px";wrap=15;}
+				else if(Number(d.relevance) >= 0.5) {fsize = "14px";wrap=18;}
+					else if(Number(d.relevance) >= 0.25) {fsize = "12px";wrap=35;}
 						else fsize = "10px";
 				//if (isNaN(yf)) console.log(Number(d.rating)+"|"+bkt+"|"+yf + "|" + gridCount[9-bkt][Number(d.rating)-1]);
-
+				l = d.keyword;
+				if(d.keyword.length > wrap){
+					l = l.substring(0, wrap)+"...";
+				}
 				svg.append("text")
 				  .attr("class", "featureLabel")
 				  .attr("x", xf)
 				  .attr("y", yf)
 				  .attr("width", "158px")
 				  .attr("font-size", fsize) 
-				  .text(d.keyword)
+				  .text(l)
 				  .style("cursor", "pointer")
-				  .on("click", function() { listLinking(String(d.keyword)) });	
+				  .on("click", function() { listLinking(String(d.keyword)) })
+				  .on("mouseover", function() { d3.select(this).style("font-size", "22px") })      
+				  .on("mouseout",  function() { d3.select(this).style("font-size", fsize) });
 				
 
 				  
@@ -187,14 +193,14 @@ function listPopulate(featuresList){
 	var count = 0;
 	var str = '';
 	str += "<h3>Features</h3>";
-	str += "<table><tr><td style=\"vertical-align:top;\"><ul>";
+	str += "<table><tr><td style=\"vertical-align:top;padding-right: 10px;\"><ul>";
 	for (var key in featuresList) {	
 		count++;
 		if(count%20==0){
-			str+="</ul></td><td style=\"vertical-align:top;\"><ul>";
+			str+="</ul></td><td style=\"vertical-align:top;padding-right: 10px;\"><ul>";
 		}
 		featuresList[key] = count;
-		str += "<li><p id=\"keyword" + featuresList[key] + "\" style=\"font-size:14px;\">"+key+"</p></li>";
+		str += "<li><a href=\"#\" onclick=\"recommend('"+key+"');\" id=\"keyword" + featuresList[key] + "\" style=\"font-size:14px;\">"+key+"</a></li>";
 	}
 	str+="</ul></td></tr></table><br/>";
 	document.getElementById('FeatureList').innerHTML = str;
@@ -215,9 +221,9 @@ function listLinking(key){
 		}
 		mainFeatureList[k] = count;
 		if(k == key)
-			str += "<li><p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;background-color:lightblue;\"><b>"+k+"</b></p></li>";
+			str += "<li><a href=\"javascript:recommend('"+k+"');return false;\" id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;background-color:lightblue;\"><b>"+k+"</b></a></li>";
 		else
-			str += "<li><p id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;\">"+k+"</p></li>";
+			str += "<li><a href=\"javascript:recommend('"+k+"');return false;\" id=\"keyword" + mainFeatureList[k] + "\" style=\"font-size:14px;\">"+k+"</a></li>";
 	}
 	str+="</ul></td></tr></table><br/>";
 	document.getElementById('FeatureList').innerHTML = str;
