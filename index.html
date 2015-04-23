@@ -102,28 +102,28 @@ input:focus {
 	
 	<div id="SearchBox">
 		<div id = 'query_div'>
-			<h4>Type in a business category </h4>
+			<br/>Enter business category <br/>
 			<input type='text' title='Tags' id='tags' />
 			<button style="margin-left:10px;height:40" id = 'getCategory' onclick ="showBusinesses()">Search</button>
 		</div>
 
 		<div id ="results_div">
-			<!-- <h6><b>Search Results</b></h6> -->
+			<br /><b>Search Results</b>
 		</div>
 
 	</div>
 	
 	<div id="VisSection" class="hide" style="left=50px;">
-		<h3 id="VisSectionHeader" style="margin-left:70px;">Select a business to <i><b>see</b></i> its review</h3>
+		<h3 id="VisSectionHeader">Select a business to <i><b>see</b></i> its review</h3>
 		<div id="LeftSide" style="float:left;margin-left:10px;">
 			<div id="VisBody" style="width:1100px;"></div>
-			<div id="Recommend" style="margin-left:40px;">  <!-- onclick = "recommend('draft beer selection')" style="width:500px;height:200px;border-style: solid;border-width: 5px;"> -->
-				<h4>Click on any feature to see business recommendations!</h4>
+			<div id="Recommend">  <!-- onclick = "recommend('draft beer selection')" style="width:500px;height:200px;border-style: solid;border-width: 5px;"> -->
+				<h4>Similar businesses you may want to check out!</h4>
 			</div>
 		</div>
 		<div id="RightSide" style="float:right;">
-			<div class="fList" id="FeatureList" style="width:600px;">
-				<h3></h3>
+			<div id="FeatureList" style="width:600px;">
+				<h3>Div for feature list<br/>Change width, height, styling, etc. as you see fit.</h3>
 			</div>
 		</div>
 	</div>
@@ -131,13 +131,11 @@ input:focus {
 </body>	
 <script>
 var currentBiz = "None";
-var biz;
-
-function createBizVis(bizName, bizId, stars){
-		//console.log(stars);
+function createBizVis(bizName, bizId){
+		console.log(bizId);
 		$("#VisSection").removeClass("hide");
 		$("#VisSection").addClass("show");
-		$("#VisSectionHeader").html("<h3>"+bizName+"</h3><img height=\"20px\" src=\"images/"+stars+".png\" />");
+		$("#VisSectionHeader").html(bizName);
 		if(currentBiz != bizName){
 			currentBiz = bizName;
 			$("#VisBody").html("");
@@ -168,14 +166,14 @@ function toggleView(selectedView){
 var categories = [];
 var names = null;
 var categories_json = null;
-function recommend(keyword)
+function recommend( keyword)
 {
 
 	var rawFile = new XMLHttpRequest();
 	d3.json('data/categories_keywords.json', function(error, keyword_data) {
 		//console.log(data);
 		//console.log(data[keyword]);
-		console.log("000"+keyword);
+		//console.log("000"+keyword);
 		keyword = keyword.trim();
 		if(keyword_data[keyword] == null || String(keyword_data[keyword]) == 'undefined')
 		{
@@ -183,23 +181,30 @@ function recommend(keyword)
 			
 		}
 		else{
-				console.log('HERE;');
+				//console.log('HERE;');
 				str = "<ul style='left:50px'><font size ='4'>"
 				keyword_data[keyword].sort(function(a, b) { 
 				return a.relevance > b.relevance ? 1 : -1;
 				});
 				var count = 0;
+				biz_list = []
 				for(i = keyword_data[keyword].length - 1; i >= 0; i--)
 				{
-						var name = names[keyword_data[keyword][i]['business_id']];
+						var name = names[keyword_data[keyword][i]['business_id']].replace("'","");
 						var id = keyword_data[keyword][i]['business_id'];
-						var starr = biz[document.getElementById('tags').value][i]['stars'];
-						if(names[keyword_data[keyword][i]['business_id']] != undefined)
+						//console.log('*********');
+						//console.log(name.replace("'",""));
+						//console.log(currentBiz.replace("'",""));
+						//console.log("--------");
+						if(names[keyword_data[keyword][i]['business_id']] != undefined && name != currentBiz && !(keyword_data[keyword][i]['business_id']  in biz_list))
 						{
-							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\", \""+starr+"\");\'>" + name 
-							+ " <img height=\"12px\" src=\"images/"+starr+".png\" />" //+ " <small>(" + starr + " stars)</small>" 
-							+ "</a></li>";     
+							//console.log("&&&&&&&&&&&&&&&&& not same")
+							//console.log('pppppp');
+							//console.log(currentBiz);
+							//console.log(keyword_data[keyword][i]['business_id']);
+							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
 							count ++;
+							biz_list.push(keyword_data[keyword][i]['business_id']);
 						}
 						if(count == 5)
 						{
@@ -207,10 +212,14 @@ function recommend(keyword)
 						}               		
 				}
 				str += "</font></ul>";
-				document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may want to check out! (based on <i>'"+ keyword + "'</i>)</h4>" + "<br/>" + str;
+				document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may want to check out! (based on "+ keyword + ")</h4>" + "<br/>" + str;
+				if(biz_list.length == 0)
+				{
+					document.getElementById('Recommend').innerHTML = "<h4>No recommendations were found for this keyword</h4>";
+				}
 			}
 	});
-
+    
 }
 function showBusinesses()
 	{
@@ -219,23 +228,19 @@ function showBusinesses()
 		//alert(categories_json[category][0]['name'])
 		var count = 0;
 		var str = '';
-		str += "<table><tr><td style=\"vertical-align:top;\"><div class=\"businessesList\" style=\"min-width:200px\"><ul>";
-		step_size = categories_json[category].length / 5;
+		str += "<table><tr><td style=\"vertical-align:top;\"><ul>";
 		for(i = 0; i < categories_json[category].length; i++)
 		{	
 			count++;
-			if(count%step_size==0){
-				str+="</ul></div></td><td style=\"vertical-align:top;\"><div class=\"businessesList\" style=\"min-width:200px\"><ul>";
+			if(count%30==0){
+				str+="</ul></td><td style=\"vertical-align:top;\"><ul>";
 			}
 			name = categories_json[category][i]['name'].replace(/'/g, "");
 			id = categories_json[category][i]['business_id'];
-			stars = categories_json[category][i]['stars'];
-			str += "<li><div style=\"font-size:18px;\"><a id=\"searchRes\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\", \"" + stars + "\");\'>" 
-			+ categories_json[category][i]['name'] + "</a>&nbsp;&nbsp;&nbsp; " 
-			+ "<br/><img height=\"10px\" src=\"images/"+stars+".png\" /></div></li><hr/>";
+			str += "<li><a id=\"searchRes\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + categories_json[category][i]['name'] + "</a></li>";
 		}
-		str+="</ul></div></td></tr></table><br/>";
-		str = '<br/><h6><b>Search Results</b> ('+ count + ' results retrieved)</h6><br/><br/>' + str;
+		str+="</ul></td></tr></table><br/>";
+		str = '<br/><b>Search Results</b> ('+ count + ' results retrieved)<br/><br/>' + str;
 		document.getElementById('results_div').innerHTML = str;
 		
 	}
@@ -249,7 +254,7 @@ $(document).ready(function() {
 
      	categories_json = JSON.parse(data)
      	//categories = []
-     	biz = categories_json;
+     	
      	for(category in categories_json)
      	{
      		categories.push(category);
@@ -271,8 +276,9 @@ $(document).ready(function() {
      	
     }, 'text');
     
-    /*$("#VisBody").html("");	
-	createVis("Blank");*/
+    $("#VisBody").html("");
+	
+	createVis("Blank");
 });
 });
 
