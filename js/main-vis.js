@@ -230,3 +230,69 @@ function listLinking(key){
 	//$(idstr).css({'background-color':'yellow'});​
 	recommend(key);
 }
+//**********************************************************************
+var preData =
+[
+{
+"State": "1 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "2 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "3 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "4 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+},
+{
+"State": "5 Star",
+"Extremely Negative": "100",
+"Extremely Positive": "100",
+"Negative": "100",
+"Neutral": "200",
+"Positive": "100",
+"Slightly Negative": "100",
+"Slightly Positive": "100",
+"Strongly Negative": "100",
+"Strongly Positive": "100"
+}
+
+
+]
