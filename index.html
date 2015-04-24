@@ -168,14 +168,14 @@ function toggleView(selectedView){
 var categories = [];
 var names = null;
 var categories_json = null;
-function recommend(keyword)
+function recommend( keyword)
 {
 
 	var rawFile = new XMLHttpRequest();
 	d3.json('data/categories_keywords.json', function(error, keyword_data) {
 		//console.log(data);
 		//console.log(data[keyword]);
-		console.log("000"+keyword);
+		//console.log("000"+keyword);
 		keyword = keyword.trim();
 		if(keyword_data[keyword] == null || String(keyword_data[keyword]) == 'undefined')
 		{
@@ -183,23 +183,30 @@ function recommend(keyword)
 			
 		}
 		else{
-				console.log('HERE;');
+				//console.log('HERE;');
 				str = "<ul style='left:50px'><font size ='4'>"
 				keyword_data[keyword].sort(function(a, b) { 
 				return a.relevance > b.relevance ? 1 : -1;
 				});
 				var count = 0;
+				biz_list = []
 				for(i = keyword_data[keyword].length - 1; i >= 0; i--)
 				{
-						var name = names[keyword_data[keyword][i]['business_id']];
+						var name = names[keyword_data[keyword][i]['business_id']].replace("'","");
 						var id = keyword_data[keyword][i]['business_id'];
-						var starr = biz[document.getElementById('tags').value][i]['stars'];
-						if(names[keyword_data[keyword][i]['business_id']] != undefined)
+						//console.log('*********');
+						//console.log(name.replace("'",""));
+						//console.log(currentBiz.replace("'",""));
+						//console.log("--------");
+						if(names[keyword_data[keyword][i]['business_id']] != undefined && name != currentBiz && !(keyword_data[keyword][i]['business_id']  in biz_list))
 						{
-							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\", \""+starr+"\");\'>" + name 
-							+ " <img height=\"12px\" src=\"images/"+starr+".png\" />" //+ " <small>(" + starr + " stars)</small>" 
-							+ "</a></li>";     
+							//console.log("&&&&&&&&&&&&&&&&& not same")
+							//console.log('pppppp');
+							//console.log(currentBiz);
+							//console.log(keyword_data[keyword][i]['business_id']);
+							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
 							count ++;
+							biz_list.push(keyword_data[keyword][i]['business_id']);
 						}
 						if(count == 5)
 						{
@@ -207,10 +214,14 @@ function recommend(keyword)
 						}               		
 				}
 				str += "</font></ul>";
-				document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may want to check out! (based on <i>'"+ keyword + "'</i>)</h4>" + "<br/>" + str;
+				document.getElementById('Recommend').innerHTML = "<h4>Similar businesses you may want to check out! (based on "+ keyword + ")</h4>" + "<br/>" + str;
+				if(biz_list.length == 0)
+				{
+					document.getElementById('Recommend').innerHTML = "<h4>No recommendations were found for this keyword</h4>";
+				}
 			}
 	});
-
+    
 }
 function showBusinesses()
 	{
