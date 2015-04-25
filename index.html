@@ -194,6 +194,7 @@ function recommend( keyword)
 				{
 						var name = names[keyword_data[keyword][i]['business_id']].replace("'","");
 						var id = keyword_data[keyword][i]['business_id'];
+						var starr = biz[document.getElementById('tags').value][i]['stars'];
 						//console.log('*********');
 						//console.log(name.replace("'",""));
 						//console.log(currentBiz.replace("'",""));
@@ -204,7 +205,9 @@ function recommend( keyword)
 							//console.log('pppppp');
 							//console.log(currentBiz);
 							//console.log(keyword_data[keyword][i]['business_id']);
-							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name + "</a></li>";     
+							str += "<li><a id=\"reco\" href=\"#\" onclick=\'createBizVis(\""+name+"\", \""+id+"\");\'>" + name
+									+ " <img height=\"12px\" src=\"images/"+starr+".png\" />" //+ " <small>(" + starr + " stars)</small>" 
+									+ "</a></li>";     
 							count ++;
 							biz_list.push(keyword_data[keyword][i]['business_id']);
 						}
