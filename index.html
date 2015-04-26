@@ -102,9 +102,9 @@ input:focus {
 	
 	<div id="SearchBox">
 		<div id = 'query_div'>
-			<h4>Type in a business category </h4>
-			<input type='text' title='Tags' id='tags' />
-			<button style="margin-left:10px;height:40" id = 'getCategory' onclick ="showBusinesses()">Search</button>
+			<h3>Loading...</h3>
+<!-- 			<input type='text' title='Tags' id='tags' />
+			<button style="margin-left:10px;height:40" id = 'getCategory' onclick ="showBusinesses()">Search</button> -->
 		</div>
 
 		<div id ="results_div">
@@ -132,7 +132,7 @@ input:focus {
 <script>
 var currentBiz = "None";
 var biz;
-
+var category_global = 'Nightlife';
 function createBizVis(bizName, bizId, stars){
 		//console.log(stars);
 		$("#VisSection").removeClass("hide");
@@ -194,7 +194,7 @@ function recommend( keyword)
 				{
 						var name = names[keyword_data[keyword][i]['business_id']].replace("'","");
 						var id = keyword_data[keyword][i]['business_id'];
-						var starr = biz[document.getElementById('tags').value][i]['stars'];
+						var starr = biz[category_global][i]['stars'];
 						//console.log('*********');
 						//console.log(name.replace("'",""));
 						//console.log(currentBiz.replace("'",""));
@@ -228,9 +228,8 @@ function recommend( keyword)
 }
 function showBusinesses()
 	{
-		category = document.getElementById('tags').value
-		//alert(category)
-		//alert(categories_json[category][0]['name'])
+		//category = document.getElementById('tags').value
+		category = category_global;
 		var count = 0;
 		var str = '';
 		str += "<table><tr><td style=\"vertical-align:top;\"><div class=\"businessesList\" style=\"min-width:200px\"><ul>";
@@ -251,7 +250,7 @@ function showBusinesses()
 		str+="</ul></div></td></tr></table><br/>";
 		str = '<br/><h6><b>Search Results</b> ('+ count + ' results retrieved)</h6><br/><br/>' + str;
 		document.getElementById('results_div').innerHTML = str;
-		
+		$("#query_div").html("<h3>Yelp businesses for category 'NightLife'</h3>");
 	}
 $(function(){
 $(document).ready(function() {
@@ -275,17 +274,20 @@ $(document).ready(function() {
     }, 'text');
     
     $("#VisBody").html("");
-    $.get('data/yelp_business_names.json', function(data) {
-    	
-    	data.replace("'","");
-    	//alert(data.length);
-     	names = JSON.parse(data)
-     	//categories = []
-     	//alert("hello "+ names["-R6Vfo22FX33o64OLq6Ktg"]);
-     	
-    }, 'text');
+	$.when(
+		$.get('data/yelp_business_names.json', function(data) {
+			
+			data.replace("'","");
+			//alert(data.length);
+			names = JSON.parse(data)
+			//categories = []
+			//alert("hello "+ names["-R6Vfo22FX33o64OLq6Ktg"]);
+			
+		}, 'text')
+	).then(showBusinesses);
     
 });
+
 });
 
 </script>
